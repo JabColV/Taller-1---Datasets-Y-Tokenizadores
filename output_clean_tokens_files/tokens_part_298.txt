@@ -1,0 +1,5000 @@
+teroxirona
+enilospirona
+doconazol
+malotilato
+dicuafosol
+epervudina
+omonasteína
+azaconazol
+fuprazol
+indeloxazina
+tiopinaco
+flumezapina
+parconazol
+dazolicina
+paroxetina
+quinfamida
+cinecromeno
+perfosfamida
+teniloxazina
+doxpicomina
+plafibrida
+brofaromina
+etibendazol
+azumoleno
+ketoconazol
+citatepina
+asenapina
+morniflumato
+fazarabina
+tioconazol
+carocainida
+murocainida
+ciclosidomina
+tinofedrina
+talniflumato
+tianeptina
+terconazol
+gaciclidina
+nedocromilo
+fiacitabina
+fialuridina
+brivudina
+prifelona
+didanosina
+proxorfano
+lortalamina
+prifurolina
+moclobemida
+reboxetina
+bromuro tiquizio
+fludoxopona
+clodoxopona
+lodiperona
+piclonidina
+darodipino
+oxmetidina
+eltenaco
+cimoxatona
+linoglirida
+tienocarbina
+isradipino
+leflunomida
+mopidralazina
+nuclomedona
+picartamida
+lucartamida
+sorivudina
+suproclona
+flordipino
+anaxirona
+ociltida
+amorolfina
+mofezolaco
+ormeloxifeno
+taziprinona
+barucainida
+tivanidazol
+glunicato
+telenzepina
+pentiapina
+moxiraprina
+tenilapina
+ilepcimida
+espiraprilat
+lupitidina
+ramixotidina
+almoxatona
+raloxifeno
+navuridina
+netivudina
+erdosteína
+dotarizina
+itraconazol
+zinoconazol
+tubulozol
+axamozida
+minocromilo
+furegrelato
+terflavoxato
+ioduro beperidio
+setoperona
+neflumozida
+espiradolina
+tiospirona
+eprobemida
+cinoxopazida
+naxagolida
+mafosfamida
+carperitida
+voxergolida
+tiflucarbina
+cicletanina
+espiclamina
+motapizona
+oxodipino
+rocastina
+pravadolina
+bazinaprina
+midesteína
+gemcitabina
+sornidipino
+anaritida
+eltoprazina
+barmastina
+donetidina
+neltenexina
+sertaconazol
+rotigotina
+befiperida
+namiroteno
+lanoconazol
+talipexol
+binospirona
+vapreotida
+pazinaclona
+traboxopina
+elnadipino
+ipenoxazona
+cisconazol
+tacrolimús
+berefrina
+batoprazina
+risperidona
+dobuprida
+deniprida
+cevimelina
+ziconotida
+troquidazol
+lanreotida
+zaldarida
+lodenosina
+temocaprilato
+noberastina
+saperconazol
+efonidipino
+quetiapina
+mosaprida
+becliconazol
+ledoxantrona
+cronidipino
+dexpemedolaco
+pemedolaco
+trabectedina
+tiagabina
+elopiprazol
+duloxetina
+lafutidina
+tazaroteno
+ularitida
+dabelotina
+bromuro rocuronio
+elgodipino
+ilatreotida
+carzelesina
+altocualina
+nelzarabina
+loxoribina
+saviprazol
+zoniclezol
+amlintida
+isatoribina
+clofarabina
+galocitabina
+taurosteína
+enadolina
+nesiritida
+mofaroteno
+sagandipino
+camiglibosa
+ocaperidona
+tezacitabina
+icatibanto
+soretolida
+xanomelina
+tazomelina
+olanzapina
+pirsidomina
+iloperidona
+befloxatona
+lamivudina
+manifaxina
+ácido ranélico
+darsidomina
+alnespirona
+pentetreotida
+furnidipino
+vedaclidina
+fozivudina tidoxilo
+emtricitabina
+paliperidona
+olmesartán medoxomil olmesartán
+icopezilo
+escopinast
+troxacitabina
+tererstigmina
+siramesina
+eptifibatida
+napitano
+trecovirseno
+azimilida
+pramlintida
+aprinocarseno
+pleconarilo
+atibeprona
+bibapcitida
+capecitabina
+emodepsida
+ensaculina
+tilnoprofeno arbamel
+lubazodona
+clevudina
+vilazodona
+posaconazol
+adrogolida
+edotecarina
+fosfluridina tidoxilo
+omiloxetina
+prucaloprida
+elvucitabina
+arzoxifeno
+acolbifeno
+piclozotán
+abaperidona
+alicaforseno
+luliconazol
+aplindor palindor
+radafaxina
+pralnacasán
+corifolitropina
+edotreotida
+tecadenosón
+opebacán
+lusaperidona
+radequinilo resequinilo
+bulaquina
+leconotida
+artemifona
+iroxanadina
+tifenazóxido
+dianiclina
+edifoligida
+embeconazol
+valtorcitabina
+lecozotán
+ecalantida
+arasertaconazol
+valopicitabina
+furosemida
+sulfaguanidina
+sulfadimidina
+hidroclorotiazida
+clorotiazida
+sulfaquinoxalina
+acetazolamida
+sultiamo
+sulfanilamida
+tolbutamida
+sulfadiazina
+sulfatiazol
+bendroflumetiazida
+quinetazona
+clortalidona
+halazona
+sulfaclorpiridazina
+sulfametoxipiridazina
+ftalilsulfatiazol
+benzotiazida
+sulfaetidol
+clorpropamida
+propazolamida
+sulfaclozina
+bencilsulfamida
+sulfadicramida
+sulfaproxilina
+succinilsulfatiazol
+vanildisulfamida
+diclofenamida
+sulocarbilato
+sulfadimetoxina
+mesulfamida
+sulfamerazina sódica
+tosilcloramida sódica
+sulfafurazol
+sulfabenzamida
+sulfamerazina
+sulfadiasulfona sódica
+triclormetiazida
+meticlotiazida
+hidroflumetiazida
+mafenida
+carcenida
+salazosulfamida
+sulfacetamida
+sulfametizol
+sulfapiridina
+flumetiazida
+sulfaleno
+tioproperazina
+carbutamida
+politiazida
+glihexamida
+nitrosulfatiazol
+ftalilsulfametizol
+sulfacrisoidina
+estearilsulfamida
+sulfatiourea
+maleilsulfatiazol
+salazosulfatiazol
+sulfisomidina
+sulfafenazol
+sulfadiazina sódica
+sulfacarbamida
+metazolamida
+metahexamida
+sulfasalazina
+gliclopiramida
+sulfasomizol
+clopamida
+sulfametoxidiazina
+gliciclamida
+disulfamida
+clofenamida
+ditolamida
+sulfametoxazol
+sulfamoxol
+ciclopentiazida
+sulfapirazol
+acetohexamida
+tolpentamida
+heptolamida
+glioctamida
+meticrano
+tolazamida
+sulfatolamida
+sulfamonometoxina
+glipinamida
+mesilato amidefrina
+glibuzol
+paraflutizida
+eptizida
+penflutizida
+bemetizida
+etiazida
+sulfasimazina
+butizida
+clorexolona
+ciclotiazida
+salazosulfadimidina
+sulfadoxina
+sulclamida
+glidazamida
+alipamida
+tiotixeno
+delfantrina
+glimidina sódica
+sulfasuccinamida
+glisobuzol
+mebutizida
+tiamizida
+tiohexamida
+ambusida
+sulfametomidina
+sulfaclomida
+teclotiazida
+altizida
+tolpirramida
+glucosulfamida
+butadiazamida
+mefrusida
+dimetotiazina
+mesuprina
+glibenclamida
+sulfatrozol
+hidrobentizida
+xipamida
+ácido sulfalóxico
+sulpirida
+metolazona
+sulfacitina
+fenquizona
+pazóxido
+gliclazida
+sulfacecol
+diflumidona
+salazodina
+sulfatroxazol
+levosulpirida
+triflumidato
+glicetanilo
+glisolamida
+glisoxepida
+indapamida
+glibornurida
+sulfaguanol
+azosemida
+bumetanida
+glipizida
+suclofenida
+sumetizida
+glisentida
+sulfametrol
+gliquidona
+gliflumida
+besunida
+glicaramida
+glipalamida
+pipotiazina
+carmetizida
+isosulprida
+amsacrina
+nimesulida
+gliamilida
+galosemida
+glisamurida
+glicondamida
+sulfaclorazol
+piretanida
+torasemida
+satranidazol
+tizolemida
+flubeprida
+sulmeprida
+clorsulón
+monalazona disódica
+viroxima
+quisultazina
+sulfamazona
+veraliprida
+zonisamida
+ciproprida
+prosulprida
+loraprida
+tinisulprida
+glisindamida
+zinviroxima
+enviroxima
+sulveraprida
+tripamida
+zidapamida
+metibrida
+flosulida
+taltrimida
+alpiroprida
+sulosemida
+tauromustina
+besulpamida
+glimepirida
+ebrotidina
+sematilida
+sitalidona
+dofetilida
+delecuamina
+dorzolamida
+risotilida
+ibutilida
+sezolamida
+ersentilida
+artilida
+delavirdina
+brinzolamida
+tolafentrina
+osutidina
+dronedarona
+relcovaptán
+sonepiprazol
+clazosentán
+trecetilida
+tiamina
+prosultiamina
+cocarboxilasa
+monofosfotiamina
+pantotenato cálcico
+piridoxina
+cianocobalamina
+hidroxocobalamina
+mecobalamina
+cobamamida
+ácido ascórbico
+ascorbato sódico
+tocofersolán
+tretinoína tocoferilo
+tocofenoxato
+ácido fólico
+folinato cálcico
+ácido nicotínico
+fitomenadiona
+nicotinamida
+nicofolina
+difosfato sódico fitonadiol
+cetotiamina
+octotiamina
+cicotiamina
+somidobovo
+somagrebovo
+sometribovo
+somavubovo
+insulina humana
+corticorelina
+lipresina
+felipresina
+argipresina
+secretina
+ornipresina
+corticotropina
+gonadotrofina coriónica
+folitropina alfa
+gonadotrofina sérica
+tirotrofina
+intermedina
+insulina dalanatada
+calcitonina
+inyectable vasopresina
+calcitonina rata
+seractida
+calcitonin porcina
+terlipresina
+desmopresina
+glucagón
+tetracosactida
+norleusáctida
+tricosactida
+calcitonina humana
+codactida
+giractida
+calcitonina bovina
+cargutocina
+alsactida
+carbetocina
+tosactida
+calcitonina salmones
+teriparatida
+calcitonina anguila
+elcatonina
+mecasermina
+insulina argina
+nacartocina
+octreotida
+timocartina
+urofolitropina
+calcitonina pollo
+avicatonina
+ebiratida
+examorelina
+folitropina beta
+insulina glargina
+becaplermina
+liraglutida
+insulina glulisina
+teduglutida
+hormona paratiroidea
+hidrocortisona
+prednisolona
+prednisona
+cortisona
+zoticasona
+dexametasona
+parametasona
+fluprednisolona
+acetónido fluocinolona
+triamcinolona
+fludrocortisona
+fluocortolona
+isoflupredona
+fluocinónida
+betametasona
+desoximetasona
+fluorometolona
+descinolona
+fludroxicortida
+flumetasona
+fluprednideno
+drocinónida
+diflorasona
+diflucortolona
+halcinónida
+flunisolida
+acetónido fluclorolona
+fluperolona
+beclometasona
+meclorisona
+clocortolona
+triamcinolona furetónido
+acibutato betametasona
+hexacetónido triancinolona
+diclorisona
+ancinafida
+cicortónida
+tralonida
+difluprednato
+halocortolona
+dimesona
+triclonida
+acrocinonida
+triamcinolona benetónido
+fluocortina
+cormetasona
+halometasona
+amcinónida
+cloroprednisona
+clobetasona
+halopredona
+procinonida
+ciprocinonida
+flumoxonida
+alclometasona
+ticabesona
+dicibato locicortolona
+acefurato dexametasona
+tipredano
+timobesona
+enbutato icometasona
+mometasona
+itrocinónida
+amelometasona
+dicloacetato etiprednol
+benzoato estradiol
+estrona
+progesterona
+quingestrona
+noretisterona
+hidroxiprogesterona
+dimetisterona
+didrogesterona
+flugestona
+etisterona
+succinato estriol
+medroxiprogesterona
+formestano
+caproato hidroxiprogesterona
+edogestrona
+norgestrienona
+medrogestona
+valerato estradiol
+caproato gestonorona
+clormadinona
+anagestona
+estramustina
+etinerona
+haloprogesterona
+undecilato estradiol
+oxogestona
+estrapronicato
+trengestona
+clomegestona
+tibolona
+norvinisterona
+pentagestrona
+segesterona
+demegestona
+estrofurato
+almestrona
+norgesterona
+orestrato
+delmadinona
+gestrinona
+gestaclona
+clogestona
+proligestona
+fosfato poliestradiol
+amadinona
+promegestona
+norgestimato
+promestrieno
+cismadinona
+gestodeno
+trimegestona
+epostano
+osaterona
+alestramustina
+aldosterona
+noretandrolona
+oxandrolona
+prasterona
+metiltestosterona
+drostanolona
+testosterona
+desoxicortona
+metandienona
+fluoximesterona
+hidrocortamato
+metilprednisolona
+oximesterona
+pregnenolona
+cortodoxona
+metenolona
+oximetolona
+nandrolona
+mestanolona
+androstanolona
+algestona
+prednilideno
+desonida
+norboletona
+boldenona
+metribolona
+testolactona
+canrenona
+meprednisona
+cipionato oxabolona
+mesterolona
+bolmantalato
+bolasterona
+ciproterona
+tiomesterona
+formebolona
+quinbolona
+medrisona
+benorterona
+mebolazina
+mibolerona
+trestolona
+silandrona
+esteaglato prednisolona
+estenbolona
+clometerona
+prednisolamato
+prednazato
+cetolaurato testosterona
+prednazolina
+mesabolona
+trenbolona
+mazipredona
+trilostano
+calusterona
+isoprednideno
+hidroxistenozol
+deprodona
+mepitiostano
+prednimustina
+nordinona
+oxendolona
+dicirenona
+mexrenoato potásico
+rimexolona
+prorenoato potásico
+budesónida
+nisterima
+cloxotestosterona
+roxibolona
+topterona
+delanterona
+nicocortónida
+domoprednato
+drospirenona
+prednicarbato
+aceponato hidrocortisona
+espirorenona
+plomestano
+rosterolona
+mifepristona
+aceponato metilprednisolona
+mespirenona
+suleptanato metilprednisolona
+toripristona
+atamestano
+finasterida
+minamestano
+zanoterona
+eplerenona
+exemestano
+epristerida
+turosterida
+ciclesonida
+rofleponida
+abiraterona
+dutasterida
+ecamato asoprisnilo
+epinefrina
+norepinefrina
+racepinefrina
+levotiroxina sódica
+ratironina
+liotironina
+dinoprostona
+prostaleno
+sulprostona
+penprosteno
+delprostenato
+tiprostanida
+fenprostaleno
+ciprosteno
+naxaprosteno
+taprosteno
+unoprostona
+octopamina
+azasteno
+inocoterona
+rutósido
+etoxazorutósido
+gitalina amorfa
+gitoformato
+lanatósido
+deslanósido
+metildigoxina
+actodigina
+disoglúsido
+kelósido
+tenipósido
+etopósido
+tiquesida
+siagósido
+mipragósido
+pamaquesida
+oximorfona
+oxicodona
+dihidrocodeína
+hidrocodona
+tebacón
+hidromorfona
+folcodina
+nicomorfina
+etorfina
+buprenorfina
+nalorfina
+noscapina
+desomorfina
+naloxona
+normorfina
+norcodeína
+mirofina
+metildihidromorfina
+nicodicodina
+hidromorfinol
+nicocodina
+ciprenorfina
+codoxima
+diprenorfina
+metildesorfina
+homprenorfina
+naltrexona
+nalmexona
+glucurónido morfina
+nalbufina
+aletorfina
+acetorfina
+oxilorfano
+nalmefeno
+pentamorfona
+diproteverina
+conorfona
+xorfanol
+semorfona
+nalfurafina
+racefedrina
+pseudoefedrina
+catina
+metoxifedrina
+etafedrina
+fenilpropanolamina
+ritodrina
+fenetilina
+etamifilina
+aminofilina
+nicotinato xantinol
+diprofilina
+etofilina
+dimenhidrinato
+proxifilina
+piprinhidrinato
+dimabefilina
+bamifilina
+teofilinato colina
+guaifilina
+pentoxifilina
+pimefilina
+lomifilina
+teodrenalina
+metescufilina
+teofilina efedrina
+visnafilina
+triclofilina
+diniprofilina
+teoclato prometazina
+acefilina piperazina
+xantifibrato
+enprofilina
+piridofilina
+clofibrato etofilina
+propentofilina
+denbufilina
+cafedrina
+doxofilina
+acefilina clofibrol
+tazifilina
+furafilina
+mexafilina
+flufilina
+fluprofilina
+isbufilina
+laprafilina
+espirofilina
+estacofilina
+lisofilina
+tameridona
+torbafilina
+albifilina
+perbufilina
+nestifilina
+cipamfilina
+arofilina
+midaxifilina
+apaxifilina
+istradefilina
+naxifilina
+ergometrina
+ergotamina
+lisergida
+metilergometrina
+metisergida
+dihidroergotamina
+acetergamina
+propisergida
+toquizina
+metergolina
+lisurida
+metergotamina
+bromocriptina
+nicergolina
+lergotrilo
+tergurida
+tiomergina
+disulergina
+delergotrilo
+brazergolina
+etisulergina
+mesulergina
+pergolida
+desocriptina
+cianergolina
+protergurida
+cabergolina
+mergocriptina
+bromergurida
+dosergósido
+epicriptina
+romergolina
+sergolexol
+amesergida
+metanfetamina
+exatecán alidexímero
+proteobromina
+reserpina
+metonitrato atropina
+bietaserpina
+vincristina
+cloruro tubocurarina
+metilbromuro homatropina
+metilbromuro octatropina
+sirosingopina
+benzatropina
+esparteína
+lobelina
+deserpidina
+bromuro tropenzolina
+galantamina
+oxilofrina
+atromepina
+demecolcina
+cotinina
+tigloidina
+bromuro xenitropio
+psilocibina
+ácido yohímbico
+etibenzatropina
+tropiglina
+conesina
+posquina
+ciheptropina
+tiocolchicósido
+deptropina
+metoserpidina
+vinblastina
+vinglicinato
+pentifilina
+metoserpato
+decitropina
+vincamina
+bitartrato prajmalio
+mefeserpina
+cloruro fenactropinio
+óxido atropina
+vinburnina
+apovincamina
+dehidroemetina
+securinina
+clobenzotropina
+bromuro fentonio
+cloroserpidina
+acronina
+prampina
+cloruro trospio
+cloruro alcuronio
+vinrosidina
+tropodifeno
+glaziovina
+tropirina
+bromuro ipratropio
+vinleurosina
+rescinamina
+eseridina
+zucapsaicina
+bromuro butropio
+bromuro oxitropio
+cloruro dimetiltubocurarinio
+vinpocetina
+lorajmina
+bromuro cimetropio
+vindesina
+bitartrato detajmio
+vinformida
+brovincamina
+vinpolina
+acetato eliptinio
+bromuro flutropio
+tropabazato
+vincantrilo
+vinzolidina
+vinepidina
+catinona
+vinorelbina
+retelliptina
+tropaprida
+bromuro sintropio
+vinmegalato
+mesilato sevitropio
+rubitecán
+irinotecán
+cloruro datelliptio
+metilsulfato tematropio
+ricasetrón
+vinfosiltina
+topotecán
+bromuro tiotropio
+lurtotecán
+vinflunina
+exatecán
+pegamotecán
+afeletecán
+diflomotecán
+elomotecán
+belotecán
+gimatecán
+fosfructosa
+lactulosa
+tribenósido
+nicofuranosa
+cloralosa
+clobenósido
+salprotósido
+sucralfato
+mebenósido
+amiprilosa
+sucrosofato
+lactalfato
+glufosfamida
+seprilosa
+taflupósido
+amoxicilina
+ampicilina
+metampicilina
+pivampicilina
+meticilina
+bencilpenicilina
+cloxacilina
+oxacilina
+fenoximetilpenicilina
+almecilina
+nafcilina
+feneticilina
+adicilina
+propicilina
+penicilinabenetamina
+penamecilina
+benzatina bencilpenicilina
+quinacilina
+fenbenicilina
+clometocilina
+dicloxacilina
+ciclacilina
+hetacilina
+levopropicilina
+carbenicilina
+isopropicilina
+flucloxacilina
+clemizolpenicilina
+feniracilina
+amantocilina
+prazocilina
+azidocilina
+suncilina
+tifencilina
+epicilina
+carfecilina
+ticarcilina
+carindacilina
+azlocilina
+sarpicilina
+sulbenicilina
+talampicilina
+bacampicilina
+fibracilina
+mezlocilina
+oxetacilina
+furbucilina
+rotamicilina
+pirbenicilina
+tameticilina
+piperacilina
+aspoxicilina
+apalcilina
+temocilina
+fuslocilina
+sarmoxicilina
+piridicilina
+sultamicilina
+fumoxicilina
+piroxicilina
+lenampicilina
+fomidacilina
+tobicillina
+clortetraciclina
+tetraciclina
+oxitetraciclina
+demeclociclina
+doxiciclina
+rolitetraciclina
+sanciclina
+metaciclina
+demeciclina
+limeciclina
+pipaciclina
+clomociclina
+meclociclina
+penimepiciclina
+nifurciclina
+amiciclina
+minociclina
+pecociclina
+etamociclina
+apiciclina
+penimociclina
+guameciclina
+megluciclina
+colimeciclina
+tigeciclina
+cloramfenicol
+azidanfenicol
+tianfenicol
+pantotenato cloramfenicol compuesto
+claritromicina
+estinoprato eritromicina
+acistrato eritromicina
+actagardina
+cefaloridina
+dactinomicina
+cicloheximida
+cicloserina
+azaserina
+lincomicina
+xantocilina
+estalimicina
+colistina
+fusafungina
+amfotericina
+candicidina
+mitogilina
+tirotricina
+vancomicina
+espectinomicina
+rifamida
+rufocromomicina
+cumamicina
+carbomicina
+ácido fusídico
+cactinomicina
+cefacetrilo
+capreomicina
+mitocarcina
+clindamicina
+plicamicina
+sicanina
+sedecamicina
+ácido micofenólico
+ceftezol
+benaxibina
+colistimetato sódico
+mirincamicina
+pivmecilinam
+mecilinam
+cefamandol
+midecamicina
+betamicina
+cefoxazol
+actaplanina
+flurocitabina
+bicozamicina
+cefradina
+cefuracetima
+bacmecilinam
+carubicina
+cefatrizina
+cefaparol
+cefroxadina
+micronomicina
+cetociclina
+cefsumida
+cefuroxima
+cefazedona
+nosheptida
+cefmetazol
+aclarubicina
+ciclosporina
+ceforanida
+teicoplanina
+rifapentina
+cefoperazona
+cefotaxima
+cefmenoxima
+abamectina
+cefetrizol
+ceftizoxima
+cefodizima
+cefpiramida
+ceftióxido
+ceftazidima
+ceftriaxona
+mirosamicina
+cefbuperazona
+ceftioleno
+cefixima
+cefdaloxima
+cefpodoxima
+cefpimizol
+cefpiroma
+cefquinoma
+cefepima
+trospectomicina
+rifametano
+cefcanel daloxato
+nemadectina
+daptomicina
+cefempidona
+cefclidina
+cloruro cefmepidio
+tilmicosina
+terdecamicina
+doramectina
+becatecarina
+quinupristina
+eprinomectina
+ceftizoxima alapivoxilo
+cefcapeno
+patupilona
+dimadectina
+tebipenem pivoxilo tebipenem
+caspofungina
+ceftobiprol
+ixabepilona
+micafungina
+latidectina
+ceftobiprol medocarilo
+estibogluconato sódico
+defibrotida
+heparina sódica
+sulglicotida
+interferón gamma
+interferón alfacón
+antitrombina III humana
+cantuzumab mertansina
+fibrina humana
+drotrecogina alfa activada
+eptacog alfa activado
+hemoglobina crosfumarilo
+tifacogina
+ilodecakina
+fibrina bovina
+aviscumina
+zinostatina estimalámero
+suspension insulina cinc amorfa
+suspension insulina cinc cristalina
+suspension insulina cinc compuesta
+insulina isófana
+inyectable insulina bifásica
+corticotropina hidróxido zinc
+mercurofilina
+meralurida
+mercumatilina sódica
+triclofenato alazanina
+solucion cloruro sódico compuesta
+solucion lactato sódico compuesta
+morruato sódico
+salicilato carbazocromo
+alexitol sódico
+inyectable neutro insulina
+inyectable insulina cinc protamina
+inyectable insulina cinc globina
+palmitato xantofilo
+anazoleno sódico
+olsalazina
+cloruro tolonio
+cloruro metilrosanilina
+embonato pararosanilina
+betacaroteno
+oftasceína
+cloruro benzalconio
+benzonatato
+poloxámero
+polisorbato
+polisorbato
+polisorbato
+polisorbato
+polisorbato
+polisorbato
+polisorbato
+polisorbato
+polisorbato
+polisorbato
+polisorbato
+sulfato protamina
+eufauserasa
+brinasa
+bromelaína
+kalidinogenasa
+hialuronidasa
+rizolipasa
+penicilinasa
+estreptoquinasa
+trombina bovina
+fibrinolisina humana
+tilactasa
+uroquinasa
+ancrodo
+promelasa
+glucarpidasa
+sutilaína
+serrapeptasa
+hialosidasa
+estreptodornasa
+idursulfasa idusulfasa
+ocraso
+esfericasa
+anistreplasa
+saruplasa
+nasaruplasa
+urokinasa alfa
+agalsidasa alfa
+agalsidasa beta
+alteplasa
+sudismasa
+duteplasa
+pegaspargasa
+silteplasa
+reteplasa
+rasburicasa
+nasaruplasa beta
+alglucerasa
+dornasa alfa
+desmoteplasa
+ledismasa
+amediplasa
+pamiteplasa
+imiglucerasa
+monteplasa
+nateplasa
+tenecteplasa
+ranpirnasa
+epafipasa
+laronidasa
+alfimeprasa
+alglucosidasa alfa
+galsulfasa
+cetrimida
+cloruro acriflavinio
+porfímero sódico
+laurato sorbitán
+estearato sorbitán
+oleato sorbitán
+sesquioleato sorbitán
+palmitato sorbitán
+triestearato sorbitán
+apolato sódico
+crospovidona
+policarbofilo
+mureletecán
+polisorbato
+polietadeno
+ácido poliglicólico
+poliglecaprona
+policresuleno
+cloruro polidronio
+cloruro polixetonio
+colestilán
+polihexanida
+carbetímero
+croscarmelosa
+metilcelulosa
+celaburato
+celacefato
+certoparina sódica
+minolteparina sódica
+nadroparina calcica
+parnaparina sódica
+pentosano polisulfato sódico
+reviparina sódica
+tinzaparina sódica
+poligelina
+colextrán
+deligoparina sódica
+enoxaparina sódica
+ardeparina sódica
+dalteparina sódica
+detralfato
+poligeenán
+suleparoide sódico
+sulodexida
+danaparoide sódico
+acemanán
+livaraparina cálcica
+colestiramina
+polacrilina
+sulfato polidexida
+ANEXO
+LISTA PREFIJOS SUFIJOS DESCRIBAN COMBINACIÓN DCIS ANEXO SALES ÉSTERES HIDRATOS DCIS DICHAS SALES ÉSTERES HIDRATOS ADMITEN FRANQUICIA CONDICIÓN PUEDAN CLASIFICAR SUBPARTIDA DÍGITOS SA DCI CORRESPONDIENTE
+sigla DCIQS refiere denominaciones químicas sistemáticas enumeradas denominaciones comunes internacionales DCI sustancias farmacéuticas radicales grupos conforme lista general
+sigla DCIRG referencia denominaciones comunes internacionales DCI sustancias farmacéuticas denominaciones radicales grupos conforme lista general
+sigla DCI significa denominaciones comunes internacionales sustancias farmacéuticas Organización Mundial Salud
+utilizar sinónimos denominaciones sistemáticas
+Prefijo sufijo elegido
+Sinónimos
+Denominación sistemática caso diferir
+acefurato DCIRG
+acetato éster furanocarboxilato éster DCIQS
+aceglumato DCIRG
+racNmetilhidrógenoglutamato DCIQS
+aceponato DCIRG
+acetato éster propanoato éster DCIQS acetato
+acetilsalicilato
+acetiloxibenzoato
+acetónido DCIRG
+propanodiilbisoxi DCIQS
+aceturato DCIRG
+acibutato DCIRG
+acetato éster metilpropanoato éster DCIQS
+acistrato DCIRG
+acetato éster octadecanoato éster DCIQS
+acoxilo DCIRG
+acetiloximetilo DCIQS
+alfoscerato DCIRG
+hidrógenofosfato Rdihidroxipropilo DCIQS
+bromuro alilo
+yoduro alilo
+Nalilo yoduro sal
+aminosalicilato
+hidroxiaminobenzoato
+amonio
+amsonato DCIRG
+etenodiilbisaminobencenosulfonato DCIQS
+metoxifeniloxoetilo DCIQS
+antipirato
+argina DCIRG
+BαLargininaBβLarginina DCIQS
+arginina DCI
+inmunotoxina obtenida acoplamiento anticuerpo monoclonal cadena ricina DCIQS
+ascorbato
+BácidoLaspártico DCIQS
+aspartato
+barbiturato
+HHHpirimidinetriona bencilbromuro
+bromuro bencilo Nbencilo bromuro sal bencilioduro yoduro bencilo Nbencilo yoduro sal bencilo benetónido DCIRG
+benzatina
+besilato DCIRG
+bismuto
+borato
+bromuro DCIRG
+buciclato DCIRG
+transbutilciclohexanocarboxilato DCIQS
+bunapsilato DCIRG
+ditercbutilnaftalenodisulfonato DCIQS
+buteprato DCIRG
+butilbromuro
+tercbutil
+tbutil terciariobutil
+camsilato DCIRG
+canfosulfonato Rcanfosulfonato Scanfosulfonato canfosulfonato
+dimetiloxobicicloheptanilmetanosulfonato DCIQS
+ciclohexilpropanoato ciclotato DCIRG
+metilbiciclooctenocarboxilato DCIQS
+ciclopentilpropanoato DCIQS ciclopentanopropionato citrato
+clorofenoximetilpropilo DCIQS cloruro DCIRG
+cloruro hierro
+closilato DCIRG pclorobencenosulfonato
+clorobencenosulfonato DCIQS clorobencenosulfonato colina
+hidroxietiltrimetilamonio crobefato DCIRG
+racfosfato Emetoxibencilidenometoxifenilcromanilo DCIQS
+cromacato DCIRG
+hidroximetiloxoHcromeniloxiacetato DCIQS
+cromesilato DCIRG
+dapropato
+dimetilaminopropanoato DCIQS
+dibunato DCIRG
+carbonato diciclohexilmetilo DCIQS
+dietilamina
+dietilamonio
+hidroxietoxietilo DCIQS
+Ndimetilbetaalanina
+dinitrobenzoato
+diolamina DCIRG
+dietanolamina
+disulfuro
+docosilo DCIRG
+hidrógenofosfato octadecilo DCIQS
+ecamato DCIRG
+Netilcarbamato DCIQS
+edamina DCIRG
+etanodiamina DCIQS
+edisilato DCIRG
+etanodisulfonato
+etanodisulfonato DCIQS
+embonato DCIRG
+pamoato metilenbishidroxinaftoato
+metilenbishidroxinaftalenocarboxilato DCIQS
+enantato DCIRG
+heptanoato DCIQS
+enbutato DCIRG
+acetato éster butanoato éster DCIQS
+epolamina DCIRG
+pirrolidiniletanol
+pirrolidiniletanol DCIQS erbumina DCIRG
+esilato DCIRG etanosulfonato
+etanosulfonato DCIQS esteaglato DCIRG
+octadecanoiloxiacetato éster DCIQS
+estearato DCIRG
+octadecanoato DCIQS éster etilo éster metilo
+éster propilo estinoprato DCIRG
+Nacetilcisteinato sal propanoato éster DCIQS
+estolato DCIRG sulfato propionato dodecilo sulfato propionato laurilo
+propanoato éster sulfato dodecilo sal DCIQS
+etabonato DCIRG
+carbonato etilo DCIQS
+etilamonio
+etilbromuro
+bromuro etilo
+Netilo bromuro sal
+etilenantato etilheptanoato
+etilendiamina
+etanodiamina
+etilhexanoato
+Netilo yoduro sal
+etilo
+etilsuccinato
+etilsulfato DCIRG
+sulfato etilo
+sulfato etilo DCIQS
+farnesilo DCIRG
+EEtrimetildodecatrienil DCIQS
+hidroxibifenilcarbonilbenzoato DCIQS
+fenilpropionato
+fluorosulfonato fluoruro
+formiato
+fosfatex
+fosfato
+ortofosfato
+fosfito
+fostedato DCIRG
+hidrógenofosfato tetradecilo DCIQS
+ftalato bencenodicarboxilato
+fumarato
+Ebutenodioato
+furetónido DCIRG
+benzofuranocarboxilato éster propanodiilbisoxi DCIQS
+furoato
+furano carboxilato
+fusidato
+gadolinio
+gamolenato DCIRG
+ZZZ octadecatrienoato DCIQS
+glargina DCIRG
+AglicinaBαLargininaBβLarginina DCIQS glicolato
+hidroxiacetato
+glioxilato oxoacetato glucarato sacarato
+RSSStetrahidroxihexanodioato Dglucarato
+gluceptato DCIRG
+glucoheptonato
+DgliceroDguloheptonato DCIQS
+gluconato
+BLlisinaBLácido glutámico DCIQS
+glutámero DCIRG
+hemisuccinato DCIRG
+hidrógeno succinato
+hidrógenobutanodioato DCIQS
+hexacetónido DCIRG
+dimetilbutanoato éster propandiilbisoxi DCIQS
+hibenzato DCIRG
+hibenzato
+etanol cloruro hidrógeno agua DCIQS
+hidrato
+hidrobromuro
+hidrocloruro
+hidrógeno
+hidrógeno hidrogenado
+hidroxibenzoato
+hidroxibenzoilbenzoato
+hidroxinaftoato
+hidroxinaftalenocarboxilato DCIQS hierro hipurato
+Nbenzoilglicina sal
+iodina
+ioduro DCIRG
+isetionato DCIRG
+hidroxietanosulfonato
+hidroxietanosulfonato DCIQS
+isobutirato
+metilpropanoato
+isocaproato
+metilpentanoato
+isoftalato
+bencenodicarboxilato
+isonicotinato
+isopropil
+propanilo isoproprionato
+lactato
+hidroxipropanoato
+lactobionato
+OβDgalactopiranosilDgluconato
+laurato DCIRG
+dodecanoato DCIQS
+laurilo DCIRG
+laurilo
+dodecilo DCIQS
+laurilsulfato DCIRG
+sulfato laurilo sulfato dodecilo DCIQS
+oxopentanoato
+Llisinato éster dietílico éster DCIQS
+lisicol DCIRG
+NScarboxiαααtrihidroxiβcolanamidopentilcarbamotioilamino DCIQS
+lisina DCI lispro DCIRG
+litio
+lutetio
+alaninaenterotoxina Staphylococcus aureus INNCN
+magnesio
+malato
+hidroxibutanodioato
+maleato
+Zbutenoato
+malonato
+propanodioato
+mandelato
+hidroxifenilacetato αhidroxibencenoacetato
+megallato DCIRG
+trimetoxibenzoato DCIQS
+meglumina DCI
+nmetilglucamina
+N’oxopropiletanodiilbissulfanilacetamidato DCIQS
+mertansina DCIRG
+tetrakisRSSSRSSSEERSclorohidroxitetrametil dimetoxidioxadioxodiazatetraciclohexacosapentaeniloximetiloxoetilmetilaminooxopropildisulfanilpentanoilo DCIQS
+mesilato DCIRG
+sulfonato metano
+metanosulfonato DCIQS
+metembonato DCIRG
+metilbromuro DCIRG
+bromuro metilo
+metilendisalicilato
+metilenbishidroxibenzoato
+metilsulfato DCIRG
+sulfato metilo
+sulfato metilo DCIQS metioduro DCIRG
+yoduro metilo
+Nmetilo ioduro sal DCIQS
+metonitrato DCIRG
+Nmetil nitrato sal DCIQS
+morfoliniletilo DCIQS
+mucato
+galactarato mesogalactarato
+tetrahidroxihexanodioato
+nafato
+formiato sódico
+formiloxi éster sodio sal
+napadisilato DCIRG
+napadisilato disulfonato naftaleno
+naftalenodisulfonatoDCIQS
+napsilato DCIRG
+sulfonato naftaleno
+naftalenosulfonatoDCIQS
+nicotinato DCIRG
+piridinacarboxilato DCIQS
+nitrato
+nitrobenzoato
+octilo DCIRG
+octilo DCIQS
+olamina DCIRG
+etanolamina
+oleato DCIRG
+Zoctadecenoato DCIQS oro
+orotato
+tetrahidrodioxopirimidinacarboxilato
+oxalato
+óxido
+oxoglurato DCIRG
+oxohidrógenopentanodioato DCIQS
+palmitato DCIRG
+hexadecanoato DCIQS
+pantotenato
+Ndihidroxidimetiloxobutilβalaninato
+αcarboxietilωmetoxipolioxietanodiil DCIQS
+pendetida DCI
+trinitrobencenoolato piridilacetato
+acetato piridinilo
+pivalato DCIRG acetato trimetilo
+dimetylpropanoato éster DCIQS
+potasio potásico sal potasio
+potasio DCIQS
+propanoato
+racpropaniloxicarboniloxietilo DCIQS
+quinato
+tetrahidroxiciclohexanocarboxilato
+SRRSSStetrakishidroximetiltrisilometilpentaoxatetradecanodiilo DCIQS
+resinato
+abietato
+RaRbRaRadimetilmetiletilabadecahidrofenantrenocarboxilato
+salicilato DCIRG
+hidroxibenzoato DCIQS
+saliciloilacetato
+hidroxibenzoilacetato
+sesquioleato DCIRG
+LhistidinaLmetioninaLalaninaácidoLglutámicoexotoxina Pseudomonas aeruginosa reducida DCIQS
+suleptanato DCIRG
+hidroxisulfobenzoato
+sulfoxilato DCIRG
+sulfinometilo sal monosódica DCIQS
+tartrato DCIRG
+Ltartrato
+RRdihidroxibutanodioato DCIQS Ltartarato
+Dtartrato
+SSdihidroxibutanodioato Dtartarato
+tebutato DCIRG
+tercbutilacetato tbutil acetato terciario butil acetato
+dimetilbutanoato DCIQS
+tenoato DCIRG
+tiofenocarboxilato DCIQS
+teoclato DCIRG
+cloroteofilinato
+clorodimetildioxodihidroHpurinHuro DCIQS
+teprosilato DCIRG
+dimetildioxotetrahidroHpurinilpropanosulfonato DCIQS
+tetrahidroftalato
+ciclohexanodicarboxilato
+NSbiscarboximetilaminoRSbiscarboximetilaminopropilcarboximetilaminopropilfeniltiocarbamoilo DCIQS
+tocoferilo DCIRG
+dimetildioxotetrahidroHpuriniletanosulfonato DCIQS
+metilbencenosulfonato DCIQS
+triclofenato DCIRG
+trifluoroacetato DCIQS
+trioleato DCIRG
+Zoctadecenoato trisZoctadecenoato DCIQS
+trolamina DCIRG
+trietanolamina
+trometamina
+aminohidroximetilpropanodiol trishidroximetilmetilamina
+troxundato DCIRG
+etoxietoxietoxiacetato DCIQS
+undecilato DCIRG
+undecanoato DCIQS
+undecilenato DCIRG
+undecenoato DCIQS
+valerato DCIRG
+pentanoato DCIQS
+xinafoato DCIRG
+hidroxinaftalenocarboxilato DCIQS
+ANEXO
+SALES ÉSTERES HIDRATOS DCIS ESTÉN CLASIFICADOS PARTIDA SA DCIS CORREPONDIENTES ADMITAN FRANQUICIA
+Cõdigo
+Sal éster hidrato DCI
+ácido glutámico
+Lglutamato arginina
+carbenoxolona sal dicolina
+carbamato clorfenesina
+diacetato dienestrol
+dibutirato dietilestilbestrol
+dipropionato dietilestilbestrol
+dihidrogenofosfato enoxolona
+carbamato etclorvinol
+dibutirato hexestrol
+dipropionato hexestrol
+teoclato fenmetrazina
+ANEXO
+LISTA PRODUCTOS INTERMEDIOS FARMACÉUTICOS EJEMPLO MEZCLAS UTILIZADAS FABRICACIÓN PRUDUCTOS FARMACÉUTICOS ACABADOS ADMITAN FRANQUICIA
+alfaDglucopiranosiltiooro
+dimetilaminoetoxiCfenildifenilbutanol
+etinilciclopropano
+bromometilciclopropano
+alfadiclorotolueno
+clorobisfluorofenilbutano
+cloroclorodifenilmetilbenceno
+alfadibromofluorotolueno
+cloroalfa alfa alfatrifluoronitrotolueno
+nitrotetracloroetilbenceno
+EEEtetrametilhexadecatetraenol
+trimetildodecatrienol
+RRbismesiloxibutanodiol
+trifluoroetanol
+clorohidroxibutanosulfonato sodio
+Rcloropropanodiol
+Scloropropanodiol
+fenilpropanodiol
+ptoluenosulfonato SRfluorohidroxiisopropiltetrahidronaftiletilo
+Rbistrifluorometilfeniletanol
+difluoroabtetrahidrodibenzoa eciclopropacanulenol
+dihidronaftol
+trimetilhidroquinona
+bromoetoxietoxibenceno obromoetil etoxifenil éter
+bromonaftil metil éter
+cloroetilo nitrofenilo éter
+cloropropil xilil éter
+bismetoxietoxietoxietoxidinitrobenceno
+Smesiloxietoxitritiloxibutil metanosulfonato
+ciclopropilmetoxietilfenol
+hidroxihidroximetoxifenilpropanosulfonato sodio
+Rcloroepoxipropano
+epoxipropil metoxietilfenil éter
+Stritiloximetiloxirano
+diisopropoxiciclohexano
+alfa alfadimetoxinitrotolueno
+dimetoximetoxietoxietano
+dihidroetanoantracenilacrilaldehído
+ditercbutilhidroxibenzaldehído
+trihidroxibenzaldehído
+metoxinaftaldehído
+clorobifenilcarbaldehído
+metilvalerofenona
+dihidroHdibenzoa dcicloheptenona
+Hdibenzoa dcicloheptenona
+alfahidroxipregnenodiona
+alfatrihidroxibetametilpregnadienodiona
+metoxifenilbutanona
+betabetaepoxialfadihidroxibetametilenpregnadienodiona
+metoxitetrahidronaftona
+dimetoxiindanona
+benciloxifenilpropanona
+dihidroxifenilhidroxifeniletanona
+betabetaepoxidihidroxialfametilpregnadienodiona
+hidroxitetrahidronaftona
+Rhidroxihidroxifenilacetona
+dicloroacetona
+clorometoxifeniletanona
+diclorohidroxifenilbutanona
+clorofluorobutirofenona
+tricloroacetofenona
+metoxitrifluorometilfeniletanona
+tercbutilclorobutirofenona
+benciloxinitrofenilbromoetanona
+bromohidroxihidroximetilfeniletanona
+diclorofenildihidronaftalenHona
+clorobetabetaepoxihidroxialfametilpregnadienodiona
+SdiclorofenildihidronaftalenHona
+difluorofenilpropanona
+benciloxialfafluorobetaalfadihidroxialfametilpregnadienodiona
+cloroalfametilpregnatrienodiona
+transcloroclorofenilciclohexilnaftoquinona
+difluoroindanona
+bromopropoxifenilhidroximetoxifenilmetanona
+acetato alfahidroxibetametildioxopregnatrienilo
+acetato oxopregnadienbetailo
+oxofeniletil acetato
+acetato alfahidroxidioxopregnadienoilo
+acetato hidroxialfametildioxopregnatrienilo
+acetato acetoxiacetilbencilo
+acetato alfahidroxialfametildioxopregnadienilo
+acetato alfahidroxibetametildioxopregnadienilo
+acetato dioxopregnatetraenilo
+SRhidroxiciclopentenil acetato
+acetato acetoximetiliodobutilo
+acetato acetoximetilbenciloxibutilo
+bromometilpropil propionato
+cloroformiato pentilo
+metoxifenil cloroformato
+pivalato clorometilo
+ácido ciclobutanocarboxílico
+difluorociclohexanoácido carboxílico
+SSbisbenzoiloximetilciclobutanona
+SSSbisbenzoiloximetilciclobutanol
+fenilbutanoato sodio
+bromometilbenzoato metilo
+ácido clorofenilacético
+etil metilfenilpropanoato
+ácido triisopropilfenilacético
+ácido bromodifenilbutírico
+ácido transpclorofenilciclohexanocarboxílico
+ácido Sfluorofenilmetilbutírico
+ácido clorodifluorobenzoico
+tertbutil bromometilbifenilcarboxilato
+ácido dibromofluorootoluico
+ácido bromoclorofenilacético
+bismalonato nitrobencilo magnesio dihidrato
+dipropilmalonato dietilo
+cloromalonato dimetilo
+ácido Eoctenodioico
+bromopropanotricarboxilato trietilo
+hidrogenofenilmalonato fenilo
+hidrogenofenilmalonato indanilo
+ácido dibenzoilLtartárico
+gluconato lactato calcio
+ácido RSRtrihidroxiciclohexenocarboxílico
+ácido Dmandélico
+Rhidroxibutirato metilo
+ácido ciclohexilhidroxifenilacético
+DLmandelato etilo
+ácido Sciclohexilhidroxifenilacético
+formiato Ralfaclorocarbonilbencilo
+acetato Salfacloroformiletilo
+ácido Rclorofenilhidroxiacético
+ácido RRSdihidroxiEShidroxioctenilciclopentilacético
+RRSSRSaRahexahidrodimetilSmetilbutiriloxinaftildihidroxiheptanoato amonio
+Rfenilhidroxibutirato etilo
+RSRisopropilmetilciclohexil dihidroxiacetato timol glioxilato
+RRSSRSaRdimetilbutiriloxiahexahidrodimetilnaftildihidroxiheptanoato amonio
+SRhidroxiisobutilsuccinato disodio
+dihidroxibenzoato etilo
+acetato cloroformilotolilo
+ácido acetoxiotoluico
+ácido oxoandrostenobetacarboxílico
+ácido aSSaSametildioxooctahidroHindenilpropiónico
+ácido RSbenzoilfenilpropiónico
+etil Enitrobencilidenooxobutanoato
+nitrobencilidenoxobutirato metilo
+metoxietil Enitrobencilidenooxobutanoato
+metil Enitrobencilidenooxobutanoato
+ácido Rbenzoilfenilpropiónico
+oxofenilbutirato etilo
+clorooxoheptanoato etilo
+clorodifluorofenilhidroxiacrilato etilo
+etil oxobiciclohexanocarboxilato
+ácido fluorofeniloxopentanoico
+etoximetilenmalonato dietilo
+ácido butirildiclorofenoxiacético
+ácido dimetilfenoxiacético
+ácido RSmetoxinaftilpropiónico
+ácido alfadifluorobetaalfadihidroxialfametiloxoandrostadienobetacarboxílico
+glioxiloilsalicilato metilo hidrato
+ácido fenilbutoxibenzoico
+clorooanisato metilo
+RShidroxioxociclopentenilheptanoato metilo
+bromometilmanisato metilo
+RSepoximetoxifenilpropionato metilo
+epoxibutirato isobutilo
+dimetil metoxifenoximalonato
+etil SRSetilpropoxioxabicicloheptenocarboxilato
+carbonato Rpropileno
+carbonato clorometilo isopropilo
+clorometilmetildioxolona
+dióxido RRbismesiloximetildioxatiolano
+fosforofluoridato diisopropilo
+nitrooxibutil Smetoxinaftilpropanoato
+cloroetildiisopropilamina clorhidrato
+cloruro cloropropildimetilamonio
+aminoetildietilamina
+Nbisetilaminopropilpropanodiamina tetraclorhidrato
+Stercbutoxicarbonilmetoxietoxipropilciclopentanocarboxilato ciclohexilamonio
+dicloruro aminoclorobencenodisulfonilo
+alfa alfa alfatrifluoronitromtoluidina
+alfa alfa alfa alfaalfaalfahexafluoroxilidina
+alfaalfaalfatrifluoroxilidina
+bencilmetilamina
+cloruro Hdibenzoa dcicloheptenilpropildimetilamonio
+Sfenilpropanamina
+trietilanilina
+difluorobencilamina
+cloruro transdiclorofeniltetrahidronaftilmetilamonio
+triclorovinilanilina clorhidrato
+clorofenilciclobutilmetilbutanamina
+etildifenilbutenilamina
+ZNciclohexilclorofenilpropenilNetilciclohexilamina clorhidrato
+metilnitrofenetilamina clorhidrato
+Rclorofenilciclobutilmetilbutanamina Dtartarato
+Sclorofenilciclobutilmetilbutanamina Dtartarato
+diacetato Ndibenciletilendiamonio
+Ndibenciletanodiamina diacetato
+aminopropanodiol
+dimetilaminopropildihidrodibenzoa dcicloheptenol
+desoxioctilaminoDglucitol
+SRdimetilaminometildifenilbutanol
+metilaminofenilpropanol
+acetoacetato bencilmetilaminoetilo
+benciloxiαtertbutilaminometilbencenodimetanol
+dimetilaminofenilbutanol
+dimetilaminoetoxifenilbutirofenona
+Zdimetilaminoetoxifenilfenilbutenilfenol
+RNmetilfeniltrifluorometilfenoxipropanamina hidrocloruro
+NmetilNnitrofenotilnitrofenoxi etanamina
+RSRSSRbisbenzoiloximetilciclobutilamina
+Saminoclorofenilciclopropiltrifluorobutinol
+SRaminociclopentenilmetanol hidrocloruro
+aminoclorofeniltrifluoroetanodiol hidrocloruro
+Saminoclorofenilciclopropiltrifluorobutinol metanosulfonato
+dimetoxifenetilamina
+betametildimetoxifenetilamina
+aminofenoxietilmetilaminoetilanilina
+Shidroxifenilácido acético RNbencilmetoxifenilpropanamina sal
+clorofluorobenciloxianilina
+aminoclorofluorobenzofenona
+aminocloronitrobenzofenona
+aminodiclorobenzofenona
+ENmetilanilinoacrilaldehído
+Saminodibencilaminodifenilhexenona
+dexibuprofeno lisina DCIM
+ácido aminobutírico
+Dalfafenilglicina
+nitrofenilLalanina
+RNetoximetiloxopropenilfenilglicina potasio
+Lglutamato dietilo clorhidrato
+RNmetilmetoxioxopropenilfenilglicinato sodio
+aminocrotonato metilo
+ciclohexadienilglicina
+ciclohexadienilEmetoxioxobutenilaminoacetato sodio
+RNmetilmetoxioxopropenilfenilglicinato potasio
+ácido aminotriiodoisoftálico
+dicloruro aminotriiodoisoftaloilo
+cloruro alfacloroformilbencilamonio
+Lalaninato bencilo–ácido ptoluenosulfónico
+aminobutenoato Nmetilbencilaminoetilo
+tosilato cisbenciloxicarbonilciclohexilamonio
+nitrofenilLalaninato metilo
+SNetoxicarbonilfenilpropilalanina
+aminodibromootoluato metilo
+ácido aminometilmetilhexanoico
+Saminopentinoato etilo clorhidrato
+aminobiciclohexanodiácido carboxílico hidrato
+ácido SSaminometildimetilciclopentilacético
+clorodifluorobenzoildifluoroanilinoacrilato etilo
+ácido aminoclorometoxibenzoico
+hidroximetilaminoetilfenol–ácido Ltartárico
+Dhidroxifenilglicina
+benciltercbutilaminoalfadihidroximtoliletanol
+cloruro benciltercbutilhidroxihidroximetiloxofenetilamonio
+RhidroxifenilNmetilmetoxioxopropenilglicinato sodio
+benciloximetilfenoxietilaminopropiofenona clorhidrato
+Rtertbutilaminohidroxietilhidroximetilfenol hidrocloruro
+aminonitrooanisato metilo
+ácido SSaminohidroxifenilbutanoico
+RhidroxifenilNmetilmetoxioxopropenilglicinato potasio
+bencilmetilaminohidroxifeniletanona hidrocloruro
+SRaminoShidroxietilhidrogenoglutarato metilo
+aminohidroxiacetofenona clorhidrato
+benciloxifenilfenilbutanilaminopropanona
+SRclorofenilhidroxietilaminotetrahidronaftiloxiacetato etilo clorhidrato
+Rbenciloxihidroximetilfeniltertbutilaminoetanol
+metil NbenzoilfenilLtirosinato
+metil NbenciloxicarbonilvalilDaloisoleuciltreonilnorvalinato
+dioleoilsnglicerofosfocolina
+OmetilOoctadecilsnglicerofosfocolina
+cloruro carbamoiloxipropiltrimetilamonio
+Nhidroxietillactamida
+Lasparraguina hidrato
+deoxiformamidohexitol
+NNtercbutoxicarbonilLalanilLalanina hidrato
+etilmetilaminoacetamida
+ácido Sformamidoformiloxipropiónico
+SaminohidroxiNpentilpropionamida–ácido oxálico
+NmetoxicarbonilmetilLvalina
+ácido Stertbutoxicarbonildimetilpropanoiloximetilpentanoico
+dioleoilsnglicerofosfoNcarboxibutanoiletanolamina
+cloroNclorobenzoilnitrofenilacetamida
+cloruro Nacetilsulfanililo
+NbenciloxicarbonilLvalina
+bromoclorofluorobenzoilacetanilida
+metilNalfa alfa alfatrifluoromtolilpropionamida
+NbenciloxicarbonilDLvalina
+acetamidooanisato metilo
+acetamidoclorooanisato metilo
+Raminofenilacetamida
+formilNisopropilbenzamida
+ácido aminohidroxietilcarbamoiltriyodobenzoico
+ácido acetamidoclorooanísico
+NacetildimetoxifenilDLalanina
+Nacetiloxiranilmetoxifenilbutanamida
+Ndibencilglicilsalicilamida
+RSbenzamidofenilhidroxipropionato metilo
+NHfluorenilmetoxicarbonilLalanina
+NHfluorenilmetoxicarbonilLleucina
+acetilsalicilamida
+acetilhidroxibutiranilida
+ácido Sbenciloxicarbonilaminohidroxibutanoico
+benzoilbromocloroacetanilida
+NmetoxicarbonilLfenilalaninato metilo
+bencil SRcarbamoilhidroxipropilcarbamato
+ácido diacetamidotriiodobenzoico dihidrato
+hidroximetilnitrotrifluorometilpropionanilida
+ácido carboxiacetamidobenzoico
+Lfenilalaninamida
+tertbutil NHfluorenilmetoxicarbonilLaspartato
+tertbutil NHfluorenilmetoxicarbonilLglutamato
+NHfluorenilmetoxicarbonilLglutamina
+NHfluorenilmetoxicarbonilLisoleucina
+NtertbutoxicarbonilNHfluorenilmetoxicarbonilLlisina
+OtertbutilNHfluorenilmetoxicarbonilLserina
+OtertbutilNHfluorenilmetoxicarbonilLtreonina
+OtertbutilNHfluorenilmetoxicarbonilLtirosina
+dimetilciclopropanocarboxamida
+aminoN Nbisdihidroxipropiltriiodoisoftalamida
+aminobenciloxicarbonilaminometiloxopropil metanosulfonato
+carbamoilhidroxipropilcarbamato bencilo
+SalfaSoxiranilfenetilcarbamato tercbutilo
+tertbutil Soxiranilfeniletilcarbamato
+ácido SStercbutoxicarbonilaminofenilhidroxibutírico
+alfafluorobenzoilbencilmetiloxovaleranilida
+NHfluorenilmetoxicarbonilNtritilLglutamina
+NHfluorenilmetoxicarbonilNtritilLasparagina
+acetilhidroxifenilbutoxibenzanilida
+Netildifenilbutenilciclopropanocarboxamida
+glioxiloilsalicilamida hidrato
+SSSaminobencilfenilhidroxipentilcarbamato tercbutilo
+aminoN Nbisacetoxiacetoximetiletiltriiodoisoftalamida
+SSbencildihidroxipropilcarbamato tercbutilo
+NfenoxicarbonilLvalinato metilo
+RShidroximetilciclopentenilcarbamato tercbutilo
+NdiclorofenilNdihidroindenilmetilaminopropiltetrahidronaftalenocarboxamida
+SSbencilclorohidroxipropilcarbamato metilo
+clorofenilhidroxietil carbamato
+NHfluorenilmetoxicarbonilαLglutamilNtertbutoxicarbonilLlisilNtritilLasparaginilαLglutamilNtritilLglutaminilαLglutamilLleucilLleucilαLglutamilLleucina tetratertbutil éster
+NacetilfenilNmetilacetamida
+etil Sdifluorociclohexanocarboxamidofenilpropanoato
+difluoroNShidroxifenilpropilciclohexanocarboxamida
+difluoroNSoxofenilpropilciclohexanocarboxamida
+tertbutil Sbencilmetilaminooxofeniletilcarbamato hidrocloruro
+trifluorometilanilinopentanamida
+azaespirodecanodiona
+clorofenilpiperidinadiona
+hidrogenoSftalimidoglutarato bencilo
+Sbiscloroetilaminofenilftalimidopropionato etilo clorhidrato
+Saminofenilftalimidopropionato etilo clorhidrato
+mesoNbencilnitrociclopropanodicarboximida
+Efluorofeniliminometilfenol
+ácido amidinosuccinanílico clorhidrato
+trisZclorodimetilaminopropenilidenodimetilamonio
+hexafluorofosfato
+cianoetoxiacrilato etilo
+trimetoxifenilacetonitrilo
+LNcianovanilliletilacetamida
+metilenciclobutanocarbonitrilo
+metildimetoxifenilbutironitrilo
+clorofenilciclobutanocarbonitrilo
+Ncianohidroxifenilmetiletilacetamida
+fenoxifenilpropiononitrilo
+metiltrimetoxifenilbutironitrilo
+bromodifenilbutanonitrilo
+fluorofeniloxociclohexanocarbonitrilo
+ptoluenosulfonato Zcianoviniltrimetilamonio
+metilbifenilcarbonitrilo
+bromometilbifenilcarbonitrilo
+tetrafluoropropoxicinamonitrilo
+cianociclohexilacetato etilo
+Ntercbutil cianoandrostadienocarboxamida
+ciclopentiloximetoxifeniloxociclohexanocarbonitrilo
+dimetil cianociclopentiloximetoxifenilheptanodioato
+cianometilbutilmalonato dietilo
+yododimetoxinitrobenzonitrilo
+aminoyododimetoxibenzonitrilo
+Raminopentanenitrilo metanosulfonato
+tertbutilamonio Zcianometilhexenoato
+metilfenilhidrazina sulfato
+clorometoxifenilbenzohidrazida
+RSserinohidrazida clorhidrato
+ácido cloroZmetoxicarbonilmetoxiiminooxobutírico
+cloruro carboximetiletoxiamonio
+Zcianodiclorofenilmetilenocarbazamidina
+transfluorohidroxichalconaOZdimetilaminoetiloxima–ácido fumárico
+SObencillactaldehídoNtercbutoxicarbonilhidrazona
+cloroyodoanilinoNciclopropilmetoxidifluorobenzamida
+Nhidroximetilpropanamina acetato sal tertbutilhidroxilamina acetato sal
+NalfatercbutoxicarbonilNomeganitroLarginina
+sulfamato diisopropilfenilo
+NalfatercbutoxicarbonilNmetilNmetoxiNomeganitroLargininamida
+etil RSRazidoetilpropoxihidroxiciclohexenocarboxilato
+etil RRSacetamidoazidoetilpropoxiciclohexenocarboxilato
+NbistrifluoroacetilDLhomocistina
+NbenciloxicarbonilSfenilLcisteína
+feniltioanilina
+ácido dicloromesilbenzoico
+RSdisulfanilbutanodiol ditiotreitol
+cloruro mercaptotrifluorometilanilinio
+oclorotiofenol
+cianocarbonimidoditioato dimetilo
+clorotioformiato Onaftilo
+metoxibencenotiol
+ácido metilsulfanilfenilacético
+dimetilaminotioacetamida clorhidrato
+ditiodibenzonitrilo
+sulfanilfenol
+ácido ZfluorometilmetiltiobencilidenHindenilacético
+bromomesilfeniletanona
+RRaminometilsulfonilfenilpropanodiol
+RRaminometilsulfonilfenilpropanodiol clorhidrato
+metilmetiltionitrovinilamina
+etilsulfoniloanisato metilo
+metoximetilsulfonilbenzoato metilo
+Nmercaptoetilpropionamida
+cloruro Dacetiltiometilpropionilo
+ácido Dacetiltiometilpropiónico
+fluorobencilmetiltiofenilcetona
+ácido mesilfenilacético
+mesiletanamina hidrocloruro
+NacetiltiometiloxootolilpropilLmetionato etilo
+sulfuro bromononilo pentafluoropentilo
+metil NbenciloxicarbonilSfenilLcisteinato
+ácido Sacetiltiofenilpropiónico–diciclohexilamina
+RSclorofeniltiometilhidroxipropilcarbamato bencilo
+ácido mercaptometilciclopropilacético
+NditiobisofenilencarbonilbisLisoleucina
+clorofenoximetilsulfanilbenceno clorofenil metilsulfanilfenil éter
+Ndimetilmetilsulfanilfenoxibencilamina hidrocloruro
+etoxifenilmesilfeniletanona
+metilsulfanilfenoxibenzaldehído
+metilenodifosfonato tetraisopropilo
+bromuro carboxibutiltrifenilfosfonio
+tertbutil dietoxifosforilacetato
+tosiloximetilfosfonato dietilo
+trifenilfosforanilidenoacetato tercbutilo
+ácido fenilbutilfosfínico
+hidroxifenilbutilfosfinoilacetato bencilo
+ácido metilpropioniloxipropoxifenilbutilfosfinoilacético
+ácido metilpropioniloxipropoxifenilbutilfosforilacético
+ácido SRmetilpropioniloxipropoxifenilbutilfosfinoilacético
+RSdimetilfenilsililhidroximetilciclopentenoácido carboxílico RRaminonitrofenilpropanodiol sal
+ácido formilfurilborónico
+triOacetildeoxiDribofuranosa
+bromuro difeniltetrahidrofuranilidendimetilamonio
+aminoetiltiometilfurfurildimetilamina
+ácido Stetrahidrofurancarboxílico
+Zfurilmetoxiiminoacetato amonio
+DLalfahidroxibeta betadimetilgammabutirolactona
+metoxifurogcromenona
+metilbuteniloxiHfurogcromenona
+alfaacetilgammabutirolactona
+alfahidroxibeta betadimetilgammabutirolactona
+oxopregnenoalfacarbolactona
+desmetilepipodofilotoxina
+benciloxicarbonildesmetilepipodofilotoxina
+aRbSRaSaSdimetildioxolanilhexahidrociclopropaciclopentab furanoHona
+benzoato aRRRaSformiloxohexahidroHciclopentabfuranoilo
+metoxiHcromenona
+alfahidroxioxopregnadienoalfacarbolactona
+αmetoxicarboniloxoαpregnadienocarbolactona
+SEESShexiloxooxetanilmetildodecadienil NformilLleucinato
+SShexilRhidroxitrideciloxetanona
+Rbenzoiloxidifluorooxotetrahidrofuranilmetil benzoato
+SciclohexildesecbutilOdemetildihidroavermectina Aa
+aRRRaShidroxiRhidroxifenilpentilhexahidrociclopentabfuranona
+alfahidroxialfametoxicarboniloxopregnenoalfacarbolactona
+Sciclohexildesecbutil demetoxioxodihidroavermectina Aa
+RhidroxifenotilpropildihidroHpiranona
+desacetilbacatina III
+ácido ObetaDgalactopiranosilDglucónico
+betahidroxialfaespirotanona
+metilenodioxifenol
+acetamidodesoxibetaDglucopiranosa
+acetamidodeoxiβDmanopiranosa
+bisObetaDgalactopiranosilDgluconato calcio–bromuro calcio
+bromofenoxitetrahidropirano
+aSaSbRametiltrimetildioxaniletilaboctahidroaHciclopentaa naftalenodiona
+bisObetaDgalactopiranosilDgluconato calcio dihidrato
+tertbutil RShidroximetildimetildioxanilacetato
+RRcianometildimetildioxolanilacetato tercbutilo
+hidroxitetrahidropiraniloxifeniltetrahidropiraniloxifeniletanona
+ácido RSdimetiloxodioxolanilmetilvalérico
+metil SSbenzodioxolilhidroximetoxifenilpropoxiindanocarboxilato
+ácido Saminodioxolanilvalérico
+metil SSbenzodioxolilbenciloximetoxifenilpropoxiindanocarboxilato
+metoxinaftildioxanilpropilmetilaminoNmetilacetamida
+SmetilnitrofenildihidroHdioxologisocromeno
+carbamimidotioato tetraOacetilbetaDglucopiranosilo bromhidrato
+NβDglucopiranosilformamida
+ácido dihidrobenzofuranilacético
+acetato tetrametilnitrofenoximetiloxocromanilo
+acetato aminofenoximetiltetrametiloxocromanilo
+ααββββacetoxitrihidroxioxotrietilsililoxiepoxitaxenil benzoato
+αdiacetoxidihidroxioxotrietilsililoxiepoxitaxenil benzoato
+metil acetamidoOtriacetilanhidroazidotrideoxiDgliceroDgalactononenonato
+ácido SRRacetamidoaminoRRtrihidroxipropildihidropiranocarboxílico
+ααβββαdiacetoxiRSbenzamidometoximetiletoxifenilpropanoiloxihidroxioxotrietilsililoxiepoxitaxenil benzoato
+ααββαdiacetoxiRSbenzamidoZZZZZZdocosahexaenoiloxifenilpropanoiloxidihidroxioxoepoxitaxenil benzoato
+bisfenildihidrodimetiloxoHpirazolilmetilaminometanosulfonato magnesio
+difenilfeniltioetilpirazolidinadiona
+pirazolcarboxamidina clorhidrato
+hemisulfato aminopyrazolcarboxamida
+NmetilHpirazolcarboxamidina clorhidrato
+metilnitropropilpirazolcarboxamida
+aminoetilmetoxietilpirazolcarboxamida
+RRSRdioxospirobiciclohexanoimidazolidinaácido carboxílico
+metilnitroimidazol
+metilimidazol
+clorometilnitroimidazol
+diclorofenilimidazoliletanol
+butilimidazolcarbaldehído
+butilcloroHimidazolcarbaldehído
+tetrahidrometilmetilHimidazolilmetilcarbazolona
+NHfluorenilmetoxicarbonilNtritilLhistidina
+difenilimidazoliltiopentilheptildifluorofenilurea
+butilclorotritilHtetrazolilbifenililmetilHimidazolilmetanol
+butiloxodiazaespirononenilmetilbifenilcarbonitrilo
+pentafluoroetilpropilimidazolcarboxilato metilo
+bromobencilbutilcloroHimidazolilmetanol
+butildiazaespirononenona clorhidrato
+ácido butilformilimidazolilmetilbenzoico
+benciloximetilisopropilimidazol
+NacetilOtertbutilLtirosilOtertbutilLtreonilOtertbutilLserilLleucilLisoleucilNtritilLhistidilOtertbutilLserilLleucilLisoleucilαLglutamilαLglutamilOtertbutilLserilNtritilLglutaminilNtritilLasparaginilNtritilLglutaminilLglutamina ditertbutil éster
+NacetilOtertbutilLtirosilOtertbutilLtreonilOtertbutilLserilLleucilLisoleucilN tritilLhistidilOtertbutilLserilLleucilLisoleucilαLglutamilαLglutamilOtertbutilLserilNtritilLglutaminilNtritilLasparaginilNtritilLglutaminilLglutaminilαLglutamilNtertbutoxicarbonilLlisilNtritilLasparaginilαLglutamilNtritilLglutaminilαLglutamilLleucilLleucilαLglutamilLleucilαLaspartilNtertbutoxicarbonilLlisilNtertbutoxicarbonilLtriptofilLalanilOtertbutilLserilLleucilNtertbutoxicarbonilLtriptofilNtritilLasparaginilNtertbutoxicarbonilLtriptofilLfenilalaninamida heptatertbutil éster
+etilmetiloxoλquinoliniloxietilHdipiridobediacepinHona
+ptoluenosulfonato fluorobenzoilpiridinio
+quinuclidina
+diclorometilnicotinonitrilo
+cloronicotinato etilo
+NfenilNpiperidilpropionamida
+cloruro cloroetilpiperidinio
+tetrahidropiridilHbencimidazolHona
+ácido cloroncotínico
+metilpiridinaácido carboxílico
+metilpiperidilHdibenzoa dcicloheptenol clorhidrato
+fenoxipiridina
+fenilpiridilacetonitrilo
+ácido hidroxinicotínico
+etilpiridiletanol
+ácido cloronicotínico
+clorometilpiperidina clorhidrato
+difenilpiperidinovaleronitrilo
+nitropiridona
+cloropiridilamina
+ácido piridilacético clorhidrato
+bencilpiridilamina
+cloropiridina clorhidrato
+fenilpiperidinilacetamida
+ácido fenilpiperidilacético
+piperidilHbencimidazolHona
+azabicicloheptanona
+bencilpiperidinacarbaldehído
+piperidiniletoxibenzaldehído
+oxopiperidinacarboxilato etilo
+clorofeniletilpiridinacarbonitrilo
+Ntercbutilmetilpiridinacarboxamida
+dimetilpiperidina
+óxido dimetilnitropiridina
+clorodihidrometilpiperidilidenoHbenzocicloheptabpiridina
+clorofenilpiperidinol
+fenilpiperidinol
+tercbutilfenilalfahidroxibencidrilpiperidinobutanona
+cloropiridinilHpirrolobpirazinaHdiona
+cloronicotinato etilo
+cloropiperidilHbencimidazolHona
+aminocloroanilinopiperidinacarboxilato etilo
+clorodihidrooxoHbencimidazolilpiperidinacarboxilato etilo
+cianoiminopiperidinopropiononitrilo
+bromofenilpiperidinol
+etil aminopiperidinacarboxilato
+bencilmetoximetilNfenilpiperidilamina
+aminopiridilmetilcetona
+cloropiridilpiperidilamina clorhidrato
+aminopiridinilaminofenol
+ácido diclorofluoronicotínico
+cloruro cloropropildimetilpiperidinio
+ptoluenosulfonato carboxifenilpiperidinio
+NmetoximetilpiperidilNfenilpropionamida clorhidrato
+cloruro carboxifenoxietilpiperidinio
+piperidiniletoxibenzoil cloruro hidrocloruro
+fluorobencilHbencimidazolilaminopiperidinacarboxilato etilo
+metoxidimetilpiridilmetanol
+bromopiridilptolilcetona
+piperidiniletoxifenol
+Hdibenzoa dcicloheptenilpiperidina
+clorofenildihidrodioxoisoindoliniletoximetilpiridinadicarboxilato etilo metilo
+etil metil aminoetoximetilclorofenilmetildihidropiridinadicarboxilato
+metiltrifluoroetoxipiridilmetanol
+cisfluorofenoxipropilmetoxipiperidilamina
+aminocloroNfluorofenoxipropilmetoxipiperidilmetoxibenzamida
+clorofeniletilpiridilmetilpiperidilcetona clorhidrato
+metoxifeniletilpiperidilamina diclorhidrato
+bencilpiperidilmetilenodimetoxiindanona
+Rclorofenilfluorobencilpiperidiniletanol
+bispiridilmetilHciclopentabbdipiridina hidrato
+metiltetrahidropiridinacarbaldehídoEOmetiloxima clorhidrato
+SSSazabicicloheptanol
+RSazabicicloheptanona
+RSbencilpiperidilmetildimetoxiindanona
+cloruro Sdiclorofenilisopropoxifenacilpiperidiletilfenilazoniabiciclo octano
+ácido tercbutoxicarbonilpiperidilacético
+RREfluorofenildiisopropilmetoximetilpiridinilvinilhidroxiciclohexanona
+ácido RSEfluorofenildiisopropilmetoximetilpiridinildihidroxiheptenoico
+bisfluoropiridilmetilantrona
+metilSpirrolidinilmetoxipiridina
+SaminodimetilNpiridilbutiramida
+RNbenzoildiclorofenilpiperidilpropilfenilpiperidilNmetilacetamida clorhidrato
+SNacetamidofenilpiperidildiclorofenilbutilNmetilbenzamida–ácido fumárico
+fluorofenildiisopropilmetoximetilpiridinilacrilaldehído
+Rclorofenilfluorobencilpiperidiniletanol hidrocloruro
+diclorofenilsulfanilisopropilpiridinilmetilimidazolilmetanol
+NRfenilmetiloxotetrahidrodiazepinohiindolilisonicotinamida
+SRazabicicloheptanonaOZmetoxifeniletiniloxima–ácido maleico
+SSaminoetoxiNnitropiperidinacarboxamidina clorhidrato
+bifenililetiltrifluorometilfeniltetrahidropiridina hidrocloruro
+benciloxifenilfenilhidroxipiperidilpropanona
+fenilSShidroxihidroxifenilmetiletilpiperidinol metanosulfonato trihidrato
+ácido piridiloxibencenosulfónico
+cloruro piridiloxibencenosulfonilo clorhidrato
+SdibromoclorodihidroHbenzocicloheptabpiridinil piperidinocarbonilmetilpiperidinacarboxamida
+tertbutil piridinilbencilhidrazinacarboxilato
+tertbutil SStertbutoxicarbonilaminohidroxifenilbutilpiridinilbencilhidrazinacarboxilato
+NaminoiminometilhidroxifenoxidifluorometildihidroimidazolilfenoxipiridinilNmetiglicina dihidrocloruro
+aminoclorometoxiNmetoxipiperidinilbenzamida
+mesilfenilmetilpiridinil etanona
+tetrahidroHmetanobenzacepina hidrocloruro
+dinitrotrifluoroacetiltetrahidroHmetanobenzacepina
+benciloximetilisopropilimidazolilmetilpiridina oxalato
+NmetilEpiridinilvinilHindazolilsulfanilbenzamida
+NfluoroEpiridinilvinilHindazolilaminofenildimetilpirazolcarboxamida
+bencilexoisopropilmetilHtriazolilazabiciclooctano
+etil NmetilaminonitrobenzoilNpiridinilßalaninato
+tertbutil mesiloxipiperidiniloxoetilpiperidinacarboxilato
+ácido cloroetilfluorodihidrooxoquinolinacarboxílico
+ácido ciclopropilclorofluorooxodihidroquinolinacarboxílico
+ácido ciclopropildifluorodihidrooxoquinolinacarboxílico
+ácido clorofluorofluorofenildihidrooxoquinolinacarboxílico
+ciclopropildifluorooxodihidroquinolinacarboxilato etilo
+etiltrifluorodihidrooxoquinolinacarboxilato etilo
+ácido difluorofenildifluorodihidrooxoquinolinacarboxílico
+ácido tercbutoxicarbonilaminopirrolidinilciclopropilclorofluorooxodihidroquinolinacarboxílico
+ácido ciclopropildifluorometoxioxodihidroquinolinacarboxílico
+ácido bromociclopropilfluorometiloxodihidroquinolinacarboxílico
+NquinolilcarbonilLasparraguina
+hidrogenoclorodihidrooxoquinolinadicarboxilato metilo
+ácido etilaminoquinoliniloxietilnicotínico
+SSSmetoximorfinano clorhidrato
+clorometilquinolina
+dimetoximetilquinolina
+tetrahidroquinolina
+tetrahidroisopropilaminometilmetilnitroquinolina metanosulfonato
+bisdimetoxibencildimetoxitetrahidroisoquinolilpropionato pentametileno–ácido oxálico
+ácido Stetrahidroisoquinolinacarboxílico
+ptoluenosulfonato Sbenciloxicarboniltetrahidroisoquinolinio
+tertbutil Stetrahidroisoquinolinacarboxilato metilbencenosulfonato
+dimetoximetiltrifluorometilfenoxiquinolinamina
+Sfeniltetrahidroisoquinolina
+Ecloroquinolilvinilbenzaldehído
+SaSaSNtercbutildecahidroisoquinolinacarboxamida
+Nquinolilcarboniloxisuccinimida
+SaSaSRSaminofenilhidroxibutilNtercbutildecahidroisoquinolinacarboxamida
+Rcloroquinolilvinilfenilhidroximetiletilfenilpropiltiometilciclopropilacetato sodio
+SNtercbutiltetrahidroisoquinolinacarboxamida clorhidrato
+SNtercbutiltetrahidroisoquinolinacarboxamida
+Ecloroquinolilvinilfeniloxopropilbenzoato metilo
+SSSaSaStercbutilcarbamoilperhidroisoquinolilfeniltiometilhidroxipropilcarbamato bencilo
+SaSaSNtercbutilSSfeniltiohidroxihidroximetilbenzamidobutil perhidroisoquinolinacarboxamida–ácido metanosulfónico
+Soxotrifluorometilhexahidroquinolinilbenzonitrilo
+SRbencilSaSaStercbutilcarbamoildecahidroisoquinolilhidroxipropilcarbamato metilo
+SEcloroquinolilvinilfenilhidroxipropilbenzoato metilo
+SNtercbutiltetrahidroisoquinolinacarboxamida sulfato
+ácido aminodifluoropiridinilclorofluorohidroxiacetidiniloxodihidroquinolinacarboxílico
+dimetoximetilnitrotrifluorometilfenoxiquinolina
+clorodimetoximetilquinolina
+clorodimetoximetilnitroquinolina
+etil ciclopropildifluorometoxiRmetiltritilisoindoliniloxodihidroquinolinacarboxilato
+etil bromociclopropildifluorometoxioxodihidroquinolinacarboxilato
+clorodifluoroquinolinilmetanol
+diclorometilmetilpiperidinilmetilquinolinilmetanol
+SEcloroquinolinilvinilfenilhidroximetiletilfenilpropanol
+metil SEcloroquinolinilvinilfenilhidroxipropilbenzoato hidrato
+metil etiltrifluorometiltetrahidroquinolinilcarbamato
+purinHona
+citosina
+pteridinaHHdiona
+iodouracilo
+aminoHpuriniletanol
+bencidrilpiperazina
+cloruro fenilpiperazinio
+NacetiloxodihidroHpurinilacetamida
+dimetoxipirimidinilamina
+cloroetilquinazolinaHHdiona
+metoxifenilpiperazina clorhidrato
+metilpiperazinilamina
+diclorodipiperidinopirimidodpirimidina
+estropipato
+aminoformamidodimetiluracilo
+aminocloropurina
+clorofenilpiperazina clorhidrato
+acetilpiperazina
+RaminoHpurinilmetiletanol
+pirimidinacarbonitrilo
+yodoquinazolinHona
+iodoHpurinilamina
+benciloxiHpurinamina
+metoxiHpurinilamina
+piperazinilpirimidina
+aminoclorodimetoxiquinazolina
+difluorobencidrilpiperazina
+dimetoxiquinazolinaHHdiona
+metoxifenilpiperazina
+cloroetilmetilHpiridoapirimidinona
+clorofenilpiperazina clorhidrato
+diclorofenilpiperazina clorhidrato
+clorofenilcloropropilpiperazina clorhidrato
+etoxifluoropirimidinHona
+cloroetiltrifluorometilfenilpiperacina dihidrocloruro
+cloruro etildioxopiperazinacarbonilo
+cloropiridiniloxodihidroHpirrolobpirazinil piperacinacarboxilato
+fluorofenilpiperazina diclorhidrato
+acetilpiperazinilfenol
+isopropilpiperazinilfenol
+otolilpiperazina clorhidrato
+acetato acetamidooxodihidroHpurinilmetoxietilo
+cloroetiltetrahidrometilHpiridoapirimidinona clorhidrato
+piperazinilpirimidina diclorhidrato
+acetato acetoximetilaminocloropurinilbutilo
+secbutilhidroxifenilpiperazinilfenilHtriazolHona
+piperazinilbispirrolidinilpirimidina
+bromofluorobencilclorodioxotetrahidroquinazolinilacetato etilo
+clorodioxotetrahidroquinazolinilacetato etilo
+diclorofenilpiperacina
+NbenciloxicarbonilLvalinato aminooxodihidroHpurinilmetoxietilo
+Smetildiazabicicloheptano dibromhidrato
+ZdifluoroalfahidroxiiminobencilpiperidinoetiltetrahidrometilHpiridoa pirimidinona
+cloroetilfluoropirimidina
+etilfluoropirimidinHona
+ácido aminooxodihidroHpirrolodpirimidiniletilbenzoico
+ácido dimetilpropanoiloximetildimetiloxodihidroquinazolinilmetilpropinilaminofluorobenzoico
+RSaRSperhidropiridoapirazinilmetanol
+aminobromometilquinazolinHona
+isopropilpiperazinilpiridilamina
+diclorohexahidroazepinobquinazolina clorhidrato
+Stercbutilcarbamoiltercbutoxicarbonilpiperazina
+diclorometoxifenoxibipirimidinil
+iodoHpurinilamida tetrabutilamonio
+RRSaminobisbenzoiloximetilciclobutilHpurinona
+RRSbisbenzoiloximetilciclobutiliodoHpurinilamina
+sulfato RSbenciltercbutilcarbamoilpiridilmetilpiperazinilhidroxiNSRhidroxiindanoilvaleramida
+metil fluorofenilisopropilNmetilmetanosulfonamidopirimidinacarboxilato
+RaRbSdifluoroabtetrahidrodibenzoa eciclopropacanulenilpiperacinilquinoliniloxipropanol trihidrocloruro
+Naminodicloropirimidinilformamida
+SRaminocloroHpurinilciclopentenilmetanol clorhidrato
+bismetoxietoxiquinazolinHona
+etinilfenilbismetoxietoxiquinazolinilamina clorhidrato
+hidroxifenilpiperazinilfenilcarbamato fenilo
+clorofluoropirimidinildifluorofenilHtriazolilbutanol hidrocloruro
+bromoetilclorofluoropirimidina
+RSSRdifluorofenilfluoropirimidinilHtriazolilbutanol–ácido RSoxobornanosulfónico
+ácido Smetiloxohexahidropirimidinilbutanoico
+SNSSSaminobencilhidroxifenilpentilmetiloxotetrahidropirimidinHilbutanamida oxopirrolidinaácido carboxílico sal
+RaminoHpurinilmetiletoximetilfosfonato bisisopropiloxicarboniloximetilo–ácido fumárico
+SclorociclopropiletiniltrifluorometildihidroquinazolinHona
+ScloroEciclopropilviniltrifluorometildihidroquinazolinHona
+cloroZZZZZZdocosahexaenoilmetilpiperacinilHdibenzob ediacepina
+Nclorofluorobenciloxifenilyodoquinazolinamina
+SclorociclopropiletinilRfeniletiltrifluorometildihidroquinazolinHona
+SSbenciloxietilpropilNhidroxifenilpiperacinilfenilhidrazinacarboxamida
+aminometiletilNfluorobencilhidroximetiloxodihidropirimidinacarboxamida
+dimetilpirimidinacarbonil
+SRmetoxitrifluorometilfeniletilmetilpiperacinilmetilpiperidina maleato
+Rmetoxitrifluorometilfeniletilmetilpiperacina Dtartarato
+dimetilpirimidinacarbonilpiperidinona
+SSSSaminobenciloxiHpurinilbenciloximetildimetilfenilsililhidroximetilciclopentanol
+aminoSRSbenciloximetildimetilfenilsililmetilidenociclopentilHpurinHona
+Roxotrifluorometiltetrahidrotriazoloapiraziniltrifluorofenilbutanamina fosfato hidrato
+tetrahidrometiltioxotriazinadiona
+oxopentilHisoindolHdiona
+metoximetilquinolinHona
+diclorofenilindolinona
+cloroindolinona
+dietilhidroximetilpiridinaHHdiona
+cloropiridinilhidroxidihidroHpirrolobpirazinona
+cloroindolHona
+oxopirrolidinilacetato etilo
+azabicicloheptenona
+oxovinilpirrolidinacarboxamida
+RRSRhidroxietildioxoazabicicloheptanocarboxilato pnitrobencilo
+SRacetoxiRtercbutildimetilsililoxietilazetidinona
+RSazabicicloheptenona
+tetrabutilamonio SSbenciloxicarbonilaminometiloxoacetidinasulfonato
+ácido SSaminometiloxoacetidinasulfónico
+RRSdifenoxifosforiloxiRhidroxietilmetiloxoazabicicloheptenocarboxilato nitrobencilo
+oxoazaalfaandrostenobetacarboxilato metilo
+ácido oxoazaandrostenobetacarboxílico
+ácido oxoazaalfaandrostanobetacarboxílico
+ácido SSRclorofenilsulfanilmetiloxoetilRhidroxietiloxoacetidinilacético
+clorocloroetilindolHona
+metiltetrahidroHpiridobindolona
+RSfenilhidroxiazetidinona
+RSoxofenilacetidinil acetato
+SRRtercbutildimetilsililoxietilRSmetoxioxociclohexilazetidinona
+fenilmetilhidrazinodihidropiridona
+hidroxietilmetoxioxoaboctahidroazetoaisoindolcarboxilato potasio
+hidroxietilmetoxioxoaboctahidroazetoaisoindolcarboxilato ciclohexiloxicarboniloxietilo
+bromuro oxofenilpirrolidiniltrifenilfosfonio
+benzoilmetoximetiletoxifenilacetidinona
+RSRtercbutildimetilsililoxietilRSmetoxioxociclohexiloxoazetidiniloxoacetato tercbutilbencilo
+ciclopentiletiltetrahidroHpirazolocpiridinona
+Saminooxopirrolidinilbenzonitrilo clorhidrato
+SNhidroxiamidinofeniloxopirrolidinilureidopropionato etilo
+metoxicarboniloxotetrahidropiridinolato sodio
+fluorometilfenilpirrolidinacarbonilHpiridobindolHona
+etilmetoxitetrahidroindoloaquinolizinHona
+ciclopentiletilmetoxibenciltetrahidroHpirazolocpiridinona metilbencenosulfonato
+NdietilaminoetilZfluorooxodihidroHindolilidenometildimetilpirrolcarboxamida Lmalato
+Hdibenzob fazepina
+dihidroHdibenzob fazepina
+ZciclohexilclorofenilpropenilhexahidroHazepina clorhidrato
+NbifenililmetildihidroHimidazodbenzazepinilcarbonilbenzamida
+clorofluorofenilHbenzodiazepinHona
+clorofluorofenilnitrometilenodihidroHbenzodiazepina
+clorofluorofenildihidroHbenzodiazepinilmetilamina
+clorofluorofenilmetiladihidroHimidazoabenzodiazepina
+ácido clorofluorofenilmetilHimidazoabenzodiazepinacarboxílico
+bismaleato clorofluorofenildihidroHbenzodiazepinilmetilamonio
+óxido clorofluorofenilmetilnitrometilenodihidroHbenzodiazepina
+aminofenilmetilHbenzodiazepinHona
+SSftalimidodioxooctahidropiridazoadiazepinacarboxilato tercbutilo
+RSSRdibencilbisaminobencildihidroxihexahidroHdiazepinona dimetanosulfonato
+RSSRaminoHindazolilmetildibencilbutildihidroxihexahidroHdiazepinona
+ácido SmetoxioxoetilmetiloxotetrahidroHbenzodiacepinilacético
+ácido SyodometiloxotetrahidroHbenzodiacepinilacético
+sulfato ácido tetraazaciclododecanotriacético
+aminodicloropirazinacarboxilato metilo
+hidroxiindol
+Htriazolcarboxamida
+ácido Htriazolcarboxílico
+Htriazolcarboxilato metilo
+aminopirazinaácido carboxílico
+ácido metilpirazinacarboxílico
+bromotriptófano
+triazoloapiridinHona
+Ncloroetilpirrolidina clorhidrato
+metiltetrazoltiol
+LalanilLprolina
+metil Dtriptofanoato hidrocloruro
+metil aminopirazinacarboxilato
+ácido Htetrazolilacético
+etilpirrolidinilmetilamina
+tetrahidrometilcarbazolona
+clorodihidroHbenzocicloheptabpiridinona
+Nbenzoilhidroxiprolina
+metil Nbenzoilhidroxiprolinato
+dimetoximetilquinoxalina dióxido
+clorometilHtriazolilbenzofenona
+metoxibencimidazoltiol
+clorohidroximetilmetilHtriazolilbenzofenona
+etilHindoliletanol
+metilpirrolilacetato metilo
+isopropenilHbencimidazolHona
+diclorometilHtriazolilbenzofenona
+diclorohidroximetilmetilHtriazolilbenzofenona
+tetrazolcarboxilato etilo
+triazolotiolato sodio
+dimetilaminoetildihidroHtetrazoltiona
+ácido etildioxohexahidropiridacinacarboxamidohidroxifenilacético
+Hbenzimidazolilpropilmetilamina
+SacetiltiometilpropionilLprolina
+ácido Sbenciloxicarbonilhexahidropiridazinacarboxílico
+dihidrotiooxoHtetrazolilmetanosulfonato disodio
+dihidroHpirrolizinacarboxilato isopropilo
+etildihidroHtetrazolona
+etil metilnitroindolcarboxilato
+cloroHcarbazolilmetilmalonato dietilo
+tertbutoxioxoetil clorobenzoilmetoximetilindolilacetato
+fluorobencilHbencimidazolilamina
+clorofluorobencilbencimidazol hidrocloruro
+metilnitrosoindolina
+difluoroHtriazolilacetofenona clorhidrato
+difluorofenilHtriazoliletanona
+transciclohexilprolina clorhidrato
+metoxicarbonildihidroHpirrolizinaácido carboxílico
+etilfenoxietilHtriazolHona
+transhidroxinitrobenciloxicarbonilLprolina
+Htetrazolcarboxilato etilo sal sodio
+SfenilLprolina
+ácido ciclopropilclorofluorooxodihidronaftiridinacarboxílico
+clorodifluorofenilfluorodihidrooxonaftiridinacarboxilato etilo
+ciclohexilprolina
+NtrifluoroacetilLlisilLprolina
+NSetoxicarbonilfenilpropilNtrifluoroacetillisilprolina
+pirrolidinilamina diclorhidrato
+NtrifluoroacetilLlisilLprolina ptoluenosulfonato
+bissulfato tetraazoniaciclododecano
+diindolilmetilpirroldiona
+ácido tetraazaciclododecanotriiltriacético
+Htriazolilmetilanilina
+SNbenzoilmesiloxiLprolina
+transbenzoilfenilLprolina
+ácido SLalanilaminopirrolidinilciclopropilfluorooxodihidronaftiridinacarboxílico clorhidrato
+SmetiloxoSpirrolidinilaminoetilcarbamato tercbutilo
+ácido SStercbutoxicarbonilaminooxopropilaminopirrolidinilciclopropilfluorooxodihidronaftiridinacarboxílico
+cianometiloxodihidroftalazinilacetato etilo
+difluorofenilbisHtriazolilpropanol
+metilbifenililtritilHtetrazol
+SaminoHtetrazolilbutirato metilo
+ácidoNRRadamantiloxicarbonilaminoHindolilmetiloxopropilaminofeniletilsuccinamico–desoximetilaminoDglucitol
+ácido metilHimidazocpiridinilbenzoico
+dimetilaminometiltetrahidrometilcarbazolona
+mesoazabiciclohexilcarbamato tercbutilo
+NNdietilNfenilpropilpiridazinilmetilpropanodiamina–ácido fumárico
+RSpirrolidinilcarbamato tercbutilo
+EdifluorofeniltetrafluoropropoxiestirilHtriazolilHtriazolilpropanol
+RdifluorofenilHtriazolilpropanodiol
+bromoRmetilpirrolidinilmetilindol
+ácido tritilHtetrazolilfenilborónico
+NtertbutoxicarbonilNHfluorenilmetoxicarbonilLtriptófano
+dibencil dietilpirroldiilbismetilenobismetoxioxopropilmetilpirrolcarboxilato
+dietilpirroldiilbismetilenobishidroxipropilmetilpirrolcarbaldehído
+mesobencilnitroazabiciclohexano
+dimetilpropilHHbibencimidazol
+ácido metilpropilbencimidazolcarboxílico
+dicloroformilindolcarboxilato etilo
+RSmetilaminoetilpirrolidina
+iodoHtriazolilmetilanilina
+clorometilmetoxifenildihidroHpiridazinobquinolinatriona sal sodio
+NmetoxibenzoilLvalilNStrifluoroisopropiloxopropilLprolinamida
+benciletiloxamoilindoliloxiacetato sodio
+dicloroHbencimidazolilisopropilamina
+diclorodimetoxiquinoxalinilamina
+RmetilpirrolidinilmetilEfenilsulfonilvinilindol
+metoxidihidronaftilfenoxietilpirrolidina
+bromometoxidihidronaftilfenoxietilpirrolidina
+NmetoxicarbonilLvalilLprolina
+NNmetoxicarbonilLvalilNStrifluoroisopropiloxopropilLprolinamida
+etiltrimetilsililoxietilindol
+acetilRmetilpirrolidinilmetilEfenilsulfonilvinilindol
+RSfenilpirrolidinoetoxifeniltetrahidronaftol–ácido tartárico
+abencilmetilahexahidroHpirazolocpiridinona Ltartarato
+fosfato dibencilo difluorofenilHtriazolilHtriazolilmetiletilo
+difenilSpirrolidinilacetonitrilo bromhidrato
+Zaminometilpirrolidinona Ometiloxima dihidrocloruro
+etil RRRetilpropoxiazabicicloheptenocarboxilato
+RSfenilpirrolidinilpropanol hidrocloruro
+hidrocloruro ácido SsulfanilLprolinamidolbenzoico
+fluorofenilhidroximetilbutoximesilfenilpiridazinHona
+etoxifenilmesilfenilpirazolobpiridacina
+bencilHimidazoijquinolinHona
+αLaspartilNtertbutoxicarbonilLlisilNtertbutoxicarbonilLtriptofilLalanilOtertbutilLserilLleucilNtertbutoxicarbonilLtriptofilNtritilLasparaginilNtertbutoxicarbonilLtriptofilLfenilalaninamida tertbutil éster
+NHfluorenilmetoxicarbonilαLaspartilNtertbutoxicarbonilLlisilNtertbutoxicarbonilLtriptofilLalanilOtertbutilLserilLleucilNtertbutoxicarbonilLtriptofilNtritilLasparaginilNtertbutoxicarbonilLtriptófano tertbutil éster
+NHfluorenilmetoxicarbonilαLglutamilNtertbutoxicarbonilLlisilNtritilLasparaginilαLglutamilNtritilLglutaminilαLglutamilLleucilLleucilαLglutamilLleucilαLaspartilNtertbutoxicarbonilLlisilNtertbutoxicarbonilLtriptofilLalanilOtertbutilLserilLleucilNtertbutoxicarbonilLtriptofilNtritilLasparaginilNtertbutoxicarbonilLtriptofilLfenilalaninamida pentatertbutil éster
+αLglutamilNtertbutoxicarbonilLlisilNtritilLasparaginilαLglutamilNtritilLglutaminilαLglutamilLleucilLleucilαLglutamilLleucilαLaspartilNtertbutoxicarbonilLlisilNtertbutoxicarbonilLtriptofilLalanilOtertbutilLserilLleucilNtertbutoxicarbonilLtriptofilNtritilLasparaginilNtertbutoxicarbonilLtriptofilLfenilalaninamida pentatertbutil éster monohidrocloruro
+NacetilNmetilglicilglicilvalilDaloisoleuciltreonilnorvalilisoleucilarginilNetilprolinamida monoacetato sal
+clorometildihidroHtriazolona
+RRbencilhidroximetilaminodihidroHimidazoijquinolinHona
+dibromoclorodihidroHbenzocicloheptabpiridina
+aminopiridazinio hexafluorofosfato
+isoleucilarginilNetilprolinamida dihidrocloruro
+etil metiltrifluorometilbifenilcarboxamidoindolcarboxilato
+metiltrifluorometilbifenilcarboxamidoindolcarboxilato potasio
+iminotiazolona
+tiazolidinadiona
+ácido aminotiazolilacético
+ácido metilsulfaniltiazolilacético
+tiazolilmetanol
+aminotiazolilhidroxiiminoacetato etilo
+Zaminotiazolilmetoxiiminoacetato etilo
+ácido Zcloroacetamidotiazolilmetoxiiminoacético
+formamidotiazolilglioxilato etilo
+ácido formamidotiazolilglioxílico
+ácido Zaminotiazolilmetoxiiminoacético
+ácido formamidotiazolilmetoxiiminoacético
+ácido Zmetoxiiminotritilaminotiazolilacético
+hidroxiiminotritilaminotiazolilacetato etilo clorhidrato
+cianoetiltiometiltiazolilguanidina
+formamidotiazoliloxoacetamidometiloxoacetidinasulfonato potasio
+carbamimidotioato guanidinotiazolilmetilo diclorhidrato
+Ztercbutoxicarbonilaminotiazolilpentenamidocarbamoiloximetilcefemcarboxilato pivaloiloximetilo
+ácido Ebenciloxicarbonilaminotiazolilmetilbuteniloxioxopentenoico
+cloruro Zaminotiazolilmetoxiiminoacetilo clorhidrato
+Zetilpiridiniletoxibencilidenotiazolidinadiona
+metanosulfonato Zditercbutilhidroxibencilidenoxodihidrotiazolilamonio
+carbonato nitrofenilo tiazolilmetilo clorhidrato
+NisopropiltiazolilmetilmetilcarbamoilLvalina
+etil formilisobutoxifenilmetiltiazolcarboxilato
+OaminotiazolilZmetoxiiminoacetil Odietil fosforotioato
+Oaminotiazoliltertbutoxicarbonilmetiletoxiiminoacetil OOdietil fosforotioato
+acetato aminooxodihidrotiazolilmetilfenoximetiltetrametilcromanilo
+Ztercbutoxicarbonilaminotiazolilmetilbuteniloxicarbonilbutenamidocefemcarboxilato bencidrilo
+óxido tertbutil Zaminotiazoliletoxidimetiloxotrioxaazafosfaundecenoato
+ácido amidinofeniltiazolilcarboximetilpiperidilaminopropiónico
+SShidroxihidroximetilbenzamidofenilbutanoildimetilNmetilbenciltiazolidinacarboxamida
+ácido REaminoclorotiazolilhidroxiiminoacetamidoaminoetilsulfanilmetilpiridinilsulfanildidehidrocefamcarboxílico
+Netoxicarbonilamidinofeniltiazoliletoxicarbonilmetilpiperidilaminopropionato etilo
+dioxotiazolidinilmetilmetoxiNtrifluorometilbencilbenzamida
+Nclorodimetoxifenilciclohexiletiltiazolilcarbamoildimetilindolinilacetato potasio
+dioxopirrolidinil NNisopropiltiazolilmetilNmetilcarbamoilLvalinato
+Nclorometilfenilhidroxietilpiperacinilmetilpirimidinilaminotiazolcarboxamida dasatanib DCI propuesta
+RNallilSShidroxihidroximetilbenzamidofenilbutanoildimetiltiazolidinacarboxamida
+Zaminotiazolilmetoxiiminotioacetato Sbenzotiazolilo
+bencisotiazolilpiperazina clorhidrato
+aminotiazolilbencisotiazoliltiooxoetilidenaminooximetilpropionato tercbutilo
+ácido SSmetiloxodihidrobencisotiazolilvalérico
+clorofenotiazina
+acetilfenotiazina
+fenotiazinilamina
+ácido aminocefalosporánico
+nitrobencenosulfonato SSbenciloxooxazolidinilmetilo
+RSSRSfeniletilepoxitetrahidroftalimida
+metiloxadiazolcarboxilato potasio
+timidina
+adenosina
+dihidrogenofosfato citidina
+tiofenocarbaldehído
+ácido aminopenicilánico
+metiluridina
+betaDarabinofuranosilpirimidinaHHdiona
+clorodibenzob foxazepinHona
+DLditiolanilvaleramida
+didesoxiadenosina
+clorodimetilaminopropilHtioxantenol
+cloruro diclorofenilmetilisoxazolcarbonilo
+inosina fosfato disodio
+cloruro tiofenocarbonilo
+anhidrodeoxiβDtreopentofuranosilmetilpirimidinaHHdiona
+morfolinilpirocatecol clorhidrato
+bromometiltiofeno
+cloruro fenilmetilisoxazolcarbonilo
+tiadiazoltiol
+tienilacetonitrilo
+ácido tienilmalónico
+ácido aminometilcefemcarboxílico
+acetilbenzobtiofeno
+ácido aminometiltetrazoliltiometilcefemcarboxílico
+ácido Raminotiadiazolilsulfaniletildidehidrocefamcarboxílico
+dióxido hidroximetilHbenzotiazinacarboxilato etilo
+ácido aminometoximetilcefemcarboxílico
+cianomorfolinoacrilamida
+cloruro clorofenilmetilisoxazolcarbonilo
+metiluridina hemihidrato
+ácido fenilacetamidometilcefemcarboxílico
+aSaRdibencilaahexahidroHfurodimidazoldiona
+etildihidrooxodioxologcinolinacarbonitrilo
+tetrahidrotienocpiridina clorhidrato
+metiltiadiazoltiol
+azidodesoxiOtritiltimidina
+óxido fenoxiacetamidopenicilanato nitrobencilo
+clorotiadiazolilmorfolina
+ácido aminometiltiadiazoliltiometilcefemcarboxílico
+piperonilpiperazina
+ácido Raminodidehidrocefamcarboxílico
+ácido RaminoHtriazolilsulfanilmetildidehidrocefamcarboxílico
+anhidrotimidina
+cloruro tienilacetilo
+ácido Raminofenilacetamidometilcefemcarboxílico–dimetilformamida
+triOacetilbetaDribofuranosilHtriazolcarboxilato metilo
+furoilpiperazina
+SShidroximetoxifenildihidrobenzotiazepinHona
+fenilacetamidohidroxicephamcarboxilato bencidrilo
+ácido Dmandelamidocefalosporánico
+Raminoclorodidehidrocefamácido carboxílico
+aminoclorocefemcarboxilato nitrobencilo
+Otritiltimidina
+dióxido hidroximetilHtienoetiazinacarboxilato metilo
+bromoacetamidometoximetilHtetrazolillsulfanilmetildidehidrocefamácido carboxílico
+tetrahidrofuroilpiperazina
+óxido metilenofenoxiacetamidocefamcarboxilato nitrobencilo
+difenilmetil benciloxotiadiazabicicloheptenilmetilbutenoato
+metoximetoxifenilbenzobtiofeno
+fluorobenciltiofeno
+cisdiclorofenilHtriazolilmetildioxolanilmetanol
+hidrocloruro ácido RaminometilHtetrazolilsulfanilmetildidehidrocefamcarboxílico
+cloruro clorofluorofenilmetilisoxazolcarbonilo
+difenilmetil SbromoacetamidometoximetilHtetrazolilsulfanilmetildidehidrocefamcarboxilato
+dihidrobenzodioxinilcarbonilpiperazina clorhidrato
+ácido aminosulfometilHtetrazoliltiometilcefemcarboxílico sal sodio
+hidrobromuro ácido ditiaazaspirononanocarboxílico
+dióxido penicilanato iodometilo
+ácido Sdibromodimetilpenamcarboxílico dióxido
+RSRRRRRSSRdideoxiCmetilOmetilαLribohexopiranosiloxietiltrihidroxihexametiltrideoxidimetilaminoβDxilohexopiranosiloxioxaazaciclopentadecanona
+óxido metilbenzamidopenicilanato bencidrilo
+aRRaRmetilSRtriacetoxipropilaadihidroHpiranodoxazolcarboxilato metilo
+ácido transRaminovinildidehidrocefamcarboxílico
+ácido aminofuroiltiometilcefemcarboxílico
+diclorofenilHimidazolilmetildioxolanilmetanol
+SSmetildioxooxazolidinilfenilbutirato etilo
+ácido Sdimetiltiazinanocarboxílico
+SdietildihidroxiHHpiranoindolizinobquinolinaHHdiona
+ácido acetoximetilRformiloxifenilacetamidocefemcarboxílico
+difenilmetil Rmesiloxifenilacetamidodidehidrocefamcarboxilato
+deoxiOdimetoxitritilNisobutirilguanosina cianoetil diisopropilfosforamidita
+fluorofenildioxolanilpropilpiperidildihidroHbencimidazoltiona
+aminopirazoliltienilmetanona
+deoxiOdimetoxitritiltimidina cianoetil diisopropilfosforamidita
+NbenzoildeoxiOdimetoxitritiladenosina cianoetil diisopropilfosforamidita
+SSetoxifenoxifenilmetilmorfolina
+yoduro Raminocarboxididehidrocefamilmetilpiridinio
+NbenzoildeoxiOdimetoxitritilcitidina cianoetil diisopropilfosforamidita
+metilfeniloxazoliletoxibenzaldehído
+metilfeniloxazoliletanol
+clorometilfenilacetamidocefemcarboxilato metoxibencilo
+OmesilOtritiltimidina
+isopropoximetoxiNHtetrazolilbenzobtiofenocarboxamida
+isopropoximetoxiNHtetrazolilbenzobtiofenocarboxamida–Himidazol
+isopropoximetoxiNHtetrazolilbenzobtiofenocarboxamida sal sodio
+ácido aminoZpropenilcefemcarboxílico
+azidodidesoximetilcitidina clorhidrato
+ácido benzofuranoilcarbonilaminoindolcarboxílico
+SetilhidroxidihidroHpiranofindolizinaHtriona
+bromodeoximetiluridina diacetato
+óxido difenilmetil SRdibromodimetiloxotiaazabicicloheptanocarboxilato
+bromopropanoildimetiloxazolidinona
+aminonitrooxodihidropirimidiniltienilpropiononitrilo
+ácido Zaminotiadiazolilfluorometoxiiminoacético
+aminotenildihidroHpirrolodpirimidinona clorhidrato
+aminoetilaminodietilaminoetilHbenzotiopiranocdindazolol
+benzoildidehidrodesoxitimidina
+ácido Sditiaazaespirononanocarboxílico
+RRfenilfenilcarbamoilfluorofenilisopropilpirroliletilhidroxitetrahidroHpiranoona
+diclorometildihidromesilfeniloxazolilmetanol
+RRdiclorometildihidromesilfeniloxazolilmetanol
+difenilmetil Raminomesiloxididehidrocefamcarboxilato hidrocloruro
+clorofeniltetrahidrotienocpiridinilacetato metilo clorhidrato
+cloropropilmetilisoxazol
+clorotiadiazolilpiridina
+ioduro hexiloxitiadiazolilmetilpiridinio
+aminofluoroRShidroximetildihidrofuranilpirimidinHona
+dimetilpropanoiloximetil RZStertbutoxicarbonilaminopropanamidotiazolilmetoxiiminoacetamidodidehidrocefamcarboxilato
+metilnitroanilinotiofenocarbonitrilo
+difenilmetil Rtertbutoxicarbonilaminotiazolil tritiloxiiminoacetamidoHtriazolilsulfanilmetilsulfanildidehidrocefamcarboxilato
+fluorometoxitetrahidropiranoilfenoximetilmetilquinolona
+hidrogenotienilmetilmalonato etilo
+RSaminofluorohidroximetiloxatiolanilpirimidinHona
+RSaminooxodihidropirimidiniloxatiolanocarboxilato RSRmentilo
+dióxido SSdihidrometilHtienobtiopiranol
+NSSmetildioxodihidroHtienobtiopiranoilacetamida
+RRhidroxioxatiolanocarboxilato RSRmentilo
+Saminobenciloxazolidinona
+NdietilaminoetilaminometoxioxoHtioxantenilmetilformamida
+SNRbenzodioxolilbutildietilmetilpiperazinilcarbonilfenoxioxoazetidinacarboxamida
+aSaRRSbencilepoxivalerildimetilaatetrahidroHindenodoxazol
+EfluorofenildiisopropilmetoximetilpiridinilvinilhidroxitetrahidroHpiranona
+ERRaminocarboxilatooxotiaazabiciclooctenilalilcarbamoilmetil etilmetilamonio
+SN Ndimetilnaftiloxitienilpropilamina–ácido fosfórico
+fosfato Nmetilnaftiloxitienilpropanamina
+SSaSaminooxooctahidroHpiridobtiazepinacarboxilato metilo
+fluoromorfolinofenilcarbamato bencilo
+SSbenciloxipentanilRRdifluorofenilHtriazolilmetiltetrahidrofuranilmetoxifenilpiperacinilfenilHtriazolHona
+RSRbistrifluorometilfeniletoxifluorofenilmorfolina hidrocloruro
+clorobencenosulfonato SSdifluorofenilHtriazolilmetiltetrahidrofuranilmetilo
+Rmetoximetiltrifluorobutoxiatetrahidrooxazoloaquinolinona
+ácidoSNaminooxotetrahidroHpirimidobtiaziniletiltenoilLglutámico
+NSaminooxotetrahidroHpirimidobtiaziniletiltenoilLglutamato dietilo
+ácido NSaminooxohexahidropiridodpirimidiniletilmetiltiofenocarbonilLglutámico
+aRbSdimetoxipropilabhexahidrobenzoftienocquinolina clorhidrato
+benzoildifluorofenilmorfoliniletilfenilpiperidinildimetilurea hidrocloruro
+difenilmetildihidroisoxazolol
+óxido benciloxibromometoxifenilbenzotiofeno
+cloroetildioxolanilmetoxipiridinilmetanol
+tertbutil SetildihidroxidioxotetrahidroHpiranofindolizinacarboxilato
+Smetoximetiltrifluorobutoxibenzoxazoliloxazolidinona
+cloroRdiazabiciclooctanilmetilaminodihidrobenzodioxinacarboxamida
+Rtercbutoxicarbonilaminohidroxibutiltiofenocarboxilato etilo
+Rtercbutoxicarbonilaminomesiloxibutiltiofenocarboxilato etilo
+Sacetiltiotercbutoxicarbonilaminobutiltiofenocarboxilato etilo
+Stercbutoxicarbonilaminometiletoxicarboniltienilpropiltiomalonato dimetilo
+Setoxicarboniltieniletiloxotiazinanocarboxilato metilo
+SaminooxotetrahidroHpirimidobtiaziniletiltiofenocarboxilato etilo
+ácidoSaminooxotetrahidroHpirimidobtiaziniletiltiofenocarboxílico
+metil NbutoxicarbonilRcianofenildihidroisoxazolilacetamidoLalaninato
+fluorooxotienocpiridinilpiperaciniletilquinolinHilacetamida
+SRfluorofenilhidroxipentanoilfeniloxazolidinona
+aminoclorodihidrobenzodioxinilfenotilpiperidiniloxadiazolHona
+nitrobencil RRbenciloxotiadiazabicicloheptenilmetilbutenoato
+Stertbutilfeniloxazolidinilmetanol
+RRSbenzodioxoliletoxicarbonilmetoxifenilpirrolidinio Shidroxifenilacetato
+yoduro RaminocarboxididehidrocefamilmetilHimidazobpiridazinio
+metoximorfolinopropoxiquinazolinHona
+SRZSclorometoxibencilisobutildimetilSRRfeniloxiraniletildioxadiazaciclohexadecenotetrona
+buteniltiofenocarboxilato etilo
+Rdihidroxibutiltiofenocarboxilato etilo
+Raminohidroxibutiltiofenocarboxilato etilo
+RcloroetilhidroximetilmetilpiperidinilmetiltetrahidroHHoxepinoindolizinobquinolinadiona hidrocloruro
+Retilhidroxitetrahidrooxepinocpiridinadiona
+metilazabiciclooctanil dihidropirazolodebenzoxazinacarboxilato
+Rdioxazaborocanilmetiltritilisoindolina
+metilfeniloxazoliletil metanosulfonato
+aminometilciclohexilmetiloxadiazolHona
+tertbutil NmetilNoxodihidrooxadiazolilmetilciclohexilcarbamato
+aminometilciclohexilmetiloxadiazolHona hidrocloruro
+cloroNclorocloropiridinilcarbamoilmetoxifenilmetilaminoimidazolilmetiltiofenocarboxamida
+cloroNclorocloropiridinilcarbamoilmetoxifenilmetilaminoimidazolilmetiltiofenocarboxamida trifluoroacetato
+Sdihidrobenzofuraniletilpirrolidinildifenilacetonitrilo
+fluorobencilpiperidiniletilsulfinilbenzoxazolHona
+bencilpiperidiniletilsulfinilbenzoxazolHona
+ácido Shidroxifenilacético Sdimetilaminotienilpropanol sal
+bencilhidroximorfolinona
+RbencilRbistrifluorometilfeniletoximorfolinona
+SSbenciloxipentanilRRdifluorofenilHtriazolilmetiltetrahidrofuranilmetoxifenilpiperacinilfenilsemicarbacida
+DNA dPtio CTAGATTTCCCGCG sal tridecasodio
+furilmetoxietoxifenilpiperaciniletilHpirazoloetriazolocpirimidinamina
+ácido Smetoximetilfeniloxazoliletoxibenzotiofenilpropanoico
+metilfeniloxazoliletoxibenzotiofenocarbaldehído
+Nfluorobencilcarbamoilmetilmetilmetiloxadiazolcarboxamidoetiloxodihidropirimidinaolato potasio
+SNmetilfeniloxazoliletilglicilpirrolidinacarbonitrilo
+succinato SSetoxifenoxifenilmetilmorfolina
+metil Nmetilfeniloxazoliletoxibencilglicinato hidrocloruro
+nitrobencil RaminoStetrahidrofuranildidehidrocefamcarboxilato hidrocloruro
+Zmetilaminotienilpropenona
+DNA dPtio GATCCGCGGGAAAT sal tridecasodio
+Noxodihidrooxadiazolilfenilglicina
+aminoclorobencenodisulfonamida
+tercbutilbencenosulfonamida
+Nsulfamoilfeniletilclorometoxibenzamida
+hidrazonobencenosulfonamida clorhidrato
+clorobencenosulfonilurea
+sulfamoiloanisato metilo
+metilNsulfamoilfenetilpirazinacarboxamida
+ácido metoxisulfamoiloanísico
+Nhidrazinobencilmetanosulfonamida clorhidrato
+metilpirazinacarboxamidoetilbencenosulfonamida sodio
+aminobencilNmetilmetanosulfonamida clorhidrato
+aminoetilNmetilindolilmetanosulfonamida
+hidrazinofenilNmetilmetanosulfonamida hidrocloruro
+ácido mesilaminofeniloxobutírico
+dihidrooxoHtienobtiinasulfonamida
+dióxido dihidrooxoHtienobtiinasulfonamida
+metoxicarbonilmetilsulfamoiltiofenocarboxilato metilo
+Raminopropilmetoxibencenosulfonamida
+dióxido NdihidrometilsulfamoilHtienobtiopiranoilacetamida
+Naminohidroxietilfluorofenilmetanosulfonamida
+Nhidroxianilinopiridinilmetoxibencenosulfonamida
+NSSmetildioxosulfamoildihidroHtienobtiopiranoilacetamida
+NbutanosulfonilLtirosina
+NbutanosulfonilOpiridinilbutilLtirosina
+ácido metanosulfonamidoindolcarboxílico
+aminoiodofenilNmetilmetanosulfonamida
+Stetrahidrofuranil NSRhidroxiNisobutilnitrobencenosulfonamidofenilbutanilcarbamato
+aminoNRSaminohidroxifenilbutilNisobutilbencenosulfonamida
+fluorofeniltrifluorometilpirazolilbencenosulfonamida
+SfluorobencilsulfonilaminooxodihidropiridilNformilguanidinobutilacetamida
+SNSRbencilbenzodioxolilsulfonilisobutilaminohidroxipropildimetilsarcosilaminobutiramida
+Nmetoximetilpiraziniloxadiazolilfenilpiridinasulfonamida
+aminohidroxietilmetoxibencenosulfonamida
+ácido Sdimetilpiridiloxifenilsulfoniltiazinanocarboxílico
+ácido etoximetilpiperazinilsulfonilbenzoico
+Nfenilmetilisoxazolilfenilsulfonilpropionamida sal sodio
+etoximetilpiperacinasulfonilbenzamidometilpropilpirazolcarboxamida
+Ntetrahidroisoquinolinilmetanosulfonamida hidrocloruro
+NRSaminohidroxifenilbutilNisobutilnitrobencenosulfonamida hidrocloruro
+etoxietilpiperacinasulfonilácido nicotínico
+RSEfluorofenilisopropilmesilmetilaminopirimidinilvinildimetildioxanil dimetilbutanoato
+etoxietilpiperacinasulfonilpiridiniletilmetoxietilhexahidropirazolodpirimidinona
+etoxietilpiperacinasulfonilpiridiniletilmetoxietilhexahidropirazolodpirimidinona metilbencenosulfonato
+Ncarbamoiletilmetoxietilpirazoliletoxietilpiperacinilsulfonilnicotinamida
+dimetilaminometilmetilsulfanilfenoxibencenosulfonamida
+dimetilaminometilmetilsulfanilfenoxibencenosulfonamida Ltartarato
+senosido
+senosido
+mezcla senósido
+casantranol
+mezcla senósido sales calcio
+senosido sal calcio
+senosido sal calcio
+OOacetamidodesoxibetaDgalactopiranosilONacetilalfaneuraminosilObetaDgalactopiranosilbetaDglucopiranosilceramida
+OONacetilalfaneuraminosilOObetaDgalactopiranosilacetamidodesoxibetaDgalactopiranosilObetaDgalactopiranosilbetaDglucopiranosilceramida
+NRRONacetilalfaneuraminosilOacetamidodesoxibetaDgalactopiranosilObetaDgalactopiranosilbetaDglucopiranosiloximetilhidroxiformilpropilestearamida
+fosfato codeína hemihidrato
+aRmetilatetrahidroHdibenzode gquinolinadiol apomorfina
+Rtetrahidropapaverina clorhidrato
+RStetrahidropapaverina clorhidrato
+ácido metilpropioniloxipropoxifenilbutilfosfinoilacético–cinconidina
+ácido metilpropioniloxipropoxifenilbutilfosfinoilacético sal Rcinchonanol
+atropina
+pilocarpina
+Dribosa
+desoxiDeritropentosa
+tetraObencilDglucosa
+tetraObencilDglucopiranosa
+tetraacetilbetaDribofuranosa
+Lribosa
+tetraObencilOtrimetilsililbetaDglucosa
+éteres sulfobutílicos betaciclodextrina sales sodio
+bencil dimetoxiRaRaRSoxotetraObencilβDglucopiranosiloxiaahexahidrofuronaftoddioxolilfenil carbonato
+diObencilORetilidenoDxilohexopiranosa
+SaSShidroxidimetoxifeniloxoaahexahidrofuronaftoddioxolil diObencilORetilidenoβDglucopiranósido
+SSRRhidroximetilpiperidinatriol
+diciclohexilamonio RacetoximetilRtertbutoxicarbonilaminocarboxipropilaminooxoetildidehidrocefamcarboxilato sal cefalosporina diciclohexilamina
+factor XIVa coagulación
+ácido ODapiobetaDfuranosilObetaDxilopiranosilOdeoxialfaLmannopiranosilOalfaLarabinofuranosiloxihidroximetiloctanoiloxihidroximetilottanoildeoxibetaDgalactopiranosiloxialfahidroxibetadioxooleanenbetailObetaDgalactopiranosilObetaDxilopiranosilbetaDglucopiranosiduronurónico
+hemocyaninas megathura crenulata productos reacción OOacetamidodesoxibetaDgalactopiranosilONacetilalfaneuraminosilObetaDgalactopiranosilbetaDglucopiranosa
+ferristeno
+fibrinucleasa polvo
+lisozima
+urato oxidasa
+desoxiribonucleasa
+aminoetiltiometiltiazolilmetildimetilamina forma disolución tolueno
+sulfuro alfafluorometilindenilptolilo metilo forma disolución tolueno
+Concentrado intermedio obtenido fermentación coli genéticamente modificado contiene factor estimulante colonias macrófagos granulocito humano fabricación medicamentos SA
+Concentrado intermedio obtenido fermentación coli genéticamente modificado contiene interferona humana alfab utilización fabricación medicamentos SA
+Concentrados intermedios obtenidos fermentación Micromonospora inyoensis utilizados fabricación antibióticos sisomicina DCI netilmicina DCI
+Concentrados intermedios obtenidos fermentación Micromonospora purpurea utilizados fabricación antibióticos sulfato gentamicina DCIM isepamicina DCI
+clavulanato potasio–celulosa microcristalina
+clavulanato potasio–dióxido silicio
+clavulanato potasio–sacarosa
+bisnitrofenilurea–dimetilpirimidinol
+Rmetildimetoxitrimetoxibenciltetrahidroisoquinolina–ácido dibenzoilLtartárico
+clorooxoheptanoato etilo forma disolución tolueno
+clorotiadiazolilmorfolina solución tolueno
+SRdimetilaminometildifenilbutanol solución tolueno
+piperidiniletoxibenzoil cloruro hidrocloruro solución dicloroetano
+Rbistrifluorometilfeniletanol solución acetonitrilo
+Smesiloxietoxitritiloxibutil metanosulfonato solución dimetilformamida
+hexandiamina polímero dibromodecano
+CONTINGENTES
+ANEXO
+CONTINGENTES ARANCELARIOS OMC CONCEDIDOS AUTORIDADES COMUNITARIAS COMPETENTES
+concesión beneficio contingentes subordinará condiciones previstas disposiciones comunitarias dictadas materia
+orden
+Volumen contingente
+Tipo derecho
+condiciones
+Vacas terneras distintas destinadas sacrificio siguientes razas montaña gris parda amarilla manchada Simmental Pinzgau
+cabezas
+Toros vacas terneras distintos destinados sacrificio siguientes razas montaña manchada Simmental Schwyz Friburgo
+animales deberán cumplir requisitos siguientes
+toros certificado ascendencia
+hembras certificado ascendencia certificado inscripción libro genealógico certificando pureza raza
+Bovinos machos jóvenes destinados engorde peso inferior kg
+Asignado países suministradores
+Rumanía
+Antigua República Yugoslava Macedonia
+
+Carne vacuno calidad superior fresca refrigerada congelada ajuste definición Canales cualesquiera cortes procedentes vacunos treinta meses criados cien alimentación equilibrada concentración energética contenga granos peso mínimo libras carne marcada choice prime normas United States Department of Agriculture USDA entrará automáticamente definición carne clasificada Canada Canada AA Canada AAA Canada Choice Canada Prime normas Agence Canadienne dinspection des aliments Gobierno Canadá corresponderá definición
+peso producto
+Asignada EEUU Canadá
+Carne vacuno calidad superior fresca refrigerada congelada ajuste definición Cortes seleccionados procedentes canales novillos novillas hayan clasificado categorías oficiales YS YG YGS YP YPS arreglo definición AUSMEAT Australia color carne vacuno ajustará valores referencia AUSMEAT color grasa ajustará valores referencia AUSMEAT espesor grasa medido punto ajustará clases grasa AUSMEAT
+País suministrador Australia
+Carne vacuno calidad superior refrigerada congelada ajuste definición Cortes seleccionados carne refrigerada congelada provengan exclusivamente animales criados pastos incisivos permanentes in wear cuyas canales tengan peso neto sobrepase kilogramos apariencia compacta carne presentación color uniforme cobertura grasa adecuada excesiva cortes envasarán vacío denominarán carne vacuno calidad superior
+Asignada Zelanda
+Carne deshuesada vacuno calidad superior fresca refrigerada congelada ajuste definición Lomito lomo rabadilla carnaza negra procedente animales híbridos seleccionados razas tipo cebú alimentados exclusivamente pastos heno animales sacrificados bueyes novillas pertenecientes categoría canales vacuno produzcan canales peso superior kilogramos
+Asignada Paraguay
+Carne deshuesada vacuno calidad superior fresca refrigerada ajuste definición Cortes seleccionados carne vacuno procedentes novillos novillitos vaquillonas criados exclusivamente pastos destete canales novillos clasificarán JJ canales novillitos vaquillonas clasificarán AA conformidad Sistema Tipificación Oficial establecido Secretaría Agricultura Ganadería Pesca Alimentos SAGPyA República Argentina
+Asignada Argentina
+Carne deshuesada vacuno calidad superior fresca refrigerada ajuste definición Cortes seleccionados procedentes novillos vaquillonas criados exclusivamente pastos destete canales clasificarán cobertura grasa conformidad clasificación oficial canales carne vacuno establecida Ministerio Agricultura Ganadería Abastecimiento Ministério Agricultura Pecuária Abastecimiento Brasil
+Asignada Brasil
+Carne deshuesada vacuno calidad superior fresca refrigerada ajuste definición Cortes seleccionados carne vacuno procedentes novillos vaquillonas conforme definición clasificación oficial canales carne vacuno Instituto Nacional Carnes INAC Uruguay animales destinados producción carnes vacuno calidad superior habrán criados exclusivamente pastos destete canales clasificarán cobertura grasa conformidad clasificación indicada
+Asignada Uruguay
+peso deshuesado
+Músculos diafragma delgados congelados
+Carne búfalo huesos congelada
+Cuartos delanteros unidos separados animales especie bovina congelados
+peso hueso incluido
+carne importada destinará transformación
+carne esté destinada fabricación alimentos conserva incluyan componentes característicos distintos carne gelatina
+carne esté destinada fabricación productos alimentos conserva mencionados
+conformidad disposiciones comunitarias cantidad convertirse cantidad equivalente carne calidad superior
+Cortes cuartos delanteros cortes pecho llamados australianos
+Canales medias canales animales especie porcina doméstica frescas refrigeradas congeladas
+aplicar contingente tenerse importaciones arreglo Acuerdos europeos
+Trozos animales especie porcina doméstica frescos refrigerados congelados deshuesados excepción filete presentado separadamente
+Asignada Canadá
+Chuleteros trozos chuleteros animales especie porcina doméstica deshuesar frescos refrigerados
+Panceta trozos panceta animales especie porcina doméstica frescos refrigerados congelados
+Chuleteros jamones deshuesados animales especie porcina doméstica frescos refrigerados congelados
+Lomos especie porcina doméstica frescos refrigerados congelados
+Asignados Unidos América
+peso canal
+países suministradores
+Zelanda
+Islandia
+Rumanía
+Bosnia Hercegovina
+Croacia
+Antigua República Yugoslava Macedonia
+Groenlandia
+
+Músculos delgados enteros congelados
+
+Aves corral
+Canales pollo frescas refrigeradas congeladas
+Trozos pollo frescos refrigerados congelados
+Trozos gallo gallina congelados deshuesados
+Trozos gallo gallina congelados
+Brasil
+Tailandia
+
+Trozos gallo gallina congelados especies domésticas
+Brasil
+Carne pavo fresca refrigerada congelada
+Trozos pavo congelados
+Brasil
+
+Carne salada aves corral
+Brasil
+Tailandia
+
+Atunes género Thunnus pescados género Euthynnus
+pescados deberán destinarse industria conservera
+respete precio referencia
+respete precio referencia
+Merluzas plateadas Merluccius bilinearis
+Pescados género Coregonus
+Pescados género Allocyttus especie Pseudocyttus maculatus
+Bacalaos especies Gadus morhua Gadus ogac
+Leche desnatada polvo
+Mantequilla manteca materias grasas leche
+equivalente
+huevos cascarón
+Mantequilla semanas contenido grasas superior peso inferior fabricada directamente leche nata utilizar materias primas almacenadas proceso único autónomo ininterrumpido
+Mantequilla origen neozelandés
+Mantequilla semanas contenido grasas superior peso inferior fabricada directamente leche nata utilizar materias primas almacenadas proceso único autónomo ininterrumpido nata pasar fase grasa butírica concentrada fraccionamiento dicha grasa procesos conocidos Ammix Spreadable
+Queso fresco madurar curar incluido lactosuero requesón queso pizza congelado cortado trozos peso superior gramo embalado paquetes contenido neto kg contenido agua peso materia seca contenido grasas peso
+Emmental fundido
+Gruyère fundido
+Quesos destinen transformación
+Zelanda
+Cheddar formas enteras estándar ruedas peso neto kg inclusive ruedas bloques forma cúbica paralelepipédica peso neto superior kg contenido materias grasas peso superior materia seca maduración meses
+Zelanda
+Cheddar fabricado leche pasteurizar contenido mínimo materias grasas peso materia seca maduración meses valor franco frontera kg netos inferior
+formas enteras estándar
+quesos peso neto superior
+quesos peso inferior
+considerarán formas enteras estándar sentido
+ruedas peso neto kg inclusive
+ruedas bloques forma cúbica paralelepipédica peso neto superior kg
+Asignado Canadá país suministrador
+Queso fresco madurar incluido lactosuero requesón distinto queso pizza número orden
+quesos rallados polvo
+quesos fundidos
+Queso pasta azul
+Bergkäse Appenzell
+Queso oveja búfala
+huevos aves corral
+equivalente huevos cascarón
+Huevos aves cascarón
+Patatas enero mayo
+
+Pepinos noviembre mayo
+Derecho ad valorem reducido
+Véase número orden
+Cebollas secas
+Raíces mandioca
+límite millones toneladas período años
+Asignado Tailandia país suministrador
+países GATT Tailandia China Indonesia
+países GATT
+reservarán importación productos códigos NC orden
+Batatas destinadas consumo humano
+China
+países distintos China
+Naranjas calidad superior
+febrero abril
+Limones
+enero junio
+Uvas mesa frescas julio octubre
+Derecho ad valorem reducido
+Manzanas frescas abril julio
+Derecho ad valorem reducido
+Peras frescas agosto diciembre
+Derecho ad valorem reducido
+Albaricoques frescos agosto mayo
+Albaricoques frescos junio julio
+Derecho ad valorem reducido
+Cerezas frescas dulces mayo julio
+Derecho ad valorem reducido
+Trigo duro mínimo núcleos vítreos
+Trigo calidad
+Trigo blando calidades calidad alta
+Unidos América
+Canadá
+
+Cebada cerveza
+Maíz
+maíces
+importación Portugal
+importación España
+volumen contingente reducirá volúmenes importaciones España terceros países gluten maíz residuos cebada pulpa agrios
+sorgos grano
+Arroz cáscara
+Arroz descascarillado
+Arroz semimolido totalmente molido
+Tailandia
+Arroz partido destinado fabricación productos industrias alimentarias clasificados subpartida
+granos avena trabajados
+Carne pavo preparada
+Brasil
+
+Carne cocida pollo
+Brasil
+Tailandia
+
+Conservas carne especie porcina doméstica
+Preparaciones conservas pescado entero trozos sardina bonito caballa especies Scomber scombrus Scomber japonicus pescados especie Orcynopsis unicolor
+Preparaciones conservas pescado entero trozos atún listado pescados género Euthynnus
+Gambas especie Pandalus borealis peladas cocidas congeladas sometidas preparación posterior
+Crustáceos agua dulce cocidos hinojo congelados
+Azúcar caña bruto destine refinado
+tipo aplicará azúcar bruto tasa rendimiento icus pescados especie Orcynopsis unicolor
+Véase nota complementaria capítulo
+Brasil
+
+Azúcar caña remolacha
+equivalente
+países ACP
+arreglo disposiciones Convenio Lomé
+Preparaciones alimenticias cereales
+Pastas alimenticias
+Setas género Agaricus
+Cantidad expresada peso escurrido
+Preparadas conservadas
+Conservadas provisionalmente
+Asignado China
+Piñas ananás cítricos peras albaricoques cerezas melocotones fresas conservados
+Jugos frutas
+Jugo naranja concentrado congelado adición azúcar conteniendo jugo naranja sanguina valor Brix inferior grados envases iguales inferiores litros
+Jugo uva incluido mosto ado adición azúcar conteniendo jugo naranja sanguina valor Brix inferior grados envases iguales inferiores litros
+productos importados utilizarse producción jugo uva productos distintos sector vitivinícola tales vinagre bebidas alcohólicas mermeladas salsas
+valor Brix inferior
+valor inferior kg peso neto
+
+valor Brix superior
+valor superior kg peso neto
+valor Brix superior inferior
+valor superior kg peso neto
+valor superior kg peso neto
+Preparaciones alimenticias
+Vino grado alcohólico adquirido inferior vol
+Vermut
+Salvados moyuelos residuos cernido molienda tratamientos cereales pellets
+Gluten maíz
+Alimentos perros gatos
+Preparaciones consistentes mezcla gérmenes malta residuos cebada proceso malteado inclusión semillas residuos limpieza cebada proceso malteado contenido peso proteínas
+Preparaciones consistentes mezcla gérmenes malta residuos cebada proceso malteado inclusión semillas residuos limpieza cebada proceso malteado contenido peso proteínas superior almidón
+Preparaciones consistentes mezcla gérmenes malta residuos cebada proceso malteado inclusión semillas residuos limpieza cebada proceso malteado contenido peso proteínas
+Preparaciones consistentes mezcla gérmenes malta residuos cebada proceso malteado inclusión semillas residuos limpieza cebada proceso malteado contenido peso proteínas superior almidón
+Preparaciones tipo utilizadas alimentación animales
+animales
+productos lácteos contenido productos inferior peso
+Extractos curtientes eucalipto
+albúminas
+equivalente
+Madera contrachapada coníferas adición materias
+espesor superior mm cuyas caras presenten bruto desenrollado
+espesor superior mm lijadas
+Hilados lino crudo exclusión hilos estopa título dtex superior número métrico
+producto deberá destinarse fabricación hilos retorcidos cableados industria calzado ligar cables
+Cuentas vidrio imitaciones piedras preciosas semipreciosas artículos similares abalorio
+Ferrocromo contenga peso carbono inclusive cromo
+TRATAMIENTO ARANCELARIO FAVORABLE RAZÓN NATURALEZA MERCANCÍAS
+ANEXO
+MERCANCÍAS IMPROPIAS CONSUMO
+Lista desnaturalizantes
+desnaturalización mercancías impropias consumo desnaturalizadas clasificadas código NC haga referencia presentes disposiciones efectuará desnaturalizantes enumerados columna cantidades indicadas columna
+Desnaturalizante
+Cantidad mínima kg producto desnaturalizado
+Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición aczúcar edulcorante
+Esencia trementina
+Esencia lavanda
+Aceite romero
+Aceite bétula
+Yemas huevo cidos agua vapor moldeados congelados conservados adición aczúcar edulcorante
+Seca
+Harina pescado subpartida olor característico contenido peso referido extracto seco
+prótidos brutos proteínas
+lípidos brutos materia grasa
+Impropias consumo humano
+consumo humano
+Harina sémola polvo hortalizas silvestres partida sagú raíces tubérculos partida productos capítulo
+Aceite pescado hígado pescado filtrado desodorar decolorar adición
+sagú raíces tubérculos partida partida sagú raíces tubérculos partida productos capítulo
+Harina pescado subpartida olor característico contenido peso referido extracto seco
+Desnaturalizada
+Denominación química descripción
+Denominación usual
+Sal incluidas mesa desnaturalizada cloruro sodio puro disolución acuosa adición antiaglomerantes agentes garanticen fluidez agua mar
+Sal sódica sulfobencenoazo resorcionol ácido dihidrooxiazobencenosulfónico color amarillo
+Sal incluidas mesa desnaturalizada cloruro sodio puro disolución acuosa adición antiaglomerantes agentes garanticen fluidez desnaturalizantes enumerados columna cantidades indicadas columna
+Sal disódica sulfopenilazoaminobencenosulfónico color amarillo
+Amarillo sólido
+Desnaturalizadas usos industriales incluido refinado conservación preparación productos alimentación humana animal
+Sal tetrasódica ácido sulfonaftilazonaftoltrisulfónico color rojo
+Tetrabromofluoresceína color amarillo fluorescente
+Eosina
+Polvo jabón
+Dicramato sodio potásico
+Óxido hierro
+Hipoclorito sodio
+Albúminas incluidos concentrados proteínas lactosuero contenido proteínas lactosuero superior peso calculado materia seca albuminatos derivados albúminas
+Aceite romero únicamente albúminas líquidas
+Aceite alcanfor bruto únicamente albúminas sólidas
+Aceite blanco alcanfor albúminas líquidas sólidas
+Nitruro sodio albúminas líquidas sólidas
+Dietanolamina únicamente albúminas sólidas
+Ovoalbúmina idos concentrados proteínas lactosuero contenido proteínas lactosuero superior peso calculado materia seca albuminatos derivados albúminas
+Impropias hechas impropias alimentación humana
+Lactoalbúminas incluidos concentrados proteínas lactosuero ontenido proteínas lactosuero superior peso calculado materia seca albuminatos derivados albúminas
+hecha impropia alimentación humana
+Albúminas distintas ovoalbúmina lactoalbúmina
+ANEXO
+CERTIFICADOS
+Disposiciones generales
+Previa presentación certificado modelos figuran presente anexo concederá tratamiento favorable razón naturaleza calidad autenticidad mercancías siguientes
+uvas mesa código NC ex
+tabacos código NC ex
+nitratos código NC ex
+Disposiciones relativas certificados
+Presentación certificados
+certificados conformes modelos figuran presente anexo
+imprimirán rellenarán lenguas oficiales Unión Europea caso lengua oficial lenguas oficiales país exportación
+formato certificados milímetros deberá utilizarse papel color blanco peso gramos metro cuadrado
+Visados expedición certificados
+certificados deberán debidamente visados considerará certificado debidamente visado indique lugar fecha expedición lleve sello organismo emisor firma firmas persona personas habilitadas fimarlo
+certificados deberán expedidos organismos enumerados cuadro figura continuación organismo
+reconocido país exportador
+comprometa comprobar indicaciones figuren certificados
+comprometa facilitar Comisión miembros requerido información permita comprobar indicaciones figuren certificados
+países exportadores enviarán Comisión muestra sellos utilizados organismos emisores caso organismo autorizados
+Comisión informará autoridades aduaneras miembros
+Validez certificados
+período validez certificado meses caso tabaco veinticuatro meses fecha expedición
+Fraccionamento envíos
+caso fraccionamiento envío hará fotocopia certificado original lote resultante fraccionamiento
+fotocopias certificado original deberán presentarse aduana competente
+certificado original deberá anotación pertinente fracionamiento envío quedará aduana correspondiente
+Organismo emisor
+Lugar establecimiento
+Unidos América
+Tobacco Association of the United States organismos autorizados
+Raleigh Carolina Norte
+Canadá
+Canadian Food Inspection Agency organismos autorizados
+Cámara Tabaco Salta organismos autorizados
+Cámara Tabaco Jujuy organismos autorizados
+Cámara Comercio Exterior Misiones organismos autorizados
+Ministry of Agriculture Department of Agriculture Extension Cash Crop Division organismos autorizados
+Brasil
+Federação das Indústrias do Santa Catarina organismos autorizados
+Banco do Brasil SA organismos autorizados
+Agência Negócios Internacionais
+Agência Negócios Internacionais
+Agência Negócios Internacionais
+Agência Negócios Internacionais
+Agência Negócios Internacionais
+EntryExit Inspection Quarantine Bureau Shanghai organismos autorizados
+EntryExit Inspection Quarantine Bureau Shandong organismos autorizados
+EntryExit Inspection Quarantine Bureau Hubei organismos autorizados
+EntryExit Inspection Quarantine Bureau Guangdong organismos autorizados
+EntryExit Inspection Quarantine Bureau Liaoning organismos autorizados
+EntryExit Inspection Quarantine Bureau Yunnan organismos autorizados
+EntryExit Inspection Quarantine Bureau Hainan organismos autorizados
+EntryExit Inspection Quarantine Bureau Inner Mongolia organismos autorizados
+EntryExit Inspection Quarantine Bureau Anhui organismos autorizados
+EntryExit Inspection Quarantine Bureau Beijing organismos autorizados
+EntryExit Inspection Quarantine Bureau Chongqing organismos autorizados
+EntryExit Inspection Quarantine Bureau Fujian organismos autorizados
+EntryExit Inspection Quarantine Bureau Gansu organismos autorizados
+EntryExit Inspection Quarantine Bureau Guangxi organismos autorizados
+EntryExit Inspection Quarantine Bureau Guizhou organismos autorizados
+EntryExit Inspection Quarantine Bureau Hebei organismos autorizados
+EntryExit Inspection Quarantine Bureau Henan organismos autorizados
+EntryExit Inspection Quarantine Bureau Hunan organismos autorizados
+EntryExit Inspection Quarantine Bureau Jiangsu organismos autorizados
+EntryExit Inspection Quarantine Bureau Jiangxi organismos autorizados
+EntryExit Inspection Quarantine Bureau Jilin organismos autorizados
+EntryExit Inspection Quarantine Bureau Zhejiang organismos autorizados
+EntryExit Inspection Quarantine Bureau Ningxia organismos autorizados
+EntryExit Inspection Quarantine Bureau Qinghai organismos autorizados
+EntryExit Inspection Quarantine Bureau Shaanxi organismos autorizados
+EntryExit Inspection Quarantine Bureau Shanxi organismos autorizados
+EntryExit Inspection Quarantine Bureau Guangdong organismos autorizados
+EntryExit Inspection Quarantine Bureau Sichuan organismos autorizados
+EntryExit Inspection Quarantine Bureau Tianjin organismos autorizados
+EntryExit Inspection Quarantine Bureau Tibet organismos autorizados
+EntryExit Inspection Quarantine Bureau Xinjiang organismos autorizados
+EntryExit Inspection Quarantine Bureau Zhuhai Guangdong organismos autorizados
+EntryExit Inspection Quarantine Heilongjiang organismos autorizados
+Colombia
+Superintendencia Industria Comercio División Control Normas Calidades organismos autorizados
+Empresa Cubana Tabaco Cubatabaco organismos autorizados
+Dirección Comercio Interior Exterior Ministerio Economía organismos autorizados
+Tobacco Board organismos autorizados
+México
+Secretaría Economia Dirección General Comercio Exterior organismos autorizados
+Filipinas
+Corea Sur
+Korea Tobacco and Ginseng Corporation organismos autorizados
+Department of Commerce organismos autorizados
+Suiza
+Berna
+Lista certificados
+Certificado
+CERTIFICADO AUTENTICIDAD UVAS FRESCAS MESA EMPERADOR
+Certificado
+CERTIFICADO AUTENTICIDAD TABACOS
+Certificado
+CERTIFICADO CALIDAD NITRATO CHILE
+Exportador
+Número
+ORGANISMO EMISOR
+Destinatario
+CERTIFICADO AUTENTICIDAD
+UVAS FRESCAS MESA EMPERADOR
+código nomenclatura combinada
+transporte
+Lugar descarga
+Marcas numeración número naturaleza bultos
+Peso bruto kg
+Peso neto kg
+Peso neto kg letras
+VISADO ORGANISMO EMISOR
+Certifico uvas descritas certificado uvas frescas mesa variedad Emperador Vitis vinifera cv
+Lugar
+Fecha
+Sello impreso previamente firma
+cumplimentar exportador
+Exportador
+Destinatario
+transporte
+CERTIFICADO AUTENTICIDAD TABACOS
+subpartidas nomenclatura combinada
+Marcas numeración Número clase bultos
+Certifico tabaco descrito certificado tabaco flue cured tipo Virginiatabaco light aircured tipo Burley incluidos híbridos Burley tabaco light aircured tipo Marylandtabaco firecured
+Táchese proceda
+Remitente nombre dirección completa
+CERTIFICADO CALIDAD NITRATO CHILE
+subpartidas and nomenclatura combinada
+Destinatario nombre apellidos dirección compelta
+ORGANISMO EMISOR
+OBSERVACIONES
+Barco
+Puerto embarque
+Conocimiento
+Marcas números cantidad sacos indicación granel
+Cantidad toneladas
+Cantidad toneladas métricas letras
+VISADO ORGANISMO EMISOR
+Servicio Nacional Geología Minería certifica cargamento nitrato descrito constituido
+nitrato sodio natural Chile contenido nitrógeno superior pes
+nitrato sódico potásico natural Chile consistente mezcla nitrato sodio nitrato potasio proporción elemento alcanzar contenido global nitrógeno superior peso producido Chile obtenido lixiviación mineral nitrato llamado caliche solución acuosa seguido cristalización fraccionada enfriamiento evaporación solar
+Lugar fecha
+Firma
+Sello
+RESERVADO AUTORIDADES ADUANERAS COMUNIDAD
+entenderá envases continentes exteriores interiores acondicionamientos envueltas soportes exclusión medios transporte principalmente contenedores containers toldos pertrechos material accesorio transporte
+término incluye continentes contemplados regla general
+DO
+DO
+DO
+subpartidas correspondientes siguientes
+DO
+DO
+DO
+capacidad carga útil toneladas ct entenderá capacidad carga barco expresada toneladas
+mercancías transportadas provisiones bordo carburantes útiles víveres etc personas transportadas personal pasajeros equipajes tomarán consideración cálculo capacidad carga útil
+Contingentes arancelarios OMC véase anexo
+inclusión subpartida subordinará condiciones previstas disposiciones comunitarias dictadas materia véanse Directiva CE Consejo DO Reglamento CE Comisión DO
+inclusión subpartida sujeta condiciones fijadas disposiciones comunitarias pertinentes véanse artículos Reglamento CEE Comisión DO
+inclusión subpartida subordinará condiciones previstas disposiciones comunitarias dictadas materia véanse Directiva CEE Consejo DO Reglamento CEE Comisión DO Directiva CE Consejo DO Decisión CE Comisión DO
+inclusión subpartida subordinará condiciones previstas disposiciones comunitarias dictadas materia véanse Directiva CEE Consejo DO Directiva CE Consejo DO Decisión CE Comisión DO
+inclusión subpartida subordinará condiciones previstas disposiciones comunitarias dictadas materia véanse Directiva CEE Consejo DO Directiva CE Consejo DO Reglamento CE Comisión DO Decisión CE Comisión DO
+inclusión subpartida subordinada presentación certificado autenticidad entregado condiciones previstas Reglamento CEE Comisión DO
+Tipo derechos autónomos exención
+enero febrero junio diciembre
+Contingente arancelario OMC véase anexo febrero junio exención
+enero febrero junio diciembre febrero junio exención
+enero febrero junio diciembre febrero junio exención
+enero febrero junio diciembre febrero junio exención
+Véase anexo
+derecho kg producto suma importe kg indicado multiplicado peso materia láctica contenida kg producto yb importe indicado
+derecho kg producto importe kg indicado multiplicado peso materia seca láctica contenida kg producto
+derecho kg producto suma importe kg indicado multiplicado peso materia seca láctica contenida kg producto yb importe indicado
+inclusión subpartida subordinará condiciones previstas disposiciones comunitarias dictadas materia véase artículo Reglamento CE Comisión DO artículos Reglamento CEE Comisión DO
+inclusión subpartida subordinará condiciones previstas disposiciones comunitarias dictadas materia véase artículo Reglamento CE Comisión DO
+inclusión subpartida subordinará condiciones previstas disposiciones comunitarias dictadas materia véase Reglamento CE Consejo DO
+inclusión subpartida subordinará condiciones previstas título II letra disposiciones preliminares
+Vial vial corresponde cantidad necesaria inseminación
+enero mayo junio octubre noviembre diciembre
+Tipo derechos autónomos
+Véase anexo
+montante específico medida autónoma percibirá peso neto escurrido
+enero mayo
+Contingente arancelario OMC véase anexo mayo junio
+enero abril MIN kg neto abril noviembre MIN kg neto diciembre MIN kg neto
+enero marzo MIN kg br abril noviembre MIN kg br diciembre MIN kg br
+enero abril mayo septiembre octubre diciembre
+enero mayo junio agosto septiembre diciembre
+enero junio MIN kg neto julio septiembre MIN kg neto octubre diciembre MIN kg neto
+inclusión subpartida subordinará condiciones previstas disposiciones comunitarias dictadas materia véase Reglamento CE Comisión DO
+enero mayo junio noviembre diciembre
+enero marzo abril octubre octubre diciembre
+enero abril mayo octubre noviembre diciembre
+enero julio julio octubre noviembre diciembre
+enero abril mayo julio MIN kg neto agosto diciembre
+enero mayo mayo noviembre noviembre diciembre
+Tipo derechos autónomos
+cereales incluidos partidas ex trigo centeno ex maíz semillas híbridas ex sorgo híbridos siembra Comunidad compromete aplicar derecho precio importación despachado aduana dichos cereales superior precio intervención efectivo caso modificarse sistema actual precio apoyo efectivo aumentado derecho aplicado caso superior derecho indicado columna
+arroz descascarillado incluido subpartidas Comunidad compromete aplicar derecho precio importación despachado aduana superior precio intervención efectivo caso modificarse sistema actual precio apoyo efectivo aumentado arroz Japonica arroz Indica respecta arroz blanqueado procentajes incrementarán actual método cálculo precio umbral aplicable arroz blanqueado derecho aplicado caso superior derecho indicado columna
+aceites partida
+aceites partida
+Condición válida aceite oliva virgen lampante subpartida aceite orujo oliva bruto subpartida
+Deltaestigmastadienol clerosterol betasitosterol sitostanol deltaavenasterol deltaestigmastadienol
+determinación porcentaje carne ave tomará consideración peso huesos
+derecho aplicable salchichas presenten recipientes contengan líquido conservación percibirá peso neto deducido peso líquido
+tipo aplicará azúcar bruto tasa rendimiento
+fracción peso sacarosa
+Tipo derecho autónomo
+suspende cobro derecho específico título autónomo período indeterminado
+indicación contrario entenderá método versión métodos determinación establecidos Comité européen normalisation CEN International Standardization Organization ISO American Society for Testing and Materials ASTM
+Véase nota complementaria
+Medidas temperatura °C
+Reducción tipo derechos cero suspensión medida autónoma tiempo indefinido gasóleo contenido azufre inferior peso
+presión milibares medida temperatura °C
+Derecho ad valorem reducido suspensión medida autónoma período indeterminado
+aplicación derecho ad valorem quedado suspendida forma autónoma nivel período indeterminado
+Tipo derechos autónomos
+Tipo derechos autónomos
+Tipo derechos autónomos
+puerta ventana marco contramarco umbral constituye unidad
+Derecho aduana suspendido carácter autónomo período indefinido preservativos poliuretano código TARIC
+Tipo derechos autónomos
+ventana puerta vidriera marco contramarco constituye unidad
+puerta marco contramarco umbral constituye unidad
+Tipo derechos autónomos
+inclusión subpartida gasas tejidos cerner confeccionar subordinará condiciones previstas título II letra disposiciones preliminares
+elementos ejemplo Be Co Fe Mn
+elementos ejemplo Cr Cu Mg Mn Zn
+tolera contenido cobre superior inferior contenido cromo manganeso superior
+Derechos aduana suspendidos cáracter autónomo período indefinido plomo destinado refino contenido plata superior peso plomo obra código TARIC
+Derechos aduana suspendidos carácter autónomo diciembre videomonitores blanco negro videomonitores monocromos aplique tecnología cristal líquido equipados conector interfaz digital visual DVI adaptador gráficos vídeo VGA cuya diagonal pantalla exceda cm pulgadas formato resolución superior megapíxeles distancia puntos superior mm código TARIC
+Derechos aduana suspendidos carácter autónomo diciembre videomonitores color aplique tecnología cristal líquido cuya diagonal pantalla superior cm pulgadas formato código TARIC
+aplicación derecho quedado provisionalmente suspendida autónoma artículos importados destinen montados aerodinos hayan beneficiado franquicia derechos construidos Comunidad
+beneficio suspensión subordinará respeto modalidades condiciones previstas disposiciones comunitarias dictadas materia véanse artículos Reglamento CEE Comisión DO
+Derechos aduana suspendidos cáracter autónomo período indefinido simuladores mantenimiento tierra aviones civil código TARIC inclusión subpartida subordinará condiciones previstas disposiciones comunitarias dictadas materia véanse artículos Reglamento CEE Comisión DO
+DO
+DO
+normas relativas aplicación precio entrada frutas hortalizas recogidas Reglamento CE DO
+Almidónfécula glucosaEl contenido mercancía presenta almidón fécula productos degradación incluidos polímeros glucosa glucosa eventualmente presente determinados tomando base glucosa expresados almidón materia seca pureza factor conversión glucosa almidón declara forma detecta mercancía mezcla glucosa cálculo porcentaje glucosa supere fructosa
+Sacarosa azúcar invertido isoglucosaEl contenido mercancía presenta sacarosa adicionado resulte cálculo expresado sacarosa mezcla glucosa fructosa suma aritmética cantidades azúcares multiplicada declare forma detecte mercancía contenido fructosa inferior glucosa cálculo glucosa contenido fructosa NBEn caso declare presencia hidrolizado lactosa detecte galactosa efectuar cálculos necesario restar contenido glucosa cantidad glucosa equivalente galactosa
+Proteínas lecheLas caseínas caseinatos utilizados composición mercancía considerados proteínas leche mercancía contiene componentes origen láctico grasa butírica contenida mercancía porcentaje inferior peso lactosa contenida mercancía porcentaje inferior peso consideran componentes origen láctico cumplimentadas formalidades aduaneras interesado deberá indicar declaración prevista efecto Único ingrediente lácteo caseína caseinato caso
+Precio entrada fijado título autónomo
+Tipo derechos autónomos
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+Tipo derechos autónomos kg net
+contingentes partida véanse números orden
+índice fĳado autoridades comunitarias competentes garantizar agotamiento contingente
+columna recoge números correspondientes Rewe Colour Index edición Bradford Inglaterra
+modificaciones introducir lista año efectuarán publicación serie Diario Oficial Unión Europea
+percepción derecho aduana queda suspendida carácter autónomo período tiempo indeterminado productos deban sometidos tratamiento definido código TARIC
+suspensión queda supeditada respeto condiciones establecidas disposiciones comunitarias pertinentes véanse artículos Reglamento CEE Comisión DO
+Tratamiento arancelario favorable tabacos rubios curados aire light aircured tipo Burley incluidos híbridos Burley light aircured tipo Maryland MIN MAX kg net
+tratamiento arancelario favorable subordinará cumplimiento formalidades condiciones previstas letra título II disposiciones preliminares
+Tratamiento arancelario favorable tabaco curado aire caliente fluecured tipo Virginia MIN MAX kg net
+Tratamiento arancelario favorable tabaco curado fuego firecured MIN MAX kg net
+grado alcohólico adquirido inferior vol hl grado alcohólico adquirido superior inferior vol hl
+grado alcohólico adquirido inferior vol hl grado alcohólico adquirido superior inferior vol hl
+grado alcohólico adquirido superior inferior vol hl grado alcohólico adquirido superior inferior vol hl
+grado alcohólico adquirido superior inferior vol hl grado alcohólico adquirido superior inferior vol hl
+grado alcohólico adquirido inferior vol hl grado alcohólico adquirido superior inferior vol hl grado alcohólico adquirido superior inferior vol hl grado alcohólico adquirido superior inferior vol hl grado alcohólico adquirido superior vol vol hl
+grado alcohólico adquirido inferior vol hl grado alcohólico adquirido superior inferior vol hl
+grado alcohólico adquirido inferior vol hl grado alcohólico adquirido superior inferior vol hl
+grado alcohólico adquirido superior inferior vol hl grado alcohólico adquirido superior inferior vol hl
+grado alcohólico adquirido superior inferior vol hl grado alcohólico adquirido superior inferior vol hl
+grado alcohólico adquirido inferior vol hl grado alcohólico adquirido superior inferior vol hl grado alcohólico adquirido superior inferior vol hl grado alcohólico adquirido superior inferior vol hl grado alcohólico adquirido superior vol vol hl
+Animales vivos productos reino animal
+Kilogramo metilamina
+Psitaciformes incluidos loros guacamayos cacatúas papagayos
+Kefalotyri
+Danbo fontal fontina fynbo havarti maribo samso
+Esrom itálico kernhem saintnectaire saintpaulin taleggio
+Materias vegetales especies utilizadas principalmente cestería espartería ejemplo bambú roten ratán caña junco mimbre rafia paja cereales limpiada blanqueada teñida corteza tilo
+Colesterol
+Betasitosterol
+Bonitos Sarda spp
+Bourgogne Borgoña
+Val Loire Valle Loira
+Lazio Lacio
+Toscana
+Piemonte Piamonte
+Vino Marsala
+Óleum
+Etclorvinol DCI
+Mentol
+Clordimeformo ISO
+PoliNhidroxiiminodimetilbutilacrilamida
+Tejidos mezclilla denim
+telas parcialmente recubiertas tundizno polvo corcho productos análogos presenten dibujos producidos tratamientos imitaciones terciopelo clasifican partida
+metal precioso chapado metal precioso plaqué
+Talio
+Hafnio celtio
+Hafnio celtio germanio
+Lámparas tubos válvulas electrónicos cátodo caliente cátodo frío fotocátodo ejemplo lámparas tubos válvulas vacío vapor gas tubos rectificadores vapor mercurio tubos catódicos tubos válvulas cámaras televisión partida
+instrumentos aparatos especialmente concebidos técnicas telecomunicación ejemplo hipsómetros kerdómetros distorsiómetros sofómetros
+Γωνία Μιχαήλ Καραολή Και Γρηγόρη Αυξεντίου
+Γωνία Μιχαήλ Καραολή Και Γρ
+Valdemāra ielā
+Statistinčni urad Republike Slovenije
+Štatisticky úrad SR
+fibrinógeno
+angiotensina II
+eptotermina
+fluorouracilo
+limazócico
+insulina lispro
+insulina detemir
+insulina defalán
+gramicidina
+polimixina
+hemoglobina glutámero
+hemoglobina ráfimero
+ibritumomab tiuxetano
+epitumomab cituxetano
+inotuzumab ozogamicina
+edodekina alfa
+antitrombina alfa
+cintredekina besudotox
+acetofénido
+feniletanodiilbisoxi
+adipato
+hexanodioato
+aminosalicilato
+tercbutil éster
+tbutil éster terciariobutil éster butil éster
+butilo butirato
+butilato
+butanoato calcio
+calcio cálcico sal calcio
+trimetilciclopentanodicarboxilato
+caproato DCIRG
+hexanoato DCIQS
+carbamato
+carbesilato DCIRG
+sulfobenzoato DCIQS carbonato ciclamato DCIRG
+Nciclohexilsulfamato ciclohexilsulfamato DCIQS ciclohexilamina ciclohexilamonio
+ciclohexilpropionato ciclohexanopropionato
+dihidroxioxoHcromenilmetanosulfonato DCIQS
+Lalaninato éster metiloxodioxolilmetil DCIQS
+daropato DCIRG
+decanoato
+desBLfenilalaninainsulina DCIQS
+dibudinato DCIRG
+ditercbutilnaftalenodisulfonato DCIQS
+ditercbutilnaftalenosulfonato DCIQS
+dicibato DCIRG
+diciclohexilamina
+diciclohexilamonio
+NLmetionilLhistidinaLalaninatoxina cepa Corynebacterium diphtheriae DCIQS
+dihidroxibenzoato
+Ndimetilβalanina
+dofosfato DCIRG
+glucósido
+glulisina DCIRG
+guanidina
+ohidroxibenzoilbenzoato hidróxido
+hidroxinaftoato DCIRG
+piridinacarboxilato
+Nmetil bromuro sal DCIQS
+poliglumex DCIRG
+Zoctadecenoato DCIQS
+succinato
+butanodioato
+butanodiol
+metilsulfoetilaminooxooctanoato éster sal monosódica DCIQS
+sulfato DCIRG
+sulfinato
+sulfito
+sulfobenzoato
+sulfosalicilato
+enterotoxina Staphyloccus aureus DCIQS
+tanato
+tofesilato DCIRG
+tosilato DCIRG
+ptoluenosulfonato
+triclorofenolato DCIQS
+triéstearato DCIRG
+octadecanoato trisoctadecanoato DCIQS
+triflutato DCIRG
+fluorometilaminometilfeniltetrahidroHazepinocdindolona
+rifamicina
+Esrom itálico kernhem saintpaulin
+Crisoína
+fotocopia deberá constar nombre dirección destinatario lote indicación color rojo Extracto válido kilogramos cifras letras lugar fecha fraccionamiento
+indicaciones autenticarán sello aduana firma funcionario aduanas responsable
+Lista organismos habilitados sellar certificados Código NC
+País exportador
+Bogotá
+Servicio Nacional Geología Minería
+Yerba mate
+Estigmasterol
+Deltaestigmasterol
+Alsace Alsacia
+Designación mercancía
+Glicerol
+artículos desechables cubrir pies calzado materiales livianos resistentes ejemplo papel hojas plástico suela aplicada régimen materia constitutiva
+aparatos peso inferior kg ventiladores campanas aspirantes extracción reciclado ventilador incorporado filtro partida secadoras centrífugas ropa partida máquinas lavar vajilla partida máquinas lavar ropa partida máquinas planchar partidas trate calandrias tipos máquinas coser partida tijeras eléctricas partida aparatos electrotérmicos partida
+metilpentinol
+ostreogricina
+micamicina
+virginiamicina
+pristinamicina
+propenil
+aluminio
+benzoato DCIRG
+bromuro butilo
+Nbutilo bromuro sal
+etilioduro
+yoduro etilo
+’’’nitrilotrietanol DCIQS
+Htriazolobpiridinol
+Habana
+Ciudad Guatemala
+Quezón City
+República Chile
+Página
+Inulina
+Opio
+Pertenecerán subpartida aceites obtenidos tratamiento aceites subpartida adición aceites oliva virgen presenten características aceites contemplados notas complementarias aceites subpartida contenido monopalmitato glicerilo inferior suma isómeros transoleicos inferior isómeros translinoleicos translinolénicos inferior diferencia composición HPLC composición teórica triglicéridos ECN inferior
+Linoxina
+Degrás
+Bordeaux Burdeos
+Vino Jerez
+Armañac
+Caolín
+partidas entiende minerales especies mineralógicas efectivamente utilizadas metalurgia extracción mercurio metales partida metales secciones XIV XV destinen metalurgia condición hayan sometido tratamientos usuales industria metalúrgica
+Argón
+Helio
+Dieldrina ISO DCI
+NDiisopropilaminoetanol
+Tetrahidrofurano
+Látex
+Papel cartón caras cubiertas Kraftliner
+Linóleo
+Paladio
+Rodio
+Indio
+Galio
+Germanio
+alusulfo
+auranofina
+satraplatino
+miriplatino
+eptaplatino
+padoporfina
+perflutreno
+perflubrón
+fluretofeno
+egualeno
+busulfano
+treosulfano
+manosulfano
+etclorvinol
+clorobutanol
+dihidrotaquisterol
+dietilestilbestrol
+bencestrol
+metestrol
+dicloroxilenol
+flurotilo
+haloprogina
+entsufón
+dieldrina
+etoglúcido
+petricloral
+cloralodol
+toloxiclorinol
+xenigloxal
+dimepregneno
+irofulveno
+desaspidina
+ditranol
+dantrón
+triacetina
+acebrocol
+tripalmitina
+permetrina
+fenflutrina
+xenbucina
+flurbiprofeno
+fluprofeno
+hexaprofeno
+tetriprofeno
+mexoprofeno
+dexibuprofeno
+esflurbiprofeno
+butibufén
+isoprofeno
+vedaprofeno
+xenalipina
+pelretina
+pravastatina
+lodelabén
+dipirocetilo
+terbuficina
+ketoprofeno
+dexketoprofeno
+fenbufén
+metbufén
+loxoprofeno
+pelubiprofeno
+nafenopina
+diacereína
+naproxeno
+gemfibrozilo
+exiprobén
+fenoprofeno
+lonaprofeno
+acitretina
+losmiprofeno
+baqueprofeno
+diclorvós
+bromofenofós
+bromofós
+melitraceno
+litraceno
+anfepentorex
+fluotraceno
+etambutol
+proadifeno
+oxeladina
+acetilmetadol
+noracimetadol
+dietifeno
+ritrosulfano
+oxibutinina
+estevaladil
+tamoxifeno
+improsulfano
+tofenacina
+tiromedán
+betametadol
+betacetilmetadol
+levacetilmetadol
+mantabegrón
+espirendolol
+esoxibutinina
+talibegrón
+isobutambén
+clorambucilo
+metamelfalán
+dapabutano
+araprofeno
+alminoprofeno
+cetabén
+gabapentina
+vigabatrina
+pregabalina
+dioxetedrina
+metildopa
+bametán
+forfenimexa
+solabegrón
+ritobegrón
+pepstatina
+timalfasina
+lufenurón
+tribromsalán
+dibromsalán
+etamiván
+osalmida
+acedobén
+bucetina
+bunamiodilo
+metabromsalán
+flusalán
+bensalán
+dinalina
+olvanilo
+lidofenina
+etifenina
+disofenina
+butilfenina
+mebrofenina
+mabuprofeno
+aloxistatina
+milnaciprán
+galtifenina
+davasaicina
+pexiganán
+aliskirén
+tabimorelina
+taltobulina
+alonimida
+tetrametrina
+alrestatina
+clorproguanil
+metformina
+buformina
+tiformina
+etoformina
+timotrinán
+xemilofibán
+verapamilo
+nitroxinilo
+anfetaminilo
+dexverapamilo
+emopamilo
+anipamilo
+dagapamilo
+ronipamilo
+devapamilo
+levemopamilo
+nexopamilo
+laflunimús
+clorazodina
+cimemoxina
+benmoxina
+ximoprofeno
+eplivanserina
+fenleutón
+marimastato
+naftalofós
+benfosformina
+tiram
+cilastatina
+salnacedina
+cinaproxeno
+tiomersal
+tifenamilo
+bitionol
+dixantogeno
+cinanserina
+tiopronina
+temefós
+noxitiolina
+tiosalán
+suloxifeno
+dextiopronina
+ritiometán
+ontianilo
+adrafinilo
+modafinilo
+netobimina
+nagliván
+propagermanio
+repagermanio
+clormerodrina
+mersalilo
+butafosfán
+toldimfós
+alafosfalina
+tetrofosmina
+fenamifurilo
+fursalán
+bioresmetrina
+naftidrofurilo
+orpanoxina
+acifrán
+rostafuroxina
+warfarina
+haloxón
+bufogenina
+trioxisaleno
+oxamarina
+sulmarina
+giparmeno
+mevastatina
+tetronasina
+lovastatina
+moxadoleno
+simvastatina
+fostriecina
+dalvastatina
+amotosaleno
+protoquilol
+pentricloral
+espiroxepina
+estiripentol
+besigomsina
+artemetero
+artemotilo
+idronoxilo
+osemozotán
+enrasentán
+omigapilo
+eritorán
+ramelteón
+domoxina
+dioxatión
+kelina
+merbromina
+doxepina
+guanoxano
+ambenoxano
+cidoxepina
+dimeprozán
+taloprán
+silibinina
+silidianina
+furobufén
+nanafrocina
+artemisinina
+furaprofeno
+pirnabina
+bermoprofeno
+bervastatina
+tepoxalina
+meribendán
+etotoína
+albutoína
+doxenitoína
+metetoína
+arfalasina
+imazodán
+zimidobén
+enalquireno
+losartán
+ondansetrón
+galdansetrón
+cilansetrón
+remikireno
+fampronilo
+odalprofeno
+irbesartán
+olmesartán
+elisartán
+emfilermina
+palifermina
+imidafenacina
+repifermina
+tadekinig
+dibotermina
+fentanilo
+difenoxina
+alfentanilo
+iproniazida
+isoniazida
+diperodón
+nanofina
+biperideno
+feniramidol
+piritinol
+pasiniazida
+metanixino
+mifadol
+ciprolidol
+triflocina
+niometacina
+indoramina
+oxisurán
+danitraceno
+flunixino
+pemerida
+butanixino
+ropitoína
+isonixino
+iferanserina
+piketoprofeno
+lofentanilo
+ciamexón
+pimetacina
+fluazurón
+bisaramilo
+senazodán
+brifentanilo
+ditequireno
+donepezilo
+trefentanilo
+nadifloxacino
+bertosamilo
+lufironilo
+glemanserina
+remifentanilo
+safironilo
+xaliprodeno
+zanapecil
+lamifibán
+forasartán
+cerivastatina
+inogatrán
+alvimopán
+enzastaurín
+lotrafibán
+sibrafibán
+fidexabán
+palirodeno
+otamixabán
+elarofibán
+indibulina
+dabigatrán
+rosoxacino
+merafloxacino
+sitafloxacino
+balofloxacino
+cetefloxacino
+premafloxacino
+moxifloxacina
+olamufloxacina
+bisobrina
+dimemorfano
+irloxacino
+binfloxacino
+pitavastatina itavastatina
+garenoxacina
+pradofloxacina
+solifenacina
+palosurán
+alobarbital
+vinilbital
+metarbital
+metohexital
+tialbarbital
+tiotetrabarbital
+metitural
+heptabarbo
+bralobarbital
+eterobarbo
+propiltiouracilo
+pipobromán
+metiltiouracilo
+amprolio
+azaprocina
+trimetoprima
+pelanserina
+piposulfano
+feniripol
+ormetoprima
+mianserina
+trimazosina
+rimoprogina
+tetroxoprima
+arprinocida
+aditereno
+aditoprima
+brodimoprima
+proglumetacina
+eniluracilo
+sapropterina
+pirinixilo
+talmetoprima
+metioprima
+pefloxacino
+norfloxacino
+piritrexima
+epiroprima
+enoxacino
+ketanserina
+imanixilo
+altanserina
+vebufloxacino
+fleroxacino
+bunazosina
+vaneprima
+ciprofloxacino
+amifloxacino
+aronixilo
+lodinixilo
+frabuprofeno
+butanserina
+seganserina
+atiprosina
+divaplón
+enrofloxacino
+ocinaplón
+lomefloxacino
+sarafloxacino
+difloxacino
+lobuprofeno
+bifeprofeno
+temafloxacino
+neldazosina
+esparfloxacino
+prinoxodano
+danofloxacino
+orbifloxacino
+grepafloxacino
+adatanserina
+lesopitrón
+blonanserina
+indisetrón
+lerisetrón
+sunepitrón
+ripisartán
+zaleplón
+opanixilo
+pibrocelesina
+gatifloxacino
+fandofloxacino
+flibanserina
+donitriptán
+darusentán
+ambrisentán
+revaprazán
+feloprentán
+avanafilo
+pruvanserina
+dasantafilo
+clorazanilo
+oteracilo
+tiazurilo
+anitrazafeno
+toltrazurilo
+ponazurilo
+letrazurilo
+sulazurilo
+bemotricinol
+metiprilón
+eledoisina
+amedalina
+indoprofeno
+dexindoprofeno
+sulisatina
+indobufén
+nonatimulina
+lidanserina
+falipamilo
+adibendán
+indolidán
+alosetrón
+lurosetrón
+fabesetrón
+palonosetrón
+tasosartán
+fradafibán
+lefradafibán
+embusartán
+orbofibán
+daglutrilo
+apixabán
+mozavaptá
+tolvaptán
+dibenzepina
+ciprazepam
+dazepinilo
+flumazenilo
+percinfotel
+lixivaptán
+mocenavir
+tiotepa
+indometacina
+mebhidrolina
+oxitriptán
+pentagastrina
+hidroxindasol
+delmetacina
+amogastrina
+cinmetacina
+daledalina
+duometacina
+tolmetina
+oxametacina
+pirprofeno
+benzotripto
+desglugastrina
+acemetacina
+bufrolina
+triafungina
+miroprofeno
+sermetacina
+imexón
+imafeno
+deximafeno
+zidometacina
+oxifungina
+azimexón
+lotrifeno
+napirimús
+pimobendán
+azamulina
+esafloxacino
+ibafloxacino
+fluvastatina
+tasonermina
+efegatrán
+tosufloxacino
+talaporfina
+dolasetrón
+isamoltán
+mivobulina
+bivalirudina
+verteporfina
+bizelesina
+simendán
+ramosetrón
+atorvastatina
+mipitrobán
+valsartán
+abitesartán
+levosimendán
+eletriptán
+rizatriptán
+telmisartán
+pomisartán
+trovafloxacino
+soblidotina
+pratosartán
+alatrofloxacino
+frovatriptán
+cemadotina
+melagatrán
+silodosina
+ecenofloxacino
+motexafina
+tasidotina
+ximelagatrán
+omiganán
+gemifloxacina
+lemuteporfina
+zabofloxacino
+rafabegrón
+linaprazán
+soraprazán
+vildagliptina
+rostaporfina
+saxagliptina
+atilmotina
+tanogitrán
+etozolina
+nitrodán
+podilfeno
+piprozolina
+brofezilo
+zoliprofeno
+benpenolisina
+zanquireno
+deferitrina
+tazeprofeno
+flutiazina
+sufentanilo
+piperoxano
+nitrofurantoína
+dosulepina
+arstinol
+mesulfeno
+protipendilo
+isotipendilo
+nifurdazilo
+oxipendilo
+tiazesima
+aprotinina
+pinoxepina
+xantiol
+pizotifeno
+tibrofán
+pirantel
+benoxafós
+bisoxatina
+fominobén
+prazosina
+aranotina
+oxaprozina
+metoxepina
+amoproxano
+pipoxolán
+cinoxacino
+pirazofurina
+proroxano
+ketotifeno
+tioxacino
+droxacino
+ribavirina
+miloxacino
+tioxaprofeno
+suprofeno
+espirogermanio
+acivicina
+benoxaprofeno
+pranoprofeno
+sirolimús
+pentostatina
+tiapamilo
+clopipazán
+ebseleno
+terazosina
+tibalosina
+maroxepina
+nabitán
+flunoxaprofeno
+tiodazosina
+talmetacina
+amlexanoxo
+sorbinilo
+estepronina
+azaloxano
+doxazosina
+savoxepina
+idazoxano
+imiloxán
+alfuzosina
+etolotifeno
+ofloxacino
+tizabrina
+espirapril
+menabitán
+ritanserina
+disoxarilo
+efaroxano
+zaltoprofeno
+tipentosina
+flesinoxano
+levofloxacino
+eprovafeno
+rufloxacino
+fluparoxán
+taniplona
+fasiplona
+isomolpán
+atliprofeno
+utibaprilo
+selodenosón
+adozelesina
+zileutón
+bemoradán
+dalfopristina
+ulifloxacino
+marbofloxacino
+mirfentanilo
+terlakireno
+trombomodulina
+midostaurina
+naroparcilo
+glenvastatina
+azasetrón
+prulifloxacino
+panadiplón
+pazufloxacino
+zamifenacina
+fananserina
+beciparcilo
+trafermina
+monatepilo
+eprosartán
+darifenacina
+beloxepina
+iliparcilo
+odiparcilo
+plitidepsina
+lepirudina
+zolmitriptán
+dexefaroxán
+ifetrobán
+ciprokireno
+fomivirseno
+binodenosón
+zolasartán
+milfasartán
+afovirseno
+alniditán
+upidosina
+atreleutón
+efavirenzo
+eperezolida
+ruboxistaurina
+roxifibán
+tadalafilo
+mitratapida
+gantofibán
+liatermina
+oblimerseno
+atrasentán
+telbermina
+fiduxosina
+finafloxacina
+razaxabán
+fandosentán
+adargileukina
+iseganán
+barusibán
+ardenermina
+regadenosón
+indiplón
+sarizotán
+elzasonán
+rivaroxabán
+ismomultina
+beminafilo
+radotermina
+probenecida
+gliprotiazol
+dinsedo
+sulfanitrán
+sulfabenzo
+glibutiazol
+sulfaperina
+azabón
+etebenecida
+tosifeno
+uredofós
+sulotrobán
+daltrobán
+sumatriptán
+tamsulosina
+domitrobán
+ramatrobán
+linotrobán
+naratriptán
+sildenafilo
+tirofibán
+repinotán
+saprisartán
+bosentano
+avitriptán
+almotriptán
+napsagatrán
+ibutamoreno
+terutrobán
+tezosentán
+sitaxentán
+satavaptán
+batabulina
+taprizosina
+edonentán
+dabuzalgrón
+vardenafilo
+reparixina
+udenafilo
+rosuvastatina
+avosentán
+nebentán
+tretinoína
+isotretinoína
+alitretinoína
+riboflavina
+dexpantenol
+pantenol
+biotina
+somatropina
+oxitocina
+demoxitocina
+argiprestocina
+protirelina
+gonadorelina
+saralasina
+fertirelina
+somatostatina
+leuprorelina
+murodermina
+triptorelina
+deslorelina
+buserelina
+orotirelina
+goserelina
+lutrelina
+timopentina
+histrelina
+nafarelina
+posatirelina
+somatorelina
+sermorelina
+montirelina
+azetirelina
+taltirelina
+dumorelina
+ersofermina
+insulina asparta
+avorelina
+sonermina
+rismorelina
+peforelina
+lutropina alfa
+cetermina
+pralmorelina
+ipamorelina
+coriogonadotropina alfa
+abrineurina
+avotermina
+metreleptina
+timoestimulina
+ancinafal
+linestrenol
+etinilestradiol
+noretinodrel
+alilestrenol
+etilestrenol
+etinodiol
+metinodiol
+tosagestina
+metandriol
+estanozolol
+norelgestromina
+uliprisnilo
+asoprisnilo
+tiroglobulina
+deprostilo
+arbaprostilo
+etiprostón
+trimoprostilo
+ornoprostilo
+enprostilo
+rioprostilo
+mexiprostilo
+lanprostón
+espiriprostilo
+diosmina
+troxerutina
+monoxerutina
+digitoxina
+acetildigitoxina
+gitaloxina
+pengitoxina
+digoxina
+proscilaridina
+polisaponina
+keracianina
+ramnodigina
+meproscilarina
+metopón
+euprocina
+dimetazán
+sultroponio
+bemesetrón
+tropanserina
+tropisetrón
+granisetrón
+itasetrón
+zatosetrón
+mirisetrón
+estreptomicina
+estreptoniazida
+bluensomicina
+paldimicina
+eritromicina
+beritromicina
+lexitromicina
+diritromicina
+roxitromicina
+fluritromicina
+ardacina
+ozogamicina
+mitomicina
+puromicina
+kanamicina
+framicetina
+pleuromulina
+griseofulvina
+cefalotina
+novobiocina
+filipina
+porfiromicina
+pirrolnitrina
+endomicina
+kitasamicina
+hachimicina
+nistatina
+tilosina
+ambomicina
+anfomicina
+antelmicina
+duazomicina
+gentamicina
+hamicina
+neomicina
+neutramicina
+nogalamicina
+peliomicina
+relomicina
+ristocetina
+rutamicina
+esparsomicina
+estreptovaricina
+viridofulvina
+sulfomixina
+bacitracina
+gramicidina
+metocidina
+troleandomicina
+cefaloglicina
+oleandomicina
+aspartocina
+bekanamicina
+antramicina
+cefalonio
+rifamicina
+paromomicina
+azotomicina
+natamicina
+espiramicina
+zinostatina
+lidimicina
+olivomicina
+levorina
+bambermicina
+heliomicina
+estefimicina
+mitomalcina
+nebramicina
+kalafungina
+avilamicina
+bleomicina
+ranimicina
+biniramicina
+cirolemicina
+mitospero
+nifungina
+partricina
+enramicina
+mepartricina
+mupirocina
+butirosina
+lucimicina
+rifampicina
+diproleandomicina
+cefalexina
+josamicina
+monensina
+estreptozocina
+pecilocina
+daunorubicina
+volpristina
+cefapirina
+fumagilina
+fosfomicina
+doxorubicina
+ribostamicina
+cefazolina
+lasalócido
+megalomicina
+sisomicina
+tobramicina
+viomicina
+enviomicina
+dibekacina
+cefoxitina
+maridomicina
+rosaramicina
+lividomicina
+apramicina
+avoparcina
+amikacina
+primicina
+cefadroxilo
+mocimicina
+arbekacina
+cefrotilo
+salinomicina
+zorubicina
+vistatolón
+azalomicina
+narasina
+tiamulina
+astromicina
+pentisomicina
+valrubicina
+laidlomicina
+netilmicina
+epirubicina
+efrotomicina
+repromicina
+isepamicina
+ambruticina
+sinefungina
+idarubicina
+butikacina
+paulomicina
+cefonicida
+plauracina
+cefsulodina
+esorubicina
+medorubicina
+talisomicina
+detorubicina
+cefivitrilo
+fosmidomicina
+propikacina
+peplomicina
+cefotetán
+etisomicina
+leurubicina
+menogarilo
+pirarubicina
+rifabutina
+rokitamicina
+ramoplanina
+cilofungina
+pirlimicina
+rifaximina
+azitromicina
+maduramicina
+cefprozilo
+rodorubicina
+elsamitrucina
+ceftibuteno
+valnemulina
+cefditoreno
+nemorubicina
+evernimicina
+amrubicina
+rifamexilo
+cefozoprán
+semduramicina
+ganefromicina
+mideplanina
+cefoselís
+basifungina
+abafungina
+rifalazilo
+cefmatileno
+galarrubicina
+orientiparcina
+anidulafungina
+ladirubicina
+oritavancina
+dalbavancina
+telitromicina
+cetromicina
+sabarrubicina
+tulatromicina
+retapamulina
+cefovecina
+telavancina
+desirudina
+interferón beta
+interferón alfa
+pifonakina
+mobenakina
+atexakina alfa
+oprelvekina
+epoetina omega
+epoetina épsilon
+binetrakina
+darbepoyoetina alfa
+epoyetina zeta
+pegaldesleukina
+plusonermina
+quiniofón
+fuladectina
+aloxiprina
+poloxaleno
+quimopapaína
+quimotripsina
+orgoteína
+batroxobina
+pegorgoteína
+surfómero
+polibenzarsol
+peginterferón alfaa
+pegmusirudina
+polinoxilina
+tolevámero
+maletámero
+leuciglúmero
+sevelámero
+ferropolimalero
+glusoferrón
+polifeprosán
+dextriferrón
+sizofirán
+dextranómero
+gleptoferrón
+cideferrón
+alidexímero DCIRG
+anisatilo DCIRG
+arbamel DCIRG
+dimetilaminooxoetilo DCIQS
+aritox DCIRG
+asparta DCIRG
+axetilo DCIRG
+racacetiloxietilo DCIQS
+racciclohexiloxicarboniloxietilo DCIQS cinamato fenilpropenoato cipionato DCIRG ciclopentanopropionato
+deanilo DCIRG
+dimetilaminoetilo DCIQS
+decilo DCIRG
+decilo DCIQS
+defalan DCIRG
+determir DCIRG
+tetradecanoil DCIQS
+diftitox DCIRG
+digolilo DCIRG
+tercbutilamina tbutilamina terciario butilamina metilpropanamina DCIQS
+fendizoato DCIRG
+hidroxibenzoilbenzoato DCIQS
+hiclato DCIRG
+lisinato
+mafenatox DCIRG
+medoxomilo DCIRG
+metiloxodioxolilmetilo DCIQS
+deoximetilaminoDglucitol
+merpentan DCIRG

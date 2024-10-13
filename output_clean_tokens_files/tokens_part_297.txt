@@ -1,0 +1,5000 @@
+Superior cm inferior cm
+Superior cm inferior cm
+Superior cm
+parámetros barrido inferiores iguales líneas diagonal pantalla
+Inferior cm
+Superior cm
+blanco negro monocromos
+Partes identificables destinadas exclusiva principalmente aparatos partidas
+Antenas
+Antenas exterior receptores radio televisión
+recepción vía satélite
+Antenas interior receptores radio televisión incluidas incorporan
+Filtros separadores antena
+Partes aparatos subpartidas
+Muebles envolturas
+cámaras televisión subpartida aparatos partidas
+Aparatos eléctricos señalización transmisión mensajes seguridad control mando vías férreas similares carreteras vías fluviales áreas parques estacionamiento instalaciones portuarias aeropuertos partida
+Material fijo aparatos vías férreas
+Aparatos eléctricos señalización acústica visual ejemplo timbres sirenas tableros indicadores avisadores protección robo incendio partidas
+Avisadores eléctricos protección robo incendio aparatos similares
+tipos utilizados edificios
+Tableros indicadores dispositivos cristal líquido LCD diodos emisores luz LED incorporados
+diodos emisores luz LED
+dispositivos cristal líquido LCD
+matriz activa
+Dispositivos visualización pantalla plana
+aparatos subpartidas
+Condensadores eléctricos fijos variables ajustables
+Condensadores fijos concebidos redes eléctricas Hz potencia reactiva superior kvar condensadores potencia
+condensadores fijos
+tantalio
+Electrolíticos aluminio
+dieléctrico cerámica capa
+dieléctrico cerámica multicapas
+dieléctrico papel plástico
+Condensadores variables ajustables
+Resistencias eléctricas calentamiento incluidos reóstatos potenciómetros
+Resistencias fijas carbono aglomeradas capa
+resistencias fijas
+potencia inferior
+Resistencias variables bobinadas incluidos reóstatos potenciómetros
+resistencias variables incluidos reóstatos potenciómetros
+Circuitos impresos
+lleven elementos conductores contactos
+Circuitos multicapas
+lleven elementos pasivos
+Aparatos corte seccionamiento protección derivación empalme conexión circuitos eléctricos ejemplo interruptores conmutadores cortacircuitos pararrayos limitadores tensión supresores sobretensión transitoria tomas corriente conectores cajas empalme tensión superior
+Fusibles cortacircuitos fusible
+Disyuntores
+tensión inferior kV
+Seccionadores interruptores
+Pararrayos limitadores tensión supresores sobretensión transitoria
+Aparatos corte seccionamiento protección derivación empalme conexión circuitos eléctricos ejemplo interruptores conmutadores relés cortacircuitos supresores sobretensión transitoria clavijas tomas corriente enchufes portalámparas conectores cajas empalme tensión inferior conectores fibras ópticas cables fibras ópticas
+intensidades inferiores iguales
+intensidades superiores inferiores iguales
+intensidades superiores
+intensidades inferiores iguales
+aparatos protección circuitos eléctricos
+intensidades inferiores iguales
+intensidades superiores inferiores iguales
+intensidades superiores
+Relés
+tensión inferior
+intensidades inferiores iguales
+intensidades superiores
+interruptores seccionadores conmutadores
+Interruptores electrónicos CA consistan circuitos entrada salida acoplamiento óptico interruptores CA tiristor aislado
+Interruptores electrónicos protección térmica compuestos transistor microplaquita lógica tecnología chiponchip
+Interruptores electromecánicos acción rápida corriente inferior
+botón pulsador
+Rotativos
+Portalámparas clavijas tomas corriente enchufes
+Portalámparas
+Portalámparas Edison
+cables coaxiales
+circuitos impresos
+Conectores fibras ópticas cables fibras ópticas
+Elementos prefabricados canalizaciones eléctricas
+Conexiones elementos contacto hilos cables
+Sondas discos wafers material semiconductor
+Cuadros paneles consolas armarios soportes equipados aparatos partidas control distribución electricidad incluidos incorporen instrumentos aparatos capítulo aparatos control numérico aparatos conmutación partida
+tensión inferior
+Controles numéricos incorporen máquina automática tratamiento procesamiento datos
+Aparatos mando memoria programable
+tensión superior
+tensión superior inferior kV
+tensión superior kV
+Partes identificables destinadas exclusiva principalmente aparatos partidas
+Cuadros paneles consolas armarios soportes partida aparatos
+sondas discos wafers material semiconductor subpartida
+Lámparas tubos eléctricos incandescencia descarga incluidos faros unidades sellados lámparas tubos rayos ultravioletas infrarrojos lámparas arco
+Faros unidades sellados
+lámparas tubos incandescencia rayos ultravioletas infrarrojos
+Halógenos volframio tungsteno
+tipos utilizados motocicletas vehículos automóviles
+tensión
+Superior
+Inferior
+potencia inferior tensión superior
+Reflectores
+Lámparas tubos descarga rayos ultravioletas
+Fluorescentes cátodo caliente
+casquillos
+Lámparas vapor mercurio sodio lámparas halogenuro metálico
+vapor mercurio
+vapor sodio
+halogenuro metálico
+Lámparas tubos rayos ultravioletas infrarrojos lámparas arco
+Lámparas arco
+rayos ultravioletas
+rayos infrarrojos
+Casquillos
+Tubos catódicos aparatos receptores televisión videomonitores
+diagonal pantalla
+Tubos cámaras televisión tubos convertidores intensificadores imagen tubos fotocátodo
+Tubos cámaras televisión
+Tubos visualizar datos gráficos colores pantalla fosfórica separación puntos inferior mm
+Tubos visualizar datos gráficos blanco negro monocromos
+tubos catódicos
+Tubos hiperfrecuencias ejemplo magnetrones klistrones tubos ondas progresivas carcinotrones controlados rejillas
+Magnetrones
+Klistrones
+lámparas tubos válvulas
+Tubos receptores amplificadores
+tubos catódicos
+Diodos transistores dispositivos semiconductores similares dispositivos semiconductores fotosensibles incluidas células fotovoltaicas estén ensambladas módulos paneles diodos emisores luz cristales piezoeléctricos montados
+Diodos fotodiodos diodos emisores luz
+Transistores fototransistores
+capacidad disipación inferior
+Tiristores diacs triacs diapositivos fotosensibles
+Dispositivos semiconductores fotosensibles incluidas células fotovoltaicas estén ensambladas módulos paneles diodos emisores luz
+Diodos emisores luz incluidos diodos láser
+dispositivos semiconductores
+Cristales piezoeléctricos montados
+Circuitos electrónicos integrados
+Procesadores controladores combinados memorias convertidores circuitos lógicos amplificadores relojes circuitos sincronización circuitos
+mercancías especificadas nota capítulo
+Memorias
+Memoria dinámica lecturaescritura acceso aleatorio DRAMs
+capacidad almacenamiento inferior Mbits
+capacidad almacenamiento superior Mbits
+Memoria estática lecturaescritura acceso aleatorio SRAMs incluida memoria cache lecturaescritura acceso aleatorio CacheRAMs
+Memoria exclusivamente lectura programable borrar rayos ultravioletas EPROMs
+Memoria exclusivamente lectura programable borrar eléctricamente EPROMs incluidas flash EPROMs
+memorias
+Amplificadores
+Máquinas aparatos eléctricos función expresados comprendidos capítulo
+Aceleradores partículas
+Generadores señales
+Máquinas aparatos galvanoplastia electrólisis electroforesis
+Máquinas eléctricas funciones traducción diccionario
+Amplificadores antena
+Bancos techos solares aparatos similares bronceado
+tubos fluorescentes rayos ultravioleta
+longitud máxima tubo cm
+Electrificadores cercas
+Hilos cables incluidos coaxiales conductores aislados electricidad estén laqueados anodizados provistos piezas conexión cables fibras ópticas constituidos fibras enfundadas individualmente conductores eléctricos provistos piezas conexión
+Alambre bobinar
+Esmaltados laqueados
+Cables conductores eléctricos coaxiales
+Juegos cables bujías encendido juegos cables tipos utilizados medios transporte
+conductores eléctricos tensión inferior
+Provistos piezas conexión
+tipos utilizados telecomunicación
+tipos utilizados telecomunicación tensión inferior
+Hilos cables cabos diámetro superior mm
+tensión inferior
+tensión superior inferior
+tensión
+conductores eléctricos tensión superior
+conductores cobre
+conductores
+Cables fibras ópticas
+Electrodos escobillas carbón carbón lámparas pilas artículos grafito carbonos metal usos eléctricos
+Electrodos
+tipos utilizados hornos
+Electrodos instalaciones electrólisis
+Escobillas
+Resistencias calentadoras
+Aisladores eléctricos materia
+vidrio
+cerámica
+partes metálicas
+partes metálicas
+líneas aéreas transporte energía líneas tracción
+Piezas aislantes totalmente materia aislante simples piezas metálicas ensamblado ejemplo casquillos roscados embutidas masa máquinas aparatos instalaciones eléctricas aisladores partida tubos aisladores piezas unión metal común aislados interiormente
+Piezas aislantes cerámica
+contenido óxido metálico superior peso
+Piezas aislantes plástico
+Desperdicios desechos pilas baterías pilas acumuladores eléctricos pilas baterías pilas acumuladores eléctricos inservibles partes eléctricas máquinas aparatos expresadas comprendidas capítulo
+Desperdicios desechos pilas baterías pilas acumuladores eléctricos pilas baterías pilas acumuladores eléctricos inservibles
+Pilas baterías pilas eléctricas inservibles
+Acumuladores eléctricos inservibles
+Acumuladores plomo
+Desperdicios desechos pilas baterías pilas acumuladores eléctricos
+contengan plomo
+Memorias dinámicas lecturaescritura acceso aleatorio DRAMs combinadas diversas formas ejemplo apiladas montadas módulos
+SECCIÓN XVII
+MATERIAL TRANSPORTE
+sección comprende artículos partidas toboganes bobsleighs similares partida
+consideran partes accesorios material transporte identificables tales
+juntas empaquetaduras arandelas similares materia régimen materia constitutiva partida artículos caucho vulcanizado endurecer partida
+artículos capítulo herramientas
+artículos partida
+máquinas aparatos partidas partes artículos partidas constituyan partes intrínsecas motor artículos partida
+máquinas aparatos eléctricos material eléctrico capítulo
+artículos capítulo
+ij armas capítulo
+aparatos alumbrado partes partida
+cepillos constituyan partes vehículos partida
+capítulos referencia partes accesorios abarca partes accesorios estén destinados exclusiva principalmente vehículos artículos sección
+accesorio susceptible responder especificaciones partidas sección clasificará partida corresponda utilización principal
+sección
+vehículos especialmente concebidos utilizados carretera carriles rieles clasifican partida apropiada capítulo
+vehículos automóviles anfibios clasifican partida apropiada capítulo
+aeronaves especialmente concebidas utilizadas vehículos terrestres clasifican partida apropiada capítulo
+vehículos cojín colchón aire clasifican vehículos guarden analogía
+capítulo concebidos desplazarse vía guía aerotrenes
+capítulo concebidos desplazarse tierra firme indistintamente tierra firme agua
+capítulo concebidos desplazarse agua posarse playas embarcaderos desplazarse superficies heladas
+partes accesorios vehículos cojín colchón aire clasifican partes accesorios vehículos partida hubieran clasificado aplicación disposiciones anteriores
+material fijo vías aerotrenes material fijo vías férreas aparatos señalización seguridad control mando vías aerotrenes aparatos señalización seguridad control mando vías férreas
+perjuicio dispuesto nota complementaria capítulo herramientas artículos conservación reparación vehículos seguirán régimen presenten despacho aduanas tiempo vehículos
+régimen aplicará accesorios presenten tiempo vehículos constituyan equipo normal vendan normalmente
+solicitud declarante condiciones establecidas autoridades competentes disposiciones regla general aplicarán mercancías pertenecientes partidas presentadas despacho expediciones fraccionadas
+CAPÍTULO
+VEHÍCULOS MATERIAL VÍAS FÉRREAS SIMILARES PARTES APARATOS MECÁNICOS ELECTROMECÁNICOS SEÑALIZACIÓN VÍAS COMUNICACIÓN
+traviesas durmientes madera hormigón vías férreas similares elementos hormigón vías guía aerotrenes partidas
+elementos vías férreas fundición hierro acero partida
+aparatos eléctricos señalización seguridad control mando partida
+clasifican partida
+ejes ruedas ejes montados trenes ruedas llantas bujes centros partes ruedas
+chasis bojes bissels
+cajas ejes cajas grasa aceite dispositivos freno clase
+topes ganchos sistemas enganche fuelles intercomunicación
+artículos carrocería
+dispuesto nota clasifican partida
+vías ensambladas placas puentes giratorios parachoques gálibos
+discos placas móviles semáforos aparatos mando pasos nivel cambio agujas puestos maniobra distancia aparatos mecánicos electromecánicos señalización seguridad control mando provistos dispositivos accesorios alumbrado eléctrico vías férreas similares carreteras vías fluviales áreas parques estacionamiento instalaciones portuarias aeropuertos
+Locomotoras locotractores fuente externa electricidad acumuladores eléctricos
+fuente externa electricidad
+acumuladores eléctricos
+locomotoras locotractores ténderes
+Locomotoras diéseleléctricas
+Automotores vías férreas tranvías autopropulsados partida
+Vehículos mantenimiento servicio vías férreas similares autopropulsados ejemplo vagones taller vagones grúa vagones equipados apisonar balasto alinear vías coches ensayos vagonetas inspección vías
+Coches viajeros furgones equipajes coches correo coches especiales vías férreas similares coches partida
+Vagones transporte mercancías carriles rieles
+Vagones cisterna similares
+Vagones descarga automática subpartida
+Cubiertos cerrados
+Especialmente concebidos transportar productos radiactivos Euratom
+Abiertos pared fija altura superior cm
+Partes vehículos vías férreas similares
+Bojes bissels ejes ruedas partes
+Bojes bissels tracción
+bojes bissels
+Ejes montados montar ruedas partes
+acero estampado
+Partes bojes bissels similares
+Frenos partes
+Frenos aire comprimido partes
+Ganchos sistemas enganche topes partes
+locomotoras locotractores
+Cajas engrase partes
+Carrocerías partes
+Chasis partes
+Material fijo vías férreas similares aparatos mecánicos electromecánicos señalización seguridad control mando vías férreas similares carreteras vías fluviales áreas parques estacionamiento instalaciones portuarias aeropuertos partes
+Contenedores incluidos contenedores cisterna contenedores depósito especialmente concebidos equipados medios transporte
+Contenedores blindaje protector plomo radiaciones transporte materias radioactivas Euratom
+CAPÍTULO
+VEHÍCULOS AUTOMÓVILES TRACTORES VELOCÍPEDOS VEHÍCULOS TERRESTRES PARTES ACCESORIOS
+capítulo comprende vehículos concebidos circular carriles rieles
+capítulo entiende tractores vehículos motor esencialmente concebidos tirar empujar aparatos vehículos cargas acondicionamientos accesorios relación utilización principal permitan transporte herramientas semillas abonos etc
+máquinas instrumentos trabajo concebidos equipar tractores partida material intercambiable siguen régimen presenten tractor montados
+chasis cabina incorporada vehículos automóviles clasifican partidas partida
+partida comprende bicicletas niños
+velocípedos niños clasifican partida
+Tractores carretillas tractor partida
+Motocultores
+Tractores carretera semirremolques
+Tractores orugas
+Tractores agrícolas tractores forestales motocultores ruedas
+potencia motor
+Inferior kW
+Superior kW inferior kW
+Superior kW inferior kW
+Superior kW inferior kW
+Superior kW inferior kW
+Superior kW
+Vehículos automóviles transporte personas incluido conductor
+motor émbolo pistón encendido compresión diésel semidiésel
+cilindrada superior cm
+cilindrada inferior cm
+motor émbolo pistón encendido chispa
+cilindrada superior cm
+cilindrada inferior cm
+
+Automóviles turismo vehículos automóviles concebidos principalmente transporte personas partida incluidos tipo familiar break station wagon carreras
+Vehículos especialmente concebidos desplazarse nieve vehículos especiales transporte personas campos golf vehículos similares
+Vehículos especialmente concebidos desplazarse nieve motor émbolo pistón encendido compresión diésel semidiésel motor émbolo pistón encendido chispa
+vehículos motor émbolo pistón alternativo encendido chispa
+cilindrada inferior cm
+cilindrada superior cm inferior cm
+cilindrada superior cm inferior cm
+Autocaravanas
+cilindrada superior cm
+vehículos motor émbolo pistón encendido compresión diésel semidiésel
+cilindrada inferior cm
+cilindrada superior cm inferior cm
+Vehículos motor eléctrico
+Vehículos automóviles transporte mercancías
+Volquetes automotores concebidos utilizarlos red carreteras
+motor émbolo pistón encendido compresión diésel semidiésel motor émbolo pistón encendido chispa
+motor émbolo pistón encendido compresión diésel semidiésel
+peso carga máxima inferior
+motor cilindrada superior cm
+motor cilindrada inferior cm
+peso carga máxima superior inferior
+peso carga máxima superior
+motor émbolo pistón encendido chispa
+motor cilindrada superior cm
+motor cilindrada inferior cm
+peso carga máxima superior
+Vehículos automóviles usos especiales concebidos principalmente transporte personas mercancías ejemplo coches reparaciones auxilio mecánico camiones grúa camiones bomberos camiones hormigonera coches barredera coches esparcidores coches taller coches radiológicos
+Camiones grúa
+Camiones automóviles sondeo perforación
+Camiones bomberos
+Camiones hormigonera
+Coches reparaciones auxilio mecánico
+Vehículos bomba hormigón
+Chasis vehículos automóviles partidas equipados motor
+Chasis tractores partida chasis vehículos automóviles partidas motor émbolo pistón encendido compresión diésel semidiésel cilindrada superior cm motor émbolo pistón encendido chispa cilindrada superior cm
+vehículos automóviles partida vehículos automóviles partida
+vehículos automóviles partida
+Carrocerías vehículos automóviles partidas incluidas cabinas
+vehículos partida
+Destinadas industria montaje
+Destinados industria montaje
+motocultores subpartida
+vehículos automóviles partida motor émbolo pistón encendido compresión diésel semidiésel cilindrada inferior cm motor émbolo pistón encendido chispa cilindrada inferior cm
+vehículos automóviles partida
+Partes accesorios vehículos automóviles partidas
+Parachoques paragolpes defensas partes
+vehículos automóviles partida
+vehículos automóviles partida
+partes accesorios carrocería incluidas cabina
+Cinturones seguridad
+Frenos servofrenos partes
+frenos disco
+Cajas cambio partes
+Ejes diferencial provistos órganos transmisión ejes portadores partes
+Ejes diferencial provistos órganos transmisión ejes portadores
+ejes portadores
+Ruedas partes accesorios
+Ruedas aluminio partes accesorios ruedas aluminio
+Partes ruedas coladas pieza forma estrella fundición hierro acero
+Sistemas suspensión partes incluidos amortiguadores
+Amortiguadores suspensión
+Barras estabilizadoras Barras torsión
+partes accesorios
+Radiadores
+Silenciadores tubos caños escape partes
+Silenciadores tubos caños escape
+Embragues partes
+Volantes columnas cajas dirección partes
+Volantes columnas cajas dirección
+Bolsas inflables seguridad sistema inflado airbag partes
+Carretillas automóvil dispositivo elevación tipos utilizados fábricas almacenes puertos aeropuertos transporte mercancías corta distancia carretillas tractor tipos utilizados estaciones ferroviarias partes
+Carretillas
+Eléctricas
+Tanques vehículos automóviles blindados combate armamento partes
+Motocicletas incluidos ciclomotores velocípedos equipados motor auxiliar sidecar sidecares
+motor émbolo pistón alternativo cilindrada inferior cm
+motor émbolo pistón alternativo cilindrada superior cm inferior cm
+cilindrada
+Superior cm inferior cm
+Superior cm inferior cm
+Superior cm inferior cm
+motor émbolo pistón alternativo cilindrada superior cm inferior cm
+cilindrada superior cm inferior cm
+cilindrada superior cm inferior cm
+motor émbolo pistón alternativo cilindrada superior cm inferior cm
+motor émbolo pistón alternativo cilindrada superior cm
+Bicicletas velocípedos incluidos triciclos reparto motor
+rodamientos bolas
+Bicicletas
+Sillones ruedas vehículos inválidos motor mecanismo propulsión
+propulsión mecánica
+Partes accesorios vehículos partidas
+motocicletas incluidos ciclomotores
+Sillines asientos
+sillones ruedas vehículos inválidos
+Cuadros horquillas partes
+Cuadros
+Horquillas
+Llantas radios
+Llantas
+Radios
+Bujes freno piñones libres
+Bujes freno
+Piñones libres
+Frenos incluidos bujes freno partes
+Bujes freno
+frenos
+Pedales mecanismos pedal partes
+Pedales
+Bielas platos biela
+Manillares
+Portaequipajes
+Cambios marcha
+
+Coches sillas vehículos similares transporte niños partes
+Coches sillas vehículos similares
+Remolques semirremolques vehículo vehículos automóviles partes
+Remolques semirremolques vivienda acampada tipo caravana
+Plegables
+peso
+Inferior kg
+Superior kg inferior kg
+Superior kg inferior kg
+Superior kg
+Remolques semirremolques autocargadores autodescargadores agrícola
+remolques semirremolques transporte mercancías
+Cisternas
+Semirremolques
+eje
+remolques semirremolques
+vehículos
+Chasis
+Carrocerías
+Ejes
+CAPÍTULO
+AERONAVES VEHÍCULOS ESPACIALES PARTES
+subpartidas expresión peso vacío refiere peso aparatos orden normal vuelo peso tripulación carburante equipo distinto fijo forma permanente
+Tipo derecho convencional
+Globos dirigibles planeadores alas planeadoras aeronaves propulsados motor
+Globos dirigibles planeadores alas planeadoras
+aeronaves ejemplo helicópteros aviones vehículos espaciales incluidos satélites vehículos lanzamiento vehículos suborbitales
+Helicópteros
+peso vacío inferior kg
+peso vacío superior kg
+Aviones aeronaves peso vacío inferior kg
+Aviones aeronaves peso vacío superior kg inferior kg
+Aviones aeronaves peso vacío superior kg
+Vehículos espaciales incluidos satélites vehículos lanzamiento vehículos suborbitales
+Vehículos espaciales incluidos satélites
+Vehículos lanzamiento vehículos suborbitales
+Partes aparatos partidas
+Hélices rotores partes
+Trenes aterrizaje partes
+partes aviones helicópteros
+cometas
+vehículos espaciales incluidos satélites
+vehículos lanzamiento vehículos suborbitales
+Paracaídas incluidos dirigibles planeadores parapentes aspas giratorias partes accesorios
+Aparatos dispositivos lanzamiento aeronaves aparatos dispositivos aterrizaje portaaviones aparatos dispositivos similares aparatos entrenamiento vuelo tierra partes
+Aparatos dispositivos lanzamiento aeronaves partes aparatos dispositivos aterrizaje portaaviones aparatos dispositivos similares partes
+Aparatos dispositivos lanzamiento aeronaves partes
+Aparatos entrenamiento vuelo tierra partes
+Simuladores combate aéreo partes
+CAPÍTULO
+BARCOS ARTEFACTOS FLOTANTES
+barcos incompletos terminar cascos barcos presenten desmontados montar barcos completos desmontados montar clasificarán partida caso duda clase barco pertenecen
+subpartidas incluirán barcos concebidos navegar alta mar cuya longitud exterior casco exclusión apéndices barcos pesca barcos salvamento estén concebidos navegar alta mar considerarán barcos navegación marítima longitud
+subpartidas clasifican únicamente barcos diques flotantes concebidos navegar alta mar
+aplicación partida expresión barcos artefactos flotantes desguace entienden comprendidos igualmente artículos expresan continuación presenten despacho aduanas mencionados barcos hayan formado equipo normal
+piezas recambio tales hélices
+artículos amovibles ejemplo muebles artículos cocina vajilla etc presenten marcadas señales usados
+propulsión mecánica
+Inflables
+peso unitario inferior kg
+longitud inferior
+longitud superior
+Barcos motor motor fueraborda
+Plataformas perforación explotación flotantes sumergibles
+artefactos flotantes ejemplo balsas depósitos cajones amarre boyas balizas
+Balsas inflables
+Barcos artefactos flotantes desguace
+SECCIÓN XVIII
+INSTRUMENTOS APARATOS ÓPTICA FOTOGRAFÍA CINEMATOGRAFÍA MEDIDA CONTROL PRECISIÓN INSTRUMENTOS APARATOS MEDICOQUIRÚRGICOS APARATOS RELOJERÍA INSTRUMENTOS MUSICALES PARTES ACCESORIOS INSTRUMENTOS APARATOS
+CAPÍTULO
+INSTRUMENTOS APARATOS ÓPTICA FOTOGRAFÍA CINEMATOGRAFÍA MEDIDA CONTROL PRECISIÓN INSTRUMENTOS APARATOS MEDICOQUIRÚRGICOS PARTES ACCESORIOS INSTRUMENTOS APARATOS
+artículos usos técnicos caucho vulcanizado endurecer partida cuero natural cuero regenerado partida materia textil partida
+cinturones fajas artículos materia textil cuyo efecto sostener mantener órgano única consecuencia elasticidad ejemplo fajas maternidad torácicas abdominales vendajes articulaciones músculos sección XI
+productos refractarios partida artículos usos químicos usos técnicos partida
+espejos vidrio trabajar ópticamente partida espejos metal común metal precioso tengan características elementos óptica partida capítulo
+artículos vidrio partidas
+partes accesorios general definen nota sección XV metal común sección XV artículos similares plástico capítulo
+bombas distribuidoras dispositivo medidor partida básculas balanzas comprobar contar piezas fabricadas pesas presentadas aisladamente partida aparatos elevación manipulación partidas cortadoras papel cartón tipo partida dispositivos especiales ajustar pieza útil máquinas herramienta provistos dispositivos ópticos lectura ejemplo divisores ópticos partida dispositivos puramente ópticos ejemplo anteojos centrado alineación máquinas calcular partida válvulas incluidas reductoras presión artículos grifería partida máquinas aparatos partida incluidos aparatos proyección trazado circuitos superficies sensibilizadas material semiconductor
+proyectores alumbrado tipos utilizados velocípedos vehículos automóviles partida lámparas eléctricas portátiles partida aparatos cinematográficos grabación reproducción sonido aparatos reproducción serie soportes sonido partida lectores sonido partida cámaras televisión cámaras fotográficas digitales videocámaras partida aparatos radar radionavegación radiotelemando partida conectores fibras ópticas cables fibras ópticas partida aparatos control numérico partida faros unidades sellados partida cables fibras ópticas partida
+ij proyectores partida
+artículos capítulo
+medidas capacidad clasifican materia constitutiva
+bobinas soportes similares clasificación materia constitutiva ejemplo partida sección XV
+dispuesto nota partes accesorios máquinas aparatos instrumentos artículos capítulo clasifican siguientes reglas
+partes accesorios consistan artículos comprendidos cualquiera partidas capítulo capítulos partidas clasifican dicha partida cualquiera máquina aparato instrumento destinados
+identificables destinados exclusiva principalmente máquina instrumento aparato determinados máquinas instrumentos aparatos partida partidas partes accesorios considerados párrafo precedente clasifican partida correspondiente máquinas instrumentos aparatos
+partes accesorios clasifican partida
+disposiciones notas sección XVI aplican capítulo
+partida comprende miras telescópicas armas periscopios submarinos tanques guerra visores máquinas aparatos instrumentos capítulo sección XVI partida
+máquinas aparatos instrumentos ópticos medida control susceptibles clasificarse partida partida clasifican
+partida entiende artículos aparatos ortopedia utilizan
+prevenir corregir deformidades corporales
+sostener mantener partes cuerpo enfermedad operación lesión
+artículos aparatos ortopedia comprenden zapatos ortopédicos plantillas interiores especiales concebidos corregir deformidades pie hechos medida producidos serie presentados unidades pares concebidos adaptarse indiferentemente pie
+partida comprende
+instrumentos aparatos regulación automática caudal nivel presión características variables líquidos gases control automático temperatura funcionamiento dependa fenómeno eléctrico varía factor deba regularse automáticamente función factor valor deseado mantenerlo estabilizado perturbaciones midiendo continua periódicamente valor real
+reguladores automáticos magnitudes eléctricas reguladores automáticos magnitudes cuyo funcionamiento dependa fenómeno eléctrico varía factor deba regularse función factor valor deseado mantenerlo estabilizado perturbaciones midiendo continua periódicamente valor real
+aplicación subpartidas entiende instrumentos aparatos electrónicos instrumentos aparatos lleven artículos comprendidos partidas obstante aplicación presente disposición artículos partidas cuya única función rectificar corriente encuentren instrumentos aparatos destinen alimentación
+Fibras ópticas fibras ópticas cables fibras ópticas partida hojas placas materia polarizante lentes contacto prismas espejos elementos óptica materia montar vidrio trabajar ópticamente
+Fibras ópticas cables fibras ópticas
+Cables conductores imágenes
+Hojas placas materia polarizante
+Lentes contacto
+Lentes vidrio gafas anteojos
+correctoras
+Correctoras
+Completamente trabajadas caras
+Monofocales
+Lentes materias gafas anteojos
+Lentes prismas espejos elementos óptica materia montados instrumentos aparatos vidrio trabajar ópticamente
+Objetivos
+cámaras proyectores aparatos fotográficos cinematográficos ampliación reducción
+Filtros
+Monturas armazones gafas anteojos artículos similares partes
+Monturas armazones
+metal precioso chapado metal precioso plaqué
+metal común
+Gafas anteojos correctoras protectoras artículos similares
+Gafas anteojos sol
+cristales trabajados ópticamente
+cristales plástico
+Binoculares incluidos prismáticos catalejos anteojos astronómicos telescopios ópticos armazones instrumentos astronomía armazones aparatos radioastronomía
+Binoculares incluidos prismáticos
+instrumentos
+Partes accesorios incluidos armazones
+Cámaras fotográficas aparatos dispositivos incluidos lámparas tubos producción destellos fotografía lámparas tubos descarga partida
+Cámaras fotográficas tipos utilizados preparar clisés cilindros imprenta
+Cámaras especiales fotografía submarina aérea examen médico órganos internos laboratorios medicina legal identificación judicial
+Cámaras fotográficas autorrevelado
+cámaras fotográficas
+visor reflexión objetivo películas rollo anchura inferior mm
+películas rollo anchura inferior mm
+películas rollo anchura mm
+Cámaras fotográficas desechables
+Aparatos dispositivos incluidos lámparas tubos producir destellos fotografía
+Aparatos tubo descarga producir destellos flashes electrónicos
+cámaras
+Cámaras proyectores cinematográficos grabador reproductor sonido incorporados
+Cámaras
+película cinematográfica filme anchura inferior mm doble mm
+proyectores
+Proyectores imagen fija ampliadoras reductoras fotográficas
+Proyectores diapositivas
+Lectores microfilmes microfichas microformatos copiadores
+proyectores imagen fija
+Ampliadoras reductoras fotográficas
+Aparatos material laboratorios fotográfico cinematográfico expresados comprendidos capítulo negatoscopios pantallas proyección
+Aparatos material revelado automático película fotográfica película cinematográfica filme papel fotográfico rollo impresión automática películas reveladas rollos papel fotográfico
+aparatos material laboratorios fotográfico cinematográfico negatoscopios
+Pantallas proyección
+Microscopios ópticos fotomicrografía cinefotomicrografía microproyección
+Microscopios estereoscópicos
+dispongan equipo específicamente concebido manipulación transporte discos wafers material semiconductor retículas
+microscopios fotomicrografía cinefotomicrografía microproyección
+Microscopios fotomicrografía dispongan equipo específicamente concebido manipulación transporte discos wafers material semiconductor retículas
+microscopios
+aparatos subpartidas
+Microscopios ópticos difractógrafos
+Microscopios electrónicos dispongan equipo específicamente concebido manipulación transporte discos wafers material semiconductor retículas
+aparatos subpartida
+Dispositivos cristal líquido constituyan artículos comprendidos específicamente láseres diodos láser aparatos instrumentos óptica expresados comprendidos capítulo
+Miras telescópicas armas periscopios visores máquinas aparatos instrumentos capítulo sección XVI
+Láseres diodos láser
+dispositivos aparatos instrumentos
+Dispositivos cristal líquido
+matriz activa
+dispositivos cristal líquido LCD
+Brújulas incluidos compases navegación instrumentos aparatos navegación
+Brújulas incluidos compases navegación
+Instrumentos aparatos navegación aérea espacial brújulas
+Sistemas navegación inercial
+instrumentos aparatos
+Instrumentos aparatos geodesia topografía agrimensura nivelación fotogrametría hidrografía oceanografía hidrología meteorología geofísica brújulas telémetros
+Telémetros
+Electrónicos
+Teodolitos taquímetros
+Niveles
+Instrumentos aparatos fotogrametría
+meteorología hidrología geofísica
+geodesia topografía agrimensura nivelación hidrografía
+Balanzas sensibles peso inferior cg pesas
+Balanzas
+Instrumentos dibujo trazado cálculo ejemplo máquinas dibujar pantógrafos transportadores estuches dibujo reglas círculos cálculo instrumentos manuales medida longitud ejemplo metros micrómetros calibradores expresados comprendidos capítulo
+Mesas máquinas dibujar automáticas
+Trazadores
+instrumentos dibujo trazado cálculo
+instrumentos dibujo
+Estuches dibujo
+Instrumentos trazado
+Instrumentos cálculo
+Micrómetros pies rey calibradores galgas
+Micrómetros calibradores
+calibres órganos regulables partida
+Metros reglas divididas
+Instrumentos aparatos medicina cirugía odontología veterinaria incluidos centellografía aparatos electromédicos aparatos pruebas visuales
+Aparatos electrodiagnóstico incluidos aparatos exploración funcional vigilancia parámetros fisiológicos
+Electrocardiógrafos
+Aparatos diagnóstico exploración ultrasónica
+Aparatos diagnóstico visualización resonancia magnética
+Aparatos centellografía
+Aparatos vigilancia simultánea parámetros fisiológicos
+Aparatos rayos ultravioletas infrarrojos
+Jeringas agujas catéteres cánulas instrumentos similares
+Jeringas aguja
+Agujas tubulares metal agujas sutura
+Agujas tubulares metal
+Agujas sutura
+instrumentos aparatos odontología
+Tornos dentales combinados equipos dentales basamento común
+Muelas discos fresas cepillos tornos odontología
+instrumentos aparatos oftalmología
+ópticos
+Ópticos
+Instrumentos aparatos medir presión arterial
+Endoscopios
+Riñones artificiales
+Aparatos diatermia
+ultrasonidos
+Aparatos transfusión
+Instrumentos aparatos anestesia
+Litotrituradores ultrasonidos
+Aparatos estimulación neural
+Aparatos mecanoterapia aparatos masajes aparatos sicotecnia aparatos ozonoterapia oxigenoterapia aerosolterapia aparatos respiratorios reanimación aparatos terapia respiratoria
+Aparatos mecanoterapia aparatos masajes aparatos sicotecnia
+Aparatos eléctricos vibromasaje
+Aparatos ozonoterapia oxigenoterapia aerosolterapia aparatos respiratorios reanimación aparatos terapia respiratoria
+aparatos respiratorios máscaras antigás máscaras protección mecanismo elemento filtrante amovible
+Artículos aparatos ortopedia incluidas fajas vendajes medicoquirúrgicos muletas tablillas férulas artículos aparatos fracturas artículos aparatos prótesis audífonos aparatos lleve persona implanten compensar defecto incapacidad
+Artículos aparatos ortopedia fracturas
+Artículos aparatos ortopedia
+Artículos aparatos fracturas
+Artículos aparatos prótesis dental
+Dientes artificiales
+artículos aparatos prótesis
+Prótesis articulares
+Prótesis oculares
+Audífonos partes accesorios
+Estimuladores cardíacos partes accesorios
+Partes accesorios audífonos
+Aparatos rayos aparatos utilicen radiaciones alfa beta gamma médico quirúrgico odontológico veterinario incluidos aparatos radiografía radioterapia tubos rayos dispositivos generadores rayos generadores tensión consolas mando pantallas mesas sillones soportes similares examen tratamiento
+Aparatos rayos médico quirúrgico odontológico veterinario incluidos aparatos radiografía radioterapia
+Aparatos tomografía regidos máquina automática tratamiento procesamiento datos
+odontológico
+médico quirúrgico veterinario
+usos
+Aparatos utilicen radiaciones alfa beta gamma médico quirúrgico odontológico veterinario incluidos aparatos radiografía radioterapia
+médico quirúrgico odontológico veterinario
+Tubos rayos
+incluidas partes accesorios
+Pantallas radiológicas incluidas llamadas reforzadoras tramas rejillas antidifusoras
+Instrumentos aparatos modelos concebidos demostraciones ejemplo enseñanza exposiciones susceptibles usos
+enseñanza física química asignaturas técnicas
+Máquinas aparatos ensayos dureza tracción compresión elasticidad propiedades mecánicas materiales ejemplo metal madera textil papel plástico
+Máquinas aparatos ensayo metal
+Universales ensayos tracción
+ensayos dureza
+máquinas aparatos
+ensayos textil papel cartón
+Densímetros areómetros pesalíquidos instrumentos flotantes similares termómetros pirómetros barómetros higrómetros sicrómetros registradores combinados
+Termómetros pirómetros combinar instrumentos
+líquido lectura directa
+Médicos veterinarios
+Barómetros combinar instrumentos
+Instrumentos aparatos medida control caudal nivel presión características variables líquidos gases ejemplo caudalímetros indicadores nivel manómetros contadores calor instrumentos aparatos partidas
+medida control caudal nivel líquidos
+Caudalímetros
+medida control presión
+Manómetros espira membrana manométrica metálica
+instrumentos aparatos
+Instrumentos aparatos análisis físicos químicos ejemplo polarímetros refractómetros espectrómetros analizadores gases humos instrumentos aparatos ensayos viscosidad porosidad dilatación tensión superficial similares medidas calorimétricas acústicas fotométricas incluidos exposímetros micrótomos
+Analizadores gases humos
+Cromatógrafos instrumentos electroforesis
+Espectrómetros espectrofotómetros espectrógrafos utilicen radiaciones ópticas UV visibles
+instrumentos aparatos utilicen radiaciones ópticas UV visibles
+instrumentos aparatos
+Exposímetros
+Peachímetros erreachímetros aparatos medir conductividad
+Aparatos análisis propiedades físicas materiales semiconductores sustratos visualizadores cristal líquido capas aislantes conductoras unidas proceso producción discos wafers material semiconductor visualizadores cristal líquido
+Viscosímetros porosímetros dilatómetros
+Micrótomos partes accesorios
+Micrótomos
+aparatos subpartidas
+micrótomos analizadores gases humos
+Contadores gas líquido electricidad incluidos calibración
+Contadores gas
+Contadores líquido
+Contadores electricidad
+corriente alterna
+Monofásica
+Polifásica
+contadores electricidad
+contadores ejemplo cuentarrevoluciones contadores producción taxímetros cuentakilómetros podómetros velocímetros tacómetros partidas estroboscopios
+Cuentarrevoluciones contadores producción taxímetros cuentakilómetros podómetros contadores similares
+Velocímetros tacómetros estroboscopios
+Velocímetros tacómetros
+Velocímetros vehículos terrestres
+Estroboscopios
+Osciloscopios analizadores espectro instrumentos aparatos medida control magnitudes eléctricas instrumentos aparatos medida detección radiaciones alfa beta gamma cósmicas radiaciones ionizantes
+Instrumentos aparatos medida detección radiaciones ionizantes
+Osciloscopios oscilógrafos
+Catódicos
+dispositivo registrador
+instrumentos aparatos medida control tensión intensidad resistencia potencia
+Multímetros dispositivo registrador
+Multímetros dispositivo registrador
+dispositivo registrador
+Voltímetros
+medida control discos wafers dispositivos semiconductores
+aparatos subpartida
+Instrumentos máquinas aparatos medida control expresados comprendidos capítulo proyectores perfiles
+Máquinas equilibrar piezas mecánicas
+Bancos pruebas
+instrumentos aparatos ópticos
+control discos wafers dispositivos semiconductores control fotomáscaras retículas utilizadas fabricación dispositivos semiconductores
+Proyectores perfiles
+instrumentos aparatos máquinas
+medida control magnitudes geométricas
+aparatos subpartida instrumentos aparatos ópticos medición impurezas material particulado superficie discos wafers material semiconductor subpartida
+aparatos subpartida
+Instrumentos aparatos automáticos regulación control automáticos
+Termostatos
+dispositivo disparo eléctrico
+Manostatos presostatos
+Hidráulicos neumáticos
+Partes accesorios expresados comprendidos capítulo máquinas aparatos instrumentos artículos capítulo
+CAPÍTULO
+APARATOS RELOJERÍA PARTES
+cristales aparatos relojería pesas relojes régimen materia constitutiva
+cadenas reloj partidas casos
+partes accesorios general definen nota sección XV metal común sección XV artículos similares plástico capítulo metal precioso chapado metal precioso plaqué generalmente partida muelles resortes aparatos relojería incluidas espirales clasifican partida
+bolas rodamiento partidas casos
+artículos partida construidos funcionar escape
+rodamientos bolas partida
+artículos capítulo montar elementos formar mecanismos relojería partes reconocibles destinadas exclusiva principalmente tales mecanismos capítulo
+clasifican únicamente partida relojes caja totalmente metal precioso chapado metal precioso plaqué materias combinadas perlas finas naturales cultivadas piedras preciosas semipreciosas naturales sintéticas reconstituidas partidas
+relojes caja metal común incrustaciones metal precioso clasifican partida
+capítulo consideran pequeños mecanismos relojería dispositivos órgano regulador volanteespiral cuarzo sistema capaz determinar intervalos tiempo indicador sistema permita incorporar indicador mecánico
+espesor mecanismos inferior mm anchura longitud diámetro inferiores iguales mm
+dispuesto nota mecanismos partes susceptibles utilizarse mecanismos partes aparatos relojería usos ejemplo instrumentos medida precisión clasifican capítulo
+Relojes pulsera bolsillo similares incluidos contadores tiempo tipos caja metal precioso chapado metal precioso plaqué
+Relojes pulsera eléctricos contador tiempo incorporado
+indicador mecánico
+relojes pulsera contador tiempo incorporado
+Automáticos
+Relojes pulsera bolsillo similares incluidos contadores tiempo tipos partida
+indicador optoelectrónico
+Despertadores relojes pequeño mecanismo relojería
+Relojes tablero instrumentos relojes similares automóviles aeronaves barcos vehículos
+relojes
+Despertadores
+Relojes pared
+Relojes mesa chimenea
+Aparatos control tiempo contadores tiempo mecanismo relojería motor sincrónico ejemplo registradores asistencia registradores fechadores registradores contadores
+Registradores asistencia registradores fechadores registradores contadores
+Contadores minutos segundos
+Interruptores horarios aparatos permitan accionar dispositivo momento mecanismo relojería motor sincrónico
+Pequeños mecanismos relojería completos montados
+indicador mecánico dispositivo permita incorporarlo
+mecanismos relojería completos montados
+despertadores
+Mecanismos relojería completos montar parcialmente montados chablons mecanismos relojería incompletos montados mecanismos relojería blanco ébauches
+Pequeños mecanismos
+Mecanismos completos montar parcialmente montados chablons
+volante espiral
+Mecanismos incompletos montados
+Mecanismos blanco ébauches
+Cajas relojes partidas partes
+Cajas metal precioso chapado metal precioso plaqué
+Cajas metal común dorado plateado
+cajas
+Cajas envolturas similares aparatos relojería partes
+Vainas
+Pulseras reloj partes
+metal precioso chapado metal precioso plaqué
+metal común dorado plateado
+cuero natural regenerado
+partes aparatos relojería
+Muelles resortes incluidas espirales
+Piedras
+Esferas cuadrantes
+Platinas puentes
+CAPÍTULO
+INSTRUMENTOS MUSICALES PARTES ACCESORIOS
+micrófonos amplificadores altavoces altoparlantes auriculares interruptores estroboscopios instrumentos aparatos equipos accesorios utilizados artículos capítulo estén incorporados alojados envoltura capítulos
+instrumentos aparatos presenten carácter juguete partida
+escobillas artículos cepillería limpieza instrumentos musicales partida
+armas municiones tengan carácter objetos colección antigüedades partidas
+arcos palillos artículos similares instrumentos musicales partidas presenten número correspondiente instrumentos destinen clasifican
+tarjetas discos rollos partida clasifican partida presenten instrumentos aparatos estén destinados
+Pianos automáticos clavecines instrumentos cuerda teclado
+Pianos verticales
+Pianos cola
+instrumentos musicales cuerda ejemplo guitarras violines arpas
+arco
+Violines
+Guitarras
+instrumentos musicales viento ejemplo clarinetes trompetas gaitas
+Instrumentos llamados metales
+Acordeones instrumentos similares
+Armónicas
+Órganos tubos teclado armonios instrumentos similares teclado lengüetas metálicas libres
+Instrumentos musicales percusión ejemplo tambores cajas xilófonos platillos castañuelas maracas
+Instrumentos musicales sonido produzca amplificarse eléctricamente ejemplo órganos guitarras acordeones
+Instrumentos teclado acordeones
+Órganos
+Pianos digitales
+Sintetizadores
+Cajas música orquestriones organillos pájaros cantores sierras musicales instrumentos musicales comprendidos partida capítulo reclamos clase silbatos cuernos instrumentos boca llamada aviso
+Cajas música
+Partes ejemplo mecanismos cajas música accesorios ejemplo tarjetas discos rollos aparatos mecánicos instrumentos musicales metrónomos diapasones tipo
+Cuerdas armónicas
+Partes accesorios pianos
+Partes accesorios instrumentos musicales partida
+Partes accesorios instrumentos musicales partida
+Partes accesorios instrumentos musicales partida
+Metrónomos diapasones
+Mecanismos cajas música
+SECCIÓN XIX
+ARMAS MUNICIONES PARTES ACCESORIOS
+CAPÍTULO
+cebos cápsulas fulminantes detonadores cohetes señales granífugos artículos capítulo
+tanques vehículos automóviles blindados combate partida
+miras telescópicas dispositivos ópticos montados armas presentados montar armas destinen capítulo
+ballestas arcos flechas tiro armas embotonadas esgrima armas presenten carácter juguete capítulo
+partida término partes comprende aparatos radio radar partida
+Armas guerra revólveres pistolas armas blancas
+Piezas artillería ejemplo cañones obuses morteros
+Lanzacohetes lanzallamas lanzagranadas lanzatorpedos lanzadores similares
+Revólveres pistolas partidas
+armas fuego artefactos similares utilicen deflagración pólvora ejemplo armas caza armas avancarga pistolas lanzacohete artefactos concebidos únicamente lanzar cohetes señal pistolas revólveres fogueo pistolas matarife cañones lanzacabos
+Armas avancarga
+armas largas caza tiro deportivo tengan cañón ánima lisa
+cañón ánima lisa
+armas largas caza tiro deportivo
+armas ejemplo armas largas pistolas muelle resorte aire comprimido gas porras partida
+Partes accesorios artículos partidas
+revólveres pistolas
+escopetas rifles caza partida
+Cañones ánima lisa
+armas guerra partida
+Bombas granadas torpedos minas misiles cartuchos municiones proyectiles partes incluidas postas perdigones tacos cartuchos
+Cartuchos escopetas cañón ánima lisa partes balines armas aire comprimido
+Cartuchos
+cartuchos partes
+revólveres pistolas partida pistolas ametralladoras partida
+armas guerra
+Cartuchos percusión central
+Cartuchos percusión anular
+guerra
+Sables espadas bayonetas lanzas armas blancas partes fundas
+SECCIÓN XX
+MANUFACTURAS DIVERSAS
+CAPÍTULO
+MUEBLES MOBILIARIO MEDICOQUIRÚRGICO ARTÍCULOS CAMA SIMILARES APARATOS ALUMBRADO EXPRESADOS COMPRENDIDOS ANUNCIOS LETREROS PLACAS INDICADORAS LUMINOSOS ARTÍCULOS SIMILARES CONSTRUCCIONES PREFABRICADAS
+colchones almohadas cojines neumáticos agua capítulos
+espejos apoyen suelo ejemplo espejos vestir móviles partida
+partes accesorios general definen nota sección XV metal común sección XV artículos similares plástico capítulo cajas caudales partida
+muebles equipar constituyan partes específicas aparatos producción frío partida muebles especialmente concebidos máquinas coser partida
+aparatos alumbrado capítulo
+muebles constituyan partes específicas aparatos partidas partida partida partidas partida
+artículos partida
+ij sillones dentista aparatos odontología incorporados partida escupideras clínica dental partida
+artículos capítulo ejemplo cajas envolturas similares aparatos relojería
+muebles aparatos alumbrado presenten carácter juguete partida billares clase muebles juegos partida mesas juegos prestidigitación artículos decoración guirnaldas eléctricas tales farolillos faroles venecianos partida
+artículos partes partidas concebidos colocarlos suelo
+clasifican partidas estén concebidos colgar fijar pared colocarlos
+armarios bibliotecas estanterías muebles elementos modulares
+asientos camas
+presentan aisladamente consideran partes artículos partidas hojas placas losas vidrio incluidos espejos mármol piedra materia capítulos cortadas formas determinadas combinar elementos
+presenten aisladamente artículos partida clasifican dicha partida constituyan partes muebles partidas
+partida consideran construcciones prefabricadas terminadas fábrica expedidas forma elementos presentados juntos montar destino tales locales vivienda casetas obra oficinas escuelas tiendas hangares garajes construcciones similares
+Asientos partida transformables cama partes
+Asientos tipos utilizados aeronaves
+Asientos tipos utilizados vehículos automóviles
+Asientos giratorios altura ajustable
+Rellenados respaldo equipados ruedas patines
+Asientos transformables cama material acampar jardín
+Asientos roten ratán mimbre bambú materias similares
+bambú roten ratán
+asientos armazón madera
+relleno
+asientos armazón metal
+asientos
+asientos tipos utilizados aeronaves
+Mobiliario medicina cirugía odontología veterinaria ejemplo mesas operaciones reconocimiento camas mecanismo clínico sillones dentista sillones peluquería sillones similares dispositivos orientación elevación partes artículos
+Sillones dentista peluquería sillones similares partes
+muebles partes
+Muebles metal tipos utilizados oficinas
+Mesas dibujar partida
+altura inferior cm
+Mesas
+altura superior cm
+Armarios puertas persianas trampillas
+Armarios cajones clasificadores ficheros
+muebles metal
+Camas
+Muebles madera tipos utilizados oficinas
+Armarios clasificadores ficheros
+Muebles madera tipos utilizados cocinas
+Elementos cocinas
+Muebles madera tipos utilizados dormitorios
+muebles madera
+Muebles madera tipos utilizados comedores cuartos
+Muebles madera tipos utilizados tiendas almacenes
+Muebles plástico
+Muebles materias incluidos roten ratán mimbre bambú materias similares
+Somieres artículos cama artículos similares ejemplo colchones cubrepiés edredones cojines pufs almohadas muelles resortes rellenos guarnecidos interiormente materia incluidos caucho plástico celulares recubiertos
+Somieres
+Colchones
+caucho plástico celulares recubiertos
+muelles metálicos
+Sacos bolsas dormir
+Rellenos plumas plumón
+Aparatos alumbrado incluidos proyectores partes expresados comprendidos anuncios letreros placas indicadoras luminosos artículos similares fuente luz inseparable partes expresadas comprendidas
+Lámparas aparatos eléctricos alumbrado colgar fijar techo pared tipos utilizados alumbrado espacios vías públicos
+tipos utilizados lámparas tubos incandescencia
+cerámica
+Lámparas eléctricas cabecera mesa oficina pie
+tipos utilizados lámparas tubos incandescencia
+Guirnaldas eléctricas tipos utilizados árboles Navidad
+aparatos eléctricos alumbrado
+Proyectores
+tipos utilizados tubos fluorescentes
+Aparatos alumbrado eléctricos
+Anuncios letreros placas indicadoras luminosos artículos similares
+Artículos equipar aparatos eléctricos iluminación proyectores
+Vidrios facetas plaquitas bolas almendras florones colgantes piezas análogas lámparas
+ejemplo difusores incluidos techo copas copelas pantallas globos tulipas
+Construcciones prefabricadas
+Casas móviles
+Invernaderos
+CAPÍTULO
+JUGUETES JUEGOS ARTÍCULOS RECREO DEPORTE PARTES ACCESORIOS
+velas partida
+artículos pirotecnia diversión partida
+hilados monofilamentos cordones cuerdas tripa similares pesca cortados longitudes determinadas montar sedal tanza anzuelo capítulo partida sección XI
+bolsas artículos deporte continentes partidas
+prendas vestir deporte disfraces materia textil capítulos
+banderas cuerdas gallardetes materia textil velas embarcaciones deslizadores vehículos terrestres capítulo
+calzado fijado patines hielo patines ruedas capítulo tocados especiales práctica deportes capítulo
+bastones fustas látigos artículos similares partida partes partida
+ij ojos vidrio montar muñecas muñecos juguetes partida
+campanas campanillas gongos artículos similares partida
+bombas líquidos partida aparatos filtrar depurar líquidos gases partida motores eléctricos partida transformadores eléctricos partida aparatos radiotelemando partida
+vehículos deporte sección XVII toboganes bobsleighs similares
+bicicletas niños partida
+embarcaciones deporte tales canoas esquifes capítulo medios propulsión capítulo madera
+gafas anteojos protectoras práctica deportes juegos aire libre partida
+reclamos silbatos partida
+armas artículos capítulo
+guirnaldas eléctricas clase partida
+cuerdas raqueta tiendas carpas campaña artículos acampar guantes mitones manoplas materia régimen materia constitutiva
+artículos mesa utensilios cocina artículos tocador baño alfombras revestimientos suelo materia textil ropaje ropa cama mesa tocador baño cocina artículos similares tengan función utilitaria clasifican régimen materia constitutiva
+artículos capítulo simples guarniciones accesorios mínima importancia metal precioso chapado metal precioso plaqué perlas finas naturales cultivadas piedras preciosas semipreciosas naturales sintéticas reconstituidas
+dispuesto nota partes accesorios identificables destinados exclusiva principalmente artículos capítulo clasifican
+dispuesto nota partida aplica artículos partida combinados productos puedan considerados juegos surtidos conforme Regla General Interpretativa presentasen separadamente serían clasificados partidas artículos presenten juntos acondicionados venta menor combinación reúna características esenciales juguetes
+partida comprende artículos concepción forma materia constitutiva reconocibles destinados exclusivamente animales ejemplo juguetes animales compañía clasificación régimen
+Triciclos patinetes coches pedal juguetes similares ruedas coches sillas ruedas muñecas muñecos muñecas muñecos juguetes modelos reducidos modelos similares entretenimiento animados rompecabezas clase
+Triciclos patinetes coches pedal juguetes similares ruedas coches sillas ruedas muñecas muñecos
+Muñecas muñecos representen seres humanos partes accesorios
+Muñecas muñecos
+Trenes eléctricos incluidos carriles rieles señales accesorios modelos reducidos ensamblar animados
+juegos surtidos juguetes construcción
+Juguetes representen animales seres humanos
+Rellenos
+Instrumentos aparatos musicales juguete
+Rompecabezas
+juguetes presentados juegos surtidos panoplias
+juguetes modelos motor
+Armas juguete
+Modelos miniatura metal obtenidos moldeo
+Artículos salas juego juegos mesa salón incluidos juegos motor mecanismo billares mesas especiales juegos casino juegos bolos automáticos bowlings
+Videojuegos tipos utilizados receptor televisión
+Billares clase accesorios
+Billares
+juegos activados monedas billetes tarjetas fichas pago juegos bolos automáticos bowlings
+Juegos pantalla
+juegos
+Flippers
+Naipes
+Circuitos eléctricos coches características juegos competición
+Artículos fiestas carnaval diversiones incluidos magia artículos sorpresa
+Artículos fiestas Navidad
+Artículos material cultura física gimnasia atletismo deportes incluido tenis mesa juegos aire libre expresados comprendidos capítulo piscinas infantiles
+Esquís nieve artículos práctica esquí nieve
+Esquís
+Esquís fondo
+Esquís alpinos
+Monoesquís snowboard tabla nieve
+esquís
+Fijadores esquí
+Esquís acuáticos tablas deslizadores vela artículos práctica deportes acuáticos
+Deslizadores vela
+Palos golf clubs artículos golf
+Palos golf clubs completos
+Partes palos clubs
+Artículos material tenis mesa
+Raquetas pelotas redes
+Raquetas tenis bádminton similares cordaje
+Raquetas tenis cordaje
+Balones pelotas golf tenis mesa
+Pelotas tenis
+Pelotas cricket polo
+Patines hielo patines ruedas incluido calzado patines fijos
+Patines hielo
+Patines ruedas
+Artículos material cultura física gimnasia atletismo
+Aparatos gimnasia sistema esfuerzo regulable
+Artículos cricket polo pelotas
+Cañas pescar anzuelos artículos pesca caña salabardos cazamariposas redes similares señuelos partidas artículos caza similares
+Cañas pescar
+Anzuelos montados sedal tanza
+Anzuelos brazolada
+Carretes pesca
+Tiovivos columpios casetas tiro atracciones feria circos zoológicos teatros ambulantes
+Circos zoológicos ambulantes
+CAPÍTULO
+lápices maquillaje tocador capítulo
+artículos capítulo ejemplo partes paraguas bastones
+bisutería partida
+artículos capítulo útiles artículos cuchillería cubiertos mesa mangos partes materias tallar moldear presenten aisladamente mangos partes clasifican partidas
+artículos capítulo ejemplo monturas armazones gafas anteojos partida tiralíneas partida artículos cepillería tipos manifiestamente utilizados medicina cirugía odontología veterinaria partida
+instrumentos musicales partes accesorios capítulo
+ij artículos capítulo armas partes
+artículos capítulo ejemplo juguetes juegos artefactos deportivos
+artículos capítulo objetos arte colección antigüedades
+partida entiende materias vegetales minerales tallar
+semillas duras pepitas cáscaras nueces materias vegetales similares tallar ejemplo nuez corozo palmeradum
+ámbar succino espuma mar naturales reconstituidos azabache materias minerales análogas azabache
+partida consideran cabezas preparadas mechones pelo fibra vegetal materia montar listos fabricación brochas pinceles artículos análogos dividirlos necesiten complemento importante mano obra igualado acabado puntas
+artículos capítulo partidas constituidos parcialmente metal precioso chapado metal precioso plaqué piedras preciosas semipreciosas naturales sintéticas reconstituidas lleven perlas finas naturales cultivadas permanecen clasificados capítulo
+comprendidos capítulo artículos partidas simples guarniciones accesorios mínima importancia metal precioso chapado metal precioso plaqué perlas finas naturales cultivadas piedras preciosas semipreciosas naturales sintéticas reconstituidas
+Marfil hueso concha caparazón tortuga cuerno asta coral nácar materias animales tallar trabajadas manufacturas materias obtenidas moldeo
+Marfil trabajado manufacturas
+Coral natural reconstituido labrado manufacturas materias
+Materias vegetales minerales tallar trabajadas manufacturas materias manufacturas moldeadas talladas cera parafina estearina gomas resinas naturales pasta modelar manufacturas moldeadas talladas expresadas comprendidas gelatina endurecer trabajada partida manufacturas gelatina endurecer
+Escobas escobillas cepillos brochas pinceles partes máquinas aparatos vehículos escobas mecánicas motor manual fregonas mopas plumeros cabezas preparadas artículos cepillería almohadillas muñequillas rodillos pintar rasquetas caucho materia flexible análoga
+Escobas escobillas ramitas materia vegetal atada mango
+Cepillos dientes brochas afeitar cepillos cabello pestañas uñas cepillos aseo personal incluidos partes aparatos
+Cepillos dientes incluidos cepillos dentaduras postizas
+Cepillos cabello
+Pinceles brochas pintura artística pinceles escribir pinceles similares aplicación cosméticos
+Pinceles brochas pintura artística pinceles escribir
+Pinceles aplicación cosméticos
+Pinceles brochas pintar enlucir barnizar similares subpartida almohadillas muñequillas rodillos pintar
+Pinceles brochas pintar enlucir barnizar similares
+Almohadillas muñequillas rodillos pintar
+cepillos constituyan partes máquinas aparatos vehículos
+Escobas mecánicas manual motor
+Cepillos cepillos escoba limpieza superficies casa incluidos cepillos prendas vestir calzado artículos cepillería aseo animales
+Tamices cedazos cribas mano
+Juegos surtidos viaje aseo personal costura limpieza calzado prendas vestir
+Botones botones presión formas botones partes botones botones presión esbozos botones
+Botones presión partes
+Botones
+plástico forrar materia textil
+metal común forrar materia textil
+Formas botones partes botones esbozos botones
+Cierres cremallera cierres relámpago partes
+Cierres cremallera cierres relámpago
+dientes metal común
+metal común incluidas cintas grapas metal común
+Bolígrafos rotuladores marcadores punta fieltro punta porosa estilográficas plumas estiletes punzones clisés mimeógrafo stencils portaminas portaplumas portalápices artículos similares partes artículos incluidos capuchones sujetadores partida
+Bolígrafos
+tinta líquida
+cuerpo capuchón metal precioso chapado metal precioso plaqué
+cartucho recambiable
+Rotuladores marcadores punta fieltro punta porosa
+Estilográficas plumas
+dibujar tinta china
+Portaminas
+Juegos artículos pertenecientes subpartidas anteriores
+Cartuchos repuesto punta bolígrafo
+tinta líquida
+Plumillas puntos plumillas
+Lápices minas pasteles carboncillos tizas escribir dibujar jaboncillos tizas sastre
+Lápices
+mina grafito
+Minas lápices portaminas
+Pasteles carboncillos
+Pizarras tableros escribir dibujar enmarcados
+Fechadores sellos numeradores timbradores artículos similares incluidos aparatos imprimir etiquetas mano componedores imprentillas componedor mano
+Cintas máquinas escribir cintas similares entintadas preparadas imprimir carretes cartuchos tampones impregnados caja
+Cintas
+fibras sintéticas artificiales anchura inferior mm contenidas permanentemente cartuchos plástico metal tipos utilizados máquinas escribir automáticas equipos tratamiento automático información máquinas
+Tampones
+Encendedores mecheros mecánicos eléctricos partes piedras mechas
+Encendedores gas recargables bolsillo
+Encendedores gas recargables bolsillo
+encendido eléctrico
+encendido tipo
+encendedores mecheros
+Pipas incluidas cazoletas boquillas cigarros puros cigarrillos partes
+Escalabornes madera raíces
+Peines peinetas pasadores artículos similares horquillas rizadores bigudíes artículos similares peinado partida partes
+Peines peinetas pasadores artículos similares
+caucho endurecido plástico
+Pulverizadores tocador monturas cabezas monturas borlas similares aplicación polvos cosméticos productos tocador
+Pulverizadores tocador monturas cabezas monturas
+Pulverizadores tocador
+Monturas cabezas monturas
+Borlas similares aplicación polvos cosméticos productos tocador
+Termos recipientes isotérmicos montados aislados vacío partes ampollas vidrio
+Termos recipientes isotérmicos montados capacidad
+Inferior
+Superior
+Partes ampollas vidrio
+Maniquíes artículos similares autómatas escenas animadas escaparates
+SECCIÓN XXI
+OBJETOS ARTE COLECCIÓN ANTIGÜEDADES
+CAPÍTULO
+sellos estampillas correo timbres fiscales enteros postales artículos franqueados análogos obliterar partida
+lienzos pintados decorados teatro fondos estudio usos análogos partida puedan clasificarse partida
+perlas finas naturales cultivadas piedras preciosas semipreciosas partidas
+partida consideran grabados estampas litografías originales pruebas obtenidas directamente negro color planchas totalmente realizadas mano artista cualquiera técnica materia empleada procedimiento mecánico fotomecánico
+clasifican partida esculturas presenten carácter comercial ejemplo reproducciones serie vaciados obras artesanía hayan concebidas creadas artistas
+dispuesto notas artículos susceptibles clasificarse capítulo nomenclatura clasifican capítulo
+artículos susceptibles clasificarse partida partidas clasifican partidas
+marcos pinturas dibujos colajes cuadros similares grabados estampas litografías clasifican características valor relación dichas obras
+marcos cuyas características valor guarden relación artículos refiere nota seguirán régimen
+Pinturas dibujos hechos totalmente mano dibujos partida artículos manufacturados decorados mano colajes cuadros similares
+Pinturas dibujos
+Grabados estampas litografías originales
+Obras originales estatuaria escultura materia
+Sellos estampillas correo timbres fiscales marcas postales sobres enteros postales artículos franqueados análogos obliterados artículos partida
+Colecciones especímenes colecciones zoología botánica mineralogía anatomía tengan interés histórico arqueológico paleontológico etnográfico numismático
+Antigüedades cien años
+CAPÍTULO
+CONJUNTOS INDUSTRIALES
+Reglamentos CE Comisión septiembre CE Comisión noviembre contemplan aplicar procedimiento simplificado declaración registro exportaciones llegadas expediciones conjuntos industriales estadísticas comercio exterior intracomunitario Comunidad
+recurrir procedimiento simplificado documentos información estadística recibir previamente autorización necesaria servicio competente mencionado cuadro
+miembro
+Nombre dirección servicio competente
+Bélgica
+República Checa
+Dinamarca
+Alemania
+Maksu ja Tolliamet
+Grecia
+España
+Francia
+Italia
+Irlanda
+Chipre
+Letonia
+Lituania
+AJakšto
+Luxemburgo
+Hungrίa
+Países Bajos
+Polonia
+Rumanía
+Eslovenia
+Eslovaquia
+Finlandia
+Suecia
+Reino Unido
+Componentes conjuntos industriales completos marco comercio exterior Reglamento CE Comisión septiembre comercio intracomunitario Reglamento CE Comisión noviembre
+códigos mercancía deberán compuestos
+primeras cifras
+quinta sexta cifras corresponderán capítulo NC pertenezcan mercancías componente
+séptima octava cifras
+
+ANEXOS ARANCELARIOS
+ANEXOS AGRÍCOLAS
+ANEXO
+COMPONENTES AGRÍCOLAS EA DERECHOS ADICIONALES AZÚCAR AD DERECHOS ADICIONALES HARINA AD
+remisión presente anexo elemento agrícola EA caso derecho adicional azúcares diversos AD derecho adicional harina AD definirán contenido mercancía cuestión
+materias grasas leche
+proteínas leche
+sacarosa azúcar invertido isoglucosa
+almidónfécula glucosa
+mercancía corresponde código adicional definido cuadro recoge continuación
+elemento agrícola euros kilogramos peso neto aplicable mercancía establece columna cuadro
+derechos adicionales azúcares diversos AD euros kilogramos peso neto recogidos columna cuadro aplicarán máximo percepción arancel prevea remisión anexo mención AD derechos adicionales harina AD euros kilogramos peso neto recogidos columna aplicarán máximo percepción arancel prevea remisión anexo mención AD
+Cuadro
+Código adicional composición
+Materias grasas leche peso
+Proteínas leche peso
+Almidónfécula glucosa peso
+Sacarosa Azúcar invertido Isoglucosa peso
+Cuadro
+Código
+Elemento agrícola
+ANEXO
+PRODUCTOS APLICA PRECIO ENTRADA
+enero marzo
+precio entrada kg peso neto
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+abril abril
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+mayo mayo
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+mayo mayo
+junio septiembre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+octubre octubre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+noviembre diciembre
+diciembre diciembre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+enero febrero
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+marzo abril
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+mayo mayo
+Destinados transformación
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+Inferior
+mayo septiembre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+noviembre noviembre
+noviembre diciembre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+enero enero
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+febrero marzo
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+abril mayo
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+junio julio
+agosto diciembre
+enero mayo
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+junio junio
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+julio octubre
+noviembre diciembre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+mayo mayo
+junio octubre
+octubre noviembre
+diciembre diciembre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+marzo octubre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+enero abril
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+mayo mayo
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+agosto agosto
+Inferior
+agosto octubre
+Inferior
+enero julio
+variedad Emperador Vitis vinifera cv enero enero
+julio julio
+julio octubre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+noviembre noviembre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+noviembre diciembre
+variedad Emperador Vitis vinifera cv diciembre diciembre
+enero febrero
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+febrero marzo
+Superior inferior
+Superior inferior
+Inferior
+abril junio
+Superior inferior
+Inferior
+julio julio
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+julio julio
+Inferior
+enero enero
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+mayo junio
+julio julio
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+julio julio
+Inferior
+agosto octubre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+junio junio
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+junio junio
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+julio julio
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+mayo mayo
+mayo mayo
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior iguala inferior
+Superior inferior
+Superior inferior
+Inferior
+junio julio
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+agosto agosto
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior igualr inferior
+agosto diciembre
+Inferior
+junio junio
+Inferior
+junio julio
+Inferior
+enero junio
+junio junio
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+junio julio
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+agosto septiembre
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+octubre diciembre
+junio junio
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+julio septiembre
+precio entrada hl
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+Superior
+Superior inferior
+Superior inferior
+Superior inferior
+Superior inferior
+Inferior
+LISTAS SUSTANCIAS FARMACÉUTICAS REÚNAN CONDICIONES ADMITIDAS FRANQUICIA
+ANEXO
+LISTA DENOMINACIONES COMUNES INTERNACIONALES DCIS ELABORADA ORGANIZACIÓN MUNDIAL SALUD SUSTANCIAS FARMACÉUTICAS ACOGERSE RÉGIMEN AMDISIÓN FRANQUICIA
+Código NC
+Denominación
+algeldrato
+simaldrato
+almasilato
+almagodrato
+hidrotalcita
+vangatalcita
+carbaldrato
+sulfato almadrato
+almagato
+magaldrato
+aurotiosulfato sódico
+aurotiomalato sódico
+aurotioglicanida
+cisplatino
+carboplatino
+oxaliplatino
+ormaplatino
+iproplatino
+espiroplatino
+nedaplatino
+dexormaplatino
+miboplatino
+sebriplatino
+zeniplatino
+enloplatino
+lobaplatino
+triplatino tetranitrato
+picoplatino
+xenón Xe
+iodohipurato sódico
+selenometionina
+merisoprol Hg
+ioduro sódico
+aceite etiodado
+fosfato sódico
+seroalbúmina humana iodada
+seroalbúmina humana iodada
+cromato sódico Cr
+clormerodrina Hg
+cianocobalamina Co
+cianocobalamina Co
+rosa bengala sódica
+cloruro cesio Cs
+iotalamato sódico
+iometina
+iometina
+iotalamato sódico
+cianocobalamina Co
+ioduro sódico
+citrato galio Ga
+iodocolesterol
+injectable citrato férrico Fe
+tolpovidona
+macrosalbo
+macrosalbo Tc
+ácido iodocetílico
+ácido iocanlídico
+iofetamina
+iobenguano
+mespiperona
+tecnecio Tc teboroxima
+fludeoxiglucosa
+tecnecio Tc siboroxima
+tecnecio Tc sestamibi
+ioloprida
+bicisato tecnecio Tc
+tecnecio mTc nitridocado
+iometopano
+furifosmina tecnecio Tc
+samario Sm lexidronam
+ioflupano
+tecnecio Tc pintumomab
+tecnecio Tc nofetumomab merpentán
+tecnecio Tc apcitida
+tecnecio mTc fanolesomab
+oro Au coloidal
+fludalanina
+deutolperisona
+borocaptato sódico
+ácido gadotérico
+ácido gadopentético
+ácido gadobénico
+gadopenamida
+gadoversetamida
+gadodiamida
+ácido gadoxético
+esprodiamida
+ácido gadocolético
+gadodenterato
+meraleína sódica
+hidrargafeno
+otimerato sódico
+mercaptomerina
+ciclopropano
+temaroteno
+perflisobutano
+perflubutano
+perflexano
+criofluorano
+teflurano
+halotano
+perflunafeno
+bromocicleno
+clofenotano
+mitotano
+cloruro feniodio
+dibunato etilo
+gualenato sódico
+dibunato sódico
+dimetiodal sódico
+metiodal sódico
+racementol
+fenaglicodol
+metaglicodol
+amilmetacresol
+ciclomenol
+clorocresol
+hexaclorofeno
+cloroxilenol
+diclorofeno
+clorofeno
+bibrocatol
+biclotimol
+ácido persílico
+dobesilato cálcico
+ácido sultosílico
+dicresuleno
+niclofolán
+nitroclofeno
+metoxiflurano
+fluroxeno
+roflurano
+enflurano
+isoflurano
+sevoflurano
+desflurano
+aliflurano
+clorotrianiseno
+mefenesina
+guaifenesina
+clorfenesina
+floverina
+guaietolina
+ospemifeno
+fispemifeno
+monobenzona
+soneclosán
+triclosán
+teprenona
+bornelona
+difenadiona
+fenindiona
+xenipentona
+eltanolona
+ciclopregnol
+renanolona
+alfadolona
+idramantona
+alfaxalona
+endrisona
+ganaxolona
+colestolona
+budotitano
+paroxipropiona
+anisindiona
+dioxibenzona
+oxibenzona
+ciclovalona
+mexenona
+octabenzona
+flopropiona
+naftonona
+metocalcona
+nabumetona
+exifona
+avobenzona
+butantrona
+tebufelona
+ubidecarenona
+tetroquinona
+menatetrenona
+parvacuona
+menoctona
+idebenona
+docebenona
+buparvacuona
+bisulfito sódico menadiona
+fluindiona
+bromindiona
+clorindiona
+isobromindiona
+clofenóxido
+sulisobenzona
+flumedroxona
+hidromadinona
+nivimedona
+arildona
+atovacuona
+nitecapona
+tolcapona
+nebicapona
+ciclofenilo
+fenabuteno
+lonapaleno
+ácido valproico
+ácido octanoico
+iodetrilo
+valproato semisódico
+valproato pivoxilo
+ácido arúndico
+trioleato sorbitán
+gefarnato
+ácido gamolénico
+doconexento
+icosapento
+molfarnato
+ácido cicrotoico
+fenotrina
+iofendilato
+ácido xenihexénico
+ácido nafcaproico
+ibufenaco
+felbinaco
+clidanaco
+fencloraco
+cicloprofeno
+bexaroteno
+ácido azelaico
+hidroxidiona succinato sódico
+docusato sódico
+ftalofina
+ciclactato
+glucaldrato potásico
+ácido ursodeoxicólico
+ciclandelato
+ácido quenodeoxicólico
+ciclobutirol
+sacarato cálcico
+ácido tretocánico
+hexaciclonato sódico
+glucoheptonato cálcico
+ácido ciclobutoico
+ácido acebúrico
+ibuverina
+ferriclato cálcico sódico
+ácido cicloxílico
+deloxolona
+tisocalcitato
+salafibrato
+homosalato
+salsalato
+ácido hidroxitoluico
+ácido iofenoico
+ácido clorindánico
+ácido gentísico
+cinarina
+gentisato sódico
+feniodol sódico
+ácido dehidrocólico
+dehidrocolato sódico
+florantirona
+hexaciprona
+pibecarbo
+ácido buclóxico
+lexofenaco
+itanoxona
+ácido tiroprópico
+ácido etacrínico
+cinoxato
+enoxolona
+metalenestrilo
+fenobutiodil
+menglitato
+clofibrato
+ácido clofíbrico
+canrenoato potásico
+iodoftaleína sódica
+acetiromato
+menbutona
+ácido canrenoico
+anisacrilo
+carbenoxolona
+ácido bromébrico
+ácido dimecrótico
+glucaspaldrato sódico
+clofibrato magnésico
+sinfibrato
+ácido fepentólico
+alclofenaco
+clofibrato aluminio
+clinofibrato
+cinoxolona
+fenclofenaco
+ácido cinamético
+clofibrato cálcico
+metopreno
+trepibutona
+fenofibrato
+ciprofibrato
+cicloxolona
+etretinato
+fenirofibrato
+sitofibrato
+beclobrato
+indacrinona
+dulofibrato
+sofalcona
+cinfenoaco
+ácido palmoxírico
+oxindanaco
+oxprenoato potásico
+baxitozina
+adapaleno
+gemcabeno
+ácido fítico
+triclofós
+clofenvinfós
+vincofós
+fenclofós
+etasulfato sódico
+tetradecilsulfato sódico
+sulfato sódico menadiol
+cloretato
+ácido ursulcólico
+tetranitrato pentaeritritilo
+clonitrato
+propatilnitrato
+tetranitrato eritritilo
+hexanitrato manitol
+etamsilato
+clormetina
+taurina
+tuaminoheptano
+dimantina
+perfluamina
+octamilamina
+isometepteno
+octodrina
+triclormetina
+butinamina
+iproheptina
+dectafluro
+diprobutina
+trientina
+bromuro hexadimetrina
+mecamilamina
+ciclopentamina
+amantadina
+dimecamina
+propilhexedrina
+levopropilhexedrina
+rimantadina
+memantina
+somantadina
+neramexano
+clornafazina
+tametralina
+sertralina
+dexanfetamina
+fentermina
+benzfetamina
+levanfetamina
+anfetamina
+etilanfetamina
+fencanfamina
+lefetamina
+amitriptilina
+nortriptilina
+fenprometamina
+mefentermina
+dibemetina
+alverina
+tranilcipromina
+ciclobenzaprina
+etifelmina
+prenilamina
+protriptilina
+fenfluramina
+clorfentermina
+pargilina
+eticiclidina
+dexfenfluramina
+alfetamina
+ortetamina
+dimefadano
+tolpropamina
+diisopromina
+ganfexina
+indrilina
+maprotilina
+clortermina
+fendilina
+demelverina
+pramiverina
+selegilina
+cipenamina
+terodilina
+benzoctamina
+dimetanfetamina
+butixirato
+intriptilina
+levmetanfetamina
+butriptilina
+levofenfluramina
+octriptilina
+heptaverina
+droprenilamina
+trimexilina
+naftifina
+terbinafina
+indatralina
+butenafina
+sibutramina
+mofegilina
+rasagilina
+igmesina
+delucemina
+bromhexina
+feclemina
+aprindina
+amiflamina
+oleato monoetanolamina
+dextropropoxifeno
+meclofenoxato
+hexobendina
+moxisilita
+difenhidramina
+fenoxibenzamina
+adifenina
+dicicloverina
+caramifeno
+pentoxiverina
+clorfenoxamina
+orfenadrina
+etafenona
+cinamedrina
+feniltoloxamina
+paretoxicaína
+bromazina
+ganglefeno
+benacticina
+propanocaína
+meprilcaína
+clofenetamina
+ciclopentolato
+medrilamina
+hexilcaína
+dimefeptanol
+manomustina
+bufenadrina
+clomifeno
+ketocaína
+etoloxamina
+namoxirato
+xiloxemina
+cinamaverina
+drofenina
+benciclano
+levopropoxifeno
+aprofeno
+embramina
+xenisalato
+moxastina
+denaverina
+clorprenalina
+clofenciclán
+tocanfilo
+mecloxamina
+meglumina
+trolnitrato
+butidrina
+laurixamina
+mirtecaína
+tosilato itramina
+pargeverina
+minepentato
+butetamato
+proxibuteno
+miralacto
+ciprodenato
+dextrofemina
+guayactamina
+zuclomifeno
+enclomifeno
+alfametadol
+alfacetilmetadol
+clorgilina
+butamirato
+berlafenona
+bornaprina
+racefemina
+benaprizina
+elucaína
+tilorona
+mexiletina
+fenalcomina
+avridina
+trimebutina
+desproxibuteno
+flunamina
+halonamina
+iproxamina
+moxaprindina
+nisoxetina
+rociverina
+nexeridina
+amifloverina
+propafenona
+cinfenina
+fluoxetina
+butobendina
+oxaprotilina
+treptilamina
+drobulina
+prenoverina
+zocainona
+cilobamina
+halofantrina
+levoprotilina
+panomifeno
+difemerina
+diprafenona
+adafenoxato
+lumefantrina
+droloxifeno
+tomoxetina
+voglibosa
+toremifeno
+bifemelano
+trecadrina
+ramciclano
+tesmilifeno
+cericlamina
+dapoxetina
+deramciclano
+fedotozina
+alprafenona
+sarpogrelato
+seproxetina
+miproxifeno
+escualamina
+temiverina
+trodusquemina
+edronocaína
+dopamina
+metoxifenamina
+foledrina
+oxidopamina
+hidroxianfetamina
+vetrabutina
+aminoxitrifeno
+simetina
+trimoxamina
+mitoclomina
+gepefrina
+dobutamina
+lometralina
+dezocina
+levdobutamina
+brolanfetamina
+oxabrexina
+ibopamina
+dopexamina
+nolomirol
+fosopamina
+tolterodina
+metadona
+anfepramona
+normetadona
+levometadona
+isometadona
+ketamina
+metanfepramona
+esketamina
+cotriptilina
+anfebutamona
+drinideno
+nafenodona
+dexnafenodona
+tilidina
+camilofina
+alanina
+ácido aspártico
+procaína
+ácido edético
+ácido aminocapróico
+ácido mefenámico
+leucina
+calcioedetato sódico
+fenilalanina
+ácido pentético
+ornitina
+valina
+isoleucina
+leucinocaína
+benzocaína
+risocaína
+tetracaína
+ácido iopanoico
+cloroprocaína
+lisadimato
+melfalán
+butacaína
+ácido flufenámico
+sarcolisina
+amoxecaína
+ácido meclofenámico
+baclofeno
+ácido tranexámico
+ácido clofenámico
+fenclonina
+pentetato cálcico trisódico
+ácido tolfenámico
+clormecaína
+diclofenaco
+feredetato sódico
+padimato
+ácido enfenámico
+terofenamato
+etofenamato
+dextilidina
+cetraxato
+edetato dicobáltico
+amineptina
+prefenamato
+zafuleptina
+alaproclato
+eflornitina
+ufenamato
+atrimustina
+aceclofenaco
+icofungipeno
+levisoprenalina
+serina
+fenilefrina
+tirosina
+ácido egtázico
+propoxicaína
+mesalazina
+oxibuprocaína
+adrenalona
+ambucaína
+dextrotiroxina sódica
+metoxamina
+isoxsuprina
+dexfosfoserina
+bufenina
+hidroxiprocaína
+hidroxitetracaína
+proximetacaína
+isoetarina
+norfenefrina
+orciprenalina
+racemetirosina
+nitrato aminoetilo
+metirosina
+etilefrina
+corbadrina
+ácido xenazoico
+metiprenalina
+butaxamina
+hexoprenalina
+mebeverina
+betoxicaína
+detrotironina
+isoprenalina
+dioxifedrina
+norbudrina
+oxifedrina
+etiroxato
+bufeniodo
+dimetofrina
+terbutalina
+medifoxamina
+oxfenicina
+amafolona
+amfenaco
+dipivefrina
+secoverina
+roxadimato
+minaxolona
+ametantrona
+mitoxantrona
+butopamina
+pivenfrina
+denopamina
+alifedrina
+dembrexina
+pivalato etilefrina
+dexsecoverina
+bromfenaco
+rotraxato
+desvenlafaxina
+venlafaxina
+onapristona
+lilopristona
+ractopamina
+cliropamina
+aglepristona
+arbutamina
+meluadrina
+ácido caloxético
+eldacimiba
+fesoterodina
+gluconato colina
+ferrocolinato
+salicilato colina
+alfoscerato colina
+palmitato colfoscerilo
+bromuro oxifenonio
+carbacol
+bromuro hexametonio
+bromuro cetrimonio
+cloruro acetilcolina
+tosilato bretilio
+cloruro metacolina
+trietioduro galamina
+cloruro suxametonio
+bromuro tetrilamonio
+cloruro triclobisonio
+cloruro edrofonio
+cloruro bencetonio
+cloruro cetalconio
+ioduro prolonio
+ioduro tridihexetilo
+cloruro benzododecinio
+cloruro miristalconio
+bromuro azametonio
+bromuro hexafluronio
+tosilato troxonio
+carnitina
+bromuro domifeno
+levocarnitina
+bromuro pentametonio
+bromuro decametonio
+metilsulfato toloconio
+bromuro tetradonio
+bromuro laurcetio
+bromuro diponio
+cloral betaína
+bromuro deditonio
+ioduro metocinio
+etilsulfato mecetronio
+bromuro metilbenacticio
+bromuro emepronio
+bromuro prodeconio
+hidroxinaftoato befenio
+ioduro truxicurio
+metilsulfato mefenidramio
+oxibetaína
+cloruro halopenio
+perclorato nitricolina
+amsonato clorfenoctio
+cloruro oxidipentonio
+ioduro mebezonio
+cloruro carpronio
+bromuro bibenzonio
+bromuro dodeclonio
+cloruro octafonio
+bromuro penoctonio
+cloruro benzoxonio
+cloruro lauralconio
+cloruro metilbencetonio
+bromuro ciclonio
+tosilato emilio
+cloruro pranolio
+cloruro suxetonio
+napadisilato aclatonio
+miltefosina
+bromuro amantanio
+cloruro cetexonio
+fosfato clofilio
+edelfosina
+ioduro estilonio
+meprobamato
+uretano
+levoglutamida
+ácido acexámico
+mebutamato
+emilcamato
+ectilurea
+acetileucina
+ácido aceneurámico
+carmustina
+bromuro hexacarbacolina
+ibrotamida
+valdetamida
+cropropamida
+ácido carglúmico
+valpromida
+aceglutamida
+ácido isospaglúmico
+aceglumato deanol
+valnoctamida
+bromacrilida
+tibamato
+ácido espaglúmico
+capurida
+pentabamato
+crotetamida
+ácido hopanténico
+nisobamato
+butoctamida
+pendecamaína
+bisórcico
+valdipromida
+glutaurina
+elmustina
+pivagabina
+neptamustina
+milacemida
+acamprosato
+tabilautida
+pimelautida
+valrocemida
+caldiamida
+versetamida
+tradecamida
+sinapultida
+ioduro opratonio
+triclocarbán
+halocarbano
+lomustina
+semustina
+etinamato
+lidocaína
+oxifenamato
+niclosamida
+procainamida
+bromuro demecario
+dimevamida
+fenacetina
+carbarilo
+fenacemida
+salicilamida
+ioduro isopropamida
+feneturida
+estiramato
+clorbetamida
+cloruro metalconio
+difenán
+bromuro neostigmina
+cloruro ambenonio
+oxetacaína
+oxanamida
+suramina sódica
+diprotrizoato sódico
+acetrizoato sódico
+dietiltoluamida
+trimetobenzamida
+dinitolmida
+benzmaleceno
+fenaclón
+bromamida
+hexapropimato
+metoclopramida
+iodamida
+crotamitón
+salacetamida
+beclamida
+ambucetamida
+benzamidosalicilato cálcico
+metocarbamol
+diampromida
+buclosamida
+diloxanida
+salfluverina
+adipiodona
+trimecaína
+fenprobamato
+prilocaína
+propetamida
+amidotrizoato sódico
+ameltolida
+flubanilato
+declopramida
+etenzamida
+cloruro carcaínio
+clofexamida
+mefexamida
+ácido ioprocémico
+naftipramida
+ácido iotalámico
+oxiclozanida
+nonivamida
+enciprato
+ácido ioglicámico
+diacetamato
+afalanina
+aclomida
+ácido iobenzámico
+clinolamida
+carfimato
+clefamida
+tolicaína
+benzoato denatonio
+butanilicaína
+bromoprida
+fenalamida
+endomida
+buramato
+benorilato
+flualamida
+aloclamida
+teclozán
+paxamato
+pentalamida
+docetrizoato propilo
+cintramida
+ácido iosefámico
+anilamato
+clodacaína
+cartrizoato etilo
+carbasalato cálcico
+ciclarbamato
+ácido clamidóxico
+salverina
+proglumida
+idrocilamida
+ciheptamida
+metrizoato sódico
+tiropanoato sódico
+enpromato
+ácido iocármico
+citenamida
+flutamida
+octacaína
+procimato
+cresotamida
+melinamida
+clioxanida
+decimemida
+cloponona
+etosalamida
+dicarfeno
+embutramida
+carbifeno
+ácido iotrizoico
+ácido iocetámico
+atolida
+diclometida
+quatacaína
+clocanfamida
+ftaxilida
+ácido ioxotrizoico
+ácido capobénico
+rafoxanida
+ácido iolixánico
+aspartamo
+lorbamato
+etofamida
+felbamato
+ácido iomeglámico
+bromuro otilonio
+clofibrida
+halofenato
+ácido iotránico
+ácido fenáftico
+ácido ioxitalámico
+oxitriptilina
+moctamida
+colfenamato
+clanobutina
+parsalmida
+ácido iodoxámico
+ácido iozómico
+bunaftina
+acecainida
+diamfenetida
+etidocaína
+bentiromida
+ácido ioprónico
+ácido iosumético
+urefibrato
+dopamantina
+brosotamida
+bromoxanida
+tocainida
+bezafibrato
+midodrina
+saletamida
+ácido ioglícico
+tiaprida
+ácido iotróxico
+ácido iosérico
+exalamida
+tromantadina
+cloruro dofamio
+brovanexina
+adamexina
+meglitinida
+tiropramida
+motretinida
+ioglunida
+sevopramida
+cinromida
+ácido ioxáglico
+lorzafona
+ácido iotétrico
+progabida
+etersalato
+ioglucomida
+cinflumida
+cloxaceprida
+avizafona
+fenretinida
+bromadolina
+oxazafona
+bifepramida
+eclanamina
+dinazafona
+iopromida
+indecainida
+dulozafona
+ciprazafona
+nepafenaco
+iosimida
+iotrisida
+iotrolán
+ácido broxitalámico
+arclofenina
+tamibaroteno
+ácido oxabrólico
+tomoglumida
+lorglumida
+casokefamida
+batanoprida
+ecabapida
+nateglinida
+loxiglumida
+ioxilán
+tacedinalina
+amiglumida
+dexloxiglumida
+itoprida
+candoxatrilo
+rivastigmina
+remacemida
+ralfinamida
+safinamida
+agomelatina
+lovirida
+retigabina
+axitiromo
+neboglamina nebostinel
+lacosamida erlosamida
+ácido salcaprócico
+frakefamida
+topilutamida
+ácido salclobúcico
+glutetimida
+talidomida
+fenimida
+bemegrida
+mesuximida
+etosuximida
+fensuximida
+aminoglutetimida
+fenglutarimida
+amfotalida
+noreximida
+mitindomida
+taglutimida
+ciproximida
+brosuximida
+tesimida
+mitonafida
+amonafida
+bisnafida
+elinafida
+clorhexidina
+betanidina
+arginina
+pentamidina
+fenacaína
+propamidina
+fenformina
+lauroguadina
+isetionato estilbamidina
+mitoguazona
+hidroxiestilbamidina
+dibrompropamidina
+iopodato sódico
+renitolina
+amicarbalida
+guanoctina
+bunamidina
+hexamidina
+anfecloral
+tosilato xilamidina
+creatinolfosfato
+guanoxifeno
+ferrotrenina
+targinina
+alexidina
+guanfacina
+gabexato
+meobentina
+guanclofina
+lidamidina
+napactadina
+benexato
+fengabina
+tolgabida
+gusperimús
+olanexidina
+delmitida
+isoaminilo
+mecrilato
+bucrilato
+guancidina
+etocrileno
+octocrileno
+enbucrilato
+ocrilato
+etaminilo
+galopamilo
+cloguanamilo
+flucrilato
+lodoxamida
+alozafona
+teriflunomida
+entacapona
+balazipona
+etoxazeno
+diminazeno
+ipsalazida
+balsalazida
+fenelzina
+feniprazina
+mebanazina
+deferoxamina
+fenicarbazida
+hidroxicarbamida
+ciacetacida
+benserazida
+difoxazida
+ácido acetohidroxámico
+brocresina
+procarbazina
+bufexamaco
+carbencida
+noxiptilina
+iproclozida
+bumadizona
+fenoxipropazina
+bolazina
+octamoxina
+guanocloro
+guanabenzo
+sintraceno
+alanosina
+guanoxabenzo
+foxima
+beloxamida
+naftazona
+ruvazona
+demexiptilina
+cetoxima
+robenidina
+anidoxima
+nafomina
+caproxamina
+fluvoxamina
+clovoxamina
+naprodoxima
+cloximato
+mariptilina
+estirocainida
+caracemida
+erocainida
+upenazima
+exametazima
+sardomocida
+istaroxima
+ciclamato sódico
+crufomato
+defosfamida
+amitriptilinóxido
+cansilato amoxidramina
+benzaprinóxido
+flurofamida
+tolfamida
+clomifenóxido
+banoxantrona
+avasimiba
+disufentón sódico
+ditiocarbo sódico
+fencarbamida
+tolindato
+tolciclato
+metionina
+cisteína
+penicilamina
+acetilcisteína
+carbocisteína
+mecisteína
+prenisteína
+fudosteína
+dacisteína
+bencisteína
+bucilamina
+cistinexina
+salmisteína
+mercaptamina
+dimetil sulfóxido
+acedapsona
+dapsona
+fenticloro
+tioacetazona
+captamina
+aliltiourea
+subatizona
+acediasulfona sódica
+solasulfona
+aldesulfona sódica
+succimero
+antiolimina
+chaulmosulfona
+captodiamo
+tiambutosina
+ioduro ecotiopato
+ambazona
+glucosulfona
+ditofal
+carbofenotión
+loflucarbán
+bitionolóxido
+tiocarlida
+metalibura
+etocarlida
+tolnaftato
+gloxazona
+fluoresona
+ioduro oxisonio
+ioduro hexasonio
+amidapsona
+bitoscanato
+danosteína
+diprofeno
+succisulfona
+timerfonato sódico
+diatimosulfona
+alocupreida sódica
+bitionolato sódico
+xentiorato
+ioduro tiametonio
+tioctilato
+tibenzato
+tiacetarsamida sódica
+nitroscanato
+amifostina
+iosulamida
+brotianida
+amoscanato
+oxiglutationa
+osmadizona
+sulindaco
+tolmesóxido
+tiopropamina
+serfibrato
+tiafibrato
+mertiatida
+imcarbofós
+metkefamida
+docarpamina
+racecadotrilo
+ditiomustina
+ilmofosina
+suricainida
+ambamustina
+cloticasona
+etaroteno
+ácido tiludrónico
+bicalutamida
+fluticasona
+tosilato suplatast
+betiatida
+sumaroteno
+dexecadotrilo
+ecadotrilo
+linaroteno
+tibegliseno
+orazipona
+canfosfamida
+cariporida
+rimeporida
+eflucimiba
+metrifonato
+ácido arsanílico
+nitarsona
+glicobiarsol
+roxarsona
+carbarsona
+butonato
+oxofenarsina
+diclorofenarsina
+neoarsfenamina
+mercuderamida
+sulfoxilato fenarsona
+triparsamida
+sulfarsfenamina
+ácido medrónico
+ácido foscólico
+tolboxano
+ácido etidrónico
+difetarsona
+estibosamina
+borato fenilmercúrico
+ácido clodrónico
+ácido fosménico
+ácido oxidrónico
+fosenazida
+cloruro toliodio
+ácido pamidrónico
+ácido esparfósico
+ácido butedrónico
+fosfonet sódico
+ácido lidadrónico
+ácido olpadrónico
+foscarnet sódico
+diciferrón
+ácido alendrónico
+disicuonio cloruro
+fosarilato
+ácido tauroselcólico
+mifobato
+ácido neridrónico
+fotemustina
+ácido ibandrónico
+ácido incadrónico
+zifrosilona
+nihidrazona
+nidroxizona
+ioduro furtretonio
+nifuroxazida
+nifuraldezona
+zilofuramina
+ioduro fubrogonio
+furidarona
+nifursemizona
+nifurmerona
+nifuretazona
+nifuroxima
+espiroxasona
+nifuratrona
+diclofurima
+ranitidina
+niperotidina
+venritidina
+furomina
+fenolftaleína
+espironolactona
+cumafós
+propiolactona
+dicumarol
+amolanona
+himecromona
+acenocumarol
+fenprocumon
+ácido elágico
+visnadina
+biscumacetato etilo
+aceglatona
+carbocromeno
+diarbarona
+esculamina
+valofano
+hemisuccinato benfurodil
+cumetarol
+xilocumarol
+glucurolactona
+clocumarol
+clofuraco
+talosalato
+acrihelina
+cloricromeno
+ivermectina
+lomevactona
+esuprona
+gamolenato ascorbilo
+losigamona
+moxidectina
+disermolida
+fluoresceína lisicol
+selamectina
+ceribato paclitaxel
+homarilamina
+promoxolano
+ioduro oxapropanio
+estibamina glucósido
+mitopodozida
+glucosamina
+dioxamato
+glubionato cálcico
+didrovaltrato
+ácido diprogúlico
+olmidina
+acevaltrato
+fructosa férrica
+treloxinato
+metrizamida
+ciheptolano
+dexbudesonida
+tenanfetamina
+ponfibrato
+nibroxano
+bofumustina
+acarbosa
+ranimustina
+almurtida
+glucuronamida
+temurtida
+murabutida
+romurtida
+artesunato
+edifolona
+topiramato
+ecomustina
+galamustina
+fondaparinux sódico
+isalsteína
+dosmalfato
+aprosulato sódico
+idraparinux sódico
+bromuro propantelina
+bromuro metantelinio
+benciodarona
+metilcromona
+dinitrato isosorbida
+efloxato
+sitoglúsido
+isosorbida
+dimeflina
+benzarona
+amiodarona
+benzbromarona
+amikelina
+butamoxano
+pentamoxano
+cromocarbo
+benzquercina
+flavamina
+etabenzarona
+mononitrato isosorbida
+ácido cromoglícico
+etomoxano
+valtrato
+guabenxán
+ácido furacrínico
+trebenzomina
+oxetorona
+mecinarona
+ácido xanóxico
+silicristina
+ipriflavona
+terbucromilo
+ácido flavódico
+pirandamina
+tocofibrato
+nabilona
+isoxepaco
+oxepinaco
+furofenaco
+isocromilo
+furcloprofeno
+ambicromilo
+proxicromilo
+colforsina
+pentomona
+fluradolina
+espizofurona
+naboctato
+timefurona
+texacromilo
+bucromarona
+ansoxetina
+mitoflaxona
+tifuraco
+cromoglicato lisetil
+olopatadina
+artefleno
+propifenazona
+aminofenazona
+fenazona
+metamizol sódico
+ciclamato aminofenazona
+dibupirona
+ramifenazona
+ioduro butopiramonio
+famprofazona
+bisfenazona
+fenilbutazona
+sulfinpirazona
+betazol
+oxifenbutazona
+kebuzona
+mofebutazona
+praxadina
+metoquizina
+fomepizol
+tribuzona
+difenamizol
+feclobuzona
+suxibuzona
+feprazona
+trifezolaco
+proxifezona
+bufezolaco
+isofezolaco
+lonazolaco
+muzolimina
+clofezona
+dazoprida
+pirazolaco
+fezolamina
+ipazilida
+cizolirtina
+mefenitoína
+fenitoína
+clodantoina
+clazolimina
+espiromustina
+nilutamida
+fosfenitoína
+fentolamina
+angiotensinamida
+tolazolina
+tiamazol
+histidina
+tetrizolina
+antazolina
+metronidazol
+fenamazolina
+xilometazolina
+dimetridazol
+nafazolina
+ternidazol
+tefazolina
+tramazolina
+oximetazolina
+secnidazol
+tolonidina
+clonidina
+dacarbazina
+flunidazol
+fenoxazolina
+metomidato
+fosfocreatinina
+domazolina
+propoxato
+imidolina
+ronidazol
+misonidazol
+metazamida
+ipronidazol
+ornidazol
+nimazona
+clonazolina
+tinidazol
+mipimazol
+nitrefazol
+carbimazol
+etanidazol
+miconazol
+benznidazol
+clotrimazol
+glibutimina
+econazol
+isoconazol
+imidocarbo
+flutonidina
+estirimazol
+lofexidina
+bamnidazol
+etomidato
+alinidina
+metiamida
+salicilato imidazol
+flumizol
+climbazol
+metrafazolina
+indanazolina
+azolimina
+fenmetozol
+carnidazol
+sulnidazol
+cimetidina
+zetidolina
+cibenzolina
+cloruro fludazonio
+cloruro sepazonio
+nizofenona
+impromidina
+valconazol
+benclonidina
+fexinidazol
+brimonidina
+cirazolina
+bifonazol
+lombazol
+sulconazol
+triletida
+tinazolina
+tiflamizol
+aliconazol
+bentemazol
+oxiconazol
+nafimidona
+butoconazol
+lofemizol
+romifidina
+apraclonidina
+orconazol
+etintidina
+democonazol
+zoficonazol
+fenticonazol
+enilconazol
+omoconazol
+propenidazol
+detomidina
+croconazol
+enoximona
+bisantreno
+sopromidina
+levlofexidina
+dexlofexidina
+mifentidina
+flutomidato
+indanidina
+medetomidina
+octimibato
+abunidazol
+napamezol
+idralfidina
+bisfentidina
+efetozol
+atipamezol
+cilutazolina
+lintoprida
+brolaconazol
+isaglidol
+giracodazol
+dexmedetomidina
+irtemazol
+ácido zoledrónico
+flutrimazol
+deriglidol
+eberconazol
+acetato prezatida cobre
+neticonazol
+nemazolina
+exenatida
+liarozol
+doranidazol
+fipamezol
+semparatida
+enfuvirtida
+carafibán
+tiplimotida
+fadolmidina radolmidina
+lusupultida
+dapiclermina
+mecasermina rinfabato
+petidina
+trimeperidina
+fenciclidina
+metilfenidato
+anileridina
+piritramida
+pentazocina
+dipipanona
+ketobemidona
+fenoperidina
+difenoxilato
+bezitramida
+bromuro piridostigmina
+crobenetina
+nialamida
+benzpiperilona
+metirapona
+bromuro trimedoxima
+niquetamida
+cloropiramina
+metilsulfato difemanilo
+bromuro mepenzolato
+fenpipramida
+alfaprodina
+cicrimina
+pempidina
+piperidolato
+feniramina
+bromfeniramina
+piridocaína
+tripelenamina
+mepiramina
+verazida
+ioduro pralidoxima
+fenazopiridina
+tolpronina
+eucatropina
+cloruro obidoxima
+metiridina
+azaciclonol
+dipiproverina
+cloruro cetilpiridinio
+bromuro pipenzolato
+bromuro fenpiverinio
+fenazocina
+ciproheptadina
+fenampromida
+dexbromfeniramina
+clorfenamina
+piperocaína
+ciclometicaína
+trihexifenidilo
+espirgetina
+difenilpiralina
+ftivazida
+diodona
+espirileno
+ioduro dicolinio
+betameprodina
+alfameprodina
+hidroxipetidina
+betaprodina
+doxilamina
+feneridina
+etoxeridina
+bietamiverina
+triprolidina
+carbinoxamina
+espiramida
+pimeclona
+etionamida
+oxofeneridina
+nicotiazona
+norpipanona
+properidina
+dihexiverina
+pimetremida
+diclonina
+bromuro benzopirinio
+propiliodona
+bisacodilo
+tolperisona
+espiperona
+aceperona
+aceclidina
+guayapato
+moperona
+hepzidina
+primaperona
+guanaclina
+tropicamida
+gapicomina
+amiperona
+metazida
+pirinolina
+fluspirileno
+piricarbato
+pipamperona
+pimozida
+nifenazona
+benproperina
+bupivacaína
+ácido oxiniácico
+piperilona
+cloruro miripirio
+opiniazida
+roxoperona
+modalina
+nicametato
+ioduro dimecolonio
+bromuro clidinio
+fenpiprano
+ioduro piprocurario
+pimetina
+indopina
+ciclazocina
+melperona
+hexadilina
+propipocaína
+bencetidina
+dipiritiona
+cloperastina
+picolamina
+metazocina
+disopiramida
+propiperona
+ioduro estilbazio
+propinetidina
+azatadina
+oxiclipina
+ácido niflúmico
+ácido nixílico
+pipetanato
+camfotamida
+bamipina
+perastina
+leptaclina
+metilsulfato bevonio
+oxiperomida
+rotoxamina
+iopidol
+iopidona
+fospirato
+bromuro parapenzolato
+dimetindeno
+betahistina
+trimetamida
+carpipramina
+sorbinicato
+cloruro lapirio
+nicotinato inositol
+perhexilina
+crotoniazida
+tartrato hidroxipiridina
+pentapiperida
+metosulfato trimetidinio
+paridocaína
+hepronicato
+carperidina
+metilsulfato pentapiperio
+picosulfato sódico
+quifenadina
+nicoclonato
+aconiazida
+metaniazida
+bitipazona
+piritiona cincica
+piminodina
+panidazol
+nicoboxilo
+oxiramida
+protionamida
+meletimida
+cinpereno
+pitamina
+butoxilato
+clibucaína
+anazocina
+niprofazona
+bromuro pancuronio
+rivaniclina
+droxipropina
+volazocina
+pifenato
+bromuro distigmina
+bencindopirina
+benzoclidina
+picodralazina
+clonixino
+diclonixino
+pipoctanona
+carperona
+flazalona
+dorastina
+flupranona
+picoperina
+clonixerilo
+nifedipino
+dexetimida
+ipragratina
+lifibrato
+nepinalona
+niludipino
+bupicomida
+mepivacaína
+piridoxilato
+dexivacaína
+levofacetoperano
+benrixato
+lenperona
+alilprodina
+dexclorfeniramina
+diamocaína
+bromuro dacuronio
+pinolcaína
+bromuro droclidinio
+nicotredol
+deferiprona
+troxipida
+metilsulfato fenclexonio
+pifoxima
+prodipino
+etofibrato
+quinupramina
+ticarbodina
+nicofibrato
+broperamol
+dropempina
+ioduro truxipicurio
+bromuro pirdonio
+picofosfato sódico
+ketazocina
+nictindol
+ácido tíbrico
+dilmefona
+encainida
+pituxato
+micinicato
+nitrendipino
+dexmetilfenidato
+ronifibrato
+cicliramina
+clocapramina
+difenoximida
+piroctona
+terfenadina
+bromuro vecuronio
+picobencida
+mindoperona
+fluperamida
+loperamida
+clopimozida
+ciclonicato
+fetoxilato
+gemazocina
+pitofenona
+flecainida
+fluspiperona
+pirifibrato
+pirinidazol
+butaverina
+butopiprina
+pipoxizina
+pribecaína
+fenperato
+cleboprida
+nicardipino
+zindotrina
+zimeldina
+flupirtina
+timoprazol
+picafibrato
+timiperona
+ibazocina
+cogazocina
+sequifenadina
+domperidona
+budipino
+moxazocina
+carfentanilo
+lorcainida
+milenperona
+halopemida
+femoxetina
+nomelidina
+propiverina
+eniclobrato
+cloroperona
+mesudipino
+declenperona
+nisoldipino
+indalpina
+picotrina
+bromuro quinuclio
+eperisona
+caricotamida
+nimodipino
+ifoxetina
+enpirolina
+midaglizol
+cinitaprida
+aleprida
+enefexina
+disobutamida
+astemizol
+binifibrato
+fenoctimina
+pimonidazol
+carbazerán
+brocleprida
+octenidina
+quadazocina
+tonazocina
+riodipino
+bremazocina
+vadocaína
+tepirindol
+lamtidina
+omeprazol
+ufiprazol
+cloruro ditercalinio
+milverina
+flumeridona
+nilvadipino
+ácido piridrónico
+tecastemizol
+lavoltidina
+tefenperato
+picoprazol
+roxatidina
+droxicainida
+cabastina
+icospiramida
+nicaravén
+levocabastina
+loratadina
+sufotidina
+panuramina
+nicogrelato
+emiglitato
+cisaprida
+modecainida
+pibaxizina
+fexofenadina
+ambasilida
+ropivacaína
+piroximona
+bromuro ciclotropio
+felodipino
+trazoloprida
+aranidipino
+litoxetina
+ofornina
+acrivastina
+amlodipino
+transcainida
+liranaftato
+mosapramina
+mezacoprida
+zacoprida
+carebastina
+ebastina
+lodaxaprina
+endixaprina
+altapizona
+butinazocina
+prideperona
+rispenzepina
+nuvenzepina
+pentisomida
+palonidipino
+pantenicato
+carmoxirol
+anpirtolina
+disuprazol
+derpanicato
+pranidipino
+lercanidipino
+desloratadina
+idaverina
+ocfentanilo
+pantoprazol
+lansoprazol
+lazabemida
+lacidipino
+pibutidina
+pirtenidina
+barnidipino
+ácido risedrónico
+benidipino
+sertindol
+arpromidina
+gapromidina
+óxido loperamida
+gevotrolina
+carvotrolina
+teludipino
+roxindol
+renzaprida
+niguldipino
+tenatoprazol
+sampirtina
+olradipino
+bidisomida
+rabeprazol
+esomeprazol
+nerispirdina
+besipirdina
+bencetimida
+icaridina
+dexniguldipino
+alvamelina
+dalcotidina
+pancoprida
+itamelina
+rogletimida
+sibopirdina
+azelnidipino
+bepotastina
+lemildipino
+cilnidipino
+vamicamida
+espatropato
+repaglinida
+espiroglumida
+dexlansoprazol
+levolansoprazol
+ferpifosato sódico
+milamelina
+silperisona
+milacainida
+sameridina
+lirexaprida
+talsaclidina
+trovirdina
+revatropato
+ecalcideno
+nicanartina
+lanicemina
+alinastina
+besilato nolpitantio
+bromuro rapacuronio
+perifosina
+rupatadina
+linetastina
+sabcomelina
+ipravacaína
+clevidipino
+brasofensina
+ilaprazol
+capravirina
+dersalacina
+tesofensina
+tebaniclina
+pipendoxifeno
+itriglumida
+bilastina
+ticaloprida
+etexilato dabigatrán
+bamirastina
+vareniclina
+isproniclina
+levorfanol
+cincocaína
+cincofeno
+neocincofeno
+oxicincofeno
+proquinolato
+buquinolato
+nequinato
+anquinato
+ciproquinato
+clinafloxacino
+dextrometorfano
+cloroquina
+clorquinaldol
+diiodohidroxiquinoleína
+amodiaquina
+benzoxiquina
+pentaquina
+quinisocaína
+primaquina
+hidroxicloroquina
+levometorfano
+dextrorfano
+cloxiquina
+acetato laurolinio
+dimoxilina
+levalorfano
+guanisoquina
+racemorfano
+fenomorfano
+etaverina
+racemetorfano
+broxiquinolina
+cloruro decualinio
+quinocida
+cloruro pirvinio
+octaverina
+amopiroquina
+papaverolina
+pamaquina
+debrisoquina
+norlevorfanol
+tosilato tretinio
+quintiofós
+metofolina
+niceverina
+clamoxiquina
+azul quinaldina
+metilsulfato laudexio
+broxaldina
+aminoquinurida
+glafenina
+nitroxolina
+cletoquina
+cloruro hedaquinio
+quinetalato
+cloquinato
+levofenacilmorfano
+leniquinsina
+moxaverina
+cuproxolina
+amiquinsina
+quinprenalina
+drotaverina
+carbazocina
+memotina
+famotina
+decoquinato
+quindecamina
+oxamniquina
+floctafenina
+mebiquina
+nomifensina
+esproquina
+tisocuona
+butorfanol
+acequinolina
+mefloquina
+tiquinamida
+cicarperona
+clofeverina
+climicualina
+iquindamina
+isotiquimida
+sitamaquina
+nicafenina
+besilato atracurio
+diclofensina
+vicualina
+ivocualina
+tebuquina
+flosequinán
+dizocilpina
+pipecualina
+veradolina
+florifenina
+abanoquilo
+itrocainida
+besilato cisatracurio
+tafenoquina
+cloruro doxacurio
+cloruro mivacurio
+terbequinilo
+quiflapón
+quilostigmina
+cloruro gantacurio
+zoniporida
+fenobarbital
+fenobarbital sódico
+barbital sódico
+ciclobarbital
+metilfenobarbital
+probarbital sódico
+fetarbital
+bucolomo
+carbubarbo
+pracitona
+barbexaclona
+febarbamato
+difebarbamato
+metacualona
+meclocualona
+dimpilato
+mercaptopurina
+pirimetamina
+dipiridamol
+metotrexato
+ácido orótico
+uramustina
+hidroxizina
+tiopental sódico
+ciclizina
+clorciclizina
+buclizina
+dietilcarbamazina
+toncilamina
+metilsulfato hexociclo
+oxifenciclimina
+hexetidina
+oxipertina
+tioguanina
+simetrida
+clocinizina
+cinarizina
+piperamida
+bentiamina
+acetiamina
+alopurinol
+triamtereno
+azatioprina
+butalital sódico
+clorbenzoxamina
+amisometradina
+bromuro tonzonio
+meclozina
+aminometradina
+mefeclorazina
+fluanisona
+azaperona
+rolodina
+piricualona
+perlapina
+flucitosina
+bisbentiamina
+azabuperona
+sulbutiamina
+lidoflazina
+ropizina
+decloxizina
+zolertina
+quazodina
+cloperidona
+isaxonina
+quipazina
+trimetazidina
+nafiverina
+pirimitato
+azaquinzol
+tisopurina
+diaveridina
+difluanazina
+tiamiprina
+ampiramina
+nonapirimina
+picloxidina
+triclofenol piperazina
+clozapina
+iodotiouracilo
+dimetolizina
+iminofenimida
+febuverina
+etacualona
+eprazinona
+edetato piperazina calcio
+bromuro piritidio
+teroxaleno
+quinazosina
+bentipimina
+dropropizina
+etodroxicina
+epirizol
+ácido piromídico
+trazodona
+mepiprazol
+tolpiprazol
+razoxano
+piquizilo
+hoquizilo
+benfotiamina
+procuazona
+cloruro prospidio
+moxipraquina
+cinepazida
+cinpropazida
+milipertina
+dexrazoxano
+clorocualona
+trazitilina
+alpertina
+pipebuzona
+niaprazina
+metilsulfato rimazolio
+pirenzepina
+enpiprazol
+ciprocuazona
+peraquinsina
+buspirona
+diprocualona
+amocarzina
+flucuazona
+pirolazamida
+piberalina
+fluprocuazona
+impacarzina
+biriperona
+tolimidona
+nimustina
+mezilamina
+ácido piriníxico
+bucainida
+cinprazol
+ácido pipemídico
+trimetrexato
+ketotrexato
+bromuro pipecuronio
+belarizina
+flunarizina
+tioperidona
+etoperidona
+ciapiloma
+ácido cinepázico
+ciltoprazina
+fenaperona
+toprilidina
+metralindol
+fluciprazina
+pirolato
+prazicuantel
+antrafenina
+iprozilamina
+acaprazina
+piclopastina
+brindoxima
+halofuginona
+aflocualona
+mociprazina
+terciprazina
+nitracuazona
+bropirimina
+aminopterina sódica
+benderizina
+orazamida
+oxatomida
+nilprazol
+pirlindol
+clofibrato cinarizina
+mirtazapina
+esmirtazapina
+azanidazol
+docualast
+esaprazol
+mobenzoxamina
+verofilina
+fluperlapina
+peradoxima
+vanoxerina
+anagrelida
+enciprazina
+buterizina
+ipexidina
+quazinona
+tolnapersina
+aptazapina
+losulazina
+perafensina
+dapiprazol
+moxonidina
+pirenperona
+amperozida
+rimcazol
+buquiterina
+nosantina
+rofelodina
+fluprazina
+quinezamida
+zolenzepina
+mioflazina
+rilapina
+trequinsina
+mafoprazina
+levofolinato cálcico
+edatrexato
+tefludazina
+metrenperona
+cinuperona
+flotrenizina
+trenizina
+nefazodona
+cetirizina
+gepirona
+desiclovir
+temelastina
+cloruro dibrospidio
+tandospirona
+bemitradina
+tasuldina
+bemarinona
+lixazinona
+pelrinona
+elziverina
+batelapina
+ranolazina
+peraclopona
+irindalona
+actisomida
+quinelorano
+sobuzoxano
+levodropropizina
+norfloxacino succinilo
+acitemato
+lomerizina
+baquiloprima
+umespirona
+mizolastina
+lorpiprazol
+elbanizina
+zalospirona
+serazapina
+ruzadolano
+vatanidipino
+delfaprazina
+tagorizina
+lifarizina
+iganidipino
+manidipino
+draflazina
+trelnarizina
+carsatrina
+tamolarizina
+levocetirizina
+sipatrigina
+sifaprazina
+peldesina
+revizinona
+mazapertina
+atevirdina
+voriconazol
+mapinastina
+pralatrexato
+emivirina
+efletirizina
+cadrofloxacina
+belaperidona
+albaconazol
+forodesina
+dapivirina
+enecadina
+etravirina
+sabiporida
+rilpivirina
+metenamina
+tretamina
+sincloseno
+amanozina
+embonato cicloguanil
+altretamina
+trocloseno potásico
+oxonazina
+meladrazina
+brometenamina
+espirazina
+almitrina
+irsogladina
+ciromazina
+metrazifona
+lamotrigina
+dizatrifona
+palatrigina
+clazurilo
+diclazurilo
+melarsomina
+eptapirona
+piritildiona
+ácido pidólico
+oxifenisatina
+primidona
+amfenidona
+etipicona
+metisazona
+felipirina
+flucarbrilo
+ceruletida
+fantridona
+omidolina
+etomidolina
+ácido iolidónico
+ubisindina
+teprotida
+dezaguanina
+zopiclona
+nofecainida
+pirfenidona
+cofisatina
+amrinona
+daniquidona
+cilostamida
+geclosporina
+milrinona
+seglitida
+vesnarinona
+piraxelato
+darenzepina
+zatebradina
+adosopina
+etazepina
+medorinona
+ropinirol
+saterinona
+nanterinona
+selprazina
+linopirdina
+olprinona
+cilobradina
+rebamipida
+crilvastatina
+aripiprazol
+pagoclona
+oxeclosporina
+pidobenzona
+eszopiclona
+lapisterida
+toborinona
+lirequinilo
+bexlosterida
+ivabradina
+depreotida
+ecetimiba
+cilengitida
+lenalidomida
+clordiazepóxido
+pirovalerona
+loflazepato etilo
+fenindamina
+prazepina
+etoheptazina
+carbamazepina
+depramina
+metoheptazina
+metetoheptazina
+trimipramina
+ketimipramina
+elantrina
+prozapina
+elanzepina
+imipraminóxido
+metioduro buzepida
+metapramina
+lofepramina
+mezepina
+oxcarbazepina
+licarbacepina
+ciclopramina
+enprazepina
+azipramina
+azelastina
+amezepina
+setastina
+cianopramina
+nelezaprina
+eptazocina
+epinastina
+tiracizina
+pincainida
+erizepina
+eslicarbacepina
+flezelastina
+conivaptán
+homoclorciclizina
+nitrazepato potásico
+propizepina
+dirazepato etilo
+azepindol
+ioduro tibezonio
+clorazepato dipotásico
+carfluzepato etilo
+tampramina
+emedastina
+siltenzepina
+devazepida
+nevirapina
+tivirapina
+tarazepida
+pranazepida
+desipramina
+imipramina
+tartrato pentolonio
+guanetidina
+tetrabenazina
+benzoquinamida
+triazicuona
+cloruro clorisondamina
+carbazocromo
+proheptazina
+prociclidina
+mepacrina
+fanquinona
+hidralazina
+aminoacridina
+proflavina
+pirazinamida
+bromuro quindonio
+prolina
+medazomida
+clomipramina
+bucricaína
+tacrina
+benhepazona
+ácido nalidíxico
+inprocuona
+etacridina
+clemizol
+dihidralazina
+ácido kaínico
+histapirrodina
+prolintano
+midamalina
+metilsulfato poldina
+bromuro oxipirronio
+bromuro glicopirronio
+bencidamina
+etonitazeno
+butinolina
+ioduro trepirio
+bromuro bencilonio
+zolimidina
+bromuro homidio
+azintamida
+nafoxidina
+clofazimina
+cinopentazona
+roliciclidina
+pirrocaína
+etriptamina
+quindoxina
+drometrizol
+amilorida
+roliciprina
+octrizol
+mimbrano
+ioduro etipirio
+acetriptina
+tosilato troxipirrolio
+hidracarbazina
+clormidazol
+bromuro hexopirronio
+prodilidina
+cloruro triciclamol
+clonitaceno
+bumetrizol
+nitracrina
+bromuro prifinio
+clodazón
+monometacrina
+dimetacrina
+botiacrina
+indoxol
+ampizina
+cloquinozina
+clomacrán
+pridefina
+fenamol
+iprindol
+leiopirrol
+hexedina
+tolquinzol
+lobendazol
+triampizina
+cetohexazina
+hidroxindasato
+piroxamina
+pirofendano
+triclazato
+iprazocromo
+acrisorcina
+roletamida
+boxidina
+nitromifeno
+azapropazona
+bromuro benzopirronio
+parbendazol
+trocimina
+todralazina
+ácido anfonélico
+fenharmano
+quilifolina
+mecarbinato
+bromuro ciclopirronio
+clemastina
+pirrolifeno
+metindizato
+intrazol
+nonaperona
+talastina
+piroheptina
+bendamustina
+bromuro pirralconio
+taloximina
+oxdralazina
+tetridamina
+dicarbina
+aptocaína
+bendazaco
+oxibendazol
+diftalona
+tretacicar
+procodazol
+amicibona
+caroverina
+carbocuona
+amixetrina
+sincalida
+clometacina
+melizamo
+clenpirina
+tirapazamina
+mixidina
+cuprimixina
+cinoctramida
+ioduro estercuronio
+bumecaína
+metilsulfato amezinio
+amindocato
+indocato
+flubendazol
+mebendazol
+ciclobendazol
+bisbendazol
+ciclindol
+zomepiraco
+taclamina
+cloruro isometamidio
+cartazolato
+benafentrina
+ciprafamida
+oxarbazol
+trizoxima
+burodilina
+budralazina
+carmantadina
+oglufanida
+rodocaína
+endralazina
+estrinolina
+tofetridina
+flucindol
+bromuro nolinio
+tracazolato
+denpidazona
+clopiraco
+flumequina
+fenbendazol
+closiramina
+bromuro fazadinio
+lonidamina
+xinidamina
+tolnidamina
+etazolato
+bromuro dimetipirio
+carbazocromo sulfonato sódico
+lotucaína
+glucametacina
+sultoprida
+carprofeno
+oxfendazol
+bromuro ritropirronio
+metilsulfato roxolonio
+floxacrina
+óxido albendazol
+biclofibrato
+camiverina
+etoprindol
+fepromida
+fexicaína
+metanfazona
+ioduro candocuronio
+pinafida
+albendazol
+nebidrazina
+isamfazona
+isoprazona
+oxagrelato
+setiptilina
+diazicuona
+guanazodina
+alizaprida
+octastina
+binedalina
+pareptida
+benolizima
+pentigetida
+butoprozina
+emideltida
+piroglirida
+ipidacrina
+trioxifeno
+dribendazol
+pildralazina
+cadralazina
+irolaprida
+pazeliptina
+epicainida
+rolgamidina
+anirolaco
+triclabendazol
+etaceprida
+losindol
+amipizona
+vinconato
+flutrolina
+bicifadina
+amisulprida
+sulmazol
+indorenato
+ketorolaco
+dazidamina
+tomoxiprol
+fluzinamida
+prinomida
+piquindona
+acodazol
+rilozarona
+remoxiprida
+enviradeno
+eproxindina
+racloprida
+eticloprida
+temozolomida
+mitozolomida
+quinpirol
+zindoxifeno
+isomazol
+fluconazol
+aganodina
+bamaluzol
+quinagolida
+amtolmetina guacilo
+tazadoleno
+pilsicainida
+losoxantrona
+brinazarona
+doreptida
+luxabendazol
+dezinamida
+piroxantrona
+teloxantrona
+mitoquidona
+alteconazol
+nemonaprida
+perindoprilato
+domipizona
+esilato trazio
+troxolamida
+oxamisol
+inaperisona
+siguazodán
+rilmazafona
+eptastigmina
+zardaverina
+fadrozol
+bisoctrizol
+leminoprazol
+trapencaína
+suronacrina
+liroldina
+rufinamida
+stannsoporfina
+timoctonán
+cloruro famiraprinio
+gedocarnilo
+suritozol
+abecarnilo
+letrozol
+velnacrina
+fantofarona
+fosquidona
+apazicuona
+talimustina
+idoxifeno
+lanperisona
+loreclezol
+goralatida
+anastrozol
+intoplicina
+ácido minodrónico
+vorozol
+niravolina
+candesartán
+pixantrona
+mitiglinida
+asimadolina
+omocianina
+nortopixantrona
+topixantrona
+nepaprazol
+licofelona
+lagatida
+pumaprazol
+finrozol
+talviralina
+icrocaptida
+nemifitida
+eniporida
+implitapida
+opaviralina
+altiniclina
+sumanirol
+lasofoxifeno
+pactimiba
+capromorelina
+fosfluconazol
+bacedoxifeno
+brostalicina
+pumafentrina
+tifuvirtida
+pasireotida
+edratida
+dirlotapida
+niridazol
+aminotiazol
+aminitrozol
+tiabendazol
+timonácico
+tiazosulfona
+amifenazol
+forminitrazol
+clometiazol
+zolamina
+nifurtiazol
+tenonitrozol
+cloprotiazol
+beclotiamina
+fezationa
+ácido fenclózico
+fentiazaco
+ioduro bidimazio
+ioduro pretamazio
+antazonita
+cambendazol
+libecilida
+peratizol
+tidiácico
+ácido tizoprólico
+letosteína
+tebatizol
+nifuralida
+nitazoxanida
+ozolinona
+tiazofurina
+timofibrato
+tiotidina
+timegadina
+lotifazol
+ciglitazona
+famotidina
+nizatidina
+dexetozolina
+fanetizol
+amflutizol
+nesosteína
+zaltidina
+tuvatidina
+ralitolina
+troglitazona
+timirdina
+guaisteína
+alonácico
+englitazona
+pioglitazona
+moguisteína
+rosiglitazona
+telmesteína
+mivotilato
+tazofelona
+icodulina
+darbufelona
+darglitazona
+cartasteína
+aseripida
+netoglitazona
+ravuconazol
+acotiamida
+rivoglitazona
+balaglitazona
+edaglitazona
+cloruro alagebrio
+dimazol
+ioduro ditiazanina
+riluzol
+haletazol
+frentizol
+tiaramida
+supidimida
+tioxidazol
+etrabamina
+tazasubrato
+ipsapirona
+revospirona
+evandamina
+sabeluzol
+pramipexol
+lubeluzol
+ziprasidona
+perospirona
+izonsterida
+lurasidona
+tioridazina
+tietilperazina
+clorpromazina
+metilsulfato tiazinamio
+aminopromazina
+proclorperazina
+perfenazina
+promazina
+prometazina
+pecazina
+dietazina
+levomepromazina
+acepromazina
+metopromazina
+cloruro metiltioninio
+flufenazina
+clorproetazina
+pipamazina
+tiopropazato
+paratiazina
+alimemazina
+fenotiazina
+trifluoperazina
+bromuro propiromazina
+triflupromazina
+propiomazina
+metofenazato
+dimetoxanato
+dacemazina
+profenamina
+fenetazina
+etimemazina
+butaperazina
+cloracizina
+levometiomeprazina
+metodilazina
+periciazina
+carfenazina
+trifluomeprazina
+acetofenazina
+ciamemazina
+oxomemazina
+piperacetazina
+homofenazina
+mesoridazina
+metiomeprazina
+imiclopazina
+perimetazina
+aceprometazina
+ácido protizinico
+ácido metiazínico
+metopimazina
+oxiridazina
+sulforidazina
+dimelazina
+oxaflumazina
+ciclofenazina
+sopitazina
+espiclomazina
+furomazina
+mequitazina
+fluacizina
+moracizina
+ftormetazina
+ftorpropazina
+fenoverina
+flupimazina
+azaclorzina
+azaftozina
+duoperona
+ioduro mequitamio
+apadolina
+fenmetrazina
+dextromoramida
+fendimetrazina
+pemolina
+mesocarbo
+tenalidina
+clorprotixeno
+furazolidona
+erbulozol
+ganstigmina
+ciclofosfamida
+floxuridina
+medibazina
+nadida
+idoxuridina
+inosina
+broxuridina
+isocarboxazida
+fosfato adenosina
+zoxazolamina
+cansilato trimetafán
+trifluridina
+mefenoxalona
+ticlatona
+cloruro pentacinio
+clormezanona
+dietiltiambuteno
+tenildiamina
+metapirileno
+clorzoxazona
+fenitilona
+parametadiona
+trimetadiona
+clortenoxazina
+furaltadona
+pramocaína
+ioduro tiemonio
+citarabina
+cloropirileno
+pimetixeno
+imolamina
+azacitidina
+levcicloserina
+sulbentina
+bucladesina
+diazóxido
+etilmetiltiambuteno
+fenadoxona
+butirato dioxafetilo
+morferidina
+cinofuradiona
+lucantona
+metafenileno
+clordimorina
+dimetiltiambuteno
+alometadiona
+racemoramida
+nifuradeno
+furalazina
+ibacitabina
+cifostodina
+trimetozina
+tozalinona
+dimetadiona
+dietadiona
+metastiridona
+acoxatrina
+fursultiamina
+tenilidona
+morinamida
+oxolamina
+clopentixol
+citicolina
+fenadiazol
+pirenoxina
+espiroxatrina
+citiolona
+ácido bensuldázico
+damotepina
+nifurprazina
+metaxalona
+desmetilmoramida
+clotioxona
+nifurvidina
+loxapina
+clotiapina
+pipazetato
+azaribina
+tiofuradeno
+decitabina
+furetidina
+protixeno
+acadesina
+estavudina
+estibocaptato sódico
+doxifluridina
+hicantona
+nifurfolina
+telbivudina
+promolato
+moroxidina
+ifosfamida
+morsuximida
+levofuraltadona
+bromuro trantelinio
+clotixamida
+cladribina
+closilato tenio
+fenbutrazato
+nicofurato
+solipertina
+metixeno
+tioxolona
+antienita
+tetramisol
+fenspirida
+cloruro furazolio
+tipepidina
+vidarabina
+diclormezanona
+cloruro sanguinario
+bromclorenona
+molinazona
+fenmetramida
+difencloxazina
+levomoramida
+proxazol
+epipropidina
+metiapina
+furmetoxadona
+nitramisol
+nimorazol
+morazona
+ioduro oxapio
+piridarona
+flumetramida
+metilbromuro tihexinol
+bromuro heteronio
+dantroleno
+xilazina
+molindona
+zalcitabina
+tipindol
+mitotenamina
+etisazol
+riboprina
+furtereno
+acefurtiamina
+bepiastina
+melarsonilo potásico
+ácido iobutoico
+clorotepina
+amoxapina
+tiletamina
+ciclazodona
+tritocualina
+ácido oxolínico
+levamisol
+dexamisol
+clodanoleno
+edoxudina
+nifurimida
+antafenita
+ciclexanona
+flavoxato
+fenozolona
+cloxipendilo
+becantona
+mobecarbo
+oxadimedina
+clantifeno
+etasulina
+nonabina
+ademetionina
+metizolina
+etofuradina
+fomocaína
+moxicumona
+bromuro oxitefonio
+vanitiolida
+caroxazona
+ditazol
+nifurmazol
+taurolidina
+moquizona
+metitepina
+brofoxina
+tenociclidina
+citenazona
+fludarabina
+etifoxina
+fenpipalona
+trofosfamida
+butalamina
+feprosidnina
+fopirtolina
+fedrilato
+articaína
+tinoridina
+nifurpipona
+pipofezina
+oxazorona
+alovudina
+terizidona
+molsidomina
+minaprina
+bromuro dotefonio
+nifurizona
+paraxazona
+letimida
+zotepina
+oxaflozano
+pifexol
+tropatepina
+oxaziziona
+zepastina
+naftoxato
+seclazona
+meseclazona
+toloxatona
+mofoxima
+zidovudina
+tiamenidina
+nocodazol
+ancitabina
+morclofona
+ácido tiaprofénico
+clidafidina
+acesulfamo
+linsidomina
+fipexida
+profexalona
+cloruro azaspirio
+bromuro timepidio
+tisocromida
+tritiozina
+morocromeno
+maitansina
+triciribina
+azepexol
+nuclotixeno
+ácido prodólico
+fotretamina
+cumazolina
+sufosfamida
+tienopramina
+cloruro tiodonio
+romifenona
+pinadolina
+emorfazona
+inicarona
+olpimedona
+aclantato
+tifemoxona
+nifurzida
+torcitabina
+ácido tienílico
+etodolaco
+befuralina
+tocladesina
+metioxato
+tilozepina
+tandamina
+viloxazina
+trixolano
+prenoxdiazina
+nimidano
+mizoribina
+cliprofeno
+tizanidina
+tianafaco
+ácido iomorínico
+moxnidazol
+xinomilina
+zoloperona
+fluzoperina
+bromuro pinaverio
+cromitrilo
+zuclopentixol
+suriclona
+mofloverina
+rilmenidina
+quincarbato
+subendazol
+bromuro tipetropio
+butamisol
+ticlopidina
+pentizidona
+ciclafrina
+enocitabina
+furodazol
+pifarnina
+octazamida
+isamoxol
+peraloprida
+nifuroquina
+nufenoxol
+ácido clavulánico
+protiofato
+tilomisol

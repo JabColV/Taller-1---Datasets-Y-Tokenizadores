@@ -1,0 +1,5000 @@
+Superior a 42 cm pero inferior o igual a 52 cm
+Superior a 52 cm pero inferior o igual a 72 cm
+Superior a 72 cm
+Con parámetros de barrido inferiores o iguales a 625 líneas , con diagonal de pantalla
+Inferior o igual a 75 cm
+Superior a 75 cm
+Los demás , en blanco y negro o demás monocromos
+Partes identificables como destinadas , exclusiva o principalmente , a los aparatos de las partidas 8525 a 8528
+Antenas
+Antenas de exterior para receptores de radio y televisión
+Para recepción vía satélite
+Antenas de interior para receptores de radio y televisión , incluidas las que se incorporan a estos
+Filtros y separadores de antena
+Partes de aparatos de las subpartidas 85256000 , 85258030 , 85284100 , 85285100 y 85286100
+Muebles y envolturas
+De cámaras de televisión de la subpartida 85258011 y 85258019 y de aparatos de las partidas 8527 y 8528
+Aparatos eléctricos de señalización ( excepto los de transmisión de mensajes ) , seguridad , control o mando , para vías férreas o similares , carreteras , vías fluviales , áreas o parques de estacionamiento , instalaciones portuarias o aeropuertos ( excepto los de la partida 8608 )
+Material fijo y aparatos de vías férreas
+Aparatos eléctricos de señalización acústica o visual ( por ejemplo : timbres , sirenas , tableros indicadores , avisadores de protección contra robo o incendio ) ( excepto los de las partidas 8512 u 8530 )
+Avisadores eléctricos de protección contra robo o incendio y aparatos similares
+De los tipos utilizados para edificios
+Tableros indicadores con dispositivos de cristal líquido ( LCD ) o diodos emisores de luz ( LED ) , incorporados
+Con diodos emisores de luz ( LED )
+Con dispositivos de cristal líquido ( LCD )
+De matriz activa
+Dispositivos de visualización de pantalla plana
+De aparatos de las subpartidas 853120 y 85318020
+Condensadores eléctricos fijos , variables o ajustables
+Condensadores fijos concebidos para redes eléctricas de 50/60 Hz , para una potencia reactiva superior o igual a 0,5 kvar ( condensadores de potencia )
+Los demás condensadores fijos
+De tantalio
+Electrolíticos de aluminio
+Con dieléctrico de cerámica de una sola capa
+Con dieléctrico de cerámica , multicapas
+Con dieléctrico de papel o plástico
+Condensadores variables o ajustables
+Resistencias eléctricas ( excepto las de calentamiento ) , incluidos reóstatos y potenciómetros
+Resistencias fijas de carbono , aglomeradas o de capa
+Las demás resistencias fijas
+De potencia inferior o igual a 20 W
+Resistencias variables bobinadas , incluidos reóstatos y potenciómetros
+Las demás resistencias variables , incluidos reóstatos y potenciómetros
+Circuitos impresos
+Que solo lleven elementos conductores y contactos
+Circuitos multicapas
+Que lleven otros elementos pasivos
+Aparatos para corte , seccionamiento , protección , derivación , empalme o conexión de circuitos eléctricos ( por ejemplo : interruptores , conmutadores , cortacircuitos , pararrayos , limitadores de tensión , supresores de sobretensión transitoria , tomas de corriente y demás conectores , cajas de empalme ) , para una tensión superior a 1000 V
+Fusibles y cortacircuitos de fusible
+Disyuntores
+Para una tensión inferior a 72,5 kV
+Seccionadores e interruptores
+Pararrayos , limitadores de tensión y supresores de sobretensión transitoria
+Aparatos para corte , seccionamiento , protección , derivación , empalme o conexión de circuitos eléctricos [ por ejemplo : interruptores , conmutadores , relés , cortacircuitos , supresores de sobretensión transitoria , clavijas y tomas de corriente ( enchufes ) , portalámparas y demás conectores , cajas de empalme ] , para una tensión inferior o igual a 1000 V ; conectores de fibras ópticas , haces o cables de fibras ópticas
+Para intensidades inferiores o iguales a 10 A
+Para intensidades superiores a 10 A pero inferiores o iguales a 63 A
+Para intensidades superiores a 63 A
+Para intensidades inferiores o iguales a 63 A
+Los demás aparatos para protección de circuitos eléctricos
+Para intensidades inferiores o iguales a 16 A
+Para intensidades superiores a 16 A pero inferiores o iguales a 125 A
+Para intensidades superiores a 125 A
+Relés
+Para una tensión inferior o igual a 60 V
+Para intensidades inferiores o iguales a 2 A
+Para intensidades superiores a 2 A
+Los demás interruptores , seccionadores y conmutadores
+Interruptores electrónicos de CA que consistan en circuitos de entrada y salida de acoplamiento óptico ( interruptores CA de tiristor aislado )
+Interruptores electrónicos de protección térmica , compuestos por un transistor y una microplaquita lógica ( tecnología chip-on-chip )
+Interruptores electromecánicos de acción rápida para una corriente inferior o igual a 11 A
+De botón o pulsador
+Rotativos
+Portalámparas , clavijas y tomas de corriente ( enchufes )
+Portalámparas
+Portalámparas Edison
+Para cables coaxiales
+Para circuitos impresos
+Conectores de fibras ópticas , haces o cables de fibras ópticas
+Elementos prefabricados para canalizaciones eléctricas
+Conexiones y elementos de contacto para hilos y cables
+Sondas de discos ( wafers ) de material semiconductor
+Cuadros , paneles , consolas , armarios y demás soportes equipados con varios aparatos de las partidas 8535 u 8536 , para control o distribución de electricidad , incluidos los que incorporen instrumentos o aparatos del capítulo 90 , así como los aparatos de control numérico ( excepto los aparatos de conmutación de la partida 8517 )
+Para una tensión inferior o igual a 1000 V
+Controles numéricos que incorporen una máquina automática para tratamiento o procesamiento de datos
+Aparatos de mando con memoria programable
+Para una tensión superior a 1000 V
+Para una tensión superior a 1000 V pero inferior o igual a 72,5 kV
+Para una tensión superior a 72,5 kV
+Partes identificables como destinadas , exclusiva o principalmente , a los aparatos de las partidas 8535 , 8536 u 8537
+Cuadros , paneles , consolas , armarios y demás soportes de la partida 8537 , sin sus aparatos
+De sondas de discos ( wafers ) de material semiconductor de la subpartida 85369020
+Lámparas y tubos eléctricos de incandescencia o de descarga , incluidos los faros o unidades « sellados » y las lámparas y tubos de rayos ultravioletas o infrarrojos ; lámparas de arco
+Faros o unidades « sellados »
+Las demás lámparas y tubos de incandescencia ( excepto las de rayos ultravioletas o infrarrojos )
+Halógenos , de volframio ( tungsteno )
+De los tipos utilizados para motocicletas y otros vehículos automóviles
+Los demás , para una tensión
+Superior a 100 V
+Inferior o igual a 100 V
+Los demás , de potencia inferior o igual a 200 W y para una tensión superior a 100 V
+Reflectores
+Lámparas y tubos de descarga ( excepto los de rayos ultravioletas )
+Fluorescentes , de cátodo caliente
+De dos casquillos
+Lámparas de vapor de mercurio o sodio ; lámparas de halogenuro metálico
+De vapor de mercurio
+De vapor de sodio
+De halogenuro metálico
+Lámparas y tubos de rayos ultravioletas o infrarrojos ; lámparas de arco
+Lámparas de arco
+De rayos ultravioletas
+De rayos infrarrojos
+Casquillos
+Tubos catódicos para aparatos receptores de televisión , incluso para videomonitores
+Los demás , con diagonal de pantalla
+Tubos para cámaras de televisión ; tubos convertidores o intensificadores de imagen ; los demás tubos de fotocátodo
+Tubos para cámaras de televisión
+Tubos para visualizar datos gráficos en colores , con pantalla fosfórica de separación de puntos inferior a 0,4 mm
+Tubos para visualizar datos gráficos en blanco y negro o demás monocromos
+Los demás tubos catódicos
+Tubos para hiperfrecuencias ( por ejemplo : magnetrones , klistrones , tubos de ondas progresivas , carcinotrones ) ( excepto los controlados por rejillas )
+Magnetrones
+Klistrones
+Las demás lámparas , tubos y válvulas
+Tubos receptores o amplificadores
+De tubos catódicos
+Diodos , transistores y dispositivos semiconductores similares ; dispositivos semiconductores fotosensibles , incluidas las células fotovoltaicas , aunque estén ensambladas en módulos o paneles ; diodos emisores de luz ; cristales piezoeléctricos montados
+Diodos ( excepto los fotodiodos y los diodos emisores de luz )
+Transistores ( excepto los fototransistores )
+Con una capacidad de disipación inferior a 1 W
+Tiristores , diacs y triacs ( excepto los diapositivos fotosensibles )
+Dispositivos semiconductores fotosensibles , incluidas las células fotovoltaicas , aunque estén ensambladas en módulos o paneles ; diodos emisores de luz
+Diodos emisores de luz , incluidos los diodos láser
+Los demás dispositivos semiconductores
+Cristales piezoeléctricos montados
+Circuitos electrónicos integrados
+Procesadores y controladores , incluso combinados con memorias , convertidores , circuitos lógicos , amplificadores , relojes y circuitos de sincronización , u otros circuitos
+Las mercancías especificadas en la nota 8 b ) 3 ) de este capítulo
+Memorias
+Memoria dinámica de lectura-escritura de acceso aleatorio ( D-RAMs )
+Con una capacidad de almacenamiento inferior o igual a 512 Mbits
+Con una capacidad de almacenamiento superior a 512 Mbits
+Memoria estática de lectura-escritura de acceso aleatorio ( S-RAMs ) , incluida la memoria cache de lectura-escritura de acceso aleatorio ( Cache-RAMs )
+Memoria exclusivamente de lectura , programable , que se pueda borrar mediante rayos ultravioletas ( EPROMs )
+Memoria exclusivamente de lectura , programable , que se pueda borrar eléctricamente ( E2PROMs ) , incluidas las flash E2PROMs
+Las demás memorias
+Amplificadores
+Máquinas y aparatos eléctricos con función propia , no expresados ni comprendidos en otra parte de este capítulo
+Aceleradores de partículas
+Generadores de señales
+Máquinas y aparatos de galvanoplastia , electrólisis o electroforesis
+Máquinas eléctricas con funciones de traducción o de diccionario
+Amplificadores de antena
+Bancos y techos solares , y aparatos similares para el bronceado
+De tubos fluorescentes de rayos ultravioleta A
+Con una longitud máxima del tubo de 100 cm
+Electrificadores de cercas
+Hilos , cables , incluidos los coaxiales , y demás conductores aislados para electricidad , aunque estén laqueados , anodizados o provistos de piezas de conexión ; cables de fibras ópticas constituidos por fibras enfundadas individualmente , incluso con conductores eléctricos o provistos de piezas de conexión
+Alambre para bobinar
+Esmaltados o laqueados
+Cables y demás conductores eléctricos , coaxiales
+Juegos de cables para bujías de encendido y demás juegos de cables de los tipos utilizados en los medios de transporte
+Los demás conductores eléctricos para una tensión inferior o igual a 1000 V
+Provistos de piezas de conexión
+De los tipos utilizados en telecomunicación
+De los tipos utilizados en telecomunicación para una tensión inferior o igual a 80 V
+Hilos y cables , con cabos de diámetro superior a 0,51 mm
+para una tensión inferior o igual a 80 V
+para una tensión superior a 80 V pero inferior a 1000 V
+para una tensión de 1000 V
+Los demás conductores eléctricos para una tensión superior a 1000 V
+Con conductores de cobre
+Con otros conductores
+Cables de fibras ópticas
+Electrodos y escobillas de carbón , carbón para lámparas o pilas y demás artículos de grafito u otros carbonos , incluso con metal , para usos eléctricos
+Electrodos
+De los tipos utilizados en hornos
+Electrodos para instalaciones de electrólisis
+Escobillas
+Resistencias calentadoras
+Aisladores eléctricos de cualquier materia
+De vidrio
+De cerámica
+Sin partes metálicas
+Con partes metálicas
+Para líneas aéreas de transporte de energía o para líneas de tracción
+Piezas aislantes totalmente de materia aislante o con simples piezas metálicas de ensamblado ( por ejemplo : casquillos roscados ) embutidas en la masa , para máquinas , aparatos o instalaciones eléctricas ( excepto los aisladores de la partida 8546 ) ; tubos aisladores y sus piezas de unión , de metal común , aislados interiormente
+Piezas aislantes de cerámica
+Con un contenido de óxido metálico superior o igual al 80 % en peso
+Piezas aislantes de plástico
+Desperdicios y desechos de pilas , baterías de pilas o acumuladores , eléctricos ; pilas , baterías de pilas y acumuladores , eléctricos , inservibles ; partes eléctricas de máquinas o aparatos , no expresadas ni comprendidas en otra parte de este capítulo
+Desperdicios y desechos de pilas , baterías de pilas o acumuladores , eléctricos ; pilas , baterías de pilas y acumuladores , eléctricos , inservibles
+Pilas y baterías de pilas eléctricas inservibles
+Acumuladores eléctricos inservibles
+Acumuladores de plomo
+Desperdicios y desechos de pilas , baterías de pilas o acumuladores , eléctricos
+Que contengan plomo
+Memorias dinámicas de lectura-escritura de acceso aleatorio ( D-RAMs ) combinadas de diversas formas , por ejemplo : apiladas , montadas en módulos
+SECCIÓN XVII
+MATERIAL DE TRANSPORTE
+Esta sección no comprende los artículos de las partidas 9503 o 9508 ni los toboganes , bobsleighs y similares ( partida 9506 ) .
+No se consideran « partes o accesorios » de material de transporte , aunque sean identificables como tales :
+las juntas o empaquetaduras , arandelas y similares , de cualquier materia ( régimen de la materia constitutiva o partida 8484 ) , así como los demás artículos de caucho vulcanizado sin endurecer ( partida 4016 ) ;
+los artículos del capítulo 82 ( herramientas ) ;
+los artículos de la partida 8306 ;
+las máquinas y aparatos de las partidas 8401 a 8479 , así como sus partes ; los artículos de las partidas 8481 u 8482 y , siempre que constituyan partes intrínsecas de motor , los artículos de la partida 8483 ;
+las máquinas y aparatos eléctricos , así como el material eléctrico ( capítulo 85 ) ;
+los artículos del capítulo 91 ;
+ij ) las armas ( capítulo 93 ) ;
+los aparatos de alumbrado y sus partes , de la partida 9405 ;
+los cepillos que constituyan partes de vehículos ( partida 9603 ) .
+En los capítulos 86 a 88 , la referencia a las « partes » o a los « accesorios » no abarca a las partes o accesorios que no estén destinados , exclusiva o principalmente , a los vehículos o artículos de esta sección .
+Cuando una parte o un accesorio sea susceptible de responder a las especificaciones de dos o más partidas de la sección , se clasificará en la partida que corresponda a su utilización principal .
+En esta sección :
+los vehículos especialmente concebidos para ser utilizados en carretera y sobre carriles ( rieles ) se clasifican en la partida apropiada del capítulo 87 ;
+los vehículos automóviles anfibios se clasifican en la partida apropiada del capítulo 87 ;
+las aeronaves especialmente concebidas para ser utilizadas también como vehículos terrestres , se clasifican en la partida apropiada del capítulo 88 .
+Los vehículos de cojín ( colchón ) de aire se clasifican con los vehículos con los que guarden mayor analogía :
+del capítulo 86 , si están concebidos para desplazarse sobre una vía guía ( aerotrenes ) ;
+del capítulo 87 , si están concebidos para desplazarse sobre tierra firme o indistintamente sobre tierra firme o sobre agua ;
+del capítulo 89 , si están concebidos para desplazarse sobre agua , incluso si pueden posarse en playas o embarcaderos o desplazarse también sobre superficies heladas .
+Las partes y accesorios de vehículos de cojín ( colchón ) de aire se clasifican igual que las partes y accesorios de los vehículos de la partida en que estos se hubieran clasificado por aplicación de las disposiciones anteriores .
+El material fijo para vías de aerotrenes se considera material fijo de vías férreas , y los aparatos de señalización , seguridad , control o mando para vías de aerotrenes como aparatos de señalización , seguridad , control o mando para vías férreas .
+Sin perjuicio de lo dispuesto en la nota complementaria 3 del capítulo 89 , las herramientas y artículos para la conservación y reparación de los vehículos seguirán el régimen de estos cuando se presenten al despacho de aduanas al mismo tiempo que los vehículos .
+El mismo régimen se aplicará a los demás accesorios que se presenten al mismo tiempo que los vehículos de los que constituyan el equipo normal y siempre que se vendan normalmente con ellos .
+A solicitud del declarante y en las condiciones establecidas por las autoridades competentes , las disposiciones de la regla general 2 a ) se aplicarán también a las mercancías pertenecientes a las partidas 8608 , 8805 , 8905 y 8907 presentadas a despacho en expediciones fraccionadas .
+CAPÍTULO 86
+VEHÍCULOS Y MATERIAL PARA VÍAS FÉRREAS O SIMILARES , Y SUS PARTES ; APARATOS MECÁNICOS , INCLUSO ELECTROMECÁNICOS , DE SEÑALIZACIÓN PARA VÍAS DE COMUNICACIÓN
+las traviesas ( durmientes ) de madera u hormigón para vías férreas o similares y los elementos de hormigón para vías guía de aerotrenes ( partidas 4406 o 6810 ) ;
+los elementos para vías férreas de fundición , hierro o acero de la partida 7302 ;
+los aparatos eléctricos de señalización , seguridad , control o mando de la partida 8530 .
+Se clasifican en la partida 8607 , entre otros :
+los ejes , ruedas , ejes montados ( trenes de ruedas ) , llantas , bujes , centros y demás partes de ruedas ;
+los chasis , bojes y bissels ;
+las cajas de ejes ( cajas de grasa o aceite ) , los dispositivos de freno de cualquier clase ;
+los topes , ganchos y demás sistemas de enganche , los fuelles de intercomunicación ;
+los artículos de carrocería .
+Salvo lo dispuesto en la nota 1 anterior , se clasifican en la partida 8608 , entre otros :
+las vías ensambladas , placas y puentes giratorios , parachoques y gálibos ;
+los discos y placas móviles y semáforos , aparatos de mando para pasos a nivel o cambio de agujas , puestos de maniobra a distancia y demás aparatos mecánicos ( incluso electromecánicos ) de señalización , seguridad , control o mando , incluso provistos de dispositivos accesorios de alumbrado eléctrico , para vías férreas o similares , carreteras , vías fluviales , áreas o parques de estacionamiento , instalaciones portuarias o aeropuertos .
+Locomotoras y locotractores , de fuente externa de electricidad o acumuladores eléctricos
+De fuente externa de electricidad
+De acumuladores eléctricos
+Las demás locomotoras y locotractores ; ténderes
+Locomotoras diésel-eléctricas
+Automotores para vías férreas y tranvías autopropulsados ( excepto los de la partida 8604 )
+Vehículos para mantenimiento o servicio de vías férreas o similares , incluso autopropulsados ( por ejemplo : vagones taller , vagones grúa , vagones equipados para apisonar balasto , alinear vías , coches para ensayos y vagonetas de inspección de vías )
+Coches de viajeros , furgones de equipajes , coches correo y demás coches especiales , para vías férreas o similares ( excepto los coches de la partida 8604 )
+Vagones para transporte de mercancías sobre carriles ( rieles )
+Vagones cisterna y similares
+Vagones de descarga automática ( excepto los de la subpartida 860610 )
+Cubiertos y cerrados
+Especialmente concebidos para transportar productos muy radiactivos ( Euratom )
+Abiertos , con pared fija de altura superior a 60 cm
+Partes de vehículos para vías férreas o similares
+Bojes , bissels , ejes y ruedas , y sus partes
+Bojes y bissels , de tracción
+Los demás bojes y bissels
+Ejes montados o sin montar ; ruedas y sus partes
+De acero estampado
+Partes de bojes , bissels y similares
+Frenos y sus partes
+Frenos de aire comprimido y sus partes
+Ganchos y demás sistemas de enganche , topes , y sus partes
+De locomotoras o locotractores
+Cajas de engrase y sus partes
+Carrocerías y sus partes
+Chasis y sus partes
+Material fijo de vías férreas o similares ; aparatos mecánicos , incluso electromecánicos , de señalización , seguridad , control o mando para vías férreas o similares , carreteras o vías fluviales , áreas o parques de estacionamiento , instalaciones portuarias o aeropuertos ; sus partes
+Contenedores , incluidos los contenedores cisterna y los contenedores depósito , especialmente concebidos y equipados para uno o varios medios de transporte
+Contenedores con blindaje protector de plomo contra las radiaciones , para el transporte de materias radioactivas ( Euratom )
+CAPÍTULO 87
+VEHÍCULOS AUTOMÓVILES , TRACTORES , VELOCÍPEDOS Y DEMÁS VEHÍCULOS TERRESTRES , SUS PARTES Y ACCESORIOS
+Este capítulo no comprende los vehículos concebidos para circular solamente sobre carriles ( rieles ) .
+En este capítulo , se entiende por « tractores » los vehículos con motor esencialmente concebidos para tirar o empujar otros aparatos , vehículos o cargas , incluso si tienen ciertos acondicionamientos accesorios en relación con su utilización principal , que permitan el transporte de herramientas , semillas , abonos , etc.
+Las máquinas e instrumentos de trabajo concebidos para equipar los tractores de la partida 8701 como material intercambiable siguen su propio régimen , aunque se presenten con el tractor , incluso si están montados sobre este .
+Los chasis con cabina incorporada para vehículos automóviles se clasifican en las partidas 8702 a 8704 y no en la partida 8706 .
+La partida 8712 comprende todas las bicicletas para niños .
+Los demás velocípedos para niños se clasifican en la partida 9503 .
+Tractores ( excepto las carretillas tractor de la partida 8709 )
+Motocultores
+Tractores de carretera para semirremolques
+Tractores de orugas
+Tractores agrícolas y tractores forestales ( excepto los motocultores ) , de ruedas
+Nuevos , con potencia del motor
+Inferior o igual a 18 kW
+Superior a 18 kW pero inferior o igual a 37 kW
+Superior a 37 kW pero inferior o igual a 59 kW
+Superior a 59 kW pero inferior o igual a 75 kW
+Superior a 75 kW pero inferior o igual a 90 kW
+Superior a 90 kW
+Vehículos automóviles para transporte de diez o más personas , incluido el conductor
+Con motor de émbolo ( pistón ) de encendido por compresión ( diésel o semidiésel )
+De cilindrada superior a 2500 cm3
+De cilindrada inferior o igual a 2500 cm3
+Con motor de émbolo ( pistón ) de encendido por chispa
+De cilindrada superior a 2800 cm3
+De cilindrada inferior o igual a 2800 cm3
+Los demás
+Automóviles de turismo y demás vehículos automóviles concebidos principalmente para transporte de personas ( excepto los de la partida 8702 ) , incluidos los del tipo familiar ( break o station wagon ) y los de carreras
+Vehículos especialmente concebidos para desplazarse sobre nieve ; vehículos especiales para transporte de personas en campos de golf y vehículos similares
+Vehículos especialmente concebidos para desplazarse sobre la nieve , con motor de émbolo ( pistón ) de encendido por compresión ( diésel o semidiésel ) o con motor de émbolo ( pistón ) de encendido por chispa
+Los demás vehículos con motor de émbolo ( pistón ) alternativo de encendido por chispa
+De cilindrada inferior o igual a 1000 cm3
+De cilindrada superior a 1000 cm3 pero inferior o igual a 1500 cm3
+De cilindrada superior a 1500 cm3 pero inferior o igual a 3000 cm3
+Autocaravanas
+De cilindrada superior a 3000 cm3
+Los demás vehículos con motor de émbolo ( pistón ) de encendido por compresión ( diésel o semidiésel )
+De cilindrada inferior o igual a 1500 cm3
+De cilindrada superior a 1500 cm3 pero inferior o igual a 2500 cm3
+Vehículos con motor eléctrico
+Vehículos automóviles para transporte de mercancías
+Volquetes automotores concebidos para utilizarlos fuera de la red de carreteras
+Con motor de émbolo ( pistón ) de encendido por compresión ( diésel o semidiésel ) o con motor de émbolo ( pistón ) de encendido por chispa
+Los demás , con motor de émbolo ( pistón ) de encendido por compresión ( diésel o semidiésel )
+De peso total con carga máxima inferior o igual a 5 t
+Con motor de cilindrada superior a 2500 cm3
+Con motor de cilindrada inferior o igual a 2500 cm3
+De peso total con carga máxima superior a 5 t pero inferior o igual a 20 t
+De peso total con carga máxima superior a 20 t
+Los demás , con motor de émbolo ( pistón ) de encendido por chispa
+Con motor de cilindrada superior a 2800 cm3
+Con motor de cilindrada inferior o igual a 2800 cm3
+De peso total con carga máxima superior a 5 t
+Vehículos automóviles para usos especiales ( excepto los concebidos principalmente para transporte de personas o mercancías ) [ por ejemplo : coches para reparaciones ( auxilio mecánico ) , camiones grúa , camiones de bomberos , camiones hormigonera , coches barredera , coches esparcidores , coches taller , coches radiológicos ]
+Camiones grúa
+Camiones automóviles para sondeo o perforación
+Camiones de bomberos
+Camiones hormigonera
+Coches para reparaciones ( auxilio mecánico )
+Vehículos para bomba de hormigón
+Chasis de vehículos automóviles de las partidas 8701 a 8705 , equipados con su motor
+Chasis de tractores de la partida 8701 ; chasis de vehículos automóviles de las partidas 8702 , 8703 y 8704 , con motor de émbolo ( pistón ) de encendido por compresión ( diésel o semidiésel ) , de cilindrada superior a 2500 cm3 , o con motor de émbolo ( pistón ) de encendido por chispa , de cilindrada superior a 2800 cm3
+De vehículos automóviles de la partida 8702 o de vehículos automóviles de la partida 8704
+De vehículos automóviles de la partida 8703
+Carrocerías de vehículos automóviles de las partidas 8701 a 8705 , incluidas las cabinas
+De vehículos de la partida 8703
+Destinadas a la industria de montaje
+Destinados a la industria del montaje :
+de los motocultores de la subpartida 870110 ,
+de los vehículos automóviles de la partida 8704 con motor de émbolo ( pistón ) de encendido por compresión ( diésel o semidiésel ) , de cilindrada inferior o igual a 2500 cm3 , o con motor de émbolo ( pistón ) de encendido por chispa , de cilindrada inferior o igual a 2800 cm3 ,
+de los vehículos automóviles de la partida 8705
+Partes y accesorios de vehículos automóviles de las partidas 8701 a 8705
+Parachoques ( paragolpes , defensas ) y sus partes
+de los vehículos automóviles de la partida 8703 ,
+de los vehículos automóviles de la partida 8705 [ 12 ]
+Las demás partes y accesorios de carrocería , incluidas las de cabina
+Cinturones de seguridad
+Frenos y servofrenos ; sus partes
+Para frenos de disco
+Cajas de cambio y sus partes
+Ejes con diferencial , incluso provistos con otros órganos de transmisión , y ejes portadores ; sus partes
+Ejes con diferencial , incluso provistos con otros órganos de transmisión , y ejes portadores
+Para ejes portadores
+Ruedas , sus partes y accesorios
+Ruedas de aluminio ; partes y accesorios de ruedas , de aluminio
+Partes de ruedas coladas en una sola pieza en forma de estrella , de fundición , hierro o acero
+Sistemas de suspensión y sus partes ( incluidos los amortiguadores )
+Amortiguadores de suspensión
+Barras estabilizadoras ; Barras de torsión
+Las demás partes y accesorios
+Radiadores
+Silenciadores y tubos ( caños ) de escape ; sus partes
+Silenciadores y tubos ( caños ) de escape
+Embragues y sus partes
+Volantes , columnas y cajas de dirección ; sus partes
+Volantes , columnas y cajas de dirección
+Bolsas inflables de seguridad con sistema de inflado ( airbag ) ; sus partes
+Carretillas automóvil sin dispositivo de elevación de los tipos utilizados en fábricas , almacenes , puertos o aeropuertos , para transporte de mercancías a corta distancia ; carretillas tractor de los tipos utilizados en estaciones ferroviarias ; sus partes
+Carretillas
+Eléctricas
+Tanques y demás vehículos automóviles blindados de combate , incluso con su armamento ; sus partes
+Motocicletas , incluidos los ciclomotores , y velocípedos equipados con motor auxiliar , con sidecar o sin él ; sidecares
+Con motor de émbolo ( pistón ) alternativo de cilindrada inferior o igual a 50 cm3
+Con motor de émbolo ( pistón ) alternativo de cilindrada superior a 50 cm3 pero inferior o igual a 250 cm3
+Los demás , de cilindrada
+Superior a 50 cm3 pero inferior o igual a 80 cm3
+Superior a 80 cm3 pero inferior o igual a 125 cm3
+Superior a 125 cm3 pero inferior o igual a 250 cm3
+Con motor de émbolo ( pistón ) alternativo de cilindrada superior a 250 cm3 pero inferior o igual a 500 cm3
+De cilindrada superior a 250 cm3 pero inferior o igual a 380 cm3
+De cilindrada superior a 380 cm3 pero inferior o igual a 500 cm3
+Con motor de émbolo ( pistón ) alternativo de cilindrada superior a 500 cm3 pero inferior o igual a 800 cm3
+Con motor de émbolo ( pistón ) alternativo de cilindrada superior a 800 cm3
+Bicicletas y demás velocípedos , incluidos los triciclos de reparto , sin motor
+Sin rodamientos de bolas
+Bicicletas
+Sillones de ruedas y demás vehículos para inválidos , incluso con motor u otro mecanismo de propulsión
+Sin propulsión mecánica
+Partes y accesorios de vehículos de las partidas 8711 a 8713
+De motocicletas , incluidos los ciclomotores
+Sillines ( asientos )
+De sillones de ruedas y demás vehículos para inválidos
+Cuadros y horquillas , y sus partes
+Cuadros
+Horquillas
+Llantas y radios
+Llantas
+Radios
+Bujes sin freno y piñones libres
+Bujes sin freno
+Piñones libres
+Frenos , incluidos los bujes con freno , y sus partes
+Bujes con freno
+Los demás frenos
+Pedales y mecanismos de pedal , y sus partes
+Pedales
+Bielas y platos con biela
+Manillares
+Portaequipajes
+Cambios de marcha
+Los demás
+Coches , sillas y vehículos similares para transporte de niños , y sus partes
+Coches , sillas y vehículos similares
+Remolques y semirremolques para cualquier vehículo ; los demás vehículos no automóviles ; sus partes
+Remolques y semirremolques para vivienda o acampada , del tipo caravana
+Plegables
+Los demás , de peso
+Inferior o igual a 750 kg
+Superior a 750 kg pero inferior o igual a 1600 kg
+Superior a 1600 kg pero inferior o igual a 3500 kg
+Superior a 3500 kg
+Remolques y semirremolques , autocargadores o autodescargadores , para uso agrícola
+Los demás remolques y semirremolques para transporte de mercancías
+Cisternas
+Semirremolques
+Con un solo eje
+Los demás remolques y semirremolques
+Los demás vehículos
+Chasis
+Carrocerías
+Ejes
+CAPÍTULO 88
+AERONAVES , VEHÍCULOS ESPACIALES , Y SUS PARTES
+En las subpartidas 880211 a 880240 , la expresión « peso en vacío » se refiere al peso de los aparatos en orden normal de vuelo , excepto el peso de la tripulación , del carburante y del equipo distinto del que está fijo de forma permanente .
+Tipo del derecho convencional ( % )
+Globos y dirigibles ; planeadores , alas planeadoras y demás aeronaves no propulsados con motor
+Globos y dirigibles ; planeadores y alas planeadoras
+Las demás aeronaves ( por ejemplo : helicópteros , aviones ) ; vehículos espaciales , incluidos los satélites , y sus vehículos de lanzamiento y vehículos suborbitales
+Helicópteros
+De peso en vacío inferior o igual a 2000 kg
+De peso en vacío superior a 2000 kg
+Aviones y demás aeronaves , de peso en vacío inferior o igual a 2000 kg
+Aviones y demás aeronaves , de peso en vacío superior a 2000 kg pero inferior o igual a 15000 kg
+Aviones y demás aeronaves , de peso en vacío superior a 15000 kg
+Vehículos espaciales , incluidos los satélites , y sus vehículos de lanzamiento y vehículos suborbitales
+Vehículos espaciales , incluidos los satélites
+Vehículos de lanzamiento y vehículos suborbitales
+Partes de los aparatos de las partidas 8801 u 8802
+Hélices y rotores , y sus partes
+Trenes de aterrizaje y sus partes
+Las demás partes de aviones o helicópteros
+De cometas
+De vehículos espaciales , incluidos los satélites
+De vehículos de lanzamiento y vehículos suborbitales
+Paracaídas , incluidos los dirigibles , planeadores ( parapentes ) o de aspas giratorias ; sus partes y accesorios
+Aparatos y dispositivos para lanzamiento de aeronaves ; aparatos y dispositivos para aterrizaje en portaaviones y aparatos y dispositivos similares ; aparatos de entrenamiento de vuelo en tierra ; sus partes
+Aparatos y dispositivos para lanzamiento de aeronaves y sus partes ; aparatos y dispositivos para aterrizaje en portaaviones y aparatos y dispositivos similares , y sus partes
+Aparatos y dispositivos para lanzamiento de aeronaves y sus partes
+Aparatos de entrenamiento de vuelo en tierra y sus partes
+Simuladores de combate aéreo y sus partes
+CAPÍTULO 89
+BARCOS Y DEMÁS ARTEFACTOS FLOTANTES
+Los barcos incompletos o sin terminar y los cascos de barcos , aunque se presenten desmontados o sin montar , así como los barcos completos desmontados o sin montar , se clasificarán en la partida 8906 en caso de duda respecto de la clase de barco a que pertenecen .
+En las subpartidas 89011010 , 89012010 , 89013010 , 89019010 , 89020012 , 89020018 , 89039110 , 89039210 , 89040091 o 89069010 solo se incluirán los barcos concebidos para navegar por alta mar y cuya mayor longitud exterior del casco ( con exclusión de los apéndices ) sea , por lo menos , igual a 12 m. Sin embargo , los barcos de pesca y los barcos de salvamento , cuando estén concebidos para navegar por alta mar , se considerarán siempre como barcos para la navegación marítima , sin que se tenga en cuenta su longitud .
+En las subpartidas 89051010 y 89059010 se clasifican únicamente los barcos y los diques flotantes , concebidos para navegar por alta mar .
+Para la aplicación de la partida 8908 en la expresión « barcos y demás artefactos flotantes para desguace » se entienden comprendidos igualmente los artículos que se expresan a continuación , cuando se presenten al despacho de aduanas con los mencionados barcos y siempre que hayan formado parte del equipo normal de los mismos :
+piezas de recambio ( tales como las hélices ) , incluso nuevas ;
+artículos amovibles ( por ejemplo : muebles , artículos de cocina , vajilla , etc. ) que presenten marcadas señales de haber sido usados .
+De propulsión mecánica
+Inflables
+De peso unitario inferior o igual a 100 kg
+De longitud inferior o igual a 7,5 m
+De longitud superior a 7,5 m
+Barcos de motor ( excepto los de motor fueraborda )
+Plataformas de perforación o explotación , flotantes o sumergibles
+Los demás artefactos flotantes ( por ejemplo : balsas , depósitos , cajones , incluso de amarre , boyas y balizas )
+Balsas inflables
+Barcos y demás artefactos flotantes para desguace [ 12 ]
+SECCIÓN XVIII
+INSTRUMENTOS Y APARATOS DE ÓPTICA , FOTOGRAFÍA O CINEMATOGRAFÍA , DE MEDIDA , CONTROL O PRECISIÓN ; INSTRUMENTOS Y APARATOS MEDICOQUIRÚRGICOS ; APARATOS DE RELOJERÍA ; INSTRUMENTOS MUSICALES ; PARTES Y ACCESORIOS DE ESTOS INSTRUMENTOS O APARATOS
+CAPÍTULO 90
+INSTRUMENTOS Y APARATOS DE ÓPTICA , FOTOGRAFÍA O CINEMATOGRAFÍA , DE MEDIDA , CONTROL O PRECISIÓN ; INSTRUMENTOS Y APARATOS MEDICOQUIRÚRGICOS ; PARTES Y ACCESORIOS DE ESTOS INSTRUMENTOS O APARATOS
+los artículos para usos técnicos , de caucho vulcanizado sin endurecer ( partida 4016 ) , cuero natural o cuero regenerado ( partida 4205 ) o de materia textil ( partida 5911 ) ;
+los cinturones , fajas y demás artículos de materia textil cuyo efecto sea sostener o mantener un órgano como única consecuencia de su elasticidad ( por ejemplo : fajas de maternidad , torácicas o abdominales , vendajes para articulaciones o músculos ) ( sección XI ) ;
+los productos refractarios de la partida 6903 ; los artículos para usos químicos u otros usos técnicos de la partida 6909 ;
+los espejos de vidrio sin trabajar ópticamente de la partida 7009 y los espejos de metal común o metal precioso , que no tengan las características de elementos de óptica ( partida 8306 o capítulo 71 ) ;
+los artículos de vidrio de las partidas 7007 , 7008 , 7011 , 7014 , 7015 o 7017 ;
+las partes y accesorios de uso general , tal como se definen en la nota 2 de la sección XV , de metal común ( sección XV ) y artículos similares de plástico ( capítulo 39 ) ;
+las bombas distribuidoras con dispositivo medidor de la partida 8413 ; las básculas y balanzas para comprobar y contar piezas fabricadas , así como las pesas presentadas aisladamente ( partida 8423 ) ; los aparatos de elevación o manipulación ( partidas 8425 a 8428 ) ; las cortadoras de papel o cartón , de cualquier tipo ( partida 8441 ) ; los dispositivos especiales para ajustar la pieza o el útil en las máquinas herramienta , incluso provistos de dispositivos ópticos de lectura ( por ejemplo : divisores ópticos ) , de la partida 8466 ( excepto los dispositivos puramente ópticos , por ejemplo : anteojos de centrado , de alineación ) ; las máquinas de calcular ( partida 8470 ) ; las válvulas , incluidas las reductoras de presión , y demás artículos de grifería ( partida 8481 ) ; las máquinas y aparatos de la partida 8486 , incluidos los aparatos para la proyección o el trazado de circuitos sobre superficies sensibilizadas de material semiconductor ;
+los proyectores de alumbrado de los tipos utilizados en velocípedos o vehículos automóviles ( partida 8512 ) ; las lámparas eléctricas portátiles de la partida 8513 ; los aparatos cinematográficos de grabación o reproducción de sonido , así como los aparatos para reproducción en serie de soportes de sonido ( partida 8519 ) ; los lectores de sonido ( partida 8522 ) ; las cámaras de televisión , las cámaras fotográficas digitales y las videocámaras ( partida 8525 ) ; los aparatos de radar , radionavegación o radiotelemando ( partida 8526 ) ; conectores de fibras ópticas , haces o cables de fibras ópticas ( partida 8536 ) ; los aparatos de control numérico de la partida 8537 ; los faros o unidades sellados de la partida 8539 ; los cables de fibras ópticas de la partida 8544 ;
+ij ) los proyectores de la partida 9405 ;
+los artículos del capítulo 95 ;
+las medidas de capacidad , que se clasifican según su materia constitutiva ;
+las bobinas y soportes similares ( clasificación según la materia constitutiva , por ejemplo : partida 3923 , sección XV ) .
+Salvo lo dispuesto en la nota 1 anterior , las partes y accesorios de máquinas , aparatos , instrumentos o artículos de este capítulo se clasifican de acuerdo con las siguientes reglas :
+las partes y accesorios que consistan en artículos comprendidos en cualquiera de las partidas de este capítulo o de los capítulos 84 , 85 o 91 ( excepto las partidas 8487 , 8548 o 9033 ) se clasifican en dicha partida cualquiera que sea la máquina , aparato o instrumento al que están destinados ;
+cuando sean identificables como destinados , exclusiva o principalmente , a una máquina , instrumento o aparato determinados o a varias máquinas , instrumentos o aparatos de una misma partida ( incluso de las partidas 9010 , 9013 o 9031 ) , las partes y accesorios , excepto los considerados en el párrafo precedente , se clasifican en la partida correspondiente a esta o estas máquinas , instrumentos o aparatos ;
+las demás partes y accesorios se clasifican en la partida 9033 .
+Las disposiciones de las notas 3 y 4 de la sección XVI se aplican también a este capítulo .
+La partida 9005 no comprende las miras telescópicas para armas , los periscopios para submarinos o tanques de guerra ni los visores para máquinas , aparatos o instrumentos de este capítulo o de la sección XVI ( partida 9013 ) .
+Las máquinas , aparatos e instrumentos ópticos de medida o control , susceptibles de clasificarse tanto en la partida 9013 como en la partida 9031 , se clasifican en esta última .
+En la partida 9021 , se entiende por « artículos y aparatos de ortopedia » los que se utilizan para :
+prevenir o corregir ciertas deformidades corporales ;
+sostener o mantener partes del cuerpo después de una enfermedad , operación o lesión .
+Los artículos y aparatos de ortopedia comprenden los zapatos ortopédicos y las plantillas interiores especiales concebidos para corregir las deformidades del pie , siempre que sean hechos a medida , o producidos en serie , presentados en unidades y no en pares y concebidos para adaptarse indiferentemente a cada pie .
+La partida 9032 solo comprende :
+los instrumentos y aparatos para regulación automática del caudal , nivel , presión u otras características variables de líquidos o gases , o para control automático de la temperatura , aunque su funcionamiento dependa de un fenómeno eléctrico que varía de acuerdo con el factor que deba regularse automáticamente , que tienen por función llevar este factor a un valor deseado y mantenerlo estabilizado contra perturbaciones , midiendo continua o periódicamente su valor real ;
+los reguladores automáticos de magnitudes eléctricas , así como los reguladores automáticos de otras magnitudes , cuyo funcionamiento dependa de un fenómeno eléctrico que varía de acuerdo con el factor que deba regularse , que tienen por función llevar este factor a un valor deseado y mantenerlo estabilizado contra perturbaciones , midiendo continua o periódicamente su valor real .
+Para la aplicación de las subpartidas 90151010 , 90152010 , 90153010 , 90154010 , 90158011 , 901580 , 90241011 , 90241013 , 90241019 , 90248011 , 90248019 , 90251920 , 90258040 , 90261021 , 90261029 , 90262020 , 90268020 , 90271010 , 90278011 , 90278013 , 90278017 , 90302091 , 90303310 , 90308930 , 90318032 , 90318034 , 90318038 y 90321020 se entiende por « instrumentos y aparatos electrónicos » los instrumentos y aparatos que lleven uno o varios de los artículos comprendidos en las partidas 8540 , 8541 o 8542 . No obstante , no se tendrán en cuenta , para la aplicación de la presente disposición , los artículos de las partidas 8540 , 8541 o 8542 cuya única función sea la de rectificar la corriente o que solo se encuentren en la parte de estos instrumentos o aparatos que se destinen a la alimentación de los mismos .
+Fibras ópticas y haces de fibras ópticas ; cables de fibras ópticas ( excepto los de la partida 8544 ) ; hojas y placas de materia polarizante ; lentes , incluso de contacto , prismas , espejos y demás elementos de óptica de cualquier materia , sin montar ( excepto los de vidrio sin trabajar ópticamente )
+Fibras ópticas , haces y cables de fibras ópticas
+Cables conductores de imágenes
+Hojas y placas de materia polarizante
+Lentes de contacto
+Lentes de vidrio para gafas ( anteojos )
+No correctoras
+Correctoras
+Completamente trabajadas en las dos caras
+Monofocales
+Lentes de otras materias para gafas ( anteojos )
+Lentes , prismas , espejos y demás elementos de óptica de cualquier materia , montados , para instrumentos o aparatos ( excepto los de vidrio sin trabajar ópticamente )
+Objetivos
+Para cámaras , proyectores o aparatos fotográficos o cinematográficos de ampliación o reducción
+Filtros
+Monturas ( armazones ) de gafas ( anteojos ) o de artículos similares y sus partes
+Monturas ( armazones )
+De metal precioso o chapado de metal precioso ( plaqué )
+De metal común
+Gafas ( anteojos ) correctoras , protectoras u otras , y artículos similares
+Gafas ( anteojos ) de sol
+Con cristales trabajados ópticamente
+Con cristales de plástico
+Binoculares , incluidos los prismáticos , catalejos , anteojos astronómicos , telescopios ópticos y sus armazones ; los demás instrumentos de astronomía y sus armazones ( excepto los aparatos de radioastronomía )
+Binoculares , incluidos los prismáticos
+Los demás instrumentos
+Partes y accesorios , incluidos los armazones
+Cámaras fotográficas ; aparatos y dispositivos , incluidos las lámparas y tubos , para la producción de destellos en fotografía ( excepto las lámparas y tubos de descarga de la partida 8539 )
+Cámaras fotográficas de los tipos utilizados para preparar clisés o cilindros de imprenta
+Cámaras especiales para fotografía submarina o aérea , examen médico de órganos internos o para laboratorios de medicina legal o identificación judicial
+Cámaras fotográficas con autorrevelado
+Las demás cámaras fotográficas
+Con visor de reflexión a través del objetivo , para películas en rollo de anchura inferior o igual a 35 mm
+Las demás , para películas en rollo de anchura inferior a 35 mm
+Las demás , para películas en rollo de anchura igual a 35 mm
+Cámaras fotográficas desechables
+Aparatos y dispositivos , incluidos lámparas y tubos , para producir destellos para fotografía
+Aparatos de tubo de descarga para producir destellos ( flashes electrónicos )
+De cámaras
+Cámaras y proyectores cinematográficos , incluso con grabador o reproductor de sonido incorporados
+Cámaras
+Para película cinematográfica ( filme ) de anchura inferior a 16 mm o para la doble-8 mm
+De proyectores
+Proyectores de imagen fija ; ampliadoras o reductoras , fotográficas
+Proyectores de diapositivas
+Lectores de microfilmes , microfichas u otros microformatos , incluso copiadores
+Los demás proyectores de imagen fija
+Ampliadoras o reductoras , fotográficas
+Aparatos y material para laboratorios fotográfico o cinematográfico , no expresados ni comprendidos en otra parte de este capítulo ; negatoscopios ; pantallas de proyección
+Aparatos y material para revelado automático de película fotográfica , película cinematográfica ( filme ) o papel fotográfico en rollo o para impresión automática de películas reveladas en rollos de papel fotográfico
+Los demás aparatos y material para laboratorios fotográfico o cinematográfico ; negatoscopios
+Pantallas de proyección
+Microscopios ópticos , incluso para fotomicrografía , cinefotomicrografía o microproyección
+Microscopios estereoscópicos
+Que dispongan de equipo específicamente concebido para la manipulación y transporte de discos ( wafers ) de material semiconductor o de retículas
+Los demás microscopios para fotomicrografía , cinefotomicrografía o microproyección
+Microscopios para fotomicrografía que dispongan de equipo específicamente concebido para la manipulación y transporte de discos ( wafers ) de material semiconductor o de retículas
+Los demás microscopios
+De aparatos de las subpartidas 90111010 o 90112010
+Microscopios ( excepto los ópticos ) ; difractógrafos
+Microscopios electrónicos que dispongan de equipo específicamente concebido para la manipulación y transporte de discos ( wafers ) de material semiconductor o de retículas
+De aparatos de la subpartida 90121010
+Dispositivos de cristal líquido que no constituyan artículos comprendidos más específicamente en otra parte ; láseres ( excepto los diodos láser ) ; los demás aparatos e instrumentos de óptica , no expresados ni comprendidos en otra parte de este capítulo
+Miras telescópicas para armas ; periscopios ; visores para máquinas , aparatos o instrumentos de este capítulo o de la sección XVI
+Láseres ( excepto los diodos láser )
+Los demás dispositivos , aparatos e instrumentos
+Dispositivos de cristal líquido
+De matriz activa
+De dispositivos de cristal líquido ( LCD )
+Brújulas , incluidos los compases de navegación ; los demás instrumentos y aparatos de navegación
+Brújulas , incluidos los compases de navegación
+Instrumentos y aparatos para navegación aérea o espacial ( excepto las brújulas )
+Sistemas de navegación inercial
+Los demás instrumentos y aparatos
+Instrumentos y aparatos de geodesia , topografía , agrimensura , nivelación , fotogrametría , hidrografía , oceanografía , hidrología , meteorología o geofísica ( excepto las brújulas ) ; telémetros
+Telémetros
+Electrónicos
+Teodolitos y taquímetros
+Niveles
+Instrumentos y aparatos de fotogrametría
+De meteorología , hidrología y geofísica
+De geodesia , topografía , agrimensura , nivelación e hidrografía
+Balanzas sensibles a un peso inferior o igual a 5 cg , incluso con pesas
+Balanzas
+Instrumentos de dibujo , trazado o cálculo ( por ejemplo : máquinas de dibujar , pantógrafos , transportadores , estuches de dibujo , reglas y círculos , de cálculo ) ; instrumentos manuales de medida de longitud ( por ejemplo : metros , micrómetros , calibradores ) , no expresados ni comprendidos en otra parte de este capítulo
+Mesas y máquinas de dibujar , incluso automáticas
+Trazadores
+Los demás instrumentos de dibujo , trazado o cálculo
+Los demás instrumentos de dibujo
+Estuches de dibujo
+Instrumentos de trazado
+Instrumentos de cálculo
+Micrómetros , pies de rey , calibradores y galgas
+Micrómetros y calibradores
+Los demás ( excepto los calibres sin órganos regulables de la partida 9031 )
+Metros y reglas divididas
+Instrumentos y aparatos de medicina , cirugía , odontología o veterinaria , incluidos los de centellografía y demás aparatos electromédicos , así como los aparatos para pruebas visuales
+Aparatos de electrodiagnóstico , incluidos los aparatos de exploración funcional o de vigilancia de parámetros fisiológicos
+Electrocardiógrafos
+Aparatos de diagnóstico por exploración ultrasónica
+Aparatos de diagnóstico de visualización por resonancia magnética
+Aparatos de centellografía
+Aparatos para vigilancia simultánea de dos o más parámetros fisiológicos
+Aparatos de rayos ultravioletas o infrarrojos
+Jeringas , agujas , catéteres , cánulas e instrumentos similares
+Jeringas , incluso con aguja
+Agujas tubulares de metal y agujas de sutura
+Agujas tubulares de metal
+Agujas de sutura
+Los demás instrumentos y aparatos de odontología
+Tornos dentales , incluso combinados con otros equipos dentales sobre basamento común
+Muelas , discos , fresas y cepillos , para tornos de odontología
+Los demás instrumentos y aparatos de oftalmología
+No ópticos
+Ópticos
+Instrumentos y aparatos para medir la presión arterial
+Endoscopios
+Riñones artificiales
+Aparatos de diatermia
+De ultrasonidos
+Aparatos de transfusión
+Instrumentos y aparatos para anestesia
+Litotrituradores de ultrasonidos
+Aparatos para la estimulación neural
+Aparatos de mecanoterapia ; aparatos para masajes ; aparatos de sicotecnia ; aparatos de ozonoterapia , oxigenoterapia o aerosolterapia , aparatos respiratorios de reanimación y demás aparatos de terapia respiratoria
+Aparatos de mecanoterapia ; aparatos para masajes ; aparatos de sicotecnia
+Aparatos eléctricos de vibromasaje
+Aparatos de ozonoterapia , oxigenoterapia o aerosolterapia , aparatos respiratorios de reanimación y demás aparatos de terapia respiratoria
+Los demás aparatos respiratorios y máscaras antigás , excepto las máscaras de protección sin mecanismo ni elemento filtrante amovible
+Artículos y aparatos de ortopedia , incluidas las fajas y vendajes medicoquirúrgicos y las muletas ; tablillas , férulas u otros artículos y aparatos para fracturas ; artículos y aparatos de prótesis ; audífonos y demás aparatos que lleve la propia persona o se le implanten para compensar un defecto o incapacidad
+Artículos y aparatos de ortopedia o para fracturas
+Artículos y aparatos de ortopedia
+Artículos y aparatos para fracturas
+Artículos y aparatos de prótesis dental
+Dientes artificiales
+Los demás artículos y aparatos de prótesis
+Prótesis articulares
+Prótesis oculares
+Audífonos ( excepto sus partes y accesorios )
+Estimuladores cardíacos ( excepto sus partes y accesorios )
+Partes y accesorios de audífonos
+Aparatos de rayos X y aparatos que utilicen radiaciones alfa , beta o gamma , incluso para uso médico , quirúrgico , odontológico o veterinario , incluidos los aparatos de radiografía o radioterapia , tubos de rayos X y demás dispositivos generadores de rayos X , generadores de tensión , consolas de mando , pantallas , mesas , sillones y soportes similares para examen o tratamiento
+Aparatos de rayos X , incluso para uso médico , quirúrgico , odontológico o veterinario , incluidos los aparatos de radiografía o radioterapia
+Aparatos de tomografía regidos por una máquina automática de tratamiento o procesamiento de datos
+Los demás para uso odontológico
+Los demás , para uso médico , quirúrgico o veterinario
+Para otros usos
+Aparatos que utilicen radiaciones alfa , beta o gamma , incluso para uso médico , quirúrgico , odontológico o veterinario , incluidos los aparatos de radiografía o radioterapia
+Para uso médico , quirúrgico , odontológico o veterinario
+Tubos de rayos X
+Los demás , incluidas las partes y accesorios
+Pantallas radiológicas , incluidas las llamadas « reforzadoras » ; tramas y rejillas antidifusoras
+Instrumentos , aparatos y modelos , concebidos para demostraciones ( por ejemplo : en la enseñanza o exposiciones ) , no susceptibles de otros usos
+Para la enseñanza de la física , de la química o de asignaturas técnicas
+Máquinas y aparatos para ensayos de dureza , tracción , compresión , elasticidad u otras propiedades mecánicas de materiales ( por ejemplo : metal , madera , textil , papel , plástico )
+Máquinas y aparatos para ensayo de metal
+Universales y para ensayos de tracción
+Para ensayos de dureza
+Las demás máquinas y aparatos
+Para ensayos de textil , papel y cartón
+Densímetros , areómetros , pesalíquidos e instrumentos flotantes similares , termómetros , pirómetros , barómetros , higrómetros y sicrómetros , incluso registradores o combinados entre sí
+Termómetros y pirómetros , sin combinar con otros instrumentos
+De líquido , con lectura directa
+Médicos o veterinarios
+Barómetros sin combinar con otros instrumentos
+Instrumentos y aparatos para medida o control del caudal , nivel , presión u otras características variables de líquidos o gases ( por ejemplo : caudalímetros , indicadores de nivel , manómetros , contadores de calor ) ( excepto los instrumentos y aparatos de las partidas 9014 , 9015 , 9028 o 9032 )
+Para medida o control del caudal o nivel de líquidos
+Caudalímetros
+Para medida o control de presión
+Manómetros de espira o membrana manométrica metálica
+Los demás instrumentos y aparatos
+Instrumentos y aparatos para análisis físicos o químicos ( por ejemplo : polarímetros , refractómetros , espectrómetros , analizadores de gases o de humos ) ; instrumentos y aparatos para ensayos de viscosidad , porosidad , dilatación , tensión superficial o similares o para medidas calorimétricas , acústicas o fotométricas , incluidos los exposímetros ; micrótomos
+Analizadores de gases o humos
+Cromatógrafos e instrumentos de electroforesis
+Espectrómetros , espectrofotómetros y espectrógrafos que utilicen radiaciones ópticas ( UV , visibles , IR )
+Los demás instrumentos y aparatos que utilicen radiaciones ópticas ( UV , visibles , IR )
+Los demás instrumentos y aparatos
+Exposímetros
+Peachímetros , erreachímetros y demás aparatos para medir la conductividad
+Aparatos para el análisis de las propiedades físicas de los materiales semiconductores o de sustratos de visualizadores de cristal líquido o de las capas aislantes y conductoras unidas a estos durante el proceso de producción de discos ( wafers ) de material semiconductor o de visualizadores de cristal líquido
+Viscosímetros , porosímetros y dilatómetros
+Micrótomos ; partes y accesorios
+Micrótomos
+De aparatos de las subpartidas 902720 a 902780
+De micrótomos o de analizadores de gases o humos
+Contadores de gas , líquido o electricidad , incluidos los de calibración
+Contadores de gas
+Contadores de líquido
+Contadores de electricidad
+Para corriente alterna
+Monofásica
+Polifásica
+De contadores de electricidad
+Los demás contadores ( por ejemplo : cuentarrevoluciones , contadores de producción , taxímetros , cuentakilómetros , podómetros ) ; velocímetros y tacómetros ( excepto los de las partidas 9014 o 9015 ) ; estroboscopios
+Cuentarrevoluciones , contadores de producción , taxímetros , cuentakilómetros , podómetros y contadores similares
+Velocímetros y tacómetros ; estroboscopios
+Velocímetros y tacómetros
+Velocímetros para vehículos terrestres
+Estroboscopios
+Osciloscopios , analizadores de espectro y demás instrumentos y aparatos para medida o control de magnitudes eléctricas ; instrumentos y aparatos para medida o detección de radiaciones alfa , beta , gamma , X , cósmicas o demás radiaciones ionizantes
+Instrumentos y aparatos para medida o detección de radiaciones ionizantes
+Osciloscopios y oscilógrafos
+Catódicos
+Los demás , con dispositivo registrador
+Los demás instrumentos y aparatos para medida o control de tensión , intensidad , resistencia o potencia
+Multímetros , sin dispositivo registrador
+Multímetros , con dispositivo registrador
+Los demás , sin dispositivo registrador
+Voltímetros
+Para medida o control de discos ( wafers ) o dispositivos , semiconductores
+De aparatos de la subpartida 90308200
+Instrumentos , máquinas y aparatos para medida o control , no expresados ni comprendidos en otra parte de este capítulo ; proyectores de perfiles
+Máquinas para equilibrar piezas mecánicas
+Bancos de pruebas
+Los demás instrumentos y aparatos , ópticos
+Para control de discos ( wafers ) o dispositivos , semiconductores , o para control de fotomáscaras o retículas utilizadas en la fabricación de dispositivos semiconductores
+Proyectores de perfiles
+Los demás instrumentos , aparatos y máquinas
+Para medida o control de magnitudes geométricas
+De aparatos de la subpartida 90314100 o para instrumentos y aparatos ópticos para la medición de las impurezas de material particulado en la superficie de los discos ( wafers ) de material semiconductor de la subpartida 90314990
+De aparatos de la subpartida 90318032
+Instrumentos y aparatos automáticos para regulación o control automáticos
+Termostatos
+Con dispositivo de disparo eléctrico
+Manostatos ( presostatos )
+Hidráulicos o neumáticos
+Partes y accesorios , no expresados ni comprendidos en otra parte de este capítulo , para máquinas , aparatos , instrumentos o artículos del capítulo 90
+CAPÍTULO 91
+APARATOS DE RELOJERÍA Y SUS PARTES
+los cristales para aparatos de relojería y pesas para relojes ( régimen de la materia constitutiva ) ;
+las cadenas de reloj ( partidas 7113 o 7117 , según los casos ) ;
+las partes y accesorios de uso general , tal como se definen en la nota 2 de la sección XV , de metal común ( sección XV ) y los artículos similares de plástico ( capítulo 39 ) o de metal precioso o chapado de metal precioso ( plaqué ) , generalmente de la partida 7115 ; los muelles ( resortes ) de aparatos de relojería ( incluidas las espirales ) se clasifican , sin embargo , en la partida 9114 ;
+las bolas de rodamiento ( partidas 7326 u 8482 , según los casos ) ;
+los artículos de la partida 8412 construidos para funcionar sin escape ;
+los rodamientos de bolas ( partida 8482 ) ;
+los artículos del capítulo 85 sin montar aún entre sí o con otros elementos para formar mecanismos de relojería o partes reconocibles como destinadas , exclusiva o principalmente , a tales mecanismos ( capítulo 85 ) .
+Se clasifican únicamente en la partida 9101 los relojes con caja totalmente de metal precioso o chapado de metal precioso ( plaqué ) o de estas materias combinadas con perlas finas ( naturales ) o cultivadas o con piedras preciosas o semipreciosas ( naturales , sintéticas o reconstituidas ) , de las partidas 7101 a 7104 .
+Los relojes de caja de metal común con incrustaciones de metal precioso se clasifican en la partida 9102 .
+En este capítulo , se consideran « pequeños mecanismos de relojería » los dispositivos con órgano regulador de volante-espiral , de cuarzo o de cualquier otro sistema capaz de determinar intervalos de tiempo , con indicador o un sistema que permita incorporar un indicador mecánico .
+El espesor de estos mecanismos será inferior o igual a 12 mm y su anchura , longitud o diámetro serán inferiores o iguales a 50 mm .
+Salvo lo dispuesto en la nota 1 , los mecanismos y otras partes susceptibles de utilizarse , como mecanismos o partes de aparatos de relojería , o en otros usos , por ejemplo , en instrumentos de medida o precisión , se clasifican en este capítulo .
+Relojes de pulsera , bolsillo y similares , incluidos los contadores de tiempo de los mismos tipos , con caja de metal precioso o chapado de metal precioso ( plaqué )
+Relojes de pulsera , eléctricos , incluso con contador de tiempo incorporado
+Con indicador mecánico solamente
+Los demás relojes de pulsera , incluso con contador de tiempo incorporado
+Automáticos
+Relojes de pulsera , bolsillo y similares , incluidos los contadores de tiempo de los mismos tipos ( excepto los de la partida 9101 )
+Con indicador optoelectrónico solamente
+Despertadores y demás relojes de pequeño mecanismo de relojería
+Relojes de tablero de instrumentos y relojes similares , para automóviles , aeronaves , barcos o demás vehículos
+Los demás relojes
+Despertadores
+Relojes de pared
+Relojes de mesa o chimenea
+Aparatos de control de tiempo y contadores de tiempo , con mecanismo de relojería o motor sincrónico ( por ejemplo : registradores de asistencia , registradores fechadores , registradores contadores )
+Registradores de asistencia ; registradores fechadores y registradores contadores
+Contadores de minutos y de segundos
+Interruptores horarios y demás aparatos que permitan accionar un dispositivo en un momento dado , con mecanismo de relojería o motor sincrónico
+Pequeños mecanismos de relojería completos y montados
+Con indicador mecánico solamente o con dispositivo que permita incorporarlo
+Los demás mecanismos de relojería completos y montados
+De despertadores
+Mecanismos de relojería completos , sin montar o parcialmente montados ( chablons ) ; mecanismos de relojería incompletos , montados ; mecanismos de relojería « en blanco » ( ébauches )
+Pequeños mecanismos
+Mecanismos completos , sin montar o parcialmente montados ( chablons )
+De volante y espiral
+Mecanismos incompletos , montados
+Mecanismos « en blanco » ( ébauches )
+Cajas de los relojes de las partidas 9101 o 9102 y sus partes
+Cajas de metal precioso o chapado de metal precioso ( plaqué )
+Cajas de metal común , incluso dorado o plateado
+Las demás cajas
+Cajas y envolturas similares para los demás aparatos de relojería y sus partes
+Vainas
+Pulseras para reloj y sus partes
+De metal precioso o chapado de metal precioso ( plaqué )
+De metal común , incluso dorado o plateado
+De cuero natural o regenerado
+Las demás partes de aparatos de relojería
+Muelles ( resortes ) , incluidas las espirales
+Piedras
+Esferas o cuadrantes
+Platinas y puentes
+CAPÍTULO 92
+INSTRUMENTOS MUSICALES ; SUS PARTES Y ACCESORIOS
+los micrófonos , amplificadores , altavoces ( altoparlantes ) , auriculares , interruptores , estroboscopios y demás instrumentos , aparatos y equipos accesorios utilizados con los artículos de este capítulo , que no estén incorporados en ellos ni alojados en la misma envoltura ( capítulos 85 o 90 ) ;
+los instrumentos y aparatos que presenten el carácter de juguete ( partida 9503 ) ;
+las escobillas y demás artículos de cepillería para limpieza de instrumentos musicales ( partida 9603 ) ;
+las armas y municiones que tengan el carácter de objetos de colección o antigüedades ( partidas 9705 o 9706 ) .
+Los arcos , palillos y artículos similares para instrumentos musicales de las partidas 9202 o 9206 , que se presenten en número correspondiente a los instrumentos a los cuales se destinen , se clasifican con ellos .
+Las tarjetas , discos y rollos de la partida 9209 se clasifican en esta partida , aunque se presenten con los instrumentos o aparatos a los que estén destinados .
+Pianos , incluso automáticos ; clavecines y demás instrumentos de cuerda con teclado
+Pianos verticales
+Pianos de cola
+Los demás instrumentos musicales de cuerda ( por ejemplo : guitarras , violines , arpas )
+De arco
+Violines
+Guitarras
+Los demás instrumentos musicales de viento ( por ejemplo : clarinetes , trompetas , gaitas )
+Instrumentos llamados « metales »
+Acordeones e instrumentos similares
+Armónicas
+Órganos de tubos y teclado ; armonios e instrumentos similares de teclado y lengüetas metálicas libres
+Instrumentos musicales de percusión ( por ejemplo : tambores , cajas , xilófonos , platillos , castañuelas , maracas )
+Instrumentos musicales en los que el sonido se produzca o tenga que amplificarse eléctricamente ( por ejemplo : órganos , guitarras , acordeones )
+Instrumentos de teclado ( excepto los acordeones )
+Órganos
+Pianos digitales
+Sintetizadores
+Cajas de música , orquestriones , organillos , pájaros cantores , sierras musicales y demás instrumentos musicales no comprendidos en otra partida de este capítulo ; reclamos de cualquier clase ; silbatos , cuernos y demás instrumentos de boca , de llamada o aviso
+Cajas de música
+Partes ( por ejemplo : mecanismos de cajas de música ) y accesorios ( por ejemplo : tarjetas , discos y rollos para aparatos mecánicos ) de instrumentos musicales ; metrónomos y diapasones de cualquier tipo
+Cuerdas armónicas
+Partes y accesorios de pianos
+Partes y accesorios de instrumentos musicales de la partida 9202
+Partes y accesorios de instrumentos musicales de la partida 9207
+Partes y accesorios de instrumentos musicales de la partida 9205
+Metrónomos y diapasones
+Mecanismos de cajas de música
+SECCIÓN XIX
+ARMAS , MUNICIONES , Y SUS PARTES Y ACCESORIOS
+CAPÍTULO 93
+los cebos y cápsulas fulminantes , detonadores , cohetes de señales o granífugos y demás artículos del capítulo 36 ;
+los tanques y demás vehículos automóviles blindados de combate ( partida 8710 ) ;
+las miras telescópicas y demás dispositivos ópticos , salvo los montados en armas o presentados sin montar con las armas a las cuales se destinen ( capítulo 90 ) ;
+las ballestas , arcos y flechas para tiro , armas embotonadas para esgrima y armas que presenten el carácter de juguete ( capítulo 95 ) ;
+En la partida 9306 , el término « partes » no comprende los aparatos de radio o radar de la partida 8526 .
+Armas de guerra ( excepto los revólveres , pistolas y armas blancas )
+Piezas de artillería ( por ejemplo : cañones , obuses y morteros )
+Lanzacohetes ; lanzallamas ; lanzagranadas ; lanzatorpedos y lanzadores similares
+Revólveres y pistolas ( excepto los de las partidas 9303 o 9304 )
+Las demás armas de fuego y artefactos similares que utilicen la deflagración de pólvora ( por ejemplo : armas de caza , armas de avancarga , pistolas lanzacohete y demás artefactos concebidos únicamente para lanzar cohetes de señal , pistolas y revólveres de fogueo , pistolas de matarife , cañones lanzacabos )
+Armas de avancarga
+Las demás armas largas de caza o tiro deportivo que tengan , por lo menos , un cañón de ánima lisa
+Con un cañón de ánima lisa
+Las demás armas largas de caza o tiro deportivo
+Las demás armas [ por ejemplo : armas largas y pistolas de muelle ( resorte ) , aire comprimido o gas , porras ] ( excepto las de la partida 9307 )
+Partes y accesorios de los artículos de las partidas 9301 a 9304
+De revólveres o pistolas
+De escopetas y rifles de caza de la partida 9303
+Cañones de ánima lisa
+De armas de guerra de la partida 9301
+Bombas , granadas , torpedos , minas , misiles , cartuchos y demás municiones y proyectiles , y sus partes , incluidas las postas , perdigones y tacos para cartuchos
+Cartuchos para escopetas y con cañón de ánima lisa y sus partes ; balines para armas de aire comprimido
+Cartuchos
+Los demás cartuchos y sus partes
+Para revólveres y pistolas de la partida 9302 y para pistolas ametralladoras de la partida 9301
+Para armas de guerra
+Cartuchos de percusión central
+Cartuchos de percusión anular
+De guerra
+Sables , espadas , bayonetas , lanzas y demás armas blancas , sus partes y fundas
+SECCIÓN XX
+MANUFACTURAS DIVERSAS
+CAPÍTULO 94
+MUEBLES ; MOBILIARIO MEDICOQUIRÚRGICO ; ARTÍCULOS DE CAMA Y SIMILARES ; APARATOS DE ALUMBRADO NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE ; ANUNCIOS , LETREROS Y PLACAS INDICADORAS LUMINOSOS Y ARTÍCULOS SIMILARES ; CONSTRUCCIONES PREFABRICADAS
+los colchones , almohadas y cojines , neumáticos o de agua , de los capítulos 39 , 40 o 63 ;
+los espejos que se apoyen en el suelo ( por ejemplo , espejos de vestir móviles ) ( partida 7009 ) ;
+las partes y accesorios de uso general , tal como se definen en la nota 2 de la sección XV , de metal común ( sección XV ) y los artículos similares de plástico ( capítulo 39 ) ni las cajas de caudales de la partida 8303 ;
+los muebles , incluso sin equipar , que constituyan partes específicas de aparatos para la producción de frío de la partida 8418 ; los muebles especialmente concebidos para máquinas de coser , de la partida 8452 ;
+los aparatos de alumbrado del capítulo 85 ;
+los muebles que constituyan partes específicas de aparatos de las partidas 8518 ( partida 8518 ) , 8519 a 8521 ( partida 8522 ) o de las partidas 8525 a 8528 ( partida 8529 ) ;
+los artículos de la partida 8714 ;
+ij ) los sillones de dentista con aparatos de odontología incorporados de la partida 9018 , ni las escupideras para clínica dental ( partida 9018 ) ;
+los artículos del capítulo 91 ( por ejemplo : cajas y envolturas similares para aparatos de relojería ) ;
+los muebles y aparatos de alumbrado que presenten el carácter de juguete ( partida 9503 ) , billares de cualquier clase y muebles de juegos de la partida 9504 , así como las mesas para juegos de prestidigitación y artículos de decoración ( excepto las guirnaldas eléctricas ) , tales como farolillos y faroles venecianos ( partida 9505 ) .
+Los artículos ( excepto las partes ) de las partidas 9401 a 9403 deben estar concebidos para colocarlos sobre el suelo .
+Sin embargo , se clasifican en estas partidas , aunque estén concebidos para colgar , fijar en la pared o colocarlos uno sobre otro :
+los armarios , bibliotecas , estanterías y muebles por elementos ( modulares ) ;
+los asientos y camas .
+Cuando se presentan aisladamente , no se consideran partes de los artículos de las partidas 9401 a 9403 , las hojas , placas o losas , de vidrio ( incluidos los espejos ) , mármol , piedra o cualquier otra materia de los capítulos 68 o 69 , incluso cortadas en formas determinadas , pero sin combinar con otros elementos .
+Cuando se presenten aisladamente , los artículos de la partida 9404 se clasifican en dicha partida aunque constituyan partes de muebles de las partidas 9401 a 9403 .
+En la partida 9406 , se consideran « construcciones prefabricadas » tanto las terminadas en fábrica como las expedidas en forma de elementos presentados juntos para montar en destino , tales como locales para vivienda , casetas de obra , oficinas , escuelas , tiendas , hangares , garajes , o construcciones similares .
+Asientos ( excepto los de la partida 9402 ) , incluso los transformables en cama , y sus partes
+Asientos de los tipos utilizados en aeronaves
+Asientos de los tipos utilizados en vehículos automóviles
+Asientos giratorios de altura ajustable
+Rellenados , con respaldo y equipados con ruedas o patines
+Asientos transformables en cama ( excepto el material de acampar o de jardín )
+Asientos de roten ( ratán ) , mimbre , bambú o materias similares
+De bambú o roten ( ratán )
+Los demás asientos , con armazón de madera
+Con relleno
+Los demás asientos , con armazón de metal
+Los demás asientos
+De asientos de los tipos utilizados en aeronaves
+Mobiliario para medicina , cirugía , odontología o veterinaria ( por ejemplo : mesas de operaciones o de reconocimiento , camas con mecanismo para uso clínico , sillones de dentista ) ; sillones de peluquería y sillones similares , con dispositivos de orientación y elevación ; partes de estos artículos
+Sillones de dentista , de peluquería y sillones similares , y sus partes
+Los demás muebles y sus partes
+Muebles de metal de los tipos utilizados en oficinas
+Mesas de dibujar ( excepto las de la partida 9017 )
+De altura inferior o igual a 80 cm
+Mesas
+De altura superior a 80 cm
+Armarios con puertas , persianas o trampillas
+Armarios con cajones , clasificadores y ficheros
+Los demás muebles de metal
+Camas
+Muebles de madera de los tipos utilizados en oficinas
+Armarios , clasificadores y ficheros
+Muebles de madera de los tipos utilizados en cocinas
+Elementos de cocinas
+Muebles de madera de los tipos utilizados en dormitorios
+Los demás muebles de madera
+Muebles de madera de los tipos utilizados en comedores y cuartos de estar
+Muebles de madera de los tipos utilizados en tiendas y almacenes
+Muebles de plástico
+Muebles de otras materias , incluidos el roten ( ratán ) , mimbre , bambú o materias similares
+Somieres ; artículos de cama y artículos similares ( por ejemplo : colchones , cubrepiés , edredones , cojines , pufs , almohadas ) , bien con muelles ( resortes ) , bien rellenos o guarnecidos interiormente con cualquier materia , incluidos los de caucho o plástico celulares , recubiertos o no
+Somieres
+Colchones
+De caucho o plástico celulares , recubiertos o no
+De muelles metálicos
+Sacos ( bolsas ) de dormir
+Rellenos de plumas o plumón
+Aparatos de alumbrado , incluidos los proyectores , y sus partes , no expresados ni comprendidos en otra parte ; anuncios , letreros y placas indicadoras luminosos y artículos similares , con fuente de luz inseparable , y sus partes no expresadas ni comprendidas en otra parte
+Lámparas y demás aparatos eléctricos de alumbrado , para colgar o fijar al techo o a la pared ( excepto los de los tipos utilizados para el alumbrado de espacios o vías públicos )
+De los tipos utilizados para lámparas y tubos de incandescencia
+De cerámica
+Lámparas eléctricas de cabecera , mesa , oficina o de pie
+De los tipos utilizados para lámparas y tubos de incandescencia
+Guirnaldas eléctricas de los tipos utilizados en árboles de Navidad
+Los demás aparatos eléctricos de alumbrado
+Proyectores
+De los tipos utilizados para tubos fluorescentes
+Aparatos de alumbrado no eléctricos
+Anuncios , letreros y placas indicadoras luminosos y artículos similares
+Artículos para equipar los aparatos eléctricos de iluminación ( excepto los proyectores )
+Vidrios con facetas , plaquitas , bolas , almendras , florones , colgantes y demás piezas análogas para lámparas
+Los demás ( por ejemplo : difusores , incluidos los de techo , copas , copelas , pantallas , globos , tulipas )
+Construcciones prefabricadas
+Casas móviles
+Invernaderos
+CAPÍTULO 95
+JUGUETES , JUEGOS Y ARTÍCULOS PARA RECREO O DEPORTE ; SUS PARTES Y ACCESORIOS
+las velas ( partida 3406 ) ;
+los artículos de pirotecnia para diversión de la partida 3604 ;
+los hilados , monofilamentos , cordones , cuerdas de tripa y similares para la pesca , incluso cortados en longitudes determinadas pero sin montar en sedal ( tanza ) con anzuelo , del capítulo 39 , partida 4206 o sección XI ;
+las bolsas para artículos de deporte y demás continentes , de las partidas 4202 , 4303 o 4304 ;
+las prendas de vestir de deporte , así como los disfraces de materia textil , de los capítulos 61 o 62 ;
+las banderas y cuerdas de gallardetes , de materia textil , así como las velas para embarcaciones , deslizadores o vehículos terrestres del capítulo 63 ;
+el calzado ( excepto el fijado a patines para hielo o patines de ruedas ) del capítulo 64 y los tocados especiales para la práctica de deportes , del capítulo 65 ;
+los bastones , fustas , látigos y artículos similares ( partida 6602 ) , así como sus partes ( partida 6603 ) ;
+ij ) los ojos de vidrio sin montar para muñecas , muñecos u otros juguetes de la partida 7018 ;
+las campanas , campanillas , gongos y artículos similares , de la partida ;
+las bombas para líquidos ( partida 8413 ) , aparatos para filtrar o depurar líquidos o gases ( partida 8421 ) , motores eléctricos ( partida 8501 ) , transformadores eléctricos ( partida 8504 ) y aparatos de radiotelemando ( partida 8526 ) ;
+los vehículos de deporte de la sección XVII , excepto los toboganes , bobsleighs y similares ;
+las bicicletas para niños ( partida 8712 ) ;
+las embarcaciones de deporte , tales como canoas y esquifes ( capítulo 89 ) , y sus medios de propulsión ( capítulo 44 , si son de madera ) ;
+las gafas ( anteojos ) protectoras para la práctica de deportes o juegos al aire libre ( partida 9004 ) ;
+los reclamos y silbatos ( partida 9208 ) ;
+las armas y demás artículos del capítulo 93 ;
+las guirnaldas eléctricas de cualquier clase ( partida 9405 ) ;
+las cuerdas para raqueta , tiendas ( carpas ) de campaña , artículos de acampar y guantes , mitones y manoplas de cualquier materia ( régimen de la materia constitutiva ) ;
+los artículos de mesa , utensilios de cocina , artículos de tocador y baño , alfombras y demás revestimientos para el suelo de materia textil , ropaje , ropa de cama y mesa , tocador y baño , cocina y artículos similares que tengan una función utilitaria ( se clasifican según el régimen de la materia constitutiva ) .
+Los artículos de este capítulo pueden llevar simples guarniciones o accesorios de mínima importancia de metal precioso , chapado de metal precioso ( plaqué ) , perlas finas ( naturales ) o cultivadas o piedras preciosas o semipreciosas ( naturales , sintéticas o reconstituidas ) .
+Salvo lo dispuesto en la nota 1 anterior , las partes y accesorios identificables como destinados , exclusiva o principalmente , a los artículos de este capítulo se clasifican con ellos .
+Salvo lo dispuesto en la nota 1 anterior , la partida 9503 se aplica , entre otros , a los artículos de esta partida combinados con uno o más productos que no puedan ser considerados como juegos o surtidos conforme a la Regla General Interpretativa 3 b ) , y que por tanto , si se presentasen separadamente , serían clasificados en otras partidas , siempre que estos artículos se presenten juntos , acondicionados para la venta al por menor , y que esta combinación reúna las características esenciales de los juguetes .
+La partida 9503 no comprende los artículos que por su concepción , forma o materia constitutiva sean reconocibles como destinados exclusivamente para animales , por ejemplo : los juguetes para animales de compañía ( clasificación según su propio régimen ) .
+Triciclos , patinetes , coches de pedal y juguetes similares con ruedas ; coches y sillas de ruedas para muñecas o muñecos ; muñecas o muñecos ; los demás juguetes ; modelos reducidos y modelos similares , para entretenimiento , incluso animados ; rompecabezas de cualquier clase
+Triciclos , patinetes , coches de pedal y juguetes similares con ruedas ; coches y sillas de ruedas para muñecas o muñecos
+Muñecas y muñecos que representen solamente seres humanos y partes y accesorios
+Muñecas y muñecos
+Trenes eléctricos , incluidos los carriles ( rieles ) , señales y demás accesorios y modelos reducidos para ensamblar , incluso animados
+Los demás juegos o surtidos y juguetes de construcción
+Juguetes que representen animales o seres no humanos
+Rellenos
+Instrumentos y aparatos musicales , de juguete
+Rompecabezas
+Los demás juguetes presentados en juegos o surtidos o en panoplias
+Los demás juguetes y modelos , con motor
+Armas de juguete
+Modelos en miniatura de metal , obtenidos por moldeo
+Artículos para salas de juego , juegos de mesa o salón , incluidos los juegos con motor o mecanismo , billares , mesas especiales para juegos de casino y juegos de bolos automáticos ( bowlings )
+Videojuegos de los tipos utilizados con receptor de televisión
+Billares de cualquier clase y sus accesorios
+Billares
+Los demás juegos activados con monedas , billetes , tarjetas , fichas o cualquier otro medio de pago , excepto los juegos de bolos automáticos ( bowlings )
+Juegos con pantalla
+Los demás juegos
+Flippers
+Naipes
+Circuitos eléctricos de coches con características de juegos de competición
+Artículos para fiestas , carnaval u otras diversiones , incluidos los de magia y artículos sorpresa
+Artículos para fiestas de Navidad
+Artículos y material para cultura física , gimnasia , atletismo , demás deportes , incluido el tenis de mesa , o para juegos al aire libre , no expresados ni comprendidos en otra parte de este capítulo ; piscinas , incluso infantiles
+Esquís para nieve y demás artículos para práctica del esquí de nieve
+Esquís
+Esquís de fondo
+Esquís alpinos
+Monoesquís y snowboard ( tabla para nieve )
+Otros esquís
+Fijadores de esquí
+Esquís acuáticos , tablas , deslizadores de vela y demás artículos para práctica de deportes acuáticos
+Deslizadores de vela
+Palos de golf ( clubs ) y demás artículos para golf
+Palos de golf ( clubs ) completos
+Partes de palos ( clubs )
+Artículos y material para tenis de mesa
+Raquetas , pelotas y redes
+Raquetas de tenis , bádminton o similares , incluso sin cordaje
+Raquetas de tenis , incluso sin cordaje
+Balones y pelotas ( excepto las de golf o tenis de mesa )
+Pelotas de tenis
+Pelotas de cricket o de polo
+Patines para hielo y patines de ruedas , incluido el calzado con patines fijos
+Patines para hielo
+Patines de ruedas
+Artículos y material para cultura física , gimnasia o atletismo
+Aparatos de gimnasia con sistema de esfuerzo regulable
+Artículos de cricket o de polo ( excepto las pelotas )
+Cañas de pescar , anzuelos y demás artículos para la pesca con caña ; salabardos , cazamariposas y redes similares ; señuelos ( excepto los de las partidas 9208 o 9705 ) y artículos de caza similares
+Cañas de pescar
+Anzuelos , incluso montados en sedal ( tanza )
+Anzuelos sin brazolada
+Carretes de pesca
+Tiovivos , columpios , casetas de tiro y demás atracciones de feria ; circos , zoológicos y teatros , ambulantes
+Circos y zoológicos ambulantes
+CAPÍTULO 96
+los lápices de maquillaje o tocador ( capítulo 33 ) ;
+los artículos del capítulo 66 ( por ejemplo : partes de paraguas o bastones ) ;
+la bisutería ( partida 7117 ) ;
+los artículos del capítulo 82 ( útiles , artículos de cuchillería , cubiertos de mesa ) con mangos o partes de materias para tallar o moldear . Cuando se presenten aisladamente , estos mangos y partes se clasifican en las partidas 9601 o 9602 ;
+los artículos del capítulo 90 [ por ejemplo : monturas ( armazones ) de gafas ( anteojos ) ( partida 9003 ) , tiralíneas ( partida 9017 ) , artículos de cepillería de los tipos manifiestamente utilizados en medicina , cirugía , odontología o veterinaria ( partida 9018 ) ] ;
+los instrumentos musicales , sus partes y accesorios ( capítulo 92 ) ;
+ij ) los artículos del capítulo 93 ( armas y sus partes ) ;
+los artículos del capítulo 95 ( por ejemplo : juguetes , juegos , artefactos deportivos ) ;
+los artículos del capítulo 97 ( objetos de arte o colección y antigüedades ) .
+En la partida 9602 , se entiende por « materias vegetales o minerales para tallar » :
+las semillas duras , pepitas , cáscaras , nueces y materias vegetales similares para tallar ( por ejemplo : nuez de corozo , de palmera-dum ) ;
+el ámbar ( succino ) y la espuma de mar , naturales o reconstituidos , así como el azabache y materias minerales análogas al azabache .
+En la partida 9603 se consideran « cabezas preparadas » los mechones de pelo , fibra vegetal u otra materia , sin montar , listos para su uso en la fabricación de brochas , pinceles o artículos análogos , sin dividirlos o que solo necesiten un complemento poco importante de mano de obra , tal como el igualado o acabado de puntas .
+Los artículos de este capítulo , excepto los de las partidas 9601 a 9606 o 9615 , constituidos total o parcialmente por metal precioso , chapado de metal precioso ( plaqué ) , piedras preciosas o semipreciosas ( naturales , sintéticas o reconstituidas ) , o que lleven perlas finas ( naturales ) o cultivadas , permanecen clasificados en este capítulo .
+Sin embargo , también están comprendidos en este capítulo los artículos de las partidas 9601 a 9606 o 9615 con simples guarniciones o accesorios de mínima importancia de metal precioso , chapado de metal precioso ( plaqué ) , de perlas finas ( naturales ) o cultivadas o piedras preciosas o semipreciosas ( naturales , sintéticas o reconstituidas ) .
+Marfil , hueso , concha ( caparazón ) de tortuga , cuerno , asta , coral , nácar y demás materias animales para tallar , trabajadas , y manufacturas de estas materias , incluso las obtenidas por moldeo
+Marfil trabajado y sus manufacturas
+Coral natural o reconstituido , labrado , y manufacturas de estas materias
+Materias vegetales o minerales para tallar , trabajadas , y manufacturas de estas materias ; manufacturas moldeadas o talladas de cera , parafina , estearina , gomas o resinas naturales o pasta para modelar y demás manufacturas moldeadas o talladas no expresadas ni comprendidas en otra parte ; gelatina sin endurecer trabajada ( excepto la de la partida 3503 ) , y manufacturas de gelatina sin endurecer
+Escobas y escobillas , cepillos , brochas y pinceles ( incluso si son partes de máquinas , aparatos o vehículos ) , escobas mecánicas , sin motor , de uso manual , fregonas o mopas y plumeros ; cabezas preparadas para artículos de cepillería ; almohadillas y muñequillas y rodillos , para pintar ; rasquetas de caucho o materia flexible análoga
+Escobas y escobillas de ramitas u otra materia vegetal atada en haces , incluso con mango
+Cepillos de dientes , brochas de afeitar , cepillos para cabello , pestañas o uñas y demás cepillos para aseo personal , incluidos los que sean partes de aparatos
+Cepillos de dientes , incluidos los cepillos para dentaduras postizas
+Cepillos para cabello
+Pinceles y brochas para pintura artística , pinceles para escribir y pinceles similares para aplicación de cosméticos
+Pinceles y brochas para pintura artística , pinceles para escribir
+Pinceles para aplicación de cosméticos
+Pinceles y brochas para pintar , enlucir , barnizar o similares ( excepto los de la subpartida 960330 ) ; almohadillas o muñequillas y rodillos , para pintar
+Pinceles y brochas para pintar , enlucir , barnizar o similares
+Almohadillas o muñequillas y rodillos , para pintar
+Los demás cepillos que constituyan partes de máquinas , aparatos o vehículos
+Escobas mecánicas de uso manual ( excepto las de motor )
+Cepillos y cepillos escoba para limpieza de superficies y para la casa , incluidos los cepillos para prendas de vestir o para calzado ; artículos de cepillería para el aseo de los animales
+Tamices , cedazos y cribas , de mano
+Juegos o surtidos de viaje para aseo personal , costura o limpieza del calzado o de prendas de vestir
+Botones y botones de presión ; formas para botones y demás partes de botones o de botones de presión ; esbozos de botones
+Botones de presión y sus partes
+Botones
+De plástico , sin forrar con materia textil
+De metal común , sin forrar con materia textil
+Formas para botones y demás partes de botones ; esbozos de botones
+Cierres de cremallera ( cierres relámpago ) y sus partes
+Cierres de cremallera ( cierres relámpago )
+Con dientes de metal común
+De metal común , incluidas las cintas con grapas de metal común
+Bolígrafos ; rotuladores y marcadores con punta de fieltro u otra punta porosa ; estilográficas y demás plumas ; estiletes o punzones para clisés de mimeógrafo ( stencils ) ; portaminas ; portaplumas , portalápices y artículos similares ; partes de estos artículos , incluidos los capuchones y sujetadores ( excepto las de la partida 9609 )
+Bolígrafos
+De tinta líquida
+Con cuerpo o capuchón de metal precioso o chapado de metal precioso ( plaqué )
+Con cartucho recambiable
+Rotuladores y marcadores con punta de fieltro u otra punta porosa
+Estilográficas y demás plumas
+Para dibujar con tinta china
+Portaminas
+Juegos de artículos pertenecientes , por lo menos , a dos de las subpartidas anteriores
+Cartuchos de repuesto con su punta para bolígrafo
+De tinta líquida
+Plumillas y puntos para plumillas
+Lápices , minas , pasteles , carboncillos , tizas para escribir o dibujar y jaboncillos ( tizas ) de sastre
+Lápices
+Con mina de grafito
+Minas para lápices o portaminas
+Pasteles y carboncillos
+Pizarras y tableros para escribir o dibujar , incluso enmarcados
+Fechadores , sellos , numeradores , timbradores y artículos similares , incluidos los aparatos para imprimir etiquetas , de mano ; componedores e imprentillas con componedor , de mano
+Cintas para máquinas de escribir y cintas similares , entintadas o preparadas de otro modo para imprimir , incluso en carretes o cartuchos ; tampones , incluso impregnados o con caja
+Cintas
+De fibras sintéticas o artificiales , con una anchura inferior a 30 mm , contenidas permanentemente en cartuchos de plástico o metal , de los tipos utilizados en las máquinas de escribir automáticas , equipos de tratamiento automático de la información y otras máquinas
+Tampones
+Encendedores y mecheros , incluso mecánicos o eléctricos , y sus partes ( excepto las piedras y mechas )
+Encendedores de gas no recargables , de bolsillo
+Encendedores de gas recargables , de bolsillo
+Con encendido eléctrico
+Con encendido de otro tipo
+Los demás encendedores y mecheros
+Pipas , incluidas las cazoletas , boquillas para cigarros ( puros ) o cigarrillos , y sus partes
+Escalabornes de madera o de raíces
+Peines , peinetas , pasadores y artículos similares ; horquillas ; rizadores , bigudíes y artículos similares para el peinado ( excepto los de la partida 8516 ) , y sus partes
+Peines , peinetas , pasadores y artículos similares
+De caucho endurecido o plástico
+Pulverizadores de tocador , sus monturas y cabezas de monturas ; borlas y similares para aplicación de polvos , otros cosméticos o productos de tocador
+Pulverizadores de tocador , sus monturas y cabezas de monturas
+Pulverizadores de tocador
+Monturas y cabezas de monturas
+Borlas y similares para aplicación de polvos , otros cosméticos o productos de tocador
+Termos y demás recipientes isotérmicos , montados y aislados por vacío , así como sus partes ( excepto las ampollas de vidrio )
+Termos y demás recipientes isotérmicos , montados , de capacidad
+Inferior o igual a 0,75 l
+Superior a 0,75 l
+Partes ( excepto las ampollas de vidrio )
+Maniquíes y artículos similares ; autómatas y escenas animadas para escaparates
+SECCIÓN XXI
+OBJETOS DE ARTE O COLECCIÓN Y ANTIGÜEDADES
+CAPÍTULO 97
+los sellos ( estampillas ) de correo , timbres fiscales , enteros postales , demás artículos franqueados y análogos , sin obliterar , de la partida 4907 ;
+los lienzos pintados para decorados de teatro , fondos de estudio o usos análogos ( partida 5907 ) , salvo que puedan clasificarse en la partida 9706 ;
+las perlas finas ( naturales ) o cultivadas y piedras preciosas o semipreciosas ( partidas 7101 a 7103 ) .
+En la partida 9702 , se consideran « grabados , estampas y litografías originales » las pruebas obtenidas directamente en negro o en color de una o varias planchas totalmente realizadas a mano por el artista , cualquiera que sea la técnica o la materia empleada , excepto por cualquier procedimiento mecánico o fotomecánico .
+No se clasifican en la partida 9703 las esculturas que presenten carácter comercial ( por ejemplo : reproducciones en serie , vaciados , obras de artesanía ) , aunque hayan sido concebidas o creadas por artistas .
+Salvo lo dispuesto en las notas 1 , 2 y 3 , los artículos susceptibles de clasificarse en este capítulo y en otros de la nomenclatura se clasifican en este capítulo .
+Los artículos susceptibles de clasificarse en la partida 9706 y en las partidas 9701 a 9705 se clasifican en las partidas 9701 a 9705 .
+Los marcos de pinturas , dibujos , colajes o cuadros similares , grabados , estampas o litografías se clasifican con ellos cuando sus características y valor están en relación con los de dichas obras .
+Los marcos cuyas características o valor no guarden relación con los artículos a los que se refiere esta nota , seguirán su propio régimen .
+Pinturas y dibujos , hechos totalmente a mano ( excepto los dibujos de la partida 4906 y artículos manufacturados decorados a mano ) ; colajes y cuadros similares
+Pinturas y dibujos
+Grabados , estampas y litografías originales
+Obras originales de estatuaria o escultura , de cualquier materia
+Sellos ( estampillas ) de correo , timbres fiscales , marcas postales , sobres primer día , enteros postales , demás artículos franqueados y análogos , incluso obliterados ( excepto los artículos de la partida 4907 )
+Colecciones y especímenes para colecciones de zoología , botánica , mineralogía o anatomía o que tengan interés histórico , arqueológico , paleontológico , etnográfico o numismático
+Antigüedades de más de cien años
+CAPÍTULO 98
+CONJUNTOS INDUSTRIALES
+Los Reglamentos ( CE ) no 1917/2000 [ 89]de la Comisión , de7 de septiembre de 2000 , y ( CE ) no 1982/2004 [ 88]de la Comisión , de18 de noviembre de 2004 , contemplan que se puede aplicar un procedimiento simplificado de declaración para el registro de las exportaciones y las llegadas o expediciones de conjuntos industriales en las estadísticas del comercio exterior e intracomunitario de la Comunidad .
+Para poder recurrir a este procedimiento simplificado los documentos de información estadística deben recibir previamente la autorización necesaria del servicio competente mencionado en el cuadro siguiente .
+Estado miembro
+Nombre y dirección del servicio competente
+Bélgica
+República Checa
+Dinamarca
+Alemania
+Maksu- ja Tolliamet
+Grecia
+España
+Francia
+Italia
+Irlanda
+Chipre
+Letonia
+Lituania
+A.Jakšto g. 1/25 ,
+Luxemburgo
+Hungrίa
+Países Bajos
+Polonia
+Rumanía
+Eslovenia
+Eslovaquia
+Finlandia
+Suecia
+Reino Unido
+Componentes de conjuntos industriales completos en el marco del comercio exterior [ Reglamento ( CE ) no 1917/2000 de la Comisión , de 7 de septiembre de 2000 ] y del comercio intracomunitario [ Reglamento ( CE ) no 1982/2004 de la Comisión , de 18 de noviembre de 2004 ] :
+Los códigos de mercancía deberán estar compuestos del modo siguiente :
+las cuatro primeras cifras serán 9880 ,
+la quinta y sexta cifras corresponderán al capítulo de la NC al que pertenezcan las mercancías del componente ,
+la séptima y la octava cifras serán 0 .
+TERCERA PARTE
+ANEXOS ARANCELARIOS
+ANEXOS AGRÍCOLAS
+ANEXO 1
+COMPONENTES AGRÍCOLAS ( EA ) , DERECHOS ADICIONALES PARA EL AZÚCAR ( AD S / Z ) Y DERECHOS ADICIONALES PARA LA HARINA ( AD F / M )
+Cuando se hace una remisión al presente anexo , el elemento agrícola ( « EA » ) y , en su caso , el derecho adicional sobre los azúcares diversos ( « AD S / Z » ) o el derecho adicional sobre la harina ( « AD F / M » ) se definirán de acuerdo con el contenido de la mercancía en cuestión en :
+materias grasas de la leche ,
+proteínas de la leche ,
+sacarosa / azúcar invertido / isoglucosa ,
+almidón-fécula / glucosa .
+A esta mercancía corresponde un código adicional definido de acuerdo con el cuadro 1 que se recoge a continuación .
+El elemento agrícola ( en euros por cada 100 kilogramos de peso neto ) aplicable a la mercancía se establece en la columna 2 del cuadro 2 .
+Los derechos adicionales sobre los azúcares diversos ( « AD S / Z » ) ( en euros por cada 100 kilogramos de peso neto ) , recogidos en la columna 3 del cuadro 2 , solo se aplicarán al máximo de percepción cuando el arancel prevea una remisión al anexo 1 mediante la mención « AD S / Z » . Los derechos adicionales sobre la harina ( « AD F / M » ) ( en euros por cada 100 kilogramos de peso neto ) , recogidos en la columna 4 , solo se aplicarán al máximo de percepción cuando el arancel prevea una remisión al anexo 1 mediante la mención « AD F / M » .
+Cuadro 1
+Código adicional ( según la composición )
+Materias grasas de leche ( % en peso )
+Proteínas de leche ( % en peso ) [ 93 ]
+Almidón-fécula / glucosa ( % en peso ) [ 91 ]
+Sacarosa / Azúcar invertido / Isoglucosa ( % en peso ) [ 92 ]
+Cuadro 2
+Código
+Elemento agrícola
+ANEXO 2
+PRODUCTOS A LOS QUE SE APLICA UN PRECIO DE ENTRADA [ 90 ]
+Del 1 de enero al 31 de marzo
+Con un precio de entrada por 100 kg de peso neto
+Superior o igual a 84,6 €
+Superior o igual a 82,9 € , pero inferior a 84,6 €
+Superior o igual a 81,2 € , pero inferior a 82,9 €
+Superior o igual a 79,5 € , pero inferior a 81,2 €
+Superior o igual a 77,8 € , pero inferior a 79,5 €
+Inferior a 77,8 €
+Del 1 de abril al 30 de abril
+Superior o igual a 112,6 €
+Superior o igual a 110,3 € , pero inferior a 112,6 €
+Superior o igual a 108,1 € , pero inferior a 110,3 €
+Superior o igual a 105,8 € , pero inferior a 108,1 €
+Superior o igual a 103,6 € , pero inferior a 105,8 €
+Inferior a 103,6 €
+Del 1 de mayo al 14 de mayo
+Superior o igual a 72,6 €
+Superior o igual a 71,1 € , pero inferior a 72,6 €
+Superior o igual a 69,7 € , pero inferior a 71,1 €
+Superior o igual a 68,2 € , pero inferior a 69,7 €
+Superior o igual a 66,8 € , pero inferior a 68,2 €
+Inferior a 66,8 €
+Del 15 de mayo al 31 de mayo
+Del 1 de junio al 30 de septiembre
+Superior o igual a 52,6 €
+Superior o igual a 51,5 € , pero inferior a 52,6 €
+Superior o igual a 50,5 € , pero inferior a 51,5 €
+Superior o igual a 49,4 € , pero inferior a 50,5 €
+Superior o igual a 48,4 € , pero inferior a 49,4 €
+Inferior a 48,4 €
+Del 1 de octubre al 31 de octubre
+Superior o igual a 62,6 €
+Superior o igual a 61,3 € , pero inferior a 62,6 €
+Superior o igual a 60,1 € , pero inferior a 61,3 €
+Superior o igual a 58,8 € , pero inferior a 60,1 €
+Superior o igual a 57,6 € , pero inferior a 58,8 €
+Inferior a 57,6 €
+Del 1 de noviembre al 20 de diciembre
+Del 21 de diciembre al 31 de diciembre
+Superior o igual a 67,6 €
+Superior o igual a 66,2 € , pero inferior a 67,6 €
+Superior o igual a 64,9 € , pero inferior a 66,2 €
+Superior o igual a 63,5 € , pero inferior a 64,9 €
+Superior o igual a 62,2 € , pero inferior a 63,5 €
+Inferior a 62,2 €
+Del 1 de enero al fin de febrero
+Superior o igual a 67,5 €
+Superior o igual a 66,2 € , pero inferior a 67,5 €
+Superior o igual a 64,8 € , pero inferior a 66,2 €
+Superior o igual a 63,5 € , pero inferior a 64,8 €
+Superior o igual a 62,1 € , pero inferior a 63,5 €
+Inferior a 62,1 €
+Del 1 de marzo al 30 de abril
+Superior o igual a 110,5 €
+Superior o igual a 108,3 € , pero inferior a 110,5 €
+Superior o igual a 106,1 € , pero inferior a 108,3 €
+Superior o igual a 103,9 € , pero inferior a 106,1 €
+Superior o igual a 101,7 € , pero inferior a 103,9 €
+Inferior a 101,7 €
+Del 1 de mayo al 15 de mayo
+Destinados a la transformación [ 12 ]
+Superior o igual a 48,1 €
+Superior o igual a 47,1 € , pero inferior a 48,1 €
+Superior o igual a 46,2 € , pero inferior a 47,1 €
+Superior o igual a 45,2 € , pero inferior a 46,2 €
+Superior o igual a 44,3 € , pero inferior a 45,2 €
+Superior o igual a 35 € [ 94 ] , pero inferior a 44,3 €
+Superior o igual a 34,3 € [ 94 ] , pero inferior a 35 € [ 94 ]
+Superior o igual a 33,6 € [ 94 ] , pero inferior a 34,3 € [ 94 ]
+Superior o igual a 32,9 € [ 94 ] , pero inferior a 33,6 € [ 94 ]
+Superior o igual a 32,2 € [ 94 ] , pero inferior a 32,9 € [ 94 ]
+Inferior a 32,2 € [ 94 ]
+Inferior a 44,3 €
+Del 16 de mayo al 30 de septiembre
+Superior o igual a 68,3 €
+Superior o igual a 66,9 € , pero inferior a 68,3 €
+Superior o igual a 65,6 € , pero inferior a 66,9 €
+Superior o igual a 64,2 € , pero inferior a 65,6 €
+Superior o igual a 62,8 € , pero inferior a 64,2 €
+Superior o igual a 35 € [ 94 ] , pero inferior a 62,8 €
+Inferior a 62,8 €
+Del 1 de noviembre al 10 de noviembre
+Del 11 de noviembre al 31 de diciembre
+Superior o igual a 60,5 €
+Superior o igual a 59,3 € , pero inferior a 60,5 €
+Superior o igual a 58,1 € , pero inferior a 59,3 €
+Superior o igual a 56,9 € , pero inferior a 58,1 €
+Superior o igual a 55,7 € , pero inferior a 56,9 €
+Inferior a 55,7 €
+Del 1 de enero al 31 de enero
+Superior o igual a 48,8 €
+Superior o igual a 47,8 € , pero inferior a 48,8 €
+Superior o igual a 46,8 € , pero inferior a 47,8 €
+Superior o igual a 45,9 € , pero inferior a 46,8 €
+Superior o igual a 44,9 € , pero inferior a 45,9 €
+Inferior a 44,9 €
+Del 1 de febrero al 31 de marzo
+Superior o igual a 41,3 €
+Superior o igual a 40,5 € , pero inferior a 41,3 €
+Superior o igual a 39,6 € , pero inferior a 40,5 €
+Superior o igual a 38,8 € , pero inferior a 39,6 €
+Superior o igual a 38 € , pero inferior a 38,8 €
+Inferior a 38 €
+Del 1 de abril al 31 de mayo
+Superior o igual a 69,2 €
+Superior o igual a 67,8 € , pero inferior a 69,2 €
+Superior o igual a 66,4 € , pero inferior a 67,8 €
+Superior o igual a 65 € , pero inferior a 66,4 €
+Superior o igual a 63,7 € , pero inferior a 65 €
+Inferior a 63,7 €
+Del 1 de junio al 31 de julio
+Del 1 de agosto al 31 de diciembre
+Del 1 de enero al 31 de mayo
+Superior o igual a 82,6 €
+Superior o igual a 80,9 € , pero inferior a 82,6 €
+Superior o igual a 79,3 € , pero inferior a 80,9 €
+Superior o igual a 77,6 € , pero inferior a 79,3 €
+Superior o igual a 76 € , pero inferior a 77,6 €
+Inferior a 76 €
+Del 1 de junio al 30 de junio
+Superior o igual a 65,4 €
+Superior o igual a 64,1 € , pero inferior a 65,4 €
+Superior o igual a 62,8 € , pero inferior a 64,1 €
+Superior o igual a 61,5 € , pero inferior a 62,8 €
+Superior o igual a 60,2 € , pero inferior a 61,5 €
+Inferior a 60,2 €
+Del 1 de julio al 31 de octubre
+Del 1 de noviembre al 31 de diciembre
+Superior o igual a 94,3 €
+Superior o igual a 92,4 € , pero inferior a 94,3 €
+Superior o igual a 90,5 € , pero inferior a 92,4 €
+Superior o igual a 88,6 € , pero inferior a 90,5 €
+Superior o igual a 86,8 € , pero inferior a 88,6 €
+Inferior a 86,8 €
+Superior o igual a 35,4 €
+Superior o igual a 34,7 € , pero inferior a 35,4 €
+Superior o igual a 34 € , pero inferior a 34,7 €
+Superior o igual a 33,3 € , pero inferior a 34 €
+Superior o igual a 32,6 € , pero inferior a 33,3 €
+Inferior a 32,6 €
+Del 16 de mayo al 31 de mayo
+Del 1 de junio al 15 de octubre
+Del 16 de octubre al 30 de noviembre
+Del 1 de diciembre al 31 de diciembre
+Superior o igual a 64,9 €
+Superior o igual a 63,6 € , pero inferior a 64,9 €
+Superior o igual a 62,3 € , pero inferior a 63,6 €
+Superior o igual a 61 € , pero inferior a 62,3 €
+Superior o igual a 59,7 € , pero inferior a 61 €
+Inferior a 59,7 €
+Del 1 de marzo al 31 de octubre
+Superior o igual a 28,6 €
+Superior o igual a 28 € , pero inferior a 28,6 €
+Superior o igual a 27,5 € , pero inferior a 28 €
+Superior o igual a 26,9 € , pero inferior a 27,5 €
+Superior o igual a 26,3 € , pero inferior a 26,9 €
+Inferior a 26,3 €
+Del 1 de enero al 30 de abril
+Superior o igual a 46,2 €
+Superior o igual a 45,3 € , pero inferior a 46,2 €
+Superior o igual a 44,4 € , pero inferior a 45,3 €
+Superior o igual a 43,4 € , pero inferior a 44,4 €
+Superior o igual a 42,5 € , pero inferior a 43,4 €
+Inferior a 42,5 €
+Del 1 de mayo al 31 de mayo
+Superior o igual a 41,6 € , pero inferior a 42,5 €
+Superior o igual a 40,7 € , pero inferior a 41,6 €
+Superior o igual a 39,7 € , pero inferior a 40,7 €
+Superior o igual a 38,8 € , pero inferior a 39,7 €
+Inferior a 38,8 €
+Superior o igual a 55,8 €
+Superior o igual a 54,7 € , pero inferior a 55,8 €
+Superior o igual a 53,6 € , pero inferior a 54,7 €
+Superior o igual a 52,5 € , pero inferior a 53,6 €
+Superior o igual a 51,3 € , pero inferior a 52,5 €
+Superior o igual a 50,2 € , pero inferior a 51,3 €
+Superior o igual a 49,1 € , pero inferior a 50,2 €
+Superior o igual a 48 € , pero inferior a 49,1 €
+Superior o igual a 46,9 € , pero inferior a 48 €
+Inferior a 46,9 €
+Del 1 de agosto al 15 de agosto
+Inferior a 48 €
+Del 16 de agosto al 31 de octubre
+Inferior a 51,3 €
+Del 1 de enero al 14 de julio
+De la variedad Emperador ( Vitis vinifera c.v . ) del 1 de enero al 31 de enero [ 29 ]
+Del 15 de julio al 20 de julio
+Del 21 de julio al 31 de octubre
+Superior o igual a 54,6 €
+Superior o igual a 53,5 € , pero inferior a 54,6 €
+Superior o igual a 52,4 € , pero inferior a 53,5 €
+Superior o igual a 51,3 € , pero inferior a 52,4 €
+Inferior a 50,2 €
+Del 1 de noviembre al 20 de noviembre
+Superior o igual a 47,6 €
+Superior o igual a 46,6 € , pero inferior a 47,6 €
+Superior o igual a 45,7 € , pero inferior a 46,6 €
+Superior o igual a 44,7 € , pero inferior a 45,7 €
+Superior o igual a 43,8 € , pero inferior a 44,7 €
+Inferior a 43,8 €
+Del 21 de noviembre al 31 de diciembre
+De la variedad Emperador ( Vitis vinifera c.v . ) del 1 de diciembre al 31 de diciembre [ 29 ]
+Del 1 de enero al 14 de febrero
+Superior o igual a 56,8 €
+Superior o igual a 55,7 € , pero inferior a 56,8 €
+Superior o igual a 54,5 € , pero inferior a 55,7 €
+Superior o igual a 53,4 € , pero inferior a 54,5 €
+Superior o igual a 52,3 € , pero inferior a 53,4 €
+Inferior a 52,3 €
+Del 15 de febrero al 31 de marzo
+Superior o igual a 51,1 € , pero inferior a 52,3 €
+Superior o igual a 50 € , pero inferior a 51,1 €
+Inferior a 50 €
+Del 1 de abril al 30 de junio
+Superior o igual a 48,8 € , pero inferior a 50 €
+Inferior a 48,8 €
+Del 1 de julio al 15 de julio
+Superior o igual a 45,7 €
+Superior o igual a 44,8 € , pero inferior a 45,7 €
+Superior o igual a 43,9 € , pero inferior a 44,8 €
+Superior o igual a 43 € , pero inferior a 43,9 €
+Superior o igual a 42 € , pero inferior a 43 €
+Superior o igual a 41,1 € , pero inferior a 42 €
+Superior o igual a 40,2 € , pero inferior a 41,1 €
+Superior o igual a 39,3 € , pero inferior a 40,2 €
+Inferior a 39,3 €
+Del 16 de julio al 31 de julio
+Inferior a 42 €
+Del 1 de enero al 31 de enero
+Superior o igual a 51 €
+Superior o igual a 50 € , pero inferior a 51 €
+Superior o igual a 49 € , pero inferior a 50 €
+Superior o igual a 47,9 € , pero inferior a 49 €
+Superior o igual a 46,9 € , pero inferior a 47,9 €
+Superior o igual a 45,9 € , pero inferior a 46,9 €
+Superior o igual a 43,9 € , pero inferior a 44,9 €
+Inferior a 43,9 €
+Del 1 de mayo al 30 de junio
+Del 1 de julio al 15 de julio
+Superior o igual a 46,5 €
+Superior o igual a 45,6 € , pero inferior a 46,5 €
+Superior o igual a 44,6 € , pero inferior a 45,6 €
+Superior o igual a 43,7 € , pero inferior a 44,6 €
+Superior o igual a 42,8 € , pero inferior a 43,7 €
+Superior o igual a 41,9 € , pero inferior a 42,8 €
+Superior o igual a 40,9 € , pero inferior a 41,9 €
+Superior o igual a 40 € , pero inferior a 40,9 €
+Inferior a 40 €
+Del 16 de julio al 31 de julio
+Inferior a 42,8 €
+Del 1 de agosto al 31 de octubre
+Superior o igual a 38,8 €
+Superior o igual a 37,2 € , pero inferior a 38 €
+Superior o igual a 36,5 € , pero inferior a 37,2 €
+Superior o igual a 35,7 € , pero inferior a 36,5 €
+Inferior a 35,7 €
+Del 1 de junio al 20 de junio
+Superior o igual a 107,1 €
+Superior o igual a 105 € , pero inferior a 107,1 €
+Superior o igual a 102,8 € , pero inferior a 105 €
+Superior o igual a 100,7 € , pero inferior a 102,8 €
+Superior o igual a 98,5 € , pero inferior a 100,7 €
+Inferior a 98,5 €
+Del 21 de junio al 30 de junio
+Superior o igual a 87,3 €
+Superior o igual a 85,6 € , pero inferior a 87,3 €
+Superior o igual a 83,8 € , pero inferior a 85,6 €
+Superior o igual a 82,1 € , pero inferior a 83,8 €
+Superior o igual a 80,3 € , pero inferior a 82,1 €
+Inferior a 80,3 €
+Del 1 de julio al 31 de julio
+Superior o igual a 77,1 €
+Superior o igual a 75,6 € , pero inferior a 77,1 €
+Superior o igual a 74 € , pero inferior a 75,6 €
+Superior o igual a 72,5 € , pero inferior a 74 €
+Superior o igual a 70,9 € , pero inferior a 72,5 €
+Inferior a 70,9 €
+Del 1 de mayo al 20 de mayo
+Del 21 de mayo al 31 de mayo
+Superior o igual a 149,4 €
+Superior o igual a 146,4 € , pero inferior a 149,4 €
+Superior o igual a 143,4 € , pero inferior a 146,4 €
+Superior o igual a 140,4 € , pero inferior a 143,4 €
+Superior o igual a 137,4 € , pero inferior a 140,4 €
+Superior o igual a 50,7 € [ 94 ] pero inferior a 137,4 €
+Superior o igual a 49,7 [ 94 ] € pero inferior a 50,7 € [ 94 ]
+Superior o iguala 48,7 [ 94 ] € pero inferior a 49,7 € [ 94 ]
+Superior o igual a 47,7 [ 94 ] € pero inferior a 48,7 € [ 94 ]
+Superior o igual a 46,6 [ 94 ] € pero inferior a 47,7 € [ 94 ]
+Inferior a 46,6 € [ 94 ]
+Del 1 de junio al 15 de julio
+Superior o igual a 125,4 €
+Superior o igual a 122,9 € , pero inferior a 125,4 €
+Superior o igual a 120,4 € , pero inferior a 122,9 €
+Superior o igual a 117,9 € , pero inferior a 120,4 €
+Superior o igual a 115,4 € , pero inferior a 117,9 €
+Superior o igual a 50,7 [ 94 ] € pero inferior a 115,4 €
+Superior o igual a 45,9 [ 94 ] € pero inferior a 115,4 €
+Superior o igual a 45 € [ 94 ] pero inferior a 45,9 € [ 94 ]
+Superior o igual a 44,1 € [ 94 ] pero inferior a 45 € [ 94 ]
+Superior o igual a 43,1 € [ 94 ] pero inferior a 44,1 € [ 94 ]
+Superior o igual a 42,2 € [ 94 ] pero inferior a 43,1 € [ 94 ]
+Inferior a 42,2 € [ 94 ]
+Del 1 de agosto al 10 de agosto
+Superior o igual a 91,6 €
+Superior o igual a 89,8 € , pero inferior a 91,6 €
+Superior o igual a 87,9 € , pero inferior a 89,8 €
+Superior o igual a 86,1 € , pero inferior a 87,9 €
+Superior o igual a 84,1 € , pero inferior a 86,1 €
+Superior o igualr a 45,9 € [ 94 ] pero inferior a 84,1 €
+Del 11 de agosto al 31 de diciembre
+Inferior a 137,4 €
+Del 1 de junio al 15 de junio
+Inferior a 115,4 €
+Del 16 de junio al 15 de julio
+Inferior a 84,1 €
+Del 1 de enero al 10 de junio
+Del 11 de junio al 20 de junio
+Superior o igual a 88,3 €
+Superior o igual a 86,5 € , pero inferior a 88,3 €
+Superior o igual a 84,8 € , pero inferior a 86,5 €
+Superior o igual a 83 € , pero inferior a 84,8 €
+Superior o igual a 81,2 € , pero inferior a 83 €
+Inferior a 81,2 €
+Del 21 de junio al 31 de julio
+Superior o igual a 77,6 €
+Superior o igual a 74,5 € , pero inferior a 76 €
+Superior o igual a 72,9 € , pero inferior a 74,5 €
+Superior o igual a 71,4 € , pero inferior a 72,9 €
+Inferior a 71,4 €
+Del 1 de agosto al 30 de septiembre
+Superior o igual a 60 €
+Superior o igual a 58,8 € , pero inferior a 60 €
+Superior o igual a 56,4 € , pero inferior a 57,6 €
+Superior o igual a 55,2 € , pero inferior a 56,4 €
+Inferior a 55,2 €
+Del 1 de octubre al 31 de diciembre
+Del 11 de junio al 30 de junio
+Superior o igual a 69,6 €
+Superior o igual a 68,2 € , pero inferior a 69,6 €
+Superior o igual a 65,4 € , pero inferior a 66,8 €
+Superior o igual a 64 € , pero inferior a 65,4 €
+Inferior a 64 €
+Del 1 de julio al 30 de septiembre
+Con un precio de entrada por cada hl
+Superior o igual a 42,5 €
+Superior o igual a 41,7 € , pero inferior a 42,5 €
+Superior o igual a 40,8 € , pero inferior a 41,7 €
+Superior o igual a 40 € , pero inferior a 40,8 €
+Superior o igual a 39,1 € , pero inferior a 40 €
+Inferior a 39,1 €
+Superior o igual a 212,4 €
+Superior o igual a 208,2 € , pero inferior a 212,4 €
+Superior o igual a 203,9 € , pero inferior a 208,2 €
+Superior o igual a 199,7 € , pero inferior a 203,9 €
+Superior o igual a 195,4 € , pero inferior a 199,7 €
+Inferior a 195,4 €
+Superior o igual a 209,4 €
+Superior o igual a 205,2 € , pero inferior a 209,4 €
+Superior o igual a 201 € , pero inferior a 205,2 €
+Superior o igual a 196,8 € , pero inferior a 201 €
+Superior o igual a 192,6 € , pero inferior a 196,8 €
+Inferior a 192,6 €
+LISTAS DE SUSTANCIAS FARMACÉUTICAS QUE REÚNAN LAS CONDICIONES PARA SER ADMITIDAS EN FRANQUICIA
+ANEXO 3
+LISTA DE DENOMINACIONES COMUNES INTERNACIONALES ( DCIS ) ELABORADA POR LA ORGANIZACIÓN MUNDIAL DE LA SALUD PARA SUSTANCIAS FARMACÉUTICAS QUE PUEDEN ACOGERSE AL RÉGIMEN DE AMDISIÓN EN FRANQUICIA
+Código NC
+Denominación
+algeldrato
+simaldrato
+almasilato
+almagodrato
+hidrotalcita
+vangatalcita
+carbaldrato
+sulfato de almadrato
+almagato
+magaldrato
+aurotiosulfato sódico
+aurotiomalato sódico
+aurotioglicanida
+cisplatino
+carboplatino
+oxaliplatino
+ormaplatino
+iproplatino
+espiroplatino
+nedaplatino
+dexormaplatino
+miboplatino
+sebriplatino
+zeniplatino
+enloplatino
+lobaplatino
+triplatino tetranitrato
+picoplatino
+xenón ( 133 Xe )
+iodohipurato sódico ( 131 I )
+selenometionina ( 75 Se )
+merisoprol ( 197 Hg )
+ioduro sódico ( 131 I )
+aceite etiodado ( 131 I )
+fosfato sódico ( 32 P )
+seroalbúmina humana iodada ( 125 I )
+seroalbúmina humana iodada ( 131 I )
+cromato sódico ( 51 Cr )
+clormerodrina ( 197 Hg )
+cianocobalamina ( 57 Co )
+cianocobalamina ( 60 Co )
+rosa bengala sódica ( 131 I )
+cloruro de cesio ( 131 Cs )
+iotalamato sódico ( 131 I )
+iometina ( 125 I )
+iometina ( 131 I )
+iotalamato sódico ( 125 I )
+cianocobalamina ( 58 Co )
+ioduro sódico ( 125 I )
+citrato de galio ( 67 Ga )
+iodocolesterol ( 131 I )
+injectable de citrato férrico ( 59 Fe )
+tolpovidona ( 131 I )
+macrosalbo ( 131 I )
+macrosalbo ( 99 m Tc )
+ácido iodocetílico ( 123 I )
+ácido iocanlídico ( 123 I )
+iofetamina ( 123 I )
+iobenguano ( 131 I )
+mespiperona ( 11 C )
+tecnecio ( 99 m Tc ) teboroxima
+fludeoxiglucosa ( 18 F )
+tecnecio ( 99 m Tc ) siboroxima
+tecnecio ( 99 m Tc ) sestamibi
+ioloprida ( 123 I )
+bicisato de tecnecio ( 99 m Tc )
+tecnecio ( 99mTc ) nitridocado
+iometopano ( 123 I )
+furifosmina de tecnecio ( 99 m Tc )
+samario ( 153 Sm ) lexidronam
+ioflupano ( 123 I )
+tecnecio ( 99 m Tc ) pintumomab
+tecnecio ( 99 m Tc ) nofetumomab merpentán
+tecnecio ( 99 m Tc ) apcitida
+tecnecio ( 99mTc ) fanolesomab
+oro ( 198 Au ) coloidal
+fludalanina
+deutolperisona
+borocaptato ( 10 B ) sódico
+ácido gadotérico
+ácido gadopentético
+ácido gadobénico
+gadopenamida
+gadoversetamida
+gadodiamida
+ácido gadoxético
+esprodiamida
+ácido gadocolético
+gadodenterato
+meraleína sódica
+hidrargafeno
+otimerato sódico
+mercaptomerina
+ciclopropano
+temaroteno
+perflisobutano
+perflubutano
+perflexano
+criofluorano
+teflurano
+halotano
+perflunafeno
+bromocicleno
+clofenotano
+mitotano
+cloruro de feniodio
+dibunato de etilo
+gualenato sódico
+dibunato sódico
+dimetiodal sódico
+metiodal sódico
+racementol
+fenaglicodol
+metaglicodol
+amilmetacresol
+ciclomenol
+clorocresol
+hexaclorofeno
+cloroxilenol
+diclorofeno
+clorofeno
+bibrocatol
+biclotimol
+ácido persílico
+dobesilato cálcico
+ácido sultosílico
+dicresuleno
+niclofolán
+nitroclofeno
+metoxiflurano
+fluroxeno
+roflurano
+enflurano
+isoflurano
+sevoflurano
+desflurano
+aliflurano
+clorotrianiseno
+mefenesina
+guaifenesina
+clorfenesina
+floverina
+guaietolina
+ospemifeno
+fispemifeno
+monobenzona
+soneclosán
+triclosán
+teprenona
+bornelona
+difenadiona
+fenindiona
+xenipentona
+eltanolona
+ciclopregnol
+renanolona
+alfadolona
+idramantona
+alfaxalona
+endrisona
+ganaxolona
+colestolona
+budotitano
+paroxipropiona
+anisindiona
+dioxibenzona
+oxibenzona
+ciclovalona
+mexenona
+octabenzona
+flopropiona
+naftonona
+metocalcona
+nabumetona
+exifona
+avobenzona
+butantrona
+tebufelona
+ubidecarenona
+tetroquinona
+menatetrenona
+parvacuona
+menoctona
+idebenona
+docebenona
+buparvacuona
+bisulfito sódico de menadiona
+fluindiona
+bromindiona
+clorindiona
+isobromindiona
+clofenóxido
+sulisobenzona
+flumedroxona
+hidromadinona
+nivimedona
+arildona
+atovacuona
+nitecapona
+tolcapona
+nebicapona
+ciclofenilo
+fenabuteno
+lonapaleno
+ácido valproico
+ácido octanoico
+iodetrilo
+valproato semisódico
+valproato pivoxilo
+ácido arúndico
+trioleato de sorbitán
+gefarnato
+ácido gamolénico
+doconexento
+icosapento
+molfarnato
+ácido cicrotoico
+fenotrina
+iofendilato
+ácido xenihexénico
+ácido nafcaproico
+ibufenaco
+felbinaco
+clidanaco
+fencloraco
+cicloprofeno
+bexaroteno
+ácido azelaico
+hidroxidiona succinato sódico
+docusato sódico
+ftalofina
+ciclactato
+glucaldrato potásico
+ácido ursodeoxicólico
+ciclandelato
+ácido quenodeoxicólico
+ciclobutirol
+sacarato cálcico
+ácido tretocánico
+hexaciclonato sódico
+glucoheptonato cálcico
+ácido ciclobutoico
+ácido acebúrico
+ibuverina
+ferriclato cálcico sódico
+ácido cicloxílico
+deloxolona
+tisocalcitato
+salafibrato
+homosalato
+salsalato
+ácido hidroxitoluico
+ácido iofenoico
+ácido clorindánico
+ácido gentísico
+cinarina
+gentisato sódico
+feniodol sódico
+ácido dehidrocólico
+dehidrocolato sódico
+florantirona
+hexaciprona
+pibecarbo
+ácido buclóxico
+lexofenaco
+itanoxona
+ácido tiroprópico
+ácido etacrínico
+cinoxato
+enoxolona
+metalenestrilo
+fenobutiodil
+menglitato
+clofibrato
+ácido clofíbrico
+canrenoato potásico
+iodoftaleína sódica
+acetiromato
+menbutona
+ácido canrenoico
+anisacrilo
+carbenoxolona
+ácido bromébrico
+ácido dimecrótico
+glucaspaldrato sódico
+clofibrato magnésico
+sinfibrato
+ácido fepentólico
+alclofenaco
+clofibrato de aluminio
+clinofibrato
+cinoxolona
+fenclofenaco
+ácido cinamético
+clofibrato cálcico
+metopreno
+trepibutona
+fenofibrato
+ciprofibrato
+cicloxolona
+etretinato
+fenirofibrato
+sitofibrato
+beclobrato
+indacrinona
+dulofibrato
+sofalcona
+cinfenoaco
+ácido palmoxírico
+oxindanaco
+oxprenoato potásico
+baxitozina
+adapaleno
+gemcabeno
+ácido fítico
+triclofós
+clofenvinfós
+vincofós
+fenclofós
+etasulfato sódico
+tetradecilsulfato sódico
+sulfato sódico de menadiol
+cloretato
+ácido ursulcólico
+tetranitrato de pentaeritritilo
+clonitrato
+propatilnitrato
+tetranitrato de eritritilo
+hexanitrato de manitol
+etamsilato
+clormetina
+taurina
+tuaminoheptano
+dimantina
+perfluamina
+octamilamina
+isometepteno
+octodrina
+triclormetina
+butinamina
+iproheptina
+dectafluro
+diprobutina
+trientina
+bromuro de hexadimetrina
+mecamilamina
+ciclopentamina
+amantadina
+dimecamina
+propilhexedrina
+levopropilhexedrina
+rimantadina
+memantina
+somantadina
+neramexano
+clornafazina
+tametralina
+sertralina
+dexanfetamina
+fentermina
+benzfetamina
+levanfetamina
+anfetamina
+etilanfetamina
+fencanfamina
+lefetamina
+amitriptilina
+nortriptilina
+fenprometamina
+mefentermina
+dibemetina
+alverina
+tranilcipromina
+ciclobenzaprina
+etifelmina
+prenilamina
+protriptilina
+fenfluramina
+clorfentermina
+pargilina
+eticiclidina
+dexfenfluramina
+alfetamina
+ortetamina
+dimefadano
+tolpropamina
+diisopromina
+ganfexina
+indrilina
+maprotilina
+clortermina
+fendilina
+demelverina
+pramiverina
+selegilina
+cipenamina
+terodilina
+benzoctamina
+dimetanfetamina
+butixirato
+intriptilina
+levmetanfetamina
+butriptilina
+levofenfluramina
+octriptilina
+heptaverina
+droprenilamina
+trimexilina
+naftifina
+terbinafina
+indatralina
+butenafina
+sibutramina
+mofegilina
+rasagilina
+igmesina
+delucemina
+bromhexina
+feclemina
+aprindina
+amiflamina
+oleato de monoetanolamina
+dextropropoxifeno
+meclofenoxato
+hexobendina
+moxisilita
+difenhidramina
+fenoxibenzamina
+adifenina
+dicicloverina
+caramifeno
+pentoxiverina
+clorfenoxamina
+orfenadrina
+etafenona
+cinamedrina
+feniltoloxamina
+paretoxicaína
+bromazina
+ganglefeno
+benacticina
+propanocaína
+meprilcaína
+clofenetamina
+ciclopentolato
+medrilamina
+hexilcaína
+dimefeptanol
+manomustina
+bufenadrina
+clomifeno
+ketocaína
+etoloxamina
+namoxirato
+xiloxemina
+cinamaverina
+drofenina
+benciclano
+levopropoxifeno
+aprofeno
+embramina
+xenisalato
+moxastina
+denaverina
+clorprenalina
+clofenciclán
+tocanfilo
+mecloxamina
+meglumina
+trolnitrato
+butidrina
+laurixamina
+mirtecaína
+tosilato de itramina
+pargeverina
+minepentato
+butetamato
+proxibuteno
+miralacto
+ciprodenato
+dextrofemina
+guayactamina
+zuclomifeno
+enclomifeno
+alfametadol
+alfacetilmetadol
+clorgilina
+butamirato
+berlafenona
+bornaprina
+racefemina
+benaprizina
+elucaína
+tilorona
+mexiletina
+fenalcomina
+avridina
+trimebutina
+desproxibuteno
+flunamina
+halonamina
+iproxamina
+moxaprindina
+nisoxetina
+rociverina
+nexeridina
+amifloverina
+propafenona
+cinfenina
+fluoxetina
+butobendina
+oxaprotilina
+treptilamina
+drobulina
+prenoverina
+zocainona
+cilobamina
+halofantrina
+levoprotilina
+panomifeno
+difemerina
+diprafenona
+adafenoxato
+lumefantrina
+droloxifeno
+tomoxetina
+voglibosa
+toremifeno
+bifemelano
+trecadrina
+ramciclano
+tesmilifeno
+cericlamina
+dapoxetina
+deramciclano
+fedotozina
+alprafenona
+sarpogrelato
+seproxetina
+miproxifeno
+escualamina
+temiverina
+trodusquemina
+edronocaína
+dopamina
+metoxifenamina
+foledrina
+oxidopamina
+hidroxianfetamina
+vetrabutina
+aminoxitrifeno
+simetina
+trimoxamina
+mitoclomina
+gepefrina
+dobutamina
+lometralina
+dezocina
+levdobutamina
+brolanfetamina
+oxabrexina
+ibopamina
+dopexamina
+nolomirol
+fosopamina
+tolterodina
+metadona
+anfepramona
+normetadona
+levometadona
+isometadona
+ketamina
+metanfepramona
+esketamina
+cotriptilina
+anfebutamona
+drinideno
+nafenodona
+dexnafenodona
+tilidina
+camilofina
+alanina
+ácido aspártico
+procaína
+ácido edético
+ácido aminocapróico
+ácido mefenámico
+leucina
+calcioedetato sódico
+fenilalanina
+ácido pentético
+ornitina
+valina
+isoleucina
+leucinocaína
+benzocaína
+risocaína
+tetracaína
+ácido iopanoico
+cloroprocaína
+lisadimato
+melfalán
+butacaína
+ácido flufenámico
+sarcolisina
+amoxecaína
+ácido meclofenámico
+baclofeno
+ácido tranexámico
+ácido clofenámico
+fenclonina
+pentetato cálcico trisódico
+ácido tolfenámico
+clormecaína
+diclofenaco
+feredetato sódico
+padimato
+ácido enfenámico
+terofenamato
+etofenamato
+dextilidina
+cetraxato
+edetato dicobáltico
+amineptina
+prefenamato
+zafuleptina
+alaproclato
+eflornitina
+ufenamato
+atrimustina
+aceclofenaco
+icofungipeno
+levisoprenalina
+serina
+fenilefrina
+tirosina
+ácido egtázico
+propoxicaína
+mesalazina
+oxibuprocaína
+adrenalona
+ambucaína
+dextrotiroxina sódica
+metoxamina
+isoxsuprina
+dexfosfoserina
+bufenina
+hidroxiprocaína
+hidroxitetracaína
+proximetacaína
+isoetarina
+norfenefrina
+orciprenalina
+racemetirosina
+nitrato de aminoetilo
+metirosina
+etilefrina
+corbadrina
+ácido xenazoico
+metiprenalina
+butaxamina
+hexoprenalina
+mebeverina
+betoxicaína
+detrotironina
+isoprenalina
+dioxifedrina
+norbudrina
+oxifedrina
+etiroxato
+bufeniodo
+dimetofrina
+terbutalina
+medifoxamina
+oxfenicina
+amafolona
+amfenaco
+dipivefrina
+secoverina
+roxadimato
+minaxolona
+ametantrona
+mitoxantrona
+butopamina
+pivenfrina
+denopamina
+alifedrina
+dembrexina
+pivalato de etilefrina
+dexsecoverina
+bromfenaco
+rotraxato
+desvenlafaxina
+venlafaxina
+onapristona
+lilopristona
+ractopamina
+cliropamina
+aglepristona
+arbutamina
+meluadrina
+ácido caloxético
+eldacimiba
+fesoterodina
+gluconato de colina
+ferrocolinato
+salicilato de colina
+alfoscerato de colina
+palmitato de colfoscerilo
+bromuro de oxifenonio
+carbacol
+bromuro de hexametonio
+bromuro de cetrimonio
+cloruro de acetilcolina
+tosilato de bretilio
+cloruro de metacolina
+trietioduro de galamina
+cloruro de suxametonio
+bromuro de tetrilamonio
+cloruro de triclobisonio
+cloruro de edrofonio
+cloruro de bencetonio
+cloruro de cetalconio
+ioduro de prolonio
+ioduro de tridihexetilo
+cloruro de benzododecinio
+cloruro de miristalconio
+bromuro de azametonio
+bromuro de hexafluronio
+tosilato de troxonio
+carnitina
+bromuro de domifeno
+levocarnitina
+bromuro de pentametonio
+bromuro de decametonio
+metilsulfato de toloconio
+bromuro de tetradonio
+bromuro de laurcetio
+bromuro de diponio
+cloral betaína
+bromuro de deditonio
+ioduro de metocinio
+etilsulfato de mecetronio
+bromuro de metilbenacticio
+bromuro de emepronio
+bromuro de prodeconio
+hidroxinaftoato de befenio
+ioduro de truxicurio
+metilsulfato de mefenidramio
+oxibetaína
+cloruro de halopenio
+perclorato de nitricolina
+amsonato de clorfenoctio
+cloruro de oxidipentonio
+ioduro de mebezonio
+cloruro de carpronio
+bromuro de bibenzonio
+bromuro de dodeclonio
+cloruro de octafonio
+bromuro de penoctonio
+cloruro de benzoxonio
+cloruro de lauralconio
+cloruro de metilbencetonio
+bromuro de ciclonio
+tosilato de emilio
+cloruro de pranolio
+cloruro de suxetonio
+napadisilato de aclatonio
+miltefosina
+bromuro de amantanio
+cloruro de cetexonio
+fosfato de clofilio
+edelfosina
+ioduro de estilonio
+meprobamato
+uretano
+levoglutamida
+ácido acexámico
+mebutamato
+emilcamato
+ectilurea
+acetileucina
+ácido aceneurámico
+carmustina
+bromuro de hexacarbacolina
+ibrotamida
+valdetamida
+cropropamida
+ácido carglúmico
+valpromida
+aceglutamida
+ácido isospaglúmico
+aceglumato de deanol
+valnoctamida
+bromacrilida
+tibamato
+ácido espaglúmico
+capurida
+pentabamato
+crotetamida
+ácido hopanténico
+nisobamato
+butoctamida
+pendecamaína
+bisórcico
+valdipromida
+glutaurina
+elmustina
+pivagabina
+neptamustina
+milacemida
+acamprosato
+tabilautida
+pimelautida
+valrocemida
+caldiamida
+versetamida
+tradecamida
+sinapultida
+ioduro de opratonio
+triclocarbán
+halocarbano
+lomustina
+semustina
+etinamato
+lidocaína
+oxifenamato
+niclosamida
+procainamida
+bromuro de demecario
+dimevamida
+fenacetina
+carbarilo
+fenacemida
+salicilamida
+ioduro de isopropamida
+feneturida
+estiramato
+clorbetamida
+cloruro de metalconio
+difenán
+bromuro de neostigmina
+cloruro de ambenonio
+oxetacaína
+oxanamida
+suramina sódica
+diprotrizoato sódico
+acetrizoato sódico
+dietiltoluamida
+trimetobenzamida
+dinitolmida
+benzmaleceno
+fenaclón
+bromamida
+hexapropimato
+metoclopramida
+iodamida
+crotamitón
+salacetamida
+beclamida
+ambucetamida
+benzamidosalicilato cálcico
+metocarbamol
+diampromida
+buclosamida
+diloxanida
+salfluverina
+adipiodona
+trimecaína
+fenprobamato
+prilocaína
+propetamida
+amidotrizoato sódico
+ameltolida
+flubanilato
+declopramida
+etenzamida
+cloruro de carcaínio
+clofexamida
+mefexamida
+ácido ioprocémico
+naftipramida
+ácido iotalámico
+oxiclozanida
+nonivamida
+enciprato
+ácido ioglicámico
+diacetamato
+afalanina
+aclomida
+ácido iobenzámico
+clinolamida
+carfimato
+clefamida
+tolicaína
+benzoato de denatonio
+butanilicaína
+bromoprida
+fenalamida
+endomida
+buramato
+benorilato
+flualamida
+aloclamida
+teclozán
+paxamato
+pentalamida
+docetrizoato de propilo
+cintramida
+ácido iosefámico
+anilamato
+clodacaína
+cartrizoato de etilo
+carbasalato cálcico
+ciclarbamato
+ácido clamidóxico
+salverina
+proglumida
+idrocilamida
+ciheptamida
+metrizoato sódico
+tiropanoato sódico
+enpromato
+ácido iocármico
+citenamida
+flutamida
+octacaína
+procimato
+cresotamida
+melinamida
+clioxanida
+decimemida
+cloponona
+etosalamida
+dicarfeno
+embutramida
+carbifeno
+ácido iotrizoico
+ácido iocetámico
+atolida
+diclometida
+quatacaína
+clocanfamida
+ftaxilida
+ácido ioxotrizoico
+ácido capobénico
+rafoxanida
+ácido iolixánico
+aspartamo
+lorbamato
+etofamida
+felbamato
+ácido iomeglámico
+bromuro de otilonio
+clofibrida
+halofenato
+ácido iotránico
+ácido fenáftico
+ácido ioxitalámico
+oxitriptilina
+moctamida
+colfenamato
+clanobutina
+parsalmida
+ácido iodoxámico
+ácido iozómico
+bunaftina
+acecainida
+diamfenetida
+etidocaína
+bentiromida
+ácido ioprónico
+ácido iosumético
+urefibrato
+dopamantina
+brosotamida
+bromoxanida
+tocainida
+bezafibrato
+midodrina
+saletamida
+ácido ioglícico
+tiaprida
+ácido iotróxico
+ácido iosérico
+exalamida
+tromantadina
+cloruro de dofamio
+brovanexina
+adamexina
+meglitinida
+tiropramida
+motretinida
+ioglunida
+sevopramida
+cinromida
+ácido ioxáglico
+lorzafona
+ácido iotétrico
+progabida
+etersalato
+ioglucomida
+cinflumida
+cloxaceprida
+avizafona
+fenretinida
+bromadolina
+oxazafona
+bifepramida
+eclanamina
+dinazafona
+iopromida
+indecainida
+dulozafona
+ciprazafona
+nepafenaco
+iosimida
+iotrisida
+iotrolán
+ácido broxitalámico
+arclofenina
+tamibaroteno
+ácido oxabrólico
+tomoglumida
+lorglumida
+casokefamida
+batanoprida
+ecabapida
+nateglinida
+loxiglumida
+ioxilán
+tacedinalina
+amiglumida
+dexloxiglumida
+itoprida
+candoxatrilo
+rivastigmina
+remacemida
+ralfinamida
+safinamida
+agomelatina
+lovirida
+retigabina
+axitiromo
+neboglamina ( nebostinel )
+lacosamida ( erlosamida )
+ácido salcaprócico
+frakefamida
+topilutamida
+ácido salclobúcico
+glutetimida
+talidomida
+fenimida
+bemegrida
+mesuximida
+etosuximida
+fensuximida
+aminoglutetimida
+fenglutarimida
+amfotalida
+noreximida
+mitindomida
+taglutimida
+ciproximida
+brosuximida
+tesimida
+mitonafida
+amonafida
+bisnafida
+elinafida
+clorhexidina
+betanidina
+arginina
+pentamidina
+fenacaína
+propamidina
+fenformina
+lauroguadina
+isetionato de estilbamidina
+mitoguazona
+hidroxiestilbamidina
+dibrompropamidina
+iopodato sódico
+renitolina
+amicarbalida
+guanoctina
+bunamidina
+hexamidina
+anfecloral
+tosilato de xilamidina
+creatinolfosfato
+guanoxifeno
+ferrotrenina
+targinina
+alexidina
+guanfacina
+gabexato
+meobentina
+guanclofina
+lidamidina
+napactadina
+benexato
+fengabina
+tolgabida
+gusperimús
+olanexidina
+delmitida
+isoaminilo
+mecrilato
+bucrilato
+guancidina
+etocrileno
+octocrileno
+enbucrilato
+ocrilato
+etaminilo
+galopamilo
+cloguanamilo
+flucrilato
+lodoxamida
+alozafona
+teriflunomida
+entacapona
+balazipona
+etoxazeno
+diminazeno
+ipsalazida
+balsalazida
+fenelzina
+feniprazina
+mebanazina
+deferoxamina
+fenicarbazida
+hidroxicarbamida
+ciacetacida
+benserazida
+difoxazida
+ácido acetohidroxámico
+brocresina
+procarbazina
+bufexamaco
+carbencida
+noxiptilina
+iproclozida
+bumadizona
+fenoxipropazina
+bolazina
+octamoxina
+guanocloro
+guanabenzo
+sintraceno
+alanosina
+guanoxabenzo
+foxima
+beloxamida
+naftazona
+ruvazona
+demexiptilina
+cetoxima
+robenidina
+anidoxima
+nafomina
+caproxamina
+fluvoxamina
+clovoxamina
+naprodoxima
+cloximato
+mariptilina
+estirocainida
+caracemida
+erocainida
+upenazima
+exametazima
+sardomocida
+istaroxima
+ciclamato sódico
+crufomato
+defosfamida
+amitriptilinóxido
+cansilato de amoxidramina
+benzaprinóxido
+flurofamida
+tolfamida
+clomifenóxido
+banoxantrona
+avasimiba
+disufentón sódico
+ditiocarbo sódico
+fencarbamida
+tolindato
+tolciclato
+metionina
+cisteína
+penicilamina
+acetilcisteína
+carbocisteína
+mecisteína
+prenisteína
+fudosteína
+dacisteína
+bencisteína
+bucilamina
+cistinexina
+salmisteína
+mercaptamina
+dimetil sulfóxido
+acedapsona
+dapsona
+fenticloro
+tioacetazona
+captamina
+aliltiourea
+subatizona
+acediasulfona sódica
+solasulfona
+aldesulfona sódica
+succimero
+antiolimina
+chaulmosulfona
+captodiamo
+tiambutosina
+ioduro de ecotiopato
+ambazona
+glucosulfona
+ditofal
+carbofenotión
+loflucarbán
+bitionolóxido
+tiocarlida
+metalibura
+etocarlida
+tolnaftato
+gloxazona
+fluoresona
+ioduro de oxisonio
+ioduro de hexasonio
+amidapsona
+bitoscanato
+danosteína
+diprofeno
+succisulfona
+timerfonato sódico
+diatimosulfona
+alocupreida sódica
+bitionolato sódico
+xentiorato
+ioduro de tiametonio
+tioctilato
+tibenzato
+tiacetarsamida sódica
+nitroscanato
+amifostina
+iosulamida
+brotianida
+amoscanato
+oxiglutationa
+osmadizona
+sulindaco
+tolmesóxido
+tiopropamina
+serfibrato
+tiafibrato
+mertiatida
+imcarbofós
+metkefamida
+docarpamina
+racecadotrilo
+ditiomustina
+ilmofosina
+suricainida
+ambamustina
+cloticasona
+etaroteno
+ácido tiludrónico
+bicalutamida
+fluticasona
+tosilato de suplatast
+betiatida
+sumaroteno
+dexecadotrilo
+ecadotrilo
+linaroteno
+tibegliseno
+orazipona
+canfosfamida
+cariporida
+rimeporida
+eflucimiba
+metrifonato
+ácido arsanílico
+nitarsona
+glicobiarsol
+roxarsona
+carbarsona
+butonato
+oxofenarsina
+diclorofenarsina
+neoarsfenamina
+mercuderamida
+sulfoxilato de fenarsona
+triparsamida
+sulfarsfenamina
+ácido medrónico
+ácido foscólico
+tolboxano
+ácido etidrónico
+difetarsona
+estibosamina
+borato fenilmercúrico
+ácido clodrónico
+ácido fosménico
+ácido oxidrónico
+fosenazida
+cloruro de toliodio
+ácido pamidrónico
+ácido esparfósico
+ácido butedrónico
+fosfonet sódico
+ácido lidadrónico
+ácido olpadrónico
+foscarnet sódico
+diciferrón
+ácido alendrónico
+disicuonio cloruro
+fosarilato
+ácido tauroselcólico
+mifobato
+ácido neridrónico
+fotemustina
+ácido ibandrónico
+ácido incadrónico
+zifrosilona
+nihidrazona
+nidroxizona
+ioduro de furtretonio
+nifuroxazida
+nifuraldezona
+zilofuramina
+ioduro de fubrogonio
+furidarona
+nifursemizona
+nifurmerona
+nifuretazona
+nifuroxima
+espiroxasona
+nifuratrona
+diclofurima
+ranitidina
+niperotidina
+venritidina
+furomina
+fenolftaleína
+espironolactona
+cumafós
+propiolactona
+dicumarol
+amolanona
+himecromona
+acenocumarol
+fenprocumon
+ácido elágico
+visnadina
+biscumacetato de etilo
+aceglatona
+carbocromeno
+diarbarona
+esculamina
+valofano
+hemisuccinato de benfurodil
+cumetarol
+xilocumarol
+glucurolactona
+clocumarol
+clofuraco
+talosalato
+acrihelina
+cloricromeno
+ivermectina
+lomevactona
+esuprona
+gamolenato de ascorbilo
+losigamona
+moxidectina
+disermolida
+fluoresceína lisicol
+selamectina
+ceribato de paclitaxel
+homarilamina
+promoxolano
+ioduro de oxapropanio
+estibamina glucósido
+mitopodozida
+glucosamina
+dioxamato
+glubionato cálcico
+didrovaltrato
+ácido diprogúlico
+olmidina
+acevaltrato
+fructosa férrica
+treloxinato
+metrizamida
+ciheptolano
+dexbudesonida
+tenanfetamina
+ponfibrato
+nibroxano
+bofumustina
+acarbosa
+ranimustina
+almurtida
+glucuronamida
+temurtida
+murabutida
+romurtida
+artesunato
+edifolona
+topiramato
+ecomustina
+galamustina
+fondaparinux sódico
+isalsteína
+dosmalfato
+aprosulato sódico
+idraparinux sódico
+bromuro de propantelina
+bromuro de metantelinio
+benciodarona
+metilcromona
+dinitrato de isosorbida
+efloxato
+sitoglúsido
+isosorbida
+dimeflina
+benzarona
+amiodarona
+benzbromarona
+amikelina
+butamoxano
+pentamoxano
+cromocarbo
+benzquercina
+flavamina
+etabenzarona
+mononitrato de isosorbida
+ácido cromoglícico
+etomoxano
+valtrato
+guabenxán
+ácido furacrínico
+trebenzomina
+oxetorona
+mecinarona
+ácido xanóxico
+silicristina
+ipriflavona
+terbucromilo
+ácido flavódico
+pirandamina
+tocofibrato
+nabilona
+isoxepaco
+oxepinaco
+furofenaco
+isocromilo
+furcloprofeno
+ambicromilo
+proxicromilo
+colforsina
+pentomona
+fluradolina
+espizofurona
+naboctato
+timefurona
+texacromilo
+bucromarona
+ansoxetina
+mitoflaxona
+tifuraco
+cromoglicato lisetil
+olopatadina
+artefleno
+propifenazona
+aminofenazona
+fenazona
+metamizol sódico
+ciclamato de aminofenazona
+dibupirona
+ramifenazona
+ioduro de butopiramonio
+famprofazona
+bisfenazona
+fenilbutazona
+sulfinpirazona
+betazol
+oxifenbutazona
+kebuzona
+mofebutazona
+praxadina
+metoquizina
+fomepizol
+tribuzona
+difenamizol
+feclobuzona
+suxibuzona
+feprazona
+trifezolaco
+proxifezona
+bufezolaco
+isofezolaco
+lonazolaco
+muzolimina
+clofezona
+dazoprida
+pirazolaco
+fezolamina
+ipazilida
+cizolirtina
+mefenitoína
+fenitoína
+clodantoina
+clazolimina
+espiromustina
+nilutamida
+fosfenitoína
+fentolamina
+angiotensinamida
+tolazolina
+tiamazol
+histidina
+tetrizolina
+antazolina
+metronidazol
+fenamazolina
+xilometazolina
+dimetridazol
+nafazolina
+ternidazol
+tefazolina
+tramazolina
+oximetazolina
+secnidazol
+tolonidina
+clonidina
+dacarbazina
+flunidazol
+fenoxazolina
+metomidato
+fosfocreatinina
+domazolina
+propoxato
+imidolina
+ronidazol
+misonidazol
+metazamida
+ipronidazol
+ornidazol
+nimazona
+clonazolina
+tinidazol
+mipimazol
+nitrefazol
+carbimazol
+etanidazol
+miconazol
+benznidazol
+clotrimazol
+glibutimina
+econazol
+isoconazol
+imidocarbo
+flutonidina
+estirimazol
+lofexidina
+bamnidazol
+etomidato
+alinidina
+metiamida
+salicilato de imidazol
+flumizol
+climbazol
+metrafazolina
+indanazolina
+azolimina
+fenmetozol
+carnidazol
+sulnidazol
+cimetidina
+zetidolina
+cibenzolina
+cloruro de fludazonio
+cloruro de sepazonio
+nizofenona
+impromidina
+valconazol
+benclonidina
+fexinidazol
+brimonidina
+cirazolina
+bifonazol
+lombazol
+sulconazol
+triletida
+tinazolina
+tiflamizol
+aliconazol
+bentemazol
+oxiconazol
+nafimidona
+butoconazol
+lofemizol
+romifidina
+apraclonidina
+orconazol
+etintidina
+democonazol
+zoficonazol
+fenticonazol
+enilconazol
+omoconazol
+propenidazol
+detomidina
+croconazol
+enoximona
+bisantreno
+sopromidina
+levlofexidina
+dexlofexidina
+mifentidina
+flutomidato
+indanidina
+medetomidina
+octimibato
+abunidazol
+napamezol
+idralfidina
+bisfentidina
+efetozol
+atipamezol
+cilutazolina
+lintoprida
+brolaconazol
+isaglidol
+giracodazol
+dexmedetomidina
+irtemazol
+ácido zoledrónico
+flutrimazol
+deriglidol
+eberconazol
+acetato de prezatida de cobre
+neticonazol
+nemazolina
+exenatida
+liarozol
+doranidazol
+fipamezol
+semparatida
+enfuvirtida
+carafibán
+tiplimotida
+fadolmidina ( radolmidina )
+lusupultida
+dapiclermina
+mecasermina rinfabato
+petidina
+trimeperidina
+fenciclidina
+metilfenidato
+anileridina
+piritramida
+pentazocina
+dipipanona
+ketobemidona
+fenoperidina
+difenoxilato
+bezitramida
+bromuro de piridostigmina
+crobenetina
+nialamida
+benzpiperilona
+metirapona
+bromuro de trimedoxima
+niquetamida
+cloropiramina
+metilsulfato de difemanilo
+bromuro de mepenzolato
+fenpipramida
+alfaprodina
+cicrimina
+pempidina
+piperidolato
+feniramina
+bromfeniramina
+piridocaína
+tripelenamina
+mepiramina
+verazida
+ioduro de pralidoxima
+fenazopiridina
+tolpronina
+eucatropina
+cloruro de obidoxima
+metiridina
+azaciclonol
+dipiproverina
+cloruro de cetilpiridinio
+bromuro de pipenzolato
+bromuro de fenpiverinio
+fenazocina
+ciproheptadina
+fenampromida
+dexbromfeniramina
+clorfenamina
+piperocaína
+ciclometicaína
+trihexifenidilo
+espirgetina
+difenilpiralina
+ftivazida
+diodona
+espirileno
+ioduro de dicolinio
+betameprodina
+alfameprodina
+hidroxipetidina
+betaprodina
+doxilamina
+feneridina
+etoxeridina
+bietamiverina
+triprolidina
+carbinoxamina
+espiramida
+pimeclona
+etionamida
+oxofeneridina
+nicotiazona
+norpipanona
+properidina
+dihexiverina
+pimetremida
+diclonina
+bromuro de benzopirinio
+propiliodona
+bisacodilo
+tolperisona
+espiperona
+aceperona
+aceclidina
+guayapato
+moperona
+hepzidina
+primaperona
+guanaclina
+tropicamida
+gapicomina
+amiperona
+metazida
+pirinolina
+fluspirileno
+piricarbato
+pipamperona
+pimozida
+nifenazona
+benproperina
+bupivacaína
+ácido oxiniácico
+piperilona
+cloruro de miripirio
+opiniazida
+roxoperona
+modalina
+nicametato
+ioduro de dimecolonio
+bromuro de clidinio
+fenpiprano
+ioduro de piprocurario
+pimetina
+indopina
+ciclazocina
+melperona
+hexadilina
+propipocaína
+bencetidina
+dipiritiona
+cloperastina
+picolamina
+metazocina
+disopiramida
+propiperona
+ioduro de estilbazio
+propinetidina
+azatadina
+oxiclipina
+ácido niflúmico
+ácido nixílico
+pipetanato
+camfotamida
+bamipina
+perastina
+leptaclina
+metilsulfato de bevonio
+oxiperomida
+rotoxamina
+iopidol
+iopidona
+fospirato
+bromuro de parapenzolato
+dimetindeno
+betahistina
+trimetamida
+carpipramina
+sorbinicato
+cloruro de lapirio
+nicotinato de inositol
+perhexilina
+crotoniazida
+tartrato de hidroxipiridina
+pentapiperida
+metosulfato de trimetidinio
+paridocaína
+hepronicato
+carperidina
+metilsulfato de pentapiperio
+picosulfato sódico
+quifenadina
+nicoclonato
+aconiazida
+metaniazida
+bitipazona
+piritiona cincica
+piminodina
+panidazol
+nicoboxilo
+oxiramida
+protionamida
+meletimida
+cinpereno
+pitamina
+butoxilato
+clibucaína
+anazocina
+niprofazona
+bromuro de pancuronio
+rivaniclina
+droxipropina
+volazocina
+pifenato
+bromuro de distigmina
+bencindopirina
+benzoclidina
+picodralazina
+clonixino
+diclonixino
+pipoctanona
+carperona
+flazalona
+dorastina
+flupranona
+picoperina
+clonixerilo
+nifedipino
+dexetimida
+ipragratina
+lifibrato
+nepinalona
+niludipino
+bupicomida
+mepivacaína
+piridoxilato
+dexivacaína
+levofacetoperano
+benrixato
+lenperona
+alilprodina
+dexclorfeniramina
+diamocaína
+bromuro de dacuronio
+pinolcaína
+bromuro de droclidinio
+nicotredol
+deferiprona
+troxipida
+metilsulfato de fenclexonio
+pifoxima
+prodipino
+etofibrato
+quinupramina
+ticarbodina
+nicofibrato
+broperamol
+dropempina
+ioduro de truxipicurio
+bromuro de pirdonio
+picofosfato sódico
+ketazocina
+nictindol
+ácido tíbrico
+dilmefona
+encainida
+pituxato
+micinicato
+nitrendipino
+dexmetilfenidato
+ronifibrato
+cicliramina
+clocapramina
+difenoximida
+piroctona
+terfenadina
+bromuro de vecuronio
+picobencida
+mindoperona
+fluperamida
+loperamida
+clopimozida
+ciclonicato
+fetoxilato
+gemazocina
+pitofenona
+flecainida
+fluspiperona
+pirifibrato
+pirinidazol
+butaverina
+butopiprina
+pipoxizina
+pribecaína
+fenperato
+cleboprida
+nicardipino
+zindotrina
+zimeldina
+flupirtina
+timoprazol
+picafibrato
+timiperona
+ibazocina
+cogazocina
+sequifenadina
+domperidona
+budipino
+moxazocina
+carfentanilo
+lorcainida
+milenperona
+halopemida
+femoxetina
+nomelidina
+propiverina
+eniclobrato
+cloroperona
+mesudipino
+declenperona
+nisoldipino
+indalpina
+picotrina
+bromuro de quinuclio
+eperisona
+caricotamida
+nimodipino
+ifoxetina
+enpirolina
+midaglizol
+cinitaprida
+aleprida
+enefexina
+disobutamida
+astemizol
+binifibrato
+fenoctimina
+pimonidazol
+carbazerán
+brocleprida
+octenidina
+quadazocina
+tonazocina
+riodipino
+bremazocina
+vadocaína
+tepirindol
+lamtidina
+omeprazol
+ufiprazol
+cloruro de ditercalinio
+milverina
+flumeridona
+nilvadipino
+ácido piridrónico
+tecastemizol
+lavoltidina
+tefenperato
+picoprazol
+roxatidina
+droxicainida
+cabastina
+icospiramida
+nicaravén
+levocabastina
+loratadina
+sufotidina
+panuramina
+nicogrelato
+emiglitato
+cisaprida
+modecainida
+pibaxizina
+fexofenadina
+ambasilida
+ropivacaína
+piroximona
+bromuro de ciclotropio
+felodipino
+trazoloprida
+aranidipino
+litoxetina
+ofornina
+acrivastina
+amlodipino
+transcainida
+liranaftato
+mosapramina
+mezacoprida
+zacoprida
+carebastina
+ebastina
+lodaxaprina
+endixaprina
+altapizona
+butinazocina
+prideperona
+rispenzepina
+nuvenzepina
+pentisomida
+palonidipino
+pantenicato
+carmoxirol
+anpirtolina
+disuprazol
+derpanicato
+pranidipino
+lercanidipino
+desloratadina
+idaverina
+ocfentanilo
+pantoprazol
+lansoprazol
+lazabemida
+lacidipino
+pibutidina
+pirtenidina
+barnidipino
+ácido risedrónico
+benidipino
+sertindol
+arpromidina
+gapromidina
+óxido de loperamida
+gevotrolina
+carvotrolina
+teludipino
+roxindol
+renzaprida
+niguldipino
+tenatoprazol
+sampirtina
+olradipino
+bidisomida
+rabeprazol
+esomeprazol
+nerispirdina
+besipirdina
+bencetimida
+icaridina
+dexniguldipino
+alvamelina
+dalcotidina
+pancoprida
+itamelina
+rogletimida
+sibopirdina
+azelnidipino
+bepotastina
+lemildipino
+cilnidipino
+vamicamida
+espatropato
+repaglinida
+espiroglumida
+dexlansoprazol
+levolansoprazol
+ferpifosato sódico
+milamelina
+silperisona
+milacainida
+sameridina
+lirexaprida
+talsaclidina
+trovirdina
+revatropato
+ecalcideno
+nicanartina
+lanicemina
+alinastina
+besilato de nolpitantio
+bromuro de rapacuronio
+perifosina
+rupatadina
+linetastina
+sabcomelina
+ipravacaína
+clevidipino
+brasofensina
+ilaprazol
+capravirina
+dersalacina
+tesofensina
+tebaniclina
+pipendoxifeno
+itriglumida
+bilastina
+ticaloprida
+etexilato de dabigatrán
+bamirastina
+vareniclina
+isproniclina
+levorfanol
+cincocaína
+cincofeno
+neocincofeno
+oxicincofeno
+proquinolato
+buquinolato
+nequinato
+anquinato
+ciproquinato
+clinafloxacino
+dextrometorfano
+cloroquina
+clorquinaldol
+diiodohidroxiquinoleína
+amodiaquina
+benzoxiquina
+pentaquina
+quinisocaína
+primaquina
+hidroxicloroquina
+levometorfano
+dextrorfano
+cloxiquina
+acetato de laurolinio
+dimoxilina
+levalorfano
+guanisoquina
+racemorfano
+fenomorfano
+etaverina
+racemetorfano
+broxiquinolina
+cloruro de decualinio
+quinocida
+cloruro de pirvinio
+octaverina
+amopiroquina
+papaverolina
+pamaquina
+debrisoquina
+norlevorfanol
+tosilato de tretinio
+quintiofós
+metofolina
+niceverina
+clamoxiquina
+azul de quinaldina
+metilsulfato de laudexio
+broxaldina
+aminoquinurida
+glafenina
+nitroxolina
+cletoquina
+cloruro de hedaquinio
+quinetalato
+cloquinato
+levofenacilmorfano
+leniquinsina
+moxaverina
+cuproxolina
+amiquinsina
+quinprenalina
+drotaverina
+carbazocina
+memotina
+famotina
+decoquinato
+quindecamina
+oxamniquina
+floctafenina
+mebiquina
+nomifensina
+esproquina
+tisocuona
+butorfanol
+acequinolina
+mefloquina
+tiquinamida
+cicarperona
+clofeverina
+climicualina
+iquindamina
+isotiquimida
+sitamaquina
+nicafenina
+besilato de atracurio
+diclofensina
+vicualina
+ivocualina
+tebuquina
+flosequinán
+dizocilpina
+pipecualina
+veradolina
+florifenina
+abanoquilo
+itrocainida
+besilato de cisatracurio
+tafenoquina
+cloruro de doxacurio
+cloruro de mivacurio
+terbequinilo
+quiflapón
+quilostigmina
+cloruro de gantacurio
+zoniporida
+fenobarbital
+fenobarbital sódico
+barbital sódico
+ciclobarbital
+metilfenobarbital
+probarbital sódico
+fetarbital
+bucolomo
+carbubarbo
+pracitona
+barbexaclona
+febarbamato
+difebarbamato
+metacualona
+meclocualona
+dimpilato
+mercaptopurina
+pirimetamina
+dipiridamol
+metotrexato
+ácido orótico
+uramustina
+hidroxizina
+tiopental sódico
+ciclizina
+clorciclizina
+buclizina
+dietilcarbamazina
+toncilamina
+metilsulfato de hexociclo
+oxifenciclimina
+hexetidina
+oxipertina
+tioguanina
+simetrida
+clocinizina
+cinarizina
+piperamida
+bentiamina
+acetiamina
+alopurinol
+triamtereno
+azatioprina
+butalital sódico
+clorbenzoxamina
+amisometradina
+bromuro de tonzonio
+meclozina
+aminometradina
+mefeclorazina
+fluanisona
+azaperona
+rolodina
+piricualona
+perlapina
+flucitosina
+bisbentiamina
+azabuperona
+sulbutiamina
+lidoflazina
+ropizina
+decloxizina
+zolertina
+quazodina
+cloperidona
+isaxonina
+quipazina
+trimetazidina
+nafiverina
+pirimitato
+azaquinzol
+tisopurina
+diaveridina
+difluanazina
+tiamiprina
+ampiramina
+nonapirimina
+picloxidina
+triclofenol piperazina
+clozapina
+iodotiouracilo
+dimetolizina
+iminofenimida
+febuverina
+etacualona
+eprazinona
+edetato de piperazina y calcio
+bromuro de piritidio
+teroxaleno
+quinazosina
+bentipimina
+dropropizina
+etodroxicina
+epirizol
+ácido piromídico
+trazodona
+mepiprazol
+tolpiprazol
+razoxano
+piquizilo
+hoquizilo
+benfotiamina
+procuazona
+cloruro de prospidio
+moxipraquina
+cinepazida
+cinpropazida
+milipertina
+dexrazoxano
+clorocualona
+trazitilina
+alpertina
+pipebuzona
+niaprazina
+metilsulfato de rimazolio
+pirenzepina
+enpiprazol
+ciprocuazona
+peraquinsina
+buspirona
+diprocualona
+amocarzina
+flucuazona
+pirolazamida
+piberalina
+fluprocuazona
+impacarzina
+biriperona
+tolimidona
+nimustina
+mezilamina
+ácido piriníxico
+bucainida
+cinprazol
+ácido pipemídico
+trimetrexato
+ketotrexato
+bromuro de pipecuronio
+belarizina
+flunarizina
+tioperidona
+etoperidona
+ciapiloma
+ácido cinepázico
+ciltoprazina
+fenaperona
+toprilidina
+metralindol
+fluciprazina
+pirolato
+prazicuantel
+antrafenina
+iprozilamina
+acaprazina
+piclopastina
+brindoxima
+halofuginona
+aflocualona
+mociprazina
+terciprazina
+nitracuazona
+bropirimina
+aminopterina sódica
+benderizina
+orazamida
+oxatomida
+nilprazol
+pirlindol
+clofibrato de cinarizina
+mirtazapina
+esmirtazapina
+azanidazol
+docualast
+esaprazol
+mobenzoxamina
+verofilina
+fluperlapina
+peradoxima
+vanoxerina
+anagrelida
+enciprazina
+buterizina
+ipexidina
+quazinona
+tolnapersina
+aptazapina
+losulazina
+perafensina
+dapiprazol
+moxonidina
+pirenperona
+amperozida
+rimcazol
+buquiterina
+nosantina
+rofelodina
+fluprazina
+quinezamida
+zolenzepina
+mioflazina
+rilapina
+trequinsina
+mafoprazina
+levofolinato cálcico
+edatrexato
+tefludazina
+metrenperona
+cinuperona
+flotrenizina
+trenizina
+nefazodona
+cetirizina
+gepirona
+desiclovir
+temelastina
+cloruro de dibrospidio
+tandospirona
+bemitradina
+tasuldina
+bemarinona
+lixazinona
+pelrinona
+elziverina
+batelapina
+ranolazina
+peraclopona
+irindalona
+actisomida
+quinelorano
+sobuzoxano
+levodropropizina
+norfloxacino succinilo
+acitemato
+lomerizina
+baquiloprima
+umespirona
+mizolastina
+lorpiprazol
+elbanizina
+zalospirona
+serazapina
+ruzadolano
+vatanidipino
+delfaprazina
+tagorizina
+lifarizina
+iganidipino
+manidipino
+draflazina
+trelnarizina
+carsatrina
+tamolarizina
+levocetirizina
+sipatrigina
+sifaprazina
+peldesina
+revizinona
+mazapertina
+atevirdina
+voriconazol
+mapinastina
+pralatrexato
+emivirina
+efletirizina
+cadrofloxacina
+belaperidona
+albaconazol
+forodesina
+dapivirina
+enecadina
+etravirina
+sabiporida
+rilpivirina
+metenamina
+tretamina
+sincloseno
+amanozina
+embonato de cicloguanil
+altretamina
+trocloseno potásico
+oxonazina
+meladrazina
+brometenamina
+espirazina
+almitrina
+irsogladina
+ciromazina
+metrazifona
+lamotrigina
+dizatrifona
+palatrigina
+clazurilo
+diclazurilo
+melarsomina
+eptapirona
+piritildiona
+ácido pidólico
+oxifenisatina
+primidona
+amfenidona
+etipicona
+metisazona
+felipirina
+flucarbrilo
+ceruletida
+fantridona
+omidolina
+etomidolina
+ácido iolidónico
+ubisindina
+teprotida
+dezaguanina
+zopiclona
+nofecainida
+pirfenidona
+cofisatina
+amrinona
+daniquidona
+cilostamida
+geclosporina
+milrinona
+seglitida
+vesnarinona
+piraxelato
+darenzepina
+zatebradina
+adosopina
+etazepina
+medorinona
+ropinirol
+saterinona
+nanterinona
+selprazina
+linopirdina
+olprinona
+cilobradina
+rebamipida
+crilvastatina
+aripiprazol
+pagoclona
+oxeclosporina
+pidobenzona
+eszopiclona
+lapisterida
+toborinona
+lirequinilo
+bexlosterida
+ivabradina
+depreotida
+ecetimiba
+cilengitida
+lenalidomida
+clordiazepóxido
+pirovalerona
+loflazepato de etilo
+fenindamina
+prazepina
+etoheptazina
+carbamazepina
+depramina
+metoheptazina
+metetoheptazina
+trimipramina
+ketimipramina
+elantrina
+prozapina
+elanzepina
+imipraminóxido
+metioduro de buzepida
+metapramina
+lofepramina
+mezepina
+oxcarbazepina
+licarbacepina
+ciclopramina
+enprazepina
+azipramina
+azelastina
+amezepina
+setastina
+cianopramina
+nelezaprina
+eptazocina
+epinastina
+tiracizina
+pincainida
+erizepina
+eslicarbacepina
+flezelastina
+conivaptán
+homoclorciclizina
+nitrazepato potásico
+propizepina
+dirazepato de etilo
+azepindol
+ioduro de tibezonio
+clorazepato dipotásico
+carfluzepato de etilo
+tampramina
+emedastina
+siltenzepina
+devazepida
+nevirapina
+tivirapina
+tarazepida
+pranazepida
+desipramina
+imipramina
+tartrato de pentolonio
+guanetidina
+tetrabenazina
+benzoquinamida
+triazicuona
+cloruro de clorisondamina
+carbazocromo
+proheptazina
+prociclidina
+mepacrina
+fanquinona
+hidralazina
+aminoacridina
+proflavina
+pirazinamida
+bromuro de quindonio
+prolina
+medazomida
+clomipramina
+bucricaína
+tacrina
+benhepazona
+ácido nalidíxico
+inprocuona
+etacridina
+clemizol
+dihidralazina
+ácido kaínico
+histapirrodina
+prolintano
+midamalina
+metilsulfato de poldina
+bromuro de oxipirronio
+bromuro de glicopirronio
+bencidamina
+etonitazeno
+butinolina
+ioduro de trepirio
+bromuro de bencilonio
+zolimidina
+bromuro de homidio
+azintamida
+nafoxidina
+clofazimina
+cinopentazona
+roliciclidina
+pirrocaína
+etriptamina
+quindoxina
+drometrizol
+amilorida
+roliciprina
+octrizol
+mimbrano
+ioduro de etipirio
+acetriptina
+tosilato de troxipirrolio
+hidracarbazina
+clormidazol
+bromuro de hexopirronio
+prodilidina
+cloruro de triciclamol
+clonitaceno
+bumetrizol
+nitracrina
+bromuro de prifinio
+clodazón
+monometacrina
+dimetacrina
+botiacrina
+indoxol
+ampizina
+cloquinozina
+clomacrán
+pridefina
+fenamol
+iprindol
+leiopirrol
+hexedina
+tolquinzol
+lobendazol
+triampizina
+cetohexazina
+hidroxindasato
+piroxamina
+pirofendano
+triclazato
+iprazocromo
+acrisorcina
+roletamida
+boxidina
+nitromifeno
+azapropazona
+bromuro de benzopirronio
+parbendazol
+trocimina
+todralazina
+ácido anfonélico
+fenharmano
+quilifolina
+mecarbinato
+bromuro de ciclopirronio
+clemastina
+pirrolifeno
+metindizato
+intrazol
+nonaperona
+talastina
+piroheptina
+bendamustina
+bromuro de pirralconio
+taloximina
+oxdralazina
+tetridamina
+dicarbina
+aptocaína
+bendazaco
+oxibendazol
+diftalona
+tretacicar
+procodazol
+amicibona
+caroverina
+carbocuona
+amixetrina
+sincalida
+clometacina
+melizamo
+clenpirina
+tirapazamina
+mixidina
+cuprimixina
+cinoctramida
+ioduro de estercuronio
+bumecaína
+metilsulfato de amezinio
+amindocato
+indocato
+flubendazol
+mebendazol
+ciclobendazol
+bisbendazol
+ciclindol
+zomepiraco
+taclamina
+cloruro de isometamidio
+cartazolato
+benafentrina
+ciprafamida
+oxarbazol
+trizoxima
+burodilina
+budralazina
+carmantadina
+oglufanida
+rodocaína
+endralazina
+estrinolina
+tofetridina
+flucindol
+bromuro de nolinio
+tracazolato
+denpidazona
+clopiraco
+flumequina
+fenbendazol
+closiramina
+bromuro de fazadinio
+lonidamina
+xinidamina
+tolnidamina
+etazolato
+bromuro de dimetipirio
+carbazocromo sulfonato sódico
+lotucaína
+glucametacina
+sultoprida
+carprofeno
+oxfendazol
+bromuro de ritropirronio
+metilsulfato de roxolonio
+floxacrina
+óxido de albendazol
+biclofibrato
+camiverina
+etoprindol
+fepromida
+fexicaína
+metanfazona
+ioduro de candocuronio
+pinafida
+albendazol
+nebidrazina
+isamfazona
+isoprazona
+oxagrelato
+setiptilina
+diazicuona
+guanazodina
+alizaprida
+octastina
+binedalina
+pareptida
+benolizima
+pentigetida
+butoprozina
+emideltida
+piroglirida
+ipidacrina
+trioxifeno
+dribendazol
+pildralazina
+cadralazina
+irolaprida
+pazeliptina
+epicainida
+rolgamidina
+anirolaco
+triclabendazol
+etaceprida
+losindol
+amipizona
+vinconato
+flutrolina
+bicifadina
+amisulprida
+sulmazol
+indorenato
+ketorolaco
+dazidamina
+tomoxiprol
+fluzinamida
+prinomida
+piquindona
+acodazol
+rilozarona
+remoxiprida
+enviradeno
+eproxindina
+racloprida
+eticloprida
+temozolomida
+mitozolomida
+quinpirol
+zindoxifeno
+isomazol
+fluconazol
+aganodina
+bamaluzol
+quinagolida
+amtolmetina guacilo
+tazadoleno
+pilsicainida
+losoxantrona
+brinazarona
+doreptida
+luxabendazol
+dezinamida
+piroxantrona
+teloxantrona
+mitoquidona
+alteconazol
+nemonaprida
+perindoprilato
+domipizona
+esilato de trazio
+troxolamida
+oxamisol
+inaperisona
+siguazodán
+rilmazafona
+eptastigmina
+zardaverina
+fadrozol
+bisoctrizol
+leminoprazol
+trapencaína
+suronacrina
+liroldina
+rufinamida
+stannsoporfina
+timoctonán
+cloruro de famiraprinio
+gedocarnilo
+suritozol
+abecarnilo
+letrozol
+velnacrina
+fantofarona
+fosquidona
+apazicuona
+talimustina
+idoxifeno
+lanperisona
+loreclezol
+goralatida
+anastrozol
+intoplicina
+ácido minodrónico
+vorozol
+niravolina
+candesartán
+pixantrona
+mitiglinida
+asimadolina
+omocianina
+nortopixantrona
+topixantrona
+nepaprazol
+licofelona
+lagatida
+pumaprazol
+finrozol
+talviralina
+icrocaptida
+nemifitida
+eniporida
+implitapida
+opaviralina
+altiniclina
+sumanirol
+lasofoxifeno
+pactimiba
+capromorelina
+fosfluconazol
+bacedoxifeno
+brostalicina
+pumafentrina
+tifuvirtida
+pasireotida
+edratida
+dirlotapida
+niridazol
+aminotiazol
+aminitrozol
+tiabendazol
+timonácico
+tiazosulfona
+amifenazol
+forminitrazol
+clometiazol
+zolamina
+nifurtiazol
+tenonitrozol
+cloprotiazol
+beclotiamina
+fezationa
+ácido fenclózico
+fentiazaco
+ioduro de bidimazio
+ioduro de pretamazio
+antazonita
+cambendazol
+libecilida
+peratizol
+tidiácico
+ácido tizoprólico
+letosteína
+tebatizol
+nifuralida
+nitazoxanida
+ozolinona
+tiazofurina
+timofibrato
+tiotidina
+timegadina
+lotifazol
+ciglitazona
+famotidina
+nizatidina
+dexetozolina
+fanetizol
+amflutizol
+nesosteína
+zaltidina
+tuvatidina
+ralitolina
+troglitazona
+timirdina
+guaisteína
+alonácico
+englitazona
+pioglitazona
+moguisteína
+rosiglitazona
+telmesteína
+mivotilato
+tazofelona
+icodulina
+darbufelona
+darglitazona
+cartasteína
+aseripida
+netoglitazona
+ravuconazol
+acotiamida
+rivoglitazona
+balaglitazona
+edaglitazona
+cloruro de alagebrio
+dimazol
+ioduro de ditiazanina
+riluzol
+haletazol
+frentizol
+tiaramida
+supidimida
+tioxidazol
+etrabamina
+tazasubrato
+ipsapirona
+revospirona
+evandamina
+sabeluzol
+pramipexol
+lubeluzol
+ziprasidona
+perospirona
+izonsterida
+lurasidona
+tioridazina
+tietilperazina
+clorpromazina
+metilsulfato de tiazinamio
+aminopromazina
+proclorperazina
+perfenazina
+promazina
+prometazina
+pecazina
+dietazina
+levomepromazina
+acepromazina
+metopromazina
+cloruro de metiltioninio
+flufenazina
+clorproetazina
+pipamazina
+tiopropazato
+paratiazina
+alimemazina
+fenotiazina
+trifluoperazina
+bromuro de propiromazina
+triflupromazina
+propiomazina
+metofenazato
+dimetoxanato
+dacemazina
+profenamina
+fenetazina
+etimemazina
+butaperazina
+cloracizina
+levometiomeprazina
+metodilazina
+periciazina
+carfenazina
+trifluomeprazina
+acetofenazina
+ciamemazina
+oxomemazina
+piperacetazina
+homofenazina
+mesoridazina
+metiomeprazina
+imiclopazina
+perimetazina
+aceprometazina
+ácido protizinico
+ácido metiazínico
+metopimazina
+oxiridazina
+sulforidazina
+dimelazina
+oxaflumazina
+ciclofenazina
+sopitazina
+espiclomazina
+furomazina
+mequitazina
+fluacizina
+moracizina
+ftormetazina
+ftorpropazina
+fenoverina
+flupimazina
+azaclorzina
+azaftozina
+duoperona
+ioduro de mequitamio
+apadolina
+fenmetrazina
+dextromoramida
+fendimetrazina
+pemolina
+mesocarbo
+tenalidina
+clorprotixeno
+furazolidona
+erbulozol
+ganstigmina
+ciclofosfamida
+floxuridina
+medibazina
+nadida
+idoxuridina
+inosina
+broxuridina
+isocarboxazida
+fosfato de adenosina
+zoxazolamina
+cansilato de trimetafán
+trifluridina
+mefenoxalona
+ticlatona
+cloruro de pentacinio
+clormezanona
+dietiltiambuteno
+tenildiamina
+metapirileno
+clorzoxazona
+fenitilona
+parametadiona
+trimetadiona
+clortenoxazina
+furaltadona
+pramocaína
+ioduro de tiemonio
+citarabina
+cloropirileno
+pimetixeno
+imolamina
+azacitidina
+levcicloserina
+sulbentina
+bucladesina
+diazóxido
+etilmetiltiambuteno
+fenadoxona
+butirato de dioxafetilo
+morferidina
+cinofuradiona
+lucantona
+metafenileno
+clordimorina
+dimetiltiambuteno
+alometadiona
+racemoramida
+nifuradeno
+furalazina
+ibacitabina
+cifostodina
+trimetozina
+tozalinona
+dimetadiona
+dietadiona
+metastiridona
+acoxatrina
+fursultiamina
+tenilidona
+morinamida
+oxolamina
+clopentixol
+citicolina
+fenadiazol
+pirenoxina
+espiroxatrina
+citiolona
+ácido bensuldázico
+damotepina
+nifurprazina
+metaxalona
+desmetilmoramida
+clotioxona
+nifurvidina
+loxapina
+clotiapina
+pipazetato
+azaribina
+tiofuradeno
+decitabina
+furetidina
+protixeno
+acadesina
+estavudina
+estibocaptato sódico
+doxifluridina
+hicantona
+nifurfolina
+telbivudina
+promolato
+moroxidina
+ifosfamida
+morsuximida
+levofuraltadona
+bromuro de trantelinio
+clotixamida
+cladribina
+closilato de tenio
+fenbutrazato
+nicofurato
+solipertina
+metixeno
+tioxolona
+antienita
+tetramisol
+fenspirida
+cloruro de furazolio
+tipepidina
+vidarabina
+diclormezanona
+cloruro de sanguinario
+bromclorenona
+molinazona
+fenmetramida
+difencloxazina
+levomoramida
+proxazol
+epipropidina
+metiapina
+furmetoxadona
+nitramisol
+nimorazol
+morazona
+ioduro de oxapio
+piridarona
+flumetramida
+metilbromuro de tihexinol
+bromuro de heteronio
+dantroleno
+xilazina
+molindona
+zalcitabina
+tipindol
+mitotenamina
+etisazol
+riboprina
+furtereno
+acefurtiamina
+bepiastina
+melarsonilo potásico
+ácido iobutoico
+clorotepina
+amoxapina
+tiletamina
+ciclazodona
+tritocualina
+ácido oxolínico
+levamisol
+dexamisol
+clodanoleno
+edoxudina
+nifurimida
+antafenita
+ciclexanona
+flavoxato
+fenozolona
+cloxipendilo
+becantona
+mobecarbo
+oxadimedina
+clantifeno
+etasulina
+nonabina
+ademetionina
+metizolina
+etofuradina
+fomocaína
+moxicumona
+bromuro de oxitefonio
+vanitiolida
+caroxazona
+ditazol
+nifurmazol
+taurolidina
+moquizona
+metitepina
+brofoxina
+tenociclidina
+citenazona
+fludarabina
+etifoxina
+fenpipalona
+trofosfamida
+butalamina
+feprosidnina
+fopirtolina
+fedrilato
+articaína
+tinoridina
+nifurpipona
+pipofezina
+oxazorona
+alovudina
+terizidona
+molsidomina
+minaprina
+bromuro de dotefonio
+nifurizona
+paraxazona
+letimida
+zotepina
+oxaflozano
+pifexol
+tropatepina
+oxaziziona
+zepastina
+naftoxato
+seclazona
+meseclazona
+toloxatona
+mofoxima
+zidovudina
+tiamenidina
+nocodazol
+ancitabina
+morclofona
+ácido tiaprofénico
+clidafidina
+acesulfamo
+linsidomina
+fipexida
+profexalona
+cloruro de azaspirio
+bromuro de timepidio
+tisocromida
+tritiozina
+morocromeno
+maitansina
+triciribina
+azepexol
+nuclotixeno
+ácido prodólico
+fotretamina
+cumazolina
+sufosfamida
+tienopramina
+cloruro de tiodonio
+romifenona
+pinadolina
+emorfazona
+inicarona
+olpimedona
+aclantato
+tifemoxona
+nifurzida
+torcitabina
+ácido tienílico
+etodolaco
+befuralina
+tocladesina
+metioxato
+tilozepina
+tandamina
+viloxazina
+trixolano
+prenoxdiazina
+nimidano
+mizoribina
+cliprofeno
+tizanidina
+tianafaco
+ácido iomorínico
+moxnidazol
+xinomilina
+zoloperona
+fluzoperina
+bromuro de pinaverio
+cromitrilo
+zuclopentixol
+suriclona
+mofloverina
+rilmenidina
+quincarbato
+subendazol
+bromuro de tipetropio
+butamisol
+ticlopidina
+pentizidona
+ciclafrina
+enocitabina
+furodazol
+pifarnina
+octazamida
+isamoxol
+peraloprida
+nifuroquina
+nufenoxol
+ácido clavulánico
+protiofato
+tilomisol
