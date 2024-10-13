@@ -6,7 +6,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -20,7 +19,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -34,7 +32,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 Peras nashi Pyrus pyrifolia
 Peras Pyrus bretscheri
@@ -3228,9 +3225,7 @@ Presidente
 TRADUCCIÓN
 Unión Europea República Moldavia crea marco participación República Moldavia operaciones gestión crisis Unión Europea
 UNIÓN EUROPEA UE
-
 REPÚBLICA MOLDAVIA
-
 sucesivo denominadas Partes
 Unión Europea decidir actuar ámbito gestión crisis inclusive operaciones mantenimiento paz operaciones humanitarias
 Unión Europea decidirá invita participar terceros operación gestión crisis UE
@@ -3605,7 +3600,6 @@ Acero
 Análisis químico materia prima
 Comprobación siguientes características mecánicas Rp Rm pertinentes materiales
 porcentaje elongación fractura elongación permanente longitud referencia fractura Lu expresada porcentaje longitud original
-
 longitud referencia longitud referencia rotura probeta
 resistencia prueba extensión proporcional Rp tensión extensión proporcional porcentaje longitud referencia extensómetro símbolo utilizado seguido sufijo indica porcentaje prescrito longitud referencia extensómetro ejemplo Rp
 resistencia tracción Rm tensión correspondiente fuerza máxima Fm
@@ -3650,8 +3644,6 @@ Ciclos nominales minuto
 número ciclos minuto máximo frecuencia resonancia equipo ensayo
 Aluminio Magnesio
 Categoría vehículos
-
-
 Número mínimo ciclos Mbmax
 Número mínimo ciclos Mbmax
 Límites aceptación
@@ -3706,8 +3698,6 @@ Distancia equivalente rodadura
 Presión neumático comienzo ensayo comprobada controlada ensayo
 normal
 presión ensayo rodadura
-
-
 Límites aceptación
 aceptan fisuras técnicas fugas aire
 Disminución admisible par apriete aplicado inicialmente espárragos tuercas fijación rueda
@@ -3728,7 +3718,6 @@ valor masa impacto kg
 capacidad máxima carga rueda
 aceleración debida gravedad
 PROCEDIMIENTO REQUISITOS ENSAYO
-
 Procedimiento requisitos
 anexo apéndice
 Presión neumático
@@ -3800,7 +3789,6 @@ ensayo simula par actúa rueda frenar acelerar
 ruedas muestra someterán ensayo valor porcentual par máximo calculado
 pestaña fija rígidamente mesa ensayo somete tensión par alternante MT aplicado cara fijación freno disco componentes
 FÓRMULA CALCULAR PAR ENSAYO
-
 par ensayo Nm
 radio dinámico
 ensayos realizan base siguientes parámetros
@@ -3878,7 +3866,6 @@ proporcionan componentes fijación rueda precisarán información exigida punto 
 Salientes
 rueda homologada montada vehículo accesorios deberá crear peligro
 Deberán cumplirse requisitos Reglamento CEPER
-
 informe ensayo deberá contener detalles resultados ensayos realizados
 Asimismo deberá confirmar rueda sometida ensayo cumple requisitos
 Figura Contorno interno rueda ejemplos líneas
@@ -4201,7 +4188,6 @@ DO
 DO
 ANEXO
 ANEXO II CARNE FRESCA
-
 Lista terceros países partes terceros países
 País
 Código territorio
@@ -4254,7 +4240,6 @@ NC Caledonia
 NZ Zelanda
 PA Panamá
 Zonas Chaco Central San Pedro
-
 RO Rumania
 RU Rusia
 Región Murmansk Murmanskaya oblast
@@ -4273,7 +4258,6 @@ zona lucha fiebre aftosa situada regiones veterinarias provincias Mpumalanga pro
 distrito Camperdown provincia KwazuluNatal
 ZW Zimbabue
 Condiciones específicas contempladas columna
-
 Restricciones geográficas calendario
 Período tiempo fechas autorizada importación Comunidad relación fechas sacrificio matanza animales procede carne
 Modelo
@@ -4284,7 +4268,6 @@ Autorizada
 marzo incluido
 marzo incluido
 marzo incluido
-
 marzo incluido
 febrero incluido
 marzo incluido
@@ -4312,7 +4295,6 @@ agosto incluido
 agosto incluido
 octubre incluido
 noviembre incluido
-
 Restricciones categoría
 autorizan despojos diafragma músculos maseteros bovino
 perjuicio requisitos certificación específicos previstos acuerdos comunitarios terceros países
@@ -4507,8 +4489,6 @@ Miembro Comisión
 Corrección errores Decisión Ejecución UE Comisión enero autorizan métodos clasificación canales cerdo Italia
 Diario Oficial Unión Europea enero
 página anexo punto letra
-
-
 página anexo II punto letra
 Corrección errores Reglamento Ejecución UE Consejo diciembre aplica Reglamento UE relativo medidas restrictivas Irán
 Diario Oficial Unión Europea diciembre
@@ -4588,7 +4568,6 @@ Naranjas
 Limones
 Limas
 Mandarinas
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -4926,7 +4905,6 @@ DECLARA PRESENTE
 adhiere Convenio
 Adjunta presente Instrumento traducción Convenio lengua oficial Turquía
 Acepta recomendaciones decisiones Comisión Mixta UEAELC simplificación formalidades intercambios mercancías adoptadas enero fecha efectiva adhesión Turquía conformidad artículo bis Convenio
-
 Reglamento Ejecución UE Comisión
 agosto
 reconoce término tradicional arreglo Reglamento CE Consejo CreamTDTUSN

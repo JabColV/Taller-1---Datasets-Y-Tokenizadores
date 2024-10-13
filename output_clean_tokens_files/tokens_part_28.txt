@@ -717,9 +717,7 @@ CIPAC
 Nbenciladenina
 junio
 mayo
-
 autorizar usos regulador crecimiento vegetal
-
 aplicación principios uniformes anexo VI conclusiones informe revisión benciladenina particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal noviembre
 evaluación global miembros atenderán especialmente protección organismos acuáticos
 tomarán medidas reducción riesgo pertinente ejemplo zonas tampón
@@ -1410,7 +1408,6 @@ Queda autorizado método clasificación canales cerdo método evaluación conten
 suprime artículo bis
 anexo modifica
 sustituye título texto
-
 Ultrasonic Scanner GE Logiq pro
 sustituye texto apartado texto
 aparato denominado Ultrasonic Scanner GE Logiq pro ecógrafo bidimensional tratamiento digital imagen
@@ -1505,7 +1502,6 @@ Directiva CEE Consejo marzo dirigida facilitar ejercicio efectivo libre prestaci
 Directiva CE Parlamento Europeo Consejo febrero destinada facilitar ejercicio permanente profesión abogado miembro distinto obtenido título DO
 Directiva CE Parlamento Europeo Consejo septiembre relativa reconocimiento cualificaciones profesionales DO
 ANEXO
-
 RECONOCIMIENTO MUTUO CUALIFICACIONES PROFESIONALES
 Directiva CE modifica
 artículo apartado párrafo inserta punto
@@ -1596,13 +1592,11 @@ Diploma inženjer expedido laTehnički fakultet Sveučilišta Zagrebu estudios t
 Diploma inženjer arhitekture expedido Arhitektonski fakultet Sveučilišta Zagrebu
 títulos deberán acompañados certificado pertenencia Colegio Arquitectos Croacia Hrvatska komora arhitekata expedido Colegio Arquitectos Croacia Zagreb
 Tercer año académico adhesión
-
 PROFESIONES JURÍDICAS
 artículo apartado Directiva CEE añade texto
 Croacia Odvjetnik Odvjetnica
 artículo apartado letra Directiva CE inserta texto entrada relativa Francia
 Croacia Odvjetnik Odvjetnica
-
 COMERCIO DISTRIBUCIÓN PRODUCTOS TÓXICOS
 anexo Directiva CEE añade guion
 Croacia
@@ -2048,7 +2042,6 @@ Dirección silo
 Motivo rechazo
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO III
 Indicación contemplada artículo
 danés Blød hvede fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -2421,7 +2414,6 @@ Decisión modificada lugar Decisión CE Comisión DO
 ANEXO
 ANEXO
 ANIMALES VIVOS
-
 LISTA TERCEROS PAÍSES PARTES TERCEROS PAÍSES Condiciones específicas véanse notas pie página certificado
 territorio presencia EEB población nativa bovinos considerado altamente improbable efectos exportación Comunidad Europea animales certificados conformidad modelos certificado BOVX BOVY
 territorio reconocido oficialmente indemne tuberculosis efectos exportación Comunidad Europea animales certificados conformidad modelo certificado BOVX
@@ -2860,7 +2852,6 @@ Trattato teoricopratico completo sull’ulivo Tavanti enumeraba principales vari
 Referencia publicación pliego condiciones
 Artículo apartado Reglamento CE
 texto consolidado pliego condiciones consultarse dirección internet
-
 accediendo directamente página inicio sitio web Ministerio Política Agrícola Alimentaria Forestal wwwpoliticheagricoleit pulsando Qualità sicurezza calidad seguridad derecha pantalla Disciplinari di Produzione all’esame dell’UE pliegos condiciones sometidos examen UE
 Sustituido Reglamento UE Parlamento Europeo Consejo noviembre regímenes calidad productos agrícolas alimenticios
 Reglamento UE entró vigor enero
@@ -3629,7 +3620,6 @@ ANEXO
 anexo Decisión CEE queda modificado
 Ultrasonic Scanner GE Logiq pro sustituye punto
 contenido carne magra canal calculará fórmula
-
 LMP porcentaje estimado carne magra canal
 espesor tocino dorsal incluida corteza milímetros medido centímetros línea media canal penúltima antepenúltima costillas
 espesor músculo dorsal milímetros medido tiempo lugar
@@ -3662,7 +3652,6 @@ RP espesor mínimo tocino sección transversal milímetros
 RP estimación inicial tamaño canal
 RP espesor máximo carne posición máxima costillas posición mínima tocino milímetros
 descripciones puntos medición figuran II protocolo República Federal Alemania presentó Comisión arreglo dispuesto artículo apartado Reglamento CE
-
 Aparato CSB ImageMeater
 disposiciones previstas aplicables utilice aparato denominado CSB ImageMeater clasificación canales cerdo
 CSB ImageMeater consiste concretamente cámara vídeo ordenador provisto tarjeta análisis imágenes pantalla impresora mecanismo mando mecanismo cálculo interfaces
@@ -4051,7 +4040,6 @@ dirección horizontal delantera vehículo
 menor tiempo duración mínima
 fuerza determinará
 fórmula
-
 fuerza número plazas asiento cuyos anclajes homologados fabricante solicita
 conformidad cargas representativas medidas ensayos dinámicos señalados apéndice presente Reglamento
 Apéndice

@@ -516,7 +516,6 @@ Datos identificación
 Motivos
 CHANG Songtaek alias JANG SongTaek
 Fecha nacimiento
-
 provincia Hamgyong Norte
 Número pasaporte PS
 Miembro Comisión Nacional Defensa
@@ -542,7 +541,6 @@ Número pasaporte
 expedido
 Presidente Academia Ciencia implicado investigación biológica relacionada armas destrucción masiva
 Director Oficina General Energía Atómica entidad designada Naciones Unidas encargado relaciones internacionales
-
 Jefe departamento física nuclear Universidad Kim Il Sung
 Lista entidades refiere artículo
 Centro investigación nuclear Yongbyon
@@ -1074,7 +1072,6 @@ Número registro flota Unión buque pesquero identificación vehículo razón so
 Clase arte pesca
 Código arte Clasificación Estadística Internacional Uniforme Artes Pesca FAO
 Infracción grave
-
 Clase infracción grave detectada
 Indicar clase infracción grave detectada referencia número columna izquierda anexo XXX Reglamento Ejecución UE
 infracciones graves contempladas artículo apartado letras Reglamento control identificarán números respectivamente
@@ -1085,7 +1082,6 @@ Multa EUR ejemplo
 Decomiso
 CAPTURAS ARTES caso decomiso físico
 Importe decomisado caso valor capturas artes EUR ejemplo
-
 caso retirada licencia autorización indicar LI AU número ejemplo AU
 Puntos
 Número puntos asignados ejemplo
@@ -1755,12 +1751,10 @@ entrada relativa aeropuerto Dublín Dublin sustituye texto
 Dublin airport
 entrada referente aeropuerto Shannon sustituye texto
 Shannon
-
 relativa Francia queda modificada indica continuación
 suprime entrada correspondiente puerto Concarneau–Douarnenez
 entrada relativa aeropuerto Roissy CharlesdeGaulle sustituye texto
 Roissy CharlesdeGaulle
-
 entrada referente aeropuerto Vatry sustituye texto
 Vatry
 HCTCH NHCNT
@@ -2076,7 +2070,6 @@ Parentesco ej hijo sobrino madre
 Fecha nacimiento dd mm aaaa
 Indique importe pensiones alimentarias paga terceros
 Indique importe paga alquiler domicilio principal importe abona entidades bancarias concepto devolución préstamos obtuvo adquisición domicilio principal
-
 cuadro incluir información adicional situación respecta ingresos cargas soporta ej devolución préstamos distintos préstamo adquisición domicilio principal etc
 ABOGADO PROPONE
 rúbrica ofrece posibilidad proponer Tribunal nombre abogado represente rellenando cuadro
@@ -2602,7 +2595,6 @@ III Reg
 III Reg
 Escala práctico Reg
 Trasladado
-
 Botes rescate rígidos inflados Reg
 Prevención contaminación marina
 Regla Marpol prescribe homologación
@@ -3080,7 +3072,6 @@ Aparato bidireccional ondas métricas portátil embarcación supervivencia Reg
 OMI Res
 OMI MSC
 ETSI
-
 Aparato bidireccional ondas métricas fijo embarcación supervivencia Reg
 ETSI
 Estación terrena buque Inmarsat
@@ -3096,7 +3087,6 @@ OMI MSC
 incl AC
 Equipo seguridad graneleros
 elemento anexo
-
 Detectores nivel agua Res
 OMI MSC
 OMI MSC Circ
@@ -3863,7 +3853,6 @@ códigos productos definen Reglamento CEE Comisión DO
 códigos destinos serie definen anexo II Reglamento CEE
 códigos numéricos destinos definen Reglamento CE Comisión DO
 destinos definen destinos Suiza Hong Kong Singapur Malasia Sri Lanka Indonesia Tailandia Taiwán PapúaNuevaGuinea Laos Camboya Vietnam Japón Uruguay Paraguay Argentina México Costa Rica destinos Bulgaria destinos siguientes Noruega Islandia Groenlandia islas Feroe Rumanía Albania Bosnia Herzegovina Croacia Antigua República Yugoslava Macedonia Serbia Montenegro Armenia Azerbaiyán Belarús Georgia Kazajistán Kirguizistán Moldavia Rusia Tayikistán Turkmenistán Uzbekistán Ucrania Arabia Saudí Bahráin Qatar Omán Emiratos Árabes Unidos Abu Dhabi Dubai Sharjah Ajman Umm Qaiwain Ras Khaimah Fujairah Kuwait Yemen Siria Irán Jordania Bolivia Brasil Venezuela Perú Panamá Ecuador Colombiapaíses territorios África África Sur destinos contemplados artículo Reglamento CE Comisión DO
-
 Decisión Comisión
 septiembre
 relativa medidas nacionales aplicación asignación gratuita transitoria derechos emisión gases efecto invernadero arreglo artículo apartado Directiva CE Parlamento Europeo Consejo

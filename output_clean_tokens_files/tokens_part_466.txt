@@ -183,18 +183,8 @@ Artículo
 Establecimiento zonas restricción pesca proteger hábitats delicados aguas profundas
 Queda prohibida pesca rastras redes arrastre fondo zonas circunscritas líneas unen siguientes coordenadas
 Zona restringida pesca aguas profundas arrecifes Lophelia frente Capo Santa Maria di Leuca
-
-
-
-
 Zona restringida pesca aguas profundas filtraciones frías hidrocarburos zona delta Nilo
-
-
-
-
 Zona restringida pesca aguas profundas monte submarino Eratóstenes
-
-
 miembros adoptarán medidas necesarias protección hábitats delicados aguas profundas zonas refiere apartado particular velarán protección zonas impactos actividad pesquera ponga peligro conservación rasgos caracterizan hábitats particulares
 CAPÍTULO VII
 DISPOSICIONES ESPECIALES APLICABLES BUQUES COMUNITARIOS FAENEN ZONA REGULACIÓN NAFO
@@ -666,7 +656,6 @@ Buque pesca
 Palangreros
 Arqueo bruto pesca
 Número anzuelos utilizados Número utilizaciones
-
 Medidas favor reducción capturas accesorias incidentales aves marinas
 Artículo
 Información interacción aves marinas
@@ -890,7 +879,6 @@ Camarones Penaeus
 ANEXO II
 ANEXO III
 MEDIDAS TÉCNICAS CONTROL TRANSITORIAS
-
 Atlántico norte incluido Mar Norte Skagerrak Kattegat
 Métodos desembarque pesaje arenque caballa jurel zonas CIEM VII
 aplicarán siguientes procedimientos desembarques Comunidad Europea realizados buques comunitarios terceros países cantidades superiores desembarque toneladas arenque caballa jurel combinación capturadas
@@ -988,19 +976,9 @@ prohibida pesca realizada palangre zonas delimitadas líneas loxodrómicas unen 
 Punto
 Latitud
 Longitud
-
-
-
-
 Restricciones aplicables pesca bacalao zonas CIEM VI VII
 Zona CIEM VIa
 diciembre queda prohibida actividad pesquera zonas delimitadas líneas loxodrómicas unen siguientes posiciones calculadas sistema coordenadas WGS
-
-
-
-
-
-
 Zonas CIEM VII
 febrero marzo queda prohibida actividad pesquera rectángulos CIEM siguientes
 prohibición aplicará millas náuticas líneas base
@@ -1015,8 +993,6 @@ febrero abril prohibe utilizar redes arrastre fondo redes tiro artes arrastre si
 costa oriental Irlanda costa oriental Irlanda Norte
 líneas rectas unen siguientes coordenadas geográficas
 punto situado costa oriental península Ards Irlanda Norte
-
-
 punto situado costa oriental Irlanda
 obstante dispuesto punto lugar período especifican
 autorizará redes arrastre demersal puertas condición lleve bordo tipo arte pesca tales redes
@@ -1024,22 +1000,10 @@ tengan dimensión malla mm mm mm mm
 pertenezcan categorías dimensión malla autorizadas
 contengan malla individual independientemente lugar red encuentre dimensión superior mm
 calen únicamente zona delimitada unir sucesivamente líneas loxodrómicas siguientes coordenadas
-
-
-
-
-
-
-
-
-
 autorizará redes arrastre seleccionadoras condición lleve bordo tipo arte pesca tales redes
 cumplan requisitos establecidos letra incisos iv
 características ajusten exigencias técnicas figuran anexo
 redes arrastre seleccionadoras utilizarse zona delimitada unir sucesivamente líneas loxodrómicas siguientes coordenada
-
-
-
 aplicarán medidas técnicas conservación artículos Reglamento CE Consejo febrero establecen medidas aplicables año vistas recuperación población bacalao Mar Irlanda zona CIEM VIIa
 Utilización redes enmalle zonas CIEM VIa VIIb XII
 efectos presente anexo entenderá red enmalle red enredo arte compuesto paño red calada verticalmente agua
@@ -1081,71 +1045,15 @@ obstante prohibido capturar mantener bordo transbordar desembarcar cantidad agre
 Medidas provisionales protección hábitats vulnerables aguas profundas
 prohíbe pesca artes arrastre fondo artes fijos incluidas redes enmalle fondo palangres zonas delimitadas líneas loxodrómicas unen siguientes posiciones calculadas sistema coordenadas WGS
 montes submarinos Hecateo
-
-
-
-
 montes submarinos Faradayo
-
-
-
-
-
-
-
-
 cordillera submarina Reykjaneso
-
-
-
 oN
-
-
-
 montes submarinos Altairo
-
-
-
-
-
 montes submarinos Antialtairo
-
-
-
-
-
-
 Hatton Banko
-
-
-
-
-
-
-
-
-
-
 North West Rockalo
-
-
-
-
-
-
-
-
-
-
 Logachev Moundo
-
-
-
 West Rockall Moundo
-
-
-
-
 Especies altamente migratorias Atlántico Oriental Mediterráneo
 Talla mínima atún rojo Atlántico oriental Mediterráneo
 obstante dispuesto artículo anexo IV Reglamento CE talla mínima atún rojo Mediterráneo kg cm
@@ -1170,12 +1078,10 @@ obstante dispuesto artículo bis Reglamento CE miembro establecerá plan muestre
 muestras tallas tomarán recogida granja conforme metodología CICAA destinada informar tarea II
 muestreo llevará cabo proceso recogida afectará jaulas
 datos deberán transmitirse CICAA tardar mayo relación muestreo llevado cabo año
-
 Atlántico oriental
 Atlántico Centro Oriental
 talla mínima pulpo Octopus vulgaris aguas marítimas soberanía jurisdicción terceros países situadas zona CPACO Comité Pesca Atlántico Centro Oriental FAO eviscerado
 pulpo alcance talla mínima eviscerado conservarse bordo transbordarse desembarcarse transportarse almacenarse venderse exponerse ponerse venta deberá devolverse inmediatamente mar
-
 Océano Pacífico oriental
 Redes cerco jareta zona regulación Comisión Interamericana Atún Tropical CIAT
 prohibirá pesca rabil Thunnus albacares patudo Thunnus obesus listado Katsuwonus pelamis cerqueros jareta agosto septiembre noviembre diciembre zona delimitada siguientes líneas
@@ -1187,7 +1093,6 @@ miembros interesados notificarán Comisión período veda elegido julio
 cerqueros jareta dichos miembros deberán interrumpir pesca redes cerco jareta período zona indicada
 cerqueros jareta pesquen atún zona regulación CIAT conservarán bordo posteriormente desembarcarán patudo rabil listado hayan capturado considere apto consumo humano razones distintas tamaño
 única excepción lance marea quede bodegas espacio suficiente acomodar atunes capturen
-
 Océano Pacífico oriental Océano Pacífico central occidental
 Túnidos albacoras Océano Pacífico central occidental
 miembros garantizarán esfuerzo pesquero dirigido patudo listado rabil albacora sur Pacífico Océano Pacífico central occidental limite esfuerzo pesquero establecido acuerdos asociación pesqueros celebrados Comunidad ribereños región
@@ -1211,7 +1116,6 @@ DO
 peces criados año deberán establecerse métodos muestreo adicionales
 Fecha entrada vigor presente Reglamento
 ANEXO IV
-
 Límites cuantitativos aplicables licencias permisos pesca buques comunitarios faenen aguas determinados terceros países
 Zona pesca
 Pesquería
@@ -1270,7 +1174,6 @@ pescarán exclusivamente palangre nasas pargos palangre redes mm malla mínimo p
 obtener licencias necesario justificar existencia contrato válido vincule armador solicitante licencia empresa transformación instalada Departamento francés Guayana implique obligación desembarcar Departamento capturas pargos capturas tiburones buque correspondiente tratamiento instalaciones citada empresa contrato deberá visado autoridades francesas cerciorarán ajuste capacidad real empresa transformadora contratante objetivos desarrollo economía guayanesa
 solicitud licencia deberá acompañarse copia contrato visado caso denegar visado mencionado autoridades francesas comunicarán interesado Comisión exponiendo motivos denegación
 ANEXO
-
 Datos consignarse cuaderno diario pesca
 faene zona millas náuticas situada frente costas miembros Comunidad sujeta normativa comunitaria materia pesca datos figuran continuación consignarán cuaderno diario pesca inmediatamente operaciones siguientes
 lance
@@ -1292,9 +1195,6 @@ tipo mensaje capturas entrada capturas salida capturas trasbordo
 caso transmisiones radio nombre estación radio
 II
 Modelo cuaderno pesca
-
-
-
 ANEXO VI
 CONTENIDO MODALIDADES TRANSMISIÓN INFORMACIÓN COMISIÓN
 información deberá transmitirse Comisión Comunidades Europeas plazos transmisión continuación indican
@@ -1391,7 +1291,6 @@ Gamba nórdica Pandalus borealis
 Cigala Nephrops norvegicus
 Faneca noruega Trisopterus esmarkii
 Reloj anaranjado Hoplostethus atlanticus
-
 Solla europea Pleuronectes platessa
 Abadejo Pollachius pollachius
 Marrajo Lamma nasus
@@ -1685,7 +1584,6 @@ Puerto matrícula
 Tipos arte utilizados distinto registro tipos arte
 Tipo arte
 Fecha
-
 mes
 año
 Posición
@@ -1914,8 +1812,6 @@ oficial exclusivamente Deberá completada puerto
 Nombre puerto
 Autorización concedida
 Sello
-
-
 IMPRESO CONTROL PUERTO PSC
 Número OMI
 Información capturas relativa buques cedentes
@@ -2328,7 +2224,6 @@ artículo añade párrafo
 Suiza participará plenamente Consejo administración derechos obligaciones miembros Unión Europea derecho voto
 artículo añade apartado
 Suiza participará contribución financiera prevista apartado letra arreglo fórmula
-
 presupuesto Agencia cubierta tasas ingresos mencionados apartado letras
 número asociados
 número miembros UE
@@ -2501,7 +2396,6 @@ Reglamento CE
 Reglamento Parlamento Europeo Consejo febrero establecen normas comunes compensación asistencia pasajeros aéreos caso denegación embarque cancelación retraso vuelos deroga Reglamento CEE
 Artículos
 Reglamento Parlamento Europeo Consejo julio derechos personas discapacidad movilidad reducida transporte aéreo
-
 Directiva Consejo octubre reestructura régimen comunitario imposición productos energéticos electricidad
 Artículo apartado letra apartado
 Anexos
@@ -2589,7 +2483,6 @@ DO
 DO
 DO
 ANEXO
-
 Requisitos específicos seguridad bicicletas
 SECCIÓN
 Requisitos seguridad aplicables tipos bicicletas
@@ -3299,10 +3192,8 @@ Presidente
 Corrección errores Reglamento UE Consejo mayo relativo medidas restrictivas dirigidas determinadas personas entidades organismos suponen amenaza paz seguridad estabilidad República GuineaBissau
 Diario Oficial Unión Europea mayo
 página artículo apartado
-
 perjuicio normas aplicables información confidencialidad secreto profesional personas físicas jurídicas entidades organismos enumeran anexo
 facilitarán
-
 perjuicio normas aplicables información confidencialidad secreto profesional personas físicas jurídicas entidades organismos
 facilitarán
 Reglamento CE Comisión
@@ -3989,7 +3880,6 @@ Esposa General Brigada Hla Myint
 General Brigada Wai Lin
 Triángulo
 General Brigada Win Myint
-
 Coronel Zaw Min
 Sureste
 General Brigada Hone Ngaing Hon Ngai
@@ -4482,7 +4372,6 @@ Je
 Hijo Khin Maung Thein nacido
 Jf
 Hija Khin Maung Thein nacida
-
 Hija Khin Maung Thein nacida
 Jh
 Director Gerente Kambawza Bank

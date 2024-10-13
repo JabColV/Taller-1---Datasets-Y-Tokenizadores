@@ -527,10 +527,8 @@ dimetoxipirimidinilmetilmetilHtetrazolilpirazolilsulfonilurea
 nivel máximo impurezal fenol kg
 agosto
 julio
-
 autorizar usos herbicida
 autorizarse aplicaciones aéreas
-
 aplicación principios uniformes anexo VI conclusiones informe revisión azimsulfurón particular apéndices II ultimó Comité permanente cadena alimentaria Sanidad animal julio
 evaluación general miembros deberán prestar especial atención
 protección plantas destine producto
@@ -1323,7 +1321,6 @@ DO
 DO
 DO
 ANEXO
-
 Enfermedad
 miembro
 Código
@@ -1335,9 +1332,7 @@ Anemia infecciosa salmón AIS
 Infección Marteilia refringens
 Infección Bonamia ostreae
 Enfermedad mancha blanca
-
 Delimitación geográfica zona sometida programa erradicación miembro zonas compartimentos
-
 miembros zonas compartimentos libres enfermedad
 Delimitación geográfica zona indemne miembro zonas compartimentos
 Dinamarca
@@ -2953,7 +2948,6 @@ Fecha transfusión eliminación devolución año mes
 caso número lote componente
 ANEXO II
 NOTIFICACIÓN REACCIONES ADVERSAS GRAVES
-
 Formulario notificación rápida presuntas reacciones adversas graves
 Centro informante
 Identificación informe
@@ -2981,7 +2975,6 @@ Púrpura postransfusional
 Enfermedad injerto huésped
 reacciones graves especifíquese
 Nivel imputabilidad NA
-
 Reacciones adversas graves Niveles imputabilidad
 Niveles imputabilidad evaluar reacciones adversas graves
 Nivel imputabilidad
@@ -2992,13 +2985,10 @@ Excluida
 pruebas fehacientes dejan lugar dudas reacción adversa causas
 Improbable
 pruebas permiten atribuir claramente reacción adversa causas distintas sangre componentes sanguíneos
-
 pruebas permiten atribuir exactitud reacción adversa sangre componentes sanguíneos causas
 Probable
 pruebas permiten atribuir claramente reacción adversa sangre componente sanguíneo
-
 pruebas fehacientes dejan lugar dudas reacción adversa sangre componente sanguíneo
-
 Formulario confirmación reacciones adversas graves
 Fecha confirmación año mes
 Confirmación reacción adversa grave
@@ -3009,7 +2999,6 @@ Curación
 Secuelas leves
 Secuelas importantes
 Defunción
-
 Formulario notificación anual reacciones adversas graves
 Período cubierto informe
 presente cuadro referencia
@@ -3044,7 +3033,6 @@ Desglose
 Producto defectuoso
 Fallo equipos
 Error humano
-
 especifíquese
 extracción sangre
 extracción aféresis
@@ -3305,9 +3293,7 @@ Etirimol kg máximo
 Tolueno kg máximo
 junio
 mayo
-
 autorizar usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión bupirimato particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención
 protección aguas subterráneas sustancia activa aplique regiones suelo condiciones climáticas vulnerables proceda condiciones autorización deberán incluir medidas reducción riesgo
@@ -4268,7 +4254,6 @@ historial abanderamiento calculará utilizando fórmula estándar cálculos esta
 límites negro gris gris blanco definen utilizando siguientes fórmulas
 μnegroagris
 μblancoagris
-
 número inspecciones
 límite admisible inmovilizaciones
 valor crítico distribución normal grado certeza

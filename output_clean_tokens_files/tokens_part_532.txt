@@ -2112,7 +2112,6 @@ Sello organismo oficial responsable expedidor carta
 Lugar expedición
 ANEXO III
 MEDIDAS CUARENTENA INCLUIDAS PRUEBAS VEGETALES PRODUCTOS VEGETALES OBJETOS DESTINADOS PUESTA CIRCULACIÓN PERÍODO CUARENTENA
-
 Vegetales productos vegetales objetos recogidos anexo III Directiva CE
 Sección Plantas Citrus Fortunella Swingle Poncirus Raf híbridos frutos semillas
 material vegetal someterá proceda tratamientos terapéuticos adecuados directrices técnicas FAO IPGRI
@@ -2242,7 +2241,6 @@ material analizar deberá cultivarse temperatura inferior °C preferentemente de
 pruebas realizarán sondas ADNC ARN radiactivas radiactivas método RPAGE tinción plata RTPCR
 proporción máxima agrupamiento sondas método RPAGE
 proporción agrupamiento deberá validada
-
 Vegetales productos vegetales objetos enumerados anexos II IV Directiva CE
 medidas oficiales cuarentena incluirán examen pruebas adecuadas detección organismos nocivos relevantes enumerados anexos II Directiva CE llevarán cabo cumplimiento requisitos especiales establecidos anexo IV Directiva CE organismos nocivos específicos resulte adecuado
 tales requisitos especiales métodos utilizados medidas cuarentena establecidos anexo IV Directiva CE medidas equivalentes autorizadas oficialmente
@@ -2361,7 +2359,6 @@ DO
 DO
 ANEXO
 Establecimientos sector cárnico sector lácteo sector pesquero sujetos medidas transición
-
 Número autorización veterinaria
 Nombre dirección establecimiento
 Sector Cárnico
@@ -2374,14 +2371,12 @@ Kompeksim Nakotne Limited liability company Nakotne Gludas parish Jelgavas distr
 Zalites Farm Zalites Otanku parish Liepajas district
 Vilattrans Sole proprietor enterprises Silakrogs Ropazu parish Rigas district LV
 Rubus Limited liability company Bunci Salaspils Rigas district LV
-
 Sector Lácteo
 Leche productos lácteos
 Straupe Milk cooperative association Pienotava Straupe parish Cesis district LV
 DK Daugava Ltd Serene parish Aizkraukle district LV
 Briezkalni Nigrande parish Saldus district LV
 Licisi Farm Licisi Cenas parish Jelgava district
-
 Sector Pesquero
 Pesca productos pesqueros
 Roja FCT Limited liability company Kroni Valdemarpils parish Talsu district LV
@@ -2516,9 +2511,7 @@ Impurezas
 Ndimetilnitrosamina máximo μg kg
 enero
 diciembre
-
 autorizarse herbicida pulverización hidráulica bandas próxima suelo otoño principios primavera
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión oxifluorfeno particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros
 prestarán especial atención seguridad usuarios velarán condiciones exija utilización equipos protección individual adecuados
@@ -3096,7 +3089,6 @@ formación
 formación concederá LI momento
 Específica general
 Específica general
-
 Actividades desarrollo comercialización
 Estudios técnicos preparatorios
 Investigación individual estudios técnicos preparatorios
@@ -4707,7 +4699,6 @@ vehículo equipado transmisión automática adaptativa variable continua somete 
 casos aceleración calculará líneas PP BB conforme dispuesto punto
 Cálculo aceleración líneas AA BB
 aceleración calculará mediciones velocidad vehículo líneas AA BB
-
 índice expresa marcha utilizada índice número mediciones
 velocidades expresarán unidades kmh aceleraciones resultantes unidades
 lref expresa longitud vehículo libre elección fabricante vehículo autoridad homologación tipo servicio técnico
@@ -4752,7 +4743,6 @@ caso vehículo motor ruedas disponga posición punto muerto mediciones realizar�
 necesario levantar suelo vehículo ruedas ensayo posición micrófono medición ajustará distancia especificada punto referencia tubo escape situación puntos referencia véase figura
 lugar ensayo adecuado situado exterior consistirá superficie llana hormigón asfalto denso material duro similar exenta nieve hierba tierra suelta cenizas materiales absorben sonido situará espacio abierto carente superficies tamaño reflejen sonido vehículos estacionados edificios carteleras vallas publicitarias árboles arbustos paredes muros paralelos personas etc radio posición micrófono punto vehículo alternativa realización ensayos exterior utilizar cámara semianecoica Dicha cámara cumplirá requisitos acústicos mencionados
 banda tercio octava frecuencia fundamental motor condiciones ensayo
-
 indicaciones instrumentos medición producidas ruido ambiental efectos viento situarán dBA niveles acústicos vayan medirse
 micrófono dotado pantalla protección viento adecuada influencia sensibilidad micrófono
 llevarán cabo ensayos velocidad viento incluidas ráfagas sobrepasa intervalo medición sonido

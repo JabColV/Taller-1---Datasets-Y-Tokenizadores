@@ -723,13 +723,9 @@ medidas policiales judiciales especialmente importantes
 acontecimientos particulares
 ANEXO III
 Modelos señales distintas filas pasos fronterizos
-
 EEE
 CIUDADANOS
-
-
 PASAPORTES
-
 AUTOMÓVILES
 Logotipo aplicable Noruega Islandia
 CAMIONES
@@ -769,7 +765,6 @@ ordenará empresa vuelva hacerse cargo inmediatamente nacional tercer país tran
 momento empresa haga cargo nacionales terceros países adoptará teniendo circunstancias locales conformidad Derecho interno medidas adecuadas evitar entrada ilícita nacionales terceros países denegado entrada
 existieran motivos denegar entrada detener nacional tercer país agente guardia fronteras pondrá contacto autoridad judicial competente decidir medidas corresponda tomar arreglo Derecho interno
 Formulario estándar denegación entrada
-
 Logotipo Servicio encargado
 DENEGACIÓN ENTRADA FRONTERA
 horas paso fronterizo
@@ -1070,10 +1065,8 @@ kg mezcla racémica
 Impureza tolueno máximo kg
 enero
 diciembre
-
 autorizar usos fungicida cultivos campo aplicaciones máximas kg años campo
 autorizarse usos manzanas uvas
-
 aplicación principios uniformes anexo VI conclusiones informe revisión tetraconazol particular apéndices II ultimaron Comité permanente cadena alimentaria sanidad animal febrero
 evaluación general miembros deberán prestar especial atención
 protección organismos acuáticos plantas diana relación riesgos identificados deberán aplicarse proceda medidas reducción riesgo ejemplo zonas tampón
@@ -1329,7 +1322,6 @@ Garantía contemplada apartado artículo
 Origen
 Gallos gallinas desplumados eviscerados cabeza patas cuello corazón hígado molleja llamados pollos presentados trocear congelados
 Trozos deshuesados gallo gallina congelados
-
 Pavos desplumados eviscerados cabeza patas cuello corazón hígado molleja llamados pavos congelados
 Trozos deshuesados pavo congelados
 Preparaciones gallo gallina cocer
@@ -1428,7 +1420,6 @@ DO
 DO
 Véase anexo
 ANEXO
-
 Reglamento derogado modificación
 contemplado artículo
 Reglamento CEE Consejo
@@ -1437,7 +1428,6 @@ artículo apartado
 Reglamento CE Consejo
 DO
 Únicamente artículo
-
 Modificaciones sucesivas derogadas
 Acta adhesión
 Acta adhesión
@@ -2365,7 +2355,6 @@ ejecución
 lugar
 Lenguas entiende conocen
 concedido persona protegida asistencia jurídica gratuita emisión dispone inmediatamente información
-
 persona protegida menor legalmente incapaz información relativa tutor representante persona
 Apellido soltera apellido caso
 Dirección profesional
@@ -4566,7 +4555,6 @@ frutales pepitas hueso
 Rododendros azaleas injertados
 Rosales injertados
 rosales silvestres injertados tallos rosal silvestre
-
 raíz desnuda cepellón
 Plantas procedentes semillero reproducción vegetativa vegetales utilidad micelios
 plantas hortalizas césped rollos
@@ -4585,7 +4573,6 @@ tomates cereza cherry
 octubre abril
 tomates Peretti oblongos
 tomates diámetro superior mm tomates carnosos dornos frescos octubre abril
-
 Lechuga iceberg hoja externa
 enero febrero
 Endivias witloof frescas refrigeradas

@@ -1014,7 +1014,6 @@ ADOPTADO PRESENTE REGLAMENTO
 Artículo
 apartado artículo Reglamento CE sustituye texto
 prohibido año pescar tipo arte arrastre red danesa red similar zona geográfica delimitada línea pase siguientes coordenadas
-
 Artículo
 presente Reglamento entrará vigor publicación Diario Oficial Unión Europea
 presente Reglamento obligatorio elementos directamente aplicable miembro
@@ -1357,7 +1356,6 @@ Tipo producto
 Detergentes lavavajillas mano diluyen agua utilización
 gramos envase litro solución lista agua lavado
 CPU calculará envase primario incluidos cierres tapones bombas manuales dispositivos nebulización aplicando fórmula
-
 peso envase primario incluida etiqueta procede
 peso material reciclado virgen envase primario
 proporción material reciclado envase primario Ui Pi
@@ -1409,7 +1407,6 @@ FDi
 CPU ΣWi
 pesoi peso sustancia gramos dosis recomendada fabricante litro agua lavado FDi factor degradación FTcrónicai factor toxicidad sustancia miligramos litro
 requisitos indicados letras figuran continuación aplicarán sustancia mezcla supere peso producto incluidos biocidas colorantes fragancias sustancia mezcla utilizada fórmula supere peso producto
-
 Decisión Comité Mixto EEE
 diciembre
 modifica anexo XXI Estadísticas EEE
@@ -1572,9 +1569,7 @@ caso filetes piel carne muslo contramuslo pavo deshuesada porcentaje métodos re
 Corrección errores Posición Común PESC Consejo junio actualiza Posición Común PESC aplicación medidas específicas lucha terrorismo deroga Posición Común PESC
 Diario Oficial Unión Europea junio
 Página Anexo título Anexo
-
 Lista personas grupos entidades refiere artículo
-
 personas señaladas estarán sujetas dispuesto artículo Posición Común PESC
 Decisión Comité Mixto EEE
 octubre
@@ -3557,7 +3552,6 @@ Pacanas
 Piñones
 Pistachos
 Nueces
-
 Habas soja
 Autoridad Europea Seguridad Alimentaria faltaba información ensayos residuos
 Alforfón Amaranto quinua

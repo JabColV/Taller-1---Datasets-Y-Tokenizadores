@@ -461,7 +461,6 @@ Vasos beber exc vasos pie beber productos vitrocerámica cristal plomo vidrio te
 vasos beber
 Objetos servicio mesa cocina artículos beber cristal plomo hechos mano
 Objetos servicio mesa cocina artículos beber cristal plomo fabricación mecánica
-
 Objetos vitrocerámica servicio mesa cocina
 Objetos vitrocerámica servicio mesa cocina artículos beber
 Ampollas vidrio termos recipientes isotérmicos aislados vacío
@@ -906,7 +905,6 @@ Partes reactores nucleares
 Revólveres pistolas armas fuego militares pistolas automáticas armas fuego lanzar cohetes señales armas fogueo pistolas matarife armas carga delantera armas muelle resorte aire comprimido gas armas imitación
 Armas avancarga escopetas rifles caza tiro deportivo
 Cartuchos municiones proyectiles partes incluidos perdigones tacos cartuchos fines militares
-
 Partes máquinas aparatos mecánicos capítulo SA forja libre metales ferrosos
 Partes vehículos automóviles capítulo SA extrusión acero frío
 Árboles transmisión manivelas extrusión acero frío
@@ -1122,7 +1120,6 @@ tornillos hueco caras
 Tornillos cabeza hexagonal acero inoxidable
 Tornillos cabeza hexagonal aceros resistencia tracción MPa
 Tornillos cabeza hexagonal aceros resistencia tracción MPa
-
 Tornillos madera hierro acero
 Escarpias armellas roscadas acero inoxidable
 Tornillos taladradores acero inoxidable
@@ -1152,7 +1149,6 @@ artículos servicio mesa hierro acero
 artículos pintados barnizados
 Artículos doméstico partes estropajos guantes artículos similares fregar lustrar usos análogos cobre
 Artículos doméstico partes estropajos guantes artículos similares fregar lustrar usos análogos aluminio colados moldeados
-
 Aparatos mecánicos accionados mano kg tipo utilizados preparar acondicionar servir alimentos bebidas
 Lana hierro acero estropajos guantes artículos similares fregar lustrar usos análogos
 Cajas caudales metales comunes
@@ -2827,7 +2823,6 @@ Pureza
 Absorción específica cm etanol
 ml etanol absoluto
 Cenizas sulfatadas
-
 rotatorio específico solución cloroformo αD
 Plomo
 mg kg
@@ -2844,7 +2839,6 @@ Intervalo fusión
 Resultado positivo pruebas detección ácido ascórbico reacción coloreada
 Pérdida desecación
 desecación presión reducida gel sílice horas
-
 rotatorio específico solución acuosa αD
 Oxalatos
 solución ml agua añaden gotas ácido acético glacial ml solución acetato calcio
@@ -2861,7 +2855,6 @@ Prácticamente insoluble agua soluble etanol
 Punto fusión
 °C
 Fenoles
-
 Ditercbutil hidroquinona
 Hidroxiquinona
 Tolueno
@@ -2871,16 +2864,13 @@ GOMA XANTANA
 goma xantana polisacárido peso molecular elevado obtenido fermentación cultivo puro hidrato carbono cepas naturales Xanthomonas campestris purificado extracción etanol propanol desecado triturado
 Contiene Dglucosa Dmanosa principales unidades hexosa ácido Dglucurónico ácido pirúvico prepara forma sales sodio potasio calcio
 soluciones neutras
-
 sustancia anhidra desprenderá CO corresponde goma xantana
 Polvo color crema
 °C horas
 Cenizas totales
 sustancia anhidra determinado °C desecar °C horas
 Ácido pirúvico
-
 Nitrógeno
-
 Etanol propanol
 mg kg separado conjunto
 mg kg
@@ -2902,7 +2892,6 @@ Viscosidad solución
 mPas
 °C horas
 Proteína
-
 °C horas
 Arsénico
 mg kg
@@ -2929,7 +2918,6 @@ Verter ml solución placa vidrio dejar evapore disolvente
 Queda película gruesa dura continua límpida
 película inflamable
 °C horas
-
 pH solución coloidal
 Neutro tornasol
 mg kg
@@ -2953,11 +2941,8 @@ Insolubles etanol frío
 Ácidos distintos cítrico grasos
 Ausencia
 Glicerol libre
-
 Glicerol
-
 Ácido cítrico
-
 Cenizas sulfatadas determinadas °C
 Productos neutralizados
 Productos parcial totalmente neutralizados
@@ -2987,10 +2972,8 @@ Pérdida combustión
 Materia soluble agua
 Materia soluble ácido
 Hierro
-
 Óxido potasio KO
 Carbono
-
 mg kg
 entrada correspondiente gluconato cálcico inserta texto relativo hexilresorcinol
 HEXILRESORCINOL
@@ -3006,7 +2989,6 @@ Añadir ml solución saturada muestra ml solución ensayo bromo
 disuelve precipitado amarillo floculento dando lugar solución color amarillo
 °C
 Acidez
-
 Resorcinol fenoles
 Níquel
 mg kg
@@ -3041,16 +3023,13 @@ Polvo gránulos escamas polvo amorfo partículas gruesas color blanco blanco for
 Observación microscópica formación gel
 Resultado positivo tintura yodo azul oscuro rojo
 valores expresados sustancia anhidra excepción pérdida desecación
-
 Grupos octenilsuccínicos
-
 Residuo ácido octenilsuccínico
 Dióxido azufre
 mg kg almidones modificados cereales
 mg kg almidones modificados especifique
 mg kg
 Aluminio
-
 Disolver mg muestra ml metanol añadir ml solución dimetilamina
 produce color rojo rosa
 Tercbutilpbenzoquinona
@@ -3065,8 +3044,6 @@ forma precipitado blanco
 Hexilresorcinol
 Hexilresorcinol
 DLTetrametil′′′trimetiltridecilcromanol
-
-
 Reglamento CE Comisión
 diciembre
 establecen disposiciones aplicación Reglamento CE Consejo refiere importaciones productos ecológicos procedentes terceros países
@@ -3744,7 +3721,6 @@ Regla norma compensación gente mar pérdida naufragio buque título Convenio
 Regla norma atención médica bordo responsabilidad armador tierra regla protección salud seguridad prevención accidentes regla acceso instalaciones bienestar tierra título Convenio
 Regla norma responsabilidad armador título Convenio
 Regla norma Repatriación título Convenio
-
 Unión Europea República Armenia facilitación expedición visados
 UNIÓN EUROPEA sucesivo denominada Unión
 REPÚBLICA ARMENIA sucesivo Armenia
@@ -4346,7 +4322,6 @@ ANEXO
 MARCO FINANCIERO PLURIANUAL UE
 Millones EUR precios
 CRÉDITOS COMPROMISO
-
 Crecimiento inteligente integrador
 Competitividad crecimiento empleo
 Cohesión económica social territorial
@@ -4843,7 +4818,6 @@ consonancia finalidad general ámbito aplicación objetivos principios generales
 aplicarán actuaciones siguientes principios
 objetivos política comunitaria lograrse adecuado efectivo programas geográficos programa temático aplicado organización intermediaria organizaciones gubernamentales agentes estatales organizaciones internacionales mecanismos multilaterales
 incluyen iniciativas mundiales apoyo ODM desarrollo sostenible bienes públicos mundiales actuaciones miembros países adherentes constituyan excepción dispuesto artículo previstas programa temático correspondiente
-
 actuaciones carácter
 actuaciones multirregionales transversales proyectos piloto políticas innovadoras
 actuaciones casos llegado gobierno gobiernos socios

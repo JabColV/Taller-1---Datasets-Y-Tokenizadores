@@ -215,9 +215,7 @@ clorofenoxi propoxiimino butil hidroxi tetrahidro tiopiran il ciclohex enona
 kg
 agosto
 julio
-
 autorizar usos herbicida arroz
-
 aplicación principios uniformes anexo VI conclusiones informe revisión profoxidim particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención
 protección aguas subterráneas sustancia activa aplique regiones condiciones edáficas climáticas delicadas
@@ -586,7 +584,6 @@ Pasaporte documento identidad inclusión país fecha lugar emisión
 Pasaporte pasaporte diplomático
 Nacionalidad uzbeka
 informaciones pej nombre padre madre número identificación fiscal número teléfono fax
-
 Apellidos Nombre Mullajonov Tokhir Okhunovich
 Seudónimo forma escribir apellido Mullajanov
 Sexo Masculino
@@ -4063,7 +4060,6 @@ aprobación obtenido emisión informe verificación verificador deberá constar 
 Artículo
 Obligaciones precontractuales
 aceptar trabajo verificación verificador deberá adquirir conocimiento adecuado titular operador aeronaves determinar verificación
-
 evaluará riesgos entrañe verificación informe titular operador aeronaves conformidad presente Reglamento
 revisará información suministrada titular operador aeronaves determinar alcance verificación
 evaluará trabajo inscribe alcance acreditación
@@ -4161,7 +4157,6 @@ Artículo
 Procedimientos analíticos
 verificador recurrirá procedimientos analíticos evaluar plausibilidad exhaustividad datos caso riesgo inherente riesgo control idoneidad actividades titular operador aeronaves indiquen necesidad tales procedimientos
 aplicar procedimientos analíticos mencionados apartado verificador evaluará datos notificados identificar posibles ámbitos riesgo posteriormente validar adaptar actividades verificación previstas
-
 evaluará plausibilidad fluctuaciones tendencias tiempo elementos comparables
 identificará valores atípicos valores inesperados lagunas datos tengan carácter inmediato
 aplicar procedimientos analíticos mencionados apartado verificador pondrá práctica
@@ -4550,7 +4545,6 @@ equipo verificación incluirá persona conocimiento aspectos seguimiento notific
 Artículo
 Requisitos competencia evaluadores
 evaluadores dispondrán competencia necesaria desempeñar actividades dispuestas capítulo IV evaluar verificador
-
 cumplirán requisitos establecidos norma armonizada refiere Reglamento CE mencionada anexo III
 conocerán Directiva CE Reglamento UE presente Reglamento normas aplicables normativa pertinente directrices aplicables
 conocimientos materia auditoría datos información dispone artículo apartado letra presente Reglamento obtenidos formación acceso persona disponga conocimientos experiencia materia
@@ -4560,7 +4554,6 @@ Artículo
 Expertos técnicos
 organismo nacional acreditación incluir expertos técnicos equipo evaluación objeto proporcionar experiencia conocimientos detallados materia específica necesaria apoyar evaluador principal evaluador desempeño actividades evaluación
 expertos técnicos poseerán competencia necesaria prestar apoyo eficaz evaluador principal evaluador relación materia hayan solicitado conocimientos experiencia
-
 conocimiento Directiva CE Reglamento UE presente Reglamento normas aplicables normativa pertinente directrices aplicables
 dispondrán conocimiento suficiente actividades verificación
 expertos técnicos llevarán cabo tareas específicas dirección plena responsabilidad evaluador principal equipo evaluación cooperen
@@ -4994,7 +4987,6 @@ tipo DLV DLV difieren características esenciales
 marca tipo dispositivo
 gama valores velocidad fijar DLV
 método utilizado controlar alimentación motor
-
 HOMOLOGACIÓN VEHÍCULOS CONCIERNE LIMITACIÓN VELOCIDAD MÁXIMA
 SOLICITUD HOMOLOGACIÓN
 solicitud homologación tipo vehículo limitación velocidad presentada fabricante vehículo representante debidamente acreditado

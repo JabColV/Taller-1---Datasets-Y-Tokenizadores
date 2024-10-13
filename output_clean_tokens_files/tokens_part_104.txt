@@ -1022,17 +1022,14 @@ base artículo partes interesadas argumentan Comisión observó plazo meses noti
 respeto Comisión señala objeto notificación marzo arreglo procedimiento medidas transitorias decreto compensaciones concedidas MVM CCE
 Hungría retiró notificación Comisión incoó asunto NN CCE véase capítulo
 señalarse recoge cuadro Comisión incumplió plazo meses referencia partes interesadas
-
 Fecha
 Plazo recepción información
 Notificación Hungría
 Preguntas Comisión
-
 Respuestas Hungría
 meses
 meses
 Retirada notificación Hungría
-
 correspondencia escrita citada reuniones personales Comisión autoridades húngaras julio noviembre enero
 refiere presente procedimiento Comisión pasa valorar CCE incluyen ayuda existente ayuda base disposiciones Acta Adhesión Reglamento procedimiento
 conformidad capítulo anexo IV Acta Adhesión medidas ayuda estatal entraron vigor adhesión aplicables dicha fecha estén incluidas categorías ayuda existente contempladas considerarán adhesión ayudas arreglo artículo apartado Tratado CE
@@ -1629,7 +1626,6 @@ Lista autorizaciones refiere artículo apartado
 Columna
 Columna
 miembro
-
 Grecia
 Algodón tomates pimientos peras patatas alfalfa
 España
@@ -2054,8 +2050,6 @@ hayan sacrificados consumo humano
 Cuadro
 Población ovejas corderas cubiertas miembros
 Tamaño mínimo muestra ovinos muertos
-
-
 Cuadro
 Población cabras cubiertas cabras hayan parido miembros
 Tamaño mínimo muestra caprinos muertos
@@ -2074,9 +2068,7 @@ Seguimiento rebaños infectados
 animales meses edad incisivos definitivos brotados hayan sacrificados destrucción conformidad disposiciones anexo VII punto letra incisos ii punto letra realizarán pruebas seleccionando muestra aleatoria simple conforme tamaño muestra indicado cuadro
 Número animales mayores meses dentición incisivos definitivos sacrificados destrucción rebaño
 Tamaño mínimo muestra
-
 animales seleccionables
-
 Seguimiento animales
 programas seguimiento establecidos puntos miembros cabo seguimiento animales carácter voluntario especialmente
 animales utilizados producción lácteos
@@ -2123,7 +2115,6 @@ pruebas explotación encontraba animal sospechó EET probablemente explotación 
 confirma EET ovino caprino
 resultados ensayo interlaboratorios conformidad procedimiento establecido anexo capítulo punto letra permiten descartar EEB procederá sacrificio destrucción completa animales embriones óvulos identificados estudio mencionado punto letra guiones quinto
 EEB descarta conformidad procedimiento establecido anexo capítulo punto letra procederá decisión autoridad competente
-
 sacrificio destrucción completa animales embriones óvulos identificados estudio mencionado punto letra guiones
 aplicarán explotación condiciones establecidas punto
 sacrificio destrucción completa animales embriones óvulos identificados estudio mencionado punto letra guiones excepción
@@ -2137,7 +2128,6 @@ obstante dispuesto letra únicamente EET confirmada explotación caso tembladera
 miembros decidir
 sustituir sacrificio destrucción completa animales referencia letra inciso sacrificio consumo humano
 sustituir sacrificio destrucción completa animales referencia letra inciso ii sacrificio consumo humano
-
 animales sacrificados territorio miembro cuestión
 animales meses edad dentición incisivos definitivos hayan sacrificados consumo humano someterán análisis detectar EET arreglo métodos laboratorio establecidos anexo capítulo punto letra
 determinará genotipo proteína priónica ovinos máximo sacrificados destruidos sacrificados consumo humano conformidad letra incisos iii
@@ -2189,7 +2179,6 @@ miembros apliquen medidas establecidas punto letra inciso iii excepciones previs
 detecten casos EET rebaños aplican excepciones volverán evaluarse condiciones concesión tales excepciones
 CAPÍTULO
 Requisitos mínimos programa cría animales resistentes EET población ovina arreglo artículo bis
-
 Requisitos generales
 programa cría concentrará rebaños alto valor genético
 creará base datos contendrá mínimo información
@@ -2205,7 +2194,6 @@ establecerán programas cría raza teniendo
 frecuencias distintos alelos raza
 rareza raza
 eviten endogamia deriva genética
-
 Normas específicas rebaños participantes
 programa cría objetivo aumentar frecuencia alelo ARR rebaño ovino reducir prevalencia alelos conocidos contribuir sensibilidad EET
 requisitos mínimos rebaños participantes siguientes
@@ -2216,7 +2204,6 @@ hembras portadoras alelo VRQ saldrán explotación sacrificio
 machos incluidos donantes esperma inseminación artificial distintos certificados programa cría usarán reproducción rebaño
 miembros conceder excepciones requisitos establecidos punto letras efectos protección razas características producción
 miembros comunicarán Comisión excepciones concedan arreglo punto criterios utilizados
-
 Marco reconocimiento calificación resistentes EET rebaños ovinos
 marco reconocerá calificación resistentes EET rebaños ovinos resultas participación programa cría establecido artículo bis cumplan criterios exigidos programa
 reconocimiento concederá mínimo niveles siguientes
@@ -2226,7 +2213,6 @@ miembros reconocer niveles función requisitos nacionales
 realizarán muestreos regulares aleatorios ovinos rebaños resistentes EET
 explotación matadero verificar genotipo
 caso rebaños nivel ovinos mayores meses matadero someterlos pruebas EET conformidad anexo III
-
 Informes miembros presentar Comisión
 miembros introduzcan programas cría seleccionar animales resistencia EET población ovina notificarán Comisión requisitos dichos programas presentarán informe anual progreso
 informe año civil presentará tardar marzo año
@@ -2406,7 +2392,6 @@ Dirección silo
 Motivo rechazo
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 envío DG AGRI
 ANEXO III
 Indicación contemplada artículo
@@ -2796,7 +2781,6 @@ Cidro limón
 Limas
 Mandarinas
 Clementina tangerina híbridos
-
 Frutos cáscara cáscara
 producto entero retirar cáscara castañas
 Almendras
@@ -4888,7 +4872,6 @@ DO
 DO
 ANEXO
 ANEXO II
-
 OBLIGACIÓN MATERIA CERTIFICADOS IMPORTACIONES
 Lista productos mencionados artículo apartado letra inciso límites máximos aplicables conformidad artículo apartado letra
 exigen certificados cantidad

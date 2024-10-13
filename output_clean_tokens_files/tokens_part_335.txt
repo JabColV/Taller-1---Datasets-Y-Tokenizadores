@@ -2943,7 +2943,6 @@ condiciones ambientales sección
 requisitos sección Especificaciones funcionales técnicas subsistemas cumplir parámetros básicos indicados deberán aplicarse sistemas clase
 requisitos sistemas clase STM permiten sistema clase bordo funcione infraestructura clase responsabilidad miembro correspondiente
 presente ETI basa principios permiten subsistema controlmando señalización tierra compatible subsistemas controlmando señalización bordo conformes ETI
-
 funciones interfaces prestaciones subsistema controlmando señalización bordo normalizadas asegurar tren reaccione datos recibidos tierra predecible
 comunicaciones tierra tren tren tierra subsistema controlmando señalización tierra completamente normalizadas presente ETI
 especificaciones referencia siguientes apartados permiten funcionalidad tierra controlmando señalización apliquen flexible optimizar integración sistema ferroviario
@@ -2954,7 +2953,6 @@ anexo contiene glosario términos definiciones ERTMS ETCS utilizan especificacio
 sección Ámbito aplicación subsistemas controlmando señalización formados partes
 cuadro recoge parámetros básicos relevantes subsistema
 Subsistema
-
 Parámetros básicos
 Controlmando señalización bordo
 protección tren
@@ -3139,7 +3137,6 @@ ETI LOC PAS
 ETI Vagones
 geometría juego ruedas
 ruedas
-
 Compatibilidad electromagnética material rodante equipos controlmando señalización tierra
 Frenado servicio
 Posición antenas controlmando señalización bordo
@@ -3758,7 +3755,6 @@ apartados artículo términos agosto agosto sustituirán agosto agosto
 cuadro artículo sustituirá
 Vegetales
 Período
-
 Artículo
 destinatarios presente Decisión miembros
 Bruselas noviembre
@@ -4941,7 +4937,6 @@ ANEXO
 anexo Reglamento CE modifica
 rúbrica Hong Kong relativa código residuos sustituye texto
 Hong Kong
-
 etileno
 estireno
 polipropileno
@@ -4986,15 +4981,12 @@ rúbrica Marruecos inserta rúbrica
 Nepal
 rúbrica Rusia Federación Rusia inserta rúbrica
 Serbia
-
 Ropa usada artículos textiles usados
 residuos
 GCGN
 rúbrica Seychelles inserta rúbrica
 Singapur
-
 Escorias producción cobre químicamente estabilizadas elevado contenido hierro tratadas conformidad especificaciones industriales ejemplo DIN DIN principalmente fines construcción aplicaciones abrasivos
 Residuos materias plásticas forma sólida estén mezclados residuos estén preparados arreglo especificación
-
 materiales siguientes estén mezclados desechos peligrosos
 Desperdicios desechos papel cartón

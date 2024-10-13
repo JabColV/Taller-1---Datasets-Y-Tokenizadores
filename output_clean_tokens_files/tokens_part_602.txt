@@ -133,7 +133,6 @@ Método calcular Índice Eficiencia Energética Índice Eficiencia Secado consum
 CÁLCULO ÍNDICE EFICIENCIA ENERGÉTICA
 calcular Índice Eficiencia Energética IEE modelo lavavajillas doméstico consumo energía anual lavavajillas doméstico compara consumo energía anual normalizado
 Índice Eficiencia Energética IEE EEI siglas inglés calcula redondea decimal
-
 consumo energía anual lavavajillas doméstico
 consumo energía anual normalizado lavavajillas doméstico
 consumo energía anual AEc expresa kWh año redondea decimal
@@ -3630,7 +3629,6 @@ ejercicio financiero
 Importe recuperado
 Importe cuya recuperación halla curso
 Importe abonar presupuesto comunitario
-
 refiere únicamente identificación casos notificados virtud Reglamento CE Comisión DO
 ANEXO III
 ANEXO III bis
@@ -4822,7 +4820,6 @@ RVR Visibilidad despegue
 Instalaciones
 RVR Visibilidad
 Nota
-
 Luces borde pista marca eje pista
 Notas
 Luces borde pista eje pista
@@ -4936,7 +4933,6 @@ Intermedias
 notas
 Básicas
 notas
-
 notas
 pies alturas superiores
 Operaciones piloto

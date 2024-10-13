@@ -1414,7 +1414,6 @@ DO
 DO
 DO
 ANEXO
-
 Zona protección mencionada artículo
 Código ISO país
 miembro
@@ -1424,7 +1423,6 @@ Nombre
 España
 Zona abarca
 Municipio Almoguera territorios Fuenlespino Valdeolmena Fuenvellida Amos Santiago Vilillas Conchuela
-
 Zona vigilancia mencionada artículo
 Municipios Albalate Zorita Albares Comunidad Albarate Zorita Illana Aldovera Driebes Illana Algarga Mazuecos Pozo Almoguera Yebra Zorita Canes
 Corrección errores Reglamento Delegado UE Comisión marzo complementa Directiva UE Parlamento Europeo Consejo etiquetado energético secadoras tambor domésticas
@@ -2565,8 +2563,6 @@ Años cosecha
 Tipos arroz
 Redondo
 Redondo
-
-
 cantidad arroz cáscara almacenada actualmente organismo intervención italiano importante período almacenamiento resulta conveniente convocar licitación permanente reventa mercado interior cerca toneladas arroz cáscara posesión organismo
 Milano Tel
 Fax
@@ -2982,7 +2978,6 @@ referencias Reglamento derogado entenderán hechas presente Reglamento leerán a
 Artículo
 presente Reglamento entrará vigor veinte publicación Diario Oficial Unión Europea
 presente Reglamento aplicable julio
-
 artículo letra artículo apartado letra artículo apartado artículo apartado aplicación enero
 artículo letra aplicación enero
 artículo apartado letra aplicación diciembre
@@ -4536,17 +4531,14 @@ DO
 Reglamento modificado Reglamento CE DO
 ANEXO
 anexo Decisión CE añaden partes siguientes
-
 clasificación canales cerdo llevará cabo método denominado Ultrasound ISD
 aparato clasificación ISD dispositivo medir carne magra espesor tocino análisis respuestas serie impulsos ultrasónicos transmiten secuencias canal lugar específico
 sonda ultrasonidos escanea canal correspondiente serie impulsos ultrasónicos frecuencia MHz momento escanear
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 ISD espesor tocino dorsal mm medido punto situado mm línea media canal penúltima antepenúltima costillas mm
 ISD espesor músculo punto medición mm
 fórmula válida canales peso comprendido kilogramos
-
 clasificación canales cerdo llevará cabo método denominado Needle ISD
 aparato clasificación ISD dispositivo dotado sonda aguja puntiaguda introduce lugar determinado canal profundidad introducción mm aguja aparato óptico especial ilumina canal óptico tejido zona circundante escanea cantidad energía luminosa reflejada gracias longitud onda definida
 terminal equipado aparato preciso medición contacto determina profundidad introducción precisión micrómetros
@@ -4806,7 +4798,6 @@ considerando Reglamento provisional pruebas existencia barreras arancelarias pud
 circunstancias pese disponer volumen producción mantiene conclusión global Unidos constituyen país análogo apropiado
 importadores alegaron precios venta unitarios baldosas fabricadas EEUU mercado interior estadounidense elevados mercado Unión compararlos precios exportación daban lugar existencia prácticas dumping
 argumento pertinente fines presente procedimiento alegación tipo suponiendo existiesen indicios razonables examinarse exhaustivamente procedimiento antidumping distinto relativo EEUU
-
 importadores alegaron productor estadounidense cooperó pertenecía productores Unión asociado investigación correcta datos obtenidos independientes
 Cabe recordar datos presentados productor estadounidense cooperó verificaron in situ
 alegación resultó pertinente

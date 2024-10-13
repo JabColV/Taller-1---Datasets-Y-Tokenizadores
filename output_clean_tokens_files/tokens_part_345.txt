@@ -534,7 +534,6 @@ Cuentas PK registros PK incluido registro Unión
 haberes
 PK
 Administrador registro PK registro Unión Administrador Central
-
 cancelación
 retirada
 depósito UCA RCDE
@@ -792,7 +791,6 @@ Entrada significa fila
 Código país miembro
 Entrada manual
 Cantidad derechos emisión expedir instalaciones
-
 Cantidad derechos emisión reserva
 Código identificación instalación
 Cantidad asignarse instalación
@@ -894,14 +892,12 @@ años casillas distintas año cubierto plan nacional asignación orden ascendent
 DTUE contendrá único cuadro asignación Unión aviación correspondiente año
 cuadro recogerá forma tabular información
 Nombre
-
 representante autorizado nacional haberes derechos emisión actuará representante autorizado administrador nacional miembro titular nacional haberes derechos emisión
 Artículo
 Actualización información cuentas información relativa representantes autorizados
 representante autorizado representante autorizado adicional transferir condición persona
 código identificación instalación posea momento permiso válido casillas distintas orden ascendente instalaciones enumeradas figurarán incluidas unilateralmente arreglo artículo Directiva CE excluidas temporalmente arreglo artículo dicha Directiva
 Obligatorio
-
 Reglamento Ejecución UE Comisión
 julio
 inscribe denominación Registro Denominaciones Origen Protegidas Indicaciones Geográficas Protegidas Szőregi rózsatő IGP
@@ -1996,7 +1992,6 @@ Número registro flota Unión buque pesquero identificación vehículo razón so
 Clase arte pesca
 Código arte Clasificación Estadística Internacional Uniforme Artes Pesca FAO
 Infracción grave
-
 Clase infracción grave detectada
 Indicar clase infracción grave detectada referencia número columna izquierda anexo XXX Reglamento Ejecución UE
 infracciones graves contempladas artículo apartado letras Reglamento control identificarán números respectivamente
@@ -2008,7 +2003,6 @@ Multa EUR ejemplo
 Decomiso
 CAPTURA ARTE efectos decomiso físico
 Importe decomisado caso valor CAPTURA ARTE EUR ejemplo
-
 caso retirada licencia autorización indicar LI AU número ejemplo AU
 Puntos
 Número puntos asignados ejemplo
@@ -3113,9 +3107,7 @@ CIPAC consta
 aceites parafina
 enero
 diciembre
-
 autorizar usos insecticida acaricida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión aceites parafina CAS CAS CAS particular apéndices II
 conveniente condiciones deberán incluir medidas adecuadas reducción riesgo
 miembros afectados deberán exigir
@@ -3196,7 +3188,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -3210,7 +3201,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -3224,7 +3214,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -3553,7 +3542,6 @@ Protección desarrollo promoción activos turismo público
 Desarrollo promoción servicios turismo público
 Protección desarrollo promoción activos cultura patrimonio públicos
 Desarrollo promoción servicios cultura patrimonio públicos
-
 Capacidad institucional administraciones servicios públicos relacionados aplicación FEDER acciones apoyo iniciativas desarrollo capacidad institucional FSE
 Iniciativas desarrollo local cargo comunidades locales zonas urbanas rurales
 Regiones ultraperiféricas compensación costes adicionales derivados déficit accesibilidad fragmentación territorial
@@ -4102,7 +4090,6 @@ rellenar formulario
 completarse partes lista control
 dispone información deberá explicarse
 validador seguridad aérea UE determinará cumplen objetivos medida
-
 Identificación entidad validada validador
 Fechas validación
 utilizarse formato fecha exacta ejemplo
@@ -4137,7 +4124,6 @@ Población
 Código postal
 procede
 Dirección sede compañía aérea ejemplo sede social
-
 Organización responsabilidades compañía aérea ACC aeropuerto
 Objetivo carga correo aéreos transporten UE EEE deberán superar oportunos controles seguridad
 siguientes partes lista control pormenorizan información relativa dichos controles
@@ -4148,7 +4134,6 @@ inspección física suficientemente fiable ofrecer garantías razonables envío 
 controles seguridad formen proceso seguridad cadena suministro ofrezcan garantías razonables envío esconde artículo prohibido aplicados agentes acreditados expedidores conocidos hayan superado validación seguridad aérea UE expedidor cliente agente acreditado superado validación seguridad aérea UE
 Referencia punto
 establecido compañía aérea proceso garantice carga correo aéreos someten oportunos controles seguridad embarque aeronave destino UE EEE
-
 caso afirmativo descríbase proceso
 controles seguridad aplicados compañía aérea entidad actúe nombre compañía aérea esté sujeta programa seguridad
 caso afirmativo detállese
@@ -4157,7 +4142,6 @@ Especifíquese naturaleza tales entidades detállese
 Empresa privada asistencia tierra carga
 Empresa regulada
 Instalaciones organismo inspección
-
 documentos instrucciones garantiza compañía aérea controles seguridad aplican oportuna
 compañía aérea posibilidad solicitar oportunos controles seguridad caso inspección lleven cabo entidades contempladas programa seguridad compañía aérea ejemplo instalaciones
 caso negativo detállese
@@ -4166,7 +4150,6 @@ caso afirmativo descríbanse elementos conforman programa implantado
 Conclusiones observaciones generales fiabilidad valor consistencia proceso
 Observaciones compañía aérea
 Observaciones validador seguridad aérea UE
-
 Programa seguridad compañía aérea
 compañía aérea considerar transmitir documentación validador seguridad aérea UE visita terreno ayudarle familiarice lugar inspeccionar
 Referencia punto apéndice
@@ -4193,7 +4176,6 @@ caso negativo descríbase pormenorizando motivos
 Resultan medidas seguridad aérea descritas programa seguridad oportunas suficientes garantizar seguridad carga correo aéreos destino UE EEE conforme requisitos aplicables
 Conclusión programa seguridad concluyente consistente completo
 caso negativo expónganse motivos
-
 Selección formación personal
 Objetivo compañía aérea ACC asignará tareas seguridad carga correo aéreos personal competente responsable
 personal acceso carga aérea segura posee competencias necesarias trabajo recibe formación adecuada
@@ -4221,7 +4203,6 @@ caso afirmativo descríbanse aspectos cubre formación duración cursos
 Recibe personal mencionado puntos formación continua
 caso afirmativo descríbanse aspectos cubre formación continua frecuencia imparte
 Conclusión garantizan medidas relativas selección formación personal personas acceso carga correo aéreos seguros seleccionan adecuadamente reciben formación oportuna asegurar conocimiento suficiente responsabilidades materia seguridad
-
 Procedimientos aceptación
 Objetivo compañía aérea ACC implantado procedimiento permita momento aceptar envío evaluar verificar declaración seguridad asignada controles previos
 procedimiento incluirá elementos siguientes
@@ -4250,7 +4231,6 @@ caso negativo controles aplican garantizar seguridad carga correo destino UE EEE
 compañía aérea acepta carga correo aéreos transferencia lugar carga correo sale aeronave aeronave determina compañía aérea conforme datos dispone carga correo someterse controles seguridad
 exige persona realiza entrega carga aérea segura conocida compañía aérea presente documento identidad oficial incluya fotografía
 Conclusión suficientes procedimientos aceptación determinar carga correo aéreos proceden cadena suministro segura contrario someterse inspección
-
 Base datos
 Objetivo casos compañía aérea ACC esté obligada cabo inspección carga correo aéreos destino UE EEE compañía aérea ACC asegurará carga correo proceden agente acreditado expedidor conocido superado validación seguridad aérea UE expedidor cliente agente acreditado
 controlar registro auditoría seguridad pertinente compañía aérea ACC dispondrá base datos información entidades personas acepta carga correo forma directa
@@ -4272,7 +4252,6 @@ Dispone personal acepta carga correo aéreos fácil acceso base datos
 actualiza base datos regularidad necesaria proporcionar información fiable personas aceptan carga correo aéreos
 caso negativo explíquese
 Conclusión dispone compañía aérea base datos garantice plena transparencia relación entidades recibe carga correo sometidos inspección control seguridad forma directa transporte UE EEE
-
 Inspección
 Objetivo compañía aérea ACC acepta carga correo entidad superado validación seguridad aérea UE carga protegido interferencias autorizadas momento aplicaron controles seguridad compañía aérea ACC asegurará carga correo someten inspección embarque aeronave
 compañía aérea ACC seguirá proceso garantice carga correo aéreos destino UE EEE transferencia tránsito descarga aeropuerto Unión someten inspección medios métodos indicados normativa UE medida necesaria garantizar forma razonable contienen artículo prohibido
@@ -4305,7 +4284,6 @@ caso afirmativo descríbase
 aplican régimen análisis control calidad determinados
 Conclusión inspeccionan carga correo aéreos medios métodos indicados punto Decisión UE medida necesaria garantizar forma razonable contienen artículo prohibido
 caso negativo expóngase motivo
-
 Carga correo alto riesgo HRCM
 Objetivo considerarán carga correo alto riesgo HRCM envíos tengan origen lugares identificados alto riesgo UE hayan transferencia dichos lugares muestren claros indicios manipulados
 Tales envíos deberán inspeccionarse conforme instrucciones concretas
@@ -4323,7 +4301,6 @@ inspección expide compañía aérea declaración seguridad envío SHR documenta
 caso afirmativo descríbase expide declaración seguridad documento
 Conclusión resulta apropiado proceso implantado compañía aérea ofrece garantías suficientes carga correo aéreos alto riesgo tratan adecuado embarque
 Observaciones validador seguridad aérea UE
-
 Protección
 Objetivo compañía aérea ACC implantados procedimientos garanticen carga correo aéreos destino UE EEE protegen interferencias autorizadas momento superan inspección controles seguridad momento aceptan superar inspección controles seguridad momento embarque
 protección proporcionarse distintas formas ejemplo medios físicos barreras salas cerradas etc humanos patrullas personal formado etc tecnológicos cámaras televisión circuito cerrado sistemas alarma antiintrusión etc
@@ -4335,7 +4312,6 @@ siguen procesos garanticen carga correo aéreos destino UE EEE superado oportuno
 caso afirmativo descríbanse medidas protección
 Conclusiones protección envíos suficientemente consistente evitar interferencia ilícita
 caso negativo expóngase motivo
-
 Documentación acompaña envío
 Objetivo compañía aérea ACC garantizará
 declaración seguridad envío incluya documentación acompañe conocimiento aéreo documento postal equivalente declaración separada formato electrónico papel
@@ -4352,7 +4328,6 @@ caso negativo explíquese compañía aérea carga correo seguro embarca aeronave
 Incluye documentación identificador alfanumérico único compañía aérea ACC
 Especifica documentación declaración seguridad carga obtuvo dicha declaración
 Conclusión ofrece proceso documentación garantías suficientes carga correo acompañado documentación adecuada especifique correcta declaración seguridad
-
 Cumplimiento
 Objetivo evaluar anteriores partes lista control validador seguridad aérea UE concluir verificación in situ corresponde contenido programa seguridad compañía aérea describe medidas aplicables carga correo aéreos destino UE EEE controles seguridad cumplen suficiente objetivos enumerados lista control
 conclusiones distinguir posibles casos principales

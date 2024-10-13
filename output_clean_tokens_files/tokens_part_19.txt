@@ -118,7 +118,6 @@ DO
 DO
 DO
 ANEXO
-
 Definición especies grupos especies
 zona poblaciones peces indican orden alfabético nombres científicos especies
 continuación incluye tabla correspondencias denominaciones comunes científicas efectos presente Reglamento
@@ -132,7 +131,6 @@ Maruca azul
 Brótola
 Besugo
 mención tiburones aguas profundas refiere siguientes especies tiburones pailona Centroscymnus coelolepis quelvacho negro Centrophorus squamosus tollo pajarito Deania calceus lija negra carocho Dalatias licha tollo lucero Etmopterus princeps negrito Etmopterus spinax tollo negro merga Centroscyllium fabricii quelvacho Centrophorus granulosus pintarroja bocanegra Galeus melastomus pintarroja islándica Galeus murinus pejegato islándico Apristuris spp
-
 Posibilidades pesca anuales aplicables buques comunitarios zonas limitaciones capturas especies zonas toneladas peso vivo
 referencias refieren subzonas CIEM indicación contraria
 Especie Tiburones aguas profundas
@@ -151,7 +149,6 @@ Especie Sable negro
 Zona II III IV Aguas comunitarias aguas internacionales
 Zona VI VII XII Aguas comunitarias aguas internacionales
 Letonia
-
 Zona VIII IX Aguas comunitarias aguas internacionales
 Zona CPACO
 Aguas comunitarias aguas internacionales
@@ -159,32 +156,24 @@ Especie Alfonsinos
 Zona III IV VI VII VIII IX XI Aguas comunitarias aguas internacionales
 Especie Brosmio
 Zona II XIV Aguas comunitarias aguas internacionales
-
 Zona III Aguas comunitarias aguas internacionales
 Dinamarca
 Suecia
 Zona IV Aguas comunitarias aguas internacionales
-
 Zona VI VII Aguas comunitarias aguas internacionales
-
 Especie Granadero
 Zona II IV Aguas comunitarias aguas internacionales
 Zona Vb VI VII Aguas comunitarias aguas internacionales
-
 Zona VIII IX XII XIV Aguas comunitarias aguas internacionales
 Especie Reloj anaranjado
 Zona VI Aguas comunitarias aguas internacionales
 Zona VII Aguas comunitarias aguas internacionales
-
 Zona II III IV VIII IX XII XIV Aguas comunitarias aguas internacionales
 Especie Maruca azul
 Zona II IV Aguas comunitarias aguas internacionales
-
 Zona VI VII Aguas comunitarias aguas internacionales
-
 Especie Besugo
 Zona VI VII VIII Aguas comunitarias aguas internacionales
-
 Zona IX Aguas comunitarias aguas internacionales
 Especie Brótola
 Zona VIII IX Aguas comunitarias aguas internacionales
@@ -307,9 +296,7 @@ intenso color rojo anaranjado
 Pureza
 Pérdida desecación
 °C horas mm Hg
-
 Óxido trifenilfosfina
-
 Residuos disolventes
 Metanol mg kg
 Hexano propanol mg kg
@@ -335,7 +322,6 @@ Metanol
 Acetato etilo
 mg kg separado conjunto
 Cenizas sulfatadas
-
 Mercurio
 Cadmio
 Arsénico
@@ -348,10 +334,8 @@ licopenos totales licopeno trans colorantes
 cm nm hexano licopeno trans puro colorantes
 Test detección carotenoides
 carotenoides
-
 Propanol
 Acetato isobutilo
-
 mg kg
 miembros pondrán vigor disposiciones legales reglamentarias administrativas necesarias cumplimiento establecido presente Directiva tardar septiembre
 Comunicarán inmediatamente Comisión texto dichas disposiciones
@@ -882,7 +866,6 @@ Fecha nacimiento
 dd mm aaaa
 Indique importe pensiones alimentarias paga terceros
 Indique importe paga alquiler domicilio principal importe abona entidades bancarias concepto devolución préstamos obtuvo adquisición domicilio principal
-
 cuadro incluir información adicional situación respecta ingresos cargas soporta ej devolución préstamos distintos préstamo adquisición domicilio principal etc
 ABOGADO PROPONE
 rúbrica ofrece posibilidad proponer Tribunal nombre abogado represente rellenando cuadro
@@ -1117,7 +1100,6 @@ Cálculo coste global nivel financiero
 determinar coste global medida paquete variante nivel financiero precios deberán tenerse pagados cliente incluyendo impuestos aplicables IVA gastos
 cálculo deberían manejarse idealmente subvenciones disponibles medidas paquetes variantes miembros decidir dejarlas garantizando caso excluyan cálculo subvenciones regímenes ayuda favor tecnologías caso subvenciones puedan beneficiarse precios energía
 coste global edificios elementos calculará sumando tipos costes aplicándoles tasa actualización factor actualización expresarlos términos valor año inicial resultado obtenido añadirá valor residual actualizado forma
-
 período cálculo
 coste global referido año inicial período cálculo
 costes inversión iniciales medida conjunto medidas
@@ -1128,7 +1110,6 @@ miembros determinarán tasa actualización deba utilizarse cálculo financiero a
 Cálculo coste global nivel macroeconómico
 determinar coste global medida paquete variante nivel macroeconómico precios deberán tenerse excluirán impuestos aplicables IVA gastos subvenciones
 nivel macroeconómico tipos costes contemplados punto deberá añadirse tipo costes emisiones gases efecto invernadero fórmula cálculo coste global adaptará forma
-
 ij coste carbono medida conjunto medidas año
 miembros calcularán coste carbono medidas paquetes variantes acumulado período cálculo sumando emisiones anuales gases efecto invernadero multiplicando resultado suma precio prevea tonelada equivalente CO derechos emisión dichos gases expedidos año operación conformidad escenarios precios carbono prevé actualmente Comisión régimen comercio derechos emisión utilizará límite inferior mínimo precios importe euros tonelada equivalente CO euros euros posterioridad año medidos precios reales constantes adaptables fechas cálculo método elija
 efectúe revisión cálculo optimización costes escenarios tengan deberán actualizados
@@ -1217,7 +1198,6 @@ relación volumen aire calentado acondicionado entendiendo longitud dimensión h
 Número pisos
 Relación superficie volumen
 Proporción superficie ventanas superficie envolvente edificio
-
 Norte
 Oeste
 Orientación
@@ -1328,10 +1308,7 @@ Etc
 Aislamiento tejado
 Aislamiento muros
 Ventanas
-
 descripción
-
-
 Proporción superficie ocupada ventanas envolvente edificio
 Medidas relativas edificio masa térmica etc
 Sistema calefacción
@@ -1550,7 +1527,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -1839,12 +1815,10 @@ DO
 DO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES CERDO DINAMARCA
-
 clasificación canales cerdo realizará aparato denominado Klassificeringscenter KC
 aparato equipado sondas milímetros diámetro incluyendo fotodiodo Siemens tipo SFH LD II similar fotodetector Siemens tipo SFH PB similar alcance comprendido milímetros
 unidad central convertirá resultados medición estimación contenido carne magra
 contenido carne magra canal calculará base mediciones tomadas puntos medición indican punto fórmula
-
 porcentaje estimado carne magra canal
 puntos medición
 espesor tocino incluida corteza milímetros medido centro vértebra cervical cm línea media canal
@@ -1858,18 +1832,15 @@ espesor músculo milímetros medido cuarta quinta vértebras torácicas cm líne
 espesor músculo milímetros medido vértebras torácicas cm línea media canal
 espesor músculo milímetros medido vértebra lumbar vértebra torácica cm línea media canal
 fórmula válida canales peso comprendido kg
-
 clasificación canales cerdo realizará aparato denominado FatOMeater Manuel Klassificering FOM MK
 aparato tipo FatOMeater equipado sonda milímetros diámetro contiene fotodetector Siemens tipo SFH BP similar alcance comprendido milímetros
 contenido carne magra canal calculará aplicando fórmula
 espesor tocino incluida corteza milímetros medido cm línea media canal cuarta vértebras lumbares
 espesor tocino incluida corteza milímetros medido cm línea media canal cuarta costillas
 espesor músculo milímetros medido tiempo lugar
-
 clasificación canales cerdo realizará aparato denominado UniFatOMeater Unifom
 aparato describe punto
 Unifom diferencia MK ordenador programas informáticos utilizados interpretación perfil reflexión sonda óptica
-
 clasificación canales cerdo realizará aparato denominado Fully automatic ultrasonic equipment AutoFOM
 aparato equipado dieciséis transductores ultrasónicos funcionen MHz Krautkrämer SFK NP similar distancia mm transductor
 unidad central procesamiento datos traducirá resultados mediciones contenido estimado carne magra
@@ -1877,13 +1848,11 @@ contenido carne magra canal calculará puntos medición individuales fórmula
 constantes figuran II protocolo danés presentado Comisión virtud dispuesto artículo apartado Reglamento CEE Comisión
 descripción puntos medición descripción método estadístico figuran II protocolo danés presentado Comisión virtud dispuesto artículo apartado Reglamento CEE Comisión
 fórmula válida canales peso comprendido kg
-
 clasificación canales cerdo realizará aparato denominado Updated fully automatic ultrasonic equipment AutoFOM DK
 aparato mecánicamente compatible AutoFOM atañe dispositivo escaneado
 principio medición varía
 AutoFOM DK diferencia AutoFOM dispositivo garantiza canal atraviese unidad medición posición recta sensor láser detecta canal proporciona medidas simétricas cómputo paquete programas informáticos facilitan oportunidad aumentar velocidad resolución proyección imagen
 contenido carne magra canal calculará aplicando fórmula
-
 clasificación canales cerdo realizará aparato denominado FatOMeater II FOM II
 aparato versión sistema medición FATOMeater
 principio medición básico descrito punto partes varía programas informáticos equipo concepción mecánica rediseñado
@@ -2410,7 +2379,6 @@ DO
 Reglamento modificado lugar Reglamento CE Consejo DO
 ANEXO
 ESPECIFICACIONES TÉCNICAS CONTEMPLADAS ARTÍCULO
-
 Marco muestreo
 evitar efectos relacionados edad seguimiento llevará cabo lotes sacrificio matadero
 Puesto demostrado prevalencia género Campylobacter varía dependiendo estación conveniente efectuar estratificación
@@ -2422,7 +2390,6 @@ estatus género Campylobacter género Salmonella conoce momento sacrificio sesga
 autoridad competente responsable generar plan aleatorización asegurándose implementa correctamente
 informe Grupo Operativo Seguimiento Recogida Datos Zoonosis EFSA acerca especificaciones técnicas propuestas programa seguimiento coordinado Salmonella Campylobacter carne pollos engorde UE ofrece ejemplo procedimiento aleatorización
 Deberá informarse Comisión detalles plan aleatorización
-
 Tamaño muestra
 Tamaño primario muestra
 tamaño primario muestra indica número lotes sacrificio realizarse pruebas
@@ -2436,7 +2403,6 @@ Tamaño secundario muestra
 tamaño secundario muestra indica número pollos engorde lote sacrificio someterse muestreo
 número aves detección Campylobacter intestino ciego ave detección Campylobacter Salmonella canales
 muestras intestino ciego muestra canales proceder lote sacrificio
-
 Recogida manipulación análisis muestras detección antibiograma género Campylobacter manadas pollos engorde
 Recogida transporte
 Campylobacter organismos relativamente frágiles mueren rápidamente intestino anfitrión
@@ -2491,7 +2457,6 @@ Valor límite mg
 Eritromicina
 Tetraciclina
 métodos dilución llevarán cabo métodos descritos directrices MA edición Performance Standards for Antimicrobial Disk and Dilution Susceptibility Tests for Bacteria Isolated from Animals MS Performance Standards for Antimicrobial Susceptibility testing Sixteenth International Supplement CLSI
-
 Recogida manipulación análisis muestras detección género Campylobacter género Salmonella canales pollos engorde
 Deberá recogerse canal entera lote sacrificio inmediatamente enfriamiento procesamiento congelación despiece embalaje
 mataderos significar muestras tomen enfriamiento previo paso transformaciones ulteriores
@@ -2551,7 +2516,6 @@ recomienda almacenar subconjunto cepas representativo ejemplo efectuar antibiogr
 almacenará cepa muestra positiva
 elegirá preferiblemente cepa Campylobacter obtenida análisis cuantitativo
 cepas deberán almacenarse laboratorios nacionales referencia siguiendo método normal recogida cultivos empleado laboratorios método garantice viabilidad cepas mínimo años
-
 Informes
 informes elaborarán incluyan mínimo información
 Descripción general realización estudio
@@ -2764,7 +2728,6 @@ Noruega
 aplicable
 anexo III
 añade
-
 tamaño mínimo pulpo Octopus vulgaris aguas marítimas soberanía jurisdicción terceros países situados región CPACO gr eviscerado
 conservar bordo transbordar desembarcar transportar almacenar vender exponerse ponerse venta pulpo tamaño inferior gr eviscerado deberá devuelto inmediatamente mar
 pesca zona VI restringida palangre
@@ -2934,8 +2897,6 @@ encuestado ingresos personales
 Encuestado seleccionado
 acceso bancaria
 decide compra diaria
-
-
 pareja
 encuestado forma pareja viva hogar RBF
 toma decisiones gastos importantes relación niños
@@ -2948,9 +2909,6 @@ decide ahorros
 ahorros común
 toma decisiones general
 decidir gasta consumo actividades ocio aficiones
-
-
-
 decidir gasta cubrir necesidades niños incluida paga
 tiempo cohabitando pareja
 Número años
@@ -3339,7 +3297,6 @@ Indicador
 subvención Fondo Cohesión
 subvención Fondo Cohesión
 TIR
-
 consiguiente peritaje independiente confirmó adecuación canon concesión calculado detallado EUR anuales
 método basado ingresos ofrece proyecciones financieras período años
 ingresos costes estimados rectifican tipo actualización refleja nivel riesgo inversión
@@ -3636,10 +3593,8 @@ Chaghi Bazaar Chaghi provincia Baluchistán Pakistán
 jSucursal
 Zahedan provincia Zabol Irán
 suprime mención figura anexo Decisión PESC relativa persona abajo indicada
-
 Nasiruddin Haqqani recaudó fondos red Haqqani viajes realizados finalidad viajes periódicos Emiratos Árabes Unidos viaje recaudación fondos Golfo
 mediados Haqqani contaba permanentemente fuentes financiación
-
 red Haqqani compuesta grupo militantes afiliado talibanes opera zona fronteriza Afganistán Pakistán
 red vanguardia actividad insurgente Afganistán responsable numerosos atentados notorios Zadran lugarteniente destacado líder red Haqqani Sirajuddin Haqqani
 representa red Haqqani basada zona fronteriza Afganistán Pakistán presta apoyo logístico financiero miembro Consejo Financiero Talibán viajado extranjero recaudar fondos nombre Sirajuddin Jallaloudine Haqqani Jalaluddin Haqqani red Haqqani talibanes cree zona fronteriza Afganistán Pakistán
@@ -4071,7 +4026,6 @@ ANEXO
 anexos II IV quedan modificados
 anexo II queda modificado
 sustituye texto
-
 Modelo certificado zoosanitario comercialización animales acuicultura destinados cría reinstalación pesquerías suelta captura instalaciones ornamentales abiertas repoblación
 Detalles relativos partida presentada
 UNIÓN EUROPEA
@@ -4090,7 +4044,6 @@ Código ISO
 País destino
 Lugar origen Lugar captura
 Explot autorizada acuicultura
-
 Número autorización
 Lugar destino
 Lugar carga
@@ -4152,7 +4105,6 @@ dispuesto condiciones incluida calidad agua alteran estatus sanitario
 proceda cumplen condiciones generales aplicables transporte animales establecen artículo Reglamento CE
 contenedor utilizado transporte embarcación vivero limpiado desinfectado anterioridad carga utilizado previamente
 partida identificada etiqueta legible situada exterior contenedor transporta embarcación vivero manifiesto barco incluye información pertinente indicada casillas presente certificado declaración
-
 “Peces MoluscosCrustáceos silvestres destinados cría Unión Europea
 “Moluscos silvestres destinados reinstalación Unión Europea
 “Peces Moluscos Crustáceos silvestres destinados pesquerías suelta captura Unión Europea
@@ -4172,11 +4124,9 @@ especies sensibles enfermedades pertinentes vacunan dichas enfermedades
 caso VPC NPI renibacteriosis única explotación supervisión autoridad competente
 vaciado limpiado desinfectado mantenido barbecho semanas
 repoblado animales procedentes zonas declaradas libres enfermedad pertinente autoridad competente
-
 caso partidas aplicables requisitos relativos GS mantenido inmediatamente comercialización aguas cuya salinidad mínimo partes mil catorce consecutivos periodo introdujeron animales acuáticos vivos especies sensibles GS
 caso huevos peces ojos aplicables requisitos relativos GS desinfectado siguiendo método demostrado eficaz GS
 Notas
-
 Casilla procede indicar número autorización explotación zona cría moluscos trate
 Marcar animales acuáticos silvestres
 Casilla procede indicar número autorización explotación zona cría moluscos trate
@@ -4211,7 +4161,6 @@ Fecha
 Sello
 Firma
 añade
-
 Lista especies sensibles enfermedades medidas nacionales aprueban arreglo Decisión UE
 Enfermedad
 Especies sensibles
@@ -4285,7 +4234,6 @@ II presente certificado souligner aplicable partidas destinadas miembro consider
 II aplicable partidas peces especie originarios aguas especies figuran anexo II especies sensibles infección Gyrodactylus salaris dichas partidas destinen miembro figure anexo Decisión UE libre Gyrodactylus salaris
 partidas animales acuáticos silvestres aplicables requisitos relacionados VPC NPI renibacteriosis importarse independencia requisitos II presente certificado destinan instalación cuarentena cumpla requisitos establecidos Decisión CE
 sustituye texto
-
 Modelo certificado zoosanitario importación Unión Europea animales acuáticos ornamentales destinados instalaciones ornamentales cerradas
 Identificación mercancías
 Animales acuáticos ornamentales destinados instalaciones ornamentales cerradas
@@ -4679,7 +4627,6 @@ FBBW ancho datos FB bit
 FBBW ancho datos FB bit
 Ancho banda búfer trama FBBW cantidad datos procesan GPU dGfx cifra calcula fórmula
 Ancho banda búfer trama velocidad ancho datos
-
 ancho banda búfer trama expresa Gigabytes GB
 velocidad frecuencia efectiva datos memoria MHz
 ancho datos ancho datos búfer trama FB expresado bits

@@ -209,13 +209,11 @@ evaluar riesgos asociados introducción translocación organismos acuáticos nec
 proceso evaluación hará hincapié calificaciones información biológica detallada datos pertinentes hayan lugar calificación
 caso incertidumbre científica aplicarse principio cautela
 efectos presente anexo solicitud refiera translocación propuesta términos introducción introducidoa sustituirse translocación translocadoa
-
 PROCESO ANÁLISIS RIESGO ECOLÓGICO GENÉTICO
 Paso
 Probabilidad asentamiento propagación allá zona introducción proyectada
 Fenómeno
 Probabilidad
-
 Grado certidumbre
 RE RB MB
 Observaciones sustenta análisis
@@ -224,7 +222,6 @@ escape dispersión especie introducida translocada propaga allá zona introducci
 Calificación
 Paso
 Consecuencias asentamiento propagación
-
 RE RB MB
 Observaciones sustenta análisis
 mezcla genética poblaciones locales provoca pérdida diversidad genética
@@ -263,7 +260,6 @@ requieren medidas paliativas
 propuesta aprobarse forma presentada medidas paliativas potencial riesgo global estimado grado certidumbre global correspondiente riesgo global estimado elevado relativamente elevado
 análisis riesgo global inscribe categoría alto preciso incorporar propuestas confinamiento mitigación solicitud objeto análisis riesgo calificación riesgo global baja grado certidumbre elevado relativamente elevado
 descripciones pasos adicionales especificación detallada medidas confinamiento mitigación pasarán integrante análisis riesgo
-
 PROCESO EVALUACIÓN ESPECIES OBJETIVO
 Probabilidad asentamiento propagación especies objetivo allá zona introducción proyectada
 Observaciones sustenta análisis
@@ -282,7 +278,6 @@ asigna valor único basándose evaluaciones realizadas pasos
 Observaciones sustenta análisis
 Calificación
 condiciones aplicables análisis potencial riesgo asociado especies exóticas aplicarse mutatis mutandis potencial riesgo asociado especies objetivo incluida obligación introducir medidas confinamiento paliativas
-
 ANÁLISIS RIESGO AMBIENTAL GLOBAL INFORME SÍNTESIS
 Historia antecedentes motivaciones solicitud
 Síntesis análisis riesgo
@@ -4113,7 +4108,6 @@ presente Interpretación analiza acuerdos pagos basados acciones alude apartado 
 existir matriz filial arreglo filial deba retribuir matriz cambio aporte instrumentos patrimonio empleados
 presente Interpretación ocupa reflejarse contablemente pago intragrupo
 presente Interpretación centra específicamente transacciones empleados válida igualmente transacciones similares pagos basados acciones realizadas proveedores bienes servicios empleados
-
 Acuerdos pagos basados acciones afecten instrumentos patrimonio entidad apartado
 transacciones pagos basados acciones entidad reciba servicios cambio instrumentos patrimonio contabilizarse transacciones liquidadas instrumentos patrimonio
 válido entidad elección necesidad adquiera instrumentos patrimonio cumplir compromisos frente empleados virtud pago basado acciones
@@ -4385,7 +4379,6 @@ sacrificados expiración período fecha importación
 sacrificados expiración período motivos sanitarios muerto consecuencia enfermedades accidentes
 garantía liberará inmediatamente presente pruebas
 obstante caso observado plazo refiere apartado letra importe garantía liberarse reducirá
-
 importe restante rebase plazo
 importes liberados ejecutarán retendrán concepto derechos aduana
 caso presente prueba mencionada apartado siguientes importación garantía ejecutará retendrá concepto derechos aduana
@@ -4565,7 +4558,6 @@ aminohidroxifenazina AHP máximo kg
 diaminofenazina DAP máximo kg
 junio
 noviembre
-
 autorizarán usos fungicida cultivos siguientes
 cereales
 semillas colza
@@ -4581,7 +4573,6 @@ aplicaciones mochila equipos mano independientemente usuario aficionado profesio
 jardinería doméstica
 miembros deberán asegurar aplicación medidas adecuadas reducción riesgo
 operarios indumentaria protectora adecuada particular guantes monos botas goma protecciones faciales gafas seguridad mezcla carga aplicación limpieza equipo caso evite adecuadamente exposición sustancia diseño construcción equipo montaje componentes específicos protección equipo
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión carbendazima apéndices II
 miembros afectados pedirán solicitante proporcione Comisión
 diciembre tardar información relevancia toxicológica ecotoxicológica impureza AEF
@@ -4715,12 +4706,9 @@ autoriza Presidente Consejo efectuar notificación prevista artículo apartado
 Bruselas diciembre
 Consejo
 Presidente
-
 Comunidad Europea Gobierno Malasia determinados aspectos servicios aéreos
 COMUNIDAD EUROPEA
-
 GOBIERNO MALASIA sucesivo Malasia
-
 sucesivo denominados Partes
 RECONOCIENDO determinadas disposiciones acuerdos bilaterales servicios aéreos miembros Comunidad Europea Malasia contrarias legislación comunitaria ajustarse objeto sentar bases jurídicas sólidas servicios aéreos Comunidad Europea Malasia garantizar continuidad dichos servicios
 TENIENDO Comunidad Europea competencia exclusiva aspectos incluirse acuerdos bilaterales servicios aéreos miembros Comunidad terceros países

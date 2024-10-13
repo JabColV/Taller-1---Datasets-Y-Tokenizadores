@@ -1406,7 +1406,6 @@ Naranjas
 Limones
 Limas
 Mandarinas
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -4591,7 +4590,6 @@ Ventajas específicas modalidad sensible diagnóstico imagen identificación pre
 Permite cuantificación obtención imágenes zonas prestan radiografía
 técnica esencial preservar bienestar caballos carreras gracias detección temprana lesiones prevención fracturas incapacitantes
 corta vida media mTc horas desaparezca rápidamente horas radiactividad detectable caballo
-
 Carbamazepina
 Ciproheptadina
 Ventajas específicas carbamazepina anticonvulsivo bloquea conductos iónicos sodio

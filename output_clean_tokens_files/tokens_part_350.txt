@@ -781,7 +781,6 @@ Luxemburgo KAD
 Casa Jean Monnet Bazoches
 Atenas
 Copenhague
-
 Valeta
 Viena
 Londres
@@ -1456,7 +1455,6 @@ decisiones tomar Mesa ejecución plan acción EMAS particular auditoría Parlame
 PERSONAL
 Sección Parlamento Europeo
 Categorías grados
-
 Grupos políticos
 categoría
 AD
@@ -3484,23 +3482,16 @@ Período contingentario
 Volumen contingentario toneladas peso neto especifique cosa
 Derecho contingentario
 Grasas aceites animales marinos aceite aceite esperma ballena envases capacidad neta kg
-
 salmónidos congelados
-
-
-
 Bacalaos secos salados ahumar bacalao especie Gadus macrocephalus
-
 Pescado especie Boreogadus saida seco salado ahumar
 Arenques Clupea harengus Clupea pallasii congelados hígados huevas lechas
-
 Preparaciones conservas pescado incluidos caviar sucedáneos preparados huevas pescado
 Sardinelas espadines filetes crudos simplemente rebozados pasta pan rallado empanados precocinados aceite ultracongelados
 Bacalaos Gadus morhua Gadus ogac Gadus macrocephalus
 Carboneros Pollachius virens ahumados
 Merluzas Merluccius spp Urophycis spp
 Abadejos Theragra chalcogramma Pollachius pollachius
-
 preparaciones conservas pescado arenque caballa
 preparaciones conservas caballa
 Caballas Scomber scombrus Scomber japonicus congeladas hígados huevas lechas
@@ -3536,7 +3527,6 @@ Carne congelada bacaladilla Micromesistius poutassou Gadus poutassou
 Carne congelada abadejo Alaska Theragra chalcogramma
 Carne congelada pescados mar caballas scomber scombrus Scomber australasicus Scomber japonicus
 Arenques Clupea harengus Clupea pallasii frescos refrigerados congelados
-
 Caballas Scomber scombrus Scomber australasicus Scomber japonicus frescas refrigeradas
 Caballas Scomber scombrus Scomber japonicus congeladas
 Gallinetas nórdicas Sebastes spp frescas refrigeradas congeladas
@@ -3577,7 +3567,6 @@ Preparaciones conservas pescados
 Preparaciones conservas carne pescados
 Preparaciones conservas carne salmón
 Camarones langostinos Decápodos natantia pelados congelados
-
 Camarones langostinos Decápodos natantia pelados congelados
 Harina polvo pellets pescado crustáceos moluscos invertebrados acuáticos
 Cangrejos macruros preparados conservados
@@ -3587,20 +3576,13 @@ tonelada peso neto escurrido
 tonelada peso neto escurrido
 tonelada peso neto escurrido
 Coliflores brécoles broccoli
-
 Arenques Clupea harengus Clupea pallasii congelados
 Brécoles broccoli frescos refrigerados
-
 Coles chinas frescas refrigeradas
-
 Lomos arenque Clupea harengus Clupea pallasii congelados
 Cerezas frescas
-
 Ciruelas endrinas frescas
-
 Fresas frutillas frescas
-
-
 Aceites hígado pescado fracciones contenido vitamina inferior unidades internacionales gramo
 Fracciones sólidas grasas aceites pescado aceites hígado
 Grasas aceites animales fracciones exclusivamente pescado mamíferos marinos
@@ -4795,7 +4777,6 @@ Apellidos nombre razón social dirección completa
 suscribe reconoce correspondencia notificaciones general formalidades trámites relativos presente compromiso dirigidos evacuados escrito domicilios señalados aceptarán debidamente comunicados
 suscribe reconoce competencia órganos jurisdiccionales correspondientes lugares señalado domicilio
 suscribe compromete mantener domicilios señalados tuviere cambiar domicilios señalados comunicarlo previamente aduana garantía
-
 FirmaII
 Aceptación aduana garantía
 Aduana garantía
@@ -4910,23 +4891,19 @@ ANEXO
 anexo II Reglamento CE queda modificado
 cuadro entrada correspondiente aditivo alimentario sustituye texto
 Negro brillante PN
-
 punto colorantes entrada correspondiente aditivo alimentario sustituye texto
 punto aditivos distintos colorantes edulcorantes entrada correspondiente aditivo alimentario sustituye texto
 Carboximetilcelulosa sódica goma celulosa
-
 grupo III colorantes alimentarios límites máximos entrada correspondiente aditivo alimentario sustituye texto
 grupo entrada correspondiente aditivo alimentario sustituye texto
 Carboximetilcelulosa sódica goma celulosa
 quantum satis
-
 categoría alimentos pescado productos pesca elaborados moluscos crustáceos entrada relativa aditivo alimentario sustituye texto
 Negro brillante PN
 pasta pescado pasta crustáceos
 crustáceos precocinados
 pescado ahumado
 categoría alimentos edulcorantes mesa líquidos entrada correspondiente aditivo alimentario sustituye texto
-
 Celulosa microcristalina gel celulosa
 categoría alimentos edulcorantes mesa comprimidos entrada correspondiente aditivo alimentario sustituye texto
 categoría alimentos nata pasteurizada aromatizar nata contenido grasa entrada correspondiente aditivo alimentario sustituye texto

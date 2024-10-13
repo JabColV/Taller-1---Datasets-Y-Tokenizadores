@@ -187,7 +187,6 @@ Alemania
 Bélgica
 Suiza
 países
-
 Navegación interior
 Comisión Central Navegación Rin Place Republique Estrasburgo Cedex Francia
 código sustituye número identificación buque europeo define Rheinschiffsuntersuchungsordnung artículo anexo II Directiva CE
@@ -500,7 +499,6 @@ registro pondrá disposición autoridades competentes terceros países previa so
 autoridad competente refiere apartado tomará medidas necesarias informar autoridades competentes incluidas registro mencionado apartado número europeo identificación asigne datos necesarios identificación buque establecidos apéndice IV anexo II Directiva CE
 datos ponerse disposición autoridades competentes miembros signatarios Convenio Mannheim medida garantice nivel equivalente protección intimidad terceros países base acuerdos administrativos ejecutar medidas administrativas destinadas mantener seguridad orden navegación
 Fuente ECE
-
 Subdiv Código
 Buque tipo desconocido
 Buque tipo desconocido
@@ -754,7 +752,6 @@ PCS
 PROTECT
 Implantación mensaje International Organisation of North Europeans Ports Dealing with Dangerous Goods organización internacional puertos Europa septentrional operan mercancías peligrosas SCAC
 SIF
-
 ECE
 EDIFACT
 UNDG
@@ -1063,13 +1060,6 @@ Período
 Cantidades
 toneladas
 Medallones vieira género Placopecten magellanicus frescos congelados
-
-
-
-
-
-
-
 Número
 orden
 Reglamento CE Comisión
@@ -1530,7 +1520,6 @@ disposiciones artículo impartirá trabajadores afectados formación adecuada es
 circunstancias excepcionales habida evaluación riesgo utilización cuerda haga peligroso trabajo admitirse utilización cuerda hayan tomado medidas adecuadas garantizar seguridad conformidad legislación prácticas nacionales
 DO
 ANEXO III
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -1542,7 +1531,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 Únicamente relativo referencia artículo punto Directiva CEE
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -2091,7 +2079,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO III
 Indicación contemplada artículo
 danés Blød hvede fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -3324,7 +3311,6 @@ abajo firmante
 titular efectos apartado artículo Reglamento CE denominado sucesivo Reglamento base derechos propiedad intelectual certificados documentos adjuntos compromete artículo Reglamento asumir responsabilidad personas afectadas situaciones previstas apartado artículo caso acción omisión provoque suspensión procedimiento incoado aplicación presente Reglamento establece ulteriormente mercancías trate vulneran derecho propiedad intelectual
 compromete sufragar gastos ocasionados conforme Reglamento base puesta mercancías control aduanero aplicación artículo proceda artículo incluidos gastos ocasionados destrucción mercancías vulneren derecho propiedad intelectual conformidad artículo
 Confirma tomado nota artículo Reglamento base compromete notificar departamento indicado apartado artículo alteración pérdida derechos propiedad intelectual
-
 Firma
 ANEXO IC
 NOMBRES DIRECCIONES PRESENTACIÓN SOLICITUDES INTERVENCIÓN

@@ -913,7 +913,6 @@ dígito
 dígito describe tipo material tracción obligatorio código
 Código
 Tipo vehículo general
-
 Locomotora eléctrica
 Locomotora diésel
 Unidad acoplada eléctrica alta velocidad vehículo automotor remolque
@@ -1563,7 +1562,6 @@ Reglamento CE Parlamento Europeo Consejo septiembre relativo pagos transfronteri
 ANEXO
 ESTRUCTURA GENERAL ESTADÍSTICAS PAGOS
 INTRODUCCIÓN
-
 Consideración general cuadros
 estadísticas pagos elabora Banco Central Europeo BCE recopilación datos armonizada específica gestionada nivel nacional banco central nacional BCN
 elaboración datos estructura forma cuadros describen continuación contienen datos nacionales miembro cuya moneda euro miembros zona euro agregan cuadros comparativos referidos miembros zona euro
@@ -1594,13 +1592,11 @@ Número participantes sistema pago situado país distinguiendo participantes dir
 Cuadro
 Pagos procesados sistemas pago seleccionados
 Número valor operaciones pago procesadas sistema pago situado país servicios pago desglose geográfico
-
 Tipo información
 datos saldos contenidos cuadros refieren período posiciones hábil año natural referencia
 indicadores valor vivo depósitos dinero electrónico emitidos elaboran euros refieren depósitos pago denominados monedas
 datos flujos contenidos cuadros refieren operaciones pago acumuladas período correspondiente año natural referencia
 indicadores valor operaciones elaboran euros refieren operaciones pago denominadas monedas
-
 Consolidación territorio nacional
 población informadora miembro zona euro forman PSP operadores sistemas pago
 PSP entidades constituidas situadas territorio inclusive filiales sociedades matrices situadas territorio sucursales entidades oficina principal territorio
@@ -1617,7 +1613,6 @@ efectos estadísticos permite consolidación transfronteriza PSP
 operador sistema pago responsable sistemas pago situados territorio nacional presentan separado estadísticas sistema pago
 instituciones situadas centros financieros extraterritoriales tratan efectos estadísticos residentes territorios centros situados
 CARACTERÍSTICAS CONCRETAS CUADROS
-
 Funciones tarjetas pago cuadro
 tarjeta función pago tarjetas función dinero electrónico exclusivamente ofrece funciones contabiliza subcategoría aplicable
 número tarjetas función pago menor suma subcategorías
@@ -1638,7 +1633,6 @@ incluyen tarjetas circulación independencia hayan emitido utilizado
 incluyen tarjetas emitidas redes tarjetas redes tripartitas cuatripartitas
 incluyen tarjetas caducadas retiradas
 incluyen tarjetas emitidas comerciantes tarjetas minoristas hayan emitido cooperación PSP marca compartida
-
 Dispositivos aceptan tarjetas pago cuadro
 informa terminales facilitados PSP residentes estén situados país informador
 entidad facilita terminales adquirente independencia propietario terminales
@@ -1651,7 +1645,6 @@ terminales punto venta dividen subcategorías terminales transferencia electrón
 subcategorías sumarse tipo equivalen
 terminal tarjetas dinero electrónico ofrece función contabiliza subcategoría aplicable
 número terminales tarjetas dinero electrónico menor suma subcategorías
-
 Operaciones pago relativas instituciones distintas IFM cuadro
 operaciones pago efectúan cuentas mantenidas PSP distintos ejecutan intermediario operaciones pagos envían PSP sistema pago
 operaciones pago efectúan cuentas mantenidas PSP ejemplo operaciones onus liquidan cuentas PSP intermediario PSP sistema pago
@@ -1722,7 +1715,6 @@ dirección flujo fondos depende servicio pago conducto inicio utilizado
 transferencias pagos dinero electrónico operaciones análogas pagador inicia operación participante remitente remitente fondos participante receptor receptor fondos
 adeudos directos cheques pagos dinero electrónico operaciones análogas beneficiario inicia transacción participante remitente receptor fondos participante receptor remitente fondos
 pagos tarjeta beneficiario inicia operación tratamiento aplica presente reglamento pagador iniciara operación
-
 Operaciones pago relativas instituciones distintas IFM tipos terminal cuadro
 indicadores cuadro refieren operaciones pago efectivo efectuadas terminales físicos virtuales
 PSP residentes proporcionan información operaciones pago terminales facilitados adquiridos PSP
@@ -1735,13 +1727,11 @@ operaciones pago terminales facilitados PSP residentes tarjetas emitidas PSP res
 operaciones pago terminales facilitados PSP residentes tarjetas emitidas PSP residentes
 subcategorías incluidas categoría apartado sumarse
 cuadro desglose geográfico basa ubicación terminal
-
 Participación sistemas pago seleccionados cuadro
 cuadro refiere número tipo sector institucional participantes independencia ubicación sistema pago
 indicador número participantes suma subcategorías mutuamente excluyentes participantes directos participantes indirectos
 indicador participantes directos suma subcategorías mutuamente excluyentes entidades crédito banco central participantes directos
 indicador participantes directos suma subcategorías mutuamente excluyentes administración pública entidades compensación liquidación instituciones financieras
-
 Pagos procesados sistemas pago seleccionados cuadro
 cuadro refiere operaciones pago procesadas sistema pago
 operaciones pago PSP transmiten indicadores pertinentes cuadro
@@ -1854,7 +1844,6 @@ Número
 Valor
 Entidades crédito
 Número depósitos miles
-
 Número depósitos conectados internet ordenador personal miles
 Número depósitos transferibles miles
 Número depósitos transferibles conectados internet ordenador personal miles
@@ -1922,7 +1911,6 @@ Banco central
 participantes directos
 Entidades compensación liquidación
 instituciones financieras
-
 Participantes indirectos
 Cuadro
 operaciones
@@ -2994,9 +2982,7 @@ bisclorofeniltetracina
 kg materia seca
 enero
 diciembre
-
 autorizar usos acaricida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión clofentecina particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal
 CAS
 CICAP
@@ -3332,7 +3318,6 @@ ANEXO IV
 Información específica incluirse impreso inspección comunicar datos inspección establece artículo apartado
 NOTIFICACIONES
 notificado autoridades arte artes previsto utilizar período gestión
-
 marea capitán efectuado notificación previa tipo arte pesca llevarse bordo
 bordo buque únicamente categoría arte pesca
 cumplido requisitos notificación previa desembarque
@@ -3416,7 +3401,6 @@ acompañado logotipos nacionales privados utilicen color verde distinto color re
 logotipo ecológico UE deberá ajustarse normas relativas registro marca colectiva agricultura ecológica Oficina Propiedad Intelectual Benelux registros marcas comerciales comunitarios internacionales
 Códigos numéricos mencionados artículo
 formato general códigos numéricos indica continuación
-
 AB corresponde código ISO especificado artículo apartado letra país llevan cabo controles
 CDE corresponde término letras deberá aprobar Comisión miembro bio öko org eko establece vínculo método producción ecológica especificado artículo apartado letra
 corresponde número referencia máximo dígitos asignado especifica artículo apartado letra
@@ -3669,7 +3653,6 @@ Artículo
 presente Decisión entrará vigor hayan transmitido Comité Mixto EEE notificaciones contempladas artículo apartado EEE
 Artículo
 presente Decisión publicará Sección EEE Suplemento EEE Diario Oficial Unión Europea
-
 DO
 indicado preceptos constitucionales indicado preceptos constitucionales
 Reglamento CE deroga Directiva CEE Directiva CE Parlamento Europeo Consejo efecto junio
@@ -4345,8 +4328,6 @@ código ZZ significa orígenes
 Corrección errores Reglamento CE Consejo diciembre modifica Reglamento CE establece derecho compensatorio definitivo percibe definitivamente derecho provisional establecido importaciones determinados microcircuitos electrónicos conocidos DRAM memorias dinámicas acceso aleatorio originarios República Corea
 Diario Oficial Unión Europea diciembre
 página
-
-
 caso DRAM combinadas diversas formas modificadas
 considerando
 microplaquitas DRAM DRAM montadas incorporan DRAM combinadas diversas formas considerarse producto sujeto potencialmente derecho compensatorio
@@ -4367,7 +4348,6 @@ caso DRAM combinadas diversas formas modificadas
 valor DRAM combinadas diversas formas
 valor DRAM combinadas diversas formas modificadas
 cuadro números DRAM combinadas diversas formas DRAM combinadas diversas formas modificadas cuadro números precio neto franco frontera Comunidad DRAM combinada diversas formas
-
 precio neto franco frontera Comunidad DRAM combinada diversas formas modificadas
 página anexo punto cabecera cuadro columna superior derecha
 Precio microplaquitas DRAM DRAM montadas fabricadas empresas Samsung incorporadas DRAM combinadas diversas formas
@@ -4483,7 +4463,6 @@ DO
 ANEXO
 anexo queda modificado
 sustituye texto
-
 miembros zonas compartimentos sometidos programas autorizados vigilancia
 Enfermedad
 miembro
@@ -4500,7 +4479,6 @@ Infección Marteilia refringens
 Infección Bonamia ostreae
 Enfermedad mancha blanca
 sustituirá texto
-
 miembros zonas compartimentos libres enfermedad
 Delimitación geográfica área libre enfermedad miembro zona compartimento
 Dinamarca

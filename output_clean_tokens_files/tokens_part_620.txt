@@ -1736,7 +1736,6 @@ punto sustituye texto
 Cálculo emisiones específicas
 calcularán emisiones específicas kWh componentes forma
 Gas correspondiente
-
 masa gases contaminantes ciclo arranque frío
 masa gases contaminantes ciclo arranque caliente
 trabajo efectivo producido ciclo arranque frío indica anexo III punto kWh
@@ -1745,7 +1744,6 @@ punto sustituye texto
 Cálculo emisión másica
 masa partículas MPT cold MPT hot prueba calculará aplicando métodos siguientes
 MPT
-
 MPT cold ciclo arranque frío
 MPT hot ciclo arranque caliente
 masa partículas muestra ciclo mg
@@ -1782,7 +1780,6 @@ Mf Mf pesan separado mg
 masa partículas recogida filtro principal mg
 masa partículas recogida filtro secundario mg
 utiliza sistema doble dilución masa aire dilución secundario restará masa gases escape doblemente diluidos cuyas muestras tomado filtros partículas
-
 masa gases escape doblemente diluidos filtro partículas kg
 masa aire dilución secundario kg
 nivel básico partículas aire dilución determina conformidad punto anexo III aplicar corrección básica masa partículas
@@ -2332,7 +2329,6 @@ DO
 DO
 ANEXO
 ANEXO II
-
 Territorios regionalizados países enumerados partes
 País
 Territorio
@@ -2361,7 +2357,6 @@ sur cordón sanitario extiende Palgrave Point oeste Gam
 Sudáfrica
 país
 zona control fiebre aftosa situada regiones veterinarias Mpumalanga provincias septentrionales distrito Ingwavuma región veterinaria Natal zona fronteriza Botsuana longitud distrito Camperdown provincia KwaZuluNatal
-
 Terceros países partes terceros países autorizadas importaciones UE productos cárnicos estómagos vejigas intestinos tratados
 consúltese presente anexo significado códigos empleados cuadros
 XXX establecido certificado productos cárnicos estómagos vejigas intestinos tratados contienen carne especies autorizados
@@ -3119,10 +3114,8 @@ Filial
 Fecha
 Descenso Standard Poor’s
 junio
-
 BBB
 marzo
-
 ÖIAG empresas participadas Telekom Austria AG Österreichische Post AG OMV AG conocidas Austria perjuicio funcionamiento imagen marca tendría repercusión
 entienden inversor privado situación ÖIAG caso insolvencia Austrian Airlines asumiría costes plan social estuviera jurídicamente obligado
 opinión autoridades austriacas costes hipotético plan social equivaldrían importe registraría concepto caso liquidación
@@ -3150,7 +3143,6 @@ caso Austrian Airlines hubiera seguir operando forma autónoma stand alone estim
 problema inmediato empresa falta liquidez reservas liquidez mínima EUR frente Austrian Airlines necesitaría liquidez medidas reestructuración
 señalan autoridades austriacas liquidez Austrian Airlines reducía
 modelo stand alone basa mantendrían destinos
-
 daría lugar amortizaciones extraordinarias importe EUR plantilla reduciría puestos trabajo tiempo completo
 costes extraordinarios plan social estiman EUR
 resultado autoridades austriacas pérdida facturación tendría repercusiones negativas flujo tesorería
@@ -3202,7 +3194,6 @@ Programa GoProfit Austrian Airlines
 Costes logro sinergias
 Costes asesoramiento transacción
 Costes adicionales refinanciación crisis financiera
-
 Importe aportación
 juicio producen costes adicionales medidas reestructuración importe EUR efectos sinérgicos anuales previstos plan reestructuración
 Alegan computar costes programa GoProfit EUR correspondientes medidas reestructuración emprendidas Austrian Airlines proceso marcha
@@ -3220,7 +3211,6 @@ Empresa
 Año
 Trabajadores
 Costes sociales asumidos
-
 Fundación empleo plan social
 Philips cierre planta Lebring
 Indemnizaciones plan social
@@ -3482,7 +3472,6 @@ Fase III
 Actual
 Presupuesto
 Presupuesto
-
 Valor
 Ingresos
 Amortización
@@ -3567,7 +3556,6 @@ Precio mínimo
 Precio acciones ÖIAG
 Besserungsschein
 Aportación ÖIAG
-
 Precio pagado accionistas minoritarios
 Lufthansa pague acciones propiedad dispersa precio paga acciones ÖIAG Comisión observa adquisiciones públicas empresas cotizan bolsa Austria sujeta Ley adquisiciones cuya aplicación compete comisión adquisiciones
 comisión adquisiciones garantiza protección accionistas minoritarios vela proceso adquisición lleve cabo interés sociedad afectada mercados valores
@@ -4134,7 +4122,6 @@ Despojos comestibles vacuno músculos diafragma delgados frescos refrigerados
 optar contingente preciso cumplan condiciones previstas disposiciones comunitarias pertinentes
 Carne vacuno calidad superior fresca refrigerada país proveedor Brasil
 Carne deshuesada vacuno calidad superior congelada
-
 Despojos comestibles vacuno
 músculos diafragma delgados frescos refrigerados
 músculos diafragma delgados congelados
@@ -4710,7 +4697,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4724,7 +4710,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4738,7 +4723,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -4886,7 +4870,6 @@ Grupo
 Categoría
 Unidad
 toneladas
-
 piezas
 pares
 toneladas

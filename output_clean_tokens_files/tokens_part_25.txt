@@ -31,7 +31,6 @@ Chapa banda acero revestida inmersión caliente anchura mm
 Chapa banda acero revestida metal electrolíticamente anchura mm
 Chapa acero revestida materia orgánica anchura mm
 Banda cortada acero alear laminada frío revestida inmersión caliente anchura mm
-
 Banda cortada acero alear revestida metal electrolíticamente anchura mm
 Banda cortada laminada frío chapa acero revestida materia orgánica anchura mm
 NACE Laminación perfiles frío conformación plegado
@@ -405,7 +404,6 @@ Puntas trefilería hierro acero batería bandas rollos
 Puntas trefilería acero templado contenido carbono peso
 Puntas clavos trefilería hierro acero galvanizados
 puntas clavos trefilería hierro acero galvanizados batería bandas rollos etc
-
 Puntas clavos chinchetas grapas apuntadas artículos similares cobre
 Puntas clavos grapas apuntadas tornillos pernos tuercas escarpias roscadas remaches pasadores clavijas chavetas arandelas artículos similares aluminio
 Electrodos recubiertos soldadura arco metales comunes
@@ -424,7 +422,6 @@ tornillos hueco caras
 Tornillos cabeza hexagonal acero inoxidable
 Tornillos cabeza hexagonal aceros resistencia tracción MPa
 Tornillos cabeza hexagonal aceros resistencia tracción MPa
-
 Tirafondos roscados fundición hierro acero
 tornillos madera fundición hierro acero
 Escarpias armellas roscadas acero inoxidable
@@ -474,7 +471,6 @@ artículos servicio mesa hierro acero
 artículos pintados barnizados
 Artículos doméstico partes estropajos guantes artículos similares fregar lustrar usos análogos cobre
 Artículos doméstico partes estropajos guantes artículos similares fregar lustrar usos análogos aluminio colados moldeados
-
 Aparatos mecánicos accionados mano kg tipo utilizados preparar acondicionar servir alimentos bebidas
 Lana hierro acero estropajos guantes artículos similares fregar lustrar usos análogos
 Cajas caudales metales comunes
@@ -502,7 +498,6 @@ Contraventanas aireación mecánica canalones ganchos manufacturas utilizadas in
 Rejillas chapa artículos similares filtrar agua entrada alcantarillas
 manufacturas forjadas hierro acero
 manufacturas estampadas hierro acero
-
 Telas metálicas enrejados
 manufacturas aluminio coladas moldeadas
 manufacturas aluminio ncop
@@ -990,7 +985,6 @@ máquinas aparatos plásticos
 máquinas aparatos materiales
 Mandriles pinzas manguitos
 Portaútiles tornos
-
 Cabezales roscar retractables automáticamente
 Portapiezas montajes mecanizado conjuntos componentes estándar
 Portapiezas tornos
@@ -2557,7 +2551,6 @@ tratamientos expuestos anexo II constituirán condiciones transformación mínim
 obstante importación despojos autorizada conforme Decisión CEE restricciones comunitarias orden zoosanitario importarse producto cárnico estómago vejiga intestino tratado utilizarse producto cárnico condición lleve cabo tratamiento pertinente contemplado anexo II cumplan requisitos sanitarios Comunidad
 autorizarse establecimiento país enumerado anexo II elabore productos cárnicos estómagos vejigas intestinos tratados hayan sometidos tratamientos contemplados anexo II esté ubicado tercer país autorizados importar carne fresca Comunidad cumplan requisitos sanitarios comunitarios
 ANEXO II
-
 Territorios regionalizados países enumerados partes
 País
 Territorio
@@ -2586,7 +2579,6 @@ sur cordón sanitario extiende Palgrave Point oeste Gam
 Sudáfrica
 país
 zona control fiebre aftosa situada regiones veterinarias Mpumalanga provincias septentrionales distrito Ingwavuma región veterinaria Natal zona fronteriza Botsuana longitud distrito Camperdown provincia KwaZuluNatal
-
 Terceros países partes terceros países autorizadas importaciones UE productos cárnicos estómagos vejigas intestinos tratados consúltese presente anexo significado códigos empleados cuadros
 XXX establecido certificado productos cárnicos estómagos vejigas intestinos tratados contienen carne especies autorizados
 País origen
@@ -2639,10 +2631,8 @@ Turquía
 Ucrania
 Unidos
 Sudáfrica
-
 Terceros países partes terceros países autorizados régimen tratamiento específico obstante autorizadas importaciones UE biltong jerky productos cárnicos pasteurizados
 Sudáfrica ZA
-
 Significado códigos utilizados cuadros partes
 TRATAMIENTOS REFERENCIA ANEXO
 Tratamiento específico
@@ -2686,7 +2676,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -2782,7 +2771,6 @@ caso intestinos originarios país región riesgo insignificante EEB importacione
 país región clasificados país región riesgo EEB indeterminado artículo apartado Reglamento CE
 intestinos proceden país región habido casos autóctonos EEB
 Notas
-
 Casilla Región caso conforme anexo II Decisión CE Comisión modificación
 Casilla Lugar origen nombre dirección establecimiento expedidor
 Casilla Matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos
@@ -3489,7 +3477,6 @@ ANEXO IV
 anexo Decisión CE entrada correspondiente Brasil sustituye texto
 Brasil
 país
-
 febrero Comisión publicó informe auditoría exportaciones Unión équidos productos reproductivos llevada cabo Brasil octubre
 informe necesario suspender importaciones esperma óvulos embriones animales especie equina procedentes Brasil hayan aplicado verificado acciones correctoras recomendadas
 Reglamento UE Comisión

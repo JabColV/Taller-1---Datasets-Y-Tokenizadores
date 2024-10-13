@@ -850,7 +850,6 @@ DO
 DO
 ANEXO
 Documentos administrativos homologación tipo CE vehículos motor respecta guardabarros
-
 Ficha características
 MODELO
 Ficha características relativa homologación tipo CE vehículo motor respecta guardabarros
@@ -905,7 +904,6 @@ Guardabarros
 descripción vehículo guardabarros
 Dibujos detallados guardabarros posición vehículo muestren dimensiones especificadas figura anexo II presente Reglamento tengan extremos combinaciones neumático rueda
 Notas explicativas
-
 Certificado homologación tipo CE
 Formato mm
 CERTIFICADO HOMOLOGACIÓN TIPO CE
@@ -1280,7 +1278,6 @@ saldos flujos acciones cotizadas comunican valor mercado saldos flujos valores d
 excepción norma consignar saldos flujos valores distintos acciones valor nominal bonos emitidos descuento interés explícito bonos cupón cero consignan importe efectivo pagado precio descuento momento compra amortizaciones vencimiento valor nominal
 saldos vivos bonos emitidos descuento interés explícito bonos cupón cero importe efectivo pagado intereses devengados muestra continuación
 amortizaciones anticipadas consignan valor importe efectivo pagado intereses devengados momento amortización
-
 importe efectivo pagado intereses devengados
 valor efectivo importe pagado momento emisión
 valor nominal reembolsado vencimiento
@@ -1471,7 +1468,6 @@ caso cálculo índice Herfindhal deberá incluir balance agregado entidad crédi
 Asimismo entidades crédito tamaño reducido presenten datos finales año
 caso deberán extrapolar datos
 índice Herfindhal obtiene sumando cuadrado cuotas mercado entidades crédito sector bancario deberá presentar BCE fórmula
-
 número entidades crédito país
 Xi activos totales entidades crédito
 activos totales entidades crédito país
@@ -1821,7 +1817,6 @@ punto vista normas valoración datos adicionales requeridos arreglo presente sec
 creado códigos identificación contexto estadísticas monetarias bancarias normas información correspondientes ejemplo términos puntualidad identificado comprobaciones relación datos existentes
 CUADRO
 Datos trimestrales Datos BCN BCE IFM saldos
-
 administración central
 administración central
 Valores distintos acciones
@@ -2661,8 +2656,6 @@ Sección
 Sección
 Sección
 BCN verse obligados revisar datos facilitados
-
-
 Anteriormente presentados carácter trimestral
 Sociedades financieras dedican préstamos hogares sociedades financieras
 OIF residuales
@@ -2703,7 +2696,6 @@ Actualmente valores porcentaje especificado gama claves vinculados lista código
 subconjunto valores códigos usados gama claves ECBMIR corresponde miembros zona euro
 volumen operaciones saldos vivos valor defecto atributo recogida período volumen operaciones marca suma observaciones período
 elementos valor observación OBSSTATUS OBSCONF OBSPREBREAK tratamiento entidad significa BCN obligados enviar información complementaria observación
-
 Eurostat definición unidad local empresa ejemplo taller fábrica almacén oficina mina depósito situada lugar identificado geográficamente
 lugar cabo actividad económica excepciones trabajan personas tiempo parcial empresa
 Comentarios garantizar asignación ámbito empresa clave distribución caso grupos empresas incluir consejeros delegados excluir agentes empleados
@@ -2785,7 +2777,6 @@ DO
 DO
 ANEXO
 CATÁLOGO MATERIAS PRIMAS PIENSOS
-
 Disposiciones generales
 utilización presente Catálogo explotadores empresas piensos voluntaria
 nombre materia prima piensos figure utilizarse materia prima cumpla requisitos entrada trate
@@ -2815,7 +2806,6 @@ fijado nivel humedad específico dicha columna aplicará punto anexo Reglamento 
 calidad técnica entenderá sustancia produce proceso químico físico controlado cumple requisitos pertinentes conforme legislación Unión Europea materia piensos
 explotador empresa piensos declare materia prima piensos propiedades especificadas columna Descripción lista materias primas piensos ajustarse dispuesto artículo Reglamento CE
 materias primas piensos cumplir objetivo nutrición específico conformidad artículos Reglamento CE
-
 Glosario tratamientos
 Tratamiento
 Definición
@@ -3015,7 +3005,6 @@ Tostado
 Ultrafiltración
 Filtración líquidos membrana permeable únicamente moléculas pequeñas
 Ultrafiltrado
-
 Lista materias primas piensos
 Granos cereales productos derivados
 Número
@@ -4245,7 +4234,6 @@ Subproductos fabricación aminoácidos Escherichia coli
 Subproductos líquidos fabricación aminoácidos fermentación Escherichia coli sustratos origen vegetal químico amonio sales minerales
 Subproducto elaboración enzimas Aspergillus niger
 Subproducto fermentación Aspergillus niger trigo malta fabricación enzimas
-
 Productos panadería fabricación pastas alimenticias
 Productos obtenidos producción pan galletas obleas pasta
 secos
@@ -4547,7 +4535,6 @@ práctica significa combinación regímenes fiscales específicos destinados pro
 instrumentos desalientan exportaciones aluminio primario China alientan importaciones fabricación productos transformados producto afectado incorporan aluminio mercado interno exportación
 plan continuación política existido años planes anteriores
 planes aplicado años PI estuvieron vigentes medidas aplicación describen continuación
-
 derecho exportación aluminio primario chatarra aluminio comparación derecho hojas aluminio rollos pequeño tamaño
 reembolso IVA aluminio primario comparación reembolso hojas aluminio junio
 eliminación derecho importación metal

@@ -2377,7 +2377,6 @@ Utilización
 Comentarios propuestas
 Fecha referencia
 habido cambios informaciones metodológicas relación transmitidas año
-
 IDENTIFICACIÓN CORRESPONSAL MIEMBRO EUROSTAT
 Apellidos nombre DDa
 Cargo
@@ -2402,11 +2401,9 @@ CUADRO
 CUADRO
 Datos regionales anuales
 organismo participe elaboración estadísticas leche
-
 caso afirmativo nombre dirección organismo
 Confidencialidad datos transmitidos
 problemas confidencialidad datos
-
 caso afirmativo describirlos
 centrales lecheras Cuadros
 Características generales
@@ -2418,7 +2415,6 @@ Extracto directorio nacional empresas
 Constituido encuestas leche
 Perteneciente organismos profesionales
 Utilizado encuestas
-
 Precise fuente
 Procedimientos actualización fichero utilizado periodicidad
 Actualiza fichero utilizado forma
@@ -2435,19 +2431,16 @@ encuestadores
 correo postal
 teléfono
 correo electrónico
-
 Índice respuesta observado habitualmente
 método estima datos personas respondido
 Utiliza fuentes información
 caso afirmativo
 Cuestionarios anuales Centrales lecheras cuadros
 Nota encuesta anual exhaustiva
-
 explotaciones ganaderas granjas cuadro
 Número explotaciones ganaderas granjas afectadas enero
 Existencia encuestas periódicas producción utilización leche granja
 encuesta producción utilización leche granja
-
 caso afirmativo precise modalidades
 Descripción metodología encuesta
 Método estimación cantidad producida utilizada personas respondido
@@ -2501,7 +2494,6 @@ INSUMO materias primas utilizadas fabricación
 RESULTADO producto acabado
 utilizar métodos autocontrol precísese
 Utiliza datos centrales lecheras fuente información
-
 caso negativo fuente información
 Proteínas cuadro
 método medir estimar proteína
@@ -4310,19 +4302,6 @@ Artículo
 Reloj anaranjado
 zonas protección reloj anaranjado definen zonas marítimas siguientes
 zona marítima delimitada líneas loxodrómicas unen secuencialmente siguientes posiciones
-
-
-
-
-
-
-
-
-
-
-
-
-
 posiciones líneas loxodrómicas posiciones buques correspondientes medirán norma WGS
 miembros cerciorarán buques posean permiso pesca alta mar controlados adecuadamente centros seguimiento pesca CSP dispondrán sistema detección registro entrada tránsito salida buques zonas definidas apartado
 buques posean permiso pesca alta mar hayan entrado zonas definidas apartado conservarán bordo transbordarán cantidad reloj anaranjado desembarcarán cantidad dicha especie marea
@@ -4354,7 +4333,6 @@ DO
 Reglamento modificado lugar Reglamento CE DO
 DO
 ANEXO
-
 Definición especies grupos especies
 zona poblaciones peces indican orden alfabético nombres científicos especies
 obstante tiburones aguas profundas figuran principio lista
@@ -4369,7 +4347,6 @@ Maruca azul
 Brótola
 Besugo
 mención tiburones aguas profundas refiere siguientes especies tiburones pailona Centroscymnus coelolepis quelvacho negro Centrophorus squamosus tollo pajarito Deania calceus lija negra carocho Dalatias licha tollo lucero Etmopterus princeps negrito Etmopterus spinax tollo negro merga Centroscyllium fabricii quelvacho Centrophorus granulosus pintarroja bocanegra Galeus melastomus pintarroja islándica Galeus murinus pejegato islándico Apristuris spp
-
 Posibilidades pesca anuales aplicables buques comunitarios zonas limitaciones capturas especies zonas toneladas peso vivo
 referencias refieren subzonas CIEM indicación contraria
 Especie Tiburones aguas profundas
@@ -4389,7 +4366,6 @@ Especie Sable negro
 Zona II III IV aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
 Zona VI VII XII aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
 Letonia
-
 Zona VIII IX aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
 Zona CPACO
 aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
@@ -4401,22 +4377,17 @@ Dinamarca
 Zona IIIa IIIbcd aguas comunitarias
 Suecia
 Zona Vb VI VII aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
-
 Zona VIII IX XII XIV aguas comunitarias aguas sujetas soberanía jurisdicción terceros países aguas Groenlandia
 Especie Reloj anaranjado
 Zona VI aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
 Zona VII aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
-
 Zona II III IV VIII IX XI XII XIV aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
 Especie Maruca azul
 Zona II IV aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
-
 Zona III aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
 Zona VI VII aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
-
 Especie Besugo
 Zona VI VII VIII aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
-
 Zona IX aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
 Especie Brótola
 Zona VI VII aguas comunitarias aguas sujetas soberanía jurisdicción terceros países

@@ -17,7 +17,6 @@ muestras positivas titularse grado positividad
 control negativo
 control positivo CC control cobaya
 Sueros problema
-
 Blanco
 TÉCNICA ELISA INDIRECTA DETECCIÓN ANTICUERPOS VIRUS PESTE EQUINA VPE PRUEBA RECOMENDADA
 prueba describe continuación ajusta descripción recogida capítulo cuarta edición Manual normas pruebas diagnóstico vacunas OIE
@@ -80,7 +79,6 @@ muestras densidad óptica inferior valor punto corte positivo considerarse posit
 muestras densidad óptica superior valor punto corte negativo considerarse negativas anticuerpos VPE
 muestras densidad óptica situada valores considerarse dudosas volver tomar muestras animales semanas
 ANEXO
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -117,7 +115,6 @@ DO
 Directiva CE Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -587,7 +584,6 @@ ANEXO II
 MARCHA ATRÁS
 tractores deberán provistos dispositivo marcha atrás accionado puesto conducción
 ANEXO III
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -600,7 +596,6 @@ DO
 Únicamente relativo referencias hechas artículo guión Directiva CEE
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -843,7 +838,6 @@ favorable
 Neutra negativa
 Neutra positiva
 favorable
-
 Facturación
 cambios
 aumento
@@ -3881,7 +3875,6 @@ Diagnóstico motor bordo fallo motor
 Precalentamiento diesel
 Estárter dispositivo arranque frío
 Sistema aire acondicionado
-
 Mando estacionamiento
 posición marcha atrás
 transmisión punto muerto
@@ -4095,7 +4088,6 @@ Cantidades previstas
 códigos productos definen Reglamento CEE Comisión DO
 códigos destinos serie definen anexo II Reglamento CEE
 destinos definen HongKong Singapur Malasia Sri Lanka Indonesia Tailandia Taiwán PapúaNueva Guinea Laos Camboya Vietnam Japón Uruguay Paraguay Argentina México Costa Rica destinos siguientes Noruega Islandia Groenlandia Islas Feroe Albania Bosnia Hercegovina Croacia Antigua República Yugoslava Macedonia Serbia Montenegro Armenia Azerbaiyán Bielorrusia Georgia Kazajstán Kirguistán Moldavia Rusia Tayikistán Turkmenistán Uzbekistán Ucrania Arabia Saudí Bahréin Qatar Omán Emiratos Árabes Unidos Abu Dabi Dubai Sharya Ayman Umm alQaiwain Ras alJaima Fuyaira Kuwait Yemen Siria Irán Jordania Bolivia Brasil Venezuela Perú Panamá Ecuador Colombia países territorios África África Sur destinos contemplados artículo Reglamento CE Comisión DO
-
 Decisión Comisión
 septiembre
 relativa inclusión propachlor anexo Directiva CEE Consejo retirada autorizaciones productos fitosanitarios contengan sustancia
@@ -4902,7 +4894,6 @@ consecuencia prestamista aplica tipo interés elevado proporcional probabilidad 
 Esencialmente implica elegir tipo interés disponible mercado prestatarios solventes añadiéndole prima riesgo riesgo asociado concesión préstamo empresa solvente
 efectos aplicación conclusiones Grupo Especial presente asunto Comisión utilizado fórmula calcular tipo interés referencia apropiado aplicable prestatario solvente
 ib –qnifn–pn
-
 duración crédito
 ib tipo interés referencia aplicable prestatario solvente
 if tipo interés plazo aplicable empresa solvente

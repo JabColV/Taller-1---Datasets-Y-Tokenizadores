@@ -540,7 +540,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -620,7 +619,6 @@ caprinos ovinos explotación matado destruido excepción machos destinados repro
 ovinos caprinos excepción ovinos genotipo prion ARR ARR introducen explotación proceden explotación cumple requisitos establecidos guiones ii
 caso subproductos animales destinados piensos rumiantes contienen leche productos lácteos origen ovino caprino destinados miembro figure anexo Reglamento CE Comisión ovinos caprinos origen dichos productos permanecido interrupción nacimiento años vida explotación sometida restricción oficial movimientos sospecha EET años satisfecho siguientes requisitos
 Notas
-
 Casilla Persona responsable envío Unión Europea casilla cumplimentarse únicamente certificado mercancía tránsito cumplimentarse certificado refiere mercancía importada
 Casilla Lugar destino casilla rellenarse únicamente certificado mercancía tránsito
 productos tránsito almacenarse zonas francas depósitos francos depósitos aduaneros
@@ -641,7 +639,6 @@ DO
 DO
 DO
 DO
-
 número muestras ensayo
 valor umbral número bacterias resultado satisfactorio número bacterias muestras superior
 valor máximo número bacterias resultado insatisfactorio número bacterias muestras superior
@@ -669,7 +666,6 @@ obtenido animales
 procedentes explotaciones
 casos brotes peste bovina enfermedad vesicular porcina enfermedad Newcastle influenza aviar altamente patógena treinta previos peste porcina clásica africana cuarenta previos animales sensibles enfermedades explotaciones situadas radio km treinta previos
 caso brote fiebre aftosa sesenta previos cumplido condiciones explotaciones situadas radio km treinta previos
-
 matados erradicar epizootias
 permanecido explotaciones origen cuarenta previos expedición transportados directamente matadero contacto animales cumplían condiciones sanitarias
 sometidos inspección sanitaria mórtem matadero veinticuatro horas previas sacrificio presentaban signo enfermedades citadas anteriormente sensibles
@@ -723,10 +719,8 @@ subproductos animales usos externos cadena alimentaria animal muestras comercial
 Subproductos animales fabricación productos derivados usos externos cadena alimentaria animal muestras comerciales
 muestras comerciales consistentes subproductos animales destinados estudios análisis concretos refiere punto anexo Reglamento UE Comisión etiquetadas indicación MUESTRA COMERCIAL APTA CONSUMO HUMANO
 cumplen siguientes requisitos salud animal
-
 obtenidos materiales importados tercer país territorio autorizado exportar carne fresca especie Unión Europea
 obtenidos país exportador territorio animales
-
 permanecido territorio región admisible exportar carne fresca especie UE nacimiento meses previos sacrificio
 matados libertad territorio
 proceden huevos leche roedores lagomorfos animales acuáticos terrestres invertebrados acuáticos
@@ -935,7 +929,6 @@ cuestiones abordadas Interpretación
 considerarse disponibles reembolsos reducciones aportaciones futuras párrafo NIC
 afectar obligación mantener nivel mínimo financiación disponibilidad reducciones aportaciones futuras
 lugar pasivo obligación mantener nivel mínimo financiación
-
 Disponibilidad reembolso reducción aportaciones futuras
 entidad determinará disponibilidad reembolso reducción aportaciones futuras términos condiciones plan requerimientos legales jurisdicción plan
 prestación económica forma reembolso reducción aportaciones futuras disponible entidad realizarla momento vida plan liquiden pasivos plan
@@ -1105,7 +1098,6 @@ esperma porcino proceda verracos mantenidos centro recogida autorizado contempla
 Artículo
 Envío carne cerdo fresca determinados preparados productos cárnicos zonas lista anexo
 miembros afectados velarán envíen miembros partidas carne cerdo fresca preparados productos base carne cerdo contengan obtenidos cerdos mantenidos explotaciones zonas lista anexo
-
 cerdos cuestión permanecido explotaciones
 registrado indicio peste porcina clásica meses previos situadas zona protección zona vigilancia establecidas arreglo Directiva CE
 residido noventa introducido cerdo vivo treinta inmediatamente anteriores envío sacrificio matadero
@@ -1423,10 +1415,8 @@ CICAP
 Ditiofosfato Oetilo Sdipropilo
 octubre
 septiembre
-
 autorizar usos nematicida insecticida aplicación suelo
 autorizaciones deberán limitarse usuarios profesionales
-
 evaluación solicitudes autorización productos fitosanitarios contengan etoprofos usos patatas cultivadas consumo humano animal miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión etoprofos particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros deberán prestar especial atención
@@ -2932,7 +2922,6 @@ Número niños
 Número personas hogar trabajaban
 Año nacimiento padre
 Año dígitos
-
 aplicable padre desconocido
 País origen padre
 Nacida país residencia actual encuestado país encuesta
@@ -3010,8 +2999,6 @@ mala
 Mala
 Moderadamente mala
 Moderadamente
-
-
 Capacidad llegar mes
 dificultad
 dificultad
@@ -3406,7 +3393,6 @@ efectos artículo apartado organismos radiodifusión fuesen incapaces alcanzar a
 resolución refiere apartado incluir disposiciones adicionales complementarias tribunal High Court estime oportuno
 presente Ley citarse Broadcasting Major Events Television Coverage Act Ley radiodifusión cobertura televisiva acontecimientos importantes
 Instrumentos legislativos Statutory Instruments
-
 Dermot Ahern Ministro Comunicaciones Marina Recursos Naturales ejercicio facultades conferidas virtud dispuesto apartado artículo Broadcasting Major Events Television Coverage Act Broadcasting Transfer of Departmental Administration and Ministerial Functions Order modificado Marine and Natural Resources Alteration of Name of Department and Title of Minister Order celebrado consultas Ministro Artes Deporte Turismo conformidad apartado modificado Tourism Sport and Recreation Alteration of Name of Department Title of Minister Order artículo promulgo decreto conformidad apartado artículo presentado proyecto Cámaras Oireachtas ambas Cámaras adoptado sendas resoluciones aprueba proyecto
 presente Decreto citarse título Broadcasting Major Events Television Coverage Act Designation of Major Events Order Decreto designación acontecimientos importantes adoptado virtud ley Radiodifusión cobertura televisiva acontecimientos importantes
 acontecimientos especificados anexo presente Decreto califican acontecimientos importancia sociedad establecerse derecho organismo radiodifusión capacitado proporcionar cobertura televisiva gratuita directo beneficio interés público
@@ -3525,7 +3511,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicaciones contempladas artículo
 danés Blød hvede fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -4321,7 +4306,6 @@ letra queda modificada
 letra punto sustituye texto
 Suspensión abono base boro
 Producto obtenido suspensión agua tipos
-
 denominación deberá incluir nombres compuestos boro presentes
 Boro
 Boro soluble agua presente

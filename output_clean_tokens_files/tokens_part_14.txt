@@ -2623,8 +2623,6 @@ Restricción dosis restricción dosis individuales esperables utilizada definir 
 Límite dosis valor dosis efectiva proceda dosis efectiva comprometida dosis equivalente período especificado superado persona
 Servicio dosimetría organismo persona competencia calibración lectura interpretación datos aparatos vigilancia individual medición radiactividad cuerpo humano muestras biológicas evaluación dosis cuya capacidad función reconocida autoridad competente
 Dosis efectiva suma dosis equivalentes ponderadas tejidos órganos cuerpo procedentes exposiciones internas externas
-
-
 factor ponderación tisular tejido órgano
 valores wT wR especifican anexo II
 unidad dosis efectiva sievert Sv
@@ -2635,7 +2633,6 @@ Exposición ocupacional emergencia exposición recibida trabajador emergencia si
 Plan respuesta emergencias medidas planificar respuesta adecuada caso producirse situación exposición emergencia sucesos hipotéticos circunstancias correspondientes
 Trabajador emergencia persona cometido definido emergencia resultar expuesto radiaciones actúa respuesta emergencia
 Vigilancia ambiental medición tasas dosis externas debidas presencia sustancias radiactivas ambiente medición concentraciones radionucleidos natural
-
 factor ponderación radiación
 valores wR especifican anexo II unidad dosis equivalente sievert Sv
 Nivel exención valor establecido autoridad competente legislación expresado términos concentración actividad actividad fuente radiactiva sujeta notificación autorización
@@ -4197,7 +4194,6 @@ Dosis efectiva comprometida Eτ suma dosis equivalentes comprometidas tejido ór
 Determinadas prácticas quedar exentas deber notificación directamente base cumplimiento niveles exención valores actividad Bq valores concentración kBq kg establecidos sección base valores altos aplicaciones especificas establecidos autoridad competente satisfacen criterios generales exención criterios desclasificación figuran sección
 prácticas sujetas notificación quedar exentas autorización ley acto administrativo decisión reglamentaria atendiendo información suministrada notificación práctica criterios generales exención figuran sección
 Dosis equivalente HT dosis absorbida tejido órgano ponderada función tipo calidad radiación define fórmula
-
 dosis absorbida promediada tejido órgano procedente radiación
 wR DT
 factor ponderación radiación
@@ -4973,7 +4969,6 @@ sección punto sustituye texto
 Explique mercados afectados miembros AELC refiere remisión presenta características mercado definido efectos artículo apartado Reglamento comunitario concentraciones
 sección punto sustituye texto
 caso miembros AELC adquieran competencia examinar totalidad asunto consecuencia remisión arreglo apartado artículo Reglamento comunitario concentraciones consentimiento miembros AELC basen procedimiento nacional relativo asunto información contenida formulario
-
 sección punto sustituye texto
 Especifique miembro AELC concentración examinada conforme legislación nacional competencia
 marcar casilla miembros AELC

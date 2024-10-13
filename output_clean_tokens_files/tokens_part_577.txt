@@ -1092,45 +1092,27 @@ Altura mínima recinto
 Fecha refiere artículo apartado
 reserva procedimientos
 enero
-
-
-
 Reproducción
 pareja monógama consanguínea consanguínea trío consanguíneo
 hembra suplementaria camada añadirse cm
 reserva criaderos Dimensión recinto
-
 Dimensión recinto
 Cuadro
 Ratas
 reserva procedimientos
-
-
-
-
 Madre camada
 animal adulto suplementario introducido forma permanente recinto añadirse cm
 Reserva criaderos Dimensión recinto
-
-
-
 Cuadro
 Jerbos
-
 Pareja monógama trío descendencia
 Cuadro
 Hámsteres
-
-
 Madre pareja monógama camada
 reserva criaderos
-
 Cuadro
 Cobayas
 Altura mínima recinto
-
-
-
 Pareja camada
 hembra reproductora suplementaria añadirse cm
 Conejos
@@ -1145,9 +1127,6 @@ superficie suelo suplementaria mínimo cm conejo cuarto quinto sexto animal aña
 Peso corporal
 Superficie mínima suelo animales socialmente armoniosos
 Altura mínima
-
-
-
 Cuadro
 Conejas camada
 Peso coneja
@@ -1165,7 +1144,6 @@ Edad semanas
 Dimensión óptima
 cm cm
 Altura óptima suelo recinto
-
 Gatos
 gatos alojados individualmente horas seguidas
 gatos repetidas ocasiones muestren agresivos gatos alojados individualmente encontrarse compañero compatible
@@ -1193,14 +1171,10 @@ cercado parto diseñado perra desplazarse compartimento anejo área elevada sepa
 Peso
 Superficie mínima suelo animales
 animal suplementario añadir mínimo
-
 Cuadro
 Perros espacio disponible destete
 Peso perro
 Superficie mínima suelo animal
-
-
-
 Hurones
 Cuadro
 Animales
@@ -1241,29 +1215,16 @@ investigación agrícola objetivo proyecto disponga animales mantengan condicion
 Ganado bovino
 Espacio comedero alimentación ad libitum bovinos descornados
 Espacio comedero alimentación restringida bovinos descornados
-
-
-
-
 Cuadro
 Ovinos caprinos
 Altura mínima separaciones recintos
 Espacio comedero alimentación ad libitum
 Espacio comedero alimentación restringida
-
-
-
 Cuadro
 Cerdos cerdos enanos
 Peso vivo
 Dimensión mínima recinto
 Zona reposo mínima animal condiciones térmicamente neutras
-
-
-
-
-
-
 Verracos adultos convencionales
 Cuadro
 Équidos
@@ -1273,8 +1234,6 @@ Altura cruz
 animal alojado individualmente grupos animales máximo
 animal alojado grupos animales
 Caballeriza cría yegua potro
-
-
 Aves
 investigación agrícola objetivo proyecto disponga animales mantengan condiciones similares animales granja comercial mantenimiento animales cumplir mínimo normas contempladas Directivas CE CE CE Cuadro
 Gallinas
@@ -1283,52 +1242,32 @@ circunstancias aves alojarse recintos pequeños convenientemente enriquecidos su
 Masa corporal
 Superficie mínima ave
 Longitud mínima comedero ave
-
-
-
-
-
 Cuadro
 Pavos domésticos
 circunstancias aves alojarse recintos pequeños convenientemente enriquecidos superficie mínima suelo altura mínima cm caso aves kg cm caso aves kg cm caso aves kg
 recintos utilizarse alojar pequeños grupos aves espacio mínimo disponible indicado cuadro
-
-
-
-
-
-
-
 Cuadro
 Codornices
 Superficie ave alojada pareja
 Superficie ave suplementaria alojada grupo
 Longitud mínima comedero ave
-
 Cuadro
 Patos ocas
 razones científicas pudieran respetarse dimensiones mínimas experimentador justificar duración confinamiento consulta personal veterinario
 recintos utilizarse alojar pequeños grupos aves espacio mínimo disponible indicado cuadro
 Superficie ave
 Patos
-
-
-
 Ocas
-
-
 Cuadro
 Patos ocas dimensiones mínimas estanques
 Superficie
 Profundidad
-
 Cuadro
 Palomas
 recintos largos estrechos ejemplo cuadrados aves puedan vuelos breves
 Tamaño grupo
 Longitud mínima comedero ave
 Longitud mínima percha ave
-
 ave suplementaria allá
 Cuadro
 Diamantes mandarín
@@ -1345,52 +1284,35 @@ Longitud corporal cm
 Superficie agua mínima
 Superficie mínima agua animal suplementario alojado grupo
 Profundidad mínima agua
-
 Cuadro
 Anuros acuáticos
 Longitud corporal cm
-
-
-
-
 Cuadro
 Anuros semiacuáticos
 Longitud corporal cm
 Dimensión mínima recinto cm
 Superficie mínima animal suplementario alojado grupo
 Altura mínima recinto cm
-
-
 Cuadro
 Anuros semiterrestres
 Longitud corporal cm
 Dimensión mínima recinto cm
 Superficie mínima animal suplementario alojado grupo
 Altura mínima recinto cm
-
 Cuadro
 Anuros arborícolas
 Longitud corporal cm
 Dimensión mínima recinto cm
 Altura mínima recinto cm
-
 Cuadro
 Tortugas acuáticas
 Longitud corporal cm
 Superficie agua mínima animal suplementario alojado grupo
-
-
-
-
 Cuadro
 Serpientes terrestres
 Longitud corporal cm
 Superficie mínima suelo
 Altura mínima recinto cm
-
-
-
-
 Peces
 Suministro calidad agua
 momento facilitarse suministro adecuado agua calidad correcta
@@ -1623,25 +1545,6 @@ Inmovilización ratas inducirles úlceras gástricas fallo cardiaco estrés
 Natación forzada pruebas ejercicio agotamiento punto
 poderes adoptar actos delegados refiere artículo otorgan Comisión período años noviembre
 Comisión presentará informe poderes delegados tardar meses finalice período años
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 lados recinto medir
 consiguiente criadores suministradores usuarios contar establecimientos órgano control bienestar animal cometido principal centrarse asesorar materia bienestar animal mantenerse enterado evolución resultado proyectos establecimiento propiciar clima solicitud animales proporcionar medios aplicación práctica oportuna avances científicos técnicos recientes relación principios reemplazo reducción refinamiento mejorar experiencia vida animales
 miembro establecerá comité nacional protección animales utilizados fines científicos encargado asesorar autoridades competentes órganos encargados bienestar animales cuestiones relacionadas adquisición cría alojamiento cuidado utilización animales procedimientos garantizar comparten mejores prácticas
@@ -1804,7 +1707,6 @@ Corrección errores Reglamento CE Consejo enero adapta política agrícola comú
 Diario Oficial Unión Europea enero página artículo punto artículo apartado letra Reglamento CE trigo blando precio referencia cantidad máxima ofrecida millones toneladas período intervención arreglo artículo bis trigo blando precio referencia cantidad máxima ofrecida millones toneladas período intervención arreglo artículo letra página artículo punto artículo apartado letra Reglamento CE trigo blando cantidades excedan límite máximo ofrecido millones toneladas período intervención arreglo artículo bis trigo blando cantidades excedan límite máximo ofrecido millones toneladas período intervención arreglo artículo letra
 página artículo punto frase texto artículo apartado Reglamento CE
 obstante caso cantidad ayuda comunitaria concedida arreglo medidas referidas artículo apartado Reglamento ayuda pública excederán límite máximo establecido artículo apartado
-
 obstante caso cantidad ayuda comunitaria concedida arreglo medidas referidas artículo apartado Reglamento ayuda pública excederán límite máximo establecido artículo apartados
 Reglamento CE Comisión
 noviembre
@@ -2149,7 +2051,6 @@ Nombre dirección organización
 Pedido contrato factura
 Elemento
 Descripción
-
 Cantidad
 serie
 Situación trabajo
@@ -4547,7 +4448,6 @@ vapor
 combustión interna
 turbinas gas
 ciclo combinado
-
 especificarse contenido partida
 información punta carga consignarse red
 Punta carga

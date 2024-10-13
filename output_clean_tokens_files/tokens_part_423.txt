@@ -2039,7 +2039,6 @@ Trismetilhidroxitercbutilfenilbutano
 ANEXO
 anexo Directiva CE queda modificado
 sustituye texto
-
 Especificaciones generales
 materiales objetos plásticos deberán liberar aminas aromáticas primarias cantidad detectable LD mg kg alimento simulante alimenticio
 migración aminas aromáticas primarias incluidas listas anexos II III queda excluida restricción
@@ -2104,7 +2103,6 @@ Leche fermentada yogur leche batida productos similares
 Nata nata ácida
 Quesos
 enteros corteza comestible
-
 Cuajo
 líquido pastoso
 polvo secado
@@ -2119,9 +2117,7 @@ coeficiente reducción grasas FRF coeficiente deberá dividirse migración medid
 Corrección errores Reglamento Ejecución UE Consejo junio aplica artículo apartado Reglamento UE relativo imposición medidas restrictivas determinadas personas grupos empresas entidades habida situación Afganistán
 Diario Oficial Unión Europea junio
 página considerando
-
 mayo Comité establecido virtud párrafo Resolución Consejo Seguridad Naciones Unidas
-
 mayo junio Comité establecido virtud párrafo Resolución Consejo Seguridad Naciones Unidas
 Corrección errores Decisión Ejecución PESC Consejo junio aplica Decisión PESC relativa medidas restrictivas determinadas personas grupos empresas entidades habida situación Afganistán
 página considerando
@@ -2586,9 +2582,7 @@ tradicional
 Corrección errores Directiva CE Parlamento Europeo Consejo abril relativa contratos crédito consumo deroga Directiva CEE Consejo
 Diario Oficial Unión Europea mayo
 página artículo
-
 miembro recurra opciones reglamentarias contempladas artículo apartados artículo apartado artículo apartado letra artículo apartado artículo apartado artículo apartado letra artículo apartado artículo apartado informará
-
 miembro recurra opciones reglamentarias contempladas artículo apartados artículo apartado artículo apartado letra artículo apartado artículo apartado artículo apartado letra artículo apartado artículo apartado informará
 página artículo apartado frase
 Comisión supervisará asimismo efecto existencia opciones reglamentarias contempladas artículo apartados artículo apartado artículo apartado letra artículo apartado artículo apartado artículo apartado letra artículo apartado artículo apartado mercado interior consumidores
@@ -4194,7 +4188,6 @@ Derecho información
 nacionales terceros países objeto descripción introducida arreglo presente Reglamento informados virtud artículos Directiva CE
 información facilitará escrito copia decisión nacional causó introducción descripción mencionada artículo apartado referencia dicha decisión
 caso proporcionará información
-
 datos personales hayan obtenido nacional tercer país cuestión
 proporcionar información resulte imposible requiera esfuerzo desproporcionado
 nacional país cuestión información
@@ -4782,7 +4775,6 @@ DO
 DO
 DO
 ANEXO
-
 Alemania
 RenaniaPalatinado
 comarca denominada Eifel
@@ -4956,12 +4948,7 @@ mm
 mm
 mm
 porcentaje peso materiales contiene artículo
-
-
-
-
 papel
-
 artículo destinado cortado utilizado producción cigarrillos filtro
 características objetivas artículo permiten deducir evidente cortar
 Véanse fotografías

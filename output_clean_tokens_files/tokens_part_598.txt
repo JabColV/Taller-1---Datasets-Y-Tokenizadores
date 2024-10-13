@@ -152,9 +152,7 @@ autoridades suecas lista incumplimientos incluye
 Corrección errores Reglamento CE Consejo julio establece procedimiento gestión comunitaria contingentes cuantitativos
 Diario Oficial Unión Europea julio
 página cubierta página título página fecha adopción
-
 julio
-
 julio
 Reglamento CE Consejo
 diciembre
@@ -3377,9 +3375,7 @@ BXU cantidad enzima libera nmol azúcares reductores xilosa xilano abedul pH °C
 dirección laboratorio comunitario referencia obtenerse información métodos analíticos wwwirmmjrcbecrlfeedadditives
 Corrección errores Reglamento CE Parlamento Europeo Consejo junio relativo traslados residuos
 página artículo apartado letra
-
 zonas caso motivos excepcionales situaciones crisis establecimiento mantenimiento paz guerra puedan formalizarse acuerdos compromisos bilaterales mencionados letras designado autoridad competente país expedición vea imposibilidad actuar
-
 zonas caso motivos excepcionales situaciones crisis establecimiento mantenimiento paz guerra puedan formalizarse acuerdos compromisos bilaterales mencionados letras designado autoridad competente país expedición vea imposibilidad actuar
 página anexo lista rúbrica
 siguientes residuos polímeros fluorados
@@ -4802,12 +4798,6 @@ pequeñas empresas
 microempresas
 beneficiarios siguientes
 Número estimado beneficiarios
-
-
-
-
-
-
 Forma ayuda tipo financiación
 Forma ayuda concedida beneficiario especifíquese proceda aparte medida ejemplo subvención directa préstamo blando etc
 Cuadro
@@ -4841,7 +4831,6 @@ ayuda refiere márquese proceda
 producción comercialización productos contemplados anexo XI ter Reglamento CE
 creación productos procedimientos tecnologías relacionados productos mencionados anexo XI ter Reglamento CE
 Queda confirmado concederse ayuda empresas crisis tenor Directrices comunitarias ayudas estatales salvamento reestructuración empresas crisis
-
 presente notificación entra ámbito aplicación disposición Directrices agrícolas consiguiente queda confirmado proceda
 punto IVB letra artículo Reglamento CE caso queda confirmado
 ayuda reúne condiciones fijadas Reglamento CE artículo ayudas estatales pequeñas medianas empresas

@@ -156,7 +156,6 @@ Patógenos vegetales
 Tecnología integración datos control vuelo guiado propulsión sistema gestión vuelo optimización trayectoria sistema cohetes
 Sistemas propulsión cohetes híbridos capacidad impulsión superior MNs
 Mecanismos etapas mecanismos separación interetapas puedan utilizarse misiles
-
 presente autorización exportación válida territorio comunitario exportaciones siguientes destinos
 Canadá
 Japón
@@ -188,7 +187,6 @@ Código artículo caso
 Lista control
 Divisa valor
 Cantidad artículos caso
-
 Fecha contrato caso
 Régimen exportación aduanera
 informaciones requiera legislación nacional especifíquese formulario
@@ -224,7 +222,6 @@ Condiciones requisitos
 ANEXO IV
 Lista mencionada artículo apartado Reglamento CE
 mención artículo anexo afecta aplicación disposiciones refieran productos consumo anexo
-
 posibilidad Autorización Nacional General comercio intracomunitario
 Productos tecnología sigilo
 Materiales diseñados especialmente absorber ondas electromagnéticas polímeros intrínsecamente conductores
@@ -896,7 +893,6 @@ equipos diseñados servicios GNSS comerciales civiles Seguridad vida humana pe i
 Equipos componentes accesorios diseñados especialmente diseñados especialmente desarrollo producción utilización equipos funciones elementos incluidos artículos
 Nota subartículo Ba somete control equipo caracterización fibra óptica
 Equipos componentes diseñados especialmente accesorios diseñados especialmente desarrollo cualquiera siguientes equipos telecomunicaciones transmisión conmutación
-
 Equipo lógico software diseñado especialmente modificado desarrollo producción utilización equipos funciones elementos incluidos artículos
 Equipo lógico software diseñado especialmente modificado soporte tecnología incluida artículo
 Equipo lógico software diseñado especialmente modificado utilización equipos incluidos artículo
@@ -912,7 +908,6 @@ Técnicas modulación amplitud cuadratura QAM nivel
 funcionen frecuencia entrada salida superior GHz
 Nota subartículo Ecb somete control tecnología desarrollo producción equipos diseñados modificados funcionar banda frecuencias esté asignada UIT servicios radiocomunicación radiodeterminación
 Tecnología Nota General Tecnología desarrollo producción utilización equipos incluidos artículo
-
 Nota régimen control equipos equipo lógico software sistemas conjuntos electrónicos específicos aplicaciones determinadas módulos circuitos integrados componentes funciones destinados seguridad información determina Categoría trate componentes conjuntos electrónicos equipos
 Nota Categoría somete control productos acompañen usuario personal
 Nota criptografía
@@ -1406,7 +1401,6 @@ entiende velocidad velocidad gas salida tobera calculada °C MPa NB plasma recib
 Pico energía electrones acelerador superior keV inferior MeV
 interconexión ordenadores digitales falla unidad central proceso activa unidad central proceso reserva imagen mantener funcionamiento sistema
 CTP medida velocidad proceso expresada millones operaciones teóricas Mtops
-
 recorrido aleatorio random walk angular inferior
 Nota subartículo Ab somete control giroscopios masa giratoria giroscopios masa giratoria giroscopios utilizan masa rotación continua medir ángulo giro
 Nota técnica
@@ -1422,7 +1416,6 @@ normas nacionales equivalentes puntos anteriores
 Nota artículo somete control sistemas navegación inercial estén certificados aeronaves civiles autoridades civiles participante
 Nota subartículo Ac somete control teodolitos dotados equipos inerciales diseñados especialmente fines topografía civil
 artículo Ab refiere sistemas sistema navegación inercial ayudas independientes navegación construidas única unidad encajadas lograr prestación
-
 Noruega
 Suiza
 Indíquese letras cantidad valor deducidos
@@ -1603,9 +1596,7 @@ CIPAC
 Ndimethylmetilcarbamoiloximinometiltio acetamida
 agosto
 julio
-
 autorizar usos nematicida insecticida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión oxamil particular apéndices II concluyó Comité permanente cadena alimentaria sanidad animal julio
 evaluación general
 miembros atender especialmente protección aves mamíferos lombrices tierra organismos acuáticos aguas superficiales subterráneas condiciones vulnerables
@@ -1720,8 +1711,6 @@ Reglamento modificado Reglamento CE DO
 ANEXO
 anexo Decisión CE punto sustituye texto
 contenido carne magra canal calculará aplicando fórmula
-
-
 porcentaje estimado carne magra canal
 espesor grasa dorsal incluida piel milímetros medido cm línea media canal costillas cuarta contadas costilla
 espesor muscular milímetros medido tiempo lugar
@@ -1956,7 +1945,6 @@ modifica Asociación África Caribe Pacífico Comunidad Europea miembros firmado
 modifica Asociación África Caribe Pacífico Comunidad Europea miembros firmado Cotonú junio modificado Luxemburgo junio DO
 PROYECTO
 DECISIÓN CONSEJO MINISTROS ACPCE
-
 estatuto República Sudán Sur relación Asociación África Caribe Pacífico Comunidad Europea miembros
 CONSEJO MINISTROS ACPCE
 Visto Asociación África Caribe Pacífico Comunidad Europea miembros firmado Cotonú junio modificado Luxemburgo junio Uagadugu junio Asociación ACPCE particular artículo
@@ -1969,7 +1957,6 @@ solicitud República Sudán Sur adhesión Asociación África Caribe Pacífico C
 Sudán Sur estatuto observador noviembre virtud Asociación ACPCE
 Sudán Sur depositará Acta adhesión depositarios Asociación ACPCE Secretaría General Consejo Unión Europea Secretaría ACP dicha fecha
 Entrada vigor
-
 DO
 modifica Asociación África Caribe Pacífico Comunidad Europea miembros firmado Cotonú junio DO
 modifica Asociación África Caribe Pacífico Comunidad Europea miembros firmado Cotonú junio modificado Luxemburgo junio DO
@@ -2174,9 +2161,7 @@ ensilaje producido Lactobacillus pentosus DSM fecha entrada vigor presente Regla
 Corrección errores Reglamento Ejecución UE Consejo abril amplía derecho antidumping definitivo establecido Reglamento CE importaciones cables acero originarios países República Popular China importaciones cables acero procedentes República Corea hayan declaradas originarias República Corea concluida investigación importaciones procedentes Malasia
 Diario Oficial Unión Europea mayo
 página artículo cuadro columna Empresa cuarta fila
-
 Cosmo Wire Ltd KoyeonRi Woong ChonMyon UljuKun Ulsan
-
 Cosmo Wire Ltd KoyeonRi Woong ChonMyon UljuKun Ulsan
 Reglamento CE Comisión
 noviembre
@@ -2443,7 +2428,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -2513,12 +2497,10 @@ cumplen criterios pertinentes establecidos Reglamento CE Comisión relativo crit
 cubren garantías relativas animales vivos productos ofrecen planes residuos presentados conformidad Directiva CE particular artículo
 transporte condiciones carga productos cárnicos partida cumplen requisitos higiene establecidos exportaciones Comunidad Europea
 contienen material bovinos ovinos caprinos contienen derivan
-
 materiales especificados riesgo definidos anexo XI Reglamento CE producidos marzo carne separada mecánicamente huesos bovinos ovinos caprinos producida marzo
 animales bovinos ovinos caprinos deriva producto sacrificaron fecha posterior marzo previo aturdimiento inyección gas cavidad craneal muerte método sacrificaron previo aturdimiento laceración tejido nervioso central introducción instrumento forma vara alargada cavidad craneal
 materiales origen bovino ovino caprino distintos derivados animales nacidos criados ininterrumpidamente sacrificados
 Notas
-
 Casilla Región caso conforme anexo II Decisión CE Comisión modificación
 Casilla Lugar origen nombre dirección establecimiento expedidor
 Casilla Matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos
@@ -2669,7 +2651,6 @@ DO
 DO
 DO
 ANEXO
-
 Terceros países partes terceros países autorizada introducción UE productos cárnicos estómagos vejigas intestinos tratados
 consúltese presente anexo significado códigos empleados cuadro
 XXX establecido certificado productos cárnicos estómagos vejigas intestinos tratados contienen carne especies autorizados
@@ -2729,7 +2710,6 @@ Conforme Comunidad Europea Confederación Suiza comercio productos agrícolas
 Antigua República Yugoslava Macedonia código provisional afecta denominación definitiva país acordará conclusión negociaciones actualmente curso asunto Naciones Unidas
 Excluido Kosovo definido Resolución Consejo Seguridad Naciones Unidas junio
 ANEXO II
-
 Lista terceros países territorios zonas compartimentos
 Código ISO nombre tercer país territorio
 Código tercer país territorio zona compartimento
@@ -2745,7 +2725,6 @@ Fecha límite
 Fecha inicio
 país
 BR Brasil
-
 Rio do Sul Santa Catarina Paraná São Paulo Mato Grosso do Sul
 Mato Grosso Paraná Rio do Sul Santa Catarina São Paulo
 Distrito Federal
@@ -3157,7 +3136,6 @@ Orientación
 Luces marcha atrás
 Iluminación placa trasera matrícula
 Catadióptricos marcas visibilidad placas reflectante traseras
-
 Testigos obligatorios equipo iluminación
 Conexiones eléctricas vehículo tractor remolque semirremolque
 Cableado eléctrico
@@ -3927,7 +3905,6 @@ DO
 Directiva modificada lugar Directiva CE Comisión DO
 ANEXO
 MEDIDAS GASTOS SUBVENCIONABLES
-
 Medidas subvencionables
 Medidas relativas conocimiento situación fitosanitaria local
 estudios encuestas oficiales mejorar conocimiento situación local organismos nocivos
@@ -3959,7 +3936,6 @@ realización campañas información oficiales agricultores responsables público
 establecimiento desarrollo redes información fitosanitaria forma
 organización sesiones formación agricultores
 organización reuniones información oficiales agricultores personas públicas organizaciones vean afectados programas control
-
 Gasto subvencionable
 Costes personal preste servicios específicos marco contratos servicios
 Equipo artículos consumo utilizados aplicar medidas
@@ -4680,7 +4656,6 @@ ENSAYOS COMPARATIVOS
 MISIONES
 Viaje
 Estancia
-
 GASTOS GENERALES
 Importe gastos rúbricas
 Gastos generales
@@ -4725,7 +4700,6 @@ concederá automáticamente aportación invariable coste real reembolsable conce
 ANEXO III
 INFORME FINANCIERO CERTIFICADO
 artículo apartado
-
 Tipo conversión utilizado EUR
 referencia Decisión
 Nombre dirección beneficiario
@@ -4837,7 +4811,6 @@ DO
 DO
 ANEXO
 ANEXO II
-
 Modelo certificado zoosanitario comercialización animales acuicultura destinados cría reinstalación pesquerías suelta captura instalaciones ornamentales abiertas repoblación
 Detalles relativos partida presentada
 UNIÓN EUROPEA
@@ -4856,7 +4829,6 @@ Código ISO
 País destino
 Lugar origen
 Explot autorizada acuicultura
-
 Número autorización
 Lugar destino
 Lugar carga
@@ -4944,7 +4916,6 @@ cumplen requisitos relativos ausencia enfermedad equivalentes establecidos capí
 caso partidas destinadas miembro compartimento cubierto programa aprobado Decisión UE cubiertas programa vigilancia aprobado Decisión UE
 sometidos cuarentena condiciones mínimo equivalentes establecidas Decisión CE
 Notas
-
 Casilla procede indicar número autorización explotación zona cría moluscos trate
 Marcar animales acuáticos silvestres
 Casilla procede indicar número autorización explotación zona cría moluscos trate
@@ -4980,7 +4951,6 @@ Número UVL
 Fecha
 Firma
 Sello
-
 Modelo certificado zoosanitario comercialización animales acuicultura productos derivados destinados transformación complementaria centros expedición centros depuración empresas similares consumo humano
 Consumo humano
 Part II Certificatión

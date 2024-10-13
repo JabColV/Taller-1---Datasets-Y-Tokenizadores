@@ -461,7 +461,6 @@ autoriza Presidente Consejo designe persona personas facultadas transmitir nombr
 Bruselas diciembre
 Consejo
 Presidente
-
 revisa Comunidad Europea Confederación Suiza reconocimiento mutuo materia evaluación conformidad
 COMUNIDAD EUROPEA CONFEDERACIÓN SUIZA
 sucesivo denominadas Partes
@@ -1673,7 +1672,6 @@ DO
 DO
 DO
 ANEXO
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -1702,7 +1700,6 @@ DO
 Directiva CE Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -1961,7 +1958,6 @@ obstante aplicable respecta solicitudes ayuda relativas campañas comercializaci
 necesario establecer disposiciones especiales garantizar reducciones apliquen consecuencia normas establecidas Reglamento CE queden vacías contenido transferencia régimen
 medidas previstas presente Reglamento ajustan dictamen Comité gestión pagos directos
 ADOPTADO PRESENTE REGLAMENTO
-
 ÁMBITO APLICACIÓN DISPOSICIONES GENERALES
 Artículo
 Ámbito aplicación
@@ -3353,7 +3349,6 @@ País suministrador Brasil
 Cuartos delanteros unidos separados animales especie bovina congelados
 Cuartos delanteros enteros cortados trozos máximo presentándose cuarto delantero bloque congelación cuartos llamados compensados presentados bloques congelación contengan cuarto delantero completo cortado trozos máximo cuarto trasero trozo solomillo
 Cortes cuartos delanteros cortes pecho llamados australianos
-
 Músculos diafragma delgados congelados
 peso hueso incluido
 EUR kg peso neto EUR kg peso neto EUR kg peso neto EUR kg peso neto EUR kg peso neto
@@ -3365,11 +3360,9 @@ Pechugas trozos pechugas
 países suministradores
 Brasil
 Tailandia
-
 Trozos pavo congelados
 Mitades cuartos
 Brasil
-
 Azúcar caña bruto destine refinado
 EUR kg peso neto
 Asignados Brasil
@@ -3542,7 +3535,6 @@ octubre
 normas financieras aplicables presupuesto general Unión deroga Reglamento CE Euratom Consejo
 ÍNDICE
 Página
-
 DISPOSICIONES COMUNES
 TÍTULO OBJETO ÁMBITO APLICACIÓN DEFINICIONES
 Artículo Objeto
@@ -3786,7 +3778,6 @@ Artículo Calendario procedimiento aprobación gestión presupuestaria
 Artículo procedimiento aprobación gestión presupuestaria
 Artículo Medidas seguimiento
 Artículo Disposiciones específicas relación SEAE
-
 DISPOSICIONES PARTICULARES
 TÍTULO FONDO EUROPEO AGRÍCOLA GARANTÍA
 Artículo Disposiciones especiales Fondo Europeo Agrícola Garantía
@@ -3839,7 +3830,6 @@ Artículo Compromisos
 Artículo Disposiciones específicas relativas créditos administrativos
 TÍTULO VII EXPERTOS
 Artículo Expertos externos remunerados
-
 DISPOSICIONES FINALES
 Artículo Disposiciones transitorias
 Artículo Solicitudes información Parlamento Europeo Consejo

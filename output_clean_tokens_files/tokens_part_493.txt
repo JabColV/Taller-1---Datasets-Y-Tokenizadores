@@ -505,7 +505,6 @@ Notificación certificados importación expedidos Reglamento CE
 miembro
 Aplicación artículo bis Reglamento CE
 Cantidades productos expedido certificados importación
-
 orden
 Categoría categorías productos
 Cantidad
@@ -1714,7 +1713,6 @@ inserta línea correspondiente código NC
 Máquinas cuya función principal copia digital desempeñan función copia escaneado original impresión copias motor impresión electrostática
 st
 inserta línea correspondiente código NC
-
 exención
 suprime línea correspondiente código NC
 suprime línea correspondiente código NC
@@ -1724,7 +1722,6 @@ inserta línea correspondiente código NC
 Aparatos dispositivo microprocesador módem incorporado acceder internet función intercambio información interactivo capacidad captar señales televisivas denominados adaptadores multimedia desempeñan función comunicación set top boxes STB incluidos incorporado dispositivo desempeña función grabación reproducción mantengan carácter esencial adaptador multimedia desempeña función comunicación
 suprime línea correspondiente código NC
 insertan siguientes líneas correspondientes código NC
-
 Información fecha entrada vigor colaboración materia pesca Comunidad Europea Gobierno Dinamarca Gobierno autónomo Groenlandia Comunidad Europea Gobierno autónomo Groenlandia notificaron junio julio respectivamente procedimientos adopción concluido
 consiguiente arreglo dispuesto artículo entró vigor julio
 DO
@@ -3912,13 +3909,8 @@ Descripción mercancías
 Período contingentario
 Volumen contingente anual toneladas peso neto especifique cosa
 Calzas pantymedias leotardos medias calcetines artículos calcetería compresión progresiva ejemplo medias varices punto
-
 período posterior
 Camisas hombres niños algodón
-
-
-
-
 período posterior
 Camisas hombres niños fibras sintéticas artificiales
 Camisas hombres niños materias textiles
@@ -4091,14 +4083,12 @@ ANEXO
 ESCRITO NOTIFICACIÓN
 NOTIFICACIÓN INTENCIÓN COMERCIALIZAR PARTICIPACIONES OICVM
 miembro acogida
-
 Nombre OICVM
 miembro origen OICVM
 Forma jurídica OICVM márquese casilla correcta
 fondo común inversión
 sociedad inversión
 OICVM compartimentos
-
 Nombre OICVM compartimento compartimentos comercializarán miembro acogida
 Nombre clase clases acciones comercializarán miembro acogida
 Duración
@@ -4128,7 +4118,6 @@ Nota
 versiones documentos enumerados exigidos deberán adjuntarse presente escrito posterior transmisión autoridades competentes miembro origen OICVM facilitado previamente copia dichas autoridades
 documentos enviado previamente autoridades competentes miembro acogida OICVM siga válido escrito notificación referencia
 Indíquese obtenerse futuro versiones electrónicas recientes documentos adjuntos
-
 información proporciona conformidad disposiciones legales reglamentarias nacionales miembro acogida OICVM relativas comercialización participaciones OICVM miembro
 información datos deberán presentarse sección OICVM remitirán sitio web autoridades competentes miembro
 hallarse lista sitios web utilidad dirección wwwcesreu
@@ -4153,7 +4142,6 @@ incluirán miembro acogida OICVM exige
 cualesquiera datos adicionales deban divulgarse partícipes agentes
 OICVM acoja exención normas requisitos aplicables miembro acogida OICVM relación modalidades comercialización OICVM clase acciones específica categoría inversores información recurso tales exenciones
 exige miembro acogida OICVM prueba pago importes adeudados autoridades competentes miembro acogida
-
 Confirmación OICVM
 Confirmamos documentos adjuntos presente escrito notificación contienen información pertinente prevista Directiva CE
 texto documentos idéntico presentó previamente autoridades competentes miembro origen traducción fiel texto
@@ -4789,7 +4777,6 @@ DO
 DO
 DO
 Reglamento cuya modificación constituye Reglamento CE DO
-
 forma Canje Notas Comunidad Europea Reino Noruega Protocolo bilateral libre comercio Comunidad Económica Europea Reino Noruega
 Nota Comunidad Europea
 Excmo Sr
@@ -4942,7 +4929,6 @@ Granos cereales trabajados ejemplo mondados aplastados copos perlados troceados 
 Germen cereales entero aplastado copos molido mondados aplastados copos perlados troceados quebrantados arroz partida germen cereales entero aplastado copos molido
 Harina sémola polvo hortalizas partida sagú raíces tubérculos partida productos capítulo
 sagú raíces tubérculos partida sagú raíces tubérculos partida productos capítulo
-
 Gluten trigo seco
 Salvados moyuelos residuos cernido molienda tratamientos cereales leguminosas pellets
 maíz

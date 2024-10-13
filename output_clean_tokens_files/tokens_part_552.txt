@@ -1415,18 +1415,14 @@ limitación diciembre utilizarse mg lámpara diciembre
 Mercurio lámparas descarga baja presión lámpara
 Mercurio lámparas vapor sodio alta presión usos generales alumbrado lámparas índice rendimiento color mejorado Ra sobrepasar quemador
 bI
-
 limitación diciembre utilizarse mg quemador diciembre
 bII
-
 limitación diciembre utilizarse mg quemador diciembre
 bIII
-
 Mercurio lámparas vapor sodio alta presión usos generales alumbrado sobrepasar quemador
 cI
 limitación diciembre utilizarse mg quemador diciembre
 cII
-
 cIII
 Mercurio lámparas vapor mercurio alta presión HPMV
 Expira abril
@@ -2195,7 +2191,6 @@ cubeta agitación provista grifo desagüe
 Dependiendo estimación log POW límite detección LOD sustancia problema planteado recipiente reacción proporciones capacidad litro obtener volumen agua suficiente análisis extracción química
 obtendrán concentraciones elevadas extracto acuoso ende determinación analítica fiable
 apéndice figura tabla recoge cálculos volumen mínimo necesario LOD sustancia log POW estimado hidrosolubilidad
-
 molaridad
 relación establecida Lyman predecir hidrosolubilidad
 valores hidrosolubilidad calculados ecuación indica apéndice considerarse estimación
@@ -2334,7 +2329,6 @@ media ponderada calcula ponderando datos inversa varianza influencia datos resul
 Media log POW
 calcula valor log POW media resultados unidades experimentales individuales ponderados respectivas varianzas
 cálculo
-
 valor log POW unidad experimental individual
 media ponderada determinaciones log POW individuales
 peso estadístico atribuido valor log POW unidad experimental
@@ -2765,7 +2759,6 @@ casos recomienda encarecidamente adaptar consecuencia siguientes valores concent
 tiempos exposición largos espaciado factor véase figura
 Sesión exposición IV
 tiempos exposición largos espaciado factor véase figura
-
 Sesión exposición IV
 exponen lotes animales concentración superior tiempos exposición cortos espaciado factor véase figura
 Tratamiento matemático resultados obtenidos protocolo
@@ -2775,7 +2768,6 @@ Ecuación
 concentración período exposición
 Ecuación
 Respuesta
-
 Aplicando ecuación calcular valor CL período ejemplo horas hora minutos período intervalo períodos estudiados respuesta
 Obsérvese regla aplicable
 CL calcular

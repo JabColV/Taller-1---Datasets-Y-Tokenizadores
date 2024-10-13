@@ -157,7 +157,6 @@ millones EUR
 millones EUR
 Comisión anual EUR
 Comisión mensual EUR
-
 BCSV calculará año valor bruto operaciones liquidación efectivo euros SV base valor bruto año valor bruto calculado aplicará cálculo comisión enero año natural
 comisión operaciones calculada conforme tarifas participantes TARGET establecen apéndice VI anexo II
 SV optar pagar comisión fija EUR instrucción pago opción pagar comisión basada tarifa decreciente opción sujeción reglas siguientes
@@ -178,10 +177,6 @@ celebración participante convenio general voluntario acreedores participante in
 saldo acreedor participante módulo pagos activos estén sujetos orden bloqueo ejecución procedimiento destinado proteger interés público derechos acreedores participante
 suspendido terminado participación participante sistema integrante TARGET sistema vinculado
 tipo marginal créditomarginal lending rate tipo interés aplicable facilidad marginal crédito titular BIC accesibleaddressable BIC holder entidad posee código identificación bancaria BIC reconocida participante indirecto corresponsal cliente participante directo sucursal participante directo indirecto cursar órdenes pago sistema integrante TARGET recibir pagos intermedio participante directo
-
-
-
-
 BCE
 efectos condiciones uniformes Condiciones entenderá
 acceso múltiplemultiaddressee access facilidad sucursales entidades crédito entidades crédito establecidas EEE acceder sistema integrante TARGET correspondiente presentándole órdenes pago directamente recibiendo pagos directamente facilidad autoriza entidades cursar órdenes pago cuya liquidación realiza módulo pagos participante directo intervención
@@ -279,9 +274,7 @@ CICAP
 kg referido bispiribaco sodio
 agosto
 julio
-
 autorizarse usos herbicida arroz
-
 efectos aplicación principios uniformes anexo VI conclusiones informe revisión bispiribaco particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención protección aguas subterráneas aplique sustancia activa regiones características edáficas climáticas vulnerables
 caso condiciones autorización incluirán medidas reducción riesgo
@@ -489,7 +482,6 @@ Código ISO
 País
 Partes territorio
 Modelo certificado utilizarse
-
 Brasil
 Rio do Sul Santa Catarina Paraná São Paulo Mato Grosso do Sul
 Canadá
@@ -1152,7 +1144,6 @@ características colorimétricas expresadas coordenadas cromaticidad Comisión I
 presente Reglamento aplicarán definiciones color luz emitida recogidas Reglamento serie enmiendas vigentes momento solicitud homologación tipo
 color medirá condiciones especificadas anexo apartado
 fuente luminosa descarga gas contenido rojo mínimo
-
 distribución espectral flujo radiante
 eficiencia luminosa espectral
 longitud onda
@@ -1664,8 +1655,6 @@ Tamaño lote
 número cajas
 Tamaño muestra
 número palés cajas
-
-
 palé cajas muestra pesará
 peso bruto palé desglosado especies obtendrá dividiendo peso bruto palés muestra número palés
 peso neto caja desglosado especies obtendrá deduciendo peso bruto palé refiere punto siguientes elementos
@@ -2165,9 +2154,7 @@ huevos frescos
 gallina especie Gallus domesticus
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
-
 aves corral distintos aves especie Gallus domesticus
-
 aves corral
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
 Yemas huevo
@@ -2414,7 +2401,6 @@ Artículo
 Requisitos datos registrarse
 tacógrafos incluidos coomponentes externos tarjetas tacógrafo hojas registro cumplirán estrictos requisitos técnicos tipo permitir adecuada aplicación presente Reglamento
 tacógrafo tarjetas tacógrafo cumplirán siguientes requisitos
-
 registrar datos relativos conductor actividad conductor vehículo exactos fiables
 seguros garantizando particular integridad origen fuente datos registrados extraídos unidades instaladas vehículo sensores movimiento
 interoperables distintas generaciones unidades instaladas vehículos tarjetas tacógrafo
@@ -3388,7 +3374,6 @@ Forma líquida
 UFC ml aditivo
 Perros
 julio
-
 Reglamento CE Comisión
 octubre
 modifica centésimodecimotercera Reglamento CE Consejo imponen determinadas medidas restrictivas específicas dirigidas determinadas personas entidades asociadas Usamah bin Ladin red AlQaida talibanes

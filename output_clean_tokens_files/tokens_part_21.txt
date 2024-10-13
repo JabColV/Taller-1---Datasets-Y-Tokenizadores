@@ -192,9 +192,7 @@ Contenido máximo tolueno kg
 Contenido máximo isómero kg
 enero
 diciembre
-
 autorizarse usos fungicida
-
 aplicación principios uniformes contemplados artículo apartado Reglamento CE conclusiones informe revisión azoxistrobina particular apéndices II aprobado Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros prestarán especial atención puntos siguientes
 posibilidad contaminación aguas subterráneas sustancia activa aplique regiones suelos condiciones climáticas vulnerables
@@ -3336,7 +3334,6 @@ Vinagre
 Alimentos dietéticos controlar peso destinados sustituir ingesta diaria comida aislada
 Alimentos apropiados personas intolerancia gluten definen Reglamento CE Comisión
 Bebidas aromatizadas
-
 Postres productos incluidos categorías
 Disolvente mezcla etanol agua
 ácido expresado ácido acético kg
@@ -3499,7 +3496,6 @@ DO
 DO
 DO
 ANEXO
-
 Terceros países partes terceros países autorizadas importaciones UE productos cárnicos estómagos vejigas intestinos tratados
 consúltese presente anexo significado códigos empleados cuadro
 XXX establecido certificado productos cárnicos estómagos vejigas intestinos tratados contienen carne especies autorizados
@@ -4541,7 +4537,6 @@ Bruselas noviembre
 DO
 DO
 ANEXO
-
 Terceros países partes autorizados refiere determinadas especies régimen tratamiento específico gozan autorización respecta importaciones Comunidad biltong jerky productos cárnicos pasteurizados
 XXX establecido certificado importaciones Comunidad biltong jerky productos cárnicos pasteurizados autorizadas país figure autorizado refiere tratamiento especies cuestión
 Código ISO

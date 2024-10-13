@@ -478,10 +478,7 @@ Registro número artículos multiplicado peso arreglo estudio estadístico
 costes amortización edificios instalaciones maquinaria equipos general costes alquileres impuestos bienes inmuebles pagos derechos suelo servicios municipales reparaciones mantenimiento edificios instalaciones suministro energía agua empleo personal seguridad oficinas postales costes limpieza
 costes servicios externos relacionados reparto paquetes envíos postales pagados entrega envíos postales urgentes recogida correo buzones costes mantenimiento Departamentos Explotación Supervisión Técnica costes servicios relacionados reparto
 epígrafe costes incluyen costes carácter general clasificarse costes directos indirectos
-
 costes imputan proporción anteriormente asignados cuentas servicios
-
-
 Poczta Polska intención cabo cálculo costes utilizando modelo ABC
 costes imputan cuentas grupo cuentas servicios imputan costes realización distintos servicios cuentas imputan costes indirectos cuentas imputan costes
 Posteriormente costes consignados cuentas grupo transfieren cuentas
@@ -536,7 +533,6 @@ ANEXO
 Costes año
 Servicios postales
 Servicios financieros
-
 costes directos
 costes indirectos
 costes explotación
@@ -615,11 +611,9 @@ obligación ejecución tareas operador público descrita Ley servicios postales 
 Corrección errores Reglamento CE Consejo diciembre relativo creación Empresa Común Artemio ejecutar iniciativa tecnológica conjunta sistemas computación empotrados
 Diario Oficial Unión Europea febrero
 página anexo Estatutos Empresa Común Artemio artículo punto
-
 perjuicio obligaciones confidencialidad participante proyecto transferir obligaciones otorgar derechos acceso deberá notificar participantes cesión prevista antelación
 participantes escrito acordar plazo renunciar derecho recibir notificación previa caso cesiones propiedad participante expresamente identificado
 perjuicio obligaciones confidencialidad participante proyecto transferir obligaciones otorgar derechos acceso deberá notificar participantes cesión prevista antelación
-
 Decisión Consejo
 julio
 nombra miembro titular chipriota miembro suplente chipriota Comité Regiones
@@ -1809,7 +1803,6 @@ anima miembros mejorar valores defecto conservadores adaptándolos circunstancia
 mejoras comunicar Comisión públicamente
 Esbozo metodología
 conformidad anexo VII Directiva cantidad energía renovable suministrada tecnologías bombas calor calcula fórmula
-
 calor útil estimado proporcionado bombas calor GWh
 horas equivalentes funcionamiento plena carga
 potencia bombas calor instaladas teniendo duración tipos bombas calor GW
@@ -4172,7 +4165,6 @@ Reglamento CE Parlamento Europeo Consejo abril controles oficiales efectuados ga
 Decisión CE Comisión junio vigilancia armonizada resistencia antimicrobianos Salmonella aves corral cerdos DO
 ANEXO
 REQUISITOS TÉCNICOS
-
 MARCO MUESTREO ANÁLISIS
 Origen cepas
 seguimiento resistencia bacteriana miembros recogerán cepas representativas mínimo siguientes poblaciones animales categorías alimentos
@@ -4293,7 +4285,6 @@ Control calidad almacenamiento cepas
 laboratorios designados autoridades competentes antibiogramas cepas incluidas programa seguimiento armonizado participar sistema aseguramiento calidad cuente prueba aptitud escala nacional Unión identificación determinación tipo antibiograma bacterias dirigido programa seguimiento armonizado resistencia
 cepas almacenarán laboratorios nacionales referencia resistencia antibióticos temperatura °C mínimo años
 alternativa utilizarse métodos almacenamiento garanticen viabilidad producirán cambios propiedades cepa
-
 COMUNICACIÓN INFORMACIÓN
 Disposiciones generales notificación datos
 seguimiento resistencias realiza autoridad competente cepas obtenidas autoridad competente fases cadena alimentaria distintas contempladas punto conformidad especificaciones técnicas contempladas puntos resultados seguimiento notificarán conformidad punto consignarán separado notifiquen altere número cepas sometidas ensayo conforme dispuesto punto

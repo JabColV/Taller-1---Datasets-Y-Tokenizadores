@@ -803,7 +803,6 @@ Periódica periódica
 Compras simples
 Ventas simples
 Facilidad marginal crédito
-
 Acceso discreción entidades contrapartida
 Facilidad depósito
 Depósitos
@@ -935,7 +934,6 @@ tipo interés utiliza tipo interés simple aplicado reales operación consideran
 cálculo importe emisión descontado muestra recuadro
 RECUADRO
 importe emisión descontado
-
 importe nominal certificado deuda BCE
 tipo interés porcentaje
 plazo vencimiento certificado deuda BCE
@@ -1143,7 +1141,6 @@ cantidad solicitada tipo interés sésimo rs
 tipo interés marginal
 rs rm subasta inyección liquidez
 rm rs subasta absorción liquidez
-
 tipo interés tipo interés marginal tipo interés cubren totalmente pujas
 rm– rm subasta inyección liquidez
 rm rm– subasta absorción liquidez
@@ -1173,7 +1170,6 @@ cantidad solicitada punto swap sésimo Δs
 nivel marginal puntos swap
 Δm Δs swap divisas fines inyección liquidez
 Δs Δm swap divisas fines absorción liquidez
-
 punto swap punto swap marginal punto swap cubren totalmente pujas
 Δm Δm– swap divisas fines inyección liquidez
 Δm– Δm swap divisas fines absorción liquidez
@@ -1226,7 +1222,6 @@ Instrumento política monetaria
 Fecha liquidación operaciones basadas subastas estándar
 Fecha liquidación operaciones basadas subastas rápidas procedimientos bilaterales
 conformidad convenciones mercado activos garantía
-
 operaciones mercado abierto basadas subastas estándar operaciones principales financiación operaciones financiación plazo operaciones estructurales liquidan normalmente posterior fecha contratación TARGET sistemas liquidación valores SLV pertinentes estén operativos
 emisión certificados deuda BCE liquida fecha contratación TARGET SLV pertinentes estén operativos
 principio Eurosistema liquidar transacciones relacionadas operaciones mercado abierto tiempo miembros entidades contrapartida hayan aportado suficientes activos garantía
@@ -3494,7 +3489,6 @@ MEDIDAS DEFINITIVAS
 vista conclusiones obtenidas referente dumping perjuicio causalidad interés Comunidad conformidad artículo apartado Reglamento base regla derecho inferior establecerse derechos antidumping definitivos importaciones República Popular China nivel margen menor márgenes dumping perjuicio
 caso tipos derecho individuales derecho ámbito nacional establecerse nivel márgenes dumping registrados
 expuesto derechos definitivos siguientes
-
 respecta forma medidas recibió comentario confirma establecimiento derecho forma importe específico tonelada indica considerando Reglamento provisional
 COMPROMISOS
 comunicación conclusiones definitivas productores exportadores manifestaron interés ofrecer compromiso relativo precios

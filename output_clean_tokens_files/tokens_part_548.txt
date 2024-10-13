@@ -2138,7 +2138,6 @@ EXPRESIÓN PRESENTACIÓN INFORMACIÓN NUTRICIONAL
 unidades utilizarán información nutricional energía kilojulios kJ kilocalorías kcal peso gramos miligramos mg microgramos μg orden presentación información proceda siguientes
 valor energético
 grasas
-
 ácidos grasos saturados
 ácidos grasos monoinsaturados
 ácidos grasos poliinsaturados
@@ -2532,7 +2531,6 @@ DO
 DO
 ANEXO
 PLANES INFORMACIÓN
-
 Carteras valores sector excluidas carteras bancos centrales nacionales
 Cuadro
 Información general notas explicativas
@@ -2698,7 +2696,6 @@ Moneda dividendo
 Moneda pago dividendo
 Tipo titulización activos
 Tipo active utilizado
-
 Carteras valores mantenidas grupos informadores
 Información presentada
 Régimen
@@ -2735,7 +2732,6 @@ Régimen
 Número identificación valores
 Número identificación interno BCN carteras valores código ISIN informa valor valor forma agregada
 Especifica número identificación valores comunicados valor valor
-
 Valores representativos deuda corto plazo
 Valores representativos deuda plazo
 Acciones cotizadas
@@ -2813,7 +2809,6 @@ firma
 DO
 Insértense criterios cumple entidad procede clasificarla empresa principal grupo informador decisión Consejo Gobierno
 DO
-
 Reglamento Ejecución UE Comisión
 junio
 modifica Reglamento CE respecta presentación programas apoyo sector vitivinícola
@@ -3332,7 +3327,6 @@ Notificación certificados importación expedidos Reglamento CE
 miembro
 Aplicación artículo Reglamento CE
 Cantidades productos expedido certificados importación
-
 orden
 Categoría categoría productos
 Cantidad
@@ -4469,9 +4463,7 @@ Impurezas
 óxido bishidroxibismetilfenilpropilestaño SD máximo kg
 junio
 mayo
-
 autorizar usos acaricida invernaderos
-
 aplicación principios uniformes anexo VI conclusiones informe revisión óxido fenbutaestán particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 especificación técnica contenido impurezas

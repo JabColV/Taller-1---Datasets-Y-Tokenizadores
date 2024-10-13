@@ -1307,7 +1307,6 @@ continuación entrada correspondiente añade entrada
 Óxidos hidróxidos hierro
 potenciador contraste marcar cítricos melones granadas
 repetir totalidad datos obligatorios exigidos legislación nacional Unión
-
 proporcionar voluntariamente marca método producción códigos PLU QR código barras
 Período aplicación
 junio
@@ -1315,7 +1314,6 @@ continuación entrada correspondiente añade entrada
 Hidroxipropilmetilcelulosa
 cítricos melones granadas
 anexo III entrada correspondiente sustituye texto
-
 Polisorbatos
 Preparados colorantes potenciadores contraste antioxidantes liposolubles agentes recubrimiento frutas
 Comité Científico Alimentación Humana evaluó hidroxipropilmetilcelulosa
@@ -2609,9 +2607,6 @@ DO
 DO
 DO
 ANEXO
-
-
-
 Decisión Comité Mixto EEE
 mayo
 modifica anexo II Reglamentaciones técnicas normas ensayos certificación EEE
@@ -2970,13 +2965,11 @@ DO
 ANEXO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES CERDO CHIPRE
-
 Sonda Hennessy HPG Hennessy grading probe HGP
 disposiciones previstas aplicables emplee aparato denominado Sonda Hennesy HGP Hennessy grading probe HGP clasificación canales cerdo
 aparato llevará incorporada sonda diámetro milímetros milímetros hoja situada superior sonda provista fotodiodo Siemens LED tipo LYU EO fotodetector tipo MR distancia operativa milímetros
 resultados mediciones convertirán contenido estimado carne magra sonda HGP ordenador conectado
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor grasa dorsal piel milímetros medido centímetros línea media canal penúltima antepenúltima costilla
 espesor músculo dorsal milímetros medido tiempo lugar
@@ -3070,9 +3063,7 @@ trifluorometilH piridinona
 DO
 ANEXO
 anexo Reglamento Ejecución UE columna Disposiciones específicas sustituye texto
-
 autorizar usos herbicida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión fluazifopP apéndices II finalizado Comité Permanente Cadena Alimentaria Sanidad Animal febrero
 evaluación general miembros deberán
 prestar atención particular seguridad consumidores respecta presencia aguas subterráneas metabolito correspondiente
@@ -3673,7 +3664,6 @@ sección Referencias añade nota pie
 agosto NIC modificada NIC Instrumentos financieros Presentación
 febrero IASB modificó NIC requiriendo instrumentos clasificasen patrimonio instrumentos reunían características cumplían condiciones párrafos párrafos NIC
 modifican párrafos añade párrafo
-
 aportaciones socios serían clasificadas patrimonio socios tuvieran derecho solicitar reembolso patrimonio condiciones descritas párrafos aportaciones socios reúnen características cumplen condiciones párrafos párrafos NIC
 depósitos vista incluyendo cuentas corrientes depósitos plazo contratos similares surjan socios actúan clientes pasivos financieros entidad
 prohibición incondicional absoluta forma reembolsos estén prohibidos
@@ -4294,7 +4284,6 @@ valor Dc define valor teórico referencia fuerza horizontal vehículo tractor re
 dispositivos componentes mecánicos acoplamiento estén diseñados soportar cargas verticales aplicadas valor
 dispositivos componentes mecánicos acoplamiento adecuados remolques eje central definidos apartado valor
 acoplamientos quinta rueda clase pivotes acoplamiento quinta rueda clase placas soporte clase definidos apartado valor
-
 masa máxima técnicamente autorizada toneladas remolque provisto barra tracción desplace libremente plano vertical semirremolque
 masa toneladas transmitida suelo eje ejes remolque eje central definido apartado acoplado vehículo tractor cargado masa máxima técnicamente autorizada valor masas masa máxima técnicamente autorizada masa máxima autorizada legislación nacional
 define apartado
@@ -4304,9 +4293,7 @@ valor define masa vertical kilogramos aplicada condiciones estáticas acoplamien
 see the note below véase nota figura
 aceleración vertical equivalente acoplamiento depende tipo suspensión eje trasero vehículo tractor
 suspensión neumática sistemas suspensión características amortiguación equivalentes
-
 tipos suspensión
-
 longitud metros zona carga remolque véase figura
 distancia metros centro anillo remolque centro eje conjunto véase figura
 Nota resultado menor valor utilizado

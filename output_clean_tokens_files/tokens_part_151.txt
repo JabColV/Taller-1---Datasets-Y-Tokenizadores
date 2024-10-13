@@ -241,7 +241,6 @@ identificador subpartida ejemplo
 denominación subpartida idioma indicado encabezamiento declaración
 importe declarado período trate importe acumulado declarado comienzo ejercicio financiero
 importes expresarán euros
-
 lista subpartidas figurarán siguientes elementos
 importe declarado período trate importe acumulado declarado inicio ejercicio financiero
 observaciones eventuales
@@ -463,7 +462,6 @@ Préstamos
 Obligaciones
 Préstamos obligaciones
 Francia
-
 Entidades locales
 Regiones
 Departamentos
@@ -472,7 +470,6 @@ Agrupaciones municipios
 Entidades públicas
 salud
 vivienda social
-
 Bélgica
 Italia
 Reino Unido
@@ -490,7 +487,6 @@ Préstamos estructurados
 Préstamos estructurados sensibles
 Préstamos estructurados sensibles
 Carta
-
 general período tipo pagar cliente fijo mayoría inferior tipo préstamo estándar vencimiento activarse período estructurado préstamo
 tipo interés vincula directamente índice subyacente índice tipos cambio paridad cambio etc arreglo fórmula compleja
 préstamos indician directamente paridad eurofranco suizo
@@ -3119,7 +3115,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -4046,7 +4041,6 @@ CONDICIONES CONCESIÓN DERECHO OBTENTOR
 Artículo
 Condiciones protección
 Criterios cumplir concederá derecho obtentor variedad
-
 distinta
 homogénea
 estable
@@ -4469,7 +4463,6 @@ Disponible línea wwwefsaeuropaeuefsajournalhtm
 ANEXO
 Modificaciones anexo Reglamento Ejecución UE
 columna Disposiciones específicas fila correspondiente clotianidina anexo Reglamento Ejecución UE sustituye texto
-
 autorizarse usos profesionales insecticida
 autorizarán usos tratamiento semillas suelo siguientes cereales siembren enero junio
 cebada mijo avena arroz centeno sorgo tritical trigo
@@ -4537,7 +4530,6 @@ veza Vicia sativa
 zarzamora Rubus fruticosus
 veza Vicia sativa
 plantas ornamentales florecen año tratamiento
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión clotianidina particular apéndices II adoptadas Comité Permanente Cadena Alimentaria Sanidad Animal enero conclusiones adenda informe revisión clotianidina adoptadas Comité Permanente Cadena Alimentaria Sanidad Animal marzo
 evaluación general miembros prestarán atención particular
 protección aguas subterráneas sustancia activa aplique regiones suelos condiciones climáticas vulnerables
@@ -4649,8 +4641,6 @@ Comité recomendado establezca plazo años realización estudios científicos ne
 Corrección errores Reglamento CE Consejo octubre relativo apertura gestión contingentes arancelarios autónomos comunitarios determinados productos pesqueros período deroga Reglamento CE
 Diario Oficial Unión Europea noviembre
 página anexo orden código NC ex columna relativa código TARIC
-
-
 página anexo orden columna relativa código TARIC añade código
 página anexo orden columna relativa código NC añade código ex
 Decisión Comité Mixto EEE
@@ -4963,7 +4953,6 @@ Clorodecona
 Aldrina
 Pentaclorobenceno
 Policlorobifenilos PCB
-
 Toxafeno
 Hexabromobifenilo
 límite calcula PCDD PCDF factores equivalencia tóxica FET siguientes PCDDFETTeCDDPeCDDHxCDDHxCDDHxCDDHpCDDOCDDPCDFFETTeCDFPeCDFPeCDFHxCDFPCDDFETHxCDFHxCDFHxCDFHpCDFHpCDFOCDF

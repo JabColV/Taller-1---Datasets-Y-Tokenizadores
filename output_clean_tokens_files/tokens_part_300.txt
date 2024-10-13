@@ -956,7 +956,6 @@ Masa gases escape diluidos equivalentes ciclo
 masa gases escape ciclo
 Masa muestra partículas recogida
 Masa muestra partículas aire dilución recogida
-
 Caudal másico emisiones gases
 Masa muestra ciclo
 Masa muestra gases escape diluidos filtros muestreo partículas
@@ -1467,7 +1466,6 @@ Corrección seco húmedo
 concentración medida convertirá condiciones húmedas fórmulas siguientes medido condiciones húmedas
 conversión realizará fase
 gas escape diluir
-
 presión vapor agua baño refrigerante kPa
 presión atmosférica kPa
 humedad aire admisión agua kg aire seco
@@ -1481,7 +1479,6 @@ Corrección NOxen relación humedad temperatura
 emisión NOx depende condiciones aire ambiente concentración NOx deberá corregirse humedad temperatura concretas aire ambiente factores figuran fórmulas siguientes
 factores válidos rango comprendido kg aire seco
 motores encendido compresión
-
 temperatura aire admisión
 humedad aire admisión agua kg aire seco
 derivarse medición humedad relativa punto rocío presión vapor termómetro seco húmedo utilizando fórmulas comúnmente aceptadas
@@ -1981,7 +1978,6 @@ sensor instalará directamente tubo escape punto temperatura gas escape suficien
 precisión sensor dispositivos electrónicos incorporados
 lectura
 lectura
-
 lectura
 alcanzar dicha precisión calibrará sensor instrucciones fabricante instrumento
 Muestreo emisiones gases
@@ -2289,7 +2285,6 @@ Exento
 Inspección visual
 Contenido azufre
 Sulfuro hidrógeno
-
 Corrosión lámina cobre
 Clasificación
 Olor
@@ -2856,7 +2851,6 @@ conformidad producción verificará base descripción incluyen certificados homo
 aplicar apéndices emisión medida partículas gases contaminantes procedentes motores sujetos comprobación conformidad producción ajustará aplicación factores deterioro DF adecuados motor figuran anexo VI punto apéndice
 anexo puntos Directiva CEE aplicación organismos competentes estén satisfechos procedimiento auditoría fabricante
 utilizará procedimiento contaminantes mencionados anexo punto véase figura
-
 determinación equivalencia sistema arreglo presente anexo punto basará estudio correlacional pares muestras compare sistema candidato sistemas referencia aceptados presente Directiva utilizando ciclos pruebas adecuados
 criterios equivalencia aplicarán prueba prueba Student bilateral
 Descripción escrita plano IMF
@@ -2878,7 +2872,6 @@ muestreo partículas aplicará método filtro único utiliza filtro véase punto
 prueba ESC deberá prestar especial atención tiempos caudales muestreo fase muestreo prueba
 Máximo
 Límite filtrabilidad frío
-
 Vehículos categoría clase III masa técnicamente admisible máxima toneladas
 conformidad dispuesto punto caso hubiera decidido ciclo pruebas ESC ETC punto prueba ciclo ESC ETC únicamente principio programa rodaje análisis regresión efectuará atendiendo exclusivamente resultados pruebas ciclo punto prueba
 resultados análisis regresión fabricante calculará valores emisión proyectados contaminante principio programa rodaje vida útil aplicable motor objeto ensayo extrapolación ecuación regresión conformidad dispuesto punto
@@ -2940,15 +2933,12 @@ GNC
 wE
 wD
 wA
-
 finalizado período estabilización pesará filtro registrar tara guardará caja petri cerrada portafiltros sellado precise prueba
 caudal establecido mantenerse ciclo margen elevada carga partículas filtro invalidará prueba volverá efectuarse utilizando caudal menor filtro diámetro
 med Δti KV pp
 cNMHC cHCw oCutter EM cHC Cutter EE EM
 cHCw Cutter cHCw oCutter EE EE EM
 sistema dilución CVS flujo determinar emisiones gases partículas permitirán sistemas doble dilución
-
-
 precisiones absolutas qmdew qmdw garantiza precisión qmp tasa dilución tasa dilución superior producirán errores mayores
 precisión qmp determina indirectamente precisión tasa dilución determinada gas indicador ejemplo CO caso necesarias precisiones equivalentes método qmp
 índice cetano ajusta rango mínimo requerido obstante caso conflicto proveedor usuario carburante aplicarse términos norma ISO resolver dicha conflicto efectúen mediciones número suficiente exactitud necesaria determinaciones individuales
@@ -2968,7 +2958,6 @@ número identificación vehículo NIV disponible puerto serie datos conector dia
 Sección número Directiva reciente modifica Directiva relativa homologación contiene fechas aplicación normas técnicas añade carácter alfabético conformidad cuadro punto carácter hará referencia fechas aplicación fases severidad cuya base concede homologación
 Sección número secuencial dígitos precedido ceros necesarios indicará número homologación base secuencia empezará
 Sección número secuencial dígitos precedido caso cero indique extensión secuencia empezará número homologación base
-
 Decisión Comité Mixto EEE
 octubre
 modifica anexo XX Ambiente EEE
@@ -3053,8 +3042,6 @@ Prohibición pesca merluza buques enarbolan pabellón España
 Corrección errores Reglamento CE Comisión febrero fijan restituciones aplicables exportación productos transformados base cereales arroz
 Diario Oficial Unión Europea febrero
 página anexo columna Destino cuadro
-
-
 Corrección errores Decisión CE Consejo diciembre relativa Séptimo Programa Marco Comunidad Europea Energía Atómica Euratom acciones investigación formación materia nuclear
 Diario Oficial Unión Europea diciembre
 Queda anulada publicación Decisión citado Diario Oficial
@@ -3722,7 +3709,6 @@ Cantidad peso AEE introducidos mercado nacional
 Cantidad peso RAEE recogidos separado reciclados incluidos preparados reutilización valorizados eliminados miembro trasladados Unión
 Nota información indicada puntos facilitarse categorías
 ANEXO XI
-
 Directiva derogada modificaciones sucesivas
 refiere artículo
 Directiva CE residuos aparatos eléctricos electrónicos RAEE
@@ -3731,7 +3717,6 @@ Directiva CE Parlamento Europeo Consejo
 DO
 Directiva CE Parlamento Europeo Consejo
 DO
-
 Lista plazos incorporación Derecho nacional
 Directiva
 Plazo transposición
@@ -4498,9 +4483,7 @@ Impurezas
 Tolueno máximo kg
 junio
 mayo
-
 autorizar usos insecticida acaricida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión taufluvalinato particular apéndices II aprobado Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán atender especialmente
 riesgo organismos acuáticos asegurándose condiciones imponen medidas adecuadas reducción riesgo
@@ -4772,11 +4755,9 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 envío Dirección General Agricultura Desarrollo Rural DG AGRI
 trigo blando cebada centeno
 ANEXO III
-
 Indicaciones contempladas artículo respecta trigo blando
 danés Blød hvede fra intervention uden restitutionsydelse eller afgift forordning EF nr
 alemán Weichweizen aus Interventionsbeständen ohne Anwendung von Ausfuhrerstattungen oder Ausfuhrabgaben Verordnung EG Nr
@@ -4793,7 +4774,6 @@ polaco Pszenica zwyczajna interwencyjna niedająca podstawy do zastosowania refu
 esloveno Intervencija navadne pšenice brez zahtevkov za nadomestila ali carine Uredba št
 finés Interventiovehnä johon ei sovelleta vientitukea eikä vientimaksua asetus EY
 sueco Interventionsvete utan tillämpning av bidrag eller avgift förordning EG nr
-
 Indicaciones contempladas artículo respecta cebada
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
 alemán Interventionsgerste ohne Anwendung von Ausfuhrerstattungen oder Ausfuhrabgaben Verordnung EG Nr
@@ -4810,7 +4790,6 @@ polaco Jęczmien interwencyjny niedający podstawy do zastosowania refundacji lu
 esloveno Intervencija ječmena brez zahtevkov za nadomestila ali carine Uredba št
 finés Interventioohra johon ei sovelleta vientitukea eikä vientimaksua asetus EY
 sueco Interventionskorn utan tillämpning av bidrag eller avgift förordning EG nr
-
 Indicaciones contempladas artículo respecta centeno
 danés Rug fra intervention uden restitutionsydelse eller afgift forordning EF nr
 alemán Interventionsroggen ohne Anwendung von Ausfuhrerstattungen oder Ausfuhrabgaben Verordnung EG Nr

@@ -414,7 +414,6 @@ Circunscripción
 código
 Municipio subcircunscripción
 Zona desfavorecida
-
 Zona montaña
 Superficies agrícolas restricciones medioambientales
 Personalidad jurídica gestión explotación encuesta
@@ -448,7 +447,6 @@ Maíz grano
 Arroz
 cereales producción grano
 Cultivos proteicos producción grano incluidas semillas mezclas legumbres cereales
-
 Guisantes habas haboncillos altramuces dulces
 Lentejas garbanzos vezas
 cultivos proteicos recolectados secos
@@ -471,7 +469,6 @@ Plantas aromáticas medicinales especias
 Plantas industriales incluidas
 Hortalizas frescas melones fresas
 aire libre protección altura accesible
-
 cultivos terreno labor
 cultivos huerta
 invernadero tipo protección accesible
@@ -603,7 +600,6 @@ transformación madera aserrado etc
 acuicultura
 producción energías renovables energía eólica quema paja etc
 trabajo contrato utilizando equipo explotación
-
 Nota lector numeración características consecuencia larga historia encuestas estructurales agrícolas cambiar repercuta comparabilidad encuestas
 indica código municipio Aa explotaciones información relativa zona desfavorecida zona montaña Aa opcional
 indica código municipio Aa explotación información relativa zona desfavorecida zona montaña Aa obligatoria
@@ -1371,7 +1367,6 @@ Monensina
 Monensina
 Bovinos
 Músculo
-
 Antiinfecciosos Antibióticos
 Grasa
 Hígado
@@ -1548,7 +1543,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -1562,7 +1556,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -1576,7 +1569,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 Peras nashi Pyrus pyrifolia
 Peras Pyrus bretscheri
@@ -1888,9 +1880,7 @@ Fecha
 Corrección errores Reglamento Euratom Consejo diciembre apoyo Unión programas ayuda clausura nuclear Bulgaria Eslovaquia derogan Reglamentos Euratom Euratom
 Diario Oficial Unión Europea diciembre
 página considerando frase
-
 importe millones EUR precios equivalen millones EUR precios corrientes
-
 millones EUR precios equivalen millones EUR precios corrientes
 página artículo apartado párrafo
 dotación financiera ejecución Programas Kozloduy Bohunice período EUR precios corrientes
@@ -2015,7 +2005,6 @@ Motivos relacionados vivienda
 Desahucio
 dueño vivienda prolonga contrato
 Motivos económicos
-
 ND MH
 Calefacción central similar vivienda provista calefacción central calor procede sistema calefacción común equipo instalado edificio vivienda cuyo objetivo asegurar calefacción independientemente fuente energía utilice incluidos radiadores eléctricos fijos calentadores gas fijos similares
 sistemas calefacción fijos vivienda provista medios fijos calefacción sistema calefacción considerarse calefacción central similar incluyen estufas calentadores chimeneas similares
@@ -2326,7 +2315,6 @@ Descripción dibujos sistema entrada aire accesorios dispositivo calefacción si
 Depresión máxima admisible entrada aire punto característico especifíquese lugar medición Especifíquese tolerancia
 Especifíquese tolerancia
 Sobrealimentador Táchese proceda
-
 Descripción sistema sobrealimentador
 Características marcas tipos
 Temperatura máxima aire salida refrigerador admisión Especifíquese tolerancia
@@ -2410,7 +2398,6 @@ Véase anexo punto
 ANEXO
 formato máximo mm
 Comunicación relativa
-
 HOMOLOGACIÓN
 DENEGACIÓN HOMOLOGACIÓN
 EXTENSIÓN HOMOLOGACIÓN
@@ -2516,7 +2503,6 @@ EVALUACIÓN COEFICIENTE ABSORCIÓN
 velocidades motor mida coeficiente absorción arreglo punto deberá calcularse caudal nominal gas siguientes fórmulas
 motores tiempos Vn
 motores tiempos Vn
-
 caudal nominal gas litros
 cilindrada motor litros
 velocidad motor revoluciones minuto min
@@ -2576,7 +2562,6 @@ Punto ebullición
 Viscosidad °C mín
 Contenido azufre mín
 masa
-
 Punto inflamación mín
 Punto obstrucción filtro frío
 máx masa
@@ -2585,7 +2570,6 @@ Contenido cenizas
 máx masa
 Contenido agua
 máx masa
-
 Corrosión cobre °C
 Índice neutralización acidez fuerte
 Nota hará referencia métodos ISO equivalentes publiquen propiedades mencionadas
@@ -2598,7 +2582,6 @@ trate medida necesaria razones estadísticas fabricante carburante procurar obte
 necesario aclarar carburante cumple requisitos especificación aplicarán términos norma ASTM
 Nota preciso calcular rendimiento térmico motor vehículo calorífico carburante calcular ecuación Energía específica calorífico neto
 MJ kg
-
 densidad °C
 proporción masa agua porcentaje dividido
 proporción masa ceniza porcentaje dividido
@@ -2842,7 +2825,6 @@ FACTORES CORRECCIÓN POTENCIA
 Definición
 factor corrección potencia coeficiente multiplicarse potencia medida determinar potencia motor condiciones atmosféricas referencia especificadas punto
 Po
-
 Po potencia corregida potencia condiciones atmosféricas referencia
 factor corrección αa αd
 potencia medida potencia ensayo
@@ -2859,7 +2841,6 @@ Presión Ps
 Determinación factores corrección αa αd
 Motores encendido chispa atmosféricos sobrealimentados Factor αa
 factor corrección αa obtiene aplicando fórmula
-
 Ps presión atmosférica seca kilopascales kPa presión barométrica presión vapor agua
 temperatura absoluta grados Kelvin aire aspirado motor
 Condiciones cumplirse laboratorio
@@ -2868,7 +2849,6 @@ sobrepasan límites dará valor corregido obtenido indicarán forma precisa info
 Motores diésel Factor αd
 factor corrección potencia αd motores diésel caudal constante carburante obtiene aplicando fórmula
 αd fafm
-
 fa factor atmosférico
 fm parámetro característico tipo motor reglaje
 Factor atmosférico fα
@@ -3751,7 +3731,6 @@ ANEXO
 anexo IV Reglamento CE sustituye texto
 ANEXO IV
 Tolerancias admitidas relativas indicaciones etiquetado composición materias primas piensos piensos compuestos contemplados artículo apartado
-
 Tolerancias relativas componentes analíticos indicados anexos VI VII
 tolerancias establecidas presente incluyen desviaciones técnicas analíticas
 hayan fijado escala Unión tolerancias analíticas incluyan incertidumbres medición variaciones procedimiento valores establecidos punto deberán adaptarse consecuencia incluir únicamente tolerancias técnicas
@@ -3777,7 +3756,6 @@ relativo valor energético valor proteínico establecido tolerancia arreglo mét
 obstante dispuesto punto letra refiere aceite bruto grasas proteína bruta comida animales compañía contenido declarado inferior desviación permitida masa volumen
 obstante dispuesto punto desviación permitida valores altos contenido declarado aceite bruto grasas azúcar almidón calcio sodio potasio magnesio valor energético valor proteínico doble tolerancia establecida puntos
 obstante dispuesto punto tolerancias ceniza insoluble ácido clorhídrico humedad aplicables valores altos establezcan límites tolerancias valores bajos
-
 Tolerancias aditivos piensos etiquetados arreglo anexos VI VII
 tolerancias establecidas presente incluyen desviaciones técnicas
 aplicarán aditivos piensos lista aditivos piensos lista componentes analíticos
@@ -4377,7 +4355,6 @@ fecha fabricación incluya mes año número lote
 marca tipo forro freno
 MODIFICACIONES EXTENSIÓN HOMOLOGACIÓN CONJUNTOS FORRO FRENO REPUESTO FORROS FRENO TAMBOR REPUESTO
 modificación tipo conjunto forro freno repuesto forros freno tambor repuesto notificará servicio administrativo concedido homologación tipo
-
 considerar probable modificaciones realizadas tengan efectos adversos apreciables caso conjunto forro freno repuesto forros freno tambor siguen cumpliendo requisitos
 solicitar acta ensayo servicio técnico encargado ensayos
 confirmación homologación denegación especificando modificaciones comunicará partes apliquen presente Reglamento procedimiento expuesto apartado
@@ -4606,7 +4583,6 @@ Presión kPa
 cumple requisito repetirse rodaje denominada Fase bruñido logre estabilidad rendimiento requerida
 utilizarse aire refrigeración
 velocidad flujo aire freno frenada
-
 velocidad ensayo vehículo inicio frenado
 Partiendo velocidad inicial kmh caso kmh temperatura freno °C principio accionamiento accionará freno mínimo intervalos espaciados presión conducto alcanzar deceleración media estabilizada
 Trácese tómese nota presión conducto deceleración media estabilizada accionamiento determínese presión conducto necesaria alcanzar

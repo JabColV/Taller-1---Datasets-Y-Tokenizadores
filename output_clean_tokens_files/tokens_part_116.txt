@@ -540,7 +540,6 @@ DO
 ANEXO
 anexo Directiva CEE columna Disposiciones específicas fila modifica
 sustituye texto
-
 autorizar usos fungicida
 cuarto párrafo frase
 miembros afectados exigirán presente información adicional destino comportamiento metabolito suelo
@@ -816,7 +815,6 @@ alcanzó oponente oponentes siguientes
 adjuntar copias cartas reflejen
 alcanzó oponente oponentes siguientes
 modificado pliego condiciones
-
 respuesta adjuntar pliego condiciones modificado
 Fechado firmado
 Nombre apellidos
@@ -1335,7 +1333,6 @@ Productos destinados alimentación animal
 Contenido máximo mg kg ppm piensos calculado base contenido humedad
 Arsénico
 Materias primas piensos
-
 harina hierbas alfalfa trébol deshidratados pulpa deshidratada remolacha azucarera pulpa deshidratada adición melazas remolacha azucarera
 harina palmiste obtenida presión
 fosfatos algas marinas calcáreas
@@ -1383,7 +1380,6 @@ piensos completos aves corral pollitos peces
 piensos completos pollitos
 piensos completos bovinos ovinos caprinos
 lactantes
-
 Plomo
 forraje
 levaduras
@@ -1445,7 +1441,6 @@ materias grasas aceites
 piensos peces
 Canfecloro toxafenosuma congéneres indicadores CHB
 Pescados animales acuáticos productos derivados
-
 aceite pescado
 Piensos completos peces
 Clordán suma isómeros cis trans oxiclordano calculada forma clordano
@@ -3033,19 +3028,14 @@ seca pulverización eliminan partículas
 Descripción Polvo color rosa prácticamente inodoro
 Propiedades fisicoquímicas lactoferrina bovina
 Humedad
-
 Cenizas
-
 Arsénico
 mg kg
 Hierro
 mg kg
 Proteínas
-
 lactoferrina bovina
-
 proteínas
-
 pH solución °C
 Solubilidad solución °C
 completa
@@ -3388,7 +3378,6 @@ Ceras mg kg
 Monopalmitato glicerilo
 Estigmastadienos mg kg
 Diferencia ECN HPLC ECN cálculo teórico
-
 Evaluación organoléptica
 Mediana defecto Md
 Mediana frutado Mf
@@ -3477,10 +3466,6 @@ entenderá ejemplo envases componen muestra elemental
 Cuadro
 Número mínimo porciones elegir
 Número envases consta lote
-
-
-
-
 envases
 porción
 objeto reducir volumen muestreo envases inmediatos contenido porciones muestreo homogeneizado preparar muestra elemental
@@ -3744,7 +3729,6 @@ tomarán picos componentes figuren cuadro ergosterol calcularse
 factor respuesta αcolestanol considerarse
 Calcular contenido esteroles expresado mg kg materia grasa
 esterol
-
 área pico esterol unidades sistema informático
 área pico αcolestanol unidades sistema informático
 peso αcolestanol añadido miligramos
@@ -3759,7 +3743,6 @@ porcentaje distintos esteroles calcula razón área pico correspondiente suma á
 βsitosterol aparente Δestigmastadienol clerosterol βsitosterol sitostanol Δavenasterol Δestigmastadienol
 Cálculo porcentaje eritrodiol uvaol
 Eritrodiol
-
 ΣA suma áreas esteroles unidades sistema informático
 Er área eritrodiol unidades sistema informático
 Uv área uvaol unidades sistema informático
@@ -4157,7 +4140,6 @@ Cocido quemado Flavor característico aceite originado excesivo prolongado calen
 Dichos registros deberán rastrearse momento ajustarse requisitos materia garantía calidad establecidos normas internacionales relativas análisis sensorial garantizar anonimato muestras
 definición práctica mediana percentil distribución números ordenados creciente
 representa valor central serie ordenada impar media valores centrales serie ordenada par
-
 sensación táctil picante tomarse consideración conviene tragar aceite
 COI Doc
 COI Doc
@@ -4964,7 +4946,6 @@ Principales datos económicos grupo Poste Italiane
 millones EUR
 Ingresos totales
 Ingresos ventas prestaciones
-
 servicios postales
 servicios financieros
 servicios seguros

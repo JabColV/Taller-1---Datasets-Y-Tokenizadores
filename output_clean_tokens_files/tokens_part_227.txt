@@ -105,7 +105,6 @@ DLmalato monocálcico DLhidroxisuccinato calcio
 Pruebas positivas ácido dicarboxílico calcio
 Ácido ditartárico
 Ácido metatartárico
-
 Forma cristalina polvo color blanco amarillento
 delicuescente ligero olor caramelo
 soluble agua etanol
@@ -114,7 +113,6 @@ calentarlo oC aparece intensa coloración violácea
 TARTRATO CALCIO
 Ltartrato calcio
 Ldihidroxibutanodioato calcio dihidrato
-
 Polvo cristalino fino color blanco grisáceo
 Parcialmente soluble agua
 Solubilidad aproximada ml agua oC
@@ -185,7 +183,6 @@ prueba permite distinguir ácido algínico agar carboximetil celulosa sódica ca
 disuelven máximo muestra agitándolos ml hidróxido sodio añade ml solución ácida sulfato férrico
 minutos mezcla vuelve color rojo cereza finalmente convierte morado intenso
 pH suspensión
-
 oC
 sustancia anhidra
 Materia insoluble hidróxido sodio solución
@@ -232,9 +229,7 @@ Polvo fibroso granulado inodoro color blanco marrón amarillento
 Resultado positivo pruebas detección propanodiol ácido algínico previa hidrólisis
 oC
 Contenido propanodiol
-
 Contenido propanodiol libre
-
 Gelosa
 Agar Japón
 Ictiocola Bengala Ceilán China Japón
@@ -293,7 +288,6 @@ base seca insoluble ácido clorhídrico
 Materias insolubles ácido
 sustancia anhidra insoluble ácido sulfúrico
 Carragenano peso molecular fracción peso molecular inferior kDa
-
 colonias gramo
 ALGA EUCHEUMA PROCESADA
 PES sigla inglés
@@ -326,8 +320,6 @@ Soluble agua caliente insoluble etanol
 oC
 oC
 Proteínas
-
-
 Contenido etanol propanol
 separado conjunto
 GOMA GUAR
@@ -339,14 +331,12 @@ Polvo inodoro color blanco amarillento
 Resultado positivo pruebas detección galactosa manosa
 Soluble agua fría
 oC
-
 formará coloración azul
 GOMA TRAGACANTO
 Aldragante
 Tragacanto
 Consiste esencialmente polisacáridos peso molecular alto galactoarabanas polisacáridos ácidos hidrólisis ácido galacturónico galactosa arabinosa xilosa fucosa
 pequeñas cantidades ramnosa glucosa derivadas residuos almidón celulosa
-
 tragacanto triturado presenta fragmentos aplanados láminas curvadas derechas elementos espiral mm espesor cm longitud
 color blanco amarillo pálido trozos matices rojos
 pedazos textura córnea líneas fractura cortas
@@ -361,17 +351,14 @@ oC
 Cenizas totales
 Cenizas insolubles ácidas
 Materia ácida insoluble
-
 GOMA ARÁBIGA
 Goma acacia
 goma arábiga exudación desecada obtenida tallos ramas cepas naturales Acacia senegal Willdenow especies emparentadas Acacia familia Leguminosae
 compone esencialmente polisacáridos peso molecular alto sales calcio magnesio potasio hidrólisis arabinosa galactosa ramnosa ácido glucurónico
-
 goma arábiga triturada presenta forma lágrimas esferoides color blanco blanco amarillento tamaño variable forma fragmentos angulosos ocasiones mezclada fragmentos oscuros
 obtenerse forma copos gránulos polvo sustancia desecada pulverizador color blanco blanco amarillento
 gramo disuelve ml agua fría formando solución fluida ácida frente papel tornasol insoluble etanol
 oC forma gránulos oC sustancia secada atomización
-
 Almidones dextrinas
 ebullición solución goma deja enfriar
 ml añade gota solución yodada
@@ -385,15 +372,12 @@ GOMA XANTANA
 goma xantana polisacárido peso molecular elevado obtenido fermentación cultivo puro hidrato carbono cepas naturales Xanthomonas campestris purificado extracción etanol propanol desecado triturado
 Contiene Dglucosa Dmanosa principales unidades hexosa ácido Dglucurónico ácido pirúvico prepara forma sales sodio potasio calcio
 soluciones neutras
-
 sustancia anhidra desprenderá CO corresponde goma xantana
 Polvo color crema
 oC horas
 sustancia anhidra determinado oC desecar oC horas
 Ácido pirúvico
-
 Nitrógeno
-
 Etanol propanol
 Levaduras mohos
 Ausente
@@ -409,8 +393,6 @@ goma olor particular ácido acético
 Hinchado solución etanol
 goma Karaya hincha etanol distingue gomas
 oC
-
-
 Ácidos volátiles
 expresados ácido acético
 GOMA TARA
@@ -426,7 +408,6 @@ GOMA GELLAN
 goma Gellan goma formada polisacáridos elevado peso molecular producida fermentación hidrato carbono cultivo puro cepas naturales Pseudomonas elodea purificada recuperación alcohol isopropílico desecada triturada
 polisacárido elevado peso molecular compuesto principalmente unidad repetida tetrasacárido consiste ramnosa ácido glucurónico glucosas sustituido grupos acílicos glicerilo acetilo formando ésteres glucosídico
 ácido glucurónico neutralizado forma sales mixtas potasio sodio calcio magnesio
-
 Libera sustancia desecada CO
 Polvo color hueso
 Soluble agua forma solución viscosa
@@ -448,9 +429,7 @@ Formación acroleína calentamiento
 calientan gotas muestra tubo ensayo bisulfito potásico
 mezcla despide característicos vapores acres acroleína
 Peso específico oC
-
 Índice refracción nD
-
 oC
 Butanotrioles
 Compuestos acroleína glucosa amonio
@@ -479,7 +458,6 @@ condiciones forma gel termoestable
 Viscosidad solución
 kgms oC
 oC
-
 Determine nitrógeno método Kjeldahl
 porcentaje nitrógeno muestra multiplicado porcentaje proteína muestra
 Materia soluble éter
@@ -496,11 +474,8 @@ agua caliente fría forma dispersión viscosa pH
 solubilidad aumentada calor agitación mecánica
 kgms oC
 oC
-
 Sulfito expresado SO
-
 Materia soluble alcohol
-
 oC
 HEMICELULOSA SOJA
 hemicelulosa soja polisacárido refinado soluble agua obtiene fibra soja cepa natural extracción agua caliente
@@ -513,7 +488,6 @@ Soluble agua caliente fría formación geles
 Viscosidad solución
 mPas
 oC horas
-
 oC horas
 Recuento placa estándar
 colonias gramo
@@ -530,7 +504,6 @@ oC oC
 Espectro absorción infrarrojos
 Característico éster ácido parcialmente graso poliol polioxietilado
 método Karl Fischer
-
 Índice saponificación
 inferior superior
 Índice hidroxilo
@@ -619,7 +592,6 @@ Soluble grasas
 Parcialmente soluble etanol acetona
 Resultado positivo pruebas detección glicerol ácidos grasos fosfatos
 Materia insoluble éter petróleo
-
 ACETATO ISOBUTIRATO SACAROSA
 acetato isobutirato sacarosa mezcla productos reacción formados esterificación sacarosa grado alimentario anhídrido ácido acético anhídrido isobutírico seguida destilación
 mezcla contiene combinaciones posibles ésteres proporción molar acetato butirato
@@ -629,8 +601,6 @@ CHO
 Contenido inferior superior CHO
 Líquido color pajizo pálido sedimentos olor suave
 Soluble mayoría disolventes orgánicos
-
-
 ÉSTERES GLICÉRIDOS COLOFONIA MADERA
 Goma éster
 Mezcla compleja ésteres tri diglicerólicos ácidos resínicos colofonia madera
@@ -646,8 +616,6 @@ Peso específico solución
 determinado solución dlimoneno punto ebullición oC
 Intervalo reblandecimiento determinado método bola anillo
 oC oC
-
-
 Prueba determinación presencia resina lejías celulósicas Prueba azufre
 calentar compuestos orgánicos contienen azufre presencia formiato sodio azufre convierte sulfuro hidrógeno detecta fácilmente papel acetato plomo
 resultado positivo significa utilizado resina lejías celulósicas lugar colofonia madera
@@ -658,9 +626,7 @@ Pirofosfato ácido sodio
 Pirofosfato disódico
 Contenido inferior difosfato disódico
 Contenido PO
-
 Polvo granos blancos
-
 oC horas
 ii DIFOSFATO TRISÓDICO
 Pirofosfato ácido trisódico
@@ -669,9 +635,7 @@ Monohidrato NaHPO HO
 Anhidro NaHPO
 Monohidrato
 Anhidro
-
 Polvo granos blancos forma anhidra monohidrato
-
 compuesto anhidro
 monohidrato
 iii DIFOSFATO TETRASÓDICO
@@ -683,11 +647,9 @@ Decahidrato NaPO HO
 Anhidro
 Decahidrato
 Contenido inferior NaPO sustancia calcinada
-
 Cristales incoloros blancos polvo blanco cristalino granular
 decahidrato presenta ligera eflorescencia ambiente seco
 Soluble agua
-
 sal anhidra decahidrato determinada casos calcinación oC minutos previa desecación oC horas
 DIFOSFATO TETRAPOTÁSICO
 Pirofosfato potasio
@@ -698,25 +660,20 @@ Contenido inferior sustancia calcinada
 sustancia anhidra
 Cristales incoloros polvo blanco higroscópico
 Soluble agua insoluble etanol
-
 secarse oC horas calcinarse oC minutos
 vi DIFOSFATO DICÁLCICO
 Difosfato dicálcico
 Pirofosfato dicálcico
-
 Polvo fino blanco inodoro
 Soluble ácido clorhídrico ácido nítrico diluidos
 pH suspensión acuosa
-
 calcinarse oC oC minutos
 vii DIFOSFATO CÁLCICO DIHIDRÓGENO
 Pirofosfato ácido calcio
 Pirofosfato monocálcico dihidrógeno
 Difosfato cálcico dihidrógeno
 Contenido inferior sustancia anhidra
-
 Cristales polvo blancos
-
 TRIFOSFATO PENTASODIO
 Tripolifosfato pentasódico
 Tripolifosfato sódico
@@ -725,7 +682,6 @@ nHO
 Contenido inferior anhidro hexahidrato
 anhidro hexahidrato
 Gránulos polvo blancos ligeramente higroscópicos
-
 Anhidro oC hora
 Hexahidrato oC hora seguido desecación oC horas
 Polifosfatos superiores
@@ -735,10 +691,8 @@ Trifosfato potásico
 Tripolifosfato potásico
 Trifosfato pentapotasio
 Contenido inferior sustancia anhidra
-
 Polvo gránulos blancos higroscópicos
 soluble agua
-
 secarse oC horas calcinarse oC minutos
 POLIFOSFATO SODIO
 POLIFOSFATO SOLUBLE
@@ -754,16 +708,13 @@ Mezclas heterogéneas sales sodio ácidos polifosfóricos condensados lineales c
 Contenido PO
 sustancia calcinada
 Gránulos plaquetas polvos incoloros blancos transparentes
-
 POLIFOSFATO INSOLUBLE
 Metafosfato sódico insoluble
 Sal Maddrell
 Polifosfato sódico insoluble IMP
 metafosfato sódico insoluble polifosfato elevado peso molecular compuesto cadenas largas metafosfato NaPOx enrolladas espiral sentidos opuestos torno eje común
-
 Insoluble agua soluble ácidos minerales soluciones cloruros potasio amonio sodio
 pH suspensión acuosa
-
 ii POLIFOSFATO POTASIO
 Metafosfato potásico
 Polimetafosfato potásico
@@ -774,7 +725,6 @@ sustancia calcinada
 Polvo cristales finos blancos plaquetas vítreas incoloras
 disuelve ml solución acetato sódico
 pH suspensión
-
 secarse oC horas calcinarse oC minutos
 Fosfato cíclico
 contenido PO
@@ -786,7 +736,6 @@ NaPOn CaO típicamente
 PO
 Cristales vítreos esferas color blanco
 pH suspensión acuosa peso
-
 peso
 iv POLIFOSFATO CALCIO
 Metafosfato cálcico
@@ -815,7 +764,6 @@ Gel celulosa
 celulosa microcristalina celulosa purificada parcialmente despolimerizada prepara tratando ácidos minerales alfacelulosa obtenida forma pulpa cepas naturales vegetales fibrosos
 Normalmente grado polimerización inferior
 Celulosa
-
 Contenido celulosa calculado sustancia anhidra
 Polvo fino blanco blanco inodoro
 Insoluble agua etanol éter ácidos minerales diluidos
@@ -831,7 +779,6 @@ obtiene suspensión fluida verterse ml probeta ml dejarse reposar hora
 elementos sólidos precipitan aparece líquido sobrenadante
 oC
 Materia soluble agua
-
 oC
 pH líquido sobrenadante situado
 mezclan ml dispersión obtenida prueba sección identificación gotas solución yodada
@@ -856,7 +803,6 @@ celulosa obtiene directamente material vegetal fibroso cepas naturales parcialme
 polímeros contienen unidades anhidroglucosa sustituida fórmula general
 CHOOROROR
 CHCH
-
 Contenido grupos metoxilos OCH grupos hidroxietoxilos OCHCHOH
 Polvo granulado fibroso blanco ligeramente amarillento grisáceo ligeramente higroscópico inodoro insípido
 hincha agua formando solución coloidal viscosa clara opalescente
@@ -865,7 +811,6 @@ Soluble ácido acético glacial
 oC
 oC
 pH solución coloidal
-
 ETILCELULOSA
 Éter etílico celulosa
 celulosa obtenida directamente material vegetal fibroso eterificada parcialmente grupos etilos
@@ -889,7 +834,6 @@ HIDROXIPROPILCELULOSA
 celulosa procede directamente material vegetal fibroso cepas naturales parcialmente eterificada grupos hidroxipropilos
 Éter hidroxipropílico celulosa
 CHOOROROR
-
 Contenido grupos hidroxiproxilos OCHCHOHCH equivalente grupos hidroxipropilos sumo unidad anhidroglucosa sustancia anhidra
 Insoluble éter
 Cromatografía gases
@@ -900,7 +844,6 @@ HIDROXIPROPILMETILCELULOSA
 celulosa procede directamente material vegetal fibroso cepas naturales parcialmente eterificada grupos metilos contiene pequeña proporción grupos hidroxipropilos sustitución
 Éter hidroxipropílico metilcelulosa
 CHOOROROR
-
 Contenido grupos metoxilos OCH grupos hidroxipropoxilos OCHCHOHCH sustancia anhidra
 determinan sustituyentes cromatografía gases
 productos cuya viscosidad superior mPas
@@ -909,10 +852,8 @@ ETILMETILCELULOSA
 Metiletilcelulosa
 celulosa procede directamente material vegetal fibroso cepas naturales parcialmente eterificada grupos metilos etilos
 Éter etilmetílico celulosa
-
 Contenido sustancia anhidra grupos metoxilos OCH grupos etoxilos OCHCH grupos alcoxilos totales calculados metoxilo
 forma fibrosa polvo determinada desecación oC obtención peso constante
-
 CARBOXIMETILCELULOSA SÓDICA
 Carboximetilcelulosa
 CMC sódica
@@ -936,7 +877,6 @@ capas aparece franja color rojo púrpura
 Grado sustitución
 grupos carboximetílicos CHCOOH unidad anhidroglucosa
 oC obtención peso constante
-
 Glicolato
 calculado glicolato sódico sustancia anhidra
 Sodio
@@ -946,7 +886,6 @@ CMC sódica entrelazada
 Goma celulosa entrelazada
 Sal sódica éter carboximetílico celulosa entrelazada
 polímeros contienen unidades anhidroglucosa sustituida fórmula general
-
 Polvo ligeramente higroscópico blanco blancuzco olor
 mezcla ml solución contenga mg kg azul metileno deja reposar
 sustancia examinar absorbe azul metileno asienta forma masa azul fibrosa
@@ -959,7 +898,6 @@ Reacciona positivamente prueba detección sodio
 Materia hidrosoluble
 grupos carboximetílicos unidad anhidroglucosa
 pH
-
 Contenido sodio
 sustancia anhidra
 CARBOXIMETILCELULOSA ENZIMÁTICAMENTE HIDROLIZADA
@@ -968,11 +906,7 @@ carboximetilcelulosa enzimáticamente hidrolizada obtiene carboximetilcelulosa d
 Carboximetilcelulosa sodio parcialmente hidrolizada enzimáticamente
 Sales sódicas polímeros contienen unidades anhidroglucosa sustituida fórmula general
 grado polimerización
-
-
 grado sustitución
-
-
 Macromoléculas
 incluidos mono disacáridos sustancia desecada
 Polvo granulado fibroso ligeramente higroscópico blanco ligeramente amarillento grisáceo olor
@@ -988,7 +922,6 @@ Inclinando tubo ensayo vierten cuidadosamente pared tubo ml ácido sulfúrico de
 Viscosidad sólidos
 kgms oC corresponden peso molecular
 grupos carboximetílicos unidad anhidroglucosa sustancia desecada
-
 Cloruro sódico glicolato sódico
 aisladamente combinación
 Actividad enzimática residual
@@ -1034,12 +967,10 @@ sólidos forma copos polvo granos pequeños
 Característico éster parcial poliol ácidos grasos
 Resultado positivo pruebas detección glicerol ácidos grasos
 Insolubles agua solubles etanol tolueno
-
 Glicerol libre
 Poligliceroles
 diglicerol poligliceroles elevados expresados casos contenido glicerol
 Glicerol
-
 ÉSTERES ACÉTICOS MONO DIGLICÉRIDOS ÁCIDOS GRASOS
 Ésteres acéticos mono diglicéridos
 Acetoglycéridos
@@ -1052,9 +983,7 @@ Resultado positivo pruebas detección glicerol ácidos grasos ácidos acéticos
 Soluble etanol
 Ácidos distintos ácidos acético grasos
 Contenido ácido acético
-
 Ácidos grasos libres ácido acético
-
 ÉSTERES LÁCTICOS MONO DIGLICÉRIDOS ÁCIDOS GRASOS
 Ésteres lácticos mono diglicéridos
 Lactoglicéridos
@@ -1066,9 +995,7 @@ Resultado positivo pruebas detección glicerol ácidos grasos ácido láctico
 Insolubles agua fría dispersables agua caliente
 Ácidos distintos ácidos láctico grasos
 Contenido ácido láctico
-
 Ácidos grasos libres ácido láctico
-
 ÉSTERES CÍTRICOS MONO DIGLICÉRIDOS ÁCIDOS GRASOS
 criterios pureza válidos aditivos contienen sales sodio potasio calcio ácidos grasos obstante sustancias expresadas oleato sodio
 Ésteres cítricos mono diglicéridos
@@ -1084,9 +1011,7 @@ Dispersables agua caliente
 Solubles aceites grasas
 Insolubles etanol frío
 Ácidos distintos cítrico grasos
-
 Ácido cítrico
-
 Cenizas sulfatadas determinadas oC
 ÉSTERES TARTÁRICOS MONO DIGLICÉRIDOS ÁCIDOS GRASOS
 Ésteres tartáricos mono diglicéridos
@@ -1096,9 +1021,7 @@ contener pequeñas cantidades libre glicerol ácidos grasos ácido tartárico gl
 consistencia líquidos amarillentos pegajosos viscosos ceras amarillas duras
 Resultado positivo pruebas detección glicerol ácidos grasos ácido tartárico
 Ácidos distintos tartárico grasos
-
 Contenido ácido tartárico
-
 ÉSTERES MONOACETILTARTÁRICO DIACETILTARTÁRICO MONO DIGLICÉRIDOS ÁCIDOS GRASOS
 Ésteres diacetiltartáricos mono diglicéridos
 Mono diglicéridos ácidos grasos esterificados ácidos mono diacetiltartáricos
@@ -1109,18 +1032,12 @@ contiene ésteres tartáricos acéticos ácidos grasos
 consistencia líquidos pegajosos viscosos ceras amarillas pasando graso hidrolizarse aire húmedo desprendiendo ácido acético
 Resultado positivo pruebas detección glicerol ácidos grasos ácido tartárico ácido acético
 Ácidos distintos acético tartárico grasos
-
-
-
 ÉSTERES MIXTOS ACÉTICOS TARTÁRICOS MONO DIGLICÉRIDOS ÁCIDOS GRASOS
 Mono diglicéridos ácidos grasos esterificados ácido acético ácido tartárico
 Ésteres glicerol ácidos acético tartárico ácidos grasos aceites grasas alimenticios
 contener pequeñas cantidades libre glicerol ácidos grasos ácidos tartárico acético glicéridos
 contener ésteres monoacetiltartárico diacetiltartárico mono diglicéridos ácidos grasos
 consistencia líquidos pegajosos sólidos color blanco amarillo pálido
-
-
-
 SUCROÉSTERES ÁCIDOS GRASOS
 Sucroésteres
 Ésteres azúcar
@@ -1161,7 +1078,6 @@ Resultado positivo pruebas detección glicerol poligliceroles ácidos grasos
 Ácidos distintos ácidos grasos
 calculados ácido oleico
 Glicerol poligliceroles totales
-
 Glicerol poligliceroles libres
 POLIRRICINOLEATO POLIGLICEROL
 Ésteres glicerólicos ácidos grasos condensados aceite ricino
@@ -1173,9 +1089,7 @@ Insoluble agua etanol
 Soluble éter hidrocarburos hidrocarburos halogenados
 Resultado positivo pruebas detección glicerol poliglicerol ácido ricinoleico
 Índice refracción
-
 fracción poligliceroles compuesta di tri tetragliceroles contendrá poligliceroles iguales superiores heptaglicerol
-
 ÉSTERES PROPANODIOL ÁCIDOS GRASOS
 Ésteres propilenglicol ácidos grasos
 Consisten esencialmente mezclas mono diésteres propanodiol ácidos grasos aceites grasas alimenticios
@@ -1185,7 +1099,6 @@ Contenido ésteres ácidos grasos inferior
 Líquidos claros escamas bolitas sólidos blancos consistencia cerosa olor suave
 Resultado positivo pruebas detección propilenglicol ácidos grasos
 Contenido propanodiol
-
 Contenido propanodiol libre
 Dímero trímero propilenglicol
 ACEITE SOJA OXIDADO TÉRMICAMENTE INTERACCIÓN MONO DIGLICÉRIDOS ÁCIDOS GRASOS
@@ -1199,7 +1112,6 @@ calculados ácido oleico
 ésteres metílicos ácidos grasos totales
 Ácidos grasos insolubles éter petróleo
 ácidos grasos totales
-
 Epóxidos
 oxígeno oxiránico
 ESTEAROILLACTILATO SODIO
@@ -1212,11 +1124,7 @@ Diestearoiloxi propionato sodio
 Fórmula química principales componentes
 Polvo materia sólida desmenuzable color blanco ligeramente amarillento olor característico
 Resultado positivo pruebas detección sodio ácidos grasos ácido láctico
-
 Índice esterificación
-
-
-
 ESTEAROILLACTILATO CALCIO
 Estearoil lactato calcio
 compone mezcla sales calcio ácidos estearoillactílicos polímeros pequeñas cantidades sales sodio ácidos emparentados prepara reaccionar ácidos esteárico láctico
@@ -1224,9 +1132,6 @@ Diestearoil lactato calcio
 Diestearoiloxi propionato calcio
 Resultado positivo pruebas detección calcio ácidos grasos ácido láctico
 Ligeramente soluble agua caliente
-
-
-
 TARTRATO ESTEARILO
 Tartrato estearílico palmitílico
 obtiene esterificación ácido tartárico alcohol estearílico comercial compuesto esencialmente alcohol estearílico palmitílico
@@ -1240,10 +1145,7 @@ Resultado positivo pruebas detección tartrato
 oC oC
 Previa saponificación alcoholes grasos cadena larga intervalo fusión oC oC
 mg mg KOH
-
 Contenido ácido tartárico
-
-
 Índice yodo
 método Wijs
 MONOESTEARATO SORBITÁN
@@ -1251,22 +1153,13 @@ Mezcla ésteres parciales sorbitol anhídridos ácido esteárico comercial comes
 Contenido inferior mezcla sorbitol sorbitán ésteres isosorbídicos
 Perlas copos color crema tostado sólido ceroso duro olor leve característico
 Soluble temperaturas punto fusión tolueno dioxano tetracloruro carbono éter metanol etanol anilina insoluble éter petróleo acetona insoluble agua fría dispersable agua caliente soluble turbidez temperaturas oC aceite mineral acetato etilo
-
-
-
 TRIESTEARATO SORBITÁN
 Perlas copos color crema tostado sólido ceroso duro olor leve
 Ligeramente soluble tolueno éter tetracloruro carbono acetato etilo dispersable éter petróleo aceite mineral aceites vegetales acetona dioxano insoluble agua metanol etanol
-
-
-
 MONOLAURATO SORBITÁN
 Mezcla ésteres parciales sorbitol anhídridos ácido láurico comercial comestible
 Líquido viscoso aceitoso color ámbar perlas copos color crema tostado sólido ceroso duro olor leve
 Dispersable agua caliente fría
-
-
-
 MONOOLEATO SORBITÁN
 Mezcla ésteres parciales sorbitol anhídridos ácido oleico comercial comestible
 componente principal monooleato sorbitán
@@ -1276,9 +1169,6 @@ Líquido viscoso color ámbar perlas copos color crema tostado sólido ceroso du
 Soluble temperaturas punto fusión etanol éter acetato etilo anilina tolueno dioxano éter petróleo tetracloruro carbono
 Insoluble agua fría dispersable agua caliente
 residuo ácido oleico obtenido saponificación monooleato sorbitán determinación índice yodo
-
-
-
 MONOPALMITATO SORBITÁN
 Palmitato sorbitán
 Mezcla ésteres parciales sorbitol anhídridos ácido palmítico comercial comestible
@@ -1287,9 +1177,6 @@ Soluble temperaturas punto fusión etanol metanol éter acetato etilo anilina to
 Insoluble agua fría dispersable agua caliente
 Característico éster parcial poliol ácidos grasos
 Cenizas sulfatadas
-
-
-
 CARBONATO SÓDICO
 Soda
 Carbonato sodio
@@ -1426,7 +1313,6 @@ Hidrogenosulfato sodio
 Contenido inferior
 Cristales gránulos blancos incoloros
 soluciones fuertemente ácidas
-
 Materia hidrosoluble
 SULFATO POTÁSICO
 Sulfato potasio
@@ -1552,7 +1438,6 @@ Ferrocianuro sodio
 Cristales polvo cristalino color amarillo
 Prueba positiva sodio ferrocianuro
 Humedad libre
-
 Cianuro libre
 Ferrocianuro
 FERROCIANURO POTÁSICO
@@ -1628,7 +1513,6 @@ Valores máximos
 Insoluble agua etanol
 oC
 Materia soluble ácido
-
 Hierro soluble ácido
 SILICATO SODIO ALUMINIO
 Silicoaluminato sodio aluminosilicato sodio silicato sódico aluminio
@@ -1637,7 +1521,6 @@ calculada SiO
 calculada AlO
 Polvo fino blanco amorfo perlas
 Pruebas positivas sodio aluminio silicato
-
 oC
 masa anhidra oC peso constante
 calculado NaO masa anhidra
@@ -1682,9 +1565,7 @@ caolinita
 AlSiOOH caolinita
 suma sílice alúmina combustión
 Sílice SiO
-
 Alúmina AlO
-
 Polvo untuoso fino blanco blanco grisáceo
 caolín compuesto agregados sueltos bloques aleatoriamente orientados escamas caolinita escamas hexagonales aisladas
 Pruebas positivas alúmina silicato
@@ -1758,7 +1639,6 @@ Soluble agua ligero calentamiento
 Prácticamente insoluble etanol
 Resultado positivo pruebas detección ion ferroso
 Formación derivado fenilhidrazínico ácido glucónico
-
 oC
 Ácido oxálico
 Hierro Fe III
@@ -1775,7 +1655,6 @@ Contenido inferior sustancia desecada
 Cristales color blanco verdoso polvo verde olor característico
 Resultado positivo pruebas detección ion ferroso lactato
 pH solución
-
 oC vacío mm Hg
 sustancia seca
 Totalmente soluble éter acetona soluble agua
@@ -1793,10 +1672,8 @@ Resorcinol fenoles
 masa anhidra
 Prueba positiva ácido glutámico cromatografía capa fina
 Rotación específica αD
-
 solución base anhidra HCl tubo mm
 pH solución saturada
-
 oC
 Ácido carboxílico pirrolidona
 GLUTAMATO MONOSODIO
@@ -1804,15 +1681,11 @@ Glutamato sodio monoglutamato sodio
 Lglutamato monosodio monohidratado
 Cristales blancos prácticamente inodoros polvo cristalino
 Prueba positiva ácido glutámico cromatografía capa fina
-
-
 oC
 GLUTAMATO MONOPOTASIO
 Glutamato potasio monoglutamato potasio
 Lglutamato monopotasio monohidratado
 Prueba positiva ácido glutámico cromatografía capa fina
-
-
 oC
 DIGLUTAMATO CALCIO
 Glutamato calcio
@@ -1828,8 +1701,6 @@ Glutamato amonio
 Lglutamato monoamonio monohidratado
 masa anhidra
 Prueba positiva amonio
-
-
 oC
 DIGLUTAMATO MAGNESIO
 Glutamato magnesio
@@ -1837,8 +1708,6 @@ DiLglutamato monomagnesio tetrahidratado
 masa anhidra
 Cristales polvo inodoros color blanco grisáceo
 Prueba positiva magnesio
-
-
 Karl Fischer
 Ácido guanílico
 Guanosina ácidomonofosfórico
@@ -1846,7 +1715,6 @@ masa anhidra
 Cristales inodoros incoloros blancos polvo cristalino blanco
 Prueba positiva ribosa fosfato orgánico
 pH disolución
-
 Espectrometría
 Absorción máxima disolución mg HCl nm
 oC
@@ -1858,7 +1726,6 @@ Guanosinamonofosfato disodio
 HO ca
 anhidro
 Prueba positiva ribosa fosfato orgánico sodio
-
 oC
 GUANILATO DIPOTÁSICO
 Guanilato potasio guanilato potasio
@@ -1871,14 +1738,12 @@ Guanosinamonofosfato calcio
 anhidro
 Prueba positiva ribosa fosfato orgánico calcio
 pH disolución
-
 oC
 ÁCIDO INOSÍNICO
 Ácido inosínico
 Inosina ácidomonofosfórico
 Cristales polvo inodoros incoloros blancos
 Prueba positiva ribosa fosfato orgánico
-
 Absorción máxima disolución mg HCl nm
 oC
 INOSINATO DISÓDICO
@@ -1952,12 +1817,9 @@ cera abejas blanca obtiene blanqueando cera abejas amarilla
 cera abejas
 Trozos láminas grano fino fractura cristalina color blanco amarillento tipo blanco amarillento marrón grisáceo tipo amarillo olor agradable miel
 oC oC
-
 Insoluble agua
 Escasamente soluble alcohol
 soluble cloroformo éter
-
-
 Glicerol polioles
 expresado glicerol
 Ceresina parafinas ceras
@@ -1967,24 +1829,17 @@ cera candelilla cera purificada obtenida hojas candelilla Euphorbia antisyphilit
 Cera dura color marrón amarillento opaca traslúcida
 oC oC
 Soluble cloroformo tolueno
-
-
 CERA CARNAUBA
 cera carnauba cera purificada obtenida yemas hojas palma cerífera Brasil carnauba caranday Copernicia cerifera
 Polvo escamas color marrón amarillo pálido sólido duro quebradizo fractura resinosa
-
 oC oC
 Parcialmente soluble etanol hirviendo
 Soluble cloroformo éter dietílico
-
-
-
 Goma laca shellac blanqueado
 shellac laca purificada blanqueada secreción resinosa insecto Laccifer Tachardia lacca Kerr familia Coccidae
 Shellac blanqueado resina granular amorfa color blancuzco
 Shellac blanqueado ceras resina granular amorfa color amarillo
 Insoluble agua totalmente soluble alcohol parcialmente soluble acetona
-
 oC gel sílice
 Colofonia
 Cera
@@ -2023,10 +1878,8 @@ agitado minutos baño agua hirviendo tubo ácido sulfúrico muestra polideceno h
 Ésteres ácido montánico
 Copos polvo gránulos glóbulos color blanco amarillento
 Densidad oC
-
 Punto fusión
 oC
-
 cromatografía gases
 polialcoholes
 tipos ceras
@@ -2035,13 +1888,10 @@ CERA POLIETILENO OXIDADA
 Productos polares reacción oxidación suave polietileno
 Polietileno oxidado
 Escamas polvo gránulos glóbulos blancos
-
 oC
-
 Viscosidad oC
 ms
 Oxígeno
-
 LCISTEÍNA
 Clorhidrato clorhidrato monohidrato Lcisteína
 pelo humano utilizarse fuente sustancia
@@ -2066,8 +1916,6 @@ prueba positiva producir color rojo púrpura
 oC oC
 oC
 Materia insoluble etanol
-
-
 Gas inflamable incoloro inodoro
 Metano hidrocarburos calculados metano
 μl
@@ -2084,34 +1932,23 @@ Gas líquido incoloro olor suave característico
 Presión vapor
 kPa oC
 Metano
-
 Etano
-
 Propano
-
 Isobutano
-
 butadieno
-
 Humedad
 ISOBUTANO
 metilpropano
 Contenido inferior
 kPa oC
-
-
 PROPANO
 Contenido inferior
 kPa oC
-
 OXÍGENO
 HIDRÓGENO
 Hidrógeno
 Contenido inferior
 Gas incoloro inodoro altamente inflamable
-
-
-
 ACESULFAMO
 ASPARTAMO
 NEOHESPERIDINA DIHIDROCALCONA
@@ -2132,10 +1969,8 @@ Denominación sistemática
 βDfructofuranosil fructohidrolasa
 Número enzima Comisión
 Recuento bacteriológico
-
 Ausente prueba
 Coliformes
-
 LISOZIMA
 Clorhidrato lisozima
 Muramidasa
@@ -2143,13 +1978,11 @@ lisozima polipéptido lineal obtenido clara huevo gallina consiste aminoácidos
 Posee actividad enzimática capacidad hidrolizar enlaces ácido Nacetilmurámico Nacetilglucosamina membranas externas especies bacterianas especial organismos grampositivos
 Generalmente obtiene clorhidrato
 Número enzima Comisión CE
-
 Contenido inferior mg expresado sustancia anhidra
 Polvo blanco inodoro gusto ligeramente dulce
 Punto isoeléctrico
 pH solución
 Máximo absorción solución acuosa mg ml nm mínimo nm
-
 Criterios microbiológicos
 col
 Salmonelas
@@ -2186,11 +2019,9 @@ POLIVINILPIRROLIDONA
 Povidono
 Polivinilpirrolidona soluble
 Polivinilpirrolidona polioxopirrolidiniletileno
-
 Contiene nitrógeno sustancia anhidra
 Polvo blanco blanco
 Soluble agua etanol
-
 Karl Fischer
 Aldehído
 mg kg acetaldehído
@@ -2206,7 +2037,6 @@ Contiene nitrógeno sustancia anhidra
 Polvo blanco higroscópico olor débil desagradable
 Insoluble agua etanol éter
 pH suspensión acuosa
-
 Karl Fischer
 N‚N‘divinilimidazolidona libre
 Glucano neutro lineal formado principalmente unidades maltotriosa conectadas enlaces glicosídicos
@@ -2235,7 +2065,6 @@ Purity valores expresados sustancia anhidra excepción pérdida desecación
 almidón cereal
 almidón patata
 almidones
-
 mg kg almidones modificados cereales
 mg kg almidones modificados especifique
 FOSFATO MONOALMIDÓN
@@ -2259,11 +2088,9 @@ almidón acetilado almidón esterificado anhídrido acético acetato vinilo
 ADIPATO ALMIDÓN ACETILADO
 adipato almidón acetilado almidón entrecruzado anhídrido adípico esterificado anhídrido acético
 Grupos adipáticos
-
 HIDROXIPROPIL ALMIDÓN
 hidroxipropil almidón almidón eterificado óxido propileno
 Grupos hidroxipropílicos
-
 Clorohidrina propileno
 FOSFATO DIALMIDÓN HIDROXIPROPILADO
 fosfato dialmidón hidroxipropilado almidón entrecruzado trimetafosfato sódico oxicloruro fósforo eterificado óxido propileno
@@ -2274,10 +2101,8 @@ Grupos octenilsuccínicos
 Residuo ácido octenilsuccínico
 ALMIDÓN OXIDADO ACETILADO
 almidón oxidado acetilado almidón tratado hipoclorito sódico seguido esterificación anhídrido acético
-
 OCTENIL SUCCINATO ALUMÍNICO ALMIDÓN
 octenil succinato alumínico almidón almidón esterificado anhídrido octenilsuccínico tratado sulfato aluminio
-
 mg kg almidones modificados especifique
 Aluminio
 CITRATO TRIETILO
@@ -2290,7 +2115,6 @@ DIACETATO GLICERILO
 diacetato glicerilo compone fundamentalmente mezcla diacetatos glicerol pequeñas cantidades monoésteres triésteres
 Diacetato glicerilo
 propanotriol diacetato
-
 Líquido ligeramente aceitoso límpido incoloro higroscópico olor levemente graso
 Miscible etanol
 Pruebas positivas glicerol acetato
@@ -2315,7 +2139,6 @@ Líquido incoloro límpido ligero olor aromático
 Soluble agua etanol éter
 Pruebas positivas peróxidos
 destila oC oC
-
 benzaldehído
 PROPANODIOL
 Propilenglicol
@@ -2323,17 +2146,14 @@ dihidroxipropano
 Líquido viscoso incoloro higroscópico
 Soluble agua etanol acetona
 destila oC oC
-
 POLIETILENGLICOL
 polietilenglicol mezcla polímeros fórmula general HOCHCHOH correspondientes masa molecular media relativa
 CHOn HO número unidades óxido etileno correspondientes peso molecular
-
 Sólido aspecto ceroso parafinado blanco blanco
 soluble agua cloruro metileno
 Prácticamente insoluble alcohol éter aceites grasos aceites minerales
 oC oC
 kgms oC
-
 DO
 Almidón ST triturar almidón almidón patata almidón maíz almidón soluble ml agua añadir pasta resultante cantidad suficiente agua volumen ml agitando tiempo
 Hervir minutos dejar enfriar filtrar
@@ -2341,7 +2161,6 @@ almidón recién preparado
 esté etiquetado alimentario nitrito venderse mezcla sal sustituto sal
 DO
 ANEXO II
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CE Comisión
@@ -2360,7 +2179,6 @@ DO
 DO
 DO
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -2429,15 +2247,9 @@ pH soluciones varía
 carboximetilcelulosa sódica entrelazada sal sódica celulosa parcialmente Ocarboximetilada entrelazada térmicamente
 Sales sodio potasio solubles agua etanol
 Sales calcio insolubles agua etanol éter
-
 CLORURO POTASIO
-
 Materia hidrosoluble materia orgánica
 KFeCN HO
-
-
-
-
 DiDgluconato ferroso dihidrato
 DiDgluconato hierro II dihidrato
 HO
@@ -2450,14 +2262,9 @@ nHO
 nHO
 nHO
 Einecs gli
-
-
-
-
 Polivinilpirrolidona insoluble
 Añadir ml polietilenglicol ml solución acuosa pullulan
 forma precipitado blanco
-
 Ortoxenol
 Denominación química
 recipiente tapón vidrio diluir ml muestra ml agua añadir ml permanganato potasio color rosado cambia marrón plazo minutos
@@ -2474,12 +2281,9 @@ Carboximetilcelulosa entrelazada
 CMC entrelazada
 metilpropanol
 Insoluble agua Soluble aceite grasa caliente
-
-
 HEXILRESORCINOL
 Hexilresorcinol
 Hexilresorcinol
-
 NISINA
 NATAMICINA
 Pimaricina
@@ -2502,7 +2306,6 @@ CHONa
 Metilparaben
 CHO
 Absorción específica etanol
-
 añaden lentamente ml muestra agitación continua
 anhidro pierde hidrato secarse oC hora calcinarse oC oC minutos
 presenta forma filamentosa granular polvo color blanco marrón amarillento prácticamente inodoro
@@ -2572,8 +2375,6 @@ Carga vehículo
 Vehículos cargan OVC
 Vehículos cargan NOVC
 Conmutador funcionamiento
-
-
 MÉTODOS ENSAYO TIPO
 caso ensayo tipo motocicletas vehículos ruedas eléctricos híbridos someterán ensayo arreglo procedimiento aplicable apéndices conforme prescrito punto anexo II
 condición ensayo resultado ensayo emisiones respetará límites previstos punto anexo II
@@ -2618,7 +2419,6 @@ calculará promedio emisión contaminante km condición
 Densayo distancias efectivas recorridas ensayo marco condición
 Resultados ensayo
 caso ensayo realice conforme punto valores ponderados calcularán continuación indica
-
 emisión másica contaminante km
 promedio emisión másica contaminante km dispositivo acumulación energía eléctrica completamente cargado
 promedio emisión másica contaminante km dispositivo acumulación energía eléctrica carga mínimo máxima descarga capacidad
@@ -2674,7 +2474,6 @@ promedio emisión másica contaminante km dispositivo acumulación energía elé
 Dav distancia media supuesta vehículo utilizado condición período recargas dispositivo acumulación energía eléctrica
 km caso motocicleta categoría cilindrada cc Vmáx kmh
 caso ensayo realice conforme punto valores ponderados calcularán
-
 promedio emisión másica contaminante km dispositivo acumulación energía eléctrica completamente cargado calculado punto
 promedio emisión másica contaminante km dispositivo acumulación energía eléctrica carga mínimo máxima descarga capacidad calculado punto
 Vehículos cargan exterior conmutador funcionamiento

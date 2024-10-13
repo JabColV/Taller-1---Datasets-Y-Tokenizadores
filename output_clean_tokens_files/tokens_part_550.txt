@@ -253,7 +253,6 @@ Bovinos porcinos
 exige LMR
 oral
 utilizarse animales producen leche consumo humano
-
 especies destinadas producción alimentos peces
 Únicamente tópico
 Ácido salicílico
@@ -536,89 +535,15 @@ factor conversión aplicable presentación eviscerada descabezada incluido corte
 punto sustituye texto
 Estarán prohibidas pesca arrastre fondo pesca artes fijos incluidos redes enmalle fondo palangres fondo zonas delimitadas líneas loxodrómicas unen secuencialmente siguientes posiciones calculadas sistema coordenadas WGS
 cordillera submarina Reykjanes
-
-
-
-
 ′N
-
-
 Dorsal atlántica septentrional
-
-
-
-
 Dorsal atlántica central zona fractura CharlieGibbs región frontal subpolar
-
-
-
-
-
-
 ′N ′W
-
-
-
 ′N
 Dorsal atlántica meridional
-
 ′N
-
-
 montes submarinos Altair
-
-
-
-
 montes submarinos Antialtair
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 inserta punto bis
 bis
 Condiciones buques terceros países pesquen caballa aguas comunitarias
@@ -669,8 +594,6 @@ asignan Noruega toneladas deberán capturarse redes arrastre pelágico asignan I
 DO
 RED
 cuota capturada zona delimitada siguientes coordenadas cuota capturada dicha zona período comprendido abril mayo REDPunto noLatitud NLongitud
-
-
 cuota capturada zona delimitada siguientes coordenadas cuota capturada dicha zona período comprendido abril mayo REDXPunto noLatitud NLongitud
 Decisión Consejo
 febrero
@@ -1680,9 +1603,7 @@ Impurezas
 Tolueno máximo kg
 agosto
 julio
-
 autorizarse usos insecticida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión bifentrina apéndices II aprobado Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros prestarán atención particular
 persistencia ambiente
@@ -3770,7 +3691,6 @@ Girar parabrisas desplazarlo horizontal verticalmente examinar superficie especi
 Estimación utilizando plantilla control
 suficiente rápida estimación margen error calculará valor véase figura valor límite ΔαL cambio desviación valor distancia acristalamiento seguridad pantalla proyección
 relación cambio diámetro imagen proyectada Δd cambio desviación angular Δα
-
 Δd expresado milímetros
 expresado milímetros
 ΔαL expresado minutos arco
@@ -3816,7 +3736,6 @@ tipo parabrisas considerará satisfactorio respecta distorsión óptica parabris
 Categoría vehículo
 Zona
 Valores máximos distorsión óptica
-
 extendida punto
 arco
 reducida punto anexo
@@ -4041,10 +3960,6 @@ desprendido pequeños fragmentos intersección cortes zona expuesta representa s
 dichas zonas amplias clasificarán valores Gt Gt
 Clasificación valores cortes
 Zona expuesta enrejado
-
-
-
-
 Teledyne Taber Unidos América comercializa instrumento abrasión adecuado
 Teledyne Taber Unidos América comercializa ruedas abrasivas adecuadas
 ejemplo serie Atlas Ci serie Heraeus Xenotest serie Suga WELX
@@ -4237,10 +4152,6 @@ cuadro figuran altura caída distintas categorías grosor masa fragmentos despre
 Grosor nominal probetas
 Altura caída
 Masa máxima permitida fragmentos
-
-
-
-
 resultado ensayo considerará satisfactorio cumplen condiciones siguientes
 bola atraviesa probeta
 probeta rompe pedazos
@@ -4411,15 +4322,10 @@ curvatura
 grupo constituido categoría grosor
 clasificación orden creciente superficies desarrolladas
 seleccionan superficies desarrolladas pequeñas numeran
-
 pequeña
-
 pequeña
-
 pequeña
-
 pequeña
-
 pequeña
 series definidas punto altura segmento indicará
 altura segmento

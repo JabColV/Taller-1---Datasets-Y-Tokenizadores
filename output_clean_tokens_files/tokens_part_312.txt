@@ -175,7 +175,6 @@ cuadro refleja evolución importaciones procedentes terceros países distintos C
 Turquía
 Noruega
 Sudáfrica
-
 demuestran datos lugar número importaciones vienen originarias Turquía China cuota mercado sustancial relativamente estable
 cuota mercado importaciones procedentes terceros países distintos China Turquía redujo PI
 repercusión precios dichas importaciones situación industria Unión aborda considerandos siguientes
@@ -2080,14 +2079,12 @@ miembro expide material color licencias relacionadas aviación color blanco
 miembro distingue color distintas licencias relacionadas aviación color licencia controlador tránsito aéreo amarillo
 ANEXO II
 REQUISITOS FORMACIÓN
-
 Requisitos formación inicial controladores tránsito aéreo
 formación inicial garantizará alumnos controladores tránsito aéreo satisfagan mínimo objetivos formación básica habilitación descritos edición octubre Especificación Eurocontrol formación inicial contenidos básicos comunes controladores tránsito aéreo objeto controladores tránsito aéreo estén condiciones regular tránsito aéreo segura rápida eficiente formación inicial abarcará siguientes temas Derecho Aviación gestión tránsito aéreo incluidos procedimientos cooperación civil militar meteorología navegación aeronaves principios vuelo incluida comprensión controlador tránsito aéreo piloto factores humanos equipos sistemas entorno profesional seguridad cultura seguridad sistemas gestión seguridad situaciones inusuales emergencia sistemas degradados conocimientos lingüísticos incluida fraseología radiotelefónica
 enseñanza temas impartirá prepare aspirantes diversos tipos servicios tránsito aéreo hincapié aspectos seguridad
 formación inicial constará cursos teóricos prácticos incluye ejercicios simulación duración quedará determinada planes formación inicial aprobados
 aptitudes adquiridas interesados deberán garantizar capacidad afrontar situaciones complejas tránsito denso facilitar transición formación unidad
 finalizada formación inicial aptitud interesado evaluará exámenes adecuados sistema evaluación continua
-
 Requisitos formación unidad controladores tránsito aéreo
 planes formación unidad especificarán procesos calendario precisos permitir aplicación procedimientos unidad área local supervisión instructor formación puesto trabajo
 plan aprobado incluirá elementos sistema evaluación aptitud incluye acuerdos trabajo evaluación examen progreso procedimientos notificación autoridad competente
@@ -2096,7 +2093,6 @@ formación unidad controladores tránsito aéreo recibirán formación suficient
 duración formación unidad quedará determinada plan formación unidad correspondiente
 evaluación aptitudes exigidas realizará exámenes adecuados sistema evaluación continua confiada examinadores evaluadores autorizados adoptarán decisiones neutra objetiva
 autoridades competentes establecerán mecanismos recurso garanticen trato equitativo interesados
-
 Requisitos formación continua controladores tránsito aéreo
 habilitaciones anotaciones unidad figuren licencias controladores tránsito aéreo mantendrán vigor planes aprobados formación continua consisten formación mantener aptitud controladores tránsito aéreo cursos actualización formación emergencia caso formación lingüística
 formación continua controladores tránsito aéreo recibirán formación suficiente seguridad protección gestión crisis
@@ -2512,14 +2508,12 @@ Rentabilidad flujo caja
 rentabilidad flujo caja procedentes venta electrodos wolframio industria comunitaria negativos
 cifras expresan intervalos motivos confidencialidad
 Margen beneficio
-
 lidad flujo caja procedentes venta electrodos wolframio industria comunitaria negativos
 rentabilidad deterioró significativamente período considerado
 Alcanzó nivel mejoró posteriormente relacionado esfuerzos racionalización industria comunitaria aumento precios
 flujo caja deterioró período considerado conforme reducción rentabilidad
 reducción nivel flujo caja negativo términos absolutos término período descenso volumen producción ventas
 Flujo caja miles EUR
-
 término período descenso volumen producción ventas
 término período descenso volumen producción ventas
 Inversiones rendimiento inversiones capacidad reunir capital
@@ -3416,9 +3410,7 @@ CICAP
 metilisoxazolol metiloxazolol
 junio
 mayo
-
 autorizarse usos fungicida granulación semillas remolacha azucarera instalaciones tratamiento profesional semillas
-
 aplicación principios uniformes anexo VI conclusiones informe revisión himexazol particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal noviembre
 evaluación global miembros deberán prestar especial atención siguientes aspectos
 riesgo mamíferos aves granívoras
@@ -3477,7 +3469,6 @@ Alemania solicitado supresión profesión enfermeroa psiquiátricoa Psychiatrisc
 Alemania solicitado incorporación profesión cuidador geriátricoa Altenpflegerin und Altenpfleger responde condiciones establecidas artículo letra inciso ii Directiva CE consonancia Ley cuidados geriátricos noviembre Orden relativa formación pruebas acceso profesión enfermeroa geriátricoa noviembre
 Alemania solicitado fusión profesiones técnico confección vendajes Bandagist protesista Orthopädiemechaniker técnico protesista Orthopädietechniker arreglo Código profesiones artesanales Handwerksordnung in der Fassung der Bekanntmachung vom September BGBl
 zuletzt geändert durch Artikel der Verordnung vom Oktober BGBl
-
 Luxemburgo solicitado sustitución denominaciones enfermero puericultor infirmier puériculteur enfermero pediátrico infirmier pédiatrie enfermero anestesista infirmier anesthésiste enfermero anestesia reanimación infirmier anesthésie et réanimation masajista diplomado masseur diplômé masajista masseur adopción Loi modifiée mars sur lexercice et revalorisation certaines professions santé
 modalidades formación modificado
 Austria solicitado precisión descripción formación impartirse profesiones enfermero psiquiátrico enfermero pediátrico consonancia Ley cuidados enfermería BGBI
@@ -3742,7 +3733,6 @@ DO
 ANEXO
 Método cálculo nivel eficiencia proceso reciclado residuos pilas acumuladores
 nivel eficiencia energética proceso reciclado calcula
-
 nivel eficiencia calculado proceso reciclado efectos artículo apartado Directiva CE porcentaje masa
 masa fracciones salida consideran efectos eficiencia reciclado año natural
 masa fracciones entrada entran proceso reciclado pilas acumuladores año natural
@@ -3807,7 +3797,6 @@ Elementos compuestos forman fracciones entrada
 Impurezas
 Caja exterior baterías
 Agua HO
-
 Elementos compuestos forman fracciones entrada
 Plomo Pb
 Ácido sulfúrico HSO
@@ -4757,7 +4746,6 @@ aparato llevará incorporada sonda diámetro milímetros milímetros hoja situad
 resultados mediciones convertirán contenido estimado carne magra sonda HGP ordenador conectado
 contenido carne magra canal calculará fórmula
 LMP ·F ·M
-
 LMP porcentaje estimado carne magra canal
 espesor grasa dorsal piel milímetros medido centímetros línea media canal penúltima antepenúltima costilla
 espesor músculo dorsal milímetros medido tiempo lugar

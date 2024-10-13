@@ -997,7 +997,6 @@ Reino Unido
 Islandia
 Noruega
 Suiza
-
 desconoce
 País comerciante
 país establecido comerciante
@@ -1048,7 +1047,6 @@ impreso periódico folleto octavilla etc
 Internet sitio web
 Correo electrónico
 Exterior publicidad fija ejemplo carteles publicidad móvil ejemplo vehículos
-
 desconoce
 procede
 Formas pago
@@ -1063,14 +1061,12 @@ Dinero electrónico
 Envío dinero
 Tarjeta prepago
 Pago móvil ejemplo SMS
-
 desconoce
 procede
 Nombre comerciante
 nombre comerciante asociado reclamación consumidor
 Texto libre
 Moneda
-
 procede
 Valor transacción
 proceda importe abonado consumidor servicio
@@ -1705,7 +1701,6 @@ servicios enseñanza idiomas cursos diarios años
 clases destinadas enseñar conducir vehículos motor
 clases particulares
 incluye cursos relacionados deportes aficiones pasatiempos
-
 incluye bienes servicios
 bienes servicios incluidos categorías sección
 SECCIÓN
@@ -1952,9 +1947,7 @@ CICAP
 Ztertbutiliminisopropilfeniltiadiacinanona
 febrero
 enero
-
 autorizar usos insecticida acaricida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión buprofezina particular apéndices II ultimaron Comité permanente cadena alimentaria sanidad animal noviembre
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 seguridad operarios velarán condiciones exija utilización equipos protección individual adecuados proceda
@@ -2113,9 +2106,7 @@ CIPAC
 Eclorotiazolilmetilmetilnitroguanidina
 agosto
 julio
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión clotianidina particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros
 deberán atender especialmente protección aguas subterráneas sustancia activa utilice regiones características climáticas edáficas vulnerables
@@ -2830,7 +2821,6 @@ Cartuchos lacrimógenos
 Granadas fusil
 Granadas mano
 Munición mm
-
 Portadocumentos
 Prismáticos
 Chalecos fluorescentes tráfico
@@ -2983,7 +2973,6 @@ permitir vino producido campañas vitícolas uvas ecológicas vendido indicacion
 ampliación período transitorio aplicarse julio
 Corrección errores Reglamento CE Consejo julio establecen disposiciones generales relativas Fondo Europeo Desarrollo Regional Fondo Social Europeo Fondo Cohesión deroga Reglamento CE
 página artículo apartado letra
-
 período años cierre programa operativo define artículo apartado
 indicadores impacto resultados
 período años cierre programa operativo define artículo apartado

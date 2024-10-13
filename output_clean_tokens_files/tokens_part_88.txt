@@ -608,7 +608,6 @@ Carbosulfán
 HaloxifopPmetiléster
 Sulfonatos perfluorooctano
 PFOS CFSOX OH sal metálica OM halogenuro amida derivados incluidos polímeros
-
 Fosalona
 Tiodicarb
 Vinclozolín
@@ -713,9 +712,7 @@ CICAP
 αtrifluor′isopropoxiotoluanilida
 marzo
 febrero
-
 autorizar usos fungicida
-
 evaluación solicitudes autorización productos fitosanitarios contengan fluotanilo usos correspondientes tratamiento tubérculo patata miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos necesarios información pertinente conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión flutolanilo particular apéndices II aprobado Comité permanente cadena alimentaria sanidad animal mayo
 evaluación general miembros deberán prestar especial atención
@@ -987,7 +984,6 @@ Cantidades solicitadas añaden subperíodo comprendido octubre diciembre
 kg
 lugar Comisión recibido solicitud certificado
 Tratado
-
 Reino Bélgica República Checa Reino Dinamarca República Federal Alemania República Estonia República Helénica Reino España República Francesa Irlanda República Italiana República Chipre República Letonia República Lituania Ducado Luxemburgo República Hungría República Malta Reino Países Bajos República Austria República Polonia República Portuguesa República Eslovenia República Eslovaca República Finlandia Reino Suecia Reino Unido Bretaña Irlanda Norte
 miembros Unión Europea
 república bulgaria rumanía
@@ -4645,7 +4641,6 @@ organismo intervención facilitará información necesaria características alco
 interesado obtener dirigiéndose organismo intervención trate muestras alcohol puesto venta tomadas representante organismo intervención
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos ocasionen controles contemplados apartado correrán empresas venda alcohol

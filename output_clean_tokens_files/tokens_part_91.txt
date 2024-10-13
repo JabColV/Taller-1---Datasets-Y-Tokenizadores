@@ -35,7 +35,6 @@ razones éticas estudios diseñarán cuidadosamente teniendo margen reducción r
 ejemplo incluyen grupos dosis momentos adicionales extracción sangre estudio evitarse necesidad estudio
 efectos información armonización publicará Diario Oficial Unión Europea lista métodos ensayo documentos orientativos pertinentes aplicación presente Reglamento
 lista actualizará regularmente
-
 PRODUCTOS FITOSANITARIOS QUÍMICOS
 ÍNDICE
 SECCIÓN
@@ -963,7 +962,6 @@ pictogramas
 palabras advertencia
 indicaciones peligro
 consejos prudencia
-
 PREPARADOS BASE MICROORGANISMOS INCLUSIÓN VIRUS
 IDENTIDAD PRODUCTO FITOSANITARIO
 Fabricante preparado microorganismos
@@ -997,7 +995,6 @@ Envases compatibilidad preparado materiales envasado propuestos
 Procedimientos limpieza equipo aplicación
 Plazos reentrada tiempos espera necesarios precauciones proteger personas ganado ambiente
 Medidas caso accidente
-
 MÉTODOS ANALÍTICOS
 Métodos análisis preparado
 Métodos determinar cuantificar residuos
@@ -2538,7 +2535,6 @@ capacidad autoridad judicial dictado orden detención europea Dicha información
 información pertinente sección orden detención europea especificando procede
 infracción penal dictado orden detención castigada cadena perpetua medida privativa libertad perpetuidad
 ordenamiento jurídico miembro informador permite revisión pena medida impuesta años solicite vistas ejecución pena medida
-
 ordenamiento jurídico jurisprudencia miembro informador permite aplicación medidas gracia vistas ejecución pena medida
 información pertinente sección orden detención europea
 información pertinente sección orden detención europea especificando procede
@@ -3815,7 +3811,6 @@ DO
 DO
 DO
 ANEXO
-
 ANEXO
 Lista especies contempladas artículo apartado letra cumplir protocolos examen OCVV
 texto protocolos consultarse sitio web OCVV wwwcpvoeuropaeu
@@ -3923,7 +3918,6 @@ Semillas soja
 TG
 Sorgo
 TG
-
 Allium cepa var Cepa
 Cebolla
 TP
@@ -4810,7 +4804,6 @@ muestra inflama ardiendo apagar quemador llama extingue alcanzar punto medición
 lleven cabo serie ensayos repitan deberá garantizarse temperatura cámara combustión portamuestras inferior °C comenzar ensayo
 Cálculo
 velocidad combustión milímetros minuto viene dada fórmula
-
 longitud milímetros distancia quemada
 tiempo segundos tarda arder distancia quemada
 índice combustión muestra calcula únicamente caso llama alcance punto medición extremo muestra
@@ -4953,7 +4946,6 @@ Pernos
 Ignición borde
 Chorro gas
 Ajustado
-
 montaje
 Tubo mador
 Estabilizador llama

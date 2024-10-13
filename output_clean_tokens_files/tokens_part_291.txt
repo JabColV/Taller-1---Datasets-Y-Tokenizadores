@@ -230,9 +230,7 @@ CIPAC
 ZNαciclopropilmetoxiimino difluorotrifluorometilbencilfenilacetamida
 abril
 marzo
-
 autorizar usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión ciflufenamida particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal octubre
 evaluación general miembros deberán prestar especial atención protección aguas subterráneas aplique sustancia activa regiones características edáficas vulnerables condiciones climáticas delicadas
 caso condiciones autorización incluirán medidas reducción riesgo
@@ -494,10 +492,8 @@ blanco
 empleo meses
 empleo actual empleo
 Duración empleo meses dejar educación formal Col
-
 Número meses
 Método permitió encontrar empleo meses dejar educación formal Col
-
 centro educativo
 servicios públicos empleo
 anuncios prensa internet
@@ -505,7 +501,6 @@ Envío solicitud empleo directa espontánea empresario
 familia amigos
 Empleo encontrado raíz trabajado empleo verano estudiante prácticas beca voluntariado empresa
 Creación empresa privada
-
 Ocupación empleo meses dejar educación formal Col
 CIUO COM codificada dígitos
 Tipo contrato empleo meses dejar educación formal Col
@@ -1291,7 +1286,6 @@ apoyo microfinanciación empresas sociales incluida creación capacidad instituc
 Artículo
 participación arreglo eje Microfinanciación emprendimiento social abierta organismos públicos privados radicados escala nacional regional local países referencia artículo apartado ofrezcan dichos países
 microfinanciación personas microempresas
-
 financiación empresas sociales
 Comisión garantizará puedan participar eje discriminación organismos públicos privados miembros
 llegar beneficiarios finales permitirles crear microempresas competitivas viables organismos públicos privados lleven cabo actividades refiere apartado letra colaborarán estrechamente organizaciones incluidas sociedad civil representen intereses beneficiarios finales microcréditos organizaciones especial financiadas FSE ofrezcan programas tutoría formación dichos beneficiarios finales
@@ -1627,7 +1621,6 @@ DO
 Directiva CEE Consejo junio fijan normas policía sanitaria aplicables intercambios intracomunitarios importaciones esperma animales especie porcina DO
 Reglamento UE Comisión febrero establecen disposiciones aplicación Reglamento CE Parlamento Europeo Consejo establecen normas sanitarias aplicables subproductos animales productos derivados destinados consumo humano Directiva CE Consejo determinadas muestras unidades exentas controles veterinarios frontera virtud DO
 ANEXO
-
 Lituania
 siguientes zonas Lituania
 condado apskritis Vilna
@@ -2165,12 +2158,10 @@ relación artículo letra describa forma ofrecen condiciones materiales acogida 
 procede referencia artículo apartado sírvase explicar criterios referencia aplicados Derecho práctica nacionales determinar nivel asistencia financiera concede solicitantes
 solicitantes reciben trato favorable nacionales explique razones
 ANEXO II
-
 Directiva derogada
 refiere artículo
 Directiva CE Consejo
 DO
-
 Plazo incorporación Derecho nacional
 Directiva
 Fecha límite incorporación
@@ -2960,7 +2951,6 @@ Reglamento CE Parlamento Europeo Consejo
 octubre
 adaptan Decisión CE Consejo determinados actos sujetos procedimiento establecido artículo Tratado refiere procedimiento reglamentación control
 Adaptación procedimiento reglamentación control
-
 PARLAMENTO EUROPEO CONSEJO UNIÓN EUROPEA
 Visto Tratado constitutivo Comunidad Europea particular artículo letra artículo párrafo punto letra artículo
 Vista propuesta Comisión
@@ -4052,7 +4042,6 @@ ANEXO
 ARGELIA
 perjuicio reglas interpretación nomenclatura combinada texto designación mercancía valor meramente indicativo determinándose régimen marco presente anexo alcance códigos NC momento adoptar presente Reglamento
 figura ex código NC régimen preferencial vendrá determinado código NC designación correspondiente
-
 Contingentes arancelarios
 orden
 Código NC
@@ -4063,16 +4052,13 @@ Volumen contingentario
 peso neto toneladas
 Derecho contingentario
 Miel natural
-
 Exención
 Flores capullos cortados ramos adornos frescos secos blanqueados teñidos impregnados preparados forma
 Follaje hojas ramas partes plantas flores capullos hierbas musgos líquenes ramos adornos frescos secos blanqueados teñidos impregnados preparados forma
 Patatas papas tempranas frescas refrigeradas
-
 Albaricoques frescos
 Exención
 Fresas frescas
-
 Aceite oliva fracciones refinado modificar químicamente
 aceites fracciones obtenidos exclusivamente aceituna refinados modificar químicamente mezclas aceites fracciones aceites fracciones partida
 Aceite girasol refinado
@@ -4083,13 +4069,11 @@ Jugo albaricoque damasco chabacano
 Vinos derecho siguientes denominaciones origen Aïn BessemBouira Médéa Coteaux du Zaccar Dahra Coteaux Mascara Monts du Tessalah Coteaux Tlemcen grado alcohólico adquirido inferior vol recipientes capacidad inferior
 vinos espumosos
 vinos uvas frescas
-
 Cantidades referencia
 Período cantidad referencia
 Cantidad referencia
 Derecho cantidad referencia
 Coliflores brécoles broccoli frescos refrigerados
-
 Coles repollitos Bruselas frescas refrigeradas
 coles incluidos repollos coles rizadas colinabos productos comestibles similares género Brassica frescos refrigerados
 Trufas frescas refrigeradas
@@ -4765,7 +4749,6 @@ Etoprofos
 Fipronil suma fipronil fipronildesulfinyl expresada fipronil
 Propineb propilentiourea suma propineb propilentiourea
 ANEXO
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Comisión DO
@@ -4774,7 +4757,6 @@ Directiva CE Comisión DO
 Directiva CE Comisión DO
 Directiva CE Comisión DO
 Punto IJ anexo II Acta adhesión
-
 Plazos transposición Derecho nacional
 Directiva
 Plazos transposición

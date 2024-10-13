@@ -640,7 +640,6 @@ CATEGORÍA
 SUBCATEGORÍA
 Sustancia
 Denominación NC
-
 Código NC
 CAS
 Anhídrido acético
@@ -1355,7 +1354,6 @@ DO
 DO
 DO
 ANEXO
-
 CAS Einecs Fórmula estructural CH
 Nombre IUPAC Acetonitrilo
 Ponente España
@@ -1395,7 +1393,6 @@ TRABAJADORES
 legislación protección trabajadores actualmente vigor escala comunitaria ofrece marco adecuado limitar riesgos sustancia medida necesaria aplicable
 marco recomienda
 estudiar revisión valor límite exposición sustancia lugar trabajo adoptado virtud Directiva CEE Comisión indicar exposición cutánea contribuir carga corporal trabajadores AMBIENTE
-
 CAS Einecs
 Fórmula estructural CH CH CONH
 Nombre Einecs Acrilamida
@@ -1462,7 +1459,6 @@ vigentes medidas legales protección consumidores personas expuestas ambiente pa
 AMBIENTE
 facilitar autorización virtud Directiva CE prevención control integrados contaminación sustancia incluya trabajos marcha elaborar orientaciones mejores técnicas disponibles miembros lleven cabo seguimiento cuidadoso aplicación dichas técnicas relación autorización informen Comisión eventuales avances importantes marco intercambio información relativa mejores técnicas disponibles
 emisiones locales ambiente controlen caso necesario normas nacionales garantizar riesgo previsto ambiente
-
 CAS Einecs
 Fórmula estructural CH CH COOH
 Nombre Einecs Ácido acrílico
@@ -1493,7 +1489,6 @@ evaluación riesgo muestra cabe esperar produzcan riesgos consideran suficientes
 emisiones locales ambiente controlen caso necesario normas nacionales garantizar riesgo previsto ambiente
 relación ácido acrílico utilizado procesos húmedos polimerización efectuados sitios usuarios posteriores capacidad transformación producción polímeros superabsorbentes
 Comisión Europea estudie inclusión ácido acrílico lista prioritaria anexo Directiva CE Directiva marco aguas próxima revisión anexo considere medidas tales armonización requisitos autorización previa emisiones vertidos agua instalaciones respectivas
-
 CAS Einecs
 Fórmula estructural CH CH CH CH
 Nombre Einecs Butadieno
@@ -1506,7 +1501,6 @@ utiliza asimismo sustancia intermedia producción neopropeno artículos caucho i
 ATMÓSFERA ECOSISTEMAS ACUÁTICOS TERRESTRE
 establecer escala comunitaria valores límite exposición butadieno lugar trabajo
 vigentes medidas legales protección consumidores personas expuestas ambiente particular disposiciones virtud Directiva CEE Directiva comercialización relación sustancias carcinogénicas mutagénicas tóxicas reproducción Directiva CE seguridad general productos relación productos Directiva CE prevención control integrados contaminación suficientes riesgos identificados
-
 CAS Einecs
 Nombre Einecs Ácido fluorhídrico ácido fluorhídrico anhidro
 Nombre IUPAC Fluoruro hidrógeno
@@ -1530,7 +1524,6 @@ preocupación suscitan efectos medios acuático atmosférico locales consecuenci
 estudiar nivel comunitario prohibición utilización fluoruro hidrógeno lugar trabajo limpieza superficies edificios incluidos suelos inscribiéndolo anexo III Directiva CE Directiva agentes químicos
 Comité científico límites exposición profesional agentes químicos Comisión estudie información contenida informe evaluación riesgo pronuncie necesidad revisar actual límite exposición lugar trabajo
 recomienda
-
 CAS Einecs
 Fórmula estructural HO
 Nombre Einecs Peróxido hidrógeno
@@ -1572,7 +1565,6 @@ establecer escala comunitaria valores límite exposición metacrilato metilo lug
 empresarios utilicen metacrilato metilo usos despertado preocupación evaluación riesgo tomen nota directrices prácticas carácter obligatorio elaborará Comisión apartado artículo Directiva CE Directiva agentes químicos directrices sectoriales específicas elaboren nivel nacional dichas directrices
 relación metacrilato metilo utilizado procesos húmedos polimerización efectuados sitios usuarios posteriores capacidad transformación recomienda
 Comisión Europea estudie inclusión metacrilato metilo lista prioritaria anexo Directiva CE Directiva marco aguas próxima revisión anexo considere medidas tales armonización requisitos autorización previa emisiones vertidos agua instalaciones respectivas
-
 CAS Einecs
 Nombre IUPAC Tolueno
 Ponente Dinamarca
@@ -1683,7 +1675,6 @@ eliminar mercado consumo preparados fluoruro hidrógeno clasificados corrosivos 
 facilitar posibilidad virtud Directiva CE Consejo prevención control integrados contaminación sustancia incluya trabajos marcha elaborar orientaciones mejores técnicas disponibles miembros lleven cabo seguimiento cuidadoso aplicación dichas técnicas relación autorización informen Comisión eventuales avances importantes marco intercambio información relativa mejores técnicas disponibles
 marco Directiva CE Comisión relación porcentaje máximo admisible peróxido hidrógeno productos blanqueo dientes utilizados supervisión dentista considere límite concentración máximo peróxido hidrógeno figuren etiqueta advertencias condiciones adecuadas agentes limpieza blanqueo tejidos peróxido hidrógeno formulen disminuya riesgo irritación corrosión ojos ejemplo suspensiones viscosas cremas instrucciones insistirse riesgo irritación corrosión ojos indicarse porcentaje HO producto caso tintes productos decolorantes cabello citadas recomendaciones incluido límite porcentual considerarse marco legislación comunitaria cosméticos
 facilitar autorización virtud Directiva CE prevención control integrados contaminación sustancia incluya trabajos marcha elaborar orientaciones mejores técnicas disponibles miembros lleven cabo seguimiento cuidadoso aplicación dichas técnicas relación autorización informen Comisión eventuales avances importantes marco intercambio información relativa mejores técnicas disponibles
-
 CAS Einecs Fórmula estructural CH CCH COOH
 Xn
 evaluación riesgo basada prácticas actuales relacionadas ciclo vida sustancia producida Comunidad Europea importada descrito informe completo evaluación riesgo enviado Comisión miembro ponente
@@ -1695,10 +1686,8 @@ presente evaluación incluye riesgos provoca exposición dichas fuentes
 EVALUACIÓN RIESGO
 preocupación suscitan riesgos irritación vías respiratorias consecuencia exposición inhalación debida producción transformación sustancia intermedia industria química fabricación adhesivos ámbito industrial utilización adhesivos industria comercio especializado
 evaluación riesgo muestra cabe esperar produzcan riesgos consideran suficientes medidas reducción riesgo aplicadas
-
 facilitar autorización virtud Directiva CE Consejo prevención control integrados contaminación sustancia incluya trabajos marcha elaborar orientaciones mejores técnicas disponibles recomienda miembros lleven cabo seguimiento cuidadoso aplicación dichas técnicas relación autorización informen Comisión eventuales avances importantes marco intercambio información relativa mejores técnicas disponibles
 emisiones locales ambiente controlen caso necesario normas nacionales garantizar riesgo previsto ambiente
-
 evaluación riesgo muestra cabe esperar produzcan riesgos consideran suficientes medidas reducción riesgo aplicadas
 Reglamento Ejecución UE Comisión
 junio
@@ -2145,15 +2134,10 @@ Lista comunitaria aditivos alimentarios cuyo autorizado alimentos condiciones
 ANEXO III
 Lista comunitaria aditivos alimentarios cuyo autorizado aditivos alimentarios enzimas alimentarias aromas alimentarios condiciones
 Lista comunitaria soportes nutrientes condiciones
-
 Soportes aditivos alimentarios
-
 Aditivos alimentarios distintos soportes aditivos alimentarios
-
 Aditivos alimentarios incluidos soportes enzimas alimentarias
-
 Aditivos alimentarios incluidos soportes aromas alimentarios
-
 Soportes nutrientes sustancias añadidos alimento fines nutricionales fines fisiológicos
 ANEXO IV
 Alimentos tradicionales determinados miembros seguir prohibiendo determinadas categorías aditivos alimentarios
@@ -2165,7 +2149,6 @@ Cerveza alemana tradicional Bier nach deutschem Reinheitsgebot gebraut
 gases propelentes
 Francia
 Pan francés tradicional
-
 Trufas francesas tradicionales conserva
 Caracoles franceses tradicionales conserva
 Conservas francesas tradicionales ganso pato confit
@@ -2744,9 +2727,7 @@ Fecha
 Corrección errores Directiva CE Parlamento Europeo Consejo junio seguridad juguetes
 Diario Oficial Unión Europea junio
 página artículo apartado
-
 dichos juguetes cumplan requisitos establecidos anexo II Directiva CEE
-
 dichos juguetes cumplan requisitos establecidos anexo II II sección Directiva CEE
 página artículo párrafo
 Directiva CEE excepción artículo apartado anexo II quedará derogada julio artículo apartado anexo II quedarán derogados julio
@@ -3359,7 +3340,6 @@ CICAP
 SDimetil fosforamidotioato
 enero
 junio
-
 autorizar usos insecticida patata
 Deberán respetarse siguientes condiciones
 niveles superen kg sustancia activa hectárea aplicación
@@ -3369,7 +3349,6 @@ tratamiento aéreo
 aplicaciones mochila aplicaciones equipos mano independientemente usuario aficionado profesional
 jardinería doméstica
 miembros garantizarán aplicación medidas pertinentes reducción riesgo
-
 aplicación principios uniformes anexo VI conclusiones informe revisión metamidofos apéndices II
 miembros garantizar titulares autorización informen tardar diciembre año incidencia problemas salud operarios
 miembros exigir faciliten elementos tales datos ventas estudio modalidades utilización imagen real condiciones impacto toxicológico metamidofos
@@ -3669,9 +3648,7 @@ código ZZ significa orígenes
 Corrección errores Directiva UE Parlamento Europeo Consejo junio restricciones utilización determinadas sustancias peligrosas aparatos eléctricos electrónicos
 Diario Oficial Unión Europea julio
 página artículo letra
-
 fabricante elaborado documentación técnica respetado requisitos enunciados artículo letras aparato marca CE acompañado documentos necesarios
-
 fabricante elaborado documentación técnica respetado requisitos enunciados artículo letras aparato marca CE acompañado documentos necesarios
 Decisión Parlamento Europeo
 abril
@@ -3795,7 +3772,6 @@ Peso específico
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO III
 Indicación contemplada artículo
 ANEXO IV
@@ -4658,7 +4634,6 @@ presente disponga cosa incompatibles funcionamiento presente medida afecten inte
 implica medida clasificada ayuda estatal virtud artículo apartado EEE deberá implicar subvención recursos confiera ventaja empresa beneficiaria selectiva falsee competencia afectar comercio Partes contratantes
 Directrices Ayudas Estatales Órgano Vigilancia garantías estatales establecen garantías concedidas directamente autoridades centrales regionales locales constituir ayudas estatales
 condiciones crédito ventajosas obtenidas empresas cuya forma jurídica excluye posibilidad quiebra procedimientos insolvencia benefician explícitamente garantía cobertura pérdidas proporcionan beneficio derivado exposición restricciones referencia garantía ilimitada
-
 ventaja garantías estatales consiste asume riesgo vinculado garantía asunción riesgo debería compensarse normalmente prima adecuada renuncie dicha prima implica ventaja empresa pérdida recursos
 Decisión COL Órgano Vigilancia concluía garantía implícita ilimitada favor HFF constituye ayuda estatal sentido artículo apartado EEE representa derroche recursos estatales islandés concede ventaja económica HFF
 Órgano Vigilancia mencionaba consonancia Directrices Garantías Estatales empresas cuya forma jurídica impide posibilidad quiebra procedimientos insolvencia benefician explícitamente garantía cobertura pérdidas considerarse beneficiarias ayuda
@@ -4749,7 +4724,6 @@ DO
 ANEXO
 Coordenadas geográficas
 Radio zona intensidad campo potencia máx mW pre
-
 km territorio francés
 Departamento
 camp Coetquidan
@@ -4956,7 +4930,6 @@ Formaldehído
 emisiones formaldehído sustancias preparados tratamiento superficies liberen formaldehído inferiores ppm
 Evaluación verificación
 solicitante suministrador presentará ficha datos seguridad materiales declaración equivalente cumplimiento requisito información formulación productos tratamiento superficies
-
 emisiones formaldehído sustancias preparados tratamiento superficies liberen formaldehído inferiores mg aire
 solicitante proveedor presentará declaración certifique cumple requisito información acerca fórmula productos utilizados tratamiento superficie ejemplo fichas datos seguridad resultados pruebas certifiquen valor máximo emisión formaldehído supera límite establecido norma
 página subcriterio

@@ -79,17 +79,14 @@ Sistema minorista
 Comunicado separado sistema pagos minorista
 Número participantes
 Participantes directos
-
 participantes directos
 Administración pública
 Entidad postal
 Organizaciones compensación liquidación
 instituciones financieras
-
 Participantes indirectos
 suprimirá Lista sistemas pago cuadros
 insertará
-
 Préstamos sociedades financieras rama actividad
 BCN presentarán datos sección conforme plantilla dispone datos separados sección conforme plantilla II
 BCN presentarán saldos vivos préstamos sociedades financieras residentes préstamos sociedades financieras miembros participantes caso separado
@@ -160,11 +157,9 @@ método pretende acomodarse BCN siguen procedimiento recopilación datos nivel l
 suprimirá apéndice III
 anexo VI modificará
 anexo VII modificará
-
 Variables efectos lista IFM fines estadísticos
 Nombre variable
 Descripción variable
-
 Especifica tipo actualización institución financiera monetaria IFM enviada tomar valores predefinidos
 especifica información IFM
 especifica información modificaciones IFM existente
@@ -766,9 +761,7 @@ CIPAC
 RSRSclorofenilNciclohexilmetiloxotiazolidinacarboxamida
 junio
 mayo
-
 autorizarse usos acaricida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión hexitiazox particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros deberán prestar especial atención
 miembros afectados pedirán presente información confirmatoria
@@ -971,9 +964,7 @@ CICAP
 RShidroxioxofenilbutilcumarina αacetonilbenzilhidroxicumarina
 octubre
 septiembre
-
 autorizan usos rodenticida forma cebos preparados caso colocados tolvas especialmente construidas
-
 aplicación principios uniformes anexo VI conclusiones informe revisión warfarina apéndices II ultimó Comité permanente cadena alimentaria sanidad animal septiembre
 evaluación global miembros deberán atender especialmente protección operadores aves mamíferos diana
 Deberán tomarse medidas reducción riesgo pertinente
@@ -1362,7 +1353,6 @@ Anexo Homologación unidad técnica independiente homologación tipo vehículo e
 Anexo Masas dimensiones
 ANEXO
 DOCUMENTACIÓN RELATIVA HOMOLOGACIÓN CEPE
-
 Modelo ficha características
 Apéndice
 MODELO FICHA CARACTERÍSTICAS
@@ -1497,7 +1487,6 @@ Masa vehículo carrocería caso vehículo tractor categoría dispositivo acoplam
 Masa máxima carga técnicamente admisible declarada fabricante máximo mínimo
 Distribución dicha masa ejes caso semirremolque remolque eje central carga punto acoplamiento máximo mínimo
 Carga masa máxima técnicamente admisible eje
-
 COMUNICACIÓN
 formato máximo mm mm
 Nombre administración
@@ -1545,7 +1534,6 @@ Número identificación país concedido extendido denegado retirado homologació
 Táchese proceda
 identificación tipo contiene caracteres pertinentes descripción tipo vehículo componente unidad técnica independiente objeto presente ficha características dichos caracteres sustituirán documentación símbolo ejemplo ABC
 arreglo definición figura Resolución consolidada RE
-
 Apéndice
 emitida
 tipo vehículo componente unidad técnica independiente arreglo Reglamento
@@ -1707,8 +1695,6 @@ puerta conductor situada compartimento protegido barrera semejante contabilizar�
 vehículos clases II III puertas ventanas emergencia instalarán trampillas evacuación
 número mínimo trampillas Número viajeros
 Número trampillas
-
-
 Emplazamiento salidas
 vehículos cuya capacidad sobrepase asientos deberán cumplir requisitos figuran continuación
 vehículos cuya capacidad sobrepase asientos cumplir dichos requisitos figuran anexo punto
@@ -1984,7 +1970,6 @@ caso plano perpendicular eje longitudinal simetría vehículo
 Escalones véase anexo figura
 altura máxima mínima sistema inclinación desactivado profundidad mínima escalones viajeros puertas servicio emergencia interior vehículo ajustarán establecido cuadro
 Clases
-
 II III
 escalón suelo
 Altura máxima mm
@@ -2192,7 +2177,6 @@ Calibrador cilíndrico
 Escalones viajeros
 véase anexo punto
 Altura nivel suelo vehículo vacío
-
 escalón suelo
 dimensión necesariamente escalón
 Dimensiones asientos viajeros
@@ -2387,9 +2371,7 @@ Cálculo energía
 caída centro gravedad determina métodos gráficos considerarse viene fórmula
 mgh Nm
 alternativa calcularse fórmula
-
 masa orden marcha vehículo kg
-
 ancho vehículo
 altura centro gravedad vehículo carga
 altura vehículo
@@ -2404,7 +2386,6 @@ número montantes declarados
 número montantes declarados centro gravedad vehículo
 número montantes declarados centro gravedad vehículo
 aplicable únicamente dmáx superior desviación máxima permitida intrusión espacio supervivencia
-
 cantidad energía declarada absorbida montante superestructura
 cantidad energía declarada absorbida montante centro gravedad vehículo
 cantidad energía declarada absorbida montante centro gravedad vehículo
@@ -2450,8 +2431,6 @@ fuerza cierre Ft función temporal medida bordes cierre puerta véase punto pres
 fuerza máxima FS valor máximo fuerza cierre
 fuerza efectiva FE valor fuerza cierre relación duración impulso
 tiempo duración impulso tiempo transcurrido
-
-
 umbral sensibilidad fuerza cierre supera
 umbral debilitamiento fuerza cierre inferior
 relación parámetros muestra figura ejemplo
@@ -2898,7 +2877,6 @@ kg masa viajero
 SSp pasajero espacio convencional viajero pie
 Clases
 Clases III
-
 caso vehículos capacidad variable asientos superficie variable viajeros pie superficie variable transporte sillas ruedas determinarán requisitos puntos requisitos siguientes corresponda
 asientos posibles ocupados seguidos superficie restante viajeros pie límite declarado fabricante alcanza sobra sitio espacios sillas ruedas ocupados
 posibles zonas viajeros pie ocupadas límite declarado fabricante seguidas asientos restantes disponibles sobra sitio espacios sillas ruedas ocupados
@@ -2970,9 +2948,7 @@ instalarse asientos plegables espacio silla ruedas posición plegada dichos asie
 mín
 máx
 Eje central
-
 Adenda certificado homologación
-
 considerarse vehículo pertenece clase caso homologarse vehículo relación clases pertenezca
 símbolo adicional consistirá números romanos correspondientes clase clases homologado vehículo carrocería carrocerías homologadas independiente llevarán letra
 Véase punto presente Reglamento
@@ -3215,7 +3191,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -3229,7 +3204,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -3243,7 +3217,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -4547,7 +4520,6 @@ DO
 Decisión modificada lugar Decisión CE DO
 ANEXO
 ANEXO
-
 Zona establecida conformidad artículo apartado
 Código ISO país
 miembro
@@ -4558,7 +4530,6 @@ caso
 Nombre
 ALEMANIA
 zona km establecida brote municipio Wachenroth incluidos municipios partes
-
 Zona establecida conformidad artículo apartado
 Zona
 municipios
@@ -4790,7 +4761,6 @@ figura presenta cromatograma ceras aceite oliva virgen
 Determinación cuantitativa
 Calcular ayuda integrador áreas picos correspondientes patrón interno ésteres alifáticos
 Determinar contenido ceras ésteres mg kg materia grasa aplicando fórmula
-
 área pico éster milímetros cuadrados
 área pico patrón interno milímetros cuadrados
 masa patrón interno añadido miligramos

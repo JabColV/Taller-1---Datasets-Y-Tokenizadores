@@ -332,7 +332,6 @@ presente Reglamento sustituye Reglamento CEE relativo procedimiento adaptación 
 Recientemente entrado vigor determinadas normas sector leche productos lácteos particular respecta relaciones contractuales negociaciones reglamentación oferta queso denominación origen protegida indicación geográfica protegida declaraciones compradores organizaciones productores asociaciones organizaciones productores organizaciones interprofesionales siguen estando justificadas dados contexto económico actual mercado lácteo estructura cadena suministro
 Comisión presentar informes tardar junio diciembre evolución mercado leche tengan objeto particular posibles incentivos animar agricultores celebrar acuerdos producción conjunta
 ADOPTADO PRESENTE REGLAMENTO
-
 DISPOSICIONES PRELIMINARES
 Artículo
 Ámbito aplicación
@@ -504,7 +503,6 @@ Artículo
 Condiciones concesión ayuda
 lograr transparencia mercado Comisión facultada adoptar caso necesario actos delegados conformidad artículo establezcan condiciones decidirse concesión ayuda almacenamiento privado productos enumerados artículo teniendo
 precios medios registrados mercado Unión umbrales referencia costes producción productos afectados
-
 necesidad responder oportuna situación mercado especialmente difícil evolución económica impacto negativo significativo márgenes sector
 Comisión adoptar actos ejecución
 conceder ayuda almacenamiento privado productos enumerados artículo teniendo condiciones mencionadas apartado presente artículo
@@ -2479,7 +2477,6 @@ Eslovenia
 Eslovaquia
 Reino Unido
 miembros supeditar concesión pagos nacionales refiere apartado agricultores pertenezcan organización productores reconocida arreglo artículo
-
 DISPOSICIONES GENERALES
 Medidas excepcionales
 Perturbaciones mercado
@@ -2626,7 +2623,6 @@ Artículo
 Entrada vigor aplicación
 presente Reglamento entrará vigor publicación Diario Oficial Unión Europea
 aplicable enero
-
 artículo aplicable octubre
 punto II apartado VII anexo VII aplicable enero
 artículos artículo apartado artículo apartado artículo apartado artículos artículo apartado artículo apartado aplicables junio
@@ -2708,10 +2704,8 @@ Raíces mandioca yuca arruruz salep aguaturmas patacas batatas boniatos camotes 
 médula sagú
 Harina cereales trigo morcajo tranquillón
 Harina maíz
-
 cebada
 avena
-
 Grañones sémola pellets cereales grañones sémola trigo subpartida grañones sémola arroz subpartida pellets arroz subpartida
 Granos cereales trabajados ejemplo mondados aplastados copos perlados troceados quebrantados excepción arroz partida copos arroz subpartida
 germen cereales entero aplastado copos molido
@@ -2868,7 +2862,6 @@ Azafrán
 Tomillo fresco refrigerado
 Albahaca toronjil menta Origanum vulgare orégano romero salvia fresco refrigerado
 Algarrobas
-
 Productos transformados base frutas hortalizas
 sector productos transformados base frutas hortalizas comprende productos cuadro
 Hortalizas silvestres cocidas cocidas agua vapor congeladas maíz dulce subpartida aceitunas subpartida pimientos género Capsicum género Pimenta subpartida
@@ -3165,7 +3158,6 @@ Paja cascabillo cereales bruto picados molidos prensados pellets
 Nabos forrajeros remolachas forrajeras raíces forrajeras heno alfalfa trébol esparceta coles forrajeras altramuces vezas productos forrajeros similares pellets
 Harina pellets alfalfa excluidos alfalfa desecada artificialmente alfalfa desecada procedimiento molida
 Remolachas nabos raíces forrajeras
-
 Alfalfa esparceta trébol altramuces vezas productos forrajeros análogos deshidratados artificialmente desecado calor exclusión heno coles forrajeras productos contengan heno
 Alfalfa esparceta trébol altramuces vezas trébol olor almorta serradella desecados procedimiento molidos
 Grasa animales especies bovina ovina caprina partida
@@ -3471,12 +3463,6 @@ entenderá canal cuerpo cerdo sacrificado sangrado eviscerado entero dividido mi
 canales dividirán clases función contenido estimado carne magra clasificarán consecuencia
 Clase
 Contenido carne magra expresado porcentaje peso canal
-
-
-
-
-
-
 canales presentarán lengua cerdas pezuñas órganos genitales manteca riñones diafragma
 Contenido carne magra
 contenido carne magra evaluará métodos clasificación autorizados Comisión
@@ -3508,7 +3494,6 @@ edulcorantes añadidos
 ANEXO VI
 LÍMITES PRESUPUESTARIOS PROGRAMAS APOYO MENCIONADOS ARTÍCULO APARTADO
 miles euros ejercicio presupuestario
-
 República Checa
 Croacia
 Lituania
@@ -3543,7 +3528,6 @@ condiciones refiere apartado aplicarán carne bovinos registrado denominación o
 Indicación obligatoria etiqueta
 perjuicio Directiva CE Parlamento Europeo Consejo Reglamento UE artículos Reglamento CE fase producción comercialización operadores etiquetarán carne procedente bovinos edad inferior meses información
 denominación venta conforme punto II presente
-
 caso carne procedente bovinos edad inferior meses presentada venta embalar lugares venta detalle consumidor miembros decidirán deba indicarse información mencionada punto
 Registro
 fase producción comercialización operadores mantendrán registrada información
@@ -3962,7 +3946,6 @@ Frutado
 maduro verde
 Amargo
 Intenso
-
 Ligero
 Equilibrado
 Aceite dulce
@@ -4530,13 +4513,10 @@ Semillas nabo colza quebrantadas
 Semilla girasol quebrantada
 Semillas frutos esporas siembra
 Excelente
-
-
 Suficiente
 Insuficiente
 débil
 ligero
-
 alto
 alto
 obstante dispuesto letra párrafo operadores reemplazar indicación edad matadero indicación categorías siguientes respectivamente
@@ -4712,7 +4692,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -4945,12 +4924,6 @@ zonas CIEM Consejo Internacional Exploración Mar zonas geográficas especificad
 Skagerrak zona geográfica delimitada oeste línea trazada faro Hanstholm Lindesnes sur línea trazada faro Skagen Tistlarna punto costa sueca
 Kattegat zona geográfica delimitada norte línea trazada faro Skagen Tistlarna punto costa sueca sur líneas trazadas Hasenøre Gnibens Spids Korshage Spodsbjerg Gilbjerg Hoved Kullen
 Unidad Funcional subzona VII CIEM zona geográfica delimitada líneas loxodrómicas unen sucesivamente siguientes posiciones
-
-
-
-
-
-
 Golfo Cádiz zona geográfica división CIEM IXa meridiano longitud
 zonas CPACO Comité Pesca Atlántico CentroOriental zonas geográficas especificadas anexo II Reglamento CE
 TÍTULO II

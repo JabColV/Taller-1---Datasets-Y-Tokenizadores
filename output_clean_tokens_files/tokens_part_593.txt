@@ -1169,7 +1169,6 @@ Directiva cuya modificación constituye Reglamento CE Comisión DO
 Véase Anexo
 DO
 ANEXO
-
 Directiva derogada modificaciones sucesivas
 Directiva CEE Consejo
 DO
@@ -1179,7 +1178,6 @@ Directiva CE Comisión
 DO
 Reglamento CE Comisión
 DO
-
 Plazos transposición Derecho nacional
 contemplados artículo
 Directiva
@@ -1538,9 +1536,7 @@ metoxietanol kg
 Ndimetilformamida kg
 junio
 mayo
-
 autorizarse usos fitorregulador trigo producción semillas híbridas destinadas consumo humano
-
 aplicación principios uniformes anexo VI conclusiones informe revisión sintofeno particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros deberán prestar especial atención seguridad trabajadores velar condiciones incluyan aplicación medidas adecuadas reducción riesgo
 Deberán garantizar trigo tratado sintofeno cadena alimentación humana animal
@@ -2066,7 +2062,6 @@ Valor período muestreo
 Valor mediciones puntuales periódicas período mínimo minutos indicación contrario
 Conversión concentración oxígeno referencia
 fórmula calcular concentración emisiones nivel oxígeno referencia
-
 concentración emisiones corregida nivel oxígeno referencia OR
 vol
 nivel oxígeno referencia

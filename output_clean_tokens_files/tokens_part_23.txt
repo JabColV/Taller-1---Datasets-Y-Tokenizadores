@@ -24,7 +24,6 @@ ANEXO II
 Página
 CAPÍTULO DISPOSICIONES GENERALES
 OBJETO
-
 PARTICIPACIÓN
 INFORMACIÓN DISPONIBLE PARTICIPANTES
 ÁMBITO APLICACIÓN
@@ -682,7 +681,6 @@ participantes revisarán periódicamente disposiciones sectorial tardar finales 
 obstante casos comprador subestaciones transformadoras central eléctrica contrato celebre relación subestaciones transformadoras originales central eléctrica términos condiciones subestación transformadora original favorables central nuclear
 ANEXO III
 SECTORIAL CRÉDITO EXPORTACIÓN AERONAVES CIVILES
-
 OBJETO objeto presente sectorial crear marco previsible coherente transparente créditos exportación apoyo oficial venta arrendamiento financiero aeronaves bienes servicios previstos artículo letra
 presente sectorial persigue fomentar igualdad condiciones respecta dichos créditos exportación fomentar competencia exportadores basada calidad precio bienes servicios exportados condiciones financieras favorables gracias apoyo oficial
 presente sectorial establece condiciones favorables apoyo oficial concederse créditos exportación
@@ -712,7 +710,6 @@ ACCIONES DESTINADAS EVITAR REDUCIR PÉRDIDAS
 presente sectorial impide participantes aceptar condiciones financieras restrictivas establecidas acción produce contrato crédito exportación anexos hayan entrado vigor destina exclusivamente evitar reducir pérdidas frente situaciones pudieran lugar impagos reclamaciones
 participante comunicará modificación condiciones financieras participantes Secretaría OCDE Secretaría plazo veinte laborables comprador prestatario
 comunicación presentará información incluida justificación condiciones financieras formulario figura apéndice IV
-
 AERONAVES
 Cobertura
 efectos presente sectorial entiende aeronave aeronave inclusión motores equipos propiedad fabricante entregada utilizada previamente finalidad prevista transporte pasajeros mercancía
@@ -746,7 +743,6 @@ alternativa participantes pagar tasa principio importe desembolsado momento dese
 COFINANCIACIÓN
 obstante dispuesto artículos cofinanciación preste apoyo oficial forma crédito directo garantía pura represente importe apoyo oficial participante proporcione crédito directo aplicará condiciones financieras incluidas tasas entidad financiera garantía pura generar equivalencia global costes prestador garantía pura prestamista directo
 tales circunstancias participante proporcione apoyo comunicará condiciones financieras incluidas tasas formulario figura apéndice IV
-
 AERONAVES USADAS PIEZAS MOTORES REPUESTO CONTRATOS MANTENIMIENTO SERVICIO
 AERONAVES USADAS BIENES SERVICIOS
 sectorial aplicable aeronaves usadas piezas motores repuesto transformación avión transporte modificaciones sustanciales renovación aeronaves contratos mantenimiento servicio aeronaves kits motores usados
@@ -756,7 +752,6 @@ plazo máximo reembolso aeronaves usadas establecerá función edad
 Edad aeronave
 Operaciones respaldadas activos soberanas
 Operaciones distintas respaldadas activos soberanas
-
 años valor contrato superior millones USD
 años valor contrato inferior millones USD
 CONTRATOS TRANSFORMACIÓN AVIÓN TRANSPORTE MODIFICACIONES SUSTANCIALES RENOVACIÓN AERONAVES
@@ -765,7 +760,6 @@ CONTRATOS MANTENIMIENTO SERVICIO
 participantes conceder apoyo oficial período reembolso años
 KITS MOTORES
 participantes conceder apoyo oficial período reembolso años
-
 PROCEDIMIENTOS TRANSPARENCIA
 comunicaciones corresponsales designados país participante efectuarán medios comunicación inmediata ejemplo sistema OLIS OCDE
 acuerde cosa información intercambiada virtud sectorial tratada participantes carácter confidencial
@@ -803,7 +797,6 @@ participante proceda alineamiento procurará medios verificarlas
 participante proceda alineamiento informará Secretaría participantes naturaleza resultado esfuerzos condiciones pretende prestar apoyo naturales comprometerse
 participante competidor solicita debate período participante inicial deberá esperar naturales comprometerse tales términos
 participante proceda alineamiento modifica retira propósito apoyo condiciones notificadas deberá informar inmediatamente participantes
-
 SUPERVISIÓN REVISIÓN
 Secretaría supervisará aplicación presente sectorial informará participantes año
 operación considerada subvencionable virtud artículo letra notificará conformidad dispuesto letra artículo apéndice IV
@@ -824,7 +817,6 @@ revisión mencionada letra punto deberá
 medida alcanzado objetivos presente sectorial establecido artículo cuestión participante presente debate
 vista elementos mencionados letra punto justificado modificar aspecto presente sectorial
 reconocimiento importancia proceso revisión garantizar condiciones presente sectorial siguen respondiendo necesidades participantes participante reserva derecho retirarse presente sectorial conformidad artículo
-
 prácticas participantes materia apoyo oficial punto arranque crédito
 disposiciones aplicables préstamos indirectos
 prórroga tenor artículo plazos máximos reembolso aeronaves usadas hayan sometido renovación significativa venta
@@ -832,7 +824,6 @@ prórroga tenor artículo plazos máximos reembolso caso contratos valor
 disposiciones aplicables renovación artículo servicios artículo
 proceso admisibilidad Convenio Ciudad Cabo
 definición participante interesado
-
 DISPOSICIONES FINALES
 ENTRADA VIGOR
 fecha entrada vigor presente sectorial febrero
@@ -929,8 +920,6 @@ Cuadro
 Evaluación LGD
 Media móvil años
 LGD considerado
-
-
 factor ajuste RBR determina
 factor ajuste RBR
 actualizar RBR multiplica factor ajuste RBR RBR establecido cuadro
@@ -938,7 +927,6 @@ actualización lugar trimestre RBR resultantes aplicarán abril
 ulteriores actualizaciones RBR aplicarán abril año sucesivo
 establecidos RBR resultantes actualización anual Secretaría comunicará inmediatamente participantes tipos aplicables hará públicos
 categoría riesgo recargo relacionado mercado MRS calculará
-
 coeficiente ponderación varía función categoría riesgo cuadro
 MCS media móvil noventa márgenes medianos crédito MCS Moody’s cuya vida media años
 categorías riesgos contienen clasificaciones riesgos determina media márgenes correspondientes
@@ -958,7 +946,6 @@ MRS aplica positivo supera puntos básicos
 incremento tipos mínimos primas resultantes actualización MRS superará tipos mínimos prima trimestre
 tipos mínimos primas sumatorio RBR MRS superarán RBR
 determinar tipos mínimos prima riesgo utilizará fórmula Net MPR
-
 RTAS representa recargo ajuste período reembolso establecido artículo letra presente sectorial
 RFAS recargo ajuste frecuencia establecido artículos presente sectorial
 RMRS representa recargo sustitución factor limitación riesgo establecido artículo letra presente apéndice
@@ -1444,13 +1431,9 @@ categoría riesgo comprador aplicable selecciona cuadro proporciona combinacione
 descripciones cualitativas categoría riesgo comprador SOV CC establecido facilitar clasificación deudores garantes presentan anexo XII
 Categoría riesgo país
 AA AA
-
 BBB BBB
 BB BB
-
 BB
-
-
 categoría riesgo comprador elegida combinación categoría riesgo país aplicable determina coeficiente riesgo comprador cin obtiene tabla
 Categoría riesgo comprador
 Horizonte riesgo HOR
@@ -2034,7 +2017,6 @@ Toronjas Pamplemusa pomelo pomelit tangelo minneola ugli híbridos
 Limones cidro limón
 Limas
 Mandarinas clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -2862,7 +2844,6 @@ DO
 DO
 ANEXO
 Disposiciones administrativas homologación tipo vehículos respecta acceso maniobrabilidad
-
 Ficha características
 MODELO
 Ficha características relativa homologación tipo CE vehículo respecta acceso maniobrabilidad
@@ -2893,7 +2874,6 @@ Puertas ocupantes cerraduras bisagras
 Configuración número puertas
 Detalles incluidas dimensiones entradas escalones asideros necesarios procede
 Notas explicativas
-
 Certificado homologación tipo CE
 Formato mm
 CERTIFICADO HOMOLOGACIÓN TIPO CE
@@ -3109,9 +3089,7 @@ CICAP
 impureza fabricación isómero aminocloro importancia toxicológica establecido nivel máximo kg
 enero
 diciembre
-
 autorizar usos herbicida aplicaciones máximo kg años campo
-
 aplicación principios uniformes anexo VI conclusiones informe revisión cloridazón particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal diciembre
 evaluación general miembros deberán prestar especial atención
 seguridad operarios velando condiciones exija utilización equipos protección individual adecuados
@@ -4512,11 +4490,8 @@ Año referencia
 Año referencia
 Año referencia
 Año referencia
-
 casos desconozca año nacimiento redistribuirán utilizando mejores estimaciones nacionales
 Año nacimiento madre
-
-
 desglose grupos edad años AGEL pide años obstante Eurostat difundirá datos grupos años edad años NUTS
 desglose año edad AGEH pide años obstante Eurostat difundirá datos año edad años nacional NUTS
 desglose año nacimiento YOBH solicita año referencia años obstante Eurostat difundirá datos año nacimiento año referencia años nacional NUTS

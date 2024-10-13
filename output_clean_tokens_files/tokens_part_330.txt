@@ -480,7 +480,6 @@ CLASE MOTORES
 HABILITACIÓN PISTÓN
 CV
 CLASE ELEMENTOS MOTORES COMPLETOS APU
-
 END
 MÉTODOS END ESPECIFICAR
 Conviene señalar autoridad competente limitar alcance aprobación tipo organizaciones función capacidad
@@ -491,7 +490,6 @@ Aviones kg
 Habilitación reservada organizaciones mantenimiento aprobadas conformidad anexo II
 indicará fabricante grupo serie tipo aviones tareas mantenimiento
 Ejemplo Airbus Serie
-
 Aviones kg
 Ejemplo Serie DHC Twin Otter
 Helicópteros
@@ -594,7 +592,6 @@ Tipo serie grupo aeronave
 Revisión aeronavegabilidad aprobada
 Autorización vuelo
 Organización organizaciones trabajan sistema calidad
-
 lista aprobación limita especificado alcance aprobación figura sección memoria gestión mantenimiento aeronavegabilidad aprobada
 Referencia memoria gestión mantenimiento aeronavegabilidad
 Fecha presente revisión
@@ -626,7 +623,6 @@ Apéndice II Clases habilitaciones utilizadas aprobación organizaciones manteni
 Apéndice III Aprobación organización mantenimiento contemplada anexo II
 Apéndice IV Condiciones utilización personal cualificado conformidad puntos
 título sección sustituye texto
-
 REQUISITOS TÉCNICOS
 punto sustituye texto
 solicitudes concesión modificación aprobaciones presentarán autoridad competente forma establezca dicha autoridad
@@ -674,7 +670,6 @@ presente aprobación exige cumplimiento procedimientos especificados memoria org
 presente aprobación válida organización mantenimiento aprobada cumpla dispuesto anexo II Reglamento CE
 Formulario EASA edición
 Referencia CÓDIGO MIEMBRO XXXX
-
 presente lista aprobación limita productos componentes equipos actividades especificados sección alcance trabajos memoria organización gestión mantenimiento aprobada
 Referencia memoria organización mantenimiento
 Fecha expedición original
@@ -868,9 +863,7 @@ limitaciones aplicables página LIMITACIONES figurará mención limitaciones
 utilice formato preimpreso casilla categoría subcategoría habilitación tipo contenga anotación habilitación marcará oportunamente indicar extremo
 Ejemplo licencia mantenimiento aeronaves arreglo anexo III
 UNIÓN EUROPEA
-
 NOMBRE LOGOTIPO AUTORIDAD
-
 LICENCIA MANTENIMIENTO AERONAVES
 Licencia
 CÓDIGO MIEMBROXXXX
@@ -1265,7 +1258,6 @@ Método calcular índice eficiencia energética eficiencia condensación pondera
 CÁLCULO ÍNDICE EFICIENCIA ENERGÉTICA
 calcular índice eficiencia energética IEE modelo secadora tambor doméstica compara consumo energía anual ponderado secadora tambor doméstica programa normal algodón carga completa carga parcial consumo energía anual normalizado
 índice eficiencia energética IEE EEI siglas inglés calcula redondea decimal
-
 consumo energía anual ponderado secadora tambor doméstica
 consumo energía anual normalizado secadora tambor doméstica
 consumo energía anual normalizado SAEC calcula kWh año redondea decimal
@@ -1653,7 +1645,6 @@ orden ensayo ciclo ensayos juegos neumáticos candidatos juego neumáticos refer
 Elaboración resultados mediciones
 Cálculo deceleración mediaAD
 deceleración media AD calcula ms– ensayo válido
-
 Sf velocidad m·s Sf kmh m·s
 Validación resultados
 Validación resultados
@@ -2361,7 +2352,6 @@ ANEXO
 perjuicio reglas interpretación Nomenclatura combinada considerarse designación productos valor meramente indicativo contexto presente anexo concesiones determinadas ámbito cubierto códigos NC vigentes momento adoptarse presente Reglamento
 indican códigos ex NC concesiones determinarse aplicación código NC designación correspondiente considerados conjunto
 designación arancelaria exacta CE aplicará líneas arancelarias contingentes mencionados
-
 Lista derechos aduana
 Código NC
 Designación mercancía

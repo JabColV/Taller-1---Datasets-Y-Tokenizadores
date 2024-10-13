@@ -2037,7 +2037,6 @@ hongos pienso alimento compuesto contiene productos originarios prefectura Yaman
 piensos alimentos incluidos anexo IV Reglamento UE pienso alimento compuesto contiene productos originarios prefecturas Fukushima Gunma Ibaraki Tochigi Miyagi Saitama Tokio Chiba Kanagawa Iwate sometidos muestreo fecha objeto análisis laboratorio fecha nombre laboratorio determinar nivel radionúclidos cesio cesio
 piensos alimentos origen desconocido contienen ingredientes origen desconocido sometido muestreo fecha objeto análisis laboratorio fecha nombre laboratorio determinar nivel radionúclidos cesio cesio
 adjunta informe análisis
-
 Sello firma representante autorizado refiere artículo apartados Reglamento Ejecución UE
 cumplimentar autoridad competente puesto inspección fronterizo punto entrada designado
 envío aceptado presentación autoridades aduaneras vistas despacho libre práctica Unión
@@ -2156,7 +2155,6 @@ Productos destinados alimentación animal
 Contenido máximo mg kg ppm piensos calculado base contenido humedad
 Arsénico
 Materias primas piensos
-
 harina hierbas alfalfa trébol deshidratados pulpa deshidratada remolacha azucarera pulpa deshidratada melazas remolacha azucarera
 harina palmiste obtenida presión
 fosfatos algas marinas calcáreas
@@ -2220,7 +2218,6 @@ Hayuco cáscara Fagus sylvatica
 semillas frutos derivados procesados presentes piensos cantidades mínimas determinables cuantitativamente
 Frailejón Jatropha curcas
 Semillas Ambrosia spp
-
 mijo granos Panicum miliaceum sorgo granos Sorghum bicolor Moench sl dados directamente alimento animales
 Piensos compuestos contienen granos semillas molidos
 Semillas
@@ -2466,12 +2463,10 @@ civil
 soltero
 divorciado
 separado
-
 casado
 contrajo nupcias
 viudo
 convivencia
-
 Número identificación fiscal
 Código distrito fiscal
 Fecha matrimonio inicio convivencia
@@ -2494,11 +2489,9 @@ Número afiliación institución registro
 Referencia expediente institución instructora
 persona asegurada continúa ejerciendo actividad remunerada
 ajena
-
 funcionario bis
 conlleva afiliación obligatoria seguro pensiones
 persona asegurada dejado ejercer actividad remunerada
-
 persona asegurada previsto dejar ejercer actividad remunerada
 persona asegurada previsto ejercer actividad remunerada
 precisar tipo actividad
@@ -2643,9 +2636,6 @@ Procede
 procede
 aplicar retenciones efectos recuperar cantidades abonadas indebidamente arreglo artículo Reglamento CEE n°
 atrasos pago pensión abonarse directamente beneficiario
-
-
-
 adjunta
 formulario informe médico disponible
 ruega enviar
@@ -2765,7 +2755,6 @@ dirección
 derecho percibir prestaciones subsidios familiares virtud ejercicio actividad profesional
 artículo apartado Reglamento CEE n°
 importe
-
 responsables pago dichas prestaciones subsidios familiares instituciones siguientes
 denominación
 hijo mencionado línea n° punto apto trabajar
@@ -2879,7 +2868,6 @@ recibirá
 remuneración similar prestación económica equivalente cese Cuerpo
 pensión régimen general régimen especial trabajadores campo pensión jubilación jueces fiscales pensión supervivencia cuyo sujeto causante juez fiscal jubilado prestación jubilación anticipada prestación económica financiada Fondo desempleo
 caso recibir prestaciones indicar número prestación fecha viene abonando institución responsable pago
-
 partícipe fondo pensiones
 tramitación pensión militar solicitante indicar nombre unidad destinado reserva antiguo soldado profesional baja fecha baja
 solicitante declara recibirá remuneración similar prestación económica equivalente baja servicio
@@ -2967,7 +2955,6 @@ Sexo
 Apellidos nombre padre
 Apellidos nacimiento nombre madre
 divorciado
-
 contrajo nupcias
 Compartían convivientes domicilio fecha fallecimiento
 Nacionalidad
@@ -2983,7 +2970,6 @@ continuaba ejerciendo actividad profesional remunerada bis
 dejado ejercer actividad profesional remunerada bis
 Fecha lugar nacimiento
 Defunción
-
 presume
 consecuencia accidente trabajo enfermedad profesional
 Defunción
@@ -2997,8 +2983,6 @@ fecha celebración matrimonio persona asegurada
 titular pensión régimen
 funcionarios bis
 fecha defunción persona asegurada
-
-
 fecha defunción persona fallecida trabajador ajena
 asegurado arreglo legislación seguro supervivencia
 tipo pensión
@@ -3067,7 +3051,6 @@ Denominación institución
 viudo viuda cargo hijo
 cargo hijo percibe subsidio familiar pensión orfandad
 determinar
-
 recursos viudo
 naturaleza
 importe
@@ -3077,7 +3060,6 @@ Información complementaria aplicación disposiciones materia acumulación prest
 institución instituciones responsables concedan prestaciones tipo reducirse pensión calculada institución instructora
 tomarse consideración prestaciones especificadas punto
 ingresos distintos prestaciones especificadas punto
-
 institución responsable precisar pensión derivada cotizaciones voluntarias punto formulario
 prestaciones debidas institución instructora basan parcial totalmente cotizaciones voluntarias
 Hijos
@@ -3226,7 +3208,6 @@ ingresos
 refiere hijo menciona línea n° punto persona
 apellidos nombre
 importe
-
 Denominación
 Dirección
 hijo mencionado línea n° punto apto trabajar
@@ -3498,7 +3479,6 @@ cuantía salario
 número horas trabajadas
 Fecha cese actividad remunerada
 ajena
-
 funcionario bis
 ejerce actividad indicar cuantía ingresos actividad autónoma Tipo actividad
 ingresos conocidos importe naturaleza
@@ -3549,7 +3529,6 @@ Información relativa miembros familia persona asegurada
 Cónyuge
 Conviviente
 identificación afiliación
-
 convivencia cesó
 tipo ingresos
 caso indicar cuantía
@@ -3769,7 +3748,6 @@ Periodos seguro
 Periodos asimilados
 Ocupación
 Observaciones
-
 continuación
 Año enero diciembre trabajadores ajena
 continuación
@@ -3817,7 +3795,6 @@ cuantía prestación
 Tipo
 Periodo seguro arreglo régimen seguridad social checa
 periodos computables únicamente nacimiento derecho prestaciones
-
 periodos computables únicamente cálculo prestaciones
 Notas observaciones
 beneficiarse
@@ -3834,7 +3811,6 @@ Periodos residencia periodos asimilados cubiertos arreglo Ley pensiones sociales
 Periodos residencia
 Año
 Años
-
 Meses
 Periodo seguro arreglo regímenes daneses seguridad social
 Observaciones
@@ -3914,12 +3890,10 @@ Periodos asimilados periodos seguro
 Regímenes
 Ocupación
 Periodos seguro
-
 Tipo explotación
 Profesión
 Actividades subterráneas
 Periodos interrupción actividad
-
 Meses
 Motivo interrupción
 Duración actividad
@@ -4010,7 +3984,6 @@ trabajadores minería ejercen actividad explotaciones similares conforme legisla
 CERTIFICACIÓN RELATIVA VIDA LABORAL LETONIA
 Periodos seguro
 Periodos asimilados periodos seguro
-
 Observaciones
 Periodo seguro computable arreglo régimen seguridad social letón nacimiento derecho cálculo prestaciones
 Código país pertenece institución cumplimenta formulario LV Letonia
@@ -4231,7 +4204,6 @@ Apellidos nacimiento
 Periodos seguro
 Tipo ocupación
 Periodo seguro marco régimen eslovaco seguridad social
-
 Código país pertenece institución instrucción SK Eslovaquia
 Véanse Instrucciones página
 CERTIFICACIÓN RELATIVA VIDA LABORAL FINLANDIA
@@ -4406,7 +4378,6 @@ Periodos empleo
 Duración
 Años
 Meses
-
 Domicilios Suecia
 caso pensión supervivencia periodos mencionados refieren persona fallecida
 persona solicitante fallecida ejerció Suecia actividad ajena adjuntar documentos justificativos
@@ -4451,7 +4422,6 @@ actividad profesional actividad funcionario
 especificar
 artículo apartado Reglamento CEE n°
 Número pagos mensuales año
-
 Importe mensual caso aplicación artículo bis apartado letra artículo quater Reglamento CEE n° artículo apartado Reglamento CEE n°
 importe concedida base seguro voluntario artículo bis apartado letra Reglamento CEE n° cumplimentar únicamente solicitud institución instructora
 Importe mensual impuestos etc artículo bis apartado letra Reglamento CEE n° caso aplicación artículo quater Reglamento CEE n° artículo apartado Reglamento CEE n°
@@ -4536,14 +4506,12 @@ Tipo empleo actual
 Accidentes laborales Enfermedades profesionales
 Características empleo
 Cese actividad laboral
-
 Número horas trabajo
 Resultados reconocimiento médico
 general
 Talla cm
 Peso kg
 nutrición
-
 exceso peso
 falta peso
 Membranas mucosas
@@ -4556,7 +4524,6 @@ Oído
 Cuello observaciones externas
 Examen glándula tiroides
 Ganglios linfáticos
-
 Aparato respiratorio
 Sistema circulatorio
 Corazón
@@ -4609,7 +4576,6 @@ cambios
 mejoría
 persona asegurada capaz forma regular trabajo tipo
 pesado
-
 tenerse siguientes restricciones
 evitará trabajo lugar húmedo
 lugar frío
@@ -4655,7 +4621,6 @@ mejorar salud actual
 rehabilitación médica rehabilitación profesional
 caso afirmativo indicar medidas
 mejorarse capacidad trabajo
-
 responder
 necesario reconocimiento futuro
 caso afirmativo indicar fecha
@@ -4671,7 +4636,6 @@ Preguntas
 Respuestas
 persona asegurada
 Raramente
-
 Regularmente
 restricciones
 sentarse
@@ -4745,14 +4709,12 @@ enfermedad profesional
 fecha inicio enfermedad profesional
 circunstancias detalles
 Requiere persona examinada asistencia permanente plazo personas
-
 movilidad hogar
 alimentarse
 mantener higiene personal
 funciones corporales
 actividades diarias hogar
 Constituye mental persona examinada motivo requiera asistencia permanente plazo personas
-
 Cumplimentar caso persona padezca problema salud mental
 enfermedad psiquiátrica caso afirmativo especificar
 marcado casillas punto responder preguntas
@@ -4773,7 +4735,6 @@ Reglamento CEE n° artículo artículo
 Institución destinataria formulario
 Pensionista
 separado cónyuge
-
 contrajo nupcias
 viudo
 Número identificación institución instructora
@@ -4832,7 +4793,6 @@ Importe retribución
 Retribución
 trabajador válido asalariado comparable duración normal trabajo
 horas
-
 Período correspondiente retribución mencionada
 titular pensión falleció
 Observaciones
@@ -4873,7 +4833,6 @@ Nombre hijo hijos
 Conviviente
 titular pensión anteriormente casado conviviente
 titular pensión hijos conviviente
-
 ingresos conocidos
 Cumplimentar formulario destinado institución austriaca belga británica danesa española francesa irlandesa islandesa italiana neerlandesa noruega
 ingresos anuales tipo especifíquense
@@ -4897,7 +4856,6 @@ Información obligatoria personas aseguradas nacionalidad española francesa ita
 nacidos España indicar provincia
 instituciones españolas trate trabajadores mar acompañará fotocopia libretas navegación país emite certificado
 formulario deberá cumplimentarse caracteres imprenta utilizando únicamente líneas puntos compone páginas suprimirse contenga información pertinente
-
 bis Minería
 Actividades cielo abierto
 Observaciones
@@ -4978,7 +4936,6 @@ Funcionarios
 instituciones maltesas indicar número documento identidad caso ciudadanos malteses seguridad social caso ciudadanos malteses
 Duración periodo
 actividad
-
 Información necesaria trabajador nacional español formulario enviarse institución francesa independientemente nacionalidad trabajador
 persona interesada servido fuerzas armadas españolas adjuntar copia cartilla militar formulario defecto constar siguientes datos reemplazo ejército función provincia reclutamiento lugar residencia inmediatamente licenciamiento
 localidades portuguesas indicar parroquia municipio

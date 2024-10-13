@@ -15,7 +15,6 @@ eventuales residuos plaguicidas rebasan límites autorizados Reglamento CE
 contiene contaminantes cantidades superiores máximos tolerados establece Reglamento CE
 Notas
 presente certificado utilizará leche cruda procedente terceros países zonas terceros países autorizados columna anexo Reglamento UE destinada transformada Unión Europea utilizarse consumo humano
-
 Casilla indicar nombre código ISO país país figuran anexo Reglamento UE
 Casilla indicar nombre dirección número autorización establecimiento expedición
 Casilla indicar número registro vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos
@@ -93,7 +92,6 @@ presente certificado utilizará productos lácteos aptos consumo humano proceden
 Casilla indicar nombre dirección número autorización establecimiento expedición
 Casilla utilizar código apropiado Sistema Armonizado SA Organización Mundial Aduanas
 Tachar corresponda
-
 Modelo MilkT
 Certificado zoosanitario leche cruda productos lácteos aptos consumo humano destinados tránsitoalmacenamiento Unión Europea
 Persona responsable envío UE
@@ -245,7 +243,6 @@ ANEXO
 ANEXO
 Zona gestión millas islas maltesas
 Zonas proximidades islas maltesas autoriza arrastre coordenadas geográficas
-
 Coordenadas geográficas puntos intermedios isóbata zona gestión millas
 Latitud
 Longitud
@@ -869,9 +866,7 @@ Tiofosfato OdietiloOtricloropiridilo
 impureza ditiopirofosfato Otetraetilo sulfotep importancia toxicológica contenido máximo queda fijado Kg
 julio
 junio
-
 autorizar usos insecticida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión clorpirifos particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal junio
 miembros atender especialmente protección aves mamíferos organismos acuáticos abejas artrópodos diana velar condiciones autorización incluyan medidas reducción riesgo proceda tales establecimiento zonas seguridad
 miembros solicitarán presenten estudios adicionales confirmar evaluación riesgo aves mamíferos
@@ -1435,7 +1430,6 @@ DO
 DO
 DO
 ANEXO
-
 Combinaciones plaguicidas productos controlarse interior superficie mercancías origen vegetal
 Observaciones
 Nota analizará vino naranjas mandarinas berenjenas coliflores uvas mesa
@@ -1568,7 +1562,6 @@ Trifluralina
 Triticonazol
 Vinclozolina
 Zoxamida
-
 Aldrín dieldrín
 Nota Definición residuo suma aldrín dieldrín expresada dieldrín
 Azinfósetilo
@@ -1704,7 +1697,6 @@ LOQ resultado
 Límite cuantificación notificado unidad indicada variable Unidad resultado
 Valor resultado
 resultado medida analítica notificado mg kg tipo resultado VAL
-
 Valor resultado corregido función recuperación
 Defínase valor resultado corregido cálculo función recuperación
 Desviación estándar incertidumbre valor resultado
@@ -1911,7 +1903,6 @@ Instrumentos mercado monetario
 inversión
 Intereses conforme MBP ajustados SIFMI
 Rentas atribuidas asegurados
-
 Partida pro memoria
 rentas inversión intereses conforme SCN ajustados SIFMI
 valor SIFMI
@@ -1994,7 +1985,6 @@ cuadro sustituye cuadro
 CUADRO
 Contribuciones nacionales anuales posición inversión internacional zona euro
 Inversión directa
-
 Saldos acciones sociedades extranjeras cotizan Bolsa valores mercado
 Saldos acciones sociedades extranjeras cotizan Bolsa valores contables
 Saldos acciones sociedades extranjeras cotizan Bolsa valores contables

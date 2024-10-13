@@ -193,7 +193,6 @@ alúmina suele consistir material desecado preparado justo reacción sulfato clo
 formada laca producto filtra lava agua seca
 producto terminado presente fracción alúmina reaccionado
 Materia insoluble HCl
-
 Materia insoluble NaOH
 eritrosina
 Materia extraíble éter
@@ -257,7 +256,6 @@ Rotación específica
 Pérdida desecación
 °C
 Cenizas sulfatadas
-
 Aminas aromáticas primarias
 mg kg expresados anilina
 mg kg
@@ -274,7 +272,6 @@ proporción
 proporción
 αD and solución HCl molar
 °C horas vacío PO forma dihidratada
-
 Fosfatos inorgánicos
 expresados PO sustancia anhidra
 Colorantes secundarios
@@ -296,11 +293,8 @@ Apariencia solución
 Amarilla
 Máximo agua nm
 Materia insoluble agua
-
-
 Compuestos orgánicos distintos colorantes
 ácido hidracinobencenosulfónico
-
 ácidoaminobencenosulfónico
 ácido oxosulfofenilpirazolinacarboxílico
 ácido ′diazoaminodibencenosulfónico
@@ -324,7 +318,6 @@ consistirá quinolil indanodionatrisulfonato trisódico
 componente principal nm solución acuosa ácido acético
 Polvo gránulos amarillos
 Máximo solución acuosa ácido acético pH nm
-
 metilquinolina
 ácido metilquinolinasulfónico
 ácido ftálico
@@ -344,7 +337,6 @@ nm solución acuosa pH
 Polvo gránulos color rojo anaranjado
 Naranja
 Máximo agua nm pH
-
 fenilazonaftalenol Sudan
 mg kg
 ácido hidroxinaftalenodisulfónico
@@ -377,7 +369,6 @@ nm solución acuosa
 Polvo gránulos color rojo castaño
 Roja
 Máximo agua nm
-
 ácido aminonaftalenosulfónico
 ácido hidroxinaftalenosulfónico
 AMARANTO
@@ -388,7 +379,6 @@ hidroxisulfonatonaftilazo naftalenodisulfonato trisódico
 nm solución acuosa
 Polvo gránulos color marrón rojizo
 Máximo agua nm
-
 ácido hidroxinaftalenotrisulfónico
 PONCEAU ROJO COCHINILLA
 ponceau consiste fundamentalmente hidroxisulfonatonaftilazo naftalenodisulfonato trisódico colorantes secundarios cloruro sódico sulfato sódico principales componentes incoloros
@@ -426,7 +416,6 @@ nm solución acuosa pH
 Polvo gránulos color rojo oscuro
 Máximo agua nm
 sal sódica ácido hidroxinaftalensulfónico
-
 ácido aminometoximetilbencenosulfónico
 sal disódica ácido oxibis naftalensulfónico
 solución pH
@@ -442,7 +431,6 @@ nm solución acuosa pH
 Polvo gránulos color azul oscuro
 Azul
 Máximo agua nm pH
-
 hidroxibenzaldehído
 ácido hidroxibenzoico
 ácido hidroxisulfobenzoico
@@ -472,9 +460,7 @@ alfaNetilsulfonatobencilaminofenilalfaNetilsulfonatobencilamino ciclohexadienili
 nm solución acuosa
 Polvo gránulos color azul rojizo
 Máximo agua nm
-
 conjunto ácidos formilbencenosulfónico
-
 ácido etilsulfofenil amino metilbencenosulfónico
 pH
 CLOROFILAS
@@ -578,43 +564,32 @@ caramelo natural prepara tratamiento térmico controlado hidratos carbono edulco
 activar caramelización emplearse ácidos álcalis sales compuestos amónicos sulfitos
 Líquidos sólidos color castaño oscuro negro
 Colorante ligado celulosa DEAE
-
 Colorante ligado fosforilcelulosa
 Intensidad color
 Nitrógeno
 Azufre
 CARAMELO SULFITO CÁUSTICO
 caramelo sulfito cáustico prepara tratamiento térmico controlado hidratos carbono edulcorantes nutritivos calidad alimentaria disponibles mercado monómeros glucosa fructosa polímeros ejemplo jarabes glucosa sacarosa jarabe invertido dextrosa ácidos álcalis presencia compuestos sulfíticos ácido sulfuroso sulfito potásico bisulfito potásico sulfito sódico bisulfito sódico utilicen compuestos amónicos
-
 Intensidad color
-
 Dióxido azufre
-
 Azufre ligado celulosa DEAE
-
 Relación absorbencia colorante ligado celulosa DEAE
 Relación absorbencia
-
 CARAMELO AMÓNICO
 caramelo amónico prepara tratamiento térmico controlado hidratos carbono edulcorantes nutritivos calidad alimentaria disponibles mercado monómeros glucosa fructosa polímeros ejemplo jarabes glucosa sacarosa jarabe invertido dextrosa ácidos álcalis presencia compuestos amónicos hidróxido amónico carbonato amónico carbonato ácido amónico fosfato amónico utilicen compuestos sulfíticos
 Intensidad color
 Nitrógeno amoniacal
-
 metilimidazol
 mg kg
 acetiltetrahidroxibutilimidazol
 mg kg
-
 Relación absorbencia colorante ligado fosforilcelulosa
 CARAMELO SULFITO AMÓNICO
 caramelo sulfito amónico prepara tratamiento térmico controlado hidratos carbono edulcorantes nutritivos calidad alimentaria disponibles mercado monómeros glucosa fructosa polímeros ejemplo jarabes glucosa sacarosa jarabe invertido dextrosa ácidos álcalis presencia compuestos sulfíticos amónicos ácido sulfuroso sulfito potásico bisulfito potásico sulfito sódico bisulfito sódico hidróxido amónico carbonato amónico carbonato ácido amónico fosfato amónico sulfato amónico sulfito amónico sulfito ácido amónico
 Intensidad color
-
-
 mg kg
 Relación nitrógeno azufre precipitado alcohólico
 Relación absorbencia precipitado alcohólico
-
 NEGRO BRILLANTE BN NEGRO PN
 negro brillante BN consiste fundamentalmente acetamidohidroxisulfonatosulfonatofenilazonaftilazo naftalenodisulfonato tetrasódico colorantes secundarios cloruro sódico sulfato sódico principales componentes incoloros
 negro brillante BN describe sal sódica
@@ -625,7 +600,6 @@ Negra azulada
 Máximo agua nm
 expresado contenido colorante
 ácido acetamidohidroxinaftalenodisulfónico
-
 ácido aminohidroxinaftalenodisulfónico
 ácido aminonaftalenosulfónico
 ácido ′diazoaminodibencenosulfónico
@@ -665,7 +639,6 @@ Marrón
 Máximo agua pH nm
 cromatografía capa fina
 ácido aminonaftalenosulfónico
-
 solución pH
 BETACAROTENO
 especificaciones aplican predominantemente isómeros trans betacaroteno pequeñas cantidades carotenoides
@@ -788,9 +761,7 @@ Propiedades solución cloroformo
 Clara intenso color rojo anaranjado
 °C horas mm Hg
 Apo’licopenal
-
 Óxido trifenilfosfina
-
 Metanol mg kg
 Hexano propanol mg kg
 Diclorometano mg kg preparados comerciales
@@ -813,7 +784,6 @@ propanol acetato isobutilo únicos disolventes utilizados elaboración
 licopenos totales licopeno trans colorantes
 Prueba detección carotenoides
 carotenoides
-
 Propanol
 Acetato isobutilo
 Diclorometano mg kg preparados comerciales
@@ -944,7 +914,6 @@ disuelve lentamente ácido fluorhídrico ácido sulfúrico concentrado caliente
 Pérdida calcinación
 materia exenta sustancias volátiles °C
 Óxido aluminio dióxido silicio
-
 Materia soluble HCl
 materia exenta alúmina sílice caso productos contengan alúmina sílice producto comercializa
 Materia soluble agua
@@ -995,9 +964,7 @@ Pigment Metal
 Oro
 Contenido inferior Au
 Polvo láminas delgadas color dorado
-
 previa disolución completa
-
 LITOLRUBINA BK
 CI Pigment Red rubinpigment carmine
 litolrubina BK consiste fundamentalmente hidroximetilsulfonatofenilazonaftalenocarboxilato calcio colorantes secundarios agua cloruro calcio sulfato calcio principales componentes incoloros
@@ -1007,7 +974,6 @@ Polvo rojo
 Máximo dimetilformamida nm
 Sal cálcica ácido aminometilbencenosulfónico
 Sal cálcica ácido hidroxinaftalenocarboxílico
-
 expresado anilina
 ÁCIDO SÓRBICO
 Ácido sórbico ácido trans transhexadienoico
@@ -1052,7 +1018,6 @@ Prueba sublimación
 Prueba benzoato
 solución agua
 horas ácido sulfúrico
-
 Compuestos orgánicos clorados
 expresado cloruro corresponde expresado ácido monoclorobenzoico
 Sustancias fácilmente oxidables
@@ -1269,7 +1234,6 @@ mg kg expresado KNO
 Líquido incoloro olor acre característico
 °C mm presión mercurio
 Densidad relativa
-
 Prueba acetato
 solución tercio resultado positivo pruebas acetato
 Punto fusión
@@ -1317,7 +1281,6 @@ jarabe sólido incoloro amarillento prácticamente inodoro
 Prueba lactato
 Cloruro
 Sulfato
-
 Nota especificación refiere solución acuosa soluciones acuosas concentradas calcularán valores correspondan contenido ácido láctico
 ÁCIDO PROPIÓNICO
 Ácido propiónico ácido propanoico
@@ -1539,7 +1502,6 @@ Sólido cristalino escamas blanco inodoro débil aroma característico
 Insoluble agua propanodiol
 soluble etanol
 absorción gama nm espesor cm solución etanol deshidratado presenta máximo nm
-
 nm
 LECITINAS
 Fosfátidos fosfolípidos
@@ -1882,13 +1844,11 @@ DLmalato monocálcico DLhidroxisuccinato calcio
 ÁCIDO METATARTÁRICO
 Ácido ditartárico
 Ácido metatartárico
-
 soluble agua etanol
 Prueba identificación
 TARTRATO CALCIO
 Ltartrato calcio
 Ldihidroxibutanodioato calcio dihidratado
-
 Polvo fino cristalino color blanco grisáceo
 Solubilidad
 αD disolución HCl
@@ -2025,9 +1985,7 @@ Prueba propanodiol
 Positiva previa hidrólisis
 °C
 propanodiol
-
 Propanodiol libre
-
 Sinónimos
 Definición
 agar polisacárido coloidal hidrófilo compuesto fundamentalmente unidades galactosa alternancia regular formas isoméricas hexosas unen alternadamente enlaces alfa beta copolímero
@@ -2136,7 +2094,6 @@ Aldragante tragacanto
 goma tragacanto exudado desecado tallos ramas cepas Astragalus gummifer Labill especies asiáticas género Astragalus familia Leguminosae
 Consiste principalmente polisacáridos peso molecular alto galactoarabanas polisacáridos ácidos hidrólisis ácido galacturónico galactosa arabinosa xilosa fucosa
 pequeñas cantidades ramnosa glucosa derivadas residuos almidón celulosa
-
 tragacanto triturado presenta fragmentos aplanados láminas curvas rectas elementos espiral mm espesor cm longitud
 color blanco amarillo pálido trozos matices rojos
 pedazos textura córnea líneas fractura cortas
@@ -2152,12 +2109,10 @@ aparecerá coloración permanente rosa roja
 cenizas
 Cenizas insolubles ácidos
 Materia insoluble ácido
-
 GOMA ARÁBIGA
 Goma acacia
 goma arábiga exudado desecado tallos ramas cepas Acacia senegal Willdenow especies género Acacia familia Leguminosae
 compone principalmente polisacáridos alto peso molecular sales calcio magnesio potasio hidrólisis arabinosa galactosa ramnosa ácido glucurónico
-
 goma arábiga triturada presenta forma lágrimas esferoides color blanco blanco amarillento tamaño variable forma fragmentos angulosos ocasiones mezclada fragmentos oscuros
 obtenerse forma copos gránulos polvo sustancia desecada pulverizador color blanco blanco amarillento
 gramo disuelve ml agua fría formando solución fluida ácida frente papel tornasol insoluble etanol
@@ -2175,13 +2130,11 @@ GOMA XANTANA
 goma xantana polisacárido alto peso molecular obtenido fermentación cultivo puro hidrato carbono cepas Xanthomonas campestris purificado extracción etanol propanol desecado triturado
 Contiene Dglucosa Dmanosa principales unidades hexosa ácido Dglucurónico ácido pirúvico prepara forma sales sodio potasio calcio
 soluciones neutras
-
 sustancia anhidra desprenderá CO corresponde goma xantana
 Polvo color crema
 °C
 sustancia anhidra determinado °C desecar °C horas
 Ácido pirúvico
-
 Nitrógeno
 mg kg separado conjunto
 Ausencia células viables gramo
@@ -2197,8 +2150,6 @@ goma olor particular ácido acético
 Hinchado solución etanol
 goma karaya hincha etanol distingue gomas
 °C
-
-
 Ácidos volátiles
 expresado ácido acético
 GOMA TARA
@@ -2213,7 +2164,6 @@ GOMA GELLAN
 goma gellan formada polisacáridos alto peso molecular producida fermentación hidrato carbono cultivo puro cepas Pseudomonas elodea purificada recuperación propanol etanol desecada triturada
 polisacárido alto peso molecular compuesto principalmente unidad repetida tetrasacárido consiste ramnosa ácido glucurónico glucosas sustituido grupos acílicos glicerilo acetilo formando ésteres enlaces tipo glicosídico
 ácido glucurónico neutraliza sal mixta potasio sodio calcio magnesio
-
 sustancia desecada libera CO
 Polvo color hueso
 Soluble agua forma solución viscosa
@@ -2277,7 +2227,6 @@ Soluble agua ligeramente soluble etanol prácticamente insoluble éter
 Espectrometría absorción infrarroja
 Comparación patrón referencia EP USP
 αD solución boratada
-
 Añadir ml solución saturada cloruro potásico ml solución muestra seguidamente medir pH
 expresado glucosa
 expresado glucosa
@@ -2287,7 +2236,6 @@ Fabricado fermentación discontinua condiciones aeróbicas utilizando cepa conve
 producto manitol compone principalmente sorbitol maltitol isomaltitol
 sustancia seca
 Polvo blanco inodoro cristalino
-
 expresado glucosa
 expresado glucosa
 Bacterias mesofílicas aerobias
@@ -2302,7 +2250,6 @@ Formación acroleína calentamiento
 calientan gotas muestra tubo ensayo bisulfito potásico
 mezcla despide característicos vapores acres acroleína
 Densidad relativa °C °C
-
 nD
 °C °C
 Butanotrioles
@@ -2344,11 +2291,9 @@ dispersa agua caliente fría formando solución viscosa pH
 calor agitación mecánica aumentan solubilidad
 °C
 kgm °C
-
 Determinar nitrógeno método Kjeldahl
 porcentaje nitrógeno muestra multiplicado porcentaje proteína muestra
 Sulfito expresado SO
-
 Materia soluble alcohol
 °C horas
 HEMICELULOSA SOJA
@@ -2360,10 +2305,8 @@ Polvo blanco blanco amarillento fluye libremente
 Soluble agua caliente fría formación gel
 solución
 °C
-
 mPa·s solución
 °C
-
 colonias gramo
 GOMA CASIA
 goma casia endospermo triturado purificado semillas Cassia tora Cassia obtusifoli Leguminosae contiene Cassia occidentalis
@@ -2384,7 +2327,6 @@ temperatura bajado °C forma gel firme viscoelástico gel forma disolución cont
 mPa·s °C solución corresponde peso molecular
 solución acuosa
 Grasa bruta
-
 °C
 antraquinonas
 mg kg límite detección
@@ -2399,11 +2341,8 @@ forma escamas cera sólida °C color crema olor tenue
 Intervalo fusión
 Característico éster ácido polialcohol polioxietilado parcialmente graso
 método Karl Fischer
-
 Índice saponificación
-
 Índice hidróxidos
-
 dioxano
 Óxido etileno
 mg kg
@@ -2415,34 +2354,24 @@ Contenido inferior grupos oxietilénicos equivalente monolaurato sorbitán polio
 Líquido oleaginoso color limón ámbar °C olor tenue característico
 Soluble agua etanol metanol etilacetato dioxano
 Insoluble aceite mineral éter petróleo
-
-
-
 dioxano
 MONOOLEATO SORBITÁN POLIOXIETILENADO
 Polisorbato monooleato sorbitán polioxietilenado
 Mezcla ésteres parciales sorbitol mono dianhídridos ácido oleico comercial comestible condensado moles óxido etileno mol sorbitol anhídridos
 Contenido inferior grupos oxietilénicos equivalente monooleato sorbitán polioxietilenado sustancia anhidra
-
-
 MONOPALMITATO SORBITÁN POLIOXIETILENADO
 Polisorbato monopalmitato sorbitán polioxietilenado
 Mezcla ésteres parciales sorbitol mono dianhídridos ácido palmítico comercial comestible condensado moles óxido etileno mol sorbitol anhídridos
 Contenido inferior grupos oxietilénicos equivalente monopalmitato sorbitán polioxietilenado sustancia anhidra
 Líquido oleaginoso semigelatinoso °C color limón anaranjado tenue olor característico
-
-
 MONOESTEARATO SORBITÁN POLIOXIETILENADO
 Polisorbato monoestearato sorbitán polioxietilenado
 Mezcla ésteres parciales sorbitol mono dianhídridos ácido esteárico comercial comestible condensado moles óxido etileno mol sorbitol anhídridos
 Contenido inferior grupos oxietilénicos equivalente monoestearato sorbitán polioxietilenado sustancia anhidra
-
 TRIESTEARATO SORBITÁN POLIOXIETILENADO
 Polisorbato triestearato sorbitán polioxietilenado
 Contenido inferior grupos oxietilénicos equivalente triestearato sorbitán polioxietilenado sustancia anhidra
 Sólido ceroso °C color tostado tenue olor característico
-
-
 PECTINA
 pectina constituida principalmente ésteres metílicos parciales ácido poligalacturónico sales sodio potasio calcio amonio
 obtiene materias primas vegetales comestibles variedades apropiadas generalmente cítricos manzanas extracción acuoso
@@ -2476,7 +2405,6 @@ Solubilidad
 Prueba glicerol
 Prueba ácidos grasos
 Materia insoluble éter petróleo
-
 ACETATO ISOBUTIRATO SACAROSA
 acetato isobutirato sacarosa mezcla productos reacción formados esterificación sacarosa calidad alimentaria anhídrido ácido acético anhídrido isobutírico seguida destilación
 mezcla contiene combinaciones posibles ésteres proporción molar acetato butirato
@@ -2487,8 +2415,6 @@ Líquido color pajizo pálido sedimentos olor suave
 nD
 dD
 Triacetina
-
-
 ÉSTERES GLICÉRIDOS COLOFONIA MADERA
 Goma éster
 Mezcla compleja ésteres tri diglicerólicos ácidos resínicos colofonia madera
@@ -2504,8 +2430,6 @@ Densidad relativa
 determinado solución dlimoneno punto ebullición °C
 Intervalo reblandecimiento determinado método bola anillo
 °C °C
-
-
 Prueba ausencia resina lejías celulósicas prueba azufre
 calentar compuestos orgánicos contienen azufre presencia formiato sodio azufre convierte sulfuro hidrógeno detecta fácilmente papel acetato plomo
 resultado positivo significa utilizado resina lejías celulósicas lugar colofonia madera
@@ -2645,7 +2569,6 @@ Gel celulosa
 celulosa microcristalina celulosa purificada parcialmente despolimerizada prepara tratando ácidos minerales alfacelulosa obtenida forma pulpa cepas vegetales fibrosos
 Normalmente grado polimerización inferior
 Celulosa
-
 Contenido celulosa calculado sustancia anhidra
 Tamaño partículas
 μm partículas μm
@@ -2662,7 +2585,6 @@ obtiene suspensión fluida verter ml probeta ml dejar reposar hora
 elementos sólidos precipitan aparece líquido sobrenada
 pH líquido sobrenada situado suspensión agua
 °C
-
 °C °C
 Grupos carboxílicos
 ii CELULOSA POLVO
@@ -2680,7 +2602,6 @@ celulosa obtiene directamente material fibroso variedades vegetales parcialmente
 Éter metílico celulosa
 polímeros contienen unidades anhidroglucosa sustituida fórmula general
 CHOOROROR
-
 Contenido inferior superior grupos metoxílicos OCH superior grupos hidroxietoxílicos OCHCHOH
 Polvo granulado fibroso blanco ligeramente amarillento grisáceo ligeramente higroscópico inodoro insípido
 hincha agua formando solución coloidal viscosa clara opalescente
@@ -2712,7 +2633,6 @@ HIDROXIPROPILCELULOSA
 celulosa procede directamente material fibroso variedades vegetales parcialmente eterificada grupos hidroxipropílicos
 Éter hidroxipropílico celulosa
 CHOOROROR
-
 Contenido grupos hidroxipropoxílicos OCHCHOHCH equivalentes grupos hidroxipropílicos sumo unidad anhidroglucosa sustancia anhidra
 Cromatografía gases
 Cromatografía gases
@@ -2721,7 +2641,6 @@ Clorohidrinas propileno
 HIDROXIPROPILMETILCELULOSA
 celulosa procede directamente material fibroso variedades vegetales parcialmente eterificada grupos metílicos contiene pequeña proporción grupos hidroxipropílicos sustitución
 Éter hidroxipropílico metilcelulosa
-
 Contenido grupos metoxílicos OCH grupos hidroxipropoxílicos OCHCHOHCH sustancia anhidra
 determinan sustituyentes cromatografía gases
 productos cuya viscosidad superior mPa·s
@@ -2730,10 +2649,8 @@ ETILMETILCELULOSA
 Metiletilcelulosa
 celulosa obtenida directamente material procedente vegetales fibrosos parcialmente eterificada grupos metílicos etílicos
 Éter etilmetílico celulosa
-
 Contenido sustancia anhidra grupos metoxílicos OCH grupos etoxílicos OCHCH grupos alcoxílicos totales expresados metoxilo
 forma fibrosa polvo determinada desecación °C obtener peso constante
-
 CARBOXIMETILCELULOSA SÓDICA CARBOXIMETILCELULOSA GOMA CELULOSA
 CMC NaCMC CMC sódica
 carboximetilcelulosa sal parcial sodio éter carboximetílico celulosa celulosa procede directamente variedades vegetales fibrosos
@@ -2767,7 +2684,6 @@ Inclinando tubo verter cuidadosamente pared ml ácido sulfúrico deposite forman
 capas aparece franja color rojo púrpura
 solución
 °C
-
 grupos carboximetílicos unidad anhidroglucosa
 Contenido sodio
 sustancia anhidra
@@ -2776,8 +2692,6 @@ Carboximetilcelulosa sódica hidrolizada enzimáticamente
 carboximetilcelulosa hidrolizada enzimáticamente obtiene carboximetilcelulosa digestión enzimática celulasa producida Trichoderma longibrachiatum reesei
 Carboximetilcelulosa sodio parcialmente hidrolizada enzimáticamente
 Sales sódicas polímeros contienen unidades anhidroglucosa sustituida fórmula general CHOOHxOCHCOONayn grado polimerización
-
-
 Macromoléculas
 incluidos monosacáridos disacáridos sustancia desecada
 Polvo granulado fibroso ligeramente higroscópico inodoro blanco ligeramente amarillento grisáceo
@@ -2825,12 +2739,10 @@ Monoestearato glicerilo monopalmitato glicerilo monooleato glicerilo etc monoest
 Contenido mono diésteres
 Característico éster parcial ácidos grasos polialcohol
 Insolubles agua solubles etanol tolueno °C
-
 Glicerol libre
 Poligliceroles
 diglicerol poligliceroles peso molecular expresados casos glicerol
 glicerol
-
 °C °C
 criterios pureza válidos aditivos contienen sales sodio potasio calcio ácidos grasos obstante sustancias expresadas oleato sodio
 ÉSTERES ACÉTICOS MONOGLICÉRIDOS DIGLICÉRIDOS ÁCIDOS GRASOS
@@ -2839,11 +2751,8 @@ aspecto varía líquido fluido sólido color blanco amarillo pálido
 Prueba ácido acético
 soluble etanol
 Ácidos distintos acético grasos
-
 ácido acético
-
 Ácidos grasos ácido acético libres
-
 ÉSTERES LÁCTICOS MONOGLICÉRIDOS DIGLICÉRIDOS ÁCIDOS GRASOS
 Ésteres lácticos monoglicéridos diglicéridos lactoglicéridos monoglicéridos diglicéridos ácidos grasos esterificados ácido láctico
 aspecto varía líquido fluido sólido ceroso color blanco amarillo pálido
@@ -2852,9 +2761,7 @@ Prueba ácido láctico
 Insoluble agua fría dispersable agua caliente
 Ácidos distintos ácidos láctico grasos
 ácido láctico
-
 Ácidos grasos ácido láctico libres
-
 °C °C
 ÉSTERES CÍTRICOS MONOGLICÉRIDOS DIGLICÉRIDOS ÁCIDOS GRASOS
 Definición
@@ -2862,35 +2769,22 @@ líquidos amarillentos color marrón sólidos semisólidos consistencia cerosa
 Prueba ácido cítrico
 Insoluble agua fría dispersable agua caliente soluble aceites grasas insoluble etanol frío
 Ácidos distintos cítrico grasos
-
 ácido cítrico
-
 Productos neutralizados °C °C
 Productos parcial totalmente neutralizados °C °C
-
 criterios pureza válidos aditivos contienen sales sodio potasio calcio ácidos grasos obstante sustancias expresadas oleato sodio
 ÉSTERES TARTÁRICOS MONOGLICÉRIDOS DIGLICÉRIDOS ÁCIDOS GRASOS
 Ésteres tartáricos monoglicéridos diglicéridos monoglicéridos diglicéridos ácidos grasos esterificados ácido tartárico
 consistencia líquido amarillento pegajoso viscoso cera amarilla dura
 Prueba ácido tartárico
 Ácidos distintos tartárico grasos
-
-
 ácido tartárico
-
 ÉSTERES MONOACETILTARTÁRICO DIACETILTARTÁRICO MONOGLICÉRIDOS DIGLICÉRIDOS ÁCIDOS GRASOS
 Ésteres diacetiltartáricos monoglicéridos diglicéridos monoglicéridos diglicéridos ácidos grasos esterificados ácidos mono diacetiltartáricos ésteres ácido diacetiltartárico ácidos grasos glicerol
 EINECS Denominación química
 Ácidos distintos acético tartárico grasos
-
-
-
-
 Monoglicéridos diglicéridos ácidos grasos esterificados ácido acético ácido tartárico Definición
 consistencia líquido pegajoso sólido color blanco amarillo pálido
-
-
-
 SUCROÉSTERES ÁCIDOS GRASOS
 Sucroésteres ésteres azúcar
 componen principalmente mono di triésteres sacarosa ácidos grasos aceites grasas alimentarios
@@ -2933,7 +2827,6 @@ Prueba poligliceroles
 Ácidos distintos ácidos grasos
 expresado ácido oleico
 glicerol poligliceroles
-
 Glicerol poligliceroles libres
 POLIRRICINOLEATO POLIGLICEROL
 Ésteres glicerólicos ácidos grasos condensados aceite ricino ésteres poliglicerólicos ácidos grasos policondensados aceite ricino ésteres poliglicerólicos ácido ricinoleico interesterificado
@@ -2944,7 +2837,6 @@ Prueba poliglicerol
 Prueba ácido ricinoleico
 nD
 fracción poligliceroles compuesta di tri tetragliceroles contendrá poligliceroles iguales superiores heptaglicerol
-
 ÉSTERES PROPANODIOL ÁCIDOS GRASOS
 Ésteres propilenglicol ácidos grasos
 EINECS Denominación química
@@ -2952,7 +2844,6 @@ Contenido ésteres ácidos grasos inferior
 Líquidos claros escamas bolitas sólidos blancos consistencia cerosa olor suave
 Prueba propilenglicol
 propanodiol
-
 Propanodiol libre
 Dímeros trímeros propilenglicol
 ACEITE SOJA OXIDADO TÉRMICAMENTE INTERACCIÓN MONOGLICÉRIDOS DIGLICÉRIDOS ÁCIDOS GRASOS
@@ -2966,7 +2857,6 @@ expresado ácido oleico
 ésteres metílicos ácidos grasos
 Ácidos grasos insolubles éter petróleo
 ácidos grasos
-
 Epóxidos
 oxígeno oxirano
 ESTEAROILLACTILATO SODIO
@@ -2975,11 +2865,7 @@ Diestearoillactato sodio
 diestearoiloxipropionato sodio
 CHONa CHONa componentes principales
 Polvo materia sólida desmenuzable color blanco ligeramente amarillento olor característico
-
 Índice esterificación
-
-
-
 ESTEAROILLACTILATO CALCIO
 Estearoil lactato calcio
 Diestearoil lactato calcio
@@ -2987,9 +2873,6 @@ diestearoiloxipropionato calcio
 CHOCa CHOCa CHOCa componentes principales
 Prueba ácido láctico
 Ligeramente soluble agua caliente
-
-
-
 TARTRATO ESTEARILO
 Tartrato estearílico palmitílico
 Tartrato diestearílico
@@ -3003,10 +2886,6 @@ tartrato dipalmitílico
 tartrato estearilpalmitílico
 Contenido ésteres inferior correspondiente índice éster
 Materia sólida untuosa °C color crema
-
-
-
-
 Índice yodo
 método Wijs
 MONOESTEARATO SORBITANO
@@ -3014,38 +2893,23 @@ Mezcla ésteres parciales sorbitol anhídridos ácido esteárico comercial comes
 Contenido inferior mezcla sorbitol sorbitano ésteres isosorbídicos
 Perlas copos color crema tostado sólido ceroso duro ligero olor característico
 Soluble temperaturas punto fusión tolueno dioxano tetracloruro carbono éter metanol etanol anilina insoluble éter petróleo acetona insoluble agua fría dispersable agua caliente soluble turbidez temperaturas °C aceite mineral acetato etilo
-
-
-
 TRIESTEARATO SORBITANO
 Perlas copos color crema tostado sólido ceroso duro ligero olor
 Ligeramente soluble tolueno éter tetracloruro carbono acetato etilo dispersable éter petróleo aceite mineral aceites vegetales acetona dioxano insoluble agua metanol etanol
-
-
-
 MONOLAURATO SORBITANO
 Mezcla ésteres parciales sorbitol anhídridos ácido láurico comercial comestible
 Líquido viscoso aceitoso color ámbar perlas copos color crema tostado sólido ceroso duro ligero olor característico
 Dispersable agua caliente fría
-
-
-
 Definición
 Contenido inferior mezcla sorbitol sorbitano ésteres isosorbídicos
 Líquido viscoso color ámbar perlas copos color crema tostado sólido ceroso duro ligero olor característico
 residuo ácido oleico obtenido saponificación monooleato sorbitano análisis índice yodo
-
-
-
 MONOPALMITATO SORBITANO
 Palmitato sorbitano
 Mezcla ésteres parciales sorbitol anhídridos ácido palmítico comercial comestible
 Perlas copos color crema tostado sólido ceroso duro ligero olor característico
 Característico éster parcial polialcohol ácidos grasos
 Cenizas sulfatadas
-
-
-
 CARBONATO SÓDICO
 Soda
 Carbonato sodio
@@ -3172,7 +3036,6 @@ Sulfato ácido sodio
 Contenido inferior
 Cristales gránulos blancos inodoros
 soluciones alto grado acidez
-
 SULFATO POTÁSICO
 Sulfato potasio
 Cristales polvo cristalino incoloros blancos
@@ -3193,7 +3056,6 @@ Anhidro °C peso constante
 Dihidratado °C peso constante
 SULFATO AMÓNICO
 Sulfato amónico
-
 Polvo placas brillantes fragmentos cristalinos color blanco
 SULFATO ALUMINIO
 Alumbre
@@ -3250,7 +3112,6 @@ Hidróxido calcio
 Contenido inferior
 Prueba álcali
 Pureza
-
 Bario
 mg kg
 HIDRÓXIDO AMÓNICO
@@ -3273,7 +3134,6 @@ Masas duras gránulos color blanco blanco grisáceo polvo blanco gris inodoro
 Reacción agua
 humedecer muestra agua genera calor
 torno °C peso constante
-
 ÓXIDO MAGNÉSICO
 Óxido magnesio
 Descripción
@@ -3286,7 +3146,6 @@ NaFeCN HO
 Cristales polvo cristalino color amarillo
 Prueba ferrocianuro
 Humedad libre
-
 Cianuro libre
 Ferrocianuro
 FERROCIANURO POTÁSICO
@@ -3355,7 +3214,6 @@ Valores máximos
 Insoluble agua etanol
 °C hora
 Materia soluble ácido
-
 Hierro soluble ácido
 SILICATO SODIO ALUMINIO
 Silicoaluminato sodio silicato sodio aluminio silicato sódico aluminio
@@ -3392,9 +3250,7 @@ caolinita
 AlSiOOH caolinita
 suma sílice alúmina combustión
 Sílice SiO
-
 Alúmina AlO
-
 Prueba alúmina
 Valores máximos característicos
 Valores máximos cm
@@ -3582,7 +3438,6 @@ INOSINATO DISÓDICO
 Inosinato sodio inosinato sodio
 Inosinamonofosfato disodio
 anhidro
-
 método Karl Fischer
 INOSINATO DIPOTÁSICO
 Inosinato potasio inosinato potasio
@@ -3626,7 +3481,6 @@ dimetilpolisiloxano mezcla polímeros siloxano lineales totalmente metilados con
 Siloxanos siliconas dimetilados
 silicio
 Densidad relativa °C °C
-
 nD
 espectro absorción infrarroja película líquida muestra placas cloruro sodio presenta valores máximos relativos longitudes onda preparado similar patrón referencia dimetilpolisiloxano
 °C
@@ -3637,37 +3491,26 @@ cera abeja amarilla obtiene fundiendo paredes panales fabricados abeja Apis mell
 cera abeja blanca obtiene blanqueando cera abeja amarilla
 Trozos láminas grano fino fractura cristalina color blanco amarillento tipo blanco amarillento marrón grisáceo tipo amarillo olor agradable miel
 °C °C
-
 Insoluble agua soluble alcohol soluble cloroformo éter
-
-
 Glicerol polialcoholes
 expresado glicerol
 Ceresina parafinas ceras
 CERA CANDELILLA
 cera candelilla cera purificada obtenida hojas candelilla Euphorbia antisyphilitica
 Cera dura color marrón amarillento opaca traslúcida
-
 °C °C
 Insoluble agua soluble cloroformo tolueno
-
-
 CERA CARNAUBA
 cera carnauba cera purificada obtenida yemas hojas palma cerífera Brasil carnauba caranday Copernicia cerifera
 Polvo escamas color marrón amarillo pálido sólido duro quebradizo fractura resinosa
-
 °C °C
 Insoluble agua parcialmente soluble etanol hirviendo soluble cloroformo éter dietílico
-
-
-
 GOMA LACA
 Goma laca blanqueada shellac blanqueado
 goma laca laca purificada blanqueada secreción resinosa insecto Laccifer Tachardia lacca Kerr familia Coccidae
 Goma laca blanqueada resina granular amorfa color blancuzco
 Goma laca blanqueada ceras resina granular amorfa color amarillo
 Insoluble agua totalmente soluble alcohol parcialmente soluble acetona
-
 °C gel sílice
 Colofonia
 Ausencia
@@ -3707,7 +3550,6 @@ Copos polvo gránulos glóbulos color blanco amarillento
 °C
 Punto fusión
 Superior °C
-
 Glicerina
 cromatografía gases
 polialcoholes
@@ -3721,7 +3563,6 @@ Escamas polvo gránulos glóbulos blancos
 Superior °C
 ms °C
 Oxígeno
-
 LCISTEÍNA
 anhidro
 HCl nHO
@@ -3732,7 +3573,6 @@ Totalmente soluble agua etanol
 forma anhidra funde °C
 αD
 αD
-
 forma anhidra
 Ion amonio
 mg kg
@@ -3744,10 +3584,8 @@ prueba positiva producirse color rojo púrpura
 °C °C
 °C hora
 Materia insoluble etanol
-
 ARGÓN
 Argón
-
 Gas inflamable incoloro inodoro
 Metano hidrocarburos
 μl expresado metano
@@ -3766,35 +3604,24 @@ Gas líquido incoloro olor suave característico
 Presión vapor
 kPa °C
 Metano
-
 Etano
-
 Propano
-
 Isobutano
-
 butadieno
-
 Humedad
 ISOBUTANO
 metilpropano
 metilpropano
 Contenido inferior
 kPa °C
-
-
 PROPANO
 Contenido inferior
 kPa °C
-
 OXÍGENO
 HIDRÓGENO
 Hidrógeno
 Contenido inferior
 Gas incoloro inodoro altamente inflamable
-
-
-
 ACESULFAMO
 Acesulfamo potásico sal potásica dihidrometiloxatiazinonadióxido
 Sal potásica metiloxatiazinHonadióxido
@@ -4079,13 +3906,11 @@ Clorhidrato lisozima muramidasa
 lisozima polipéptido lineal obtenido clara huevo gallina compuesto aminoácidos
 Posee actividad enzimática capacidad hidrolizar enlaces beta ácido Nacetilmurámico Nacetilglucosamina membranas externas especies bacterianas especial grampositivas
 Generalmente obtiene clorhidrato
-
 Contenido inferior mg expresado sustancia anhidra
 Polvo blanco inodoro gusto ligeramente dulce
 Punto isoeléctrico
 solución acuosa
 Máximo absorción solución acuosa mg ml nm mínimo nm
-
 colonias gramo
 POLIDEXTROSA
 Polidextrosas modificadas
@@ -4116,7 +3941,6 @@ POLIVINILPIRROLIDONA
 Povidono PVP polivinilpirrolidona soluble
 Polivinilpirrolidona polioxopirrolidiniletileno
 Peso molecular
-
 nitrógeno sustancia anhidra
 Polvo blanco blanco
 solución
@@ -4152,7 +3976,6 @@ añadir ml etanol disolución produce precipitado blanco turbio floculento
 mPa·s solución °C corresponde peso molecular
 mg KOH
 Grado hidrólisis
-
 metanol acetato metilo
 solución
 °C
@@ -4260,7 +4083,6 @@ almidón tratado hipoclorito sódico esterificado anhídrido acético
 sustancia anhidra
 OCTENILSUCCINATO ALUMÍNICO ALMIDÓN
 almidón esterificado anhídrido octenilsuccínico tratado sulfato aluminio
-
 mg kg almidones modificados especifique cosa sustancia anhidra
 CITRATO TRIETILO
 Citrato etilo
@@ -4272,7 +4094,6 @@ DIACETATO GLICERILO
 Diacetina
 diacetato glicerilo compone fundamentalmente mezcla diacetato glicerol pequeñas cantidades monoésteres triésteres
 Diacetato glicerilo propanotriol diacetato
-
 Líquido ligeramente aceitoso límpido incoloro higroscópico ligero olor graso
 Densidad relativa °C °C
 Intervalo ebullición
@@ -4282,7 +4103,6 @@ TRIACETATO GLICERILO
 Triacetato glicerilo
 Líquido oleoso incoloro ligero olor grasa
 nD
-
 °C °C
 ALCOHOL BENCÍLICO
 Fenilcarbinol alcohol fenilmetilo bencenometanol alfahidroxitolueno
@@ -4292,7 +4112,6 @@ Soluble agua etanol éter
 nD
 Prueba peróxidos
 destila °C °C
-
 expresado benzaldehído
 PROPANODIOL
 dihidroxipropano
@@ -4300,14 +4119,12 @@ Líquido viscoso incoloro higroscópico
 Soluble agua etanol acetona
 nD
 Prueba destilación
-
 método Karl Fischer
 POLIETILENGLICOL
 PEG macrogol óxido polietileno
 Polímeros formados adición óxido etileno agua designados general número corresponde peso molecular aproximado
 alfahidroomegahidroxipoli oxietanediol
 CHOn HO número unidades óxido etileno correspondientes peso molecular
-
 PEG
 PEG
 PEG
@@ -4385,7 +4202,6 @@ CHNNaOP nHO
 CHOZn HO
 nD
 Fórmula química
-
 CHCHCH
 CHCaNOS HO
 CHNNaOS HO
@@ -4527,7 +4343,6 @@ Formación precipitados
 Añadir ml solución sulfato cobre sulfato aluminio ml solución muestra forma precipitado prueba permite distinguir carboximetilcelulosa sódica éteres celulosa gelatina goma garrofín goma tragacanto
 Reacción cromática
 mg muestra previamente diluida volumen agua añaden tubo ensayo pequeño gotas solución naftol inclinar tubo verter cuidadosamente pared ml ácido sulfúrico depositen formando capa fondo
-
 grado sustitución
 Peso molecular
 aparecer espuma prueba permite distinguir carboximetilcelulosa sódica hidrolizada éteres celulosa alginatos gomas naturales
@@ -4790,7 +4605,6 @@ rellenar formulario
 completarse partes lista control
 dispone información deberá explicarse
 validador seguridad aérea UE determinará cumplen objetivos medida
-
 Identificación entidad validada validador
 Fechas validación
 utilizarse formato fecha exacta ejemplo
@@ -4820,7 +4634,6 @@ transporte aéreo modos transporte
 transitario instalaciones carga
 transitario instalaciones carga
 agente tierra
-
 Indíquese solicitante
 recibe carga agente acreditado tercer país
 recibe carga expedidores conocidos tercer país
@@ -4833,7 +4646,6 @@ Número aproximado empleados
 número
 Nombre cargo responsable seguridad carga correo aéreos tercer país
 Cargo
-
 Organización responsabilidades agente acreditado tercer país superado validación seguridad aérea UE
 Objetivo transportarse UE EEE carga correo aéreos hayan objeto controles seguridad
 carga correo entregados RA ACC RA aceptarse carga correo seguros RA aplica controles seguridad
@@ -4844,7 +4656,6 @@ inspección física suficientemente fiable ofrecer garantías razonables envío 
 controles seguridad formen proceso seguridad cadena suministro ofrezcan garantías razonables envío esconde artículo prohibido aplicados RA KC AC designado RA
 Referencia Punto
 adoptado entidad programa seguridad
-
 caso negativo pase directamente punto
 Programa seguridad entidad
 Fecha utilizarse formato fecha exacta dd mm aaaa
@@ -4863,7 +4674,6 @@ caso negativo explíquese garantiza entidad controles seguridad aplican requerid
 Conclusiones observaciones generales fiabilidad valor consistencia proceso
 Observaciones entidad
 Observaciones validador seguridad aérea UE
-
 Selección formación personal
 Objetivo garantizar aplican controles seguridad requeridos RA asignará tareas seguridad carga correo aéreos personal competente responsable
 personal acceso carga aérea segura deberá poseer competencias necesarias trabajo deberá recibir formación adecuada
@@ -4892,7 +4702,6 @@ Recibe personal mencionado puntos formación continua
 caso afirmativo descríbanse aspectos cubre formación continua frecuencia imparte
 Conclusión indíquese medidas relativas selección formación personal garantizan personas acceso carga correo aéreos seguros contratan adecuadamente reciben formación oportuna asegurar conocimiento suficiente responsabilidades materia seguridad
 caso negativo expónganse motivos
-
 Procedimientos aceptación
 Objetivo RA recibir carga correo RA KC AC expedidor desconocido
 RA deberá disponer procedimientos aceptación carga correo determinar envío procede cadena suministro segura decidir consecuencia medidas seguridad aplicar
@@ -4923,7 +4732,6 @@ exige persona realiza entrega presente documento identidad oficial incluya fotog
 procedimiento detectar envíos requieren inspección
 Conclusión suficientes procedimientos aceptación determinar carga correo aéreos destino aeropuerto UE EEE proceden cadena suministro segura someterse inspección
 Observaciones validador seguridad aérea UE
-
 Inspección
 Objetivo RA acepta carga correo proceda cadena suministro segura deberá someter envíos inspección adecuada entregarlos ACC carga segura
 RA adoptará procedimientos garanticen carga correo aéreos destino UE EEE transferencia tránsito descarga aeropuerto Unión someten inspección medios métodos indicados normativa Unión medida necesaria garantizar forma razonable contienen artículo prohibido
@@ -4935,7 +4743,6 @@ especifíquese detállese naturaleza tales entidades
 Empresa privada inspección
 Empresa regulada
 Instalaciones organismo inspección
-
 Especifíquese naturaleza contrato entidad validada entidad realiza inspección
 métodos inspección aplican carga correo aéreos
 Especifíquese métodos utilizados detallando caso equipo empleado inspeccionar carga correo aéreos ejemplo fabricante tipo versión software norma número serie etc
@@ -4957,7 +4764,6 @@ caso afirmativo descríbase
 aplican régimen análisis control calidad determinados
 Conclusión inspeccionan carga correo aéreos medios métodos indicados punto Decisión UE medida necesaria garantizar forma razonable contienen artículo prohibido
 caso negativo expóngase motivo
-
 Carga correo alto riesgo HRCM
 Objetivo considerarán carga correo alto riesgo HRCM envíos tengan origen lugares identificados alto riesgo Unión hayan transferencia dichos lugares muestren claros indicios manipulados
 Tales envíos deberán inspeccionarse conforme instrucciones concretas
@@ -4973,7 +4779,6 @@ caso negativo indíquese procedimientos llevan cabo
 inspección expide entidad declaración seguridad envío SHR documentación acompaña envío
 caso afirmativo descríbase expide declaración seguridad documento
 Conclusión Resulta apropiado proceso implantado entidad ofrece garantías suficientes carga correo aéreos alto riesgo tratan adecuado embarque
-
 Protección carga correo aéreos seguros
 Objetivo RA implantados procedimientos garanticen carga correo aéreos destino UE EEE protegen interferencias autorizadas manipulación momento superan inspección controles seguridad momento aceptan superar inspección controles seguridad momento embarque traslado ACC RA
 carga correo aéreos protegidos anteriormente protegen posteriormente cargarse trasladarse ACC RA carga correo seguros
@@ -4992,7 +4797,6 @@ aplican procedimientos garanticen carga correo aéreos destino UE EEE superado o
 caso afirmativo descríbanse medidas protección físicas humanas tecnológicas etc
 Especifíquese asimismo edificio construcción sólida tipos materiales empleado caso
 Conclusiones protección envíos suficientemente consistente evitar interferencia ilícita
-
 Documentación
 Objetivo declaración seguridad envío deberá incluirse documentación acompañe conocimiento aéreo documento postal equivalente declaración separada formato electrónico papel
 declaración seguridad expedida RA

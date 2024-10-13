@@ -150,7 +150,6 @@ DO
 DO
 DO
 ANEXO
-
 Indicaciones refiere artículo apartado
 español indicaciones siguientes
 Productos destinados consumo directo
@@ -253,7 +252,6 @@ produkter avsedda för direkt konsumtion
 produkter avsedda för bearbetning eller förpackning
 produkter avsedda att användas som insatsvaror jordbruket
 importerade nötkreatur avsedda för gödning
-
 Indicaciones refieren artículo apartado artículo apartado
 españolExención derechos importación Certificado destinado utilizado nombre región ultraperiférica
 checoosvobození od dovozních cel osvědčení pro použití název nejvzdálenějšího regionu
@@ -275,7 +273,6 @@ eslovacooslobodenie od dovozného cla osvedčenie určené na použitie názov n
 eslovenooprostitev uvoznih dajatev in dovoljenje uporabi ime najbolj oddaljene regije
 finésvapautettu tuontitulleista ja syrjäisimmän alueen nimi käytettävä todistus
 suecotullbefrielse och intyg som skall användas randområdets namn
-
 Indicaciones refiere artículo apartado
 españolCertificado exención
 checoosvědčení osvobození
@@ -297,10 +294,8 @@ eslovacoosvedčenie oslobodení od cla
 eslovenopotrdilo oprostitvi
 finésvapautustodistus
 suecointyg om tullbefrielse
-
 Indicaciones refiere artículo apartado
 produkter til forarbejdnings og eller emballeringsindustrien
-
 Indicaciones refiere artículo apartado
 españolCertificado ayuda
 checoosvědčení podpoře
@@ -322,7 +317,6 @@ eslovacoosvedčenie pomoci
 eslovenopotrdilo pomoči
 finéstukitodistus
 suecostödintyg
-
 Indicaciones refiere artículo apartado
 Animales vivos destinados engorde
 Azúcar ayuda
@@ -381,7 +375,6 @@ Csokeri ei tukea
 produkter avsedda att användas som insatsvaror jordbruket efectos utilización certificado ayuda animales razas puras razas comerciales ovoproductos incluyen categoría productos destinados utilizados insumos agrarios
 levande djur avsedda för gödning
 Csocker inget stöd
-
 españolCertificado destinado utilizado nombre región ultraperiférica
 checoosvědčení pro použití název nejvzdálenějšího regionu
 danéslicensen skal anvendes fjernområdets navn
@@ -402,7 +395,6 @@ eslovacoosvedčenie určené na použitie názov najvzdialenejšieho regiónu
 eslovenopotrdilo za uporabo ime najbolj oddaljene regije
 finéssyrjäisimmän alueen nimi käytettävä todistus
 suecointyg som skall användas randområdets namn
-
 Indicaciones refiere artículo apartado
 danésVare eksporteret henhold til artikel stk
 første afsnit forordning EF nr
@@ -424,7 +416,6 @@ eslovacotovar vyvezený podľa článku ods
 eslovenoblago izvoženo skladu prvim pododstavkom člena Uredbe št
 finésAsetuksen EY artiklan kohdan ensimmäisen alakohdan nojalla viety tavara
 suecovara som exporteras enlighet med artikel första stycket förordning EG nr
-
 Indicaciones refiere artículo apartado
 forordning EF nr
 alemánAusgeführte Ware gemäß Artikel Absatz der Verordnung EG Nr
@@ -443,7 +434,6 @@ portuguésmercadoria exportada termos do do artigo do Regulamento CE
 eslovenoblago izvoženo skladu členom Uredbe št
 finésAsetuksen EY artiklan kohdan nojalla viety tavara
 suecovara som exporteras enlighet med artikel förordning EG nr
-
 Indicaciones refiere artículo apartado párrafo
 españolProducto destinado industria fabricación labores tabaco
 checoprodukt pro zpracovatelský průmysl tabákových výrobků
@@ -1121,7 +1111,6 @@ superior km
 Suplemento transporte frigorífico EUR
 ANEXO III
 ANEXO XII
-
 GASTOS SELECCIÓN EMBALAJE MENCIONADOS ARTÍCULO APARTADO
 Producto
 Gastos selección embalaje
@@ -1134,7 +1123,6 @@ Nectarinas
 Sandías
 Coliflores
 productos
-
 INDICACIÓN EMPAQUETADO PRODUCTOS REFIERE ARTÍCULO APARTADO
 Produkt för gratisutdelning förordning EG nr
 Corrección errores Reglamento CE Consejo enero modifica Reglamento CEE relativo régimen común aplicable importaciones productos textiles originarios países terceros
@@ -1759,7 +1747,6 @@ Bovinos porcinos
 exige LMR
 oral
 utilizarse animales producen leche consumo humano
-
 especies destinadas producción alimentos peces
 Únicamente tópico
 Ácido salicílico
@@ -1863,7 +1850,6 @@ originario procede prefectura distinta Fukushima Gunma Ibaraki Tochigi Miyagi Na
 procede prefecturas Fukushima Gunma Ibaraki Tochigi Miyagi Nagano Yamanashi Saitama Tokio Chiba Kanagawa Shizuoka originario expuesto radiactividad tránsito
 originario prefecturas Fukushima Gunma Ibaraki Tochigi Miyagi Nagano Yamanashi Saitama Tokio Chiba Kanagawa Shizuoka sometido muestreo fecha objeto análisis laboratorio fecha nombre laboratorio determinar nivel radionúclidos yodo cesio cesio resultados analíticos conformes tolerancias máximas contempladas artículo apartado
 adjunta informe análisis
-
 Sello firma representante autorizado autoridad competente referencia artículo apartado
 Producto país origen
 cumplimentada autoridad competente puesto inspección fronterizo punto entrada designado
@@ -3533,7 +3519,6 @@ Aceites motores tiempos marino terrestre
 Aceites engranajes industriales marinos
 Indicaciones peligro frases indican riesgos ambiente salud humana
 Indicación peligro frase salud humana ambiente momento solicitud
-
 lista posibles sustancias anexo XIV Reglamento CE
 Toxicidad acuática
 Criterio únicamente
@@ -3602,7 +3587,6 @@ Evaluación comprobación aceptan datos toxicidad marina agua dulce
 ensayos realizan utilizando especies ensayo pertinentes indicadas siguientes directrices normas ISO DIS OCDE anexo Reglamento CE Consejo caso algas ISO TC SC WG OCDE anexo Reglamento CE caso dafnias OCDE anexo Reglamento CE caso peces
 NOEC mg
 NOEC mg
-
 mg
 Decisión Comisión
 febrero
@@ -4019,7 +4003,6 @@ materias
 Compresas higiénicas tampones higiénicos artículos similares
 Compresas higiénicas
 Tampones
-
 Pañales bebés artículos similares
 Pañales bebés
 ejemplo artículos incontinencia
@@ -4163,7 +4146,6 @@ CAPITAL DESEMBOLSADO BCN
 Participación desembolsada junio
 Participación desembolsada julio
 Importe transferencia
-
 Decisión BCE junio participación bancos centrales nacionales clave suscripción capital Banco Central Europeo dispone ajuste ponderaciones asignadas bancos centrales nacionales BCN clave suscripción capital Banco Central Europeo BCE ponderaciones clave capital clave capital respectivamente virtud adhesión Unión Europea Croacia ingreso BCN Hrvatska narodna banka Sistema Europeo Bancos Centrales SEBC julio
 ajuste exige Consejo Gobierno determine condiciones transferencias participaciones capital BCN formen SEBC junio necesarias distribución capital corresponda ajuste
 Reglamento CE Comisión
@@ -4651,7 +4633,6 @@ considere residuos compost materiales transformados
 punto sustituye texto
 muestras representativas residuos fermentación compost tomadas inmediatamente tratamiento planta biogás compostaje controlar proceso deberán cumplir normas siguientes
 muestras representativas residuos fermentación compost tomadas almacenamiento momento salida almacén planta biogás compostaje deberán cumplir normas siguientes
-
 número muestras ensayo
 valor umbral número bacterias resultados consideran satisfactorios número bacterias muestras superior
 valor máximo número bacterias resultado insatisfactorio número bacterias muestras superior

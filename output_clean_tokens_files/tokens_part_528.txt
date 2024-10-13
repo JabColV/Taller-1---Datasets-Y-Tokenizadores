@@ -278,7 +278,6 @@ Circuitos electrónicos integrados
 Circuitos integrados monolíticos
 límite indicado valor materias partidas utilizadas exceda precio franco fábrica producto
 Multichips partes máquinas aparatos expresadas comprendidas capítulo
-
 Hilos cables incluidos coaxiales conductores aislados electricidad estén laqueados anodizados provistos piezas conexión cables fibras ópticas constituidos fibras enfundadas individualmente conductores eléctricos provistos piezas conexión
 Electrodos escobillas carbón carbón lámparas pilas artículos grafito carbonos metal usos eléctricos
 Aisladores eléctricos materia
@@ -828,9 +827,7 @@ DO
 Disponible línea wwwefsaeuropaeuefsajournalhtm
 ANEXO
 anexo Reglamento Ejecución UE columna Disposiciones específicas fila relativa glufosinato sustituye texto
-
 autorizar usos herbicida aplicación franjas localizada superar sustancia activa superficie tratada aplicación máximo aplicaciones año
-
 evaluación solicitudes autorización productos fitosanitarios contengan glufosinato particular respecta exposición operarios consumidores miembros prestarán especial atención criterios mencionados artículo apartado Reglamento CE velarán faciliten datos información necesarios conceder dicha autorización
 seguridad operarios trabajadores circunstantes proceda condiciones autorización incluirán medidas protección
 posibilidad contaminación aguas subterráneas casos sustancia activa aplique regiones suelos condiciones climáticas vulnerables
@@ -2193,7 +2190,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -2332,7 +2328,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -2434,7 +2429,6 @@ Bruselas diciembre
 DO
 PROYECTO
 DECISIÓN CONSEJO ESTABILIZACIÓN ASOCIACIÓN UEALBANIA
-
 adopción disposiciones coordinación sistemas seguridad social
 CONSEJO ESTABILIZACIÓN ASOCIACIÓN
 Visto Estabilización Asociación Comunidades Europeas miembros República Albania particular artículo
@@ -2449,7 +2443,6 @@ Reglamento UE incluye principio totalización períodos seguro adquiridos trabaj
 necesario prever disposiciones específicas respondan características legislación albanesa facilitar aplicación normas coordinación
 garantizar coordinación sistemas seguridad social miembros Albania necesario establecer disposiciones específicas cooperación miembros Albania interesado institución competente
 adoptarse disposiciones transitorias destinadas proteger personas aplica presente Decisión garantizar pierdan derechos entrada vigor
-
 DISPOSICIONES GENERALES
 Definiciones
 efectos presente Decisión entenderá
@@ -2555,7 +2548,6 @@ petición Albania Unión Europea anexos modificarse decisión Consejo Estabiliza
 Artículo
 Entrada vigor
 presente Decisión entrará vigor publicación Diario Oficial Unión Europea
-
 DO
 DO
 DO
@@ -3186,7 +3178,6 @@ considerará vehículo matriculado obtenido autorización administrativa permane
 DISPOSICIONES ADMINISTRATIVAS
 Clasificación vehículo
 vehículos clasificarán arreglo criterios expuestos anexo II
-
 número real plazas asiento
 masa máxima carga técnicamente admisible masa máxima declarada fabricante país origen disponible documentación oficial
 caso determinar fácilmente categoría vehículo diseño carrocería aplicarán condiciones expuestas anexo II
@@ -3267,7 +3258,6 @@ decimal aparece coma superior redondeará
 Directiva CEE aplica vehículos entran ámbito aplicación Directiva CE
 cumplimiento Directiva CE exime vehículos cumplir Directiva CEE
 Directiva CEE aplica vehículos masa máxima carga técnicamente admisible exceda toneladas
-
 Vehículos pertenecientes categoría
 Punto
 Referencia acto reglamentario
@@ -3753,8 +3743,6 @@ obligatoria
 Federal Motor Vehicle Safety Standard Norma federal seguridad vehículos motor Ministerio estadounidense Transporte
 Japan Safety Regulations for Road Vehicles Normas japonesas seguridad vehículos carretera
 Society of Automotive Engineers Sociedad Ingenieros Industria Automovilística
-
-
 CFC CO k–
 Número plazas sentadas incluido conductor
 Nivel emisiones escape Euro

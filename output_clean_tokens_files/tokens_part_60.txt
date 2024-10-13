@@ -401,7 +401,6 @@ Activo equivalente reservas exteriores transferidas BCE diciembre
 Activo equivalente reservas exteriores transferidas BCE efectos enero
 Importe transferencia
 Banca d’Italia
-
 transferir efectos fechas establecidas Decisión BCE
 razón redondeo totales coincidir suma cifras indicadas
 BCE
@@ -589,9 +588,7 @@ aplicable
 impureza relevante
 mayo
 abril
-
 autorizar usos insecticida
-
 aplicación principios uniformes anexo VI conclusiones informes revisión Bacillus thuringiensis subsp
 Aizawai ABTS SANCO GC SANCO particular apéndices II adoptados Comité permanente cadena alimentaria sanidad animal
 proceda condiciones deberán incluir medidas reducción riesgo
@@ -1032,7 +1029,6 @@ límite amarillo
 límite verde
 límite púrpura
 límite rojo
-
 DISPOSICIONES ADMINISTRATIVAS
 MODIFICACIÓN TIPO SISTEMA EXTENSIÓN HOMOLOGACIÓN
 modificación tipo sistema notificará servicio administrativo homologó
@@ -1105,11 +1101,6 @@ Clase
 Nivel
 Clase
 modos siguientes defina designación procede
-
-
-
-
-
 unidades alumbrado indican continuación tensión eléctrica
 aplica alumbrado curva izquierdo
 derecho
@@ -1208,12 +1199,10 @@ clase
 Elemento
 máx
 mín
-
 Zona III defineen cuadro abajo
 Segmento
 Segmento
 modos alumbrado curva cuadro aplica sustituido elementos líneas figuran continuación
-
 Cuadro
 Elementos posición angular valor grados haz cruce requisitos adicionales
 Posición angular valor grados
@@ -1223,17 +1212,9 @@ Haz cruce clase
 Haz cruce clase
 Designación haz requisitos
 Emax deberá situarse rectángulo formado segmento Emax
-
-
 corte partes deberán
 cumplir requisitos apartado anexo presente Reglamento codo situado VV
 colocarse horizontal esté
-
-
-
-
-
-
 Cuadro
 Zonas III haz cruce coordenadas picos
 Posición angular grados
@@ -1262,7 +1243,6 @@ Conjunto datos
 lux
 Emax lux
 Posición horizontal corte grados
-
 fines exclusivamente informativos valores fotométricos indicados cuadro figuran continuación candelas
 requisitos expresan Cd
 modos alumbrado curva cuadro aplica sustituido figuran continuación
@@ -1601,10 +1581,7 @@ pone duda conformidad
 procedimiento toma muestras figura presente anexo pondrá duda conformidad faros producidos serie desviaciones valores medidos sistemas direcciones desfavorables
 Muestra
 sistema
-
 sistemas
-
-
 pasar muestra
 Muestra
 reúnen condiciones punto referentes muestra
@@ -1625,7 +1602,6 @@ Muestra
 caso
 reúnen condiciones punto referentes muestra
 reúnen condiciones punto referentes muestra
-
 reúnen condiciones punto referentes muestras
 DESPLAZAMIENTO VERTICAL CORTE HAZ CRUCE
 verificar desplazamiento vertical corte haz cruce influjo calor seguirá procedimiento
@@ -1636,7 +1612,6 @@ Figura
 dispositivos
 toma muestras
 dispositivos elegidos azar repartidos muestras
-
 muestra
 Ajuste
 fabricante productos cumplan requisitos
@@ -1758,8 +1733,6 @@ define anexo presente Reglamento
 aplican disposiciones punto presente Reglamento
 Individual principal
 Conectado unidad principal
-
-
 Colocar cruz casillas función combinación aplicada
 Información comunicarse Naturaleza física corriente eléctrica tensión óptica mecánica hidráulica neumática etcTipo información continua analógica binaria encriptada digitalmente etcDatos cronológicos constante tiempo resolución etcEstado señal cumplen condiciones definidas punto Reglamento señal caso fallo relación entrada sistema
 descripción solicitantes Utilizar hoja caso necesario
@@ -1784,7 +1757,6 @@ ANEXO
 PRESCRIPCIONES FOTOMÉTRICAS APLICABLES HAZ CRUCE efectos presente anexo entenderá
 colocado eje vertical colocado eje vertical
 posiciones angulares expresan grados grados relación línea HH derecha izquierda línea VV
-
 Segmento BRR
 Segmento BLL
 haz cruce clase clase
@@ -1846,13 +1818,11 @@ anexo Reglamento CE queda modificado
 capítulo queda modificado
 punto sustituye texto
 Carne picada preparados carne base carne aves corral destinados consumidos cocinados
-
 Productos comercializados vida útil
 punto sustituye texto
 Productos cárnicos hechos base carne aves corral destinados consumidos cocinados
 punto sustituye texto
 Preparados deshidratados lactantes alimentos dietéticos deshidratados destinados usos médicos especiales lactantes meses
-
 nota capítulo añade guión
 Sal cocina
 punto capítulo modifica
@@ -1928,16 +1898,13 @@ Letonia
 Lituania
 Polonia
 Reino Unido
-
 rúbrica correspondiente granadero zonas Vb VI VII sustituye
 Granadero
 Zona Vb VI VII aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
 Lituania
-
 rúbrica correspondiente maruca azul zonas VI VII sustituye
 Maruca azul
 Zona VI VII aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
-
 Exclusivamente capturas accesorias
 cuota permite pesca dirigida especies concretas
 Bruselas diciembre
@@ -2049,7 +2016,6 @@ ecuación indicada sección utilizar instalaciones combustión queman combustibl
 relación tales instalaciones cálculo contribución techo emisión aplicable dióxido azufre fundamentarse aplicación índices mínimos desulfuración pertinentes valores límite emisión dióxido azufre
 caso contribución instalación combustión techo emisión dióxido azufre expresado toneladas año tpa calculará utilizando ecuación
 Contribución techo SO tpa Entrada azufre tpa IMD
-
 Entrada azufre cantidad anual azufre contenido combustible sólido nacional utilizó instalación combustión expresada toneladas año tpa promediada período
 IMD índice mínimo desulfuración pertinente expresado porcentaje
 detalles forma determinar índice mínimo desulfuración pertinente cálculo techos emisión figuran secciones
@@ -3195,7 +3161,6 @@ observar controlar funcionamiento granja ajusta dispuesto artículos bis ter qua
 validar informe introducción jaulas mencionado artículo
 cabo labor científica ejemplo recogida muestras solicitadas CICAA basándose instrucciones Comité Permanente Investigación Estadísticas CICAA
 observadores CICAA acceder buque personal granja artes jaulas equipo
-
 soliciten observadores CICAA acceso equipo indica continuación caso buques hayan asignados dispongan deberá facilitarles desempeño tareas indicadas apartado anexo VII
 equipo navegación satélite
 pantallas radar estén
@@ -3345,7 +3310,6 @@ Granja destino
 Nombre
 registro CICAA
 Almadraba
-
 Mes
 Hora
 Año
@@ -3582,7 +3546,6 @@ plan incluirá información indicada apartados presentará Comisión tardar agos
 miembros determinarán factores crecimiento aplicables atún rojo engordado criado jaulas notificarán Comisión metodología empleada tardar septiembre
 Comisión transmitirá información Secretaría CICAA Comité Permanente Investigación Estadísticas CICAA
 PCC
-
 efectos dispuesto apartado letra asignará cuota comunitaria atún rojo peso talla comprendidos kg cm kg cm buques captura autorizados mencionan apartado máximo toneladas atún rojo peso inferior kg cm capturado buques cebo vivo obstante dispuesto apartado
 Car
 Car
@@ -3696,7 +3659,6 @@ DO
 DO
 ANEXO
 Modelo ficha características certificado homologación tipo CE homologación tipo vehículos motor sistemas avanzados frenado emergencia AEBS
-
 Ficha características
 MODELO
 Ficha características relativa homologación tipo CE tipo vehículo respecta sistemas avanzados frenado emergencia AEBS
@@ -3772,7 +3734,6 @@ caso dispositivos frenado vacío nivel inicial energía depósitos
 DISPOSICIONES ESPECIALES AUTOBUSES AUTOCARES
 Clase vehículo Clase III clase Táchese proceda casos necesario tachar opción aplicable
 Notas explicativas
-
 CERTIFICADO HOMOLOGACIÓN TIPO CE
 Sello autoridad homologación tipo
 Comunicación relativa
@@ -4181,7 +4142,6 @@ Esposa General Brigada Hla Myint
 General Brigada Wai Lin
 Triángulo
 General Brigada Win Myint
-
 Coronel Zaw Min
 Sureste
 Esposa Coronel Zaw Min
@@ -4733,7 +4693,6 @@ desconocida
 référence
 Certificado veterinario importación peces vivos huevos gametos destinados cría peces vivos procedentes acuicultura fines consumo humano cría repoblación pesquerías suelta captura
 inspector oficial abajo firmante certifica peces vivos huevos gametos descritos punto presente certificado cumplen requisitos siguientes
-
 originarios territorio código explotaciones cuiden mantengan peces vivos huevos gametos especie considerada sensible siguientes enfermedades anemia infecciosa salmón AIS necrosis hematopoyética epizoótica NHE septicemia hemorrágica viral SHV necrosis hematopoyética infecciosa NHI
 registrados oficialmente autoridad competente
 llevan actualizan registro peces vivos huevos gametos introducidos explotación extraídos información relativa entrega expedición número peso talla origen proveedores mortalidad comprobada
@@ -4754,7 +4713,6 @@ objeto comprobación visual representativa envío seleccionada aleatoriamente in
 desinfectado apéndice sexta edición Código Sanitario Internacional Animales Acuáticos OIE
 Requisitos veterinarios específicos relación SHV NHI VPC NPI renibacteriosis Gyrodactylus salaris
 inspector oficial abajo firmante certifica peces vivos huevos gametos descritos punto presente certificado proceden territorio ofrecer garantías indicadas punto presente certificado aprobado autoridad competente calificación sanitaria equivalente explotaciones zonas Comunidad calificación aprobada relación SHV NHI
-
 proceden zona litoral explotaciones supervisión autoridad competente peces
 proceden zona continental explotaciones supervisión autoridad competente peces
 proceden explotación designada supervisión autoridad competente agua suministra sistema garantiza completa inactivación SHV NHI peces
@@ -4773,7 +4731,6 @@ peces vacunados VPC NPI renibacteriosis
 explotaciones crían especies sensibles VPC NPI renibacteriosis supervisión autoridad competente
 toman medidas necesarias evitar introducción enfermedades
 ofrecer garantías indicadas punto presente certificado aprobado autoridad competente calificación sanitaria equivalente zonas Comunidad ofrecen garantías adicionales relación VPC NPI renibacteriosis
-
 proceden territorio considerado indemne VPC NPI renibacteriosis arreglo anexo Decisión CE
 proceden explotación época año manifestarse VPC NPI renibacteriosis sometido mínimo años inspecciones autoridades competentes muestreo equivalente programas muestreo establecidos Decisión CE Comisión métodos vigilancia descritos capítulo capítulos pertinentes Manual Pruebas Diagnóstico Animales Acuáticos OIE pruebas laboratorio arreglo capítulos pertinentes edición reciente Manual habiendo pruebas resultados negativos
 proceden explotación continental años anteriores registrado casos VPC NPI renibacteriosis eliminado población piscícola desinfectado estanques depósitos instalaciones supervisión autoridad competente repoblado peces cuya procedencia certificada indemne autoridad competente muestreo equivalente programas muestreo establecidos Decisión CE Comisión métodos vigilancia descritos capítulo capítulos pertinentes Manual Pruebas Diagnóstico Animales Acuáticos OIE sometido pruebas laboratorio arreglo capítulos pertinentes edición reciente Manual habiendo pruebas resultados negativos
@@ -4788,14 +4745,12 @@ proceden explotación litoral situada zona litoral salinidad inferior partes mil
 proceden explotación litoral situada zona litoral salinidad superior partes mil anteriores introducido peces vivos especies sensibles
 proceden explotación huevos desinfectado apéndice sexta edición Código Sanitario Internacional Animales Acuáticos OIE garantizándose eliminación salaris
 Requisitos transporte
-
 puestos condiciones modifican calificación sanitaria
 colocado recipientes estancos precintados previamente lavados desinfectados desinfectante autorizado llevan exterior etiqueta legible embarcación vivero vivero sistemas conducción bombeo exentos peces limpiados desinfectados desinfectante autorizado inspeccionados carga acompañada manifiesto información pertinente contemplada puntos presente certificado declaración
 Peces vivos huevos gametos certificados cría zonas explotaciones Comunidad Europea tengan calificación programa aprobados Comunidad apliquen garantías adicionales relación septicemia hemorrágica viral SHV necrosis hematopoyética infecciosa NHI viremia primaveral carpa VPC necrosis pancreática infecciosa NPI renibacteriosis Gyrodactylus salaris
 Peces vivos procedentes acuicultura certificados fines repoblación pesquerías suelta captura zonas explotaciones Comunidad Europea tengan calificación programa aprobados Comunidad apliquen garantías adicionales medidas protección relación septicemia hemorrágica viral SHV necrosis hematopoyética infecciosa NHI viremia primaveral carpa VPC necrosis pancrática infecciosa NPI renibacteriosis Gyrodactylus salaris
 Peces vivos huevos gametos certificados cría zonas explotaciones Comunidad Europea incluidas tengan calificación programa aprobados Comunidad apliquen garantías adicionales medidas protección relación septicemia hemorrágica viral SHV necrosis hematopoyética infecciosa NHI viremia primaveral carpa VPC necrosis pancreática infecciosa NPI renibacteriosis Gyrodactylus salaris
 Peces vivos procedentes acuicultura certificados fines repoblación pesquerías suelta captura zonas explotaciones Comunidad Europea incluidas tengan calificación programa aprobados Comunidad apliquen garantías adicionales medidas protección relación septicemia hemorrágica viral SHV necrosis hematopoyética infecciosa NHI viremia primaveral carpa VPC Gyrodactylus salaris
-
 mayúsculas nombre apellidos cualificación cargo
 Notas
 Táchese proceda

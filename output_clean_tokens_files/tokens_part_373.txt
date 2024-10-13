@@ -1154,7 +1154,6 @@ DO
 DO
 ANEXO
 CATÁLOGO MATERIAS PRIMAS PIENSOS
-
 Disposiciones generales
 utilización presente Catálogo explotadores empresas piensos voluntaria
 denominación materia prima piensos figure utilizarse materia prima cumpla requisitos entrada trate
@@ -1194,7 +1193,6 @@ contenido humedad inferior obligatoria declaración
 fijado nivel humedad específico dicha columna aplicará punto anexo Reglamento CE
 explotador empresa piensos declare materia prima piensos propiedades especificadas columna Descripción lista materias primas piensos haga referencia tratamiento enumerado asimilarse declaración ejemplo protección degradación ruminal ajustarse dispuesto artículo Reglamento CE
 materias primas piensos cumplir objetivo nutrición específico conformidad artículos Reglamento CE
-
 Glosario tratamientos
 Tratamiento
 Definición
@@ -1405,7 +1403,6 @@ Separación aceites grasas aceites grasas hidrogenados
 Proceso químico hidrólisis grasas aceites
 reacción grasas aceites agua realizada altas temperaturas presiones permite obtención ácidos grasos brutos fase hidrofóbica aguas dulces glicerol bruto fase hidrofílica
 Separado
-
 Lista materias primas piensos
 Granos cereales productos derivados
 Número
@@ -2760,7 +2757,6 @@ Subproductos fabricación aminoácidos Escherichia coli
 Subproductos fabricación aminoácidos fermentación Escherichia coli sustratos origen vegetal químico amonio sales minerales
 Subproducto elaboración enzimas Aspergillus niger
 Subproducto fermentación Aspergillus niger trigo malta fabricación enzimas
-
 Productos panadería fabricación pastas alimenticias
 Productos obtenidos producción pan galletas obleas pasta
 secos
@@ -3605,7 +3601,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -3619,7 +3614,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -3633,7 +3627,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -4969,7 +4962,6 @@ Variable partida
 Excepción
 Período referencia cubierto excepción
 transmisión
-
 Exención
 Empleo
 distingue trabajadores ajena trabajadores
@@ -4977,15 +4969,12 @@ Remuneración asalariados
 Desglose datos anuales
 Desglose
 Desglose nivel agregación
-
 Transmisión sector hogares sectores
 Transmisión sector hogares sectores
-
 desglosan
 Transmisión
 Transmisión
 CFAP
-
 Decisión CE Euratom Comisión febrero establecimiento metodología paso Sistema Europeo Cuentas Económicas Integradas SEC edición Sistema Europeo Cuentas Nacionales Regionales Comunidad SEC DO
 Decisión CE Comisión noviembre clarifica anexo Reglamento CE Consejo relativo sistema europeo cuentas nacionales regionales Comunidad principios medición precios volúmenes DO
 efectos presente disposiciones Decisión entenderán arreglo adaptación

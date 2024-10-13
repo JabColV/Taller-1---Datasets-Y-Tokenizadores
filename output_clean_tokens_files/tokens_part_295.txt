@@ -458,7 +458,6 @@ principales criterios impuestos política nacional inversión cabe mencionar cre
 empresas conjuntas joint ventures inversores bahameños extranjeros sujetas aprobación Consejo Económico Nacional arreglo política nacional inversión base dicha prueba necesidades económicas beneficios
 AGRICULTURA GANADERÍA CAZA SILVICULTURA
 Agricultura ganadería caza
-
 Silvicultura explotación forestal
 PESCA
 buques ejerzan actividad pesquera zona económica exclusiva pertenecer únicamente personas físicas jurídicas Bahamas indica Ley Jurisdicción Conservación Recursos Pesqueros
@@ -541,7 +540,6 @@ empresas comerciales
 Sujeto examen necesidades económicas caso PSC
 Servicios aplicación programas informática CCP
 instalaciones informáticas establecimientos comerciales autorizadas empresas conjuntas joint ventures compañías bahameñas
-
 Servicios tratamiento datos CCP
 Servicios bases datos CCP
 CCP
@@ -599,7 +597,6 @@ Servicios intercambio electrónico datos IED CCP
 Servicios facsímil ampliados valor añadido incluidos almacenamiento retransmisión almacenamiento recuperación
 Conversión códigos protocolos
 Procesamiento datos información línea inclusión procesamiento transacción CCP
-
 Internet acceso internet voz CCP
 Servicios comunicaciones personales servicios móviles datos servicios radiobúsqueda sistemas radioeléctricos troncales
 Servicios venta arrendamiento mantenimiento conexión reparación asesoramiento relacionados equipos telecomunicaciones CCP
@@ -639,7 +636,6 @@ Gestión residuos aguas residuales CCP
 SERVICIOS ELIMINACIÓN DESPERDICIOS CCP
 Servicios recogida residuos peligrosos CCP
 Servicios tratamiento eliminación residuos peligrosos CCP
-
 Servicios limpieza gases combustión CCP
 Sujeto examen necesidades económicas caso PSC
 Servicios amortiguamiento ruidos CCP
@@ -659,7 +655,6 @@ Servicios actuariales CCP
 Servicios consultores actuariales evaluación riesgos liquidación siniestros CCP
 SERVICIOS BANCARIOS SERVICIOS FINANCIEROS excluidos seguros
 Aceptación depósitos fondos reembolsables público CCP
-
 Préstamos tipo incluidos préstamos personales préstamos hipotecarios actividades factoring financiación transacciones comerciales CCP
 Arrendamiento financiero CCP
 servicios pago transferencia monetaria servicios transferencia monetaria CCP
@@ -1068,7 +1063,6 @@ Anexo Contingentes arancelarios OMC concedidos autoridades comunitarias competen
 Sección IV Tratamiento arancelario favorable razón naturaleza mercancías
 Anexo Mercancías impropias consumo lista desnaturalizantes
 Anexo Certificados
-
 DISPOSICIONES PRELIMINARES
 SECCIÓN
 REGLAS GENERALES
@@ -1136,7 +1130,6 @@ Barcos pesca barcos factoría barcos preparación conservación productos pesca
 arqueo bruto superior
 arqueo bruto inferior
 Yates barcos embarcaciones recreo deporte barcas botes remo canoas
-
 Barcos vela motor auxiliar
 Barcos motor motores fueraborda
 Remolcadores barcos empujadores
@@ -1308,7 +1301,6 @@ st Cien unidades
 Mil unidades
 TJ Terajulios calorífico superior
 unidad suplementaria
-
 CUADRO DERECHOS
 ANIMALES VIVOS PRODUCTOS REINO ANIMAL
 Notas
@@ -1988,7 +1980,6 @@ Pepinillos
 Hortalizas vaina estén desvainadas frescas refrigeradas
 Guisantes arvejas chícharos Pisum sativum
 Judías porotos alubias frijoles fréjoles Vigna spp Phaseolus spp
-
 hortalizas frescas refrigeradas
 Espárragos
 Berenjenas
@@ -2652,7 +2643,6 @@ efectos subpartidas considerarán cocer productos hayan sometido tratamiento té
 efectos subpartidas expresión trozos aplica únicamente preparaciones conservas carne puedan identificarse dimensiones características tejido muscular coherente procedentes piernas chuleteros espinazos paletas cerdo doméstico caso
 Embutidos productos similares carne despojos sangre preparaciones alimenticias base productos
 hígado
-
 Embutidos secos untar cocer
 preparaciones conservas carne despojos sangre
 Preparaciones homogeneizadas
@@ -3546,7 +3536,6 @@ valores línea II comprendida valores líneas II destilasen volumen °C superior
 disposiciones aplican aceites presenten color diluido inferior
 Tabla correspondencia color diluido Cviscosidad
 Color
-
 Viscosidad
 viscosidad entiende viscosidad cinemática °C expresada s– norma ISO
 entenderá color diluido color presente disolución obtenida añadiendo unidad volumen producto unidades volumen xileno tolueno disolvente apropiado midiendo color norma ASTM
@@ -3960,7 +3949,6 @@ Cincatos vanadatos
 sales ácidos peroxoácidos inorgánicos incluidos aluminosilicatos constitución química definida aziduros azidas
 Silicatos dobles complejos incluidos aluminosilicatos constitución química definida
 Sales simples dobles complejas ácidos selenio teluro
-
 Metal precioso coloidal compuestos inorgánicos orgánicos metal precioso constitución química definida amalgamas metal precioso
 Metal precioso coloidal
 Plata

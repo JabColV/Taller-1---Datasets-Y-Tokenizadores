@@ -820,16 +820,8 @@ momento cese servicio salvedad denegarse reembolso agente hubiera dimitido cumpl
 aplicarán siguientes límites reembolso gastos transporte mobiliario enseres inclusión embalaje
 agentes perciben asignación familiar
 Ajeno escalafón
-
-
-
-
-
 kg hijo conviva agente
 agentes perciban asignación familiar
-
-
-
 acogerse dispuesto presente sección agentes deberán someter aprobación previa jefe Administración Personal presupuestos empresas relativos gastos transporte previstos inventario mobiliario enseres
 concederá reembolso límite derecho generado tenor presupuesto
 agentes solicitar reembolso previsto presente sección caso sufrague parcialmente gobierno autoridad
@@ -1057,7 +1049,6 @@ DO
 Decisión Ejecución UE Comisión noviembre establece formato común presentación información prevista Directiva UE Parlamento Europeo Consejo relativa protección animales utilizados fines científicos DO
 ANEXO
 ANEXO II
-
 DIAGRAMA FLUJO CATEGORÍAS ENTRADAS DATOS ESTADÍSTICOS MARCO ARTÍCULO APARTADO
 Tipos animales
 Ratones Mus musculus
@@ -1130,7 +1121,6 @@ Preservación especies
 Enseñanza superior formación adquisición mantenimiento mejora competencias profesionales
 Investigaciones forenses
 Mantenimiento colonias animales genéticamente alterados establecidos utilizados procedimientos
-
 Utilización reglamentaria producción rutinaria tipos
 Control calidad incluidos ensayos seguridad potencia lotes
 ensayos eficacia tolerancia
@@ -1157,14 +1147,10 @@ Fototoxicidad
 Ecotoxicidad
 Ensayos seguridad ámbito alimentación humana animal
 Seguridad animales destinatarios
-
 Toxicidad aguda
 Toxicidad crónica
 Actividad endocrina
 Bioacumulación
-
-
-
 Métodos ensayo toxicidad aguda subaguda
 métodos letales
 Métodos letales
@@ -1215,7 +1201,6 @@ Bienestar animales
 Diagnóstico enfermedades
 Enfermedades plantas
 Toxicología ecotoxicología reglamentarias
-
 INSTRUCCIONES DETALLADAS PRESENTAR DATOS ESTADÍSTICOS UTILIZACIÓN ANIMALES FINES CIENTÍFICOS MARCO ARTÍCULO APARTADO
 FORMATO COMUNICACIÓN PRESENTACIÓN INFORMACIÓN PREVISTA ARTÍCULO APARTADO DIRECTIVA UE
 datos deberán introducirse utilización animal
@@ -1771,21 +1756,13 @@ DESGLOSE PRESUPUESTO GLOBAL
 Desglose indicativo presupuesto anual Programa
 Porcentaje presupuesto
 Capítulo apoyo acciones culturales
-
 proyectos plurianuales cooperación
-
 acciones cooperación
-
 acciones especiales
-
 Capítulo apoyo organismos activos ámbito cultura
-
 Capítulo apoyo análisis recopilación difusión información
-
 gastos operativos
-
 Gestión Programa
-
 porcentajes indicativos susceptibles alterados Comité establecido artículo conformidad procedimiento refiere artículo apartado
 DO
 DO
@@ -3450,7 +3427,6 @@ Extractos esencias concentrados sucedáneos café tostados achicoria tostada
 Helados productos similares cacao
 Pastas lácteas untar contenido grasas superior inferior peso
 Preparaciones alimenticias expresadas comprendidas partidas distintas códigos NC distintas jarabes aromatizados colorantes Mezclas sustancias odoríferas mezclas incluidas disoluciones alcohólicas base sustancias tipo utilizadas industrias bebidas
-
 Bebidas alcohólicas exclusión jugos frutas legumbres hortalizas partida contengan productos códigos NC inclusive materias grasas procedentes productos códigos NC
 EAR Elementos agrícolas reducidos calculados importes básicos figuran Protocolo aplicables límites cuantitativos contingentes
 elementos agrícolas reducidos sometidos derecho máximo previsto procede Arancel Aduanero Común caso productos correspondientes códigos NC derecho máximo previsto

@@ -541,7 +541,6 @@ cisternas deberá máximo litros descarga completa
 Consumo agua lavavajillas punto
 consumo agua lavavajillas expresado Wmedido inferior umbral definido ecuación indica continuación utilizando método ensayo ciclo programa elegidos Directiva CE
 Wmedido
-
 medido
 consumo medido agua lavavajillas expresado litros ciclo decimal
 capacidad cubiertos lavavajillas indicada
@@ -2958,7 +2957,6 @@ Dificultad alcanzar cosas estirarse
 Dificultad levantar cosas
 Dificultades agacharse
 Dificultades sostener empuñar girar
-
 dificultad actividad básica codifique dificultad importante
 personas años DIFFICMA
 problemas salud enfermedades dificultades limitan número horas persona trabajar semana
@@ -3272,7 +3270,6 @@ DO versión corregida DO
 DO
 ANEXO
 Condiciones mínimas estaciones cuarentena
-
 Condiciones construcción equipamiento
 estación cuarentena local separado estaciones cuarentena explotaciones zonas cría moluscos distancia especificada autoridad competente base evaluación riesgo epidemiología correspondientes enfermedades enumeradas
 obstante estación cuarentena situada explotación zona cría moluscos
@@ -3287,7 +3284,6 @@ unidades cuarentena construirse prevenga contacto animales puedan propagar corre
 equipamiento construirse limpiarse desinfectarse disponerse equipo apropiado limpieza desinfección
 instalarán barreras higiénicas entradas salidas estación cuarentena unidades
 unidad cuarentena estación cuarentena equipo evitar contaminación cruzada diversas unidades
-
 Condiciones aplicables gestión
 agente económico producción acuícola estación cuarentena procurará contrato instrumento jurídico servicios profesional sanitario cualificado autorizado animales acuicultura
 partida animales acuicultura sometida cuarentena
@@ -3981,7 +3977,6 @@ fila correspondiente triflusulfurón anexo queda modificada
 columna relativa pureza sustituye texto
 kg
 columna Disposiciones específicas sustituye texto
-
 autorizar usos herbicida
 Artículo
 Entrada vigor
@@ -4470,7 +4465,6 @@ Quesos conservables franceses
 denominación origen protegida tipos beaufort comté
 Emmental grand cru etiqueta roja
 clase tipos emmental gruyère
-
 junio septiembre
 octubre marzo
 Quesos conservables alemanes
@@ -4627,9 +4621,7 @@ CIPAC
 Acetato dodecilguanidina
 junio
 mayo
-
 autorizarse usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión dodina particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal noviembre
 evaluación general miembros deberán atender especialmente
 riesgo potencial plazo aves mamíferos

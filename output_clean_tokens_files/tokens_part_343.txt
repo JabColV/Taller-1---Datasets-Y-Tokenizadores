@@ -46,7 +46,6 @@ Turquía
 Brasil
 Rusia
 Corea Sur
-
 terceros países
 volúmenes totales importación magnesita calcinada muerte originaria terceros países distintos República Popular China duplicaron período considerado aumentando toneladas toneladas período investigación
 principales exportadores Comunidad Australia Corea Norte Turquía Brasil Rusia Corea Sur
@@ -57,7 +56,6 @@ precios medios importaciones originarias terceros países superiores industria C
 Cabe señalar importaciones producto afectado procedente países representaron importaciones Comunidad período considerado cuota mercado acumulada Comunidad frente cuota mercado República Popular China
 Cuadro Importaciones Comunidad terceros países precios
 Importaciones Comunidad procedentes terceros países EUR
-
 datos anteriores importaciones producto afectado procedentes terceros países tuvieron repercusión significativa situación económica industria Comunidad período considerado
 Conclusión situación industria Comunidad
 medidas vigentes lugar recuperación parcial industria Comunidad
@@ -1055,13 +1053,9 @@ Indicador
 Diámetro
 Longitud
 Pequeño
-
 mm
 Mediano
-
 mm
-
-
 mm
 consiguiente Comisión propuso utilizar datos afinar valor normal calcular márgenes dumping base
 casos elementos fijación encuadrasen rangos utilizarían cálculo dumping
@@ -1352,7 +1346,6 @@ Ventas industria Unión Unión miles EUR
 Ventas industria Unión Unión
 Precio venta unitario industria Unión Unión EUR
 Cuota mercado industria Unión
-
 datos revisados incluidos cuadro confirman conclusiones descritas considerandos Reglamento definitivo medida confirman tendencias perjuicio
 ventas industria Unión aumentaron período considerado lugar constató investigación original valor lugar
 constató tendencias similares investigación original
@@ -2157,7 +2150,6 @@ industria Comunidad considerarse año referencia excepcional situación específ
 industria Comunidad logró reducir pérdidas importaciones originarias RPC alcanzaron punto máximo
 Rentabilidad
 ustria Comunidad logró reducir pérdidas importaciones originarias RPC alcanzaron punto máximo
-
 ustria Comunidad logró reducir pérdidas importaciones originarias RPC alcanzaron punto máximo
 flujo caja negativo período considerado año corresponde reducción pérdidas industria Comunidad año
 Flujo caja índice
@@ -4546,9 +4538,7 @@ usos argumentados deberán objeto decisión inclusión modificarse medida necesa
 Corrección errores Reglamento UE Parlamento Europeo Consejo julio relativo competencia ley aplicable reconocimiento ejecución resoluciones aceptación ejecución documentos públicos materia sucesiones mortis causa creación certificado sucesorio europeo
 Diario Oficial Unión Europea julio
 página artículo párrafo
-
 respecta artículos aplicables enero
-
 respecta artículos aplicables noviembre
 Decisión Comité Mixto EEE
 abril
@@ -4637,7 +4627,6 @@ DO
 ANEXO
 anexo II Decisión CE queda modificado
 sustituye texto
-
 Territorios regionalizados países enumerados partes
 País
 Territorio
@@ -4895,7 +4884,6 @@ Directiva modificada lugar Directiva CE DO
 DO
 DO
 ANEXO
-
 DEFINICIONES
 efectos presente anexo aplicarán siguientes definiciones
 lote
@@ -4906,7 +4894,6 @@ muestra global
 agregación muestras elementales tomadas lote sublote muestras globales considerarán representativas lotes sublotes obtengan
 muestra laboratorio
 muestra destinada laboratorio
-
 MÉTODOS MUESTREO
 DISPOSICIONES GENERALES
 Personal
@@ -4946,9 +4933,7 @@ Subdivisión lotes sublotes productos comercializan partidas granel
 Peso lote toneladas
 Peso sublotes número sublotes
 toneladas
-
 sublotes
-
 toneladas
 Cuadro
 Subdivisión lotes sublotes productos
@@ -4957,7 +4942,6 @@ Cuadro
 Número mínimo muestras elementales tomarse lote sublote
 Peso volumen lote sublote kg
 Número mínimo muestras elementales tomarse
-
 cuadro indica número envases unidades deberán tomarse formar muestra global caso lote sublote esté formado envases individuales unidades
 Cuadro
 Número envases unidades muestras elementales deberán tomarse formar muestra global lote sublote formado envases individuales unidades
@@ -4971,7 +4955,6 @@ resultado prueba realizada muestra global latas inferior cercano nivel máximo e
 MUESTREO FASE COMERCIO MINORISTA
 toma muestras productos alimenticios fase comercio minorista realizará conformidad normas muestreo establecidas puntos presente anexo
 emplearse fase método muestreo alternativo garantice representatividad suficiente lote sublote objeto muestreo
-
 PREPARACIÓN ANÁLISIS MUESTRAS
 NORMAS CALIDAD APLICABLES LABORATORIOS
 PREPARACIÓN MUESTRAS

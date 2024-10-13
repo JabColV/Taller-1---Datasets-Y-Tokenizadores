@@ -13,7 +13,6 @@ Comisión hará tramitar observaciones adjuntas decisión Parlamento Europeo des
 petición Parlamento Europeo Consejo Comisión informará medidas adoptadas raíz observaciones comentarios particular instrucciones dadas servicios respectivos encargados ejecución financiera recursos FED
 informe remitirá igualmente Tribunal Cuentas
 decisión descargo gestión financiera publicará Diario Oficial Unión Europea
-
 DISPOSICIONES ESPECÍFICAS RELATIVAS RECURSOS FED GESTIONADOS BEI
 Artículo
 BEI comunicará Comisión septiembre año previsiones compromisos pagos necesarias elaborar comunicación Comisión contemplada artículo apartado interno operaciones mecanismo inversión incluidas bonificaciones intereses arreglo interno
@@ -43,7 +42,6 @@ Artículo
 programas proyectos fueren cofinanciados miembros organismos ejecución respondieren prioridades enunciadas estrategias cooperación país contempladas Reglamento ejecución previsto artículo apartado párrafo interno artículo Decisión Asociación ultramar BEI confiar miembros organismos ejecución responsabilidad gestionar ayudas Comunidad
 Artículo
 disposiciones aplicación presente objeto convenio gestión Comisión nombre Comunidad BEI
-
 DISPOSICIONES TRANSITORIAS FINALES
 DISPOSICIONES TRANSITORIAS
 Transferencia remanentes FED anteriores
@@ -2783,7 +2781,6 @@ Volumen toneladas
 Pakistán
 México
 Turquía
-
 importaciones procedentes Pakistán aumentaron período considerado particular finalizar procedimiento importaciones
 importaciones Unidos aumentaron considerablemente alcanzar toneladas PIR
 importaciones procedentes México pasaron toneladas toneladas PIR representa incremento
@@ -3196,12 +3193,9 @@ Consejo
 Presidente
 DO
 TRADUCCIÓN
-
 Unión Europea República Mali estatuto misión militar Unión Europea República Mali destinada contribuir formación fuerzas armadas Mali EUTM Mali
 UNIÓN EUROPEA sucesivo UE
-
 REPÚBLICA MALI sucesivo anfitrión
-
 denominadas sucesivo Partes
 TENIENDO
 carta presidente República Mali diciembre invitaba Unión Europea desplegar territorio misión militar formación
@@ -3391,7 +3385,6 @@ Transcurrida fecha obtener muestras arreglo dispuesto apartados artículo Reglam
 volumen entregado empresas autorizadas limitado litros cuba
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos correrán cargo empresas venda alcohol
@@ -3848,18 +3841,12 @@ extracto semillas soja negra fermentadas extracto Touchi polvo fino color marró
 extracto contiene inhibidor alfaglucosidasa
 Características químicas extracto semillas soja negra fermentadas
 Grasas
-
 Proteínas
-
 Agua
-
 Cenizas
-
 Hidratos carbono
-
 Actividad inhibidora alfaglucosidasa
 Isoflavona soja
-
 mín mg ml
 Reglamento CE Comisión
 febrero
@@ -4093,7 +4080,6 @@ Materiales fragmentación
 Chatarra ferrosa acero
 Materiales ferrosos aluminio cobre cinc plomo etc
 Fragmentos ligeros
-
 Cuadro Control piezas vehículos vida útil originarios miembro exportados tratamiento toneladas año
 Peso vehículos vida útil exportados país
 Reciclado piezas vehículos vida útil exportados
@@ -4351,11 +4337,9 @@ Dicha solicitud cumple requisitos fijación contribuciones financieras estableci
 Corrección errores Reglamento CE Consejo diciembre relativo competencia ley aplicable reconocimiento ejecución resoluciones cooperación materia obligaciones alimentos
 Diario Oficial Unión Europea enero
 página artículo apartado letras
-
 secciones capítulo IV aplicarán
 resoluciones dictadas miembros fecha aplicación presente Reglamento soliciten dicha fecha reconocimiento declaración demuestre fuerza ejecutiva
 resoluciones dictadas fecha aplicación presente Reglamento procedimientos iniciados dicha fecha medida dichas resoluciones fines reconocimiento ejecución entren ámbito aplicación Reglamento CE
-
 resoluciones dictadas fecha aplicación presente Reglamento procedimientos iniciados dicha fecha
 medida dichas resoluciones fines reconocimiento ejecución entren ámbito aplicación Reglamento CE
 Decisión Consejo
@@ -4884,9 +4868,7 @@ código ZZ significa orígenes
 Corrección errores Reglamento CE Consejo marzo establece derecho antidumping definitivo importaciones determinados compresores originarios República Popular China
 Diario Oficial Unión Europea marzo
 página considerando letra guión página considerando cuadro columna quinta entrada página considerando cuadro columna quinta entrada página artículo apartado cuadro columna Empresa quinta entrada
-
 Nu Air Shanghai Compressor and Tools Co Ltd
-
 Nu Air Shanghai Compressors and Tools Co Ltd
 Decisión Comisión
 octubre

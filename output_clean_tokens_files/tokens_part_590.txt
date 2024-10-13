@@ -540,7 +540,6 @@ miembro País
 Consentimiento otorgado
 Lista condiciones consentimiento
 Referencia anexos
-
 aplicable epígrafes marcados asterisco táchese proceda
 decisión adoptada registrada presente sección alcanzado conformidad dispuesto Directiva Euratom
 informa autoridades competentes países afectados
@@ -963,7 +962,6 @@ prueba viabilidad Alemania presentó esencialmente siguientes cifras
 CAGR
 Banca corporativa
 Mercado capitales
-
 sinergias
 Ganancias sinergias modelo comercial
 incluidas sinergias
@@ -1803,7 +1801,6 @@ País Bulgaria
 HC NHC
 rúbrica correspondiente Portugal correspondiente Eslovenia incluye rúbrica relativa Rumanía
 País Rumanía
-
 Sofía
 Reglamento Ejecución UE Comisión
 julio
@@ -3253,16 +3250,13 @@ DO
 Directiva modificada lugar Directiva CE Parlamento Europeo Consejo DO
 DO
 ANEXO
-
 Zona protección mencionada artículo
 Código ISO país
 miembro
 Código
-
 Nombre
 Reino Unido
 Zona comprende condados Oxfordshire Warwickshire incluida círculo kilómetros radio cuyo centro sitúa coordenadas cartográficas SP
-
 Zona vigilancia mencionada artículo
 Zona comprende condados Oxfordshire Warwickshire incluida círculo kilómetros radio cuyo centro sitúa coordenadas cartográficas SP
 Coordenadas figuran mapa serie Landranger escala publicado Servicio Nacional Cartografía

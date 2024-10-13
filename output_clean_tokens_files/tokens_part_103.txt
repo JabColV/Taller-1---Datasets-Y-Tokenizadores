@@ -790,7 +790,6 @@ PUNTO EXPORTACIÓN SALIDA
 EMPRESA
 DIRECCIÓN
 INSTALACIÓN ENGORDE DESTINO
-
 ICCAT IEAR
 DESCRIPCIÓN TRANSPORTE Adjuntar documentación pertinente
 IMPORTADOR COMPRADOR
@@ -993,7 +992,6 @@ Tipo producto
 Peso neto
 CPC pabellón
 Fecha importación
-
 DESCRIPCIÓN ATÚN ROJO REEXPORTACIÓN
 Número correspondiente BCD
 fresco FR congelado RD peso vivo GG eviscerado agallas DR canal FL filete OT formas Describir tipo producto
@@ -2445,7 +2443,6 @@ Corea Sur
 Rusia
 México
 Arabia Saudí
-
 Situación económica industria Unión
 conformidad artículo apartado Reglamento base evaluado factores indicadores económicos influían situación industria Unión período considerado
 cuantificar perjuicio calculado serie indicadores nivel macroeconómico nivel microeconómico
@@ -3235,7 +3232,6 @@ apéndice sustituye texto
 Apéndice
 TIPOS BUQUES ERI
 utilizarse tabla convertir tipos buques Naciones Unidas utilizan mensaje navegación interior tipos OMI utilizan mensaje OMI
-
 Subdivisión Código
 Nombre
 Códigos adicionales medios transporte marítimo
@@ -3579,15 +3575,12 @@ Código NC
 Designación mercancía
 Volumen contingente toneladas
 Tipo derechos aplicables límites contingente
-
-
 Mantequilla manteca materias grasas leche pastas lácteas untar
 Pastas lácteas untar
 contenido grasas superior inferior peso
 contenido grasas superior inferior peso
 Artículos confitería cacao incluido chocolate blanco
 grasas superior inferior peso
-
 Chocolate preparaciones alimenticias contengan cacao
 Cacao polvo adición azúcar edulcorante inferior peso
 contenido sacarosa isoglucosa superior peso incluido azúcar invertido calculado sacarosa
@@ -3616,7 +3609,6 @@ tipo NMF
 Cigarros puros despuntados puritos contengan tabaco
 Cigarrillos contengan tabaco tabaco
 contengan clavo ngan tabaco
-
 contingente toneladas abierto enero diciembre derecho contingente
 Decisión PESC Consejo
 diciembre
@@ -4136,7 +4128,6 @@ Protección desarrollo promoción activos turismo público
 Desarrollo promoción servicios turismo público
 Protección desarrollo promoción activos cultura patrimonio públicos
 Desarrollo promoción servicios cultura patrimonio públicos
-
 Capacidad institucional administraciones servicios públicos relacionados aplicación FEDER acciones apoyo iniciativas desarrollo capacidad institucional FSE
 Iniciativas desarrollo local cargo comunidades locales zonas urbanas rurales
 Regiones ultraperiféricas compensación costes adicionales derivados déficit accesibilidad fragmentación territorial
@@ -4525,7 +4516,6 @@ ADOPTADO PRESENTE DECISIÓN
 Convenio mayo relativo régimen común tránsito queda modificado establecido apéndice presente Decisión
 modificaciones establecidas punto apéndice presente Decisión aplicación enero
 modificaciones establecidas puntos apéndice presente Decisión aplicación enero
-
 Comisión Mixta UEAELC
 Tránsito Común
 Decisión Comité Mixto EEE
@@ -4960,23 +4950,19 @@ DO
 ANEXO
 ANEXO II bis
 Códigos control controles realizados aduana exportación aduana salida aduana destino ejemplar control
-
 Resultados control referencia artículo apartado letra Reglamento CE
 Código control
 control físico restituciones exportación previsto artículo Reglamento CE
 análisis conformidad artículo Reglamento CE
 exportación ayuda alimentaria virtud Reglamento CE exenta control físico
-
 Resultados control referencia artículo apartado letra Reglamento CE
 precinto conforme justificado ausencia precinto conformidad dispuesto artículo apartado Reglamento CE
 precinto falta roto
-
 Resultados control referencia artículo apartado letra Reglamento CE
 resultados control sustitución contemplado artículo Reglamento CE conformes
 tomado muestra virtud control sustitución contemplado artículo control sustitución específico contemplado artículo Reglamento CE resultados disponibles finalizado comprobación análisis laboratorio
 resultados control sustitución específico contemplado artículo Reglamento CE conformes
 resultados control sustitución contemplado artículo control sustitución específico contemplado artículo Reglamento CE conformes
-
 Resultados control referencia artículo apartado Reglamento CE
 aplicación gestión riesgos difícil tipo restitución menciona ejemplar control documento equivalente exportador esté exento conformidad artículo Reglamento CE
 aplicación gestión riesgos difícil ejemplar control documento equivalente indica mención contemplada artículo anexo III Reglamento CE

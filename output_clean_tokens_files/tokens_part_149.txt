@@ -696,9 +696,7 @@ DO
 Corrección errores Directiva CEE Consejo julio establecen condiciones policía sanitaria aplicables intercambios importaciones Comunidad animales esperma óvulos embriones sometidos condiciones normativas comunitarias específicas refiere sección anexo Directiva CEE
 Diario Oficial Comunidades Europeas septiembre
 página artículo párrafo
-
 espera aplicación decisiones previstas punto artículo artículo Directiva CEE
-
 espera aplicación decisiones previstas artículo letra artículo Directiva CEE
 Reglamento Ejecución UE Comisión
 octubre
@@ -1646,7 +1644,6 @@ prestación atribuida veinte años valor actual costes esperados asistencia méd
 casos espere empleado abandone empresa años servicio alcanzar veinte prestación atribuida años valor actual costes esperados asistencia médica
 trabajadores necesario atribuir prestación servicios prestados finalización décimo año fecha estimada abandono empresa
 caso importe prestación consista porcentaje constante sueldo año servicio incrementos sueldos futuros afectarán importe necesario cumplir obligación existente años servicio pasados cierre ejercicio informa crearán obligación adicional
-
 efectos párrafo letra incrementos sueldos suponen mayores prestaciones importe prestaciones depender cuantía sueldo
 importe prestación atribuida ejercicio porcentaje constante sueldo prestaciones estén relacionadas
 Ejemplo ilustrativo párrafo
@@ -2560,7 +2557,6 @@ Explicación símbolos utilizados fotografías
 Pieza rectangular cuero
 tiras cuero arco
 tiras cuero menor tamaño tiras
-
 tiras tejido derecho izquierdo arco
 Tira central tejido separa dedos pie
 Tira plástico oculta insertada totalidad tira cuero lateral tira lateral tejido véase fotografía
@@ -3835,9 +3831,7 @@ RSβaliloxidiclorofenetilimidazol
 alilRSdiclorofenilimidazoliletil éter
 enero
 diciembre
-
 autorizarán usos fungicida
-
 aplicación principios uniformes mencionados artículo apartado Reglamento CE conclusiones informe revisión imazalilo particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros deberán
 prestar especial atención situación exposición alimentaria aguda consumidores cara futuras revisiones límites máximos residuos

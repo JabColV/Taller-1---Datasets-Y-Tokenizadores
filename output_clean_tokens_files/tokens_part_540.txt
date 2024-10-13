@@ -1437,7 +1437,6 @@ Superdescuentos
 Productos tradicionales carnicería charcutería
 Asadores especializados RFH
 Volumen toneladas productos acabados
-
 Precio EUR kg
 plan reestructuración pretende revalorizar producción empresa Volailles du Périgord volviéndola centrar actividades rentabilidad
 empresa reducir actividad volumen período reestructuración
@@ -1476,7 +1475,6 @@ resultado muestra aumento millones EUR relación hipótesis media
 punto vista situación financiera permitiría reconstituir capital circulante recuperaría equilibrio
 hipótesis pesimista recoge disminución rentabilidad supondría millón EUR hipótesis media
 respecta situación financiera reconstituiría liquidez mejora período mantendría signo negativo
-
 información facilitada autoridades francesas previsto empresa Volailles du Périgord reciba ayudas concluya período reestructuración
 VALORACIÓN
 Comisión constata artículos Tratado actualmente artículos aplicables producción carne corral virtud artículo Reglamento CEE Consejo octubre establece organización común mercados sector carne aves corral acto aplicable momento concesión ayuda
@@ -1736,7 +1734,6 @@ Reglamento CE Consejo noviembre establece régimen comunitario control garantiza
 Reglamento CE Consejo septiembre relativo autorización actividades pesqueras buques pesqueros comunitarios aguas comunitarias acceso buques terceros países aguas comunitarias DO
 ANEXO
 referencias zonas pesca entenderán hechas zonas CIEM especifique contrario
-
 Definición especies grupos especies
 lista aparece presente anexo poblaciones peces indican siguiendo orden alfabético nombres científicos especies
 obstante tiburones aguas profundas figuran comienzo dicha lista
@@ -1767,7 +1764,6 @@ Cañabota gris
 Cerdo marino
 Alital
 Tiburón boreal
-
 Posibilidades pesca anuales aplicables buques UE zonas TAC especies zonas toneladas peso vivo
 Especie Tiburones aguas profundas
 Zona Aguas UE aguas internacionales zonas VI VII VIII IX DWS
@@ -1791,7 +1787,6 @@ Zona Aguas UE aguas internacionales zonas II III IV BSF
 TAC cautelar
 Zona Aguas UE aguas internacionales zonas VI VII XII BSF
 Letonia
-
 Zona Aguas UE aguas internacionales zonas VIII IX BSF
 Zona Aguas UE aguas internacionales zona CECAF
 Especie Alfonsinos
@@ -1802,16 +1797,13 @@ Dinamarca
 Zona Aguas UE aguas internacionales zona III RNG
 Suecia
 Zona Aguas UE aguas internacionales zonas Vb VI VII RNGB
-
 Zona Aguas UE aguas internacionales zonas VIII IX XII XIV RNGX
 Especie Reloj anaranjado
 Zona Aguas UE aguas internacionales zona VI ORY
 Zona Aguas UE aguas internacionales zona VII ORY
-
 Zona Aguas UE aguas internacionales zonas II III IV VIII IX XII XIV ORYCX
 Especie Besugo
 Zona Aguas UE aguas internacionales zonas VI VII VIII SBR
-
 Zona Aguas UE aguas internacionales zona IX SBR
 Zona Aguas UE aguas internacionales zona SBR
 Especie Brótola fango
@@ -2118,9 +2110,7 @@ CICAP
 RSRSRSSRclorofenilciclopropilHtriazolilbutanol
 junio
 mayo
-
 autorizarse usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión ciproconazol particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros prestarán atención particular
 exposición alimentaria consumidores residuos metabolitos derivados triazol
@@ -3495,7 +3485,6 @@ Reglamento modificado Reglamento CE Euratom DO
 DO
 Reglamento modificado lugar Reglamento CE Euratom DO
 ANEXO
-
 Información facilitar participantes soliciten apoyo transporte fines prestación ayuda ámbito protección civil
 Catástrofe emergencia
 Referencias mensajes publicados Centro Control Información Comisión
@@ -3515,7 +3504,6 @@ Información suplementaria proceda
 Información posibles contribuciones costes transporte
 Información solicitud financiación comunitaria proceda
 Autoridad competente firma
-
 Información facilitar participantes Comisión ofrezcan apoyo transporte fines prestación ayuda ámbito protección civil
 Catástrofe emergencia
 organización punto contacto responden
@@ -3816,7 +3804,6 @@ Corte japonés cola
 Corte japonés supresión cola
 Hígado
 Hígado caso presentación colectiva utilizarse código LVRC
-
 presentación
 Huevas
 Huevas caso presentación colectiva utilizarse código ROEC
@@ -4040,7 +4027,6 @@ denegar acceso puertos buques figuren lista buques INDNR aplicación medidas coe
 buques permite acceso puerto inspeccionados conformidad artículo
 permita acceso puerto buques
 examinarán documentación tipo información relevante documento captura Dissostichus spp comprobar zona capturas origen comprobarse suficientemente consignarán capturas prohibirá desembarque transbordo
-
 caso compruebe capturas incumpliendo medidas conservación CCRVMA confiscarán capturas
 prohibirá ayuda tales buques incluido repostaje reabastecimiento reparaciones emergencia
 instar importadores transportistas sectores afectados abstenerse tipo transacción cabo transbordos pescado capturado buques figuren lista buques INDNR
@@ -4665,10 +4651,8 @@ ANEXO II
 CONTINGENTE ARANCELARIO AMPARO ACUERDOS GATT OMC ESPECIFICADO PAÍS ORIGEN MANTEQUILLA ZELANDA
 Mantequilla semanas contenido grasas superior peso inferior fabricada directamente leche nata utilizar materias primas almacenadas proceso único autónomo ininterrumpido
 Contingente
-
 Mantequilla semanas contenido grasas superior peso inferior fabricada directamente leche nata utilizar materias primas almacenadas proceso único autónomo ininterrumpido nata pasar fase grasa butírica concentrada fraccionamiento dicha grasa procesos conocidos Ammix Spreadable
 Contingente
-
 ΙIIA
 Decisión Comité Mixto Transporte Aéreo Comunidad Suiza instituido Comunidad Europea Confederación Suiza transporte aéreo
 noviembre
@@ -4745,7 +4729,6 @@ artículo añade párrafo
 Suiza aplicará Agencia Protocolo privilegios inmunidades Unión Europea figura anexo presente anexo conformidad apéndice anexo
 artículo añade párrafo
 Suiza participará plenamente Consejo administración derechos obligaciones miembros Unión Europea derecho voto
-
 presupuesto Agencia cubierta tasas ingresos mencionados apartado letras
 número asociados
 número miembros UE
@@ -4877,7 +4860,6 @@ Reglamento CE Parlamento Europeo Consejo
 Reglamento Parlamento Europeo Consejo febrero establecen normas comunes compensación asistencia pasajeros aéreos caso denegación embarque cancelación retraso vuelos deroga Reglamento CEE
 Artículos
 Reglamento Parlamento Europeo Consejo julio derechos personas discapacidad movilidad reducida transporte aéreo
-
 Directiva Consejo octubre reestructura régimen comunitario imposición productos energéticos electricidad
 Artículo apartado letra apartado
 Anexos

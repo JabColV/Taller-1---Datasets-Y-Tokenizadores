@@ -662,10 +662,8 @@ caso traslado duración indeterminada superior meses lugar trabajo lugar trabajo
 momento cese servicio salvedad denegarse reembolso agente hubiera dimitido cumplir meses servicio Centro
 aplicarán siguientes límites pago gastos transporte mobiliario enseres inclusión embalaje
 agentes perciben asignación familiar
-
 kg hijo conviva agente
 agentes perciban asignación familiar
-
 acogerse dispuesto presente sección agentes deberán someter aprobación previa jefe Administración Personal presupuestos empresas relativos gastos transporte previstos inventario mobiliario enseres
 concederá pago límite derecho generado tenor presupuesto
 agentes solicitar pago previsto presente sección caso sufrague parcialmente gobierno autoridad
@@ -1387,8 +1385,6 @@ Riesgo contracción enfermedad agua causa proximidad geográfica explotaciones z
 Riesgo contracción enfermedad movimientos animales acuicultura
 Nivel riesgo
 Alto
-
-
 Fase II
 Estimación riesgo propagación enfermedad explotación zona cría moluscos considerada
 Riesgo propagación enfermedad agua causa proximidad geográfica explotaciones zonas cría moluscos
@@ -1634,7 +1630,6 @@ REQUISITOS
 Dimensiones neumáticos
 Anchura sección neumático
 anchura sección obtiene fórmula
-
 anchura sección expresada mm medida llanta medición
 anchura nominal sección expresada mm indica flanco neumático designación neumático exigida
 anchura expresada mm llanta medición indique fabricante nota descriptiva
@@ -1788,7 +1783,6 @@ destinado utilizado cámara Tubeless
 tipo neumático nieve MS
 fabricado semana año
 caso particular neumáticos código configuración montaje neumático llanta inscripción adoptará forma ejemplo
-
 anchura nominal sección expresada mm
 diámetro exterior expresado mm
 indicación estructura neumático véase punto presente Reglamento
@@ -2232,11 +2226,9 @@ Reglamento modificado lugar Reglamento CE Comisión DO
 ANEXO
 Importes netos resultantes aplicación modulación facultativa Reino Unido
 millones euros
-
 Régimen pago único título III Reglamento CE
 Carne vacuno artículo Reglamento CE
 Frutos cáscara artículo Reglamento CE
-
 Estimación importes resultantes aplicación modulación facultativa pagos correspondientes proteaginosas artículo Reglamento CE cultivos energéticos artículo Reglamento CE
 País Gales
 Reglamento CE Comisión
@@ -2875,12 +2867,10 @@ función incluye calefacción indicar temporada calefacción refiere informació
 valores indicados referirse temporada calefacción concreto
 Incluir temporada calefacción media
 refrigeración
-
 Media
 obligatorio
 calefacción
 cálida
-
 fría
 Elemento
 símbolo
@@ -2919,11 +2909,9 @@ Control potencia indicar opciones
 elementos
 fijo
 Nivel potencia acústica interior exterior
-
 gradual
 Potencial calentamiento global
 Caudal aire nominal interior exterior
-
 Datos personas contacto obtener información
 Nombre dirección fabricante representante autorizado
 medida guarde relación funcionalidad equipo fabricante proporcionará información solicitada cuadro documentación técnica producto
@@ -3658,9 +3646,7 @@ kg fluazifopPbutilo
 impureza clorotrifluorometilpiridina deberá superar kg material fabricado
 enero
 diciembre
-
 autorizar usos herbicida huertos aplicación basal solicitud año
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión fluazifopPbutilo apéndices II finalizado Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros
 prestarán atención particular seguridad operadores velarán condiciones incluyan proceda empleo equipo protección individual adecuado
@@ -3923,7 +3909,6 @@ Dicha desinversión considerará culminada KBC suscrito vinculante vender entida
 jurídicamente vinculante entiende rescindido unilateralmente KBC pretenda crear relación jurídica fiable ambas partes caso resolución KBC genere responsabilidad banco frente
 jurídicamente vinculante objeto serie condiciones previas habituales tales aprobación autoridades supervisión competentes
 refiere actividades empresariales cedidas autoridades belgas comprometen KBC cederá entidades siguientes
-
 KBL EPB
 iii
 Centea

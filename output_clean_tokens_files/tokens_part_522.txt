@@ -897,7 +897,6 @@ Grupos
 Cantidad aproximada
 Años cosecha
 Tipos arroz
-
 Télex FEGA
 Fax
 cantidad arroz cáscara almacenada actualmente organismo intervención español importante período almacenamiento resulta conveniente convocar licitación permanente reventa mercado interior cerca toneladas arroz cáscara posesión organismo
@@ -1862,7 +1861,6 @@ procede país región autorizadas importaciones CE conforme anexo Decisión CEE 
 cumple condiciones zoosanitarias pertinentes establecidas certificado sanidad animal modelo certificado figura anexo II Decisión CE
 procede aves corral sacrificaron transformaron
 Sello oficial firma
-
 Sello
 nombre apellidos cargo titulación mayúsculas
 carne fresca aves corral entiende cualesquiera partes gallos gallinas pavos pintadas patos gansos aptos consumo humano hayan sometidos tratamiento refrigeración asegurar conservación carne envasada vacío atmósfera controlada acompañada certificado ajuste presente modelo
@@ -1967,7 +1965,6 @@ Establecimiento efectivo estable
 Falta capacidad financiera apropiada
 Falta competencia profesional requerida
 Falta honorabilidad
-
 Número serie copia auténtica licencia comunitaria
 Fecha retirada copia auténtica
 Fecha expiración retirada copia auténtica
@@ -2845,7 +2842,6 @@ Designación mercancía
 Vehículos especialmente concebidos desplazarse nieve vehículos especiales transporte personas campos golf vehículos similares corregir desequilibrio señalado
 Vehículos especialmente concebidos ambulancias coches fúnebres
 Vehículos acondicionados cocinar dormir caravanas
-
 cilindrada superior cm inferior cm
 cilindrada superior cm
 Lista
@@ -2878,7 +2874,6 @@ hombres niños
 mujeres niñas
 Fajas fajas braga fajas bombacha
 Fajas sostén fajas corpiño bacha
-
 seda desperdicios seda cha
 Guantes mitones manoplas
 Complementos accesorios vestir
@@ -3503,7 +3498,6 @@ Nota Préstamo Emporiki Bank liquidado producto millones EUR febrero
 EXTRACTOS BALANCE
 Provisión cese actividad
 Provisión prestaciones jubilación
-
 Deudas plazo
 Préstamos bancarios
 Nota Nota
@@ -4111,7 +4105,6 @@ Primas animales
 Corrección alzado Deficiencias persistentes repetidas régimen control
 nto alzado Deficiencias persistentes repetidas régimen control
 Cultivos herbáceos
-
 Reembolso anulación Decisión CE sentencia Tribunal asunto
 Aplicación Reglamento CE Incumplimiento plazos pago
 GR
@@ -4658,8 +4651,6 @@ Pescantes
 Prefabricados
 Estructuras almacenamiento
 Estructuras acero construcción
-
-
 Reestructuración industrial operativa
 plan reestructuración muestra activos productivos astillero deteriorado significativamente encuentran nivel astilleros europeos principios años noventa
 cuantía inversiones previstas asciende millones EUR actividades construcción naval millones PLN actividades distintas construcción naval millones PLN destinados aerogeneradores millones PLN estructuras acero
@@ -4845,11 +4836,9 @@ Tesoro Público
 Garantíabuques
 Ley mayo fianzas garantías constituidas Tesoro Público determinadas personas jurídicas Diario Oficial punto modificado
 Decreto Consejo Ministros
-
 Garantía crédito NORD LB
 Actividad ADI arreglo escritura constitución
 Ley
-
 ejecución reembolso deudas
 Municipalidad Gdańsk
 Ley

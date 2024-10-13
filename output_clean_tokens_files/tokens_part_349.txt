@@ -671,7 +671,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -705,7 +704,6 @@ cubren garantías relativas animales vivos productos ofrecen planes residuos pre
 importarán huevos procedan manadas gallinas ponedoras investigación epidemiológica brotes origen alimentario detectado Salmonella spp ofrezcan garantías equivalentes
 enero importarán huevos procedentes manadas cuya situación sanitaria desconozca sospeche infectadas procedentes manadas infectadas Salmonella spp fijado objetivo reducción legislación comunitaria huevos aplique control equivalente establecido anexo Reglamento CE ofrecen garantías equivalentes
 Notas
-
 Recuadro Indíquese código región origen caso necesario definido columna código territorio anexo II Decisión CE modificación
 Recuadro Nombre dirección número autorización establecimiento envío
 Recuadro indíquense matrícula vagones camiones nombre buques conoce número vuelo aviones
@@ -1126,7 +1124,6 @@ Actividades mar adentro
 Perforación exploración Abastecimiento mar adentro
 Remolcadores
 Remolcadores Empujadores
-
 Dragas Investigación exploración buques embarcaciones ncop
 Desconocido
 Tipo buque desconocido
@@ -1215,7 +1212,6 @@ Arqueo bruto buques
 Dimensión buque TRB
 Clase arqueo bruto anexo VII
 ANEXO IX
-
 Directiva derogada modificaciones sucesivas
 contemplado artículo
 Directiva CE Consejo
@@ -1233,7 +1229,6 @@ Decisión CE Comisión
 DO
 Reglamento CE Comisión
 DO
-
 Plazo transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -1272,7 +1267,6 @@ Anexo
 Unidades roro
 autopropulsión
 autopropulsión
-
 unidad roro elemento dotado ruedas destinado transporte mercancías ejemplo camión remolque semirremolque conducirse remolcarse interior buque quedan incluidos definición remolques pertenecientes puertos buques nomenclaturas seguir Recomendación CEEONU Códigos tipos cargamento embalajes materiales embalaje
 pasajero crucero pasajero marítimo realiza travesía crucero excluyen pasajeros excursiones
 crucero buque pasajeros destinado suministrar experiencia turística completa pasajeros disponen camarotes incluyen instalaciones entretenimiento bordo excluyen buques desarrollan normalmente servicios transbordador pasajeros consideran crucero excluyen cargueros disponen pequeño número camarotes pasajeros buques destinados únicamente excursiones
@@ -1328,14 +1322,11 @@ Monoacilgliceroles MAG
 máximo
 Composición ácidos grasos MAG DAG TAG
 Ácido oleico
-
 Ácido linoleico
-
 Ácido linoleico
 máximo
 Ácidos grasos saturados
 máximo
-
 Grado acidez
 máximo mg KOH
 Humedad materia volátil
@@ -2205,7 +2196,6 @@ elevación hilo contacto velocidad diseño ajustará dispuesto cuadro
 calidad captación corriente repercusión fundamental vida útil hilo contacto cumplirá parámetros acordados medibles
 cumplimiento requisitos comportamiento dinámico verificará evaluación
 Elevación hilo contacto
-
 fuerza contacto media Fm desviación típica σmax
 porcentaje arcos
 entidad contratante declarará método emplearse verificación
@@ -2516,7 +2506,6 @@ envolvente gálibo absoluto contorno referencia sujeto ajustes
 velocidades velocidad línea peralte máximo velocidad máxima viento funcionamiento restricciones velocidad extrema viento definidas registro infraestructura
 mm mm
 W′ mm mm
-
 Altura superior envolvente nivel carril mm
 cota suma altura hilo contacto previsión elevación
 mm vía recta
@@ -2654,7 +2643,6 @@ Equipamiento dispositivo limitador corriente
 Tipo características
 Equipamiento dispositivos control automático potencia
 Equipamiento frenos recuperación
-
 Existencia equipo medida consumo energía bordo
 Casos específicos relacionados energía
 ANEXO
@@ -2780,7 +2768,6 @@ altura gálibo cinemático viene dada fórmula
 Parámetros referencia
 parámetros gálibo mecánico cinemático pantógrafo determinación desviación lateral máxima hilo contacto siguientes
 conforme ancho vía
-
 h’o h’u
 Cálculo desviación lateral máxima hilo contacto
 desviación lateral máxima hilo contacto calculará teniendo movimiento pantógrafo posición nominal vía longitud conducción longitud trabajo pantógrafos trocadores material conductor forma
@@ -2791,7 +2778,6 @@ diseños secciones separación fases describen norma anexos sección neutra larg
 Figura
 Sección separación aisladores sección neutra
 caso figura secciones neutras formadas aisladores sección neutra dimensiones
-
 pequeña longitud probabilidad tren pare separación fases exige dispositivos adecuados volver arrancar
 elegirá longitud tensión sistema velocidad máxima línea ancho máximo pantógrafo
 Figura
@@ -2831,7 +2817,6 @@ Disparo inmediato
 Disparo inmediato
 Primario transformador
 disparo hacerse etapas Secundario transformador
-
 NOTA unidades tracción modernizadas equipadas disyuntores alta velocidad capaces cortar corriente máxima cortocircuito menor tiempo
 NOTA disparo inmediato supone corriente elevada cortocircuito disyuntor subestación tren funcionar introducir retardo intencionado
 actúa relé etapa etapa relé protección reserva actuará ms
@@ -3678,7 +3663,6 @@ Grupo
 Grupo
 Noruega
 Islas Feroe
-
 ANEXO II
 Lista países desarrollo excluidos aplicación medidas exportar importaciones Comunidad
 partes alegó transformadores prefieren consumidores prefieren salmón fresco

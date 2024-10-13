@@ -156,9 +156,7 @@ Acta corrección errores Comunidad Europea Unidos América tratamiento transfere
 Diario Oficial Unión Europea mayo
 presente corrección errores surte efecto virtud Nota diplomática firmada Bruselas agosto depositario Consejo
 página quinto considerando
-
 TENIENDO Decisión Comisión adoptada mayo virtud apartado artículo Directiva CE
-
 TENIENDO Decisión CE Comisión adoptada mayo virtud apartado artículo Directiva CE
 Reglamento CE Comisión
 julio
@@ -266,7 +264,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -334,7 +331,6 @@ requisitos pruebas adicionales
 Notas
 certificado corresponde ganado porcino doméstico scrofa vivo destinado cría producción
 importación animales deberán enviarse demora explotación destino permanecerán mínimo treinta trasladados explotación caso animales enviados directamente matadero animales transitan Unión procedentes tercer país destino tercer país
-
 Casilla indicar código territorio figura anexo Reglamento UE
 Casilla caso animales hayan permanecido centro concentración animales deberá cumplir condiciones establecidas autorización figuran anexo Reglamento UE
 Casilla indíquese matrícula vagones contenedores ferrocarril camiones número vuelo avión nombre buque
@@ -596,7 +592,6 @@ DO
 DO
 ANEXO
 Lista sustancias activas incluidas sustancias activas anexo Directiva CEE
-
 Sulfuro hidroxietilo butilo
 Naftiloxiacetamida
 fenil propenal cinamaldehído
@@ -650,7 +645,6 @@ Repelentes olor origen animal vegetal Aceites esenciales
 Repelentes olor origen animal vegetal Ácidos grasos aceite pescado
 Repelentes olor origen animal vegetal Aceite resina crudo CAS
 Bicarbonato sodio
-
 Metoxipropenilbenceno anetol
 Metilisopropilidenciclohexeno terpinoleno
 Etildioxaspiro nonano chalcogran
@@ -669,14 +663,11 @@ Acetato Zdodecenilo ZDodecenol Acetato Ztetradecenilo
 IRTrimetildioxatriciclononano lineatin
 pHidroxibenzoato metilo
 Ácido phidroxibenzoico
-
 Bacillus subtilis cepa IBE
 Virus poliedrosis nuclear Neodiprion sertifer
-
 Cloralosa
 Clorofacinona
 Fosfato tricalcio
-
 Formaldehído
 Glutaraldehído
 HBTA ácidos alquitrán alto punto ebullición notificado desinfectante
@@ -684,7 +675,6 @@ Peróxido hidrógeno
 Ácido peracético
 Foxim
 pToluenosulfoncloramida sodio
-
 Tirhidroxietilhexahidrostriazina
 Mercaptobenzotiazol
 Metoxinitrofenol sal sodio
@@ -703,7 +693,6 @@ Columna
 Columna
 Sustancia activa
 miembro
-
 Quitosano grupo
 Polonia
 Hortalizas plantas ornamentales
@@ -1506,13 +1495,11 @@ considerará cumplido punto vista mecánico geométrico requisitos diferencias s
 refiere rendimiento fotométrico pondrá duda conformidad faros fabricados serie comprobar rendimiento fotométrico faro elegido azar equipado lámpara incandescencia normalizada
 valores medidos desvía desfavorablemente exigidos presente Reglamento
 valores zona III desviación desfavorable máxima
-
 lux equivalente
 lux equivalente
 Zona III
 lux equivalente
 lux equivalente
-
 haz cruce cumple valores exigidos presente Reglamento HV tolerancia lux relación orientación punto área delimitada pantalla medición círculo cm radio puntos tolerancia lux zona IV esté cm línea
 caso haz carretera HV situado isolux Emax observa tolerancia valores máximos mínimos valores fotométricos cualquiera puntos medición especificados punto presente Reglamento
 resultados ensayos descritos anteriormente cumplen requisitos reglar faro eje haz desvíe lateralmente derecha izquierda
@@ -1801,7 +1788,6 @@ Muestra
 faro
 faro
 faros
-
 muestra
 Muestra
 faros
@@ -1833,7 +1819,6 @@ obstante muestra respeta valor mrad faros muestra sometidos procedimiento valor 
 dispositivos
 toma muestras
 dispositivos seleccionados azar distribuidos muestras
-
 pase muestra
 Cumplimiento
 fabricante productos cumplan requisitos
@@ -1921,7 +1906,6 @@ Importe fijado contenido sacarosa
 Corrección errores Reglamento CE Consejo octubre establece derecho antidumping definitivo percibe definitivamente derecho provisional establecido importaciones determinado calzado superior cuero procedentes República Popular China Vietnam
 Diario Oficial Unión Europea octubre
 página artículo apartado definición
-
 efectos presente Reglamento aplicarán siguientes definiciones
 Decisión PESC Consejo
 marzo
@@ -3784,7 +3768,6 @@ IRLANDA
 ITALIA
 LUXEMBURGO
 PAÍSES BAJOS
-
 FINLANDIA
 SUECIA
 REINO UNIDO
@@ -4242,7 +4225,6 @@ Artículo Normas elegibilidad
 IV Disposiciones finales
 Artículo Destinatarios
 ANEXOS
-
 INTRODUCCIÓN
 CAPÍTULO
 Objeto definiciones

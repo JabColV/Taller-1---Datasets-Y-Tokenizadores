@@ -1574,7 +1574,6 @@ CÓLERA
 RMN cerebral positiva
 TÉTANOS
 Consistente complejos periódicos generalizados ritmo aproximado verse estadios terminales vECJ
-
 Síndrome urémico hemolítico SUH
 casos confirmados entran subcategorías siguientes crearán análisis datos gracias variables recogidas información casos
 SIDA
@@ -1965,7 +1964,6 @@ posibilidad elección domicilio esté prevista legislación países fiador desig
 suscribe reconoce correspondencia notificaciones general formalidades trámites relativos presente compromiso dirigidos evacuados escrito domicilios señalados considerará dirigidos personalmente
 suscribe reconoce competencia órganos jurisdiccionales correspondientes lugares señalado domicilio
 suscribe compromete mantener domicilios señalados tuviera cambiar domicilios señalados comunicarlo previamente oficina garantía
-
 Firma
 Aceptación oficina garantía
 Oficina garantía
@@ -2781,7 +2779,6 @@ Contrapresión sistema escape Pa
 FACTORES CORRECCIÓN POTENCIA
 Definición
 factor corrector potencia coeficiente determina potencia motor condiciones atmosféricas referencia especificadas punto
-
 potencia corregida potencia condiciones atmosféricas referencia
 factor corrección αa αd
 potencia medida potencia ensayo
@@ -2936,7 +2933,6 @@ Residuo evaporación
 Contenido azufre
 ppm masa
 Sulfuro hidrógeno
-
 Corrosión lámina cobre
 clasificación
 clase
@@ -2972,7 +2968,6 @@ Presión vapor Reid
 Destilación
 punto ebullición inicial
 evaporado °C
-
 evaporado °C
 punto ebullición
 Residuo
@@ -2986,7 +2981,6 @@ Relación carbono hidrógeno
 Informe
 Estabilidad oxidación
 Contenido oxígeno
-
 Goma existente
 Contenido azufre
 Corrosión cobre °C
@@ -3242,7 +3236,6 @@ Dictamen emitido abril publicado Diario Oficial
 DO
 DO
 ANEXO
-
 Información mínima deberá facilitarse programas anuales control actividad pesquera previstos artículo
 programa anual control actividad pesquera deberá indicar proyecto medidas mencionadas artículo objetivo descripción titular localización coste previsto procedimiento administrativo seguirse calendario realización
 respecta buques aeronaves mencionados letra apartado artículo programa anual control actividad pesquera deberá especificar asimismo
@@ -3250,12 +3243,10 @@ grado utilización autoridades competentes fines control expresado porcentaje ut
 número horas utilización fines control actividad pesquera año
 caso modernización esperanza vida útil
 deberá darse difusión pública participación financiera Comunidad
-
 Disposiciones particulares medidas subvencionables previstas artículo
 dispositivos localización buques mencionados inciso letra apartado artículo deberán cumplir condiciones establecidas normativa comunitaria materia
 gastos correspondientes medida prevista letra apartado artículo reembolsarán medida reembolsables arreglo normativa nacional aplicable
 gastos realizados adquisición equipos mencionados letra apartado artículo reembolsarán medida utilicen control actividad pesquera manifestado miembro interesado
-
 Disposiciones aplicables solicitudes reembolso contempladas artículo
 solicitudes reembolso deberán incluir siguientes elementos
 referencia decisión mencionada artículo cuadro adjunto especifica ayuda concedida
@@ -4235,13 +4226,8 @@ Propiedades químicas fosfato amonio ferroso pH suspensión acuosa
 Hierro
 Hierro II
 Hierro III
-
-
-
 Amoniaco
-
 Agua
-
 The EFSA Journal
 Decisión Comité Mixto EEE
 junio
@@ -4334,7 +4320,6 @@ CONSIDERANDO Convenio regional figura continuación conduce términos generales 
 CONSIDERANDO idea adoptar convenio regional normas origen preferenciales zona paneuromediterránea obtuvo respaldo Ministros Comercio Euromed reunión celebraron Lisboa octubre
 CONSIDERANDO principal objetivo convenio regional único avanzar aplicación normas origen idénticas efectos acumulación origen relación mercancías objeto intercambio comercial Partes contratantes
 DECIDIDO celebrar Convenio
-
 DISPOSICIONES GENERALES
 presente Convenio establece disposiciones origen mercancías objeto intercambio comercial virtud Acuerdos pertinentes celebrados Partes contratantes
 noción productos originarios métodos cooperación administrativa correspondientes establecen apéndices presente Convenio

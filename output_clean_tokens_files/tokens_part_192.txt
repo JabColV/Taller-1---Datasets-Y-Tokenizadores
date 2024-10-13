@@ -234,7 +234,6 @@ Posición común aprobada Consejo julio Decisión Comité mixto octubre relativa
 Posición común aprobada Consejo julio Decisión Comité mixto octubre relativa constitución grupos trabajo adopción mandatos DO
 APÉNDICE
 Propuesta
-
 relativa punto letra apéndice anexo
 COMITÉ MIXTO
 Visto Comunidad Europea Confederación Suiza comercio productos agrícolas particular artículo
@@ -1069,7 +1068,6 @@ Directiva cuya modificación constituye Reglamento CE DO
 ANEXO
 anexo VI modifica
 título Principios uniformes evaluación autorización productos fitosanitarios sustituye
-
 PRINCIPIOS UNIFORMES EVALUACIÓN AUTORIZACIÓN PRODUCTOS FITOSANITARIOS QUÍMICOS
 añade
 II
@@ -2067,7 +2065,6 @@ tratamientos establecidos anexo II constituirán condiciones transformación mí
 obstante despojos autorizados restricciones zoosanitarias utilizarse producto cárnico condición lleve cabo tratamiento pertinente contemplado anexo II
 autorizarse establecimiento elabore productos cárnicos hayan sometidos tratamientos contemplados anexo II esté ubicado tercer país tercer país autorizados importar carne fresca Comunidad
 ANEXO II
-
 Territorios regionalizados países enumerados partes
 País
 Territorio
@@ -2095,7 +2092,6 @@ sur cordón sanitario extiende Palgrave Point oeste Gam
 Sudáfrica
 país
 zona control fiebre aftosa situada regiones veterinarias Mpumalanga provincias septentrionales distrito Ingwavuma región veterinaria Natal zona fronteriza Botsuana longitud distrito Camperdown provincia KwaZuluNatal
-
 Terceros países partes terceros países autorizadas importaciones productos cárnicos Comunidad
 XXX establecido certificado productos cárnicos contienen carne especie autorizados
 País origen
@@ -2145,13 +2141,11 @@ Turquía
 Ucrania
 Unidos
 Sudáfrica
-
 Terceros países partes terceros países autorizados régimen tratamiento específico obstante autorizadas importaciones Comunidad biltong jerky productos cárnicos pasteurizados
 Caza pezuña hendida cría porcinos
 Caza pluma cría
 Estrucioniformes
 Sudáfrica ZA
-
 Interpretación códigos utilizados cuadros partes
 TRATAMIENTOS REFERENCIA ANEXO
 Tratamiento específico
@@ -2238,7 +2232,6 @@ transporte condiciones carga productos cárnicos partida cumplen requisitos higi
 productos cárnicos obtenidos carne cumple requisitos capítulo III Directiva CEE artículo Directiva CEE virtud excepción prevista artículo bis apartado Directiva CEE
 Habiendo leído entendido dispuesto anexo II capítulo Directiva CEE modificación especial disposiciones específicas aplican productos cárnicos descritos apartado certifica dichos productos cárnicos cumplen requisitos establecidos citado capítulo
 Sello oficial firma
-
 Firma veterinario oficial
 Sello
 Nombre apellidos mayúsculas cualificación cargo
@@ -3195,9 +3188,7 @@ desvío producido
 Corrección errores Reglamento UE Comisión marzo modifica Reglamento CEE fijan determinadas disposiciones aplicación Reglamento CEE Consejo establece código aduanero comunitario
 Diario Oficial Unión Europea marzo
 página texto atributo Número bultos casilla
-
 Tipo longitud an
-
 Tipo longitud
 Decisión Comité Mixto EEE
 julio
@@ -3796,7 +3787,6 @@ DO
 ANEXO
 LISTA PRODUCTOS QUÍMICOS
 refiere artículo
-
 Lista productos químicos sujetos procedimiento notificación exportación
 refiere artículo
 Cabe señalar productos químicos enumerados anexo sujetos procedimiento PIC aplican obligaciones notificación exportación establecidas artículo apartados presente Reglamento satisfagan condiciones previstas artículo apartado párrafo letras
@@ -3818,15 +3808,9 @@ cisdicloropropeno Zdicloropropeno
 dichloropropeno
 minobutano
 aftilamina naftalenamina sales
-
-
 Ácido naftiloxiacético
 sales ésteres
-
-
 minobifenilo bifenilamina sales
-
-
 itrobifenilo
 Acefato
 Acifluorfeno
@@ -3836,7 +3820,6 @@ Ametrina
 Antraquinona
 Compuestos arsénico
 Fibras amianto
-
 Crocidolita
 Amosita
 Antofilita
@@ -3848,15 +3831,10 @@ Azinfósetilo
 Azinfósmetilo
 Benceno
 Bencidina sales Derivados bencidina
-
-
 Bifentrina
 Binapacrilo
 Butralina
 Cadmio compuestos
-
-
-
 Carbaril
 Carbofurán
 Tetracloruro carbono
@@ -3888,8 +3866,6 @@ DiniconazolM
 Dinitroortocresol DNOC sales sal amonio sal potasio sal sodio
 Dinobutón
 Dinoseb sales ésteres
-
-
 Dinoterbo
 Difenilamina
 Formulaciones polvo seco contengan combinación
@@ -3919,8 +3895,6 @@ Malatión
 hidrazida maleica sales distintas colina potasio sodio
 sales colina potasio sodio hidrazida maleica mg kg hidrazina libre expresada ácido equivalente
 Compuestos mercurio incluidos compuestos inorgánicos mercurio compuestos alquílicos mercurio compuestos alcoxialquílicos arílicos mercurio excluidos compuestos mercurio anexo
-
-
 Meta
 Metamidofós
 Metamidofós formulaciones líquidas solubles sustancia sobrepasen ingrediente activo
@@ -3946,20 +3920,14 @@ fenol nonil ramificado
 isononilfenol
 fenol nonil ramificado
 pnonilfenol
-
 Etoxilatos nonilfenol CHOnCHO
-
 Éter octabromodifenilo
 Ometoato
 Oxidemetónmetilo
 Paratión
 Pebulato
 Pentaclorofenol sales ésteres
-
-
-
 Sulfonatos perfluorooctano
-
 OH sal metálica OM halogenuro amida derivados incluidos polímeros
 Permetrina
 Fosalón
@@ -3968,8 +3936,6 @@ mezcla isómeros
 isómero
 isómero
 Polibromobifenilos PBB hexabromobifenilo
-
-
 Policloroterfenilos PCT
 Procimidón
 Propaclor
@@ -4004,12 +3970,10 @@ Triciclazol
 Tridemorfo
 Trifluralina
 Compuestos triorganoestánnicos distintos compuestos tributilestaño
-
 Fosfato tris dibromopropilo
 Óxido trisaziridinilfosfina ′′fosforiltriaziridina
 Vamidotión
 Vinclozolina
-
 Lista productos químicos reúnen condiciones someterse notificación PIC
 refiere artículo
 presente lista incluye productos químicos reúnen condiciones someterse notificación PIC
@@ -4070,8 +4034,6 @@ Etoxilatos nonilfenol CHOnCHO
 Éter octabromodifenilo
 Oxidemetónmetilo
 PFOS CFSOX OH sal metálica OM halogenuro amida derivados incluidos polímeros
-
-
 Fosalona
 Procimidón
 Propaclor
@@ -4088,7 +4050,6 @@ Triciclazol
 Trifluralina
 Compuestos triorganoestánnicos distintos compuestos tributilestaño
 Vinclozolina
-
 Lista productos químicos sujetos procedimiento PIC
 refieren artículos
 categorías siguientes figuran Convenio
@@ -4116,7 +4077,6 @@ Heptacloro
 Hexaclorobenceno
 Lindano
 Compuestos mercurio incluidos compuestos inorgánicos mercurio compuestos alquílicos mercurio compuestos alcoxialquílicos arílicos mercurio
-
 Véase wwwpicint
 Monocrotofós
 Paratión

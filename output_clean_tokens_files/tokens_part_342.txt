@@ -2253,53 +2253,32 @@ Categorías
 Asunto
 Número referencia CPV
 Servicios mantenimiento reparación
-
 Servicios relacionados ayuda militar exterior
 Servicios defensa servicios defensa militar servicios defensa civil
 Servicios investigación seguridad
-
 Servicios transporte
-
 Servicios transporte aéreo pasajeros carga transporte correo
-
 Transporte correo vía terrestre vía aérea
 Servicios transporte ferrocarril
-
 Servicios transporte marítimo vías navegables interiores
-
 Servicios transporte complementarios auxiliares
-
 Servicios telecomunicación
-
 Servicios financieros Servicios seguros
-
 Servicios informática servicios conexos
-
 Servicios investigación desarrollo pruebas evaluación
-
 Servicios contabilidad auditoría teneduría libros
-
 Servicios consultores dirección servicios conexos
-
 Servicios arquitectura servicios ingeniería servicios integrados ingeniería servicios planificación urbana servicios ingeniería paisajista Servicios conexos consultores ciencia tecnología servicios ensayos análisis técnicos
-
 Servicios limpieza edificios servicios administración bienes raíces
-
 Servicios alcantarillado eliminación desperdicios servicios saneamiento servicios similares
-
 Servicios entrenamiento simulación ámbito defensa seguridad
 Exceptuando servicios investigación desarrollo mencionados artículo letra
 Exceptuando servicios arbitraje conciliación
 ANEXO II
 Servicios hostelería restaurante
-
-
 Servicios jurídicos
-
 Servicios colocación suministro personal
-
 Servicios sociales salud
-
 servicios
 Exceptuando contratos trabajo
 ANEXO III
@@ -2459,7 +2438,6 @@ Eslovaquia Obchodný register
 Finlandia KaupparekisteriHandelsregistret
 Suecia aktiebolags handels eller föreningsregistren
 Reino Unido solicitarse contratista presente certificado Registrar of companies falta certificado acredite interesado declarado juramento ejerce profesión trate país esté establecido lugar específico razón comercial determinada
-
 Contratos suministros
 registros profesionales mercantiles declaraciones juradas certificados correspondientes siguientes
 Grecia Βιοτεχνικό Εμπορικό Βιομηχανικό Επιμελητήριο Μητρώο Κατασκευαστών Αμυντικού Υλικού
@@ -2470,7 +2448,6 @@ Chipre solicitarse proveedor presente certificado Registrar of Companies Registr
 Malta proveedor deberá referencia numru ta reġistrazzjoni tatTaxxa talValur Miżjud VAT nnumru talliċenzja ta kummerċ caso asociaciones sociedades correspondiente número registro expedido Autoridad Maltesa Servicios Financieros
 Portugal Registo Nacional das Pessoas Colectivas
 Reino Unido solicitarse proveedor presente certificado Registrar of Companies indicando negocio proveedor incorporated registered falta certificación acredite interesado declarado juramento ejercer profesión trate país esté establecido lugar determinado razón comercial determinada
-
 Contratos servicios
 Bélgica registre du commerceHandelsregister ordres professionnelsBeroepsorden
 Alemania Handelsregister Handwerksrolle Vereinsregister Partnerschaftsregister Mitgliedsverzeichnisse der Berufskammern der Länder
@@ -2673,9 +2650,7 @@ Presidente
 DO
 ANEXO
 Lista UE buques INDNR
-
 Buques inscritos lista virtud artículo Reglamento CE
-
 Buques inscritos lista virtud artículo Reglamento CE
 Número OMI identificación buque Referencia OROP
 Nombre buque nombre
@@ -4079,7 +4054,6 @@ Elemento compensación relativo necesidad garantizar remuneración capital aport
 ejercicio examinado asesores determinaron capital aportado suma siguientes factores
 capital cuyo valor extrae balances anuales teniendo capital social
 fórmula coste ponderado capital WACC utiliza base determinar coeficiente remuneración capital aportado
-
 Re coeficiente remuneración esperado capital
 Rd coste deuda capital empresa
 deuda empresa
@@ -4728,21 +4702,6 @@ ANEXO IV
 DESCUENTOS GRANOS DEFECTUOSOS
 Porcentaje granos defectuosos entraña descuento precio intervención
 Porcentaje descuento aplicable punto fracción punto supere límite inferior
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 punto fracción punto descontará decimal porcentaje granos defectuosos
 ANEXO
 TRAMO INDICADO ARTÍCULO

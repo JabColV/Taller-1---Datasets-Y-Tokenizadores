@@ -2353,7 +2353,6 @@ DO
 DO
 DO
 Secretaría General Consejo publicará Diario Oficial Unión Europea fecha entrada vigor
-
 forma Canje Notas Unión Europea Israel modifican anexos Protocolos euromediterráneo crea asociación Comunidades Europeas miembros Israel Nota Unión Europea
 consiguiente propongo anexo Protocolo euromediterráneo relativo régimen aplicable importación Comunidad Europea productos agrícolas productos agrícolas transformados pescado productos pesca originarios Israel anexo Protocolo euromediterráneo relativo régimen aplicable importación Israel productos agrícolas productos agrícolas transformados pescado productos pesca originarios Unión Europea sustituidos respectivamente anexos II presente efecto enero
 presente entrará vigor tercer mes fecha depósito instrumento aprobación
@@ -2432,7 +2431,6 @@ Maíz dulce Zea mays var saccharata preparado conservado vinagre ácido acético
 Tomates preparados conservados vinagre ácido acético contenido materia seca superior peso
 Maíz dulce Zea mays var saccharata preparado conservado vinagre ácido acético congelado
 Maíz dulce Zea mays var saccharata preparado conservado vinagre ácido acético congelar
-
 hortalizas
 Melocotones duraznos incluidos griñones nectarinas envasados
 Jugo naranja
@@ -2550,7 +2548,6 @@ Sorbitol subpartida
 disolución acuosa
 Dmanitol proporción inferior peso calculado contenido Dglucitol
 Dmanitol proporción superior peso calculado contenido Dglucitol
-
 códigos NC corresponden Reglamento UE DO
 perjuicio normas interpretación nomenclatura combinada texto designación mercancía valor meramente indicativo determinándose régimen preferencial respecta anexo alcance códigos NC
 indican códigos ex NC régimen preferencial vendrá determinado código NC designación correspondiente
@@ -2567,12 +2564,10 @@ Código HS israelí
 Animales vivos especie bovina destinados matadero
 Animales vivos especie ovina
 marco Quinto Complemento
-
 Animales vivos especie caprina
 Pavos gallipavos vivos peso inferior
 Cuyo valor unidad rebase NIS
 Patos gansos pintadas vivos peso inferior
-
 Aves especie Gallus domesticus
 Psitaciformes vivos incluidos loros guacamayos cacatúas papagayos
 Aves vivas aves rapiña psitaciformes
@@ -2585,7 +2580,6 @@ Carne despojos comestibles aves partida frescos refrigerados congelados
 Carne especie bovina salada salmuera seca ahumada
 primates salados salmuera secos ahumados
 Carne despojos
-
 Peces vivos
 Pescado fresco refrigerado filetes carne pescado partida
 Pescado congelado filetes carne pescado partida
@@ -2607,12 +2601,10 @@ Mantequilla manteca materias grasas leche
 pastas lácteas untar
 Mantequilla manteca
 envases contenido neto superior kg
-
 envases contenido neto inferior kg
 Pastas lácteas untar
 materias grasas leche
 Quesos requesón
-
 Huevos ave cáscara cascarón frescos conservados cocidos
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
 Patatas papas frescas refrigeradas
@@ -2654,7 +2646,6 @@ Nueces nogal frescas secas cáscara mondadas
 Nueces macadamia frescas secas cáscara mondadas
 Pacanas frescas secas cáscara mondadas
 frutos cáscara
-
 Bananas plátanos frescos
 Dátiles frescos
 Higos frescos secos
@@ -2836,7 +2827,6 @@ Ovoalbúmina
 Seca marco Quinto Complemento
 Seca
 marco Quinto Complemento
-
 Dextrina almidones féculas modificados ejemplo almidones féculas pregelatinizados esterificados
 colas base almidón fécula dextrina almidones féculas modificados
 Almidones féculas base trigo maíz maíz céreo
@@ -3031,7 +3021,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -3481,9 +3470,7 @@ Número muestras elementales
 Peso muestra global
 Cereales productos base cereales
 toneladas
-
 sublotes
-
 toneladas
 Procedimiento muestreo cereales productos base cereales lotes toneladas
 condición sublotes puedan separarse físicamente lote deberá subdividirse sublotes cuadro
@@ -3547,7 +3534,6 @@ Fumonisina or
 Características toxinas HT
 indican límites detección métodos utilizados puesto valores precisión concentraciones presentan interés
 valores precisión calculan ecuación Horwitz
-
 RSDR desviación típica relativa calculada resultados obtenidos condiciones reproducibilidad sR
 tasa concentración mg kg
 ecuación generalizada precisión revelado independiente analito matriz únicamente dependiente concentración mayoría métodos corrientes análisis
@@ -4327,7 +4313,6 @@ Grupo Reineta blanca Canadá
 Grupo Shampion
 Grupo Lobo
 Grupo Pinova
-
 Manzanos transformación industrial optativo
 Perales productores peras mesa
 Grupo Conference
@@ -4387,10 +4372,6 @@ Vides uvas mesa
 Densidad número árboles hectárea
 Clases edad
 Edad años año plantación
-
-
-
-
 Resumen
 Superficie clases edad densidad especie nivel nacional
 miembro
@@ -4988,7 +4969,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp

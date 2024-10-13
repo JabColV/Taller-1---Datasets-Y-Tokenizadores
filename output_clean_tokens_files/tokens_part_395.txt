@@ -715,7 +715,6 @@ punto partida utilizan concentraciones lactosa calculadas lactosa anhidra mg mL 
 pendiente RF línea calibración define relación área concentración mg mL
 Muestras
 resultado análisis obtiene calcula programa informático fórmula
-
 concentración lactosa polvo
 altura pico lactosa muestra
 RF factor respuesta pendiente curva calibración mV mg mL
@@ -866,9 +865,7 @@ contenido proteínas totales expresado porcentaje peso
 superficie relativa muestra calculada punto
 ecuaciones equivalentes cifra mencionada punto
 diferencia superficie relativa SIII hallada superficie relativa SIII viene dada fórmula SIIIE SIII SIIIE SIIE SIII
-
 iguales inferiores cero determinarse presencia suero queso
-
 superiores cero presencia suero queso
 contenido suero queso calcula fórmula
 distancia eje vertical recta trazo continuo recta trazo discontinuo
@@ -1449,7 +1446,6 @@ Coeficientes variación contenido triglicéridos análisis consecutivos
 Triglicérido
 Composición triglicéridos
 calcula fracción masa TG colesterol wi expresadas porcentaje contenido TG muestra problema utilizando fórmula
-
 valor numérico área pico TG muestra problema
 factor respuesta TG determinado calibración
 Expresión resultados
@@ -1461,7 +1457,6 @@ Aceite soja girasol oliva colza linaza germen trigo germen maíz algodón pescad
 Grasa coco palmiste
 Aceite palma sebo vacuno
 Tocino
-
 Detección grasas extrañas
 comparan valores obtenidos correspondientes límites indicados cuadro
 muestra grasa láctea pura valores límites mencionados cuadro
@@ -1508,16 +1503,13 @@ análisis efectuarse plazo laborables recepción solicitud
 autoridad competente enviará dichas muestras laboratorio petición fabricante
 laboratorio deberá aprobado cabo análisis oficiales cualificación análisis cuestionados correspondientes demostrada
 incertidumbres expandidas media y‾
-
 mediciones repetidas laboratorio media y‾
-
 mediciones repetidas laboratorio
 Uy‾
 respectivamente σr
 desviación típica repetibilidad σR
 desviación típica reproducibilidad método correspondiente
 resultado medición laboratorios calcula utilizando fórmula tipo
-
 seguirse métodos normales combinar desviaciones típicas tales casos obtener incertidumbre
 comprobar resultados laboratorios ajustan desviación típica reproducibilidad σR
 método calcula incertidumbre expandida diferencia y‾
@@ -2129,7 +2121,6 @@ cuestiones administrativas
 Toma nota Empresa Común estableció plan continuidad operaciones avanzó formalización políticas seguridad informática señala preciso seguir trabajando finalizar plan recuperación caso siniestro
 Lamenta contrariamente dispuesto Reglamento Financiero Empresa Común autoridades financieras nacionales hayan declarado intereses bancarios devengados prefinanciaciones
 congratula sede oficinas privilegios inmunidades formas apoyo firmado Empresa Común autoridades belgas febrero
-
 fusión ENIAC
 Reitera Tribunal Cuentas petición presente Parlamento plazo razonable informe especial relativo problemas comunes plantean razón naturaleza Empresas Comunes deberían abordar dichas empresas socios garantizar valor añadido ejecución eficiente programas investigación desarrollo tecnológico demostración Unión
 observa asimismo informe incluir valoración eficacia creación Empresas Comunes estructura
@@ -2348,7 +2339,6 @@ Consejo
 Presidente
 DO
 Proyecto Decisión Comité Conjunto creado virtud Interbus transporte discrecional internacional viajeros autocar autobús
-
 adopta reglamento interno adapta anexo condiciones relativas transportistas viajeros carretera anexo relativo normas técnicas aplicables autobuses autocares requisitos relativos disposiciones sociales contempladas artículo
 COMITÉ CONJUNTO
 Visto Interbus transporte discrecional internacional viajeros autocar autobús particular artículos
@@ -2684,21 +2674,18 @@ DO
 Decisión modificada lugar Decisión CE DO
 ANEXO
 ANEX
-
 Zona establecida conformidad artículo apartado
 Código país ISO
 miembro
 Zona
 Fecha aplicable artículo apartado letra inciso iii
 Código
-
 Nombre
 REINO UNIDO
 Zona protección
 Zona comprende condado Suffolk incluida círculo kilómetros radio cuyo centro sitúa coordenadas cartográficas
 Zona protección
 Zona comprende condados Suffolk Norfolk incluida círculo kilómetros radio cuyo centro sitúa coordenadas cartográficas
-
 Zona establecida conformidad artículo apartado
 Zona
 distritos
@@ -3436,7 +3423,6 @@ Prueba aislamiento virus
 medidas
 Especifíquense acciones realizadas
 Toma muestras
-
 cifras expresarán moneda nacional excluido IVA
 Especifíquese prueba utilizada
 abajo firmante certifica datos indicados correctos solicitado Comunidad ayuda relación medidas

@@ -331,7 +331,6 @@ Limas
 Mandarinas incluidos clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -2409,7 +2408,6 @@ cifra correspondiente billetes circulación balance BCN resultará componentes
 valor ajustado billetes euros circulación incluidos billetes año introducción efectivo euros denominados monedas nacionales zona euro BCN adopte euro calculará conforme cualquiera métodos siguientes
 Método
 Método
-
 valor ajustado billetes circulación
 valor billetes producidos recibidos impresor BCN
 valor billetes destruidos
@@ -2614,7 +2612,6 @@ Fuente obligación legal
 Propósito informe
 financiero diario Eurosistema
 Interno
-
 Principalmente fines gestión liquidez vistas aplicación artículo Estatutos
 datos financiero diario emplean calcular renta monetaria
 financiero semanal desagregado
@@ -3587,7 +3584,6 @@ Existencias
 pudieron analizar existencias producto afectado período comprendido industria Comunidad suministrar información coherente período
 razón doble productores comunitarios emprendió actividades acumuló existencias año suministrar datos coherentes reorganizaciones internas
 existencias disminuyeron mantuvieron estables período investigación período registró descenso
-
 Volumen ventas cuota mercado
 ventas mercado comunitario producto afectado fabricado industria Comunidad disminuyeron aumentaron período investigación registraron incremento período considerado
 tiempo cuota mercado disminuyó años posteriormente aumentó período investigación registró incremento período considerado
@@ -3681,7 +3677,6 @@ Precio
 Japón
 Sudáfrica
 Suiza
-
 Importaciones repercusión negativa industria Comunidad
 importaciones originarias Sudáfrica descendieron período considerado
 cuota mercado período investigación mínima datos Eurostat importaciones habrían efectuado precios inferiores industria Comunidad período

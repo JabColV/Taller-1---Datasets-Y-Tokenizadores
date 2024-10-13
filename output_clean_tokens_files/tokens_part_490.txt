@@ -92,7 +92,6 @@ Esposa General Brigada Tin Hlaing
 General Brigada Min Zaw
 GOBIERNO
 indicación Ministerio
-
 Thein Sein
 Presidente Jefe Ejecutivo República Unión Myanmar Antiguo Ministro antiguo miembro SPDC antiguo Presidente Partido Unión Solidaridad Desarrollo USDP FN Pathein
 Esposa Thein Sein
@@ -128,7 +127,6 @@ Esposa Aung Min
 Hija Aung Min
 Hijo Aung Min
 Esposa Khin Yi
-
 Thura Myint Maung
 Hijo Thura Myint Maung
 Esposa Aung Kyaw Soe
@@ -150,7 +148,6 @@ Ministro Energía Eléctrica Diputado parlamentario Cámara Baja FN LN Bago
 Esposa Zaw Min
 Ministro Finanzas Planificación antiguo Ministro Finanzas Hacienda Diputado parlamentarioCámara Baja FN LN Yangón
 Esposa Hla Tun
-
 Thein Nyunt
 Gabinete Presidente Ganadería
 Kyin Khain Kyin Khine
@@ -179,16 +176,13 @@ Esposa Khin Aung Myint
 Antiguo Ministro Educación antiguo Viceministro Ciencia Tecnología
 Antiguo miembro Partido Unión Solidaridad Desarrollo USDP
 Esposa Dr Chan Nyein
-
 Lun Thi
 Esposa Lun Thi
 Hija Lun Thi
 Hijo of Lun Thi
 Esposa Zin Maung Lun
-
 Prof Dr Kyaw Myint
 Esposa Prof Dr Kyaw Myint
-
 Maung Oo
 Esposa Maung Oo
 Antiguo Ministro Bienestar Social Socorro Reasentamiento Diputado parlamentario Cámara Baja
@@ -209,7 +203,6 @@ Antiguo Ministro Ganadería Pesca Diputado parlamentario Cámara Baja
 Esposa Maung Maung Thein
 Min Thein Ko Pauk
 Hijo Maung Maung Thein
-
 Soe Tha
 Db
 Kyu Kyu Win
@@ -218,13 +211,10 @@ Hijo sw Soe Tha FN Actualmente Australia
 Dd
 Wei Wei Lay
 Esposa Kyaw Myat Soe FN actualmente Australia
-
 Phone Myat Soe
 Df
 San Thida Soe
-
 Dh
-
 Thaung
 Antiguo Ministro Ciencia Tecnología Diputado parlamentario Cámara Baja FN Lugar Kyaukse
 Esposa Thaung
@@ -243,7 +233,6 @@ Hija Soe Naing
 Capitán Htun Zaw Win
 Esposo Wut Yi Oo
 Hijo Soe Naing
-
 Kyaw Thu
 Esposa Kyaw Thu
 VICEMINISTROS
@@ -760,7 +749,6 @@ Hermano Htay Myint FN Director Yuzana Co
 Hermano Htay Myint FN Director Yuzana Co
 Jf
 Zar Chi Htay
-
 Khin Htay Lin
 Shwe Thanlwin Trading Co distribuidores exclusivos neumáticos Thaton control Ministerio Industria
 Nan Mauk Loung Sai Nang Mauk Lao Hsai
@@ -967,7 +955,6 @@ Director Gerente Kyaw Htoo Ministerio Comercio
 Kaba Aye Pagoda Road Mayangone Township Yangón Myanmar
 Director Gerente Oo Zune Ministerio Industria
 Director Gerente Hla Moe Ministerio Cooperativas
-
 Tay Za ref Ja anexo II
 Htoo Furniture Htoo Wood Products Htoo Wood based Industry Htoo Wood
 Treasure Hotels and Resorts inclusión Myanmar Treasure Resort Ngwe Saung Myanmar Treasure Resort Bagan Myanmar Treasure Resort Inle
@@ -1108,7 +1095,6 @@ Yuzana Co Ltd
 Dagon International Dagon Timber Ltd
 IGE Co Ltd
 mando DIL Jefatura nororiental Lashio Shan septentrional
-
 Hla Tun
 Esposa Kyaw Hsan
 Jefa Departamento Información Federación Asuntos Mujer
@@ -2047,7 +2033,6 @@ DO
 ANEXO
 perjuicio reglas interpretación nomenclatura combinada texto designación productos valor meramente orientativo determinándose ámbito régimen preferencial marco presente anexo códigos NC existentes momento adopción presente Reglamento
 contingentes arancelarios número orden contingente volumen anual sobrepasar siguientes cantidades unidades pares respectivo año natural
-
 anual unidades volumen anual volumen máximo subpartida
 orden
 Código NC
@@ -2055,11 +2040,6 @@ Descripción mercancías
 Período contingentario
 Volumen contingente anual toneladas peso neto especifique cosa
 Conjuntos mujeres niñas fibras sintéticas
-
-
-
-
-
 período posterior
 Vestidos mujeres niñas algodón
 Vestidos mujeres niñas fibras sintéticas
@@ -2582,7 +2562,6 @@ particular deberá garantizarse
 estructura física construida legalmente cumple leyes reglamentaciones aplicables zona construida especialmente relativas conservación biodiversidad paisaje
 estructura física respeta leyes reglamentaciones comunitarias nacionales locales conservación energía fuentes agua tratamiento evacuación agua recogida eliminación residuos mantenimiento revisión equipos disposiciones sanidad seguridad
 empresa operativa registrada exigen leyes nacionales locales empleados contratados asegurados legalmente
-
 CRITERIOS OBLIGATORIOS REFIERE ARTÍCULO APARTADO
 ENERGÍA
 Electricidad procedente fuentes energía renovables
@@ -2837,7 +2816,6 @@ cisternas deberá máximo litros descarga completa
 Consumo agua lavavajillas punto
 consumo agua lavavajillas expresado Wmedido inferior umbral definido ecuación indica continuación utilizando método ensayo ciclo programa elegidos Directiva CE
 Wmedido
-
 medido
 consumo medido agua lavavajillas expresado litros ciclo decimal
 capacidad cubiertos indicada lavavajillas
@@ -3273,7 +3251,6 @@ Cuadro
 Número explotaciones aves corral excluidas patos gansos ánades reales figurar muestra categoría producción aves corral
 Número explotaciones categoría producción aves corral miembro
 Número explotaciones figurar muestra
-
 Número explotaciones patos gansos ánades reales figurar muestra
 número explotaciones patos gansos ánades reales figurar muestra determinará garantice identificación mínimo explotación aves corral infectadas caso prevalencia explotaciones aves corral infectadas mínimo intervalo confianza
 muestreo llevará cabo arreglo cuadro
@@ -3321,7 +3298,6 @@ autoridades competentes velarán exista intercambio información fluido laborato
 aplica intervalo confianza alto detección explotaciones patos gansos resultados positivos pruebas dichas explotaciones programas vigilancia pasiva exploración sistemas detección precoz probabilidades detectar infecciones aves corral gallináceas
 necesario aumentar tamaño muestra punto prueba diagnóstico sensible aplica aves acuáticas
 ANEXO II
-
 Directrices aplicación programas vigilancia influenza aviar aves silvestres
 Objetivos vigilancia
 objetivo programa vigilancia influenza aviar aves silvestres detectar tiempo IAAP subtipo HN aves silvestres proteger aves corral explotaciones aves corral salvaguardar salud pública veterinaria
@@ -3346,7 +3322,6 @@ caso hallazgo positivo deberá someterse análisis punto segmentación determina
 confirma IAAP subtipo deberá realizarse rápidamente análisis determinar tipo neuraminidasa método probatorio eliminar
 Seguimiento
 caso confirmen casos positivos IAAP aplicarán medidas control fijadas Decisión CE Comisión agosto determinadas medidas protección relación influenza aviar alta patogenicidad subtipo HN aves silvestres Comunidad deroga Decisión CE investigaciones epidemiológicas importante identificar zonas tengan relación casos predecir incursiones virus influenza aviar particular zonas importantes producción aves corral densidad explotaciones aves corral
-
 Lista especies aves silvestres someterse muestreo pruebas detectar influenza aviar especies objetivo
 Nombre científico
 Nombre común
@@ -3402,8 +3377,6 @@ Zampullín chico
 Avefría
 Deberán aplicarse medidas control enfermedad confirme presencia IAAP sospeche presencia
 DO
-
-
 Decisión Consejo
 enero
 permite países aplica política europea vecindad Rusia acogerse programa Asistencia Técnica Intercambio Información TAIEX
@@ -4813,7 +4786,6 @@ Véase página presente Diario Oficial
 ANEXO
 obstante reglas interpretación nomenclatura combinada considerarse designación productos valor meramente indicativo contexto presente anexo concesiones determinadas ámbito cubierto códigos NC vigentes momento adoptarse presente Reglamento
 indican códigos ex NC concesiones determinarse aplicación código NC designación correspondiente considerados conjunto
-
 Lista derechos aduana
 Código NC
 Designación mercancía
@@ -4822,7 +4794,6 @@ Concentrados proteínas
 Aplicado Reglamento CE Consejo DO
 Tabaco
 Reducción derecho consolidado comunitario MÍN EUR kg neto MÁX EUR kg neto MÍN EUR kg neto MÁX EUR kg neto
-
 Anexos arancelarios
 Azúcar caña bruto destinado refinado
 Contingente arancelario asignado país Brasil toneladas derecho contingentario EUR

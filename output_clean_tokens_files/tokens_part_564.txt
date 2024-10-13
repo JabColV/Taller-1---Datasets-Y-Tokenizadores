@@ -847,7 +847,6 @@ Metales
 Aluminio
 Acero
 Madera
-
 CUADRO
 Cantidades residuos envases enviadas miembros exportadas Comunidad valorización incineración instalaciones incineración residuos recuperación energía
 datos cuadro refieren cantidades contabilizar cumplimiento obligaciones establecidas Directiva CE relativa envases residuos envases
@@ -3023,7 +3022,6 @@ Sección IV Tratamiento arancelario favorable razón naturaleza mercancías
 Anexo Mercancías impropias consumo lista desnaturalizantes
 Anexo Certificados
 Anexo Códigos estadísticos TARIC
-
 DISPOSICIONES PRELIMINARES
 SECCIÓN
 REGLAS GENERALES
@@ -3087,7 +3085,6 @@ Barcos frigorífico subpartida
 barcos transporte mercancías barcos concebidos transporte mixto personas mercancías
 Barcos pesca barcos factoría barcos preparación conservación productos pesca
 Yates barcos embarcaciones recreo deporte barcas botes remo canoas
-
 Barcos vela motor auxiliar
 Barcos motor motores fueraborda
 Remolcadores barcos empujadores
@@ -3255,7 +3252,6 @@ st Cien unidades
 Mil unidades
 TJ Terajulios calorífico superior
 unidad suplementaria
-
 CUADRO DERECHOS
 ANIMALES VIVOS PRODUCTOS REINO ANIMAL
 Notas
@@ -3871,7 +3867,6 @@ Productos pescado crustáceos moluscos invertebrados acuáticos animales muertos
 Desperdicios pescado
 Tendones nervios recortes desperdicios similares piel bruto
 Esponjas naturales origen animal
-
 PRODUCTOS REINO VEGETAL
 sección término pellets designa productos forma cilindro bolita etc aglomerados simple presión adición aglutinante proporción inferior peso
 CAPÍTULO
@@ -3960,7 +3955,6 @@ Pepinillos
 Hortalizas vaina estén desvainadas frescas refrigeradas
 Guisantes arvejas chícharos Pisum sativum
 Judías porotos alubias frijoles fréjoles Vigna spp Phaseolus spp
-
 hortalizas frescas refrigeradas
 Espárragos
 Berenjenas
@@ -4650,7 +4644,6 @@ efectos subpartidas considerarán cocer productos hayan sometido tratamiento té
 efectos subpartidas expresión trozos aplica únicamente preparaciones conservas carne puedan identificarse dimensiones características tejido muscular coherente procedentes piernas chuleteros espinazos paletas cerdo doméstico caso
 Embutidos productos similares carne despojos sangre preparaciones alimenticias base productos
 hígado
-
 Embutidos secos untar cocer
 preparaciones conservas carne despojos sangre
 Preparaciones homogeneizadas

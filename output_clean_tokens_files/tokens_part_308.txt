@@ -1408,7 +1408,6 @@ Declaración
 abajo firmante declara
 animales descritos examinados sacrificio explotación anteriormente mencionada hora fecha comprobó sanos
 registros documentación relativos animales conformes requisitos legales oponen sacrificio
-
 Lugar
 fecha
 Fecha
@@ -2732,7 +2731,6 @@ existentes
 líneas puestas servicio entrada vigor Directiva CE pendientes verificación relación ETI
 RTE FC RTE AV RTE
 líneas pertenecientes tipo correspondiente red independientemente hayan verificadas relación ETI
-
 líneas Unión
 Cuadro
 Rúbricas Registro Infraestructura
@@ -2779,9 +2777,6 @@ parámetro aplicable líneas RTE
 Capacidad carga
 Resultado proceso clasificación establecido norma anexo indicado norma categoría línea
 Representa capacidad infraestructura soportar cargas verticales impuestas vehículos línea tramo línea servicio normal forma combinación categoría línea RTE velocidad autorizada arreglo anexos ETI categoría líneavelocidad ejemplos DxL
-
-
-
 Tx
 Intervalo térmico conforme cláusula norma permite acceso restricciones línea
 Trazado línea
@@ -2794,13 +2789,9 @@ Gálibos nacionales
 Gálibo doméstico definido norma gálibo local
 Número normal perfil transporte combinado cajas móviles
 NN NNN
-
-
 Codificación transporte combinado cajas móviles definido código UIC
 número técnico compone código compatibilidad vagón letra número normal perfil transporte combinado dígitos anchura mm dígitos anchura mm
 Número normal perfil transporte combinado semirremolques
-
-
 Perfil gradiente
 NNNNN Cadena caracteres
 Gradientes expresados milímetros metro ubicaciones cambios gradiente
@@ -2858,7 +2849,6 @@ dispositivo bordo lubricación pestañas exigido permitido prohibido
 RTE FC
 RTE
 Existencia pasos nivel
-
 Existencia pasos nivel tramo línea
 Aceleración permitida pasos nivel
 Límite aceleración tren cerca paso nivel expresado metros cuadrado límite normas nacionales
@@ -2934,7 +2924,6 @@ mencionan únicamente fines informativos constituyen criterios acceso red
 Clase Radio GSMR
 Versión GSMR
 Selección múltiple lista predefinida
-
 Funciones GSMR optativas
 Manual paso fronteras Baliza paso fronteras Radio paso fronteras
 funciones optativas GSMR mejorar explotación línea
@@ -3152,7 +3141,6 @@ niveles aplicación ERTMS ETCS constituyen expresar relaciones operacionales pos
 definiciones niveles principalmente relacionadas equipo tierra utilizado información procedente equipo llega unidades bordo funciones procesan equipos tierra equipos bordo
 Versión base ETCS instalado tierra versión paréntesis plenamente compatible
 Función infill ETCS instalada tierra
-
 Bucle
 Bucle GSMR
 Información equipos tierra instalados capaces transmitir información función infill bucle GSMR instalaciones nivel
@@ -3169,7 +3157,6 @@ miembros velarán datos necesarios recogidos introducidos registro nacional infr
 organismo notificado comprobará conformidad subsistemas ETI aplicables atendiendo información ETI pertinente registros verificará interfaces sistema esté incorporado subsistema
 CC RRRRRRRRRRRRRR SSSS NNNNNN
 Punto elevado nivel mar tramo línea referencia Normal Amsterdams Peil NAP dato vertical expresado metros usado Europa
-
 Distancia expresada milímetros relacionada longitud mínima sección detección trenes
 Distancia expresada milímetros relacionada contador ejes detector ruedas caso específico
 Distancia expresada milímetros relacionada circuitos vía casos específicos correspondientes
@@ -3420,7 +3407,6 @@ Número categoría tipo fuentes luminosas
 Voltaje potencia
 Aplicación dispositivo electrónico control fuente luminosa
 forme luz
-
 forme luz
 Tensión entrada suministrada dispositivo electrónico control fuente luminosa
 Fabricante dispositivo electrónico control fuente luminosa número identificación dispositivo control fuente luminosa forma luz incluido cuerpo luz
@@ -3533,7 +3519,6 @@ Muestra
 luz
 luz
 ambas luces
-
 muestra
 Muestra
 ambas luces
@@ -4793,7 +4778,6 @@ modifican párrafos
 añaden párrafos
 ANTECEDENTES
 noviembre Consejo Normas Internacionales Contabilidad IASB modificó CINIIF eliminar consecuencia deseada derivada tratamiento pagos anticipados aportaciones futuras circunstancias obligación mantener nivel mínimo financiación
-
 Prestación económica disponible forma reducción aportación
 obligación mantener nivel mínimo financiación aportaciones relacionadas servicios futuros prestación económica disponible forma reducción aportaciones futuras
 eliminado

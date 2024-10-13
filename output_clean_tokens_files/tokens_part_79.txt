@@ -3336,10 +3336,8 @@ kg
 Impurezas
 Isomalatión kg máximo
 mayo
-
 autorizar usos insecticida
 autorizaciones deberán limitarse usuarios profesionales
-
 aplicación principios uniformes anexo VI conclusiones informe revisión malatión particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 seguridad operarios trabajadores condiciones deberán exigir utilización equipos protección individual adecuados
@@ -4051,7 +4049,6 @@ Certificación
 abajo firmante declara envío mencionado sometido ensayo laboratorio conforme dispuesto Reglamento CE XXX Comisión establecen condiciones particulares importación aceite girasol originario procedente Ucrania riesgos contaminación aceite mineral deroga Decisión CE
 resultados ensayos muestran presencia parafina mineral superior mg kg acompañados fracción identificada hidrocarburos parafínicos
 resultados criterios funcionamiento cromatogramas pertinentes dichos ensayos adjuntan presente certificado
-
 Sello firma representante autorizado Ministerio Sanidad Ucrania
 Institución servicio epidemiología sanitaria
 Firma
@@ -4666,9 +4663,6 @@ Comisión
 Miembro Comisión
 ANEXO
 ANEXO
-
-
-
 Lenguas CE
 Siglas
 Indicaciones
@@ -4772,9 +4766,7 @@ presente Decisión entrará vigor publicación Diario Oficial Unión Europea
 Bruselas mayo
 DO
 ANEXO
-
 Símbolos informar prohibición baño recomendación abstenerse
-
 Símbolos informar clasificación aguas baño
 Reglamento CE Comisión
 junio

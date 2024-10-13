@@ -579,7 +579,6 @@ materia seca
 Ensayo ácido metiltetrahidrofólico
 materia seca
 Agua
-
 Plomo
 ppm
 Cadmio
@@ -1010,9 +1009,7 @@ Jordania
 Corrección errores Decisión EUPOL RD Congo PESC Comité Político Seguridad octubre nombra Jefe Misión EUPOL RD Congo
 Diario Oficial Unión Europea octubre
 página artículo párrafo
-
 presente Decisión entrará vigor adopción
-
 presente Decisión entrará vigor octubre
 Reglamento UE Comisión
 noviembre
@@ -1594,7 +1591,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -2627,9 +2623,7 @@ Subdivisión lotes sublotes productos comercializan partidas granel
 Peso lote
 Peso número sublotes
 toneladas
-
 sublotes
-
 toneladas
 Cuadro
 Subdivisión lotes sublotes productos
@@ -2638,7 +2632,6 @@ Cuadro
 Número mínimo muestras elementales tomarse lote sublote
 Peso volumen lote sublote kg
 Número mínimo muestras elementales tomarse
-
 cuadro indica número envases unidades deberán tomarse formar muestra global caso lote sublote esté formado unidades envases individuales
 Cuadro
 Número envases unidades muestras elementales deberán tomarse formar muestra global lote sublote formado envases individuales unidades
@@ -2720,7 +2713,6 @@ Libre interferencias matriz espectro verificación detección positiva
 Observaciones criterios funcionamiento
 ecuación Horwitz concentraciones ecuación Horwitz modificada concentraciones ecuaciones precisión generalizada independientes analito matriz dependientes únicamente concentración mayoría métodos habituales análisis
 Ecuación Horwitz modificada concentraciones
-
 RSDR desviación estándar relativa calculada resultados obtenidos condiciones reproducibilidad sR
 tasa concentración mg kg
 ecuación Horwitz modificada aplicable concentraciones
@@ -4008,7 +4000,6 @@ organismo intervención facilitará información necesaria características alco
 interesado obtener dirigiéndose organismo intervención trate muestras alcohol puesto venta tomadas representante organismo intervención
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos ocasionen controles contemplados apartado correrán empresas venda alcohol
@@ -4504,12 +4495,10 @@ vinos grado alcohólico adquirido
 productos fermentar índice refractométrico masa volúmica
 productos fase fermentación grado alcohólico
 vinos contenido azúcar residual superior gramos litro grado alcohólico adquirido grado alcohólico
-
 Indicaciones facultativas transporte granel transporte granel vinos contemplados anexo XI ter puntos Reglamento CE cuya descripción incluir indicaciones facultativas indicadas artículo septvicies citado Reglamento tales indicaciones figuren etiquetado esté previsto figuren
 Cantidad
 productos granel cantidad neta
 productos envasados número recipientes contienen producto
-
 Certificados certificado DOP certificado IGP certificación vino indicación año cosecha variedad variedades uva vinificación véanse artículo apartado letra artículo
 Categoría productos vitivinícolas
 Código zona vitícola
@@ -4799,7 +4788,6 @@ DO
 DO
 DO
 ANEXO
-
 Grupos aplicaciones
 siguientes grupos aplicaciones pertinentes análisis tendencias necesidades demanda cabo Comisión restringen términos relativos aplicaciones utilizados miembros facilitar datos
 grupos destinados servir punto partida evaluación estructurada usos espectro características técnicas funcionalidad similares desarrollarse caso evaluación tendencias tecnología necesidades demanda espectro futuro

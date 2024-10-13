@@ -92,7 +92,6 @@ Asignación instalaciones
 base datos recogidos conformidad artículo miembros calcularán año cantidad derechos emisión asignados gratuitamente territorio instalación existente conformidad apartados
 efectos cálculo miembros determinarán lugar cantidad anual preliminar derechos emisión asignados gratuitamente subinstalación separado
 subinstalación referencia producto cantidad anual preliminar derechos emisión asignados gratuitamente año corresponderá valor referencia producto cuestión indicado anexo multiplicado correspondiente nivel histórico actividad relación producto
-
 subinstalación referencia calor cantidad anual preliminar derechos emisión asignados gratuitamente año corresponderá valor referencia calor aplicable calor medible indicado anexo multiplicado nivel histórico actividad relación calor aplicable consumo calor medible
 subinstalación referencia combustible cantidad anual preliminar derechos emisión asignados gratuitamente año corresponderá valor referencia combustible indicado anexo multiplicado nivel histórico actividad relación combustible aplicable combustible consumido
 subinstalación emisiones proceso cantidad anual preliminar derechos emisión asignados gratuitamente año corresponderá nivel histórico actividad relación proceso multiplicado
@@ -564,7 +563,6 @@ Base factores CWT alimentación fresca neta alimentación producto
 ANEXO III
 NIVEL HISTÓRICO ACTIVIDAD DETERMINADAS REFERENCIAS PRODUCTO CONTEMPLA ARTÍCULO APARTADO
 miembros determinarán nivel histórico actividad relación producto período referencia productos aplique referencia refinerías contemplada anexo base diversas funciones CWT definiciones base producción factores CWT enumerados anexo II fórmula
-
 nivel histórico actividad expresado CWT
 producción función CWTi año período referencia
 factor CWT función CWTi
@@ -1641,7 +1639,6 @@ punto sustituye texto
 ÁMBITO APLICACIÓN
 método aplicable eliminada materia fibrosa mezclas binarias
 seda poliamida nailon
-
 lana pelo animales polipropileno elastolefina melamina bicomponente polipropileno poliamida
 punto sustituye texto
 PRINCIPIO
@@ -1865,7 +1862,6 @@ DO
 DO
 DO
 ANEXO
-
 anexo II Reglamento CE modificará
 sección relativa metobromurón sustituirá
 Metobromurón
@@ -1898,7 +1894,6 @@ Columna
 Columna
 Sustancia activa
 miembro
-
 Eslovaquia
 Lentejas tabaco remolacha azucarera centeno viveros forestales
 III
@@ -1916,7 +1911,6 @@ IV
 anexo Decisión CE añadirá sección
 Chipre
 cebo cítricos aceitunas
-
 anexo Decisión CE sección relativa Reino Unido sustituirá
 Reino Unido
 Judías espárragos ruibarbo viveros plantas ornamentales fresas lúpulo
@@ -3676,7 +3670,6 @@ Cualquiera ácidos siguientes
 Ácido tereftálico CAS
 Ácido hidroxi naftóico CAS
 Ácido hidroxibenzoico CAS
-
 Cetonas poliarileno
 Sulfuros poliarileno grupo arileno constituido bifenileno trifenileno combinaciones
 Polibifenilenetersulfona temperatura transición vítrea Tg superior °C
@@ -4198,7 +4191,6 @@ VÉASE ARTÍCULO
 artículo somete control bolas tolerancias especificadas fabricante norma ISO grado
 Rodamientos bolas rodamientos rodillos macizos tolerancias especificadas fabricante normas ISO Clase Tolerancia equivalentes nacionales mejores tengan anillos elementos rodadura ISO monel berilio
 subartículo Aa somete control rodamientos rodillos cónicos
-
 Sistemas rodamientos magnéticos activos utilicen cualquiera siguientes elementos
 Materiales densidades flujo mayores límites elásticos superiores MPa
 Diseños polarización homopolar totalmente electromagnéticos actuadores
@@ -4608,7 +4600,6 @@ subartículo Bf somete control trajes diseñados usarse aparato respiración aut
 Cámaras aisladores seguridad biológica clase III proporcionen niveles protección equivalente
 subartículo Bf aisladores incluyen aisladores flexibles cajas secas cámaras anaeróbicas cajas guante campanas flujo laminar cerradas flujo vertical
 Cámaras diseñadas ensayos ataque aerosoles microorganismos virus toxinas tengan capacidad
-
 Equipo lógicosoftware especificado diseñado especialmente modificado desarrollo producción utilización equipos incluidos artículos
 Equipo lógicosoftware destinado dispositivos electrónicos incluido contenido dispositivo sistema electrónico permita dispositivos sistemas funcionar unidad control numérico capaz coordinar simultáneamente ejes control contorneado
 artículo somete control equipo lógico software diseñado especialmente modificado funcionamiento máquinas herramienta especificadas categoría
@@ -4802,7 +4793,6 @@ Preparados operar intervalo temperatura ambiente °C °C
 subartículo Aa aplica circuitos integrados aplicaciones civiles automóviles ferrocarriles
 Microcircuitos microprocesador microcircuitos microordenador microcircuitos microcontrolador fabricados semiconductor compuesto funcionen frecuencia reloj superior MHz
 subartículo Aa incluye procesadores señales digitales conjuntos procesadores digitales coprocesadores digitales
-
 Circuitos integrados convertidores analógicodigital CAD digitalanalógico CDA indica
 Convertidores analógicodigital CAD tengan cualquiera características siguientes
 VÉASE ARTÍCULO
@@ -4888,7 +4878,6 @@ Tasados operar frecuencias superiores GHz inferiores iguales GHz potencia salida
 Tasados operar frecuencias superiores GHz inferiores iguales GHz potencia salida media superior nW
 Tasados operar frecuencias superiores GHz inferiores iguales GHz potencia salida media superior dBm ancho banda fraccional
 Tasados operar frecuencias superiores GHz potencia salida media superior nW
-
 régimen control MMIC cuya frecuencia tasada funcionamiento incluye frecuencias recogidas gama frecuencias arreglo definiciones Aba Abf vendrá determinado umbral control correspondiente potencia salida media baja
 notas categoría suponen subartículo Ab somete control MMIC hayan diseñados especialmente aplicaciones ejemplo telecomunicaciones radar automóvil
 Transistores discretos microondas tengan cualquiera características siguientes

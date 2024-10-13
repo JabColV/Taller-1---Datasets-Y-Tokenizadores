@@ -60,7 +60,6 @@ marcado CE conformidad compuesto iniciales CE diseñadas
 caso reducirse aumentarse tamaño marcado CE conformidad deberán conservarse proporciones logotipo
 elementos marcado CE conformidad deberán dimensión vertical apreciablemente inferior mm
 ANEXO VII
-
 Directiva derogada modificación
 contemplados artículo
 Directiva CEE Consejo
@@ -68,7 +67,6 @@ DO
 Directiva CEE Consejo
 DO
 Únicamente contemplado artículo apartado artículo
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -131,7 +129,6 @@ Anexo VII
 Anexo VIII
 determinación precio función masa venta directa público confección preembalajes
 aplicación mencionadas letra
-
 efectos presente Directiva entiende
 instrumento pesaje funcionamiento automático instrumento
 instrumento pesaje requiere intervención operador determinar peso
@@ -493,7 +490,6 @@ DO
 DO
 ANEXO
 REQUISITOS TÉCNICOS
-
 Placa reglamentaria fabricante
 Disposiciones generales
 vehículos deberán equipados placa reglamentaria fabricante descrita apartado
@@ -534,7 +530,6 @@ fabricante colocar indicaciones suplementarias inscripciones reglamentarias rect
 Modelos placa reglamentaria fabricante
 apéndice presente anexo figuran ejemplos distintos modelos posibles placas reglamentarias
 datos aparecen modelos ficticios
-
 Número bastidor vehículo VIN
 vehículos llevarán marcado número bastidor VIN
 número bastidor VIN único asignado vehículo determinado posibilidad error
@@ -1722,7 +1717,6 @@ coeficiente utilización cadenas elevación seleccionar forma garantice nivel se
 comprobar alcanzado coeficiente utilización adecuado fabricante representante autorizado efectuar efectuar pruebas adecuadas tipo cadena cable utilizado directamente elevar carga tipo terminación cable
 Accesorios elevación elementos
 accesorios elevación elementos dimensionados número ciclos funcionamiento conforme duración vida prevista condiciones funcionamiento especificadas aplicación trate teniendo fenómenos fatiga envejecimiento
-
 coeficiente utilización combinaciones formadas cable terminación seleccionar forma garantice nivel seguridad adecuado regla general coeficiente
 cables empalme lazo extremos
 utilicen cadenas eslabones soldados deberán tipo eslabones cortos
@@ -3425,7 +3419,6 @@ Cuadro
 Modelo financiero período
 cifras correspondientes obtenido informes anuales SNCM
 millones EUR
-
 Volumen negocio
 Subvenciones explotación
 Resultado ordinario

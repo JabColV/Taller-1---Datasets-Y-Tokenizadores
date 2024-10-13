@@ -256,7 +256,6 @@ DO
 Directiva CE Comisión octubre establecen disposiciones aplicación fines artículo Directiva CE Consejo caracteres exámenes analizar mínimo condiciones mínimas examinar determinadas variedades especies plantas agrícolas DO
 Directiva CE Comisión octubre establecen disposiciones aplicación fines artículo Directiva CE Consejo caracteres exámenes analizar mínimo condiciones mínimas examinar determinadas variedades especies plantas hortícolas DO
 ANEXO
-
 ANEXO
 Lista especies contempladas artículo apartado letra cumplir protocolos examen OCVV
 texto protocolos consultarse página web OCVV wwwcpvoeuropaeu
@@ -365,7 +364,6 @@ Semillas soja
 TG
 Sorgo
 TG
-
 Allium cepa var Cepa
 Cebolla
 TP
@@ -511,7 +509,6 @@ Participación social cultural
 Participación acontecimientos deportivos culturales
 Cine
 Máximo
-
 permitírselo
 falta interés
 cine proximidad
@@ -531,7 +528,6 @@ Semanal diaria
 mes semanal
 mes
 año mes
-
 Integración familiares amigos vecinos
 Frecuencia encuentros familiares
 NA familiares
@@ -3880,7 +3876,6 @@ productos originarios Ceuta Melilla
 productos enteramente obtenidos Ceuta Melilla
 productos obtenidos Ceuta Melilla cuya fabricación hayan utilizado productos distintos mencionados letra
 productos hayan suficientemente elaborados transformados sentido artículo
-
 productos originarios Islas Feroe Comunidad hayan objeto elaboraciones transformaciones vayan allá operaciones contempladas artículo
 productos originarios Islas Feroe
 productos enteramente obtenidos Islas Feroe
@@ -4421,7 +4416,6 @@ preparados mezclando carne previamente tratada especie animal
 tratamiento previo mencionado inciso sometida carnes compongan producto cárnico deberá mínimo equivalente tratamiento pertinente anexo II especie animal trate columna correspondiente
 tratamientos establecidos anexo II constituirán condiciones transformación mínimas aceptables efectos zoosanitarios relación carne derivada especie animal trate originaria terceros países partes terceros países enumerados anexo II
 ANEXO II
-
 Descripción territorios regionalizados países enumerados partes
 País
 Territorio
@@ -4439,7 +4433,6 @@ Serbia Montenegro
 país describe anexo II Decisión CEE modificación
 Malasia
 Malasia peninsular occidental
-
 Terceros países partes terceros países autorizada importación productos cárnicos Comunidad
 Antigua República Yugoslava Macedonia código provisional afecta denominación definitiva país atribuirá concluidas negociaciones actualmente lugar seno Naciones Unidas
 XXX establecido certificado productos cárnicos contienen carne especie autorizados
@@ -4489,13 +4482,11 @@ Turquia
 Ucrania
 Unidos América
 Sudáfrica
-
 Terceros países partes terceros países autorizados régimen tratamiento específico obstante autorizada importación Comunidad biltong jerky productos cárnicos pasteurizados
 Código ISO
 Caza pezuña hendida cría porcinos
 Ovinos Caprinos domésticos
 Sudáfrica
-
 Interpretación códigos utilizados cuadros partes
 TRATAMIENTOS REFERENCIA ANEXO
 Régimen tratamiento específico
@@ -4590,7 +4581,6 @@ transporte condiciones carga productos cárnicos partida cumplen requisitos higi
 productos cárnicos obtenidos carne cumple requisitos capítulo III Directiva CEE artículo Directiva CEE Consejo conforme excepción prevista artículo bis apartado Directiva CEE
 Habiendo leído entendido dispuesto anexo II capítulo Directiva CEE modificación especial disposiciones específicas aplican productos cárnicos descritos apartado certifica dichos productos cárnicos cumplen requisitos establecidos citado capítulo
 Sello oficial firma
-
 firma veterinario oficial
 sello
 nombre apellidos mayúsculas cualificación cargo
@@ -4796,7 +4786,6 @@ DO
 DO
 DO
 ANEXO
-
 Zona mencionada artículo apartado
 Código ISO país
 miembro
@@ -4808,7 +4797,6 @@ Rumanía
 Zonas abarca
 zona protección
 zonas vigilancia
-
 Zona mencionada artículo apartado
 Zona
 zonas Condado Tulcea incluidas zona

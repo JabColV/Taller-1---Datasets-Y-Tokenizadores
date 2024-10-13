@@ -126,11 +126,7 @@ Período contingentario
 Volumen contingentario toneladas peso neto especifique cosa
 Derecho contingentario
 Arenques especie Clupea harengus Clupea pallasii congelados hígados huevas lechas destinados fabricación industrial
-
 Arenques especies Clupea harengus Clupea pallasii congelados hígados huevas lechas
-
-
-
 Salmones Pacífico Oncorhynchus nerka Oncorhynchus gorbuscha Oncorhynchus keta Oncorhynchus tschawytscha Oncorhynchus kisutch Oncorhynchus masou Oncorhynchus rhodurus salmones Atlántico Salmo salar salmones Danubio Hucho hucho
 Lenguados Solea spp frescos refrigerados filetes carne pescado partida
 Gallos Lepidorhombus spp pescados planos frescos refrigerados filetes carne pescado partida
@@ -794,7 +790,6 @@ Bruselas abril
 Comisión
 Miembro Comisión
 ANEXO
-
 Enfermedades refiere letra artículo
 Tuberculosis Bovina
 Brucelosis bovina
@@ -826,7 +821,6 @@ Listeriosis agentes causales
 Salmonelosis salmonela zoonótica agentes causales
 Triquinosis agentes causales
 Escherichia coli verocitotóxica
-
 Enfermedades refiere letra artículo
 Encefalopatía espongiforme bovina EEB enfermedad evolución lenta
 ANEXO II
@@ -1060,7 +1054,6 @@ declaración oposición registro denominación
 Zhenjiang Xiang Cu pondría peligro existencia denominaciones marcas productos conforme previsto artículo apartado letra párrafo Reglamento CE contenido mínimo ácido vinagre inferior especificado Derecho alemán norma europea
 Considerando contenido ácido acético criterio calidad decisivo vinagre objetor comercialización vinagre Unión Europea inducir error consumidor daría lugar distorsión competencia
 falta legislación específica Unión Europea vinagre acidez inferior legalmente fabricado comercializado UE importado Unión Europea
-
 Zhenjiang Xiang Cu vinagre arroz características distintivas vinculado gastronomía china
 considerarse comercialización vinagre
 Zhenjiang Xiang Cu UE contenido mínimo ácido ml represente riesgo confusión consumidores atente utilización legal tradicional
@@ -1353,13 +1346,11 @@ DO
 DO
 Reglamento modificado lugar Reglamento CE Comisión DO
 ANEXO
-
 Zona contemplada artículo apartado
 Código país ISO
 miembro
 Zona
 Aplicable fecha
-
 Zona contemplada artículo apartado
 Zona
 ANEXO II
@@ -1416,7 +1407,6 @@ propietario representante constar
 aves irán acompañadas desplazamiento persona responsable
 animales destinan fines comerciales
 periodo comprendido inspección veterinaria previa desplazamiento partida propiamente dicha aves permanecerán aisladas contacto aves
-
 animales permanecido aislados treinta previos desplazamiento entrar contacto aves cubiertas presente certificado
 tomado disposiciones pertinentes cumplimiento periodo cuarentena treinta posterior entrada centro cuarentena indica punto certificado
 Notas
@@ -1996,7 +1986,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -2010,7 +1999,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -2024,7 +2012,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -2438,11 +2425,9 @@ DO
 ANEXO
 ANEXO II
 LISTA PAÍSES TERRITORIOS
-
 IE Irlanda
 Suecia
 UK Reino Unido
-
 Sección
 DK Dinamarca incluidas GL Groenlandia FO Islas Feroe
 España continental Islas Baleares Canarias Ceuta Melilla
@@ -2456,7 +2441,6 @@ IS Islandia
 MC Mónaco
 Noruega
 Vaticano
-
 AC Isla Ascensión
 AE Emiratos Árabes Unidos
 AG Antigua Barbuda
@@ -4122,7 +4106,6 @@ proceda
 Categoría zona segura
 Categoría atmósferas gaseosas explosivas
 incl IEC Corrigendum
-
 Boquillas aspersoras sistemas rociadores fijos naves velocidad NGV
 Eliminado incluido
 Materiales ignífugos mobiliario naves velocidad
@@ -4246,12 +4229,10 @@ Componentes sistemas detección humos extracción muestras
 Reg
 OMI MSCCódigo SSCI Res
 OMI MSCCódigo SSCI
-
 Detectores aspiración humos
 incl AC
 proceda atmósferas explosivas
 Divisiones clase
-
 Sistema fijo detección gases hidrocarbonados
 OMI MSCCódigo SSCI
 OMI MSC Circ
@@ -4716,7 +4697,6 @@ OMI MSCCódigo NGV
 OMI
 OMI
 OMI
-
 OMI MSC Circ
 OMI MSC Circ
 OMI MSC Circ
@@ -4908,7 +4888,6 @@ Nivel
 Transporte marítimo
 Pasajeros
 Mercancías
-
 Transporte aéreo
 transportes
 Clasificación ampliada transportes
@@ -4961,7 +4940,6 @@ Servicios salud
 Servicios gobierno incluidos partidas
 Embajadas consulados
 Unidades organismos militares
-
 Partidas informativas
 Transacciones audiovisuales
 Servicios correos

@@ -29,7 +29,6 @@ Ajos
 Alubias
 Espárragos
 verdes
-
 Pimientos dulces
 Batatas frescas refrigeradas
 Piñas
@@ -106,7 +105,6 @@ presente Decisión entrará vigor notificación transmitida Comité Mixto EEE co
 aplicable enero
 Artículo
 presente Decisión publicará sección EEE Suplemento EEE Diario Oficial Unión Europea
-
 DO
 indicado preceptos constitucionales indicado preceptos constitucionales
 Reglamento CE Comisión
@@ -693,7 +691,6 @@ Directiva CEE Consejo mayo relativa conservación hábitats naturales fauna flor
 Directiva CE Parlamento Europeo Consejo octubre techos nacionales emisión determinados contaminantes atmosféricos DO
 Directiva CE Parlamento Europeo Consejo noviembre relativa conservación aves silvestres DO
 ANEXO
-
 CONTROL CONTAMINACIÓN INDUSTRIAL GESTIÓN RIESGOS
 Directiva CE modifica
 anexo sustituye texto
@@ -728,7 +725,6 @@ cumplimiento objetivos espera reducir eutrofización suelo alcanzar nivel superf
 valores techos nacionales emisión carácter temporal establecen perjuicio revisión contemplada artículo presente Directiva realizará
 valores techos Croacia cumplirse fecha adhesión Unión
 cuadro anexo II sustituye
-
 PROTECCIÓN NATURALEZA
 Directiva CEE modifica
 TIPOS HÁBITATS NATURALES INTERÉS COMUNITARIO CUYA CONSERVACIÓN NECESARIO DESIGNAR ZONAS ESPECIALES CONSERVACIÓN
@@ -1319,9 +1315,7 @@ huevos frescos
 gallina especie Gallus domesticus
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
-
 aves corral distintos aves especie Gallus domesticus
-
 aves corral
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
 Yemas huevo
@@ -2753,12 +2747,9 @@ Tales deliberaciones vinculantes Unión
 representantes Comisión tratarán medios alcanzar posición común defenderla deliberaciones mantengan grupos trabajo OTIF
 Revisión presentes disposiciones
 instancia miembro Comisión revisarán presentes disposiciones teniéndose experiencia obtenida aplicación
-
 Unión Europea Organización Intergubernamental Transportes Internacionales Ferrocarril adhesión Unión Europea Convenio relativo transportes internacionales ferrocarril COTIF mayo modificado Protocolo Vilnius junio
 UNIÓN EUROPEA denominada sucesivo Unión
-
 ORGANIZACIÓN INTERGUBERNAMENTAL TRANSPORTES INTERNACIONALES FERROCARRIL denominada sucesivo OTIF
-
 Denominadas sucesivo conjuntamente Partes contratantes
 VISTO Convenio relativo transportes internacionales ferrocarril COTIF mayo modificado Protocolo Vilnius junio denominado sucesivo Convenio particular artículo
 VISTAS responsabilidades Tratado Unión Europea TUE Tratado Funcionamiento Unión Europea TFUE confieren Unión determinados ámbitos cubiertos Convenio

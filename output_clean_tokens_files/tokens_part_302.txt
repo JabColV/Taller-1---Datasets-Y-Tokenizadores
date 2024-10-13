@@ -68,7 +68,6 @@ BGU
 FXU
 DO Directiva modificada Reglamento CE Parlamento Europeo Consejo DO
 BGU
-
 IFP
 Acción Común PESC Consejo
 febrero
@@ -352,7 +351,6 @@ Designación mercancía
 Jugos extractos vegetales materias pécticas pectinatos pectatos agaragar mucílagos espesativos derivados vegetales modificados
 Mucílagos espesativos derivados vegetales modificados vegetales modificados
 Mucílagos semillas guar
-
 Carragenano
 Productos vegetales expresados comprendidos partidas
 Línteres algodón llas guar
@@ -393,7 +391,6 @@ Papel decorar revestimientos similares paredes constituidos papel recubierto rev
 decorar revestimientos similares paredes constituidos papel recubierto revestido cara vista capa plástico graneada gofrada coloreada impresa motivos decorada
 Papel carbón papel autocopia papeles copiar transferir partida clisés multicopista completos planchas offset papel acondicionados cajas
 Papel carbón papeles similares papeles copiar transferir partida clisés multicopista completos planchas offset papel acondicionados cajas
-
 Capítulo
 Algodón
 Terciopelos felpa tejidos tejidos chenilla artículos partida
@@ -402,7 +399,6 @@ Terciopelo felpa trama cortar
 Tejidos bucles toallas artículos partida superficies textiles pelo insertado productos partida
 Tejidos bucles toallas algodón rtículos partida superficies textiles pelo insertado productos partida
 Crudos
-
 Tejidos gasa vuelta artículos partida
 algodón
 ANEXO II
@@ -421,7 +417,6 @@ azúcares incluidas lactosa maltosa glucosa fructosa levulosa químicamente pura
 Glucosa jarabe glucosa fructosa contenido fructosa peso producto seco inferior nte sucedáneos miel mezclados miel natural azúcar melaza caramelizados
 peso seco glucosa
 polvo cristalino blanco aglomerado
-
 polvo cristalino blanco aglomerado
 Glucosa jarabe glucosa contenido fructosa peso producto seco superior inferior miel mezclados miel natural azúcar melaza caramelizados
 incluido azúcar invertido ido fructosa peso producto seco superior inferior
@@ -433,13 +428,10 @@ polialcoholes
 Manitol
 disolución acuosa
 contenga Dmanitol proporción inferior peso calculada contenido Dglucitol
-
 contengan Dmanitol proporción inferior peso calculada contenido Dglucitol
 Dextrina almidones féculas modificados ejemplo almidones féculas pregelatinizados esterificados colas base almidón fécula dextrina almidones féculas modificados
 Dextrina almidones féculas modificados ificados colas base almidón fécula dextrina almidones féculas modificados
-
 almidones féculas modificados
-
 Colas
 Aprestos productos acabado aceleradores tintura fijación materias colorantes productos preparaciones ejemplo aprestos mordientes tipos utilizados industria textil papel cuero industrias similares expresados comprendidos
 base materias amiláceas tes productos preparaciones ejemplo aprestos mordientes tipos utilizados industria textil papel cuero industrias similares expresados comprendidos
@@ -1652,7 +1644,6 @@ FASE UTILIZACIÓN
 Emisión sustancias peligrosas
 superarán siguientes valores emisión
 Requisito
-
 Compuestos orgánicos totales lagama retención
 mg aire
 mg aire
@@ -2783,9 +2774,7 @@ código ZZ significa orígenes
 Corrección errores Directiva CE Parlamento Europeo Consejo abril relativa contratos crédito consumo deroga Directiva CEE Consejo
 Diario Oficial Unión Europea mayo
 página artículo apartado
-
 mayo
-
 junio
 junio
 apartado
@@ -2794,11 +2783,8 @@ Comisión realizará años junio
 página artículo
 efectos mayo
 efectos junio
-
 párrafo
 mayo
-
-
 Decisión Comité Mixto EEE
 septiembre
 modifica anexo II Reglamentaciones técnicas normas ensayos certificación EEE
@@ -4063,7 +4049,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4077,7 +4062,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4091,7 +4075,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -4300,16 +4283,10 @@ Activos figuran balance
 miles millones EUR
 cartera
 Créditos cliente
-
 Valores renta fija
-
 Títulos deuda
-
 Bonos titulización activos
-
 Garantías pago
-
-
 Valoración activos cubiertos
 creación cobertura riesgo HSH valorar cartera expertos externos cartera ABS cartera CIP valoradas Blackrock Cambridge Place
 petición Comisión HSH llevó cabo valoración cartera cubierta período noviembre enero basada Comisión estricto escenario estrés
@@ -4326,11 +4303,8 @@ cuadro muestra importe pago acumulativo supuestos hipótesis base HSH supone gar
 Cuadro
 Remuneración cobertura riesgo propuesta Alemania supuestos
 millones EUR
-
 garantía EUR
-
 garantía millones EUR
-
 garantía EUR
 Prima básica bps valor nominal pendiente garantía
 período reestructuración pagos prima básica situarán millones EUR millones EUR anuales función utilización garantía véase cuadro
@@ -4456,7 +4430,6 @@ segmento energía HSH financiará proyectos ámbitos energía solar eólica
 incluyen categorías activos energía eólica tierra mar energía solar fotovoltaica térmica negocio suplementario redes relacionadas proyectos energía eólica solar
 región centrará actividades lugar Europa
 suspenderá negocio HSH ámbito fuentes energía convencionales negocio energía América norte
-
 ajustes ámbitos comerciales particular cierre ámbito comercial aviación reducción segmentos bienes inmobiliarios extranjero naval conducirán automáticamente reducción segmento
 segmento incluye corporate center negocio mercados capitales HSH administra activos sirve proveedor productos ámbitos comerciales
 HSH seguirá mejorando estabilidad calidad financiaciones

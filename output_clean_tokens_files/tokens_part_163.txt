@@ -95,7 +95,6 @@ Toronjas Pamplemusa pomelo pomelit tangelo minneola ugli híbridos
 Limones cidro limón
 Limas
 Mandarinas clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -2962,12 +2961,9 @@ Solubilidad
 Prácticamente insoluble agua
 fitosteroles fitostanoles solubles acetona acetato etilo
 Contenido estigmasterol
-
 fitosteroles fitostanoles combinados brasicasterol campestanol campesterol Δcampesterol colesterol clerosterol sitostanol βsitosterol
-
 Pureza
 Cenizas totales
-
 Disolventes residuales
 Etanol mg kg
 Metanol mg kg
@@ -3018,7 +3014,6 @@ Período contingentario
 Volumen contingente anual
 toneladas peso neto especifique cosa
 Carne animales especie bovina fresca refrigerada congelada deshuesada
-
 período posterior
 Hongos género Agaricus conservados provisionalmente impropios consumo inmediato
 Hongos género Agaricus preparados conservados vinagre ácido acético
@@ -3145,7 +3140,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Descripción mercancía
 Código mercancía código SA
@@ -3190,7 +3184,6 @@ vacunados fiebre aftosa meses anteriores recogida mínimo treinta recogida somet
 recogido tratado almacenado transportado cumpliendo requisitos establecidos anexo Directiva CEE
 almacenado condiciones autorizadas treinta posteriores recogida
 Notas
-
 Casilla lugar origen coincidirá centro recogida esperma definido artículo letra guion Directiva CEE procede esperma
 Casilla lugar destino coincidirá centro recogida almacenamiento definidos artículo letra Directiva CEE explotación destino esperma
 Casilla indicar identificación recipiente número precinto
@@ -3785,7 +3778,6 @@ Artículo sexto
 fecha adhesión Rumanía miembros reconocerán efectos ejercicio actividades mencionadas artículo presente Directiva diplomas certificados títulos medicina expedidos Rumanía personas hayan iniciado formación universitaria medicina octubre acompañados certificado expedido autoridades rumanas competentes acredite personas dedicado Rumanía efectivamente forma lícita carácter principal actividades mencionadas artículo Directiva CEE años consecutivos transcurso años anteriores expedición certificado personas autorizadas ejercer dichas actividades condiciones titulares diploma mencionado anexo presente Directiva
 Quedarán dispensadas requisito años ejercicio contemplado apartado personas hayan aprobado estudios años autoridades competentes acrediten equivalentes formación mencionada artículo Directiva CEE
 anexo texto correspondiente Bélgica correspondiente República Checa añade texto
-
 Cirugía oral anexo texto correspondiente Bélgica correspondiente República Checa añade texto
 Directiva CEE Consejo julio coordinación disposiciones legales reglamentarias administrativas relativas actividades odontólogos DO modificada
 artículo términos artículos bis ter quater quinto sustituirán términos artículos bis ter quater quinto sexto
@@ -4123,7 +4115,6 @@ France
 Stomatologie
 Ireland
 Italia
-
 Ortodoncia anexo texto correspondiente Bélgica correspondiente República Checa añade texto
 Rehabiliteringsmedicin United Kingdom
 Dermatología venereología
@@ -4894,11 +4885,8 @@ Descripción
 perfiles extremadamente convexos desarrollo muscular excepcional dobles músculos tipo culón
 excelente
 perfiles convexos superconvexos desarrollo muscular excepcional
-
 Perfiles convexos conjunto fuerte desarrollo muscular
-
 Perfiles rectilíneos conjunto desarrollo muscular
-
 Perfiles rectilíneos cóncavos desarrollo muscular
 mediocre
 perfiles cóncavos cóncavos escaso desarrollo muscular

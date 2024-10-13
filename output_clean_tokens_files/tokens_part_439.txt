@@ -442,7 +442,6 @@ Valor neto KK Finlandia
 Reducción basada tasación realizada perito terreno Asemansuo
 Valor neto estimado KK corrección
 Sobrevaloración terrenos Comisión
-
 Valor neto KK basado valor activos
 Puesto inversor comprara acciones KK esperar rendimiento capital puesto terrenos sobrevalorados Comisión concluye valor neto acciones KK nulo
 Componenta siquiera intentó encontrar comprador acciones KK indicio Karkkila pagó precio superior mercado puesto intento encontrar comprador habría forma útil determinar precio mercado
@@ -1767,7 +1766,6 @@ Fecha autorización
 Fecha AAAAMMDD
 Autorización válida especifica
 Suspensión autorización
-
 ARQUITECTURA
 Vínculos registros
 régimen reglamentario UE creando distintos registros matriculación
@@ -1820,7 +1818,6 @@ caso comunicación RMN RVM miembros utilizarán motor traducción MT creado Agen
 Figura
 arquitectura RVMCE
 arquitectura basa subsistemas complementarios permiten buscar datos almacenados localmente miembros
-
 establecimiento registros informatizados escala nacional apertura consulta recíproca
 sustitución registros papel soporte informático objeto miembros puedan gestionar compartir información
 posibilidad conexiones RMN RVM normas terminologías comunes
@@ -1906,7 +1903,6 @@ EMT ANS miembro XX
 datos
 ANS EMT
 ANS EMT
-
 Agencia Ferroviaria Europea
 Poseedores
 Poseedor vehículos
@@ -1991,7 +1987,6 @@ momento ultime transferencia información ANS EMT comunicarán extremo partes in
 Deberá informarse mínimo entidades siguientes
 entidad previamente responsable matrícula vehículo
 poseedor
-
 Decisiones CE CE Comisión modificadas Decisión CE usarse sistema numeración vehículos alta velocidad convencionales
 tipos vehículos autorizados conformidad artículo Directiva CE
 Registro refiere artículo Directiva CE
@@ -2057,7 +2052,6 @@ Campo
 Campo
 CAMPO CÓDIGO PAÍS LETRAS
 códigos publicados actualizados oficialmente páginas web Oficina Publicaciones Unión Europea Libro estilo interinstitucional httppublicationseuropaeucodeeseshtm
-
 Bélgica
 Chipre
 Chequia
@@ -2099,10 +2093,7 @@ Tipo documento
 Subtipo documento
 Licencias
 Licencias EF
-
 Certificado seguridad
-
-
 Reservado
 Autorización seguridad
 Reservado ejemplo mantenimiento material rodante infraestructura etc
@@ -2260,7 +2251,6 @@ RETAV
 BDOVUI
 UserGuideVVR Guía usuario RVM
 Alta velocidad Sistema BD Base datos
-
 ETI EXP
 RETAV
 RIC
@@ -2665,13 +2655,9 @@ Productos farmacéuticos utilizados ocasión competiciones deportivas internacio
 Mercancías dirigidas organismos carácter benéfico filantrópico
 Objetos anexo III destinados ciegos
 Objetos anexo IV destinados ciegos importados ciegos piezas recambio componentes accesorios herramientas
-
 Objetos anexo IV destinados ciegos importados determinadas instituciones organizaciones piezas recambio componentes accesorios herramientas
-
 Objetos destinados personas disminuidas distintas ciegos importados dichas personas piezas recambio componentes accesorios herramientas
-
 Objetos destinados personas disminuidas distintas ciegos importados determinadas instituciones organizaciones piezas recambio componentes accesorios herramientas
-
 Bienes importados beneficio víctimas catástrofes
 Condecoraciones recompensas concedidas título honorífico
 Regalos recibidos ámbito relaciones internacionales
@@ -4507,7 +4493,6 @@ Sulfato hidroxietilpfenilenodiamonio
 mezclarse condiciones oxidantes concentración máxima aplicada pelo deberá exceder calculado sulfato
 Indoldiol
 mezclarse condiciones oxidantes concentración máxima aplicada pelo deberá exceder
-
 Clorhidrato aminoclorometilfenol
 mezclarse condiciones oxidantes concentración máxima aplicada pelo deberá exceder calculado clorhidrato
 Indoldiona
@@ -4554,7 +4539,6 @@ mezclarse condiciones oxidantes concentración máxima aplicada pelo deberá exc
 Bencenodiol
 general
 profesional
-
 mezclarse condiciones oxidantes concentración máxima aplicada pelo deberá exceder
 experimentado reacción tatuajes temporales henna negra
 Contiene resorcinol

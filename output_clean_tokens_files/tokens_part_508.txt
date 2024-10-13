@@ -963,19 +963,14 @@ seca pulverización eliminan partículas
 Descripción Polvo color rosa prácticamente inodoro
 Propiedades fisicoquímicas lactoferrina bovina
 Humedad
-
 Cenizas
-
 Arsénico
 mg kg
 Hierro
 mg kg
 Proteínas
-
 lactoferrina bovina
-
 proteínas
-
 pH solución °C
 Solubilidad solución °C
 completa
@@ -1067,7 +1062,6 @@ DO
 DO
 DO
 ANEXO
-
 VEHÍCULOS MOTOR
 anexo II Directiva CEE lista punto texto relativo Irlanda inserta texto
 Croacia
@@ -1165,7 +1159,6 @@ anexo III nota pie página correspondiente punto texto relativo Irlanda inserta 
 Croacia
 anexo IV apéndice guión texto relativo Irlanda inserta texto
 anexo lista códigos figura punto texto relativo Irlanda inserta texto
-
 CALZADO
 anexo Directiva CE modifica
 punto modifica
@@ -3206,7 +3199,6 @@ Código producto
 Destino
 Unidad medida
 Importe restitución
-
 Reglamento CE Comisión
 abril
 fijan derechos importación aplicables sector cereales abril
@@ -3519,7 +3511,6 @@ Bruselas julio
 DO
 DO
 ANEXO
-
 Buques inscritos lista virtud artículo Reglamento CE
 Número OMI identificación buque referencia OROP
 Nombre buque nombre
@@ -4004,10 +3995,8 @@ número unidades glucosa grados sustitución
 Características químicas fosfato dialmidón fosfatado
 Pérdida desecación
 Fibras alimentarias
-
 Almidón
 Proteínas
-
 Lípidos
 Fósforo ligado residual
 expresado fósforo maíz rico amilosa fuente
@@ -4170,7 +4159,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -4236,7 +4224,6 @@ contenedores
 vehículos contenedores granel desinfectados proceder carga producto autorizado autoridad competente
 contenedores marcada naturaleza leche producto lácteo calostro llevan etiquetas consta producto categoría destinado consumo humano
 Notas
-
 Casilla Persona responsable carga UE casilla rellenarse únicamente certificado mercancía tránsito
 Casilla Lugar destino casilla rellenarse únicamente certificado mercancía tránsito
 Casilla Indíquese número registro vagones contenedores ferrocarril camiones número vuelo aviones nombre buque transporte
@@ -4261,7 +4248,6 @@ Firma
 Sello
 anexo XI queda modificado
 sustituye texto
-
 Lista terceros países miembros autorizar importación leche productos lácteos calostro productos base calostro certificado sanitario capítulo
 Leche productos lácteos
 Terceros países figuran autorizados cualquiera columnas anexo Decisión CE
@@ -4289,7 +4275,6 @@ Suplemento versión original Reglamento Fecha entrada vigor junio
 REGLAMENTO
 Ámbito aplicación
 Definición clasificación componentes
-
 Solicitud homologación
 Marcas
 Homologación

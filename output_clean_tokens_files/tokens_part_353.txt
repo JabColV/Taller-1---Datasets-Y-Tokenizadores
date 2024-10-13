@@ -45,12 +45,6 @@ zonas CIEM Consejo Internacional Exploración Mar zonas geográficas especificad
 Skagerrak zona geográfica delimitada oeste línea trazada faro Hanstholm Lindesnes sur línea trazada faro Skagen Tistlarna punto costa sueca
 Kattegat zona geográfica delimitada norte línea trazada faro Skagen Tistlarna punto costa sueca sur líneas trazadas Hasenøre Gnibens Spids Korshage Spodsbjerg Gilbjerg Hoved Kullen
 Unidad Funcional subzona VII CIEM zona geográfica delimitada líneas loxodrómicas unen sucesivamente siguientes posiciones
-
-
-
-
-
-
 Golfo Cádiz zona geográfica división CIEM IXa meridiano longitud
 zonas CPACO Comité Pesca Atlántico CentroOriental zonas geográficas especificadas anexo II Reglamento CE Parlamento Europeo Consejo
 zonas NAFO Organización Pesquerías Atlántico Noroeste zonas geográficas especificadas anexo III Reglamento CE Parlamento Europeo Consejo
@@ -124,19 +118,6 @@ efectos presente apartado zona Porcupine Bank zona geográfica delimitada línea
 Punto
 Latitud
 Longitud
-
-
-
-
-
-
-
-
-
-
-
-
-
 obstante dispuesto párrafo permitirá arreglo artículo apartados Reglamento CE tránsito zona Porcupine Bank buques lleven bordo especies mencionadas apartado
 Queda prohibida enero marzo agosto diciembre pesca comercial lanzón redes arrastre fondo redes tiro artes arrastre similares malla inferior mm divisiones CIEM IIa IIIa subzona CIEM IV
 prohibición establecida párrafo aplicará buques terceros países autorizados pesca lanzón aguas Unión subzona CIEM IV especifique cosa
@@ -565,7 +546,6 @@ Irlanda
 Zona Aguas Unión aguas internacionales zonas VI VII
 Especie Brosmio
 Zona Aguas Unión aguas internacionales zonas II XIV
-
 Zona IIIa aguas Unión subdivisiones
 Zona Aguas Unión zona IV
 aplicable artículo presente Reglamento
@@ -1111,7 +1091,6 @@ Número máximo año arte pesca buque presente zona
 Condición especial
 Arte regulado
 Redes arrastre redes cerco danesas redes arrastre similares malla mm redes enmalle malla mm palangres fondo
-
 Ilimitado
 Sistema kilovatiosdía
 miembros gestionar asignaciones esfuerzo pesquero sistema kilovatiosdía
@@ -1190,7 +1169,6 @@ tipos artes siguientes
 TR redes arrastre redes cerco danesas redes similares mm
 GN redes enmalle mm
 LL palangres fondo
-
 Cantidad acumulada esfuerzo pesquero expresada kilovatiosdía desplegada enero diciembre año trate
 Cuadro IV
 Formato notificación información relativa buques
@@ -1333,7 +1311,6 @@ Buques polivalentes equipados diversos artes
 Buques polivalentes equipados diversos artes palangre caña curricán
 cifra aumentarse cumplan obligaciones internacionales Unión
 ANEXO
-
 PROHIBICIÓN PESCA DIRIGIDA ZONA CONVENCIÓN CCRVMA
 Especie objeto pesca
 Zona
@@ -1357,7 +1334,6 @@ Antártico FAO
 FAO
 especies Champsocephalus gunnari Dissostichus eleginoides
 Antártico zona comprendida paralelos meridianos
-
 TAC LÍMITES CAPTURAS ACCESORIAS PESQUERÍAS EXPLORATORIAS ZONA CONVENCIÓN CCRVMA
 Subárea División
 Región
@@ -1458,7 +1434,6 @@ dirección dirección sur costa dirección oeste siguiendo costa dirección nort
 dirección dirección sur costa dirección oeste siguiendo costa dirección norte
 dirección dirección sur costa dirección oeste siguiendo costa dirección norte
 dirección dirección sur costa dirección oeste siguiendo costa dirección norte
-
 ANEXO
 NOTIFICACIÓN INTENCIÓN PARTICIPAR PESQUERÍA EUPHAUSIA SUPERBA
 Información general
@@ -1563,7 +1538,6 @@ Volumen copo
 ancho copo
 altura copo
 copo
-
 Especificar
 Etapas frecuencia observaciones
 comienzo pesca Medir ancho estanque retención estanque rectangular requerirán mediciones adicionales precisión
@@ -1739,7 +1713,6 @@ Limanda ferruginea
 HKW
 RMB
 Manta birostris
-
 Lamna nasus
 LIN
 Molva molva
@@ -1762,7 +1735,6 @@ RJB
 Dipturus batis Dipturus cf flossada Dipturus cf intermedia
 NOG
 Gobionotothen gibberifrons
-
 Lepidonotothen squamifrons
 NOR
 Notothenia rossii
@@ -1819,13 +1791,10 @@ Etmopterus princeps
 HKE
 MACB
 UIPE
-
 división
 división
 UIPE
-
 división
-
 UIPE
 UIPE
 UIPE
@@ -2710,7 +2679,6 @@ CICAP
 Bisfluorofenilmetil Htriazolilmetil silano
 enero
 junio
-
 autorizar usos fungicida cultivos siguientes
 cereales arroz
 maíz
@@ -2723,7 +2691,6 @@ aplicaciones mochila equipos mano aficionados profesionales
 jardinería doméstica
 miembros garantizarán aplicación medidas pertinentes reducción riesgo
 operarios ropa protección adecuada particular guantes monos botas goma protección facial gafas protección mezclen carguen empleen limpien equipo diseño construcción equipo instalación dispositivos protección específicos equipo impidan adecuadamente exposición sustancia
-
 aplicación principios uniformes anexo VI conclusiones informe revisión flusilazol apéndices II
 miembros garantizar titulares autorización informen tardar diciembre año incidencia problemas salud operarios
 miembros exigir faciliten elementos tales datos ventas estudio modalidades utilización imagen real condiciones impacto toxicológico flusilazol
@@ -4196,7 +4163,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados azucarados edulcorados

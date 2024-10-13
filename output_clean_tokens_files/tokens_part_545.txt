@@ -55,9 +55,7 @@ Reglamento modificado lugar Reglamento CE DO
 Corrección errores Reglamento CE Parlamento Europeo Consejo julio derechos personas discapacidad movilidad reducida transporte aéreo
 Diario Oficial Unión Europea julio página considerando frase asistencia organizarse objeto interrupción demora presentar nivel calidad elevado homogéneo Comunidad recursos independencia aeropuerto línea aérea trate asistencia organizarse objeto interrupción demora tiempo garantiza nivel calidad elevado homogéneo Comunidad recursos independencia aeropuerto línea aérea trate
 página considerando frase
-
 imposición compañías aéreas usuarias aeropuerto tarifa proporcional número pasajeros transporte origen destino forma financiación
-
 imposición compañías aéreas usuarias aeropuerto tarifa proporcional número pasajeros transporte origen destino forma financiación
 Decisión Parlamento Europeo
 abril
@@ -706,7 +704,6 @@ calcula potencia referencia
 potencia referencia entiende relación potencia hidráulica consumo potencia circulador teniendo dependencia eficiencia tamaño circulador
 Pref consumo potencia referencia vatios circulador
 define línea control referencia recta une puntos
-
 selecciona configuración circulador garantice línea seleccionada circulador alcance punto máximo
 miden caudales
 potencia eléctrica vatios consumida circulador punto funcionamiento especificado
@@ -719,7 +716,6 @@ Caudal
 Tiempo
 calcula media ponderada potencia PL avg fórmula
 calcula índice eficiencia energética fórmula EEI PL avg
-
 CXX factor escala garantiza momento definir factor escala XX circuladores tipo tengan EEI
 ANEXO III
 PROCEDIMIENTO VERIFICACIÓN
@@ -1940,7 +1936,6 @@ Lugar origen
 Establecimiento
 Número autorización
 Lugar destino
-
 Lugar carga
 Fecha salida
 Medios transporte
@@ -1989,7 +1984,6 @@ abajo firmante declara
 información aportada correcta
 tomado precauciones evitar contaminación subproductos animales productos derivados agentes patógenos contaminación cruzada categorías
 Notas
-
 Casilla procede
 Casilla número autorización registro
 caso estiércol transformado indique casilla número autorización registro planta explotación destino
@@ -2016,7 +2010,6 @@ Número lote Indique número lote número marca auricular proceda
 II
 firma deberá color distinto texto impreso
 Firma
-
 lugar
 fecha
 firma persona responsable expedidor
@@ -2116,7 +2109,6 @@ Descripción
 Residuos químicos
 Residuos compuestos químicos Residuos preparados químicos residuos químicos
 peligrosos
-
 Residuos químicos aceites usados
 Peligrosos
 Aceites usados
@@ -2128,7 +2120,6 @@ Residuos separación
 Lodos comunes
 residuos
 Residuos metálicos Residuos metálicos Equipos desechados Residuos animales vegetales Residuos minerales Residuos solidificados estabilizados vitrificados
-
 Residuos metálicos Residuos metálicos residuos contienen PCB Equipos desechados Residuos animales vegetales Residuos minerales Residuos solidificados estabilizados vitrificados
 Operaciones lugar reciclado
 recuperación energía
@@ -2139,14 +2130,12 @@ Residuos caucho
 Residuos plásticos
 Residuos madera
 Residuos textiles
-
 Residuos animales vegetales
 residuos animales preparados productos alimenticios heces orina estiércol
 Residuos animales preparados productos alimenticios
 Heces orina estiércol
 Residuos minerales
 Residuos compuestos químicos Residuos preparados químicos residuos químicos Residuos sanitarios biológicos Equipos desechados Residuos corrientes mezclados Lodos comunes Residuos solidificados estabilizados vitrificados
-
 Residuos compuestos químicos aceites usados Residuos preparados químicos residuos químicos Residuos sanitarios biológicos Residuos madera Residuos contienen PCB Equipos desechados Residuos corrientes mezclados Lodos comunes Residuos solidificados estabilizados vitrificados
 Eliminación incineración
 Residuos minerales
@@ -2545,7 +2534,6 @@ Hungría
 Polonia
 Eslovenia
 Eslovaquia
-
 Podjetja ki opravljajo javni mestni avtobusni prevoz skladno Zakonom prevozih cestnem prometu Uradni list RS in Companies that provide urban transport in accordance with Road Transport Traffic Act Official Gazette of the Republic of Slovenia
 Sb on Public Procurement as České energetické závody as
 South Moravian Company Severomoravská energetická as
@@ -3308,7 +3296,6 @@ Información permisos
 Enlace internet permisos vigor
 exige artículo apartado
 instalación acogida excepción arreglo artículo apartado
-
 preparado informe situación partida arreglo artículo
 MÓDULO FOCO SECTORIAL
 Observación módulo
@@ -3344,7 +3331,6 @@ revisiones permisos completadas marzo indique
 nombre instalación número referencia permiso
 razones completado revisión
 fecha completará revisión
-
 problema práctico utilizar conclusiones MTD correspondientes sectores considerados módulo
 MÓDULO REQUISITOS MÍNIMOS
 Incineración coincineración residuos
@@ -4045,8 +4031,6 @@ Reino Unido
 ANEXO III
 FUNCIÓN DEGRADACIÓN ORDEN VALORES SEMIVIDA DEFECTO REFIERE ARTÍCULO
 Función degradación orden inicia continúa año curso
-
-
 año
 Ci reserva carbono inicio año contenida almacén productos madera aprovechada Gg
 constante degradación orden expresada unidades año ln
@@ -4501,22 +4485,17 @@ Duración medida
 Alcalde Dębica
 Decisión aplazamiento julio
 PLN
-
 PLN
-
 PLN
 Director Agencia Tributaria Dębica
 Decisión aplazamiento septiembre
 PLN
-
 PLN
 Decisión condonación octubre
 PLN
 Decisión aplazamiento octubre
 PLN
-
 PLN
-
 Polonia Comisión Agencia Tributaria constituido garantía efectos aplazamiento
 Abarcaba valor nominal
 tiempo Polonia sumaran puntos básicos tipo Comunicación Comisión relativa método calcular tipos referencia actualización valor ayuda minimis seguiría estando umbral EUR
@@ -4531,58 +4510,6 @@ Cuadro
 Evolución tipos interés periodo
 Tipo interés
 Periodo aplicación
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 autoridades polacas presentaron cuadros detallados recogía evolución deuda ZUS
 Cuadro
 Evolución deuda ZUS
@@ -4593,7 +4520,6 @@ Intereses demora devengados importe cuestión fecha aplazamiento
 Deudas reembolsadas
 venta activos
 Pagos corrientes
-
 autoridades polacas facilitaron información medidas adoptadas ZUS garantizar recuperar deuda
 lugar periodo ZUS suscrito garantía hipotecaria cubría valor deuda
 medida crecía cuantía deuda añadieron activos hipoteca objeto cubrir deuda
@@ -4640,7 +4566,6 @@ Porcentaje deuda reembolsada
 millones
 millones
 principal intereses
-
 importes
 millones
 Tasa aplazamiento
@@ -4653,7 +4578,6 @@ millones
 millones
 Fecha límite recuperación
 recuperación anticipada activos hipotecados venden precios mercado
-
 autoridades polacas señalado ZUS posee hipoteca bienes empresa valor PLN
 convenio estipula venta activos rebajará automáticamente valor deuda afectada convenio permitirá reembolso haga rapidez plazos previstos
 Deudas contraídas oficina local presidente voivodato

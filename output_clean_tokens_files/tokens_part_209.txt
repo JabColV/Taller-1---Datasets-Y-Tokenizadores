@@ -569,7 +569,6 @@ ANEXO
 anexo II Decisión CEE lista modelos certificado veterinario modelo BOV II quedan sustituidos
 ANEXO II
 CARNE FRESCA
-
 LISTA TERCEROS PAÍSES PARTES TERCEROS PAÍSES establece certificado prohíben importaciones carne fresca especies indicadas línea correspondiente país
 Únicamente aplicable adherente convierta miembro Unión Europea
 País
@@ -595,7 +594,6 @@ BH Bahréin
 BR Brasil
 Minas Gerais delegaciones regionales Oliveira Passos São Gonçalo Sapucai Setelagoas Bambuí
 Mato Grosso comprende unidad regional Cuiaba excepción municipios San Antonio Leverger Nossa Senhora do Livramento Pocone Barão Melgaço unidad regional Cáceres excepción municipio Cáceres unidad regional Lucas do Rio Verde unidad regional Rondonópolis excepción municipio Itiquiora unidad regional Barra do Garça unidad regional Barra do Burgres
-
 Rio do Sul
 Mato Grosso do Sul incluido municipio Sete Quedas
 Mato Grosso do Sul excepción municipios Sonora Aquidauana Bodoqueno Bonito Caracol Coxim Jardim Ladario Miranda Pedro Gomes Porto Murtinho Rio Negro Rio Verde Mato Grosso Corumbá
@@ -693,7 +691,6 @@ octubre inclusive
 noviembre inclusive
 Restricciones categoría
 autorizan despojos diafragma músculos maseteros bovino
-
 MODELOS CERTIFICADO VETERINARIO
 Modelos
 Modelo certificado veterinario carne fresca animales domésticos especies bovinas Bos taurus Bison bison Bubalus bubalis cruces
@@ -806,7 +803,6 @@ embalado cajas contenedores sellados herméticamente figuran etiquetas mención 
 Declaración bienestar animales
 veterinario oficial abajo firmante certifica carne fresca anteriormente descrita procede animales tratados matadero momento sacrificio matanza conformidad disposiciones pertinentes legislación Comunidad Europea
 Sello oficial firma
-
 Firma veterinario oficial
 Sello
 mayúsculas nombre apellidos cualificación cargo
@@ -1455,7 +1451,6 @@ fuente elemento información ajuste
 información pro forma publicarse
 período financiero actual
 período financiero concluido recientemente
-
 período intermedio reciente publicada publica documento información relevante ajustada
 ajustes pro forma relacionados información financiera pro forma
 expuestos explicados claridad
@@ -1998,7 +1993,6 @@ nombre índice descripción compuesto emisor
 índice compuesto emisor obtenerse información índice
 subyacente tipo interés
 descripción tipo interés
-
 subyacente categorías enumeradas anteriormente nota valores contener información equivalente
 subyacente cesta subyacentes
 revelar proporción subyacente cesta
@@ -2396,7 +2390,6 @@ punto Aditivos distintos colorantes edulcorantes entrada correspondiente aditivo
 Acetatos potasio
 grupo entrada correspondiente aditivo sustituye texto
 Acetatos potasio
-
 categoría alimentos Frutas hortalizas conserva entrada correspondiente aditivo sustituye texto
 Acetatos potasio
 Período aplicación
@@ -3910,7 +3903,6 @@ ANEXO
 OBLIGACIONES INFORMACIÓN ESTADÍSTICA
 ANEXO II
 DEFINICIONES
-
 Definiciones categorías instrumentos
 cuadro ofrece descripción estándar detallada categorías instrumentos bancos centrales nacionales BCN transponen categorías nacionales presente Reglamento
 cuadro constituye lista instrumentos financieros individuales descripciones exhaustivas
@@ -4026,7 +4018,6 @@ posiciones netas provenientes préstamos valores garantía efectivo
 importes netos pagar concepto liquidaciones futuras operaciones valores
 contrapartidas ajuste valoración nominal precio compra préstamos
 intereses devengados vencidos valores representativos deuda emitidos incluirse partida separada BCN pertinente conceda exención datos puedan obtenerse estimarse fuentes alternativas
-
 Definiciones sectores
 clasificación sectorial basa SEC
 cuadro ofrece descripción estándar detallada sectores BCN transponen categorías nacionales presente Reglamento
@@ -4064,13 +4055,11 @@ comprende individuos grupos individuos producen bienes servicios financieros exc
 sector incluye empresas individuales sociedades personalistas personalidad jurídica distintas consideradas cuasisociedades productores mercado SEC apartados
 sector instituciones fines lucro servicio hogares formado instituciones fines lucro dotadas personalidad jurídica sirven hogares productores mercado privados
 recursos principales proceden contribuciones voluntarias efectivo especie efectuadas hogares calidad consumidores pagos administraciones públicas rentas propiedad SEC apartados
-
 Definición operaciones financieras
 operaciones financieras definen conforme SEC adquisición neta activos financieros existencia neta pasivos tipo instrumento financiero suma transacciones financieras producen período información correspondiente
 operación financiera unidades institucionales creación liquidación simultánea activo financiero pasivo correspondiente transferencia propiedad activo financiero asunción pasivo
 operaciones financieras registran valor transacción valor moneda nacional activos financieros pasivos cuestión crean liquidan intercambian contraen unidades institucionales base consideraciones comerciales
 saneamientos totales parciales cambios valoración representan operaciones financieras
-
 Definición saneamientos totales parciales
 saneamiento parcial define impacto cambios valor préstamos registrados balance causados aplicación saneamiento parcial préstamos
 incluye determinar saneamiento parcial reconocido tiempo venta transferencia préstamo terceros
@@ -4491,7 +4480,6 @@ DO
 ANEXO
 LISTA PRODUCTOS QUÍMICOS
 refiere artículo
-
 Lista productos químicos sujetos procedimiento notificación exportación
 refiere artículo
 Cabe señalar productos químicos enumerados anexo sujetos procedimiento PIC aplican obligaciones notificación exportación establecidas artículo apartados Reglamento satisfagan condiciones previstas apartado letras
@@ -4516,20 +4504,13 @@ dicloroetano dicloruro etileno
 cisdicloropropeno zdicloropropeno
 aminobutano
 naftilamina naftalenamina sales
-
-
 sales ésteres
-
-
 aminobifenilo bifenilamina sales
-
-
 nitrobifenilo
 Acefato
 Aldicarbo
 Compuestos arsénico
 Fibras amianto
-
 Crocidolita
 Amosita
 Antofilita
@@ -4542,12 +4523,8 @@ Azinfosmetilo
 Benceno
 Bencidina sales
 Derivados bencidina
-
-
 Binapacrilo
 Cadmio compuestos
-
-
 yotros
 Carbaril
 Carbofurán
@@ -4569,8 +4546,6 @@ DBB diμoxodinbutilestannohidroxiborano dioxaestannaboretanol
 Dicofol p’dicofol kg DDT compuestos afines DDT
 Dinitroortocresol DNOC sales sal amonio sal potasio sal sodio
 Dinoseb sales ésteres
-
-
 Formulaciones polvo seco contengan combinación
 benomilo concentración superior
 carbofurano concentración superior
@@ -4589,8 +4564,6 @@ Lindano γHCH
 hidrazida maleica sales distintas sales colina potasio sodio
 sales colina potasio sodio hidrazida maleica mg kg hidrazina libre expresada ácido equivalente
 Compuestos mercurio incluidos compuestos inorgánicos mercurio compuestos alquílicos mercurio compuestos alcoxialquílicos arílicos mercurio
-
-
 Metamidofós formulaciones líquidas solubles sustancia sobrepasen ingrediente activo
 Paratiónmetilo
 Monocrotofós
@@ -4604,26 +4577,19 @@ fenol nonil ramificado
 isononilfenol
 fenol nonil ramificado
 pnonilfenol
-
 Etoxilatos nonilfenol CHOnCHO
-
 Éter octabromodifenilo
 Ometoato
 Oxidemetónmetilo
 Pebulato
 Éter pentabromodifenilo
 Pentaclorofenol sales ésteres
-
-
-
 Sulfonatos perfluorooctano
 OH sal metálica OM halogenuro amida derivados incluidos polímeros
 Fosalón
 Fosfamidónformulaciones líquidas solubles sustancia sobrepasen ingrediente activo
 mezcla isómeros
 Polibromobifenilos PBB
-
-
 Policloroterfenilos PCT
 Profam
 Pirazofós
@@ -4639,11 +4605,9 @@ Tiociclam
 Triazofós
 Tridemorfo
 Compuestos triorganoestánnicos
-
 pi
 Fosfato tris dibromopropilo
 Óxido trisaziridinilfosfina ’fosforiltriaziridina
-
 Lista productos químicos reúnen condiciones someterse notificación PIC
 refiere artículo
 presente lista incluye productos químicos reúnen condiciones someterse notificación PIC
@@ -4687,9 +4651,6 @@ Quintoceno
 Simazina
 Tecnaceno
 Compuestos triorganoestánnicos particular tributilestaño incluido óxido bistributilestaño
-
-
-
 Lista productos químicos sujetos procedimiento PIC conformidad convenio Rótterdam
 refieren artículos
 categorías siguientes figuran Convenio
@@ -4824,7 +4785,6 @@ prácticas procesos industriales incluidas tecnologías contaminantes
 ANEXO
 Productos químicos artículos sujetos prohibición exportación
 refiere artículo
-
 Contaminantes orgánicos persistentes enumerados anexos Convenio Estocolmo contaminantes orgánicos persistentes arreglo disposiciones
 Descripción producto químico artículo sujeto prohibición exportación
 Información complementaria pertinente ejemplo nombre producto químico número CE número CAS etc
@@ -4859,7 +4819,6 @@ código NC
 Policlorobifenilos PCB
 CE CAS
 NC
-
 Productos químicos distintos contaminantes orgánicos persistentes enumerados anexos Convenio Estocolmo contaminantes orgánicos persistentes arreglo disposiciones
 Jabón tocador contiene mercurio
 Códigos NC
@@ -4876,7 +4835,6 @@ Dieldrina
 Endrina
 Heptacloro
 HaloxyfopPmetil ester
-
 Nitrofeno
 LenarčičJ burgo junio
 Cloroformo

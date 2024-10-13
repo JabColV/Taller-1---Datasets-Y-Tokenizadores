@@ -1199,7 +1199,6 @@ DO
 DO
 ANEXO
 Disposiciones administrativas homologación tipo vehículos respecta instalación neumáticos
-
 Ficha características
 MODELO
 Ficha características relativa homologación CE tipo vehículo respecta instalación neumáticos
@@ -1253,14 +1252,12 @@ vehículo dispone sistema control presión neumáticos descríbase brevemente
 CARROCERÍA
 Guardabarros
 Descríbanse brevemente guardabarros vehículo
-
 Dispositivos limitación velocidad
 Fabricantes
 Tipos
 Números homologación tipo caso
 Velocidad gama velocidades activarse límite velocidad kmh
 Notas explicativas
-
 Certificado homologación CE tipo
 Formato mm
 CERTIFICADO HOMOLOGACIÓN CE TIPO
@@ -2030,7 +2027,6 @@ respetan normas protección animales momento sacrificio matanza veterinario ofic
 veterinario oficial adoptar enfoque proporcionado progresivo actuación destinada cumplir normas oscilar formulación directrices reducción cese producción dependiendo naturaleza gravedad problema
 proceda veterinario oficial informará problemas bienestar animal autoridades competentes
 veterinario oficial descubre respetan normas protección animales transporte tomará medidas necesarias conforme legislación comunitaria pertinente
-
 auxiliar oficial esté llevando cabo comprobaciones bienestar animales arreglo secciones III IV
 dichas comprobaciones resulta cumplen normas protección animales
 auxiliar oficial informará inmediatamente veterinario oficial necesario casos urgencia deberá adoptar medidas necesarias refieren puntos espera llegada veterinario oficial
@@ -4214,7 +4210,6 @@ Cantidad aproximada
 Año cosecha
 Tipo arroz
 Redondo
-
 cantidad arroz cáscara almacenada actualmente organismo intervención español importante período almacenamiento resulta conveniente convocar licitación permanente reventa mercado interior cerca toneladas arroz cáscara posesión organismo
 Reglamento UE Comisión
 agosto

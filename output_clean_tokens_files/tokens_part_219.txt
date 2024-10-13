@@ -6,7 +6,6 @@ calcularán metodología establecida artículo
 artículo Reglamento CE exige miembros aseguren zonas establecidas anexo Reglamento capacidad buques dispongan permisos pesca especiales superior capacidad
 falta normas detalladas calcular ajustar niveles capacidad máxima particular respecta tratamiento capacidad eliminada ayuda pública transferida zonas geográficas conformidad artículo Reglamento
 Eslora
-
 Reglamento Ejecución UE Consejo
 febrero
 concluida reconsideración provisional parcial medidas antidumping aplicables importaciones determinados electrodos wolframio originarias República Popular China
@@ -823,7 +822,6 @@ Incluidos Peñón Vélez Gomera Peñón Alhucemas islas Chafarinas
 Antiguamente Yemen Norte Yemen Sur
 GrandeTerre Pamandzi
 Sudáfrica
-
 Comunidad Europea
 Código reservado marco intercambios terceros países declaración origen mercancías conformidad condiciones previstas disposiciones comunitarias materia
 código utilizarse fines estadísticos
@@ -1881,7 +1879,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -2431,7 +2428,6 @@ Compartimentación incendios humos vías evacuación
 específico declarado usos sujetos requisitos específicos particular relativos ruido energía estanqueidad seguridad compartimentación incendios humos vías evacuación
 comunicación interna
 Ventanas herrajes
-
 Herrajes puertas cancelas ventanas
 Postigos persianas herrajes
 usos exteriores
@@ -3214,7 +3210,6 @@ porcentaje componente soluble obtiene diferencia
 Calcular resultados base masa seca depurada ajustada porcentajes convencionales factores corrección necesarios pérdida materia pretratamiento análisis
 cálculos harán aplicando fórmula expuesta punto
 Cálculo porcentaje componente insoluble base masa seca depurada pérdida masa fibras pretratamiento
-
 porcentaje componente insoluble seco depurado
 masa seca muestra análisis pretratamiento
 masa seca residuo
@@ -3305,7 +3300,6 @@ ACETATO FIBRAS DETERMINADAS
 Método acetona
 método aplicable eliminada materia fibrosa mezclas binarias fibras
 acetato
-
 lana pelo animales seda algodón lino cáñamo yute abacá esparto coco retama ramio sisal cupro modal proteínica viscosa acrílico poliamida nailon poliéster elastomultiéster elastolefina melamina
 método aplicará caso fibras acetato hayan desacetilizadas superficie
 acetato disuelve acetona masa seca conocida mezcla
@@ -3815,7 +3809,6 @@ porcentajes fibras secas depuradas mezcla siguientes
 Poliamida
 porcentajes corregirse fórmulas indicadas punto porcentajes convencionales factores corrección posibles pérdidas masa pretratamiento
 indica anexo IX porcentajes convencionales siguientes lana cardada poliamida algodón algodón crudo acusa pérdida masa pretratamiento éter petróleo agua
-
 PA lana
 PA poliamida
 PA algodón
@@ -3832,10 +3825,8 @@ PA lana
 PA viscosa PA algodón composición materias primas mezcla Viscosa Algodón Lana Tabla mezclas ternarias típicas analizarse empleando métodos análisis mezclas binarias fibras Unión título ilustrativo mezcla Fibras componentes Variante Número método utilizado reactivo mezclas binarias
 Componente Componente
 Componente Lana pelo Viscosa cupro determinados tipos modal Algodón
-
 Lana pelo
 Viscosa cupro determinados tipos modal
-
 Algodón viscosa cupro modal
 hipoclorito ácido fórmico
 Lana pelo seda
@@ -3848,7 +3839,6 @@ Acrílico fibras determinadas
 Determinadas clorofibras
 poliamida nailon fibras determinadas
 Viscosa algodón cupro modal
-
 Viscosa cupro modal algodón
 acetona ácido sulfúrico
 Algodón viscosa cupro modal poliamida nailon poliéster acrílico
@@ -4038,7 +4028,6 @@ dimetilformamida ácido sulfúrico disulfuro carbono acetona ácido sulfúrico
 dimetilformamida ácido sulfúrico concentrado
 Pelo diversos animales mencionados números
 presente capítulo exponen procedimientos obtener muestras reducidas laboratorio tamaño adecuado tratamiento previo análisis cuantitativo masa superior muestras globales laboratorio seleccionar muestras análisis muestras reducidas laboratorio hayan pretratadas eliminar materia fibrosa
-
 porcentaje componente insoluble seco depurado calculado fórmula indicada punto
 porcentaje convencional componente insoluble véase anexo IX
 pérdida porcentual componente insoluble causada pretratamiento
@@ -4056,7 +4045,6 @@ hipoclorito cloruro cinc ácido fórmico
 Lana pelo
 Poliamida nailon
 Algodón viscosa cupro modal
-
 disulfuro carbono acetona cloruro cinc ácido fórmico dimetilformamida
 cloruro cinc ácido fórmico
 Reglamento CE Comisión
@@ -4670,7 +4658,6 @@ Pescado capturado silvestre
 Carne
 Leche
 Huevos
-
 muestras
 Noruega
 Islandia
@@ -4828,7 +4815,6 @@ DECLARA PRESENTE
 adhiere Convenio
 Adjunta presente Instrumento traducción Convenio lengua oficial Croacia
 Acepta recomendaciones decisiones Comisión Mixta UEAELC régimen común tránsito adoptadas enero fecha efectiva adhesión Croacia conformidad artículo bis Convenio
-
 Decisión Comisión
 julio
 fijan campaña comercialización importe ayuda diversificación ayuda adicional diversificación concede virtud régimen temporal reestructuración sector azúcar Comunidad

@@ -49,7 +49,6 @@ control positivo
 control negativo
 Rebaños
 Animales
-
 período notificación
 Información disponible dispone resultados controles previos
 indemne control positivo control rebaño apareció resultado positivo
@@ -186,7 +185,6 @@ Coste análisis laboratorio
 Número muestras aves silvestres
 Inhibición hemaglutinación
 Aislamiento virus
-
 especificar
 DO
 entenderá explotación manada establecimiento proceda
@@ -412,7 +410,6 @@ CAS estereoquímica confirmar
 CIPAC
 enero
 junio
-
 autorizar usos fungicida cultivos siguientes
 tomates
 pimientos invernadero
@@ -434,7 +431,6 @@ jardinería doméstica
 miembros garantizarán aplicación medidas pertinentes reducción riesgo
 operarios ropa protección adecuada particular guantes monos botas goma protección facial gafas protección mezclen carguen empleen limpien equipo diseño construcción equipo instalación dispositivos protección específicos equipo impidan adecuadamente exposición sustancia
 trabajadores ropa protección adecuada particular guantes entrar zona tratada transcurra plazo específico volver entrar
-
 aplicación principios uniformes anexo VI conclusiones informe revisión fenarimol apéndices II
 miembros garantizar titulares autorización informen tardar diciembre año incidencia problemas salud operarios
 miembros exigir faciliten elementos tales datos ventas estudio modalidades utilización imagen real condiciones impacto toxicológico fenarimol
@@ -639,7 +635,6 @@ DO
 DO
 ANEXO
 NÚMEROS REFERENCIA
-
 Países desarrollados
 Denominación grupo
 Tercer país
@@ -705,7 +700,6 @@ ACN Coeficiente asignación número referencia
 RESQ Cantidad residual distribuirse aplicación ACN
 RESQN Cantidad residual número referencia
 Cálculo coeficiente asignación referencia artículo apartado
-
 ACN negativo ACN fija
 ACN ACN fija
 TACPLDC CWAN ACN WAN regiones umbral regional salvaguardia inferior millones toneladas
@@ -765,7 +759,6 @@ finés Tulli Asetus EY
 sueco Tullsats Förordning EG nr
 artículo Reglamento CE restringe beneficio eliminación aranceles importadores paguen precio inferior precio referencia precio cif
 intercambios comerciales internacionales dichos contratos implican importador asume plenamente responsabilidad azúcar fecha operación carga
-
 artículo apartado Reglamento CE octubre quedan suprimidos aranceles partida regiones enumerados anexo importaciones alcanzan doble umbral especificado artículo Reglamento CE preferencia suspenderse regiones enumerados mencionado anexo países desarrollados enumerados anexo Reglamento CE
 Reglamento CE Comisión
 junio
@@ -1370,12 +1363,9 @@ CUADRO
 Número explotaciones objeto muestreo categoría aves corral explotaciones pavos
 Número explotaciones categoría aves corral explotaciones pavos
 Número explotaciones objeto muestreo
-
-
 CUADRO
 Número explotaciones pavos objeto muestreo
 Número explotaciones pavos
-
 REQUISITOS ESPECÍFICOS DETECCIÓN INFECCIONES SUBTIPOS VIRUS INFLUENZA AVIAR PATOS GANSOS
 muestras sangre análisis serológicos tomarán preferiblemente aves criadas aire libre
 explotación seleccionada tomarán muestras sangre realización análisis serológicos
@@ -2179,7 +2169,6 @@ efectos presente Directiva entenderá
 servicio comunicación audiovisual
 servicio definen artículos Tratado cuya responsabilidad editorial corresponde prestador servicio comunicación cuya principal finalidad proporcionar programas objeto informar entretener educar público general redes comunicaciones electrónicas define artículo letra Directiva CE
 servicio comunicación audiovisual emisión radiodifusión televisiva letra presente artículo servicio comunicación audiovisual petición letra presente artículo
-
 comunicación comercial audiovisual
 programa conjunto imágenes movimiento sonido constituye elemento unitario horario programación catálogo elaborado prestador servicio comunicación cuya forma contenido comparables forma contenido radiodifusión televisiva
 ejemplo programas citar largometrajes manifestaciones deportivas comedias situación documentales programas infantiles obras teatro originales
@@ -3127,7 +3116,6 @@ presente Decisión entrará vigor hayan efectuado Comité Mixto EEE notificacion
 aplicable enero
 Artículo
 presente Decisión publicará sección EEE Suplemento EEE Diario Oficial Unión Europea
-
 indicado preceptos constitucionales indicado preceptos constitucionales
 Decisión Comité Mixto EEE
 diciembre
@@ -4267,7 +4255,6 @@ productos originarios Ceuta Melilla
 productos enteramente obtenidos Ceuta Melilla
 productos obtenidos Ceuta Melilla cuya fabricación hayan utilizado productos distintos mencionados letra
 productos hayan suficientemente elaborados transformados sentido artículo
-
 productos originarios Cisjordania Franja Gaza Comunidad hayan objeto elaboraciones transformaciones vayan allá operaciones contempladas artículo
 productos originarios Cisjordania Franja Gaza
 productos enteramente obtenidos Cisjordania Franja Gaza

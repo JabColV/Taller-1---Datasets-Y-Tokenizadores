@@ -249,13 +249,11 @@ Táchese proceda
 ANEXO
 ANEXO
 Partes territorio Rumanía mencionadas artículo letras respectivamente
-
 Código ISO país
 Nombre país
 Descripción territorio
 Rumanía
 territorio Rumanía
-
 Rumanía condados
 Calarasi
 Decisión Comisión
@@ -583,7 +581,6 @@ Excluido Kosovo actualmente administración internacional conformidad Resolució
 autorizados productos lácteos obtenidos camellos especie Camelus dromedarius
 anexo II queda modificado
 sustituye texto
-
 Modelos certificados sanitarios
 certificado sanitario leche cruda procedente terceros países zonas terceros países autorizados columna anexo destinada transformada Unión Europea utilizarse consumo humano
 certificado sanitario productos lácteos base leche cruda aptos consumo humano procedentes terceros países zonas terceros países autorizados columna anexo destinados importados Unión Europea
@@ -632,7 +629,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -682,7 +678,6 @@ cumplen criterios pertinentes anexo III sección IX capítulo II Reglamento CE c
 cumplen garantías relativas animales vivos productos ofrecen planes residuos presentados conformidad Directiva CE particular artículo
 Notas
 presente certificado utilizará calostro productos base calostro procedentes terceros países zonas terceros países autorizados columna anexo Reglamento UE
-
 Casilla indicar nombre código ISO país país figuran anexo Reglamento UE Comisión julio establecen condiciones sanitarias zoosanitarias requisitos certificación veterinaria introducción Unión Europea leche cruda productos lácteos destinados consumo humano DO
 Casilla indicar nombre dirección número autorización establecimiento expedición
 Casilla indicar número registro vagones contenedores ferrocarril vehículos carretera número vuelo aeronaves nombre buques
@@ -702,7 +697,6 @@ Fecha
 Firma
 Sello
 sustituye texto
-
 Modelo Milk ColostrumT
 Certificado zoosanitario leche cruda productos lácteos calostro productos base calostro aptos consumo humano tránsito UE almacenamiento territorio
 Persona responsable partida UE
@@ -1830,7 +1824,6 @@ DO
 DO
 DO
 ANEXO
-
 TAE
 número orden disposición crédito
 número orden operación disposición crédito
@@ -1881,7 +1874,6 @@ considerará consumidor efectúa pagos fecha fechas autorizadas contrato crédit
 considerará incrementos porcentuales valor inmueble constituye garantía contrato crédito capital compartido tasa índice inflación mencionado contrato porcentaje valores siguientes tasa inflación objetivo banco central momento nivel inflación existente momento celebración contrato miembro situado porcentajes anteriores negativos
 ANEXO II
 FICHA EUROPEA INFORMACIÓN NORMALIZADA FEIN
-
 texto presente modelo reproducirá FEIN
 indicaciones corchetes sustituirán información correspondiente
 figuran instrucciones prestamista caso intermediario crédito deberá seguir cumplimentar FEIN
@@ -2004,7 +1996,6 @@ consentimiento vigencia contrato crédito comunicaremos lengua lenguas
 Insértese declaración derecho consumidor proporcione ofrezca caso proyecto contrato crédito
 supervisor prestamista denominación dirección electrónica autoridad autoridades supervisoras
 lugar supervisor intermediario crédito denominación dirección electrónica autoridad supervisora
-
 Instrucciones cumplimentar FEIN
 cumplimentar FEIN seguirán mínimo instrucciones figuran continuación
 miembros desarrollar precisar medida instrucciones cumplimentación FEIN
@@ -2262,9 +2253,7 @@ Hexaclorobenceno máximo kg
 Decaclorobifenilo máximo kg
 marzo
 febrero
-
 autorizar usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión clorotalonil apéndices II ultimó Comité permanente cadena alimentaria sanidad animal febrero
 evaluación general miembros deberán prestar especial atención protección
 organismos acuáticos
@@ -2776,7 +2765,6 @@ DO
 DO
 ANEXO
 Documentos administrativos homologación CE tipo vehículo motor dispositivos deshielo desempañado parabrisas
-
 Ficha características
 MODELO
 Ficha características relativa homologación CE tipo vehículo motor dispositivos deshielo desempañado parabrisas
@@ -2890,7 +2878,6 @@ Coordenadas dibujo punto
 Asiento conductor
 Ángulo previsto respaldo
 Notas explicativas
-
 Certificado homologación CE tipo
 Formato mm
 CERTIFICADO HOMOLOGACIÓN CE TIPO
@@ -3469,12 +3456,6 @@ zonas CIEM Consejo Internacional Exploración Mar zonas geográficas especificad
 Skagerrak zona geográfica delimitada oeste línea trazada faro Hanstholm Lindesnes sur línea trazada faro Skagen Tistlarna punto costa sueca
 Kattegat zona geográfica delimitada norte línea trazada faro Skagen Tistlarna punto costa sueca sur líneas trazadas Hasenøre Gnibens Spids Korshage Spodsbjerg Gilbjerg Hoved Kullen
 VII Porcupine Bank Unidad zona geográfica delimitada líneas loxodrómicas unen sucesivamente siguientes posiciones
-
-
-
-
-
-
 Golfo Cádiz geográfica división CIEM IXa meridiano longitud
 zonas CPACO Comité Pesca Atlántico CentroOriental zonas geográficas especificadas anexo II Reglamento CE
 TÍTULO II
@@ -3544,19 +3525,6 @@ efectos presente artículo zona Porcupine Bank zona geográfica delimitada líne
 Punto
 Latitud
 Longitud
-
-
-
-
-
-
-
-
-
-
-
-
-
 obstante dispuesto apartado permitirá arreglo artículo apartados Reglamento CE tránsito zona Porcupine Bank buques lleven bordo especies mencionadas apartado
 Artículo
 Prohibiciones
@@ -4749,7 +4717,6 @@ Prueba aislamiento virus
 medidas
 Especifíquense acciones realizadas
 Toma muestras
-
 abajo firmante certifica datos indicados correctos solicitado Comunidad ayuda relación medidas
 Lugar fecha
 Firma

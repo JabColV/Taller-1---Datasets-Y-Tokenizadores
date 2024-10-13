@@ -2151,7 +2151,6 @@ Trenes viajeros
 indicación cola tren viajeros consistirá luces rojas fijas altura tope eje transversal
 Trenes mercancías tráfico internacional
 miembro notificar siguientes requisitos aplicará red trenes crucen frontera miembros
-
 luces rojas fijas
 placas reflectantes forma triángulos laterales blancos triángulos abajo rojos
 luces placas estarán altura tope eje transversal
@@ -2963,8 +2962,6 @@ Grupos
 Cantidad aproximada
 Años cosecha
 Tipos arroz
-
-
 GR Athens Tel
 cantidad arroz cáscara almacenada actualmente organismo intervención griego importante período almacenamiento resulta conveniente convocar licitación permanente reventa mercado interior cerca toneladas arroz cáscara posesión organismo
 Decisión Comisión

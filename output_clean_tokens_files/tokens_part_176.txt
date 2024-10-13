@@ -1690,7 +1690,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -1729,7 +1728,6 @@ sometida
 tratamiento ácidos lavado agua tratamiento solución alcalina veinte pH ajustarse material purificarse filtración esterilizarse °C segundos
 tratamiento álcalis lavado agua tratamiento solución ácida horas pH ajustarse material purificarse filtración esterilizarse °C segundos
 envasado embalado envases embalajes figura advertencia GELATINA FOTOGRÁFICA DESTINADA EXCLUSIVAMENTE INDUSTRIA FOTOGRÁFICA
-
 Casilla destino previsto gelatina fotográfica República Checa Luxemburgo Países Bajos Reino Unido
 Casilla País destino aplicable únicamente República Checa Luxemburgo Países Bajos Reino Unido
 Casilla Indíquese número registro vagones contenedores camiones número vuelo nombre buque mercancía descarga vuelve cargarse informar
@@ -2233,7 +2231,6 @@ TRADUCCIÓN
 Unión Europea Georgia crea marco participación Georgia operaciones gestión crisis Unión Europea
 UNIÓN EUROPEA Unión UE
 GEORGIA
-
 sucesivo denominadas Partes
 CONSIDERANDO
 Unión decidir actuar ámbito gestión crisis inclusive operaciones mantenimiento paz operaciones humanitarias
@@ -2377,7 +2374,6 @@ Declaración Georgia
 Georgia aplicar decisión Consejo UE relativa operación gestión crisis UE procurará medida permita ordenamiento jurídico interno renunciar reclamación participe operación gestión crisis UE lesiones muerte personal daños pérdidas material perteneciente Georgia utilizado operación gestión crisis UE dichas lesiones muertes daños pérdidas
 hayan causados personal ejercicio funciones relación operación gestión crisis UE caso negligencia grave conducta dolosa
 hayan consecuencia utilización material perteneciente participantes operación UE gestión crisis material utilizado relación operación caso negligencia grave conducta dolosa personal operación gestión crisis UE utilizado
-
 Reglamento Ejecución UE Comisión
 octubre
 fija coeficiente asignación aplicarlo solicitudes certificados importación aceite oliva presentadas octubre octubre marco contingente arancelario tunecino suspende expedición certificados importación mes octubre
@@ -2742,7 +2738,6 @@ HC Yellow
 CAS
 CE
 mezclada condiciones oxidantes concentración máxima aplicada cabello exceder
-
 Nitrofenilaminofenol
 HC Orange
 CAS
@@ -3369,7 +3364,6 @@ Decisión modificada Directiva CEE DO
 DO
 Decisión modificada Decisión CE DO
 ANEXO
-
 Enfermedades refiere letra artículo
 Tuberculosis bovina
 Brucelosis bovina
@@ -3401,7 +3395,6 @@ Listeriosis agentes causales
 Salmonelosis salmonela zoonótica agentes causales
 Triquinosis agentes causales
 Escherichia coli verocitotóxica
-
 Enfermedades refiere artículo letra
 Encefalopatía espongiforme bovina EEB enfermedad evolución lenta
 ANEXO II
@@ -3458,7 +3451,6 @@ Situación fecha
 Especie animal
 Año
 Región
-
 Rebaños manadas explotaciones corresponda
 Enfermedad especie animal caso necesario
 entenderá región definido programa erradicación aprobado miembro
@@ -3865,7 +3857,6 @@ Filtro
 Número identificación encuestado
 Número dígitos
 respuesta
-
 Número identificación hogar
 Estratos primarios utilizaron selección muestra
 aplicable estratificación
@@ -3980,8 +3971,6 @@ VARIABLES SALUD
 salud Módulo mínimo europeo salud
 Percepción subjetiva salud
 percibe persona salud general
-
-
 Regular
 Malo
 malo
@@ -4016,8 +4005,6 @@ Intervención médica grave relación accidente grave meses
 Ingreso hospital centro sanitario
 Intervención médico enfermero
 necesaria intervención
-
-
 Ausencia trabajo problemas salud
 Ausencia trabajo problemas salud meses
 MAINSTAT
@@ -4039,7 +4026,6 @@ Dificultad oír conversación persona sitio tranquilo utilizando audífono
 PL
 Dificultad oír conversación persona sitio ruidoso utilizando audífono
 PL
-
 Dificultad caminar kilómetro terreno llano bastón tipo ayuda
 Dificultad subir bajar escalones
 Actividades cuidado personal
@@ -4068,23 +4054,16 @@ HAb HAc HAd HAe HAf
 Necesita ayuda ayuda dispone actividades domésticas preparar comidas utilizar teléfono compras administrarse medicación tareas hogar ligeras pesadas ocuparse dinero tareas administrativas cotidianas
 Dolor
 Intensidad dolor físico semanas
-
 leve
 Leve
 Moderado
 Intenso
 intenso
 medida obstaculizado dolor trabajo normal semanas incluido trabajo hogar tareas hogar
-
-
 Moderadamente
-
-
 Salud mental
 frecuencia sentido interés alegría cosas semanas
-
 mitad
-
 frecuencia sentido decaído deprimido desesperanzado semanas
 frecuencia problemas quedarse dormido seguir durmiendo dormido semanas
 frecuencia sensación cansancio energía semanas
@@ -4104,15 +4083,12 @@ Número
 HO
 asistencia ambulatoria domicilio
 Tiempo transcurrido acudió dentista ortodoncista higienista dental
-
 meses
 meses
 meses
-
 Tiempo transcurrido acudió médico general médico familia
 meses
 meses
-
 Número consultas médico general médico familia semanas
 Número
 AM
@@ -4135,7 +4111,6 @@ meses
 año
 años
 años
-
 Tiempo transcurrido midió niveles colesterol profesional sanitario
 Tiempo transcurrido midió niveles glucosa profesional sanitario
 Tiempo transcurrido prueba detección sangre oculta heces
@@ -4190,7 +4165,6 @@ PE
 Número semana tipo dedicados actividades musculación
 Consumo frutas verduras
 Frecuencia consumo fruta excluidos zumos
-
 semana
 semana
 semana
@@ -4208,12 +4182,10 @@ Tipo producto tabaco consumido
 Cigarrillos cajetilla liados mano
 Puros
 Tabaco pipa
-
 SK
 Número cigarrillos
 SK
 Frecuencia exposición humo tabaco interior edificios
-
 hora diaria
 hora diaria
 Consumo bebidas alcohólicas
@@ -4228,12 +4200,6 @@ mes
 meses puesto dejado tomar alcohol
 sorbos probarlo vida
 Frecuencia consumo bebida alcohólica lunes jueves
-
-
-
-
-
-
 Número bebidas alcohólicas estándar promedio lunes jueves
 bebidas diarias
 bebidas diarias
@@ -4243,21 +4209,13 @@ bebidas diarias
 bebidas diarias
 bebidas diarias
 bebidas diarias
-
 Frecuencia consumo bebida alcohólica viernes domingo
-
-
-
-
 Número bebidas alcohólicas estándar promedio viernes domingo
-
 Frecuencia episodios consumo intensivo alcohol equivalente etanol puro meses
 meses
 vida
-
 Apoyo social
 Número personas cercanas contar caso graves problemas personales
-
 Grado interés muestran
 atención interés
 atención interés
@@ -4267,7 +4225,6 @@ atención interés
 medida fácil obtener ayuda práctica vecinos caso necesidad
 fácilmente
 Fácilmente
-
 Difícilmente
 difícilmente
 Prestación asistencia cuidados informales
@@ -4324,9 +4281,7 @@ Norte escocés Canal Caledonia Islas Sorlingas
 Protocolo
 colaboración cooperación Comunidades Europeas miembros Georgia relativo marco Unión Europea Georgia principios generales participación Georgia programas Unión
 UNIÓN EUROPEA sucesivo denominada Unión
-
 GEORGIA sucesivo denominada Georgia
-
 conjuntamente sucesivo denominadas Partes
 Considerando
 Georgia celebró colaboración cooperación Comunidades Europeas miembros entró vigor julio
@@ -4839,7 +4794,6 @@ Trismetilhidroxitercbutilfenilbutano
 ANEXO
 anexo Directiva CE queda modificado
 sustituye texto
-
 Especificaciones generales
 materiales objetos plásticos deberán liberar aminas aromáticas primarias cantidad detectable LD mg kg alimento simulante alimenticio
 migración aminas aromáticas primarias incluidas listas anexos II III queda excluida restricción
@@ -4904,7 +4858,6 @@ Leche fermentada yogur leche batida productos similares
 Nata nata ácida
 Quesos
 enteros corteza comestible
-
 Cuajo
 líquido pastoso
 polvo secado

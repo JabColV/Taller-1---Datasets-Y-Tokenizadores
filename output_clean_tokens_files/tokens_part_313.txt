@@ -1885,7 +1885,6 @@ eje referencia interior campos angulares definidos esquemas anexo presente Regla
 inferior producto mínimo figura cuadro punto porcentaje indica cuadro distribución luz anexo presente Reglamento dirección correspondiente puntos cuadro
 superará máximo figura cuadro punto dirección espacio observarse dispositivo señalización luminosa
 caso luces posición traseras mutuamente incorporadas luces frenado véase punto admisible intensidad luminosa cd plano forme ángulo abajo plano horizontal
-
 extensión campos definidos diagramas anexo intensidad luz emitida deberá cd luces posición delanteras traseras luces gálibo cd luces frenado
 luz posición trasera mutuamente incorporada luz frenado emite intensidad luminosa constante variable relación intensidades luminosas realmente medidas luces encendidas simultáneamente intensidad luz posición trasera encendida deberá campo delimitado rectas horizontales pasan rectas verticales pasan cuadro distribución luz
 luz posición trasera luz frenado ambas contienen fuente luminosa consideran luz única valores considerarse obtenidos fuentes funcionamiento
@@ -2137,7 +2136,6 @@ ciento
 luz
 ciento
 ambas luces
-
 Pasar muestra
 Muestra
 ambas luces
@@ -2220,7 +2218,6 @@ SA Partida
 Designación mercancía
 cambios
 Agua incluidas agua mineral gaseada adición azúcar edulcorante aromatizada bebidas alcohólicas jugos frutas frutos hortalizas partida
-
 contengan componentes lácteos partidas
 Alcohol etílico desnaturalizar grado alcohólico volumétrico inferior vol aguardientes licores bebidas espirituosas
 jugo uva concentrado alcohol añadido
@@ -3599,10 +3596,8 @@ Peces vivos ornamentales
 Ostras separadas valvas vivas frescas refrigeradas congeladas secas saladas salmuera
 Veneras vieiras volandeiras moluscos géneros Pecten Chlamys Placopecten
 Vivos frescos refrigerados NC
-
 Mejillones
 Vivos frescos refrigerados
-
 NC
 Caracoles mar
 Harina polvo pellets pescado aptos alimentación humana
@@ -3868,7 +3863,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -3882,7 +3876,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -3896,7 +3889,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri

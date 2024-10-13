@@ -919,7 +919,6 @@ aeródromos exista interés público mantener operaciones actuales aplicarse té
 Aproximaciones radar bordo ARA vuelos agua Helicópteros
 llevará cabo ARA
 radar proporciona guiado garantizar margen franqueamiento obstáculos
-
 altura mínima descenso MDH determina radioaltímetro
 aplica altitud mínima descenso MDA margen adecuado
 llevarán cabo ARA instalaciones embarcaciones movimiento operaciones tripulación vuelo múltiple
@@ -1591,7 +1590,6 @@ efectos satisfacer requisitos relativos franqueamiento obstáculos obstáculo si
 operaciones reglas VFR
 mitad anchura mínima definida AFM defina anchura dimensión helicóptero momento giran rotores
 valor elevado
-
 distancia DR operaciones reglas VFR diurno
 distancia DR operaciones reglas VFR nocturno
 operaciones reglas IFR
@@ -1975,7 +1973,6 @@ Botiquín auxilios
 aviones estarán equipados botiquines auxilios cuadro
 Número botiquines auxilios requeridos
 Número plazas pasajeros instalados
-
 botiquines auxilios
 fácil acceso
 mantendrá condiciones
@@ -2049,7 +2046,6 @@ tipo cantidad agente extinción extintores requeridos idóneo tipo incendio prob
 aviones estarán equipados número extintores portátiles acorde cuadro ubicados adecuadamente ofrecer disponibilidad adecuada cabina pasajeros
 Número extintores portátiles
 Número extintores
-
 Hacha emergencia palanca pata cabra
 aviones MCTOM kg MOPSC estarán equipados hacha emergencia palanca pata cabra situada compartimento tripulación vuelo
 caso aviones MOPSC instalará zona cocinas posterior cerca hacha emergencia palanca pata cabra adicional
@@ -2069,7 +2065,6 @@ aviones MOPSC transporten pasajero estarán equipados siguientes cantidades meg�
 cabina pasajeros
 Número megáfonos
 Configuración plazas pasajeros
-
 aviones cabina pasajeros casos configuración asientos pasajeros requerirá mínimo megáfono
 Iluminación marcado emergencia
 aviones MOPSC estarán equipados sistema iluminación emergencia fuente alimentación independiente facilitar evacuación avión
@@ -3041,7 +3036,6 @@ conclusiones grupo especial OMC asunto DRAMs japoneses hacía referencia hechos 
 Comisión elaborado valor referencia aproximativo basado tipo interés comercial aumentado prima riesgo refleje índices impago empresas presentan riesgo comparable
 valor referencia tendría duración préstamo tipo interés referencia debería pagar empresa solvente probabilidad impago empresa solvente período determinado probabilidad impago empresa solvente período
 Comisión utilizado fórmula calcular tipo interés referencia apropiado aplicable prestatario solvente
-
 duración crédito
 tipo interés referencia aplicable prestatario solvente
 tipo interés plazo aplicable empresa solvente
@@ -3960,7 +3954,6 @@ Costes emisiones equipos control CO explotación permisos emisión
 Seguridad energética
 Coste combustibles fósiles consumidos generar electricidad
 Coste combustibles fósiles transporte funcionamiento
-
 Coste programas participación consumidores
 Costes hundidos contadores tradicionales previamente instalados
 LISTA EXHAUSTIVA FÓRMULAS CUANTIFICACIÓN BENEFICIOS CASO ELECTRICIDAD
@@ -3972,7 +3965,6 @@ Reducción costes operación contadores
 Valor EUR Reducciones estimadas costes operar contador distancia EUR añoDespliegue Reducciones estimadas costes operar contador distancia EUR año Porcentaje fallos comunicaciones Escenario despliegue
 Reducción costes lectura contadores
 Valor EUR Coste lecturas contador locales EURReferencia Coste estimado obtención lecturas contador locales dispersas EUREscenario despliegue
-
 Coste lecturas contador locales EUR Referencia
 clientes BT Coste histórico lectura contadores cliente año EUR
 Coste estimado obtención lecturas contador locales dispersas EUREscenario despliegue
@@ -4950,7 +4942,6 @@ DO
 ANEXO
 Ecuación base traduce equivalencia disposiciones crédito reembolsos pagos
 ecuación base define tasa anual equivalente TAE expresa equivalencia anual suma valores actualizados disposiciones crédito suma valores actualizados importes reembolsos pagos gastos
-
 TAE
 número orden disposición crédito
 número orden operación disposición crédito

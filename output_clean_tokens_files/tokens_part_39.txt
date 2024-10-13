@@ -312,7 +312,6 @@ Contaminantes gaseosos
 ensayo tipo
 combustibles
 gasolina
-
 Partículas
 inyección directa
 gasolina
@@ -329,7 +328,6 @@ Emisiones temperatura baja
 ensayo tipo VI
 combustibles
 Diagnóstico bordo
-
 Descripción ensayos
 Ensayo tipo simulación promedio emisiones escape arranque frío
 figura ilustra vías ensayo tipo ensayo realizará vehículos contemplados apartado subapartados
@@ -364,7 +362,6 @@ ensayos realicen combustibles gaseosos masa emisiones gaseosas resultante inferi
 número ensayos establecido punto reducirá condiciones continuación enumeran resultado ensayo ensayo contaminante emisión combinada contaminantes sujetos límites
 efectuará ensayo resultado obtenido contaminante emisión combinada contaminantes sujetos límites menor
 caso cumplan condiciones establecidas punto efectuarán ensayos contaminante emisión combinada contaminantes sujetos límites cumplen siguientes requisitos
-
 Figura
 Diagrama flujo procedimiento homologación tipo
 Ensayo tipo II ensayo emisiones monóxido carbono régimen ralentí
@@ -407,7 +404,6 @@ caso único requisito ensayo consistirá media aritmética resultados inferior v
 número ensayos establecidos punto reducirse puntos
 efectuará ensayo resultado obtenido relación contaminante ensayo inferior
 caso cumpla requisito punto efectuarán únicamente ensayos relación contaminante resultado ensayo inferior suma resultados inferior resultado ensayo inferior
-
 Ensayo tipo durabilidad dispositivos anticontaminantes
 ensayo realizará vehículos contemplados apartado aplica ensayo especificado punto
 ensayo consiste prueba envejecimiento km efectuada programa descrito anexo pista ensayo carretera banco dinamométrico
@@ -514,7 +510,6 @@ tipo proporción metales preciosos
 sustrato estructura material
 densidad celular
 inyección aire
-
 tipo aire impulsado bombas aire etc
 EGR
 tipo refrigerado refrigerar control activo pasivo presión alta baja
@@ -662,7 +657,6 @@ caso tipos vehículos amparados extensión homologación tipo exija realización
 aplicar procedimiento estadístico definido apéndice número lotes muestras dependerá volumen ventas anual familia vehículos circulación territorio organización regional ejemplo Comunidad Europea define cuadro
 Matriculaciones año civil
 Número lotes muestras
-
 Atendiendo resultados comprobación refiere punto organismo homologación
 decidirá conformidad circulación tipo vehículo familia vehículos circulación satisfactoria tomará medida
 decidirá datos suministrados fabricante bastan tomar decisión solicitará información datos ensayo fabricante
@@ -709,7 +703,6 @@ logaritmo natural medición vehículo muestra
 estimación desviación estándar producción tomar logaritmo natural mediciones
 número muestra considerada
 Calcúlese muestra estadística ensayo cuantifica suma desviaciones estándar límite define
-
 estadística ensayo superior número correspondiente decisión aprobado tamaño muestra figura cuadro adoptará decisión aprobado contaminante
 estadística ensayo inferior número correspondiente decisión suspenso tamaño muestra figura cuadro adoptará decisión suspenso contaminante contrario someterá ensayo vehículo aplicará cálculo muestra aumentando tamaño unidad
 Cuadro
@@ -843,7 +836,6 @@ aumente muestra requisitos punto aplicará muestra aumentada procedimiento estad
 Procedimiento seguirse evaluación separada fuentes emisión muestra exceden considerablemente valores límite
 tamaño mínimo muestra establecerá procedimiento muestreo probabilidad lote supere ensayo producción defectuosa riesgo productor probabilidad lote aceptado producción defectuosa riesgo consumidor
 contaminantes figuran cuadro punto presente Reglamento utilizará procedimiento véase figura
-
 valor límite contaminante
 valor medición vehículo muestra
 calcula muestra estadística ensayo cuantifica número vehículos conformes xi
@@ -875,7 +867,6 @@ Acepta OHT informe conformidad circulación fabricante confirme aceptabilidad ti
 punto
 OHT información insuficiente tomar decisión
 Proceso finalizado
-
 OHT inicia programa oficial vigilancia conformidad circulación tipo vehículo sospechoso describe apéndice
 Véase figura apéndice
 entiende OHT organismo homologación concedió homologaciones tipo arreglo presente Reglamento véase definición ECE TRANS WP nota
@@ -887,7 +878,6 @@ ensayo
 Fuente emisión
 ensayos
 aplican estadísticas ensayo
-
 Suspenso
 Suspenso muestra
 causa
@@ -1304,7 +1294,6 @@ Relaciones internas caja cambios relación revoluciones motor eje transmisión c
 Relaciones transmisión relación revoluciones eje transmisión caja cambios rueda tracción
 Relaciones totales transmisión
 Máximo CVT
-
 Mínimo CVT
 Marcha atrás
 Suspensión
@@ -1388,7 +1377,6 @@ Categoría clase vehículo
 Tipo motor
 clase
 satisfacen necesidades sociales específicas
-
 clase II
 clase III
 ANEXO BIS
@@ -1662,14 +1650,12 @@ concentración CO gases escape diluidos contenidos bolsa muestreo expresada porc
 concentración HC gases escape diluidos contenidos bolsa muestreo expresada ppm equivalente carbono
 concentración CO gases escape diluidos contenidos bolsa muestreo expresada ppm
 concentración hidrocarburos metánicos calculará
-
 concentración corregida HCNM gases escape diluidos expresada ppm equivalente carbono
 concentración HCT gases escape diluidos expresada ppm equivalente carbono corregida cantidad HCT presente aire dilución
 concentración CH gases escape diluidos expresada ppm equivalente carbono corregida cantidad CH presente aire dilución
 factor respuesta detector ionización llama metano definido punto apéndice anexo bis
 Cálculo factor corrección humedad
 corregir efectos humedad resultados óxidos nitrógeno aplicará fórmula
-
 humedad absoluta expresada gramos agua kilogramos aire seco
 humedad relativa aire ambiente expresada porcentaje
 presión vapor saturación temperatura ambiente expresada kPa
@@ -1753,12 +1739,9 @@ Ciclo funcionamiento ensayo tipo
 Ciclo urbano elemental ensayo tipo
 CLAVE
 embrague pisado
-
 PM punto muerto
 KK embrague pisado
-
 ralentí
-
 Figura
 PM palanca cambios punto muerto embrague pisar
 marcha embrague pisado
@@ -1817,7 +1800,6 @@ Número condición
 Velocidad vehículo kmh
 velocidad directa
 Potencia absorbida freno
-
 correspondiente configuración ensayo tipo kmh
 correspondiente condición multiplicada coeficiente
 MÉTODO ENSAYO
@@ -1910,7 +1892,6 @@ Temperatura ambiente °C
 Conducción preacondicionamiento
 Tipo partes
 Tinicio to °C
-
 Estabilización
 Máx min
 Conducción ensayo tipo
@@ -1920,11 +1901,9 @@ Tipo
 Máx min
 máx min apagado motor
 Ensayo parada caliente
-
 °C horas
 Ensayo diurno
 horas diurnos
-
 Sistemas analíticos
 Analizador hidrocarburos
 seguimiento atmósfera interior cámara realizará detector hidrocarburos tipo ionización llama
@@ -2091,7 +2070,6 @@ concentración hidrocarburos medida recinto volumen ppm equivalente
 temperatura ambiente cámara
 presión barométrica kPa
 relación hidrógeno carbono
-
 valor inicial
 valor
 pérdidas ensayo diurno
@@ -2168,7 +2146,6 @@ opciones
 Enfriamiento ambiental
 Enfriamiento forzado Enfriamiento mín
 Ensayo emisiones escape baja temperatura Sección
-
 combustible ensayo deberá cumplir especificaciones figuran punto anexo
 PREACONDICIONAMIENTO VEHÍCULO
 garantizar carácter reproducible ensayos emisiones vehículos ensayo acondicionarán uniforme
@@ -2499,9 +2476,7 @@ ISO
 Agua °C
 exento
 Contenido azufre
-
 Sulfuro hidrógeno
-
 clasificación
 clase
 Olor
@@ -2596,7 +2571,6 @@ Clave PI encendido chispa CI encendido compresión
 Masa referencia
 Masa hidrocarburos metánicos
 Masa partículas
-
 Requisitos supervisión vehículos equipados motor encendido chispa
 cumplir requisitos punto sistema diagnóstico bordo deberá supervisar mínimo elementos figuran continuación
 reducción eficacia convertidor catalítico emisiones THC NOx
@@ -2859,8 +2833,6 @@ Carga vehículo
 Vehículos cargan exterior
 Vehículos cargan exterior
 Conmutador funcionamiento
-
-
 MÉTODOS ENSAYO TIPO
 Vehículos cargan exterior conmutador funcionamiento
 realizarán ensayos condiciones siguientes
@@ -3041,12 +3013,10 @@ preacondicionamiento vehículos equipados motor encendido chispa llevará cabo c
 Flexifuel
 configuración bloque cilindros línea radial opuestos horizontalmente etc inclinación orientación cilindros criterio
 identificación vehículos incluyen programa sometidos ensayo dicha identificación incluirá
-
 equipo deberá medir masa hidrocarburos corrientes entrada salida aire resolución utilizarse sistema muestreo bolsas recoger muestra proporcional aire sale recinto entra
 Máx
 Tinicio °C
 Tmin ΔT
-
 máx
 combustible diseñado motor gasolina gasóleo gas natural biometano GLP etc vehículos bicombustible agruparse combustible específico combustibles común
 factor corrección humedad utilizado calcular emisiones másicas óxidos nitrógeno corrección humedad HC CO
@@ -3827,7 +3797,6 @@ Procede establecer determinados principios control generales cubran derecho Comi
 preciso miembros garanticen organismos pagadores contemplados artículo Reglamento CE Consejo junio financiación política agrícola común disponen suficiente información controles llevados cabo servicios organismos permita cumplir funciones conformidad presente Reglamento
 medidas previstas presente Reglamento ajustan dictamen Comité desarrollo rural
 ADOPTADO PRESENTE REGLAMENTO
-
 Ámbito aplicación disposiciones generales
 Artículo
 Ámbito aplicación
@@ -4384,9 +4353,7 @@ Textos aprobados PTA véase página presente Diario Oficial
 Corrección errores Decisión UE Consejo diciembre relativa concesión ayuda pública autoridades República Hungría compra tierras agrícolas enero diciembre
 Diario Oficial Unión Europea diciembre
 página considerando guion frase
-
 subsidio asignarse persona privada fecha compra ejerza actividad agrícola propietario hectáreas plantaciones hectárea tierras agrícolas
-
 subsidio asignarse particular fecha compra ejerza actividad agrícola propietario hectáreas plantaciones hectárea tierras agrícolas
 Decisión Consejo
 mayo
@@ -4504,7 +4471,6 @@ Filtro observación
 CONTEXTO DEMOGRÁFICO
 TRIMESTRAL
 Número orden hogar entrevistas hogar
-
 Número orden dígitos asignado miembro hogar
 ANUAL
 Relación persona referencia hogar
@@ -4513,7 +4479,6 @@ Cónyuge pareja cohabitante persona referencia
 Hijo persona referencia cónyuge pareja cohabitante
 Ascendiente persona referencia cónyuge pareja cohabitante
 parientes
-
 aplicable HHTYPE≠
 Número orden cónyuge pareja cohabitante
 Número orden cónyuge pareja cohabitante hogar
@@ -4582,7 +4547,6 @@ WSTATOR NOWKREAS≠ NOWKREAS≠ STAPRO WSTATOR
 Ausente período meses
 Ausente meses percibe sueldo prestaciones sociales correspondientes mitad salario
 Ausente meses percibe sueldo prestaciones sociales correspondientes mitad salario
-
 aplicable WSTATOR≠ NOWKREAS NOWKREAS STAPRO≠ WSTATOR≠
 Actividad económica unidad local
 NACE rev nivel dígitos

@@ -1181,7 +1181,6 @@ sujeto pasivo solicitado abandonar régimen voluntad
 sujeto pasivo solicitado identifique miembro identificación
 ANEXO III
 Declaraciones IVA
-
 Régimen Unión
 Número identificación único
 Número individual identificación IVA atribuido miembro identificación conformidad artículo Directiva CE
@@ -1191,7 +1190,6 @@ Período IVA
 Fechas inicio período
 Fechas inicio período
 Moneda
-
 miembro consumo deba IVA
 Servicios prestados centro actividad establecimiento fijo situado miembro identificación
 Código país miembro consumo
@@ -2139,7 +2137,6 @@ Brosmio
 Zona Aguas UE aguas internacionales zonas VI VII
 aplicable artículo presente Reglamento
 Irlanda
-
 rúbrica correspondiente arenque zona IIIa sustituye
 Arenque Clupea harengus
 Zona IIIa
@@ -2414,7 +2411,6 @@ capturas efectuadas cargo cuota deberán deducirse cupo Noruega TAC cuota acceso
 cuota capturarse aguas UE situadas norte paralelo
 zona Groenlandia denominada Kleine Banke cerrada pesquerías
 zona delimitada coordenadas siguientes
-
 capturar oeste Groenlandia
 Groenlandia pesca permitida arrastreros julio diciembre palangreros abril diciembre
 pesca realizará presencia observadores sistemas localización buques SLB
@@ -2606,7 +2602,6 @@ Lomos atún
 agosto julio
 placas láminas hojas tiras plástico celular refuerzo estratificación soporte combinación similar materias
 Juegos cables bujías encendido juegos cables tipos utilizados medios transporte
-
 conductores eléctricos tensión inferior provistos piezas conexión
 conductores eléctricos tensión inferior provistos piezas conexión
 período posterior

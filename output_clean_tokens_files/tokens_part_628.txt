@@ -104,12 +104,6 @@ Comunicación referencia artículo apartado presente Reglamento
 Cuadro
 Solicitudes admisibles prima arranque
 Criterios contemplados artículo apartado Reglamento CE
-
-
-
-
-
-
 Superficie
 prima
 Presupuesto UE EUR
@@ -162,7 +156,6 @@ Potencial productivo
 Cuadro
 Inventario principales variedades uva vinificación
 Variedad
-
 comunicación marzo datos refieren período comprendido comunicaciones posteriores campaña vitícola comunicación
 comunicación marzo datos refieren período comprendido comunicaciones posteriores campaña vitícola comunicación
 comunicación marzo encabezamientos columnas leerse vinos calidad prd vinos mesa indicación geográfica subtotal vinos calidad prd vinos mesa indicación geográfica vinos mesa indicación geográfica
@@ -184,12 +177,6 @@ Prima EUR
 Solicitudes aprobadas
 Solicitudes aprobadas
 Solicitudes aprobadas
-
-
-
-
-
-
 ANEXO XVI
 Instrucciones recogida uva fresca tratamiento transformación vino destinado analizado métodos isotópicos referencia artículo apartado
 RECOGIDA UVA
@@ -230,7 +217,6 @@ muestras Reino Unido
 ANEXO XVIII
 Cuestionario relativo toma vinificación muestras uva analizadas métodos isotópicos referencia artículo apartado
 métodos analíticos expresión resultados unidades utilizarse descritos artículo Reglamento CE considerados equivalentes laboratorios participantes análisis
-
 Información general
 Número muestra
 Nombre función agente persona autorizada tomado muestra
@@ -953,7 +939,6 @@ Artículo
 punto anexo IV anexo XI apéndices Directiva CE sustituyen texto
 Sistemas antiproyección
 Directiva CEE
-
 Artículo
 efecto abril miembros denegarán motivos relacionados sistemas antiproyección homologación tipo CE nacional vehículo componente cumplan requisitos establecidos Directiva CEE modificada presente Directiva
 efecto abril miembros denegarán motivos relacionados sistemas antiproyección homologación tipo CE nacional vehículo componente cumplan requisitos establecidos Directiva CEE modificada presente Directiva
@@ -3173,7 +3158,6 @@ Apellidos nombre razón social dirección completa
 suscribe reconoce correspondencia notificaciones general formalidades trámites relativos presente compromiso dirigidos evacuados escrito domicilios señalados aceptarán debidamente comunicados
 suscribe reconoce competencia órganos jurisdiccionales correspondientes lugares señalado domicilio
 suscribe compromete mantener domicilios señalados tuviere cambiar domicilios señalados comunicarlo previamente aduana garantía
-
 FirmaII
 Aceptación aduana garantía
 Aduana garantía
@@ -4844,8 +4828,6 @@ Reglamento modificado lugar Reglamento CE Euratom DO
 Corrección errores Reglamento UE Comisión enero establecen disposiciones aplicación Reglamento CE Consejo respecta aplicación procedimientos control condicionalidad relación medidas ayuda desarrollo rural
 Diario Oficial Unión Europea enero
 página artículo apartado letra
-
-
 página artículo apartado letra
 superficie parcelas solicita ayuda fijada conformidad dispuesto artículo artículo apartados presente Reglamento
 superficie parcelas solicita ayuda fijada conformidad dispuesto artículo artículo apartados presente Reglamento
@@ -4897,7 +4879,6 @@ Cantidades indemnizables totales
 Cantidades indemnizables
 guión apartado artículo
 Cantidades indemnizables
-
 Decisión Comité Mixto EEE
 abril
 modifica anexo Cuestiones veterinarias fitosanitarias EEE

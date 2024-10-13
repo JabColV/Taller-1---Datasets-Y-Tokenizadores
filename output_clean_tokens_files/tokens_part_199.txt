@@ -7,7 +7,6 @@ potencia absorba equipo accionado motor procede
 reglaje dinamómetro fase ensayo ralentí calculará fórmulas siguientes
 ensayo efectúa condiciones netas
 ensayo efectúa condiciones netas
-
 reglaje dinamómetro kW
 Pn potencia neta motor indicada anexo apéndice punto kW
 porcentaje carga indica punto
@@ -136,13 +135,10 @@ presión vapor saturación aire dilución admisión kPa
 presión barométrica kPa
 Corrección Nox función humedad temperatura
 emisión NOx depende condiciones aire ambiente concentración NOx deberá corregirse función humedad temperatura aire ambiente factores fórmulas siguientes
-
 temperatura aire
 humedad aire admisión agua kg aire seco
 humedad relativa aire admisión
-
 presión vapor saturación aire admisión kPa
-
 Cálculo caudales másicos emisiones
 caudales másicos emisiones fase calcularán suponiendo gas escape densidad kg °C kPa
 NOx conc COconc HCconc concentraciones medias ppm gas escape bruto indica punto
@@ -201,7 +197,6 @@ resultados ensayo emisión partículas notificarse determinarán siguiendo etapa
 GEDFW GTOTW
 Cálculo caudal másico partículas
 caudal másico partículas calculará
-
 determinado ciclo ensayo suma valores medios fases individuales periodo muestreo
 efectuarse corrección fondo caudal másico partículas
 efectúa medición Md MDIL sustituirá valor Md MDIL
@@ -225,7 +220,6 @@ tiempo respuesta define tiempo transcurrido respuesta Bessel alcanza alcanza fun
 obtiene iterando fc tf
 iteración fc obtiene fórmula
 constantes Bessel calcularán ecuaciones siguientes
-
 Δt frecuencia muestreo
 Cálculo algoritmo Bessel
 Utilizando valores respuesta promediada Bessel entrada escalonada calculará
@@ -237,7 +231,6 @@ frecuencia muestreo valores medición humo mínimo Hz
 Determinación humo
 Conversión datos
 unidad medición básica opacímetros transmitancia valores humo convertirán coeficiente transmitancia coeficiente absorción luz
-
 coeficiente absorción luz m–
 longitud efectiva camino óptico especificada fabricante instrumento
 opacidad
@@ -432,7 +425,6 @@ masa instantánea gas escape diluido base húmeda kg
 número revoluciones bomba intervalo tiempo
 sistema CFVCVS
 Δti KV pA
-
 intervalo tiempo
 masa partículas MSAM contaminantes gaseosos muestra supera caudal CVS MTOTW caudal CVS corregirá función MSAM caudal muestreo partículas deberá volver CVS pasar caudalímetro PDP CFV
 Corrección NOx función humedad
@@ -1086,7 +1078,6 @@ controlar caudal derivación muestra
 FL
 Caudalímetros opcional
 controlar caudal circula analizadores
-
 Válvula selectora
 Sistema válvulas adecuado dirigir flujo gas muestra gas patrón gas cero analizadores
 Válvulas solenoides
@@ -1634,7 +1625,6 @@ NFM
 Contenido azufre
 ppm masa
 Sulfuro hidrógeno
-
 Corrosión lámina cobre
 Clasificación
 Clase
@@ -1658,8 +1648,6 @@ Cálculo concentraciones base húmeda
 CO ppm
 NOx ppm
 Cálculo factor corrección humedad NOx KH anexo apéndice punto
-
-
 Cálculo caudales másicos emisión anexo apéndice punto
 NOx
 Cálculo emisiones específicas anexo apéndice punto
@@ -1741,7 +1729,6 @@ frecuencia muestreo Hz
 Etapa Tiempo respuesta requerido filtro Bessel tf
 Etapa Estimación frecuencia corte cálculo constantes Bessel iteración
 Δt
-
 obtiene algoritmo Bessel
 representa valores señal entrada escalonada Yi representa valores filtrados señal salida
 Etapa Aplicación filtro Bessel entrada escalonada
@@ -1753,8 +1740,6 @@ cálculo tf iter valores exactos determinan interpolación lineal puntos medici�
 tlower Δt outloweroutupper outlower
 tlower Δt outloweroutupper outlower
 outupper outlower puntos adyacentes señal salida filtrada filtro Bessel tlower punto tiempo adyacente indicado cuadro
-
-
 Etapa Tiempo respuesta filtro ciclo iteración
 tf iter
 Etapa Desviación tiempo respuesta filtro requerido obtenido ciclo iteración
@@ -1920,7 +1905,6 @@ portafiltros primario FH situado distancia máxima mm salida SDT
 ENISO DIS
 Máx
 min–
-
 Characteristics of Opacimeter tp tes
 Regulation tAvers
 fc fcnew
@@ -1990,18 +1974,7 @@ conector añadirá oxígeno aire cero continua flujo gas concentración indicada
 medida NOx indicada analizador deberá diferir valor medido punto analizador
 Control interferencia analizador CO
 CO CO
-
-
-
-
 FL FL FL
-
-
-
-
-
-
-
 sistema muestreo partículas
 partículas
 partículas
@@ -3989,14 +3962,12 @@ informes pruebas
 fabricante representante conservarán documentación técnica copia declaración conformidad
 fabricante tomará medidas necesarias proceso fabricación garantice conformidad productos manufacturados documentación técnica mencionada apartado requisitos pertinentes presente Directiva
 ANEXO
-
 Directiva derogada modificación sucesiva
 Directiva CEE Consejo
 Directiva CEE Consejo
 Únicamente punto artículo artículo
 DO
 DO
-
 Plazos transposición Derecho nacional aplicación
 contemplados artículo
 Directiva
@@ -4252,9 +4223,7 @@ procede
 Expresado plata Ag
 mayo
 abril
-
 autorizarán usos invernadero cultivos comestibles
-
 efectos aplicación principios uniformes referencia artículo apartado Reglamento CE conclusiones informe revisión tiosulfato plata sodio particular apéndices II finalizado Comité Permanente Cadena Alimentaria Sanidad Animal octubre
 evaluación general miembros prestarán atención particular
 protección operarios trabajadores
@@ -4876,8 +4845,6 @@ utilizar masas normalizadas deberán utilizarse siguientes valores masa
 pasajeros valores tablas incluye equipaje mano masa bebé llevado adulto único asiento pasajeros
 Masas normalizadas pasajeros Aeronaves número asientos pasajeros
 Asientos pasajeros
-
-
 Hombres
 Mujeres
 adultos
@@ -4893,7 +4860,6 @@ Tipo vuelo
 Masa normalizada equipaje
 Vuelos nacionales
 región europea
-
 caso helicópteros número asientos pasajeros disponibles helicóptero aplica valor normalizado masa equipaje facturado kg
 aeronaves asientos pasajeros deberá determinar masa real equipaje facturado
 pesaje

@@ -1074,7 +1074,6 @@ DO
 ANEXO
 ANEXO QUINQUIES
 contemplado artículo apartado letra
-
 PROCEDIMIENTO EMERGENCIA
 CAPÍTULO
 Disposiciones generales
@@ -1280,7 +1279,6 @@ COMPREHENSIVE GUARANTEE PROHIBITED
 GARANTÍA GLOBAL PROHIBIDA
 FR UTILISATION NON LIMITEE
 UTILIZACIÓN LIMITADA
-
 granel
 Consignor
 Expedidor
@@ -2919,7 +2917,6 @@ Período abarcado
 Principales agregados trimestral
 trimestre
 Principales agregados anual
-
 Principales agregados administraciones públicas anual
 Tablas ramas actividad anual
 Gasto consumo hogares finalidad anual
@@ -2927,25 +2924,20 @@ Cuentas financieras sectores operaciones anual
 Balances activos pasivos financieros anual
 Cuentas financieras sectores anual
 Cuentas financieras sectores trimestral
-
 Ingresos impuestos cotizaciones sociales detallados tipo impuesto cotización social subsector receptor incluida lista impuestos cotizaciones sociales clasificación nacional anual
 Tablas ramas actividad regiones NUTS nivel anual
-
 Gasto administraciones públicas funciones anual
 Tablas ramas actividad regiones NUTS nivel anual
 Cuentas hogares regiones NUTS nivel anual
 Tabla origen precios básicos incluida transformación precios adquisición anual
-
 Tabla destino precios adquisición anual
 Tabla inputoutput simétrica precios básicos quinquenal
 Clasificación cruzada activos fijos ramas actividad activos anual
 Clasificación cruzada formación bruta capital fijo ramas actividad activos anual
 Balances activos financieros anual
 Cuentas financieras administraciones públicas trimestral
-
 Deuda pública deuda Maastricht administraciones públicas trimestral
 Derechos pensiones devengados
-
 Tabla
 Principales agregados ejercicios trimestral anual
 ANF Desglose activos fijos AN ViviendasAN edificios construccionesANAN Maquinaria bienes equipo Sistemas armamentoAN Material transporteAN Bienes equipo TIC ANAN maquinaria bienes equipo Sistemas armamento AN Recursos biológicos cultivados
@@ -3263,7 +3255,6 @@ transferencias corrientes
 Primas netas seguro vida
 Indemnizaciones seguro vida
 Cooperación internacional corriente
-
 pagar cobrar instituciones europeas ejemplo FED
 Transferencias corrientes diversas
 Recursos UE basados IVA RNB
@@ -3548,7 +3539,6 @@ Stock bruto capital fijo
 Horas trabajadas miles
 Tabla
 Tabla inputoutput simétrica precios básicos producto producto
-
 Consumo intermedio precios básicos producto producto
 variaciones existencias
 variaciones objetos valiosos
@@ -3694,7 +3684,6 @@ Clasificados administraciones públicas
 Número columna
 Balance apertura
 Derechos pensiones
-
 Incremento derechos pensiones cotizaciones sociales
 Cotizaciones sociales efectivas cargo empleadores
 Cotizaciones sociales imputadas cargo empleadores
@@ -3848,19 +3837,14 @@ transmisión meses carácter obligatorio transmisión meses carácter voluntario
 carácter voluntario años referencia anteriores
 años referencia ulteriores carácter obligatorio
 SEC
-
-
 Sector subsectores Administraciones públicas desglose subsectores Administraciones públicasS Administración centralS Administración regionalS Administración localS Fondos seguridad socialS Instituciones órganos Unión Europea
 PP
-
 PP
 AF AF AF
 Empleos
 Ajuste
 Artículos
-
 Exportaciones fob intra UE
-
 Empleos finales precios básicos Gasto consumo
 Exportaciones intra UE
 SS

@@ -3609,7 +3609,6 @@ unidad disco duro capacidad múltiples mapas
 radio HD
 sistema reconocimiento vocal
 unidad CD DVD
-
 posibilidad conexión dispositivos Bluetooth MPy Universal Serial Bus USB
 tensión mínima tensión máxima
 utilización fabricación vehículos capítulo
@@ -4808,7 +4807,6 @@ Destino materia prima
 Tipo denominación dirección número aprobación registro autorización especial establecimiento producción destino
 Nombre dirección consignatario IV
 transporte
-
 Firma operador establecimiento origen representantes
 corresponden establecimiento origen
 corresponden establecimiento destino

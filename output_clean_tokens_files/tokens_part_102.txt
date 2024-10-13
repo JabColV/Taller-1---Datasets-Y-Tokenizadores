@@ -360,13 +360,11 @@ Grado serie datos refleja población real interés términos geográficos inclui
 Observaciones ubicación lugar región país mercado continente etc
 Dictamen cualitativo expertos desviación típica relativa utiliza simulación Monte Carlo
 Observaciones evaluación incertidumbre refiere únicamente datos perfil recursos emisiones incluye evaluación impacto
-
 Cumple criterio grado elevado necesidad mejora
 Integridad
 Plena conformidad requisitos Guía HAP
 Específica contexto
 Incertidumbre baja
-
 Cumple criterio grado elevado necesidad significativa mejora
 Integridad
 Enfoque basado proceso atributivo
@@ -466,7 +464,6 @@ Componente
 Nivel calidad alcanzado
 Puntuación calidad correspondiente
 Representatividad tecnológica TeR
-
 Representatividad geográfica GR
 Representatividad temporal TiR
 razonable
@@ -846,7 +843,6 @@ Años experiencia sector privado
 años
 veinte años
 Años experiencia sector público
-
 Puntuación opcional relación auditoría
 puntos acreditación revisor externo sistema declaración ambiental producto ISO sistema gestión ambiental
 punto asistencia cursos auditorías ambientales horas
@@ -1159,7 +1155,6 @@ Calor residual
 kWh
 gas residual
 aguas residuales
-
 Productos
 Fuentes cantidad
 orgánico
@@ -1193,8 +1188,6 @@ Energía hidráulica MJel elemental
 Agua elemental
 Emisiones aire flujos elementales
 DBO
-
-
 Anexo IV
 Selección nomenclatura propiedades adecuadas flujos específicos
 destinatarios principales presente anexo expertos análisis revisión huella ambiental
@@ -2164,11 +2157,8 @@ intervalo notificación debería año
 modelización escenarios vida deberá aportarse asimismo información tiempo comportamiento productos
 datos cuantitativos entradas salidas recogidos apoyo análisis llevará cabo fase posterior estudio HAO calcularán relación cartera especificada productos
 Ejemplo Cartera productos
-
 Camisetas media tallas poliéster pantalones media tallas poliéster
-
 camisetas pantalones
-
 prendas llevan semana lavan lavadora grados semana energía utilizada lavadora equivale MJ kg ropa agua gastada supone litros kg ropa ciclo lavado
 camiseta pesa kg par pantalones kg
 supone consumo energía MJ semana consumo agua litros semana
@@ -2556,9 +2546,6 @@ TiR Representatividad temporal
 Integridad
 Incertidumbre parámetros
 Idoneidad coherencia metodológicas
-
-
-
 Proceso tintura
 cumplimiento requisitos metodológicos siguientes Guía HAO
 modelización fase vida
@@ -2845,7 +2832,6 @@ Años experiencia sector público privado
 años
 veinte años
 Años experiencia sector público privado
-
 punto presidencia panel revisión estudios ACV aplicaciones ambientales
 Deberá realizarse revisión crítica estudio HAO función exigencias aplicación prevista
 indicación contrario puntuación mínima necesaria designado revisor miembro equipo revisores puntos incluirán mínimo punto criterios obligatorios práctica verificación auditoría metodología práctica ACV conocimiento tecnologías actividades pertinentes estudio HAO
@@ -3487,7 +3473,6 @@ DQO Mn
 presente anexo basa nomenclatura convenciones Manual sistema internacional datos referencia ciclo vida ILCD International Reference Life Cycle Data System ILCD Handbook Nomenclature and other conventions Comunidades Europeas JRC–IES
 información documentación referencia nomenclatura convenciones denominaciones consúltese citado documento httplctjrceceuropaeu
 Naming convention of flows and processes convención denominación flujos procesos
-
 emisiones específicas recursos consumidos unidad análisis resultantes adquisición tratamiento previo material virgen supuestamente sustituido materiales reciclables
 dispone información pertinente suponerse E’V EV hubiera reciclado ciclo cerrado
 emisiones específicas recursos consumidos unidad análisis resultantes proceso reciclado material reciclado reutilizado incluidos procesos recogida clasificación transporte
@@ -3524,7 +3509,6 @@ Inclusión aseveraciones comparativas requisitos adicionales
 Información público
 BC
 compensación carbono
-
 estudio HAP destinado comunicación externa deberá cumplir requisitos calidad datos datos específicos genéricos
 fase interpretación huella ambiental deberá incluir siguientes etapas evaluación solidez modelo HAP identificación puntos críticos estimación incertidumbre conclusiones limitaciones recomendaciones
 Herramienta opcional interpretación resultados control integridad control sensibilidad control coherencia
@@ -4564,7 +4548,6 @@ letra relativa anexo VI inserta punto palabra Bélgica palabra Francia
 letra relativa anexo VII añade letra
 Anexo VIII añadirá texto
 Suiza
-
 punto Reglamento CEE epígrafe Sección Actos referencia incluyen textos siguientes
 entrado vigor Protocolo Comunidad Europea miembros Confederación Suiza libre circulación personas relativo participación Partes Contratantes República Checa República Estonia República Chipre República Letonia República Lituania República Hungría República Malta República Polonia República Eslovenia República Eslovaca consecuencia adhesión Unión Europea referencia TN Acta relativa condiciones adhesión
 Reglamento CE Comisión octubre modifica Reglamento CEE Consejo establecen modalidades aplicación Reglamento CEE relativo aplicación regímenes Seguridad Social trabajadores ajena trabajadores miembros familias desplazan Comunidad DO
@@ -4776,7 +4759,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -4862,7 +4844,6 @@ vacunados rinotraqueítis infecciosa bovina
 Notas
 certificado corresponde ganado bovino vivo incluidas especies géneros Bubalus Bison cruces destinado cría producción
 importación animales deberán enviarse demora explotación destino permanecerán mínimo treinta trasladados explotación caso envío matadero
-
 Casilla indicar código territorio figura anexo Reglamento UE
 Casilla caso animales hayan permanecido centro concentración animales deberá cumplir condiciones establecidas autorización figuran anexo Reglamento UE
 Casilla indicar matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre buques transporte
@@ -4898,7 +4879,6 @@ protocolo relativo brucelosis Brucella abortus sustituye
 Brucelosis Brucella abortus
 pruebas seroaglutinación fijación complemento antígeno brucelar tamponado ensayos inmunoabsorción enzimática ELISA fluorescencia polarizada deberán efectuarse conformidad disposiciones anexo Directiva CEE
 anexo II sustituye texto
-
 Lista terceros países territorios partes terceros países territorios Notas pie página
 Requisitos conformes Comunidad Europea Confederación Suiza comercio productos agrícolas DO
 establece certificado prohíben importaciones carne fresca especies indicadas línea correspondiente país
@@ -4934,7 +4914,6 @@ Espíritu Santo
 Goiás
 Mato Grosso
 Rio do Sul Mato Grosso do Sul zona designada alta vigilancia km fronteras exteriores municipios Porto Murtinho Caracol Bela Vista Antônio João Ponta Porã Aral Moreira Coronel Sapucaia Paranhos Sete Quedas Japorã Mundo Novo zona designada alta vigilancia municipios Corumbá Ladário
-
 diciembre
 Santa Catarina
 enero
@@ -4965,7 +4944,6 @@ MK Antigua República Yugoslava Macedonia
 MU Mauricio
 MX México
 sur cordón sanitario extiende Palgrave Point oeste Gam
-
 NC Caledonia
 NZ Zelanda
 PA Panamá

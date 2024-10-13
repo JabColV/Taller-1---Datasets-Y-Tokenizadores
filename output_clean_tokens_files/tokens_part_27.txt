@@ -193,7 +193,6 @@ artículo párrafos fechas agosto agosto sustituyen agosto agosto
 tabla artículo sustituye
 Vegetales
 Período
-
 Artículo
 presente Decisión aplicable noviembre
 Artículo
@@ -763,7 +762,6 @@ Prednisolona
 Prednisolona
 Bovinos
 Músculo
-
 Corticoides Glucocorticoides
 Grasa
 Hígado
@@ -1083,12 +1081,9 @@ Residuos plaguicidas
 Contenidos máximos mg kg
 Cipermetrina incluidas mezclas constituyentes suma isómeros
 trigo cebada avena centeno tritical
-
 Famoxadona
 avena
-
 trigo cebada centeno tritical
-
 Mepanipirima metabolito anilinohidroxipropilmetilpiramidina expresado mepanipirima
 cereales
 maíz sorgo
@@ -1106,7 +1101,6 @@ riñones vacuno
 hígado vacuno
 riñones porcino
 riñones aves corral
-
 Indica umbral determinación analítica
 Indica contenido máximo residuos establecido provisionalmente conformidad artículo apartado letra Directiva CEE
 ANEXO III
@@ -1126,7 +1120,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -2140,7 +2133,6 @@ duración proceso elaboración vinos espumosos calidad denominación origen prot
 meses fermentación destinada hacerlos espumosos efectúe recipiente cerrado
 meses fermentación destinada hacerlos espumosos efectúe botella
 duración fermentación destinada espumoso vino base duración presencia vino base lías inferiores
-
 fermentación realiza recipientes provistos dispositivos agitación
 normas previstas letra puntos letra punto aplican vinos espumosos vinos espumosos calidad denominación origen protegida
 refiere vinos espumosos calidad denominación origen protegida tipo aromático
@@ -2260,7 +2252,6 @@ Expresión resultados
 cationes totales expresan miliequivalentes kilogramo azúcares totales decimal
 Cálculos
 Acidez efluente expresada miliequivalentes kilogramo mosto concentrado rectificado
-
 Acidez mosto concentrado rectificado miliequivalentes kilogramo
 Cationes totales miliequivalentes kilogramo azúcares totales
 aP
@@ -2563,7 +2554,6 @@ Añadir ml reactivo tioacetamida punto mezclar inmediatamente
 recién preparada volumen solución corresponde volumen solución dicromato potásico oxidando lentamente
 MCR mosto concentrado rectificado pesado exactamente matraz ml añadir ml solución patrón xilitol punto enrasar agua
 homogeneizar muestra tomar µl solución introducir vial punto secar ligera corriente aire añadido eventualmente µl etanol absoluto facilitar evaporación
-
 Disolver mg ácido barbitúrico CONH agua destilada calentando ligeramente baño agua °C enrasar ml agua destilada
 Piridina CHN
 Ajustar cero escala absorbancia contenido frasco longitud onda nm determinar variación absorbancia contenido frasco tomar valor máximo alcanza minutos
@@ -2887,7 +2877,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -2901,7 +2890,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -2915,7 +2903,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -3002,7 +2989,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -3016,7 +3002,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -3030,7 +3015,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri

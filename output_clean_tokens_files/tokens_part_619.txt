@@ -830,9 +830,6 @@ Decisión CE Consejo octubre establece conformidad Directiva CE Parlamento Europ
 anexo punto sección sustituye texto
 Distribución geográfica organismo
 Autóctono país notifica establecido
-
-
-
 Autóctono países Comunidad establecido
 caso afirmativo indíquese tipo ecosistema
 Atlántico
@@ -3384,10 +3381,8 @@ códigos error correspondientes horas funcionamiento motor IMF activado borrará
 anexo queda modificado
 punto sustituye texto
 Ejemplo aplicación requisitos establecidos presente Directiva Directiva CE homologación momento extensión correspondiente fecha solicitud etapa DAB expedida Reino Unido
-
 punto sustituye texto
 Ejemplo aplicación requisitos establecidos Directiva CE Directiva modificatoria CE extensión cuarta homologación correspondiente fecha solicitud etapa DAB expedida Alemania
-
 añade punto
 Cuadro caracteres utilizarse fechas aplicación establecidas Directiva CE
 Carácter
@@ -3506,7 +3501,6 @@ Identificación instrumento correspondiente valor constituye activo subyacente c
 Tipo derivado caso contrato derivados
 descripción armonizada tipo derivado realizarse arreglo categorías nivel superior previstas norma uniforme internacionalmente aceptada clasificación instrumentos financieros
 Inclusión instrumento registro AEVM contratos sujetos obligación compensación caso contrato derivados
-
 datos deberán facilitarse medida pertinentes
 Identificación ECC interoperable compensa componente operación
 Cuadro

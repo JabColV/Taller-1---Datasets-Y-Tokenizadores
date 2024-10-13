@@ -633,7 +633,6 @@ Bovinos machos jóvenes destinados engorde peso inferior kg
 Asignado países suministradores
 Rumanía
 Antigua República Yugoslava Macedonia
-
 Carne vacuno calidad superior fresca refrigerada congelada ajuste definición Canales cualesquiera cortes procedentes vacunos treinta meses criados cien alimentación equilibrada concentración energética contenga granos peso mínimo libras
 carne marcada choice prime normas United States Department of Agriculture USDA entrará automáticamente definición
 carne clasificada Canada Canada AA Canada AAA Canada Choice Canada Prime normas Agence Canadienne dinspection des aliments Gobierno Canadá corresponderá definición
@@ -686,9 +685,7 @@ Bosnia Hercegovina
 Croacia
 Antigua República Yugoslava Macedonia
 Groenlandia
-
 Músculos delgados enteros congelados
-
 Aves corral
 Canales pollo frescas refrigeradas congeladas
 Trozos pollo frescos refrigerados congelados
@@ -696,17 +693,14 @@ Trozos gallo gallina congelados deshuesados
 Trozos gallo gallina congelados
 Brasil
 Tailandia
-
 Trozos gallo gallina congelados especies domésticas
 Brasil
 Carne pavo fresca refrigerada congelada
 Trozos pavo congelados
 Brasil
-
 Carne salada aves corral
 Brasil
 Tailandia
-
 Atunes género Thunnus pescados género Euthynnus
 pescados deberán destinarse industria conservera
 respete precio referencia
@@ -748,7 +742,6 @@ huevos aves corral
 equivalente
 Huevos aves cascarón
 Patatas enero mayo
-
 Pepinos noviembre mayo
 Derecho ad valorem reducido
 Véase número orden
@@ -781,7 +774,6 @@ Trigo calidad
 Trigo blando calidades calidad alta
 Unidos América
 Canadá
-
 Cebada cerveza
 Maíz
 maíces
@@ -797,11 +789,9 @@ Arroz partido destinado fabricación productos industrias alimentarias clasifica
 granos avena trabajados
 Carne pavo preparada
 Brasil
-
 Carne cocida pollo
 Brasil
 Tailandia
-
 Conservas carne especie porcina doméstica
 Preparaciones conservas pescado entero trozos sardina bonito caballa especies Scomber scombrus Scomber japonicus pescados especie Orcynopsis unicolor
 Preparaciones conservas pescado entero trozos atún listado pescados género Euthynnus
@@ -811,7 +801,6 @@ Azúcar caña bruto destine refinado
 tipo aplicará azúcar bruto tasa rendimiento icus pescados especie Orcynopsis unicolor
 Véase nota complementaria capítulo
 Brasil
-
 Azúcar caña remolacha
 equivalente
 países ACP
@@ -830,7 +819,6 @@ Jugo uva incluido mosto ado adición azúcar conteniendo jugo naranja sanguina v
 productos importados utilizarse producción jugo uva productos distintos sector vitivinícola tales vinagre bebidas alcohólicas mermeladas salsas
 valor Brix inferior
 valor inferior kg peso neto
-
 valor Brix superior
 valor superior kg peso neto
 valor Brix superior inferior
@@ -1519,10 +1507,6 @@ Pertenecerán subpartida aceites obtenidos tratamiento aceites subpartida adici�
 LanguedocRoussillon LanguedocRosellón
 Kϋlkereskedelemstatisztikai Főosztály
 Statistika centralbyrån
-
-
-
-
 Nacetilglicinato DCIQS
 alidexímero DCIRG
 polioxihidroxietanodiiloxihidroximetiletanodiil Oeterificado grupos carboximetil formen uniones carboxamida cadena tetrapeptídica glicilglicilLfenilalanilglicil DCIQS
@@ -1583,9 +1567,7 @@ Secretariat do Comércio Externo
 Corrección errores Reglamento CE Parlamento Europeo Consejo diciembre relativo financiación plurianual actuación Agencia Europea Seguridad Marítima ámbito lucha contaminación buques modifica Reglamento CE
 Diario Oficial Unión Europea diciembre
 página sumario título página
-
 Reglamento CE
-
 Reglamento CE
 Corrección errores Decisión CE Consejo Asociación CEBulgaria noviembre modifica protocolo relativo definición noción productos originarios métodos cooperación administrativa
 Diario Oficial Unión Europea diciembre
@@ -2214,7 +2196,6 @@ Fabricación valor materias partida utilizadas exceda precio franco fábrica pro
 Jugos extractos vegetales materias pécticas pectinatos pectatos agaragar mucílagos espesativos derivados vegetales modificados
 Mucílagos espesativos derivados vegetales modificados
 Fabricación mucílagos espesativos modificados
-
 Fabricación valor materias utilizadas exceda precio franco fábrica producto
 Capítulo
 Materias trenzables productos origen vegetal expresados comprendidos
@@ -2528,7 +2509,6 @@ Fabricación valor materias partida producto utilizadas exceda precio franco fá
 Semimanufacturas manufacturas plástico pertenecientes partidas ex ex ex ex cuyas normas indican
 Productos planos trabajados distinto superficie cortados forma distinta cuadrada rectangular productos trabajados distinto superficie
 Fabricación valor materias capítulo utilizadas exceda precio franco fábrica producto
-
 ex ex
 Perfiles tubos
 límite indicado valor materias partida producto utilizadas exceda precio franco fábrica producto
@@ -3125,7 +3105,6 @@ VISADO ADUANA
 Declaración certificada conforme
 Documento exportación
 Modelo
-
 Aduana
 Lugar fecha
 Firma
@@ -3382,7 +3361,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -4432,7 +4410,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Blød hvede fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -4912,12 +4889,10 @@ Fórmula química CrCHNO
 Fórmula estructural
 Características químicas picolinato cromo
 Picolinato cromo
-
 Cromo III
 Cromo VI
 detectado
 Agua
-
 Decisión Comisión
 junio
 modifica Decisión CE relativo remuneraciones abonadas miembros Comités científicos expertos ámbito seguridad consumidores salud pública ambiente

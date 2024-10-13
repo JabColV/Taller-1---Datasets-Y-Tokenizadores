@@ -1942,7 +1942,6 @@ Certificación sanitaria
 Declaración bienestar animal
 productos proceden animales cuya cría cuyo sacrificio matanza realizaron condiciones equivalentes establecidas Directiva CEE Consejo
 expedidos comprobados funcionario expedidos salida envío
-
 Firma sello veterinario oficial
 caso productos aire mar
 exigirá declaración trate productos procedentes animales estén cubiertos Directiva CE
@@ -2024,7 +2023,6 @@ carne fresca sometido pruebas microbiológicas detección salmonela establece Re
 Carne fresca aves corral
 Huevos mesa consumo humano
 Reglamento CE Comisión
-
 productos origen animal indicados presente documento cumplen normas requisitos aplicables Zelanda materia sanidad animal salud pública reconocidos equivalentes normas requisitos Comunidad Europea establecidos Decisión CE Consejo específicamente Animal Products Act
 Crassostrea gigas
 funcionario abajo firmante certifica presente envío conforme documentos subvenciona bilidad DS
@@ -2421,7 +2419,6 @@ Efecto ocultación
 efecto ocultación entiende cuerdas sectores semicírculo visión verse causa elementos construcción ejemplo montantes techo tubos aspiración aire escape bastidor parabrisas
 Sector visión
 sector visión entiende campo visión delimitada
-
 plano horizontal pasa punto referencia
 plano carretera
 zona situada exterior semicírculo visión prolonga sector semicírculo visión cuya cuerda longitud perpendicular plano paralelo plano longitudinal tractor pasa centro asiento conductor queda dividido plano
@@ -2447,7 +2444,6 @@ Determinación matemática efectos ocultación visión binocular
 comprobación mencionada punto comprobar matemáticamente aceptabilidad efectos ocultación
 puntos regularán importancia distribución número efectos ocultación
 visión binocular distancia ocular mm efecto ocultación expresado milímetros viene fórmula
-
 distancia milímetros elemento oculta visión punto referencia medida radio visual une punto referencia centro elemento perímetro semicírculo visión
 anchura milímetros elemento oculta visión medida horizontal perpendicularmente radio visual
 procedimientos control previstos punto sustituidos demuestren valor idéntico
@@ -2461,7 +2457,6 @@ Figura
 Figura
 Figura
 ANEXO II
-
 Directiva derogada modificaciones sucesivas contempladas artículo
 Directiva CEE Consejo
 DO
@@ -2473,7 +2468,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 Únicamente relativo referencias hechas artículo apartado Directiva CEE
-
 Plazos transposición Derecho nacional aplicación contemplados artículo
 Directiva
 Plazo transposición
@@ -3400,9 +3394,7 @@ información métodos analíticos consúltese dirección laboratorio comunitario
 Diformato potasio
 Addendum Reglamento CE Consejo establecen posibilidades pesca condiciones correspondientes determinadas poblaciones grupos poblaciones peces aplicables aguas comunitarias caso buques comunitarios aguas necesario establecer limitaciones capturas
 artículo apartado
-
 Reglamentos CEE CEE CE CE CE CE
-
 Reglamentos CEE CEE CE CE CE CE
 actual nota sustituye
 Reglamento CE Consejo diciembre relativo conservación medidas técnicas recursos pesqueros aguas Mar Báltico Belts Sund DO
@@ -4630,7 +4622,6 @@ FUNCIONAMIENTO
 alcanzados
 definen
 Tareas
-
 definen
 suministradas
 REQUISITOS
@@ -4639,7 +4630,6 @@ SISTEMAS
 Aplicaciones regionales
 suministrados
 Prestador servicios
-
 producen
 Información canales
 Información canal
@@ -4740,7 +4730,6 @@ evolución tráfico
 Información tráfico
 Gestión tráfico
 Seguridad protección ambiente eficiencia
-
 Apoyo prevención accidentes
 Cumplimiento normativa
 Información cumplimiento normativa

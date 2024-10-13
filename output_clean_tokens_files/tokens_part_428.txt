@@ -1577,7 +1577,6 @@ Almacén
 Edificio KO edificio escolar
 Edificio calderas
 NOK
-
 informe evaluaba separado valor edificios garajes
 tasados edificio edificio administrativo combinado almacenes oficinas talleres incluido contrato Haslemoen AS millones NOK
 edificios garaje gasolinera tasaron edificio edificio oficinas campamento incluyó contrato Haslemoen AS valor NOK
@@ -2801,7 +2800,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón mano Buda Citrus medica var sarcodactylis
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos tangor Citrus reticulata sinensis
-
 Frutos cáscara
 Almendras
 Nueces Brasil
@@ -4085,7 +4083,6 @@ autoridad nacional seguridad valorará resumen adjuntarse manual sistema gestió
 solicite información autoridad nacional seguridad especificar grado detalle dicha información considere razonable evaluar solicitud
 conceda autorización seguridad documentará cumplimiento criterio evaluación sistema gestión seguridad solicitante
 señale incumplimiento aspecto plantee dudas autoridad nacional seguridad expresará concretamente ayudará solicitante comprender nivel detalle espera respuesta
-
 señalará precisión criterios pertinentes asegurará solicitante comprende claramente incumplimientos detectados
 indicará pertinente reglamentaciones normas relacionadas
 indicará cumplido criterio evaluación

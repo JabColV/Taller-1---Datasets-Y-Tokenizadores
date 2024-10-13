@@ -1954,7 +1954,6 @@ instalaciones edificios obras véase
 acabado edificios obras véase
 actividades arquitectura ingeniería véase
 dirección obras construcción véase
-
 Construcción cubiertas estructuras cerramiento
 construcción tejados
 cubierta tejados
@@ -1966,8 +1965,6 @@ construcción pistas aterrizaje
 construcción equipamientos estadios piscinas gimnasios pistas tenis campos golf instalaciones deportivas excluidos edificios
 pintura señales carreteras aparcamientos
 movimiento tierras previo véase
-
-
 Obras hidráulicas clase comprende
 presas diques
 dragados
@@ -2028,7 +2025,6 @@ instalación piscinas particulares
 limpieza vapor chorro arena similares exterior edificios
 obras acabado edificios citadas
 limpieza interior edificios obras véase
-
 Alquiler equipo construcción demolición dotado operario
 alquiler equipo maquinaria construcción demolición desprovisto operario véase
 caso interpretaciones CPV NACE aplicará nomenclatura CPV
@@ -2087,17 +2083,14 @@ Servicios seguridad social afiliación obligatoria
 Servicios prestaciones
 servicios comunitarios sociales personales incluidos prestados sindicatos organizaciones políticas asociaciones juveniles servicios organización afiliaciones
 Servicios religiosos
-
 Servicios suministro comidas particulares
 Servicios entrega comidas domicilio Servicios entrega comidas
 Servicios suministro comidas exterior Servicios suministro comidas empresas transporte Servicios suministro comidas empresas instituciones Servicios suministro comidas escuelas
 Servicios cantina Servicios cantina servicios cafetería clientela restringida Servicios gestión cantina Servicios comidas escuelas
 Servicios hostelería restauración
 Servicios jurídicos estén excluidos virtud artículo apartado letra
-
 servicios administrativos gubernamentales
 Prestación servicios comunidad
-
 Servicios relacionados prisiones servicios seguridad pública servicios salvamento medida estén excluidos virtud artículo apartado letra
 Servicios investigación seguridad Servicios seguridad Servicios vigilancia sistemas alarma Servicios guardias seguridad Servicios vigilancia Servicios relacionados sistema localización Servicios búsqueda prófugos Servicios patrullas Servicios expedición distintivos identificación Servicios investigación criminológica Servicios agencia detectives
 Servicios grafología Servicios análisis residuos
@@ -2484,7 +2477,6 @@ Decisión modificada lugar Decisión CE Comisión DO
 ANEXO
 ANEXO II
 Carne fresca
-
 Lista terceros países partes terceros países establece certificado prohíben importaciones carnes frescas especies indicadas línea correspondiente país
 País
 Código territorio
@@ -3430,7 +3422,6 @@ Gastos relacionados objetos arte colección antigüedades
 Gastos suntuarios ocio representación fines publicitarios
 Gastos suntuarios ocio representación distintos especificados
 Código
-
 Herramientas
 Reparaciones período garantía
 Servicios relacionados educación
@@ -3783,7 +3774,6 @@ DO Versión corregida DO
 Reglamento modificado lugar Reglamento CE
 ANEXO
 marca contemplada artículo apartado fácilmente legible caracteres claramente visibles forma indicaciones siguientes
-
 XY referencia código país pertinente contemplado anexo II sección punto Reglamento CE
 referencia número identificación establecimiento contemplado anexo II sección punto Reglamento CE
 Reglamento UE Comisión
@@ -4749,7 +4739,6 @@ DEFINICIÓN UNIDADES
 punto fusión define temperatura produce transición fase sólido líquido presión atmosférica normal temperatura corresponde idealmente temperatura congelación
 transición fase numerosas sustancias extiende amplia gama temperaturas designa nombre intervalo fusión
 Conversión unidades oC
-
 temperatura Celsius grado Celsius oC
 temperatura termodinámica Kelvin
 COMPUESTOS REFERENCIA
@@ -4817,27 +4806,17 @@ Sustancias difícilmente pulverizables
 Gama temperatura
 Precisión estimada
 Norma existente
-
-
 Dispositivo temperatura fusión bloque metálico
-
 dispositivos aplicación
-
 Métodos superficie caliente congelación
 Precisión estimada
-
 ANSI ASTM
-
 Específico poliamidas
-
 ISO
 Métodos punto congelación
-
 ejemplo BS
 Precisión estimada
 Análisis térmico diferencial
-
-
 ASTME
 Calorimetría diferencial barrido
 Precisión estimada
@@ -4887,7 +4866,6 @@ llegar temperatura fusión esperada regular aumento temperatura máximo minuto
 Cálculo
 cálculo punto fusión efectúa fórmula
 TDTD
-
 temperatura fusión corregida expresada
 temperatura leída termómetro expresada
 temperatura leída termómetro expresada
@@ -4959,7 +4937,6 @@ temperatura ebullición mide presión atmosférica normal dependencia presión v
 log Hv
 constante
 presión vapor sustancia pascales
-
 calor vaporización mol
 constante universal gases mol
 temperatura termodinámica
@@ -4995,6 +4972,4 @@ Comparación métodos
 Precisión estimada
 Norma existente
 Ebullómetro
-
-
 Método destilacion intervalo ebullicion

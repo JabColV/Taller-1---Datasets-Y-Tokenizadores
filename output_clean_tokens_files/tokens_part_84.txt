@@ -806,7 +806,6 @@ Gallos gallinas desplumados eviscerados cabeza patas cuello corazón hígado mol
 Gallos gallinas desplumados eviscerados cabeza patas cuello corazón hígado molleja llamados pollos presentados trocear congelados
 Trozos deshuesados gallo gallina congelados
 Pechugas trozos pechuga congelados
-
 Trozos deshuesados pavo congelados
 Preparaciones gallo gallina cocer
 Origen importaciones Brasil Tailandia Argentina Chile
@@ -1180,7 +1179,6 @@ requisitos genéricos diseño ecológico tienden mejorar comportamiento medioamb
 método arreglo presente anexo aplicará casos resulte adecuado establecer valores límite grupo productos examinado
 Comisión determinará aspectos medioambientales significativos preparación proyecto medida ejecución deberá presentar Comité mención artículo deberá especificarse medida ejecución
 preparar medidas ejecución establecen requisitos diseño ecológico arreglo artículo Comisión determinará PUE cubiertos medida ejecución parámetros pertinentes diseño ecológico enumerados requisitos aportación información enumerados requisitos fabricante enumerados
-
 Parámetros diseño ecológico PUE
 determinarán aspectos medioambientales significativos referencia siguientes fases ciclo vida producto medida guarden relación diseño
 selección materias primas
@@ -1209,7 +1207,6 @@ cantidad residuos generados cantidad residuos peligrosos generados
 emisiones atmósfera gases efecto invernadero agentes acidificantes compuestos orgánicos volátiles sustancias agotan capa ozono contaminantes orgánicos persistentes metales pesados partículas finas partículas suspendidas obstante dispuesto Directiva CE Parlamento Europeo Consejo diciembre aproximación legislaciones miembros medidas emisión gases partículas contaminantes procedentes motores combustión interna instalen máquinas móviles carretera
 emisiones agua metales pesados sustancias efectos nocivos equilibrio oxígeno contaminantes orgánicos persistentes
 emisiones suelo especialmente vertidos pérdidas sustancias peligrosas fase utilización producto potencial lixiviación eliminarse residuo
-
 Requisitos relativos suministro información
 medidas ejecución requerir fabricante proporcione información influir tratar utilizar reciclar PUE interesados distintos fabricante
 información incluir caso
@@ -1219,7 +1216,6 @@ información consumidores instalar utilizar mantener producto reducir máximo im
 información instalaciones tratamiento desmontado reciclado eliminación ciclo vida
 información deberá indicarse producto
 información obligaciones previstas normas comunitarias Directiva CE
-
 Requisitos fabricante
 requerirá teniendo aspectos medioambientales determinados medida ejecución factores influir sustancial diseño producto fabricantes PUE realicen evaluación modelo PUE ciclo vida partiendo hipótesis realistas condiciones normales fines previstos
 examinarse aspectos medioambientales forma voluntaria
@@ -2617,7 +2613,6 @@ anexo texto sustituye sustituye A† sustituye sustituye sustituye sustituye
 anexo tabla Presentación tablas
 suprimen líneas relativas tablas
 Tabla origen precios básicos incluida transformación precios adquisición
-
 Tabla destino precios adquisición
 sustituyen siguientes
 Tabla origen precios básicos incluida transformación precios adquisición
@@ -2702,9 +2697,6 @@ TRANSMISIÓN DATOS
 desgloses derivados NACE rev derivados CPA deberán utilizarse datos transmitidos agosto excepciones figuran párrafo
 miembros concedido excepción transmitir datos tablas Reglamento CE aplicarán desgloses períodos referencia desgloses períodos referencia independencia momento transmisión datos
 diciembre transmitir datos tabla utilizará NACE rev desglose siguientes partidas agregadas NACE rev desglose
-
-
-
 enero transmitir datos tabla utilizará NACE rev desglose
 transmitir datos tabla utilizará NACE rev desglose siguientes partidas agregadas NACE rev desglose
 transmisión datos puntos bis bis arreglo desgloses respectivamente rentas inmobiliarias imputadas especificados capítulo AGRUPAMIENTO CODIFICACIÓN RAMAS ACTIVIDAD PRODUCTOS ACTIVOS FIJOS FORMACIÓN CAPITAL FIJO AN anexo IV obligatorios variables especificadas tabla anexo Reglamento CE
@@ -2721,7 +2713,6 @@ tabla variables enumeradas Población empleo remuneración asalariados
 datos trimestrales Bélgica Dinamarca Alemania Irlanda Grecia España Francia Italia Luxemburgo Países Bajos Austria Portugal Finlandia Suecia Reino Unido
 datos trimestrales Bulgaria República Checa Estonia Chipre Letonia Lituania Hungría Malta Polonia Rumanía Eslovenia Eslovaquia
 tabla variables enumeradas Población empleo remuneración asalariados
-
 tabla
 tabla
 tablas requiere dato arreglo NACE rev CPA
@@ -2740,24 +2731,17 @@ sec
 Secciones NACE rev
 Descripción
 Agricultura ganadería silvicultura pesca
-
 Industrias extractivas industria manufacturera suministro energía eléctrica gas vapor aire acondicionado suministro agua actividades alcantarillado gestión residuos descontaminación construcción
-
 Servicios
-
 Industrias extractivas industria manufacturera suministro energía eléctrica gas vapor aire acondicionado suministro agua actividades saneamiento gestión residuos descontaminación
 industria manufacturera
 Construcción
-
 Comercio menor reparación vehículos motor motocicletas transporte almacenamiento hostelería
 Información comunicaciones
 Actividades financieras seguros
 Actividades inmobiliarias
-
 Actividades profesionales científicas técnicas actividades administrativas servicios auxiliares
-
 Administración pública defensa seguridad social obligatoria educación actividades sanitarias servicios sociales
-
 Actividades artísticas recreativas entretenimiento reparación artículos doméstico servicios
 Secciones NACE rev
 Divisiones NACE rev
@@ -2956,7 +2940,6 @@ AN
 Equipos radio televisión telecomunicaciones
 AN
 Programas informáticos
-
 Reglamento CE Comisión
 noviembre
 establecen valores importación alzado determinación precio entrada determinadas frutas hortalizas
@@ -4042,7 +4025,6 @@ Significa enviado Comisión solicitud certificado
 orden
 Coeficiente asignación aplicable solicitudes certificados importación presentadas subperíodo comprendido abril junio
 Cantidad disponible subperíodo comprendido julio septiembre
-
 solicitudes certificados importación presentadas mes marzo subperíodo comprendido abril junio superiores cantidades disponibles conviene determinar fijación coeficiente asignación aplicará cantidades solicitadas medida expedirse certificados importación
 Reglamento CE Comisión
 agosto
@@ -4716,7 +4698,6 @@ presente excepción aplicará ensayos hayan iniciado efectivamente tardar diciem
 obstante establecido punto miembros establecer ensayos residuos efectuados territorio conformidad sección Residuos interior superficie productos alimentos piensos tratados productos fitosanitarios contienen sustancias activas comercializadas años notificación Directiva CEE efectúen centros organizaciones ensayo oficiales reconocidos oficialmente cumplan requisitos establecidos puntos introducción anexo Reglamento UE
 presente excepción aplicará ensayos controlados residuos hayan iniciado efectivamente tardar diciembre
 obstante establecido punto caso sustancias activas consistentes microorganismos virus ensayos análisis realizados obtener datos propiedades seguridad aspectos distintos salud humana haberse efectuado centros organizaciones ensayo oficiales reconocidos oficialmente cumplan requisitos establecidos puntos introducción anexo Reglamento UE
-
 SUSTANCIAS QUÍMICAS
 Identidad sustancia activa
 información facilitada deberá bastar permitir identificar precisión sustancias activas definirla relación especificación caracterizarla naturaleza
@@ -4922,7 +4903,6 @@ Incineración controlada
 casos único adecuado eliminar segura sustancias activas materiales contaminados embalajes contaminados incineración controlada incinerador autorizado
 contenido halógenos sustancia activa superior indicarán comportamiento pirolítico sustancia activa condiciones controladas incluidos procede suministro oxígeno determinado tiempo permanencia °C contenido dibenzopdioxinas dibenzofuranos polihalogenados productos pirólisis
 solicitante deberá suministrar instrucciones detalladas eliminar sustancias peligro
-
 propusieran describirán detalle métodos eliminar sustancia activa embalajes materiales contaminados
 proporcionarán datos dichos métodos establecer eficacia seguridad
 Medidas emergencia caso accidente

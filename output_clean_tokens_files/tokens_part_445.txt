@@ -380,7 +380,6 @@ Suecia
 Reino Unido
 ANEXO IV
 Información transmitirse Comisión virtud artículo apartado
-
 medidas específicas ayuda correspondientes actividades agrícolas específicas reporten mayores beneficios agroambientales información incluirá
 título medida disposición pertinente artículo apartado Reglamento CE
 descripción medida especifiquen mínimo
@@ -398,7 +397,6 @@ tipos específicos actividades agrarias importantes protección mejora ambiente 
 normas exigentes bienestar animal refiere artículo apartado letra inciso iv Reglamento CE
 zonas económicamente vulnerables sensibles punto vista medioambiental tipos agricultura económicamente vulnerables refiere artículo apartado letra Reglamento CE niveles actuales producción contemplados artículo apartado Reglamento
 programas reestructuración desarrollo refiere artículo apartado letra Reglamento CE
-
 caso medidas específicas ayuda actividades agrícolas específicas reporten mayores beneficios agroambientales información incluirá
 título medida
 zona geográfica abarcada
@@ -2210,13 +2208,11 @@ Decisión modificada lugar Decisión CE DO
 ANEXO
 ANEXO
 Partes territorio Rumanía mencionadas artículo letras
-
 Código ISO país
 Nombre país
 Descripción territorio
 Rumanía
 territorio Rumanía
-
 territorio Rumanía
 Decisión Comité Mixto EEE
 abril
@@ -2327,7 +2323,6 @@ Diario Oficial Unión Europea noviembre
 anexo Reglamento CE
 punto remite anexo II Reglamento CE combinaciones
 Azoxistrobina número código
-
 léase
 Azoxistrobina número código
 Indoxacarb suma isómeros número código
@@ -2346,7 +2341,6 @@ Famoxadona
 Famoxadona
 combinación Trifloxistrobina número código
 Fluopicolide número código
-
 Decisión Consejo
 julio
 firma aplicación provisional memorándum cooperación Organización Aviación Civil Internacional Comunidad Europea auditorías inspecciones seguridad asuntos relacionados
@@ -2957,7 +2951,6 @@ pantalla anticolisión
 material tejido dimensiones color correas
 componentes rígidos hebillas sujeciones etc
 Asiento vehículo estructura forma íntegra estructura vehículo incluida tapicería ofrece plaza sentada adulto
-
 Grupo asientos asiento corrido asientos separados montados fijados forma anclajes delanteros asientos estén alineados anclajes delanteros traseros asiento anclajes ofrece plazas sentadas adultos
 Asiento corrido estructura completa tapicería ofrece mínimo plazas sentadas adultos
 Asientos delanteros vehículo grupo asientos situados compartimento pasajeros tengan asiento
@@ -3046,7 +3039,6 @@ producto incluye fijaciones ISOFIX información deberá visible permanente perso
 logotipo ISO ISOFIX seguido letras definen clases tamaño ISOFIX corresponde producto
 mínimo símbolo consistente círculo mm diámetro contenga pictograma deberá contrastar fondo círculo
 pictograma deberá claramente visible contraste colores relieve adecuado moldeado estampado
-
 etapas esenciales necesarias instalación asiento
 ejemplo explicarse método extensión sistema fijación ISOFIX
 explicarse posición función interpretación indicador
@@ -3082,7 +3074,6 @@ dispositivo perpendicular respaldo asiento pase altura ojo deberá cruzarse lín
 categoría pertenezca sistema retención niños deberá sujeto estructura vehículo asiento
 CONFIGURACIONES POSIBLES HOMOLOGACIÓN
 CUADRO GRUPOS CATEGORÍAS
-
 SRN Sistema retención niños
 aplica
 NA aplica
@@ -3707,7 +3698,6 @@ Deberán medirse desplazamiento horizontal cabeza aceleraciones tórax ensayo in
 resultados medición desplazamiento horizontal máximo cabeza deberán cumplir condiciones siguientes
 valor deberá superar
 deberá superar
-
 valor límite prescrito
 media valores
 desviación estándar valores
@@ -3740,7 +3730,6 @@ caso duda consulte fabricante vendedor
 sistemas retención niños categorías restringida semiuniversal información deberá claramente visible punto venta quitar embalaje
 sistema retención niños categoría restringida semiuniversal apropiado instalado asientos automóviles siguientes
 AUTOMÓVIL
-
 ATRÁS
 Lateral
 Central
@@ -3796,7 +3785,6 @@ utilizarse análisis subjetivo señal penetración abdominal
 Tolerancias dimensiones establezca cosa válidos límites Gama dimensiones mmmenos Tolerancia mm±± ±± Tolerancias angulares establezca cosa
 calibración distancia frenado debería mm
 calibración distancia frenado debería mm
-
 ANEXO
 COMUNICACIÓN
 Formato máximo mm
@@ -4128,7 +4116,6 @@ anchura
 mm
 grosor
 alargamiento
-
 cinturón estático puntos muestra figura consta placas anclaje estándar muestra figura correa cumple requisitos punto
 placas anclaje cinturón puntos deberán instalarse anclajes carro valor figura mm requisito longitud máxima homologación sistemas retención niños categoría universal cinturones puntos véase punto
 Configuraciones cinturón seguridad estándar
@@ -4255,8 +4242,6 @@ Número combinado muestras
 Criterios aceptación
 Criterios rechazo
 Grado rigor control
-
-
 MH LH
 Reforzado
 MH LH
@@ -4496,7 +4481,6 @@ Columna
 Columna
 Sustancia activa
 miembro
-
 Tetratiocarbonato sodio
 Grecia
 Desinfección terreno horticultura

@@ -371,7 +371,6 @@ Avermectina Ba
 Bovinos
 Grasa
 Hígado
-
 Antiparasitarios Agentes activos frente endo ectoparásitos Embonato pirantel
 Ovinos
 Músculo
@@ -389,7 +388,6 @@ exige LMR
 especies destinadas producción alimentos peces
 Únicamente medicamentos veterinarios homeopáticos preparados conforme farmacopeas homeopáticas concentraciones producto superiores cien
 procede
-
 Ácido clavulánico Ácido clavulánico
 exige LMR
 exige LMR
@@ -410,7 +408,6 @@ procede
 procede
 μg kg μg kg μg kg Músculo Hígado Riñón
 Trimetoprima
-
 Tiliae flos flor tila
 μg kg Grasa
 especies destinadas producción alimentos exige LMR procede
@@ -460,14 +457,11 @@ especies destinadas producción alimentos
 exige LMR procede Betametasona
 μg kg
 procede
-
 excipiente
 Únicamente intramamario
 especies destinadas producción alimentos
-
 procede
 especies destinadas producción alimentos
-
 Únicamente usos terapéuticos
 excipiente
 procede
@@ -478,9 +472,7 @@ procede
 especies destinadas producción alimentos
 procede
 Butóxido piperonilo
-
 procede
-
 Camphora
 Únicamente medicamentos veterinarios homeopáticos preparados conforme farmacopeas homeopáticas concentraciones producto superiores
 especies destinadas producción alimentos peces
@@ -493,14 +485,12 @@ Cefalonio
 Únicamente intramamario tratamiento oftálmico
 Cefapirina
 Suma cefapirina desacetilcefapirina
-
 Cefazolina
 Riñón
 intramamario ubre utilizarse alimento consumo humano
 Cefoperazona
 utilizarse animales producen leche consumo humano
 especies destinadas producción alimentos
-
 Sustancias acción sistema nervioso Sustancias acción sistema nervioso autónomo
 Clorhidrato denaverina procede Bovinos
 exige LMR
@@ -513,7 +503,6 @@ Tosilcloramida sodio
 μg kg μg kg
 μg kg
 μg kg
-
 procede
 Músculo
 Únicamente medicamentos veterinarios homeopáticos preparados conforme farmacopeas homeopáticas concentraciones producto superiores mil
@@ -534,7 +523,6 @@ Emamectina Ba
 Hígado
 Sustancias utilizadas medicamentos veterinarios homeopáticos
 procede Équidos
-
 Enrofloxacino
 Suma enrofloxacino ciprofloxacino
 μg kg
@@ -557,7 +545,6 @@ Leche Espiramicina
 μg kg
 Músculo
 Pollos
-
 Hígado
 procede
 especies destinadas producción alimentos
@@ -582,14 +569,12 @@ Bovinos
 Hígado Riñón
 Músculo Grasa
 especies destinadas producción alimentos
-
 Ivermectina
 porcinos LMR grasa refiere piel grasa proporciones naturales
 procede
 Kanamicina
 Kanamicina especies destinadas producción alimentos peces
 especies destinadas producción alimentos
-
 Bovinos porcinos équidos
 Únicamente animales recién nacidos
 procede
@@ -602,8 +587,6 @@ procede especies destinadas producción alimentos
 exige LMR
 exige LMR
 exige LMR
-
-
 μg kg
 μg kg
 Únicamente medicamentos veterinarios homeopáticos preparados conforme farmacopeas homeopáticas concentraciones producto superiores mil
@@ -676,12 +659,9 @@ Vincamina
 Vitamina
 Vitamina
 Vitamina
-
 Vitamina
 procede
 procede
-
-
 Cuadro
 Sustancias prohibidas
 Sustancia farmacológicamente activa
@@ -769,7 +749,6 @@ Diciclanil
 Únicamente oral
 µg kg
 especies destinadas producción alimentos exige LMR procede Dicloxacilina
-
 especies destinadas producción alimentos
 Antiinfecciosos Antibióticos
 especies destinadas producción alimentos
@@ -795,12 +774,10 @@ Piel grasa Hígado Riñón Pollos
 μg kg μg kg
 Gamitromicina Bovinos
 µg kg Grasa Hígado Riñón
-
 Glutamato magnesio
 procede
 Hidrato terpina
 Únicamente tópico
-
 Bovinos
 especies destinadas producción alimentos
 procede especies destinadas producción alimentos
@@ -833,16 +810,13 @@ especies destinadas producción alimentos
 especies destinadas producción alimentos
 Polietilenglicoles masa molecular comprendida
 Poloxamero procede
-
 Corticoides Glucocorticoides
-
 especies destinadas producción alimentos
 Bovinos ovinos caprinos équidos hembras
 Únicamente intravaginal terapéutico zootécnico conforme dispuesto Directiva CE
 Prolina
 Propano
 Propilenglicol
-
 Quatresina
 Rafoxanida
 Rhei radix extractos estandarizados preparaciones procede
@@ -855,8 +829,6 @@ exige LMR procede
 oral
 especies destinadas producción alimentos
 exige LMR procede Sarafloxacino
-
-
 procede
 Serina
 procede
@@ -868,9 +840,7 @@ Solidago virgaurea
 procede
 procede
 exige LMR
-
 rumiantes porcinos conejos
-
 μg kg
 μg kg
 Hígado
@@ -890,19 +860,16 @@ Grasa
 procede
 especies destinadas producción alimentos
 procede
-
 especies destinadas producción alimentos
 Únicamente medicamentos veterinarios homeopáticos preparados conformidad farmacopea homeopática concentraciones correspondientes tintura madre diluciones
 especies destinadas producción alimentos
 procede
 exige LMR
-
 Ácido salicílico
 procede
 procede
 Butafosfán
 nButanol
-
 procede
 Únicamente medicamentos veterinarios homeopáticos preparados conformidad farmacopea homeopática concentraciones correspondientes tintura madre diluciones
 Suma carprofeno glucurónido carprofeno conjugados
@@ -930,7 +897,6 @@ exige LMR
 procede
 Bovinos équidos
 Glucuronato aminoetanol
-
 procede
 Gonadotropina coriónica humana
 Gonadotropina suero yegua preñada
@@ -949,9 +915,7 @@ pHidroxibenzoato bencilo
 Hidroxibenzoato butilo
 exige LMR
 especies destinadas producción alimentos
-
 procede
-
 Polietilenglicolglicerilcocoato
 Polifosfato cálcico procede
 Polioxilaceite ricino unidades oxietileno
@@ -965,7 +929,6 @@ Quimotripsina
 Músculo piel proporciones normales
 Únicamente medicamentos veterinarios homeopáticos preparados conformidad farmacopea homeopática concentraciones correspondientes tintura madre diluciones
 Únicamente oral
-
 Únicamente oral
 especies destinadas producción alimentos
 Tanninum
@@ -981,11 +944,9 @@ porcinos aves corral LMR grasa refiere piel grasa proporciones naturales
 especies destinadas producción alimentos
 exige LMR
 procede
-
 especies destinadas producción alimentos
 Amprolio
 Sulfato magnesio
-
 Cefalexina
 exige LMR
 especies destinadas producción alimentos
@@ -1033,7 +994,6 @@ Antiinfecciosos Antibióticos
 procede
 exige LMR
 Únicamente tópico
-
 exige LMR
 Borogluconato calcio
 exige LMR
@@ -1122,7 +1082,6 @@ Hamamelis virginiana
 Únicamente medicamentos veterinarios homeopáticos preparados conformidad farmacopea homeopática concentraciones correspondientes tintura madre diluciones
 exige LMR
 exige LMR
-
 exige LMR
 Hidróxido cálcico
 excipiente
@@ -1139,7 +1098,6 @@ procede
 especies destinadas producción alimentos
 Hormona liberadora hormona luteinizante Dfenilalanina
 Hormona liberadora gonadotropina
-
 especies destinadas producción alimentos
 procede
 Únicamente medicamentos veterinarios homeopáticos preparados conformidad farmacopea homeopática concentraciones correspondientes tintura madre diluciones
@@ -1171,7 +1129,6 @@ especies destinadas producción alimentos exige LMR
 leche cumplirse disposiciones Directiva CE Comisión
 Peróxido hidrógeno
 procede
-
 exige LMR
 μg kg
 Huevos
@@ -1182,7 +1139,6 @@ procede
 especies destinadas producción alimentos
 procede
 Prazicuantel
-
 especies mamíferas destinadas producción alimentos
 exige LMR
 procede
@@ -1218,7 +1174,6 @@ exige LMR
 procede
 Únicamente oral
 Sulfato níquel
-
 Sulfato zinc
 especies destinadas producción alimentos
 exige LMR
@@ -1235,7 +1190,6 @@ Antiparasitarios Agentes activos frente endoparásitos
 procede
 exige LMR
 Únicamente vía intravenosa
-
 Suma metabolitos hidrolizados αhidroximutilina
 Porcinos conejos
 μg kg
@@ -2416,7 +2370,6 @@ Decisión UE
 junio
 Santo Tomé Príncipe
 Reglamento CE
-
 Decisión UE
 Reglamento CE
 diciembre
@@ -3879,7 +3832,6 @@ DO
 DO
 ANEXO
 ANEXO II
-
 Menciones contempladas artículo apartado
 búlgaro Продукт произход страните от АКТБ Регламент ЕО Регламент ЕО
 danés AVSprodukt forordning EF nr og EF nr
@@ -3899,7 +3851,6 @@ portugués Produto ACP Regulamentos CE CE
 esloveno Proizvod AKP uredbi št
 finés AKTtuote Asetukset EY ja EY
 sueco AVSprodukt förordningarna EG nr och EG nr
-
 Indicaciones contempladas artículo apartado
 búlgaro Намаляване на митото както предвидено Регламент ЕО
 danés Toldnedsættelse jf forordning EF nr
@@ -4579,7 +4530,6 @@ Scheme name cláusula
 campo OBLIGATORIO especificará denominación actúa régimen
 secuencia cadenas caracteres multilingües lengua obligatoria potencialmente lenguas nacionales definida
 versión cadena caracteres estructurada
-
 código país ISO alfa utilizado campo Scheme territory cláusula
 utiliza separador
 ENnamevalue

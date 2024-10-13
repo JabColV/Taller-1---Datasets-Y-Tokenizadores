@@ -1099,7 +1099,6 @@ ensayos emisión hidrógeno descritos apartado permiten cálculo emisiones hidr�
 emisiones hidrógeno fases calculan utilizando concentraciones hidrógeno temperaturas presiones iniciales finales envolvente volumen neto
 utilizará fórmula
 Vout
-
 masa hidrógeno gramos
 concentración hidrógeno medida envolvente volumen ppm
 volumen compensación temperatura presión ensayo
@@ -2624,9 +2623,7 @@ cifra importaciones procedentes terceros países benefician acuerdos preferencia
 Corrección errores Reglamento CE Parlamento Europeo Consejo octubre adaptan Decisión CE Consejo determinados actos sujetos procedimiento establecido artículo Tratado refiere procedimiento reglamentación control Adaptación procedimiento reglamentación control
 Diario Oficial Unión Europea noviembre
 página anexo punto artículo apartado Reglamento CE
-
 medidas aplicación adoptarán mínimo meses comienzo período recogida datos
-
 medidas aplicación elaborarán mínimo meses comienzo período recogida datos
 Reglamento CE Euratom Consejo
 julio
@@ -2965,7 +2962,6 @@ Transacciones temporales supongan cambio propiedad contrapartida financiera tipo
 Mercancías suministradas marco programas ayuda gestionados financiados parcial totalmente Comunidad Europea
 entregas ayuda gubernamental
 entregas ayuda particulares organizaciones gubernamentales
-
 Operaciones destinadas tratamiento encargo registradas punto
 Operaciones siguen tratamiento encargo registradas punto
 Transacciones particulares codificadas fines nacionales
@@ -3272,9 +3268,7 @@ Código NC
 Motivación
 Producto composición peso
 alcohol etílico
-
 agua
-
 etilenglicol
 butanona
 producto envasa botellas litros contenedores litros
@@ -3567,7 +3561,6 @@ naturaleza instrumento cobertura derivado derivado método consolidación afecta
 importes reclasificarse patrimonio neto resultados ajustes reclasificación enajene disponga vía negocio extranjero
 enajene disponga vía negocio extranjero cubierto importes reserva conversión moneda extranjera entidad dominante instrumento cobertura negocio extranjero reclasificará patrimonio neto resultados financieros consolidados entidad dominante
 método consolidación afecta determinación importes reclasificar patrimonio neto resultados
-
 Naturaleza riesgo cubierto importe partida cubierta designarse relación cobertura
 contabilidad coberturas aplicarse diferencias cambio surgen moneda funcional negocio extranjero moneda funcional entidad dominante
 cobertura riesgos tipo cambio surgen inversión neta negocio extranjero partida cubierta importe activos netos inferior importe libros activos netos negocio extranjero figura financieros consolidados entidad dominante
@@ -4432,7 +4425,6 @@ Información confidencial sucesivo sustituida puntos suspensivos corchetes banda
 Ley relativa HLB revisada vigente suprimido cláusula dividendo máximo datos facilitados dividendos duplicado creces situaron torno
 DO punto
 modificado Acta Adhesión
-
 DO
 Rec II
 anular efectos inflación determina periodo referencia tasa rentabilidad instrumento deuda pública plazo inicialmente tomar consideración inflación prevista
@@ -4710,7 +4702,6 @@ puerto Unión Europea
 viaje barco escala lugar país exportación camino Unión Europea
 puertos escala
 viaje animales descargados contacto bordo animales situación sanitaria inferior
-
 Puerto llegada
 Fecha llegada
 Sello
@@ -4836,7 +4827,6 @@ Motivo rechazo
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO III
 Licitación permanente exportación centeno organismo intervención alemán
 Reglamento CE

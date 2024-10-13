@@ -582,7 +582,6 @@ ensayo realizará manguera manguera envejecimiento conforme norma ISO arreglo ap
 Diámetro interior manguera
 Radio flexión
 Distancia centros
-
 máquina ensayo figura constará marco acero provisto ruedas madera anchura borde aproximada mm circunferencia ruedas ranurada servir guía manguera
 circunferencia ruedas ranurada servir guía manguera
 planos medios longitudinales ambas ruedas estarán plano vertical distancia centros ruedas indicada apartado Ambas ruedas girarán libremente centro giro mecanismo propulsión tirará manguera ruedas velocidad movimientos completos minuto
@@ -829,10 +828,7 @@ caso repetirá ensayo lote revestimientos
 botellas superen ciclos fallar rotura
 Ensayo rotura lote
 Vertical
-
 Figura
-
-
 MPa °C
 ciento
 ciento
@@ -1350,9 +1346,7 @@ fricción bolas
 Lubricante
 grasa aceite
 Estanco
-
 Circulación
-
 Descripción transmisión
 Tracción ruedas delantera trasera Táchese proceda
 Tipo transmisión manual automática Táchese proceda
@@ -1573,7 +1567,6 @@ composición carburante utilizado ensayo difiere composición presupone cálculo
 CCnorm fc HC CO CO
 caso aplicarse citado factor corrección fc fijará
 fc nefectiva
-
 nefectiva relación efectiva hidrógeno carbono carburante utilizado
 vehículos motores encendido chispa alimentados gas natural
 CCnorm HC CO CO
@@ -1727,7 +1720,6 @@ Carga vehículo
 Vehículos recarga exterior
 Vehículos recarga exterior
 Conmutador funcionamiento
-
 VEHÍCULOS ELÉCTRICOS HÍBRIDOS RECARGA EXTERIOR CONMUTADOR FUNCIONAMIENTO
 realizarán ensayos condiciones siguientes
 Condición ensayo realizará dispositivo acumulación energía potencia eléctrica completamente cargado
@@ -2043,7 +2035,6 @@ Figura
 PERFIL PERSEGUIDO
 tolerancias velocidad kmh tiempo combinan geométricamente punto representa figura
 Clase CEI
-
 deberá lugar regeneración preparación vehículo
 garantizarse métodos siguientes
 Figura
@@ -4110,9 +4101,7 @@ Impurezas
 tolueno máx kg
 junio
 mayo
-
 autorizar usos herbicida remolacha azucarera
-
 aplicación principios uniformes anexo VI conclusiones informe revisión cletodim particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán atender especialmente protección organismos acuáticos aves mamíferos asegurándose condiciones imponen medidas adecuadas reducción riesgo
 miembros afectados pedirán presente información confirmatoria base conocimientos científicos recientes
@@ -4313,7 +4302,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4327,7 +4315,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4341,7 +4328,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 Peras nashi Pyrus pyrifolia
 Peras Pyrus bretscheri
@@ -4422,7 +4408,6 @@ código
 Tecnologías empleadas
 Código
 Toneladas Mg
-
 Decisión Comité Mixto EEE
 abril
 modifica anexo II Reglamentaciones técnicas normas ensayos certificación EEE

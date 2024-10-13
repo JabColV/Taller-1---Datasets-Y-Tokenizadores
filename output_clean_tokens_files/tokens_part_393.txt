@@ -460,7 +460,6 @@ inversor deberá volver evaluar controla participada hechos circunstancias concu
 inversores controlan conjuntamente participada actuar juntos dirigir actividades relevantes
 tales casos inversores dirigir actividades colaboración inversor controla participada
 inversor contabilizará participación participada conformidad NIIF pertinentes NIIF Acuerdos conjuntos NIC Inversiones asociadas negocios conjuntos NIIF Instrumentos financieros
-
 inversor participada posee derechos vigor proporcionan capacidad dirigir actividades relevantes afectan forma significativa rendimientos participada
 emana derechos
 ocasiones evaluarse dificultad sucede participada obtiene directa exclusiva derechos voto otorgan instrumentos patrimonio acciones evaluar examen derechos voto asociados dichas participaciones accionariales
@@ -1171,14 +1170,12 @@ Efectos variaciones tipos cambio moneda extranjera
 aplicable requerimientos
 modifican párrafos añade párrafo
 norma permite asimismo entidad aislada elabore financieros entidad elabore financieros separados NIC financieros separados utilizar moneda monedas presentar financieros
-
 incorporación resultados situación financiera negocio extranjero entidad informa procedimientos normales consolidación eliminación saldos intragrupo transacciones intragrupo dependientes véase NIIF financieros consolidados
 obstante
 financieros negocio extranjero entidad informa estén referidos fechas frecuente elabore financieros adicionales fecha
 NIIF permite utilización fecha diferencia meses realicen ajustes reflejar efectos transacciones sucesos significativos ocurridos fechas
 caso activos pasivos negocio extranjero convertirán tipo cambio ejercicio informa negocio extranjero
 practicarán ajustes pertinentes variaciones significativas tipos cambio ejercicio informa entidad informa NIIF
-
 NIIF NIIF Acuerdos conjuntos publicadas mayo modificaron párrafos letra
 NIC
 Informaciones revelar partes vinculadas
@@ -1200,12 +1197,10 @@ obstante casos NIC NIC permiten entidad contabilice participaciones dependiente 
 NIIF NIIF publicadas mayo modificaron párrafos letra GA
 párrafo GA apéndice queda modificado
 financieros consolidados entidad presentará participaciones dominantes participación terceros patrimonio resultados dependientes NIC NIIF
-
 NIC
 Ganancias acción
 modifica párrafo añade párrafo
 caso entidad presente financieros separados financieros consolidados NIIF financieros consolidados NIC financieros separados revelaciones información requeridas norma obligatorias referencia información consolidada
-
 NIIF NIIF Acuerdos conjuntos publicadas mayo modificaron párrafos
 NIC
 Deterioro valor activos
@@ -1321,7 +1316,6 @@ Vehículo separado Estructura financiera identificarse separado incluidas person
 siguientes términos aparecen definidos NIC modificada NIC modificada NIIF financieros consolidados utilizan NIIF significados especificados dichas NIIF
 control participada
 método participación
-
 derechos protección
 actividades pertinentes
 financieros separados
@@ -2165,7 +2159,6 @@ exposición variabilidad rendimientos resto inversores caso afirmativo influir a
 participada empresa deberá aplicar requisitos NIIF tomará fecha adquisición corresponda inicio ejercicio practicable aplicar NIIF ejercicio curso
 participada empresa deberá aplicar método adquisición descrito NIIF reconocer fondo comercio participada fecha adquisición considerada corresponda inicio ejercicio practicable aplicar párrafo ejercicio curso
 obligación emitida entidad estructurada características siguientes entidad aislada punto vista jurídico activos entidad claramente delimitados beneficio exclusivo inversores caso quiebra entidad participa transacción activos entidad hipotecar importes abonarse inversores entidad caso activos delimitados generen flujos efectivo
-
 apéndice eliminarán párrafos encabezamiento situado párrafo párrafos quedarán modificados
 proceso adopción decisiones asuntos requieren toma decisiones partes derechos voto nivel apoyo exigido asuntos proceso adopción decisiones reflejado contractual determina control conjunto véanse párrafos
 Reglamento CE Comisión
@@ -2529,9 +2522,7 @@ Importe restituciones
 Corrección errores Reglamento UE Comisión junio modifica Reglamento CE Comisión relativo sanciones financieras caso incumplimiento determinadas obligaciones fijadas marco autorizaciones comercialización concedidas arreglo Reglamento CE Parlamento Europeo Consejo
 Diario Oficial Unión Europea junio
 página artículo punto
-
 obligación comunicar petición Agencia información demuestre favorable relación riesgo beneficio conformidad artículo apartado artículo apartado Reglamento CE
-
 obligación comunicar petición Agencia información demuestre favorable relación riesgo beneficio conformidad artículo apartado letra artículo apartado Reglamento CE
 página artículo punto
 obligación presentar petición Agencia copia archivo maestro farmacovigilancia conformidad artículo apartado Reglamento CE
@@ -2565,9 +2556,7 @@ texto publicará Decisión relativa celebración
 Corrección errores Decisión CE Consejo abril relativa celebración modifica asociación África Caribe Pacífico Comunidad Europea miembros firmado Cotonú junio
 Diario Oficial Unión Europea mayo
 página cubierta página título página fecha adopción
-
 abril
-
 abril
 Reglamento UE Comisión
 septiembre
@@ -3224,19 +3213,16 @@ DO
 Reglamento modificado Reglamento CE DO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES PORCINO HUNGRÍA
-
 FATOMEATER FOM FATOMEATER FOM
 clasificación canales cerdo llevará cabo aparatos denominados FatOMeater FOM FatOMeater FOM
 aparatos irán equipados cánula diámetro milímetros dotada sonda óptica tipo Fremstillet AF Radiometer Copenhagen Slagteriernes Forskningsinstitut Optisk Sonde MQ alcance operativo milímetros ordenador tipos respectivamente traducirá resultados medición contenido estimado carne magra
 contenido carne magra canal calculará aplicando fórmula
-
 contenido estimado carne magra porcentaje
 espesor grasa dorsal milímetros medido punto situado cm línea media canal cuarta vértebra lumbar
 espesor grasa dorsal milímetros medido punto situado cm línea media canal cuarta costilla contando costilla
 espesor músculo milímetros medido punto situado cm línea media canal cuarta costilla contando costilla
 peso caliente canal kg
 fórmula válida canales peso comprendido kg
-
 clasificación canales cerdo llevará cabo aparato denominado UniFatOMeater FOM UNIFOM
 aparato describe punto
 UNIFOM diferencia FOM ordenador programas informáticos utilizados interpretación perfil reflexión sonda óptica
@@ -3244,7 +3230,6 @@ UNIFOM conectado instrumento medidor peso
 contenido estimado carne magra porcentaje
 espesor músculo milímetros medido punto situado cm línea media canal cuarta costilla contando costilla
 fórmula válida canales peso comprendido kg
-
 clasificación canales cerdo llevará cabo aparato denominado Ultra FOM
 aparato irá equipado sonda ultrasónica MHz tecnología Krautkrämer MB
 señal ultrasónica digitalizada almacenada procesada microprocesador tipo Intel
@@ -3252,7 +3237,6 @@ Ultra FOM traducirá resultados medición contenido estimado carne magra
 espesor grasa dorsal milímetros medido punto situado cm línea media canal cuarta vértebra lumbar
 espesor grasa dorsal milímetros medido punto situado cm línea media canal cuarta costilla contando costilla
 espesor músculo milímetros medido punto situado cm línea media canal cuarta costilla contando costilla
-
 clasificación canales cerdo llevará cabo aparato denominado AUTOFOM Fully automatic ultrasonic carcase grading
 aparato irá equipado transductores ultrasónicos MHz tecnología Krautkrämer SFK NP distancia operativa transductores mm
 datos ultrasónicos incluirán mediciones espesor grasa dorsal espesor muscular
@@ -4125,9 +4109,7 @@ CICAP
 Impurezas relevantes óxido etileno contenido máximo mg kg
 septiembre
 agosto
-
 autorizarse usos interiores regulador crecimiento vegetal usuarios profesionales
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión etileno SANCO particular apéndices II ultimado febrero Comité Permanente Cadena Alimentaria Sanidad Animal
 evaluación general miembros prestarán atención particular
 conformidad etileno especificaciones necesarias independencia forma suministre usuario

@@ -51,7 +51,6 @@ Nombre apellidos razón social dirección completa
 suscribe reconoce correspondencia notificaciones general formalidades trámites relativos presente compromiso dirigidos evacuados escrito domicilios señalados aceptarán debidamente comunicados
 suscribe reconoce competencia órganos jurisdiccionales correspondientes lugares señalado domicilio
 suscribe compromete mantener domicilios señalados tuviera cambiar domicilios señalados comunicarlo previamente aduana garantía
-
 Firma
 Aceptación aduana garantía
 Aduana garantía
@@ -2594,9 +2593,7 @@ CIPAC
 kg
 junio
 mayo
-
 autorizar usos fungicida sistemas vinculados suelo invernaderos
-
 evaluación solicitudes autorización productos fitosanitarios contengan etridiazol destinados usos distintos aplicación plantas ornamentales miembros prestarán especial atención criterios establecidos artículo apartado letra velarán facilite información necesaria conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión etridiazol particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros
@@ -2941,7 +2938,6 @@ DO
 Véase página presente Diario Oficial
 ANEXO
 MODELO CERTIFICADO IMPORTACIÓN BROTES SEMILLAS DESTINADAS PRODUCCIÓN BROTES
-
 Detalles relativos partida expedida
 PAÍS
 Certificado UE
@@ -2964,7 +2960,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 Descripción mercancía
@@ -4177,7 +4172,6 @@ Lista autorizaciones mencionadas artículo apartado
 Columna
 Columna
 miembro
-
 Desinfección suelo lucha malas hierbas plantar sembrar limitado usuarios profesionales equipo protector adecuado arreglo condiciones autorizadas específicas establece artículo supeditado restricciones siguientes miembro
 Bélgica
 Tierra macetas cultivos
@@ -4376,7 +4370,6 @@ Pérdida desecación
 °C horas
 expresados glucosa
 expresados glucosa
-
 mg kg
 Sulfatos
 mg kg
@@ -4386,14 +4379,11 @@ MANITOL FABRICADO FERMENTACIÓN
 Fabricado fermentación discontinua condiciones aerobias utilizando cepa convencional levadura Zygosaccharomyces rouxii
 inferior peso seco
 Polvo blanco inodoro cristalino
-
 mg kg
 Bacterias mesofílicas aerobias
-
 Coliformas
 Ausencia
 Mohos
-
 Levaduras
 ACESULFAMO
 Acesulfamo potásico sal potásica dihidrometiloxatiazinonadióxido
@@ -4478,8 +4468,6 @@ Examinar cromatografía capa fina utilizando placa recubierta capa mm silicagel 
 manchas principales cromatograma corresponden GPM GPS
 método Karl Fischer
 peso seco
-
-
 mg kg peso seco
 mg kg peso seco
 mg kg peso seco
@@ -4538,9 +4526,7 @@ calculada sustancia anhidra
 solución peso volumen
 Humedad
 método Karl Fischer
-
 disacáridos clorados
-
 Monosacáridos clorados
 Óxido trifenilfosfina
 mg kg
@@ -4620,7 +4606,6 @@ Polvo blanco cristalino prácticamente inodoro sabor dulce
 soluble agua soluble etanol
 °C °C
 solución acuosa
-
 Desecar muestra vacío fósforo °C horas
 alcoholes polihídricos
 peso seco
@@ -4635,7 +4620,6 @@ expresadas Dglucosa
 Ribitol glicerol
 mg kg
 ANEXO II
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CE Comisión
@@ -4650,7 +4634,6 @@ Directiva CE Comisión
 DO
 Directiva Comisión
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -4675,7 +4658,6 @@ Filtrar ayuda succión disolver cristales ml agua hirviendo contenga bicarbonato
 Dejar enfriar líquido filtrado filtrar succión lavar ml mezcla metanol agua secar aire
 Taumatina II
 ERITRITOL
-
 Dmanitol
 αDglucopiranosilDglucitol
 Dxilitol

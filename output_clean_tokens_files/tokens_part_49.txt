@@ -512,7 +512,6 @@ Véase página presente Diario Oficial
 PROYECTO
 DECISIÓN
 CONSEJO ESTABILIZACIÓN ASOCIACIÓN UESERBIA
-
 adopta Reglamento interno
 CONSEJO ESTABILIZACIÓN ASOCIACIÓN
 Visto Estabilización Asociación Comunidades Europeas miembros República Serbia sucesivo Serbia sucesivo particular artículos
@@ -635,7 +634,6 @@ nombramientos oficiales miembros Serbia efectuados Gobierno Serbia propuestas or
 Tales propuestas basarán procedimientos selección integradores transparentes representantes ejerzan mandatos electorales regionales locales
 Comité Consultivo Mixto mencionado apartado copresidido miembro Comité Regiones representante autoridades regionales locales Serbia
 Comité Regiones Gobierno Serbia sufragarán gastos derivados participación delegados personal apoyo reuniones Comité Consultivo Mixto mencionado apartado especialmente gastos viaje dietas
-
 Consejo Estabilización Asociación
 Presidente
 ANEXO
@@ -920,7 +918,6 @@ residuos considerado inadecuados muestreo representativo
 Artículo apartado
 tiempo temperaturas permanencia gases horno establecidos artículo apartado
 concedido excepciones condiciones explotación conformidad dispuesto artículo apartado
-
 caso afirmativo excepciones concedido
 dispone datos descríbanse motivos concedido excepciones caso indicándose
 capacidad instalación incineración coincineración
@@ -1877,7 +1874,6 @@ Caracterización lago
 Precipitación media anual mm °C
 Superficie km
 Embalse profundo silíceo zonas húmedas
-
 Embalse profundo calcáreo
 Tipos LM Grecia Francia Italia Portugal Rumanía España
 Tipos LM Chipre Francia Italia Rumanía España
@@ -2056,7 +2052,6 @@ Mesomareales
 Totalmente mezcladas
 Aguas frías principalmente °C irradiancia media principalmente PAR Mol
 Principalmente mesomareales
-
 Subtipos relación fitoplancton
 Mares cerrados semicerrados expuestos protegidos euhalinos profundos
 Mares cerrados semicerrados expuestos protegidos estratificación parcial
@@ -3190,7 +3185,6 @@ especifíquense
 Basuras
 Desperdicios productos alimenticios
 Plástico
-
 Aguas residuales
 Desechos relacionados carga especifíquense
 Residuos carga especifíquense
@@ -4070,7 +4064,6 @@ Período contingentario
 Volumen contingente anual
 toneladas peso neto especifique cosa
 Carne animales especie bovina fresca refrigerada congelada
-
 período posterior
 Ajos
 Hongos género Agaricus conservados provisionalmente impropios consumo inmediato

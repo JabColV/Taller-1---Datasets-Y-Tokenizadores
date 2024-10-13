@@ -1562,8 +1562,6 @@ página cuadro sustituye
 Grupo funciones grados
 Puestos permanentes
 Puestos temporales
-
-
 general
 página partida comentarios añade texto
 Condiciones movilizar reserva
@@ -4388,7 +4386,6 @@ emisión reembolso participaciones
 liquidación contratos incluida expedición certificados
 teneduría registros
 Comercialización
-
 Directiva derogada relación sucesivas modificaciones
 arreglo artículo
 Directiva CEE Consejo
@@ -4413,7 +4410,6 @@ DO
 Artículo
 Directiva CE Parlamento Europeo Consejo
 DO
-
 Plazos transposición Derecho nacional fechas aplicación
 Directiva
 Plazo transposición

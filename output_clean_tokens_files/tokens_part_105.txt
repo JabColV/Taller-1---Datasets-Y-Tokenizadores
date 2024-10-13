@@ -1504,7 +1504,6 @@ importe obtenido divide índice coste anual hora hombre libros oficiales HSY
 método resume cuadro
 Horas hombre directamente productivas realizadas trabajadores HSY
 Precio pagado subcontratistas elegidos HSY EUR
-
 deducir margen beneficio trabajo indirecto
 Precio hora EUR trabajadores directos HSY
 Estimación horas hombre directamente productivas realizadas trabajadores subcontratistas elegidos HSY dividido
@@ -4165,10 +4164,6 @@ Consejo
 Corrección errores Reglamento Ejecución UE Consejo diciembre impone derecho antidumping definitivo cobra definitivamente derecho provisional impuesto importaciones módulos fotovoltaicos silicio cristalino componentes clave células originarios procedentes República Popular China
 Diario Oficial Unión Europea diciembre
 página artículo apartado párrafo
-
-
-
-
 Recomendación Comisión
 agosto
 prevención reducción toxinas Fusarium cereales productos base cereales
@@ -4768,7 +4763,6 @@ deudor codeudor declarado quiebra efectuar cobro
 redacción lengua común traducción
 autoridad requirente confirma caso quedado archivado
 autoridad requerida informa autoridad requirente recibido notificación incoado procedimiento impugnando crédito título permite ejecución suspenderá procedimientos ejecución
-
 adoptado medidas cautelares garantizar cobro crédito fecha AA MM DD
 solicita autoridad requirente informe cobrar crédito
 informa autoridad requirente disposiciones legales reglamentarias prácticas administrativas vigor miembro halla establecida permiten proceder cobro crédito encuentre impugnado
@@ -4792,7 +4786,6 @@ vencido plazo proceder cobro
 crédito créditos cancelados órgano jurisdiccional nacional órgano administrativo
 cancelado título permite ejecución
 motivos redacción lengua común traducción
-
 información redacción lengua común traducción observación iniciarse indicando fecha
 INFORMACIÓN RELATIVA CRÉDITO CRÉDITOS
 Crédito créditos iniciales envió petición asistencia mutua YY MM DD
@@ -4905,7 +4898,6 @@ Bruselas mayo
 DO
 ANEXO
 Aditivos piensos pertenecientes grupo funcional aditivos ensilaje retirados mercado establece artículo
-
 Aditivos piensos pertenecientes grupo funcional aditivos ensilaje retirados respecta especies categorías animales
 Número identificación
 Aditivo
@@ -4959,7 +4951,6 @@ Sulfito sodio
 Tiosulfato sodio
 Ácido sulfúrico
 Extracto tanino madera castaño común Castanea sativa Mill CAS
-
 Aditivos piensos pertenecientes grupo funcional aditivos ensilaje retirados respecta determinadas especies categorías animales
 Hexametilentetramina
 especies bovinos ovinos porcinos aves corral conejos caballos caprinos

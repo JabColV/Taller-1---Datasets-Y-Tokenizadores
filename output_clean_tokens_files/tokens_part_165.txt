@@ -109,7 +109,6 @@ DO
 Véase nota
 Bundestagsdrucksache referencia circular Ministerio Federal Hacienda marzo BStBl
 Gesetz zur verbesserten steuerlichen Berücksichtigung von Vorsorgeaufwendungen Ley consideración fiscal cargas previsión Bürgerentlastungsgesetz Krankenversicherung julio BGBl
-
 entiende saneamiento medida destinada impedir eliminar insolvencia endeudamiento excesivo
 consiguiente entidades momento adquisición participaciones insolventes excesivamente endeudadas amenazadas insolvencia excesivo endeudamiento
 suponerse general insolvencia deudor suspende pagos
@@ -597,7 +596,6 @@ Sección IV Tratamiento arancelario favorable razón naturaleza mercancías
 Anexo Mercancías impropias consumo lista desnaturalizantes
 Anexo Certificados
 Anexo Códigos estadísticos TARIC
-
 DISPOSICIONES PRELIMINARES
 SECCIÓN
 REGLAS GENERALES
@@ -663,7 +661,6 @@ Barcos frigorífico subpartida
 barcos transporte mercancías barcos concebidos transporte mixto personas mercancías
 Barcos pesca barcos factoría barcos preparación conservación productos pesca
 Yates barcos embarcaciones recreo deporte barcas botes remo canoas
-
 Barcos vela motor auxiliar
 Barcos motor motores fueraborda
 Remolcadores barcos empujadores
@@ -824,7 +821,6 @@ st Cien unidades
 Mil unidades
 TJ Terajulios calorífico superior
 unidad suplementaria
-
 CUADRO DERECHOS
 ANIMALES VIVOS PRODUCTOS REINO ANIMAL
 Notas
@@ -1441,7 +1437,6 @@ Productos pescado crustáceos moluscos invertebrados acuáticos animales muertos
 Desperdicios pescado
 Tendones nervios recortes desperdicios similares piel bruto
 Esponjas naturales origen animal
-
 PRODUCTOS REINO VEGETAL
 sección término pellets designa productos forma cilindro bolita etc aglomerados simple presión adición aglutinante proporción inferior peso
 CAPÍTULO
@@ -1530,7 +1525,6 @@ Pepinillos
 Hortalizas vaina estén desvainadas frescas refrigeradas
 Guisantes arvejas chícharos Pisum sativum
 Judías porotos alubias frijoles fréjoles Vigna spp Phaseolus spp
-
 hortalizas frescas refrigeradas
 Espárragos
 Berenjenas
@@ -2220,7 +2214,6 @@ efectos subpartidas considerarán cocer productos hayan sometido tratamiento té
 efectos subpartidas expresión trozos aplica únicamente preparaciones conservas carne puedan identificarse dimensiones características tejido muscular coherente procedentes piernas chuleteros espinazos paletas cerdo doméstico caso
 Embutidos productos similares carne despojos sangre preparaciones alimenticias base productos
 hígado
-
 Embutidos secos untar cocer
 preparaciones conservas carne despojos sangre
 Preparaciones homogeneizadas
@@ -3140,7 +3133,6 @@ valores línea II comprendida valores líneas II destilasen volumen °C superior
 disposiciones aplican aceites presenten color diluido inferior
 Tabla correspondencia color diluido Cviscosidad
 Color
-
 Viscosidad
 viscosidad entiende viscosidad cinemática °C expresada s– norma ISO
 entenderá color diluido color presente disolución obtenida añadiendo unidad volumen producto unidades volumen xileno tolueno disolvente apropiado midiendo color norma ISO equivalente norma ASTM
@@ -3554,7 +3546,6 @@ Cincatos vanadatos
 sales ácidos peroxoácidos inorgánicos incluidos aluminosilicatos constitución química definida aziduros azidas
 Silicatos dobles complejos incluidos aluminosilicatos constitución química definida
 Sales simples dobles complejas ácidos selenio teluro
-
 Metal precioso coloidal compuestos inorgánicos orgánicos metal precioso constitución química definida amalgamas metal precioso
 Metal precioso coloidal
 Plata

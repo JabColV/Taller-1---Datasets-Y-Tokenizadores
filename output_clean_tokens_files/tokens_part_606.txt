@@ -349,9 +349,7 @@ DO
 TRADUCCIÓN
 Unión Europea Antigua República Yugoslava Macedonia participación Antigua República Yugoslava Macedonia Operación Militar gestión crisis Unión Europea Bosnia Herzegovina Operación ALTHEA
 UNIÓN EUROPEA UE
-
 ANTIGUA REPÚBLICA YUGOSLAVA MACEDONIA
-
 denominadas sucesivo Partes
 TENIENDO
 adopción Consejo Unión Europea Acción Común PESC julio Operación Militar Unión Europea Bosnia Herzegovina invitación cursada Antigua República Yugoslava Macedonia participe operación dirigida UE
@@ -425,7 +423,6 @@ Declaración Antigua República Yugoslava Macedonia
 Antigua República Yugoslava Macedonia asociarse Acción Común PESC julio Operación Militar Unión Europea Bosnia Herzegovina procurará medida permita ordenamiento jurídico interno renunciar reclamaciones participante operación gestión crisis UE lesiones muerte personal daños pérdidas material propiedad utilizado operación gestión crisis UE dichas lesiones muertes daños pérdidas
 causados personal ejercicio funciones relación operación gestión crisis UE caso negligencia grave conducta dolosa
 resultan utilización material perteneciente participantes operación gestión crisis UE material utilizado relación operación caso negligencia grave conducta dolosa personal operación gestión crisis UE utilizado
-
 Reglamento CE Comisión
 mayo
 modifican precios representativos importes derechos adicionales importación determinados productos sector azúcar fijados Reglamento CE campaña
@@ -1079,7 +1076,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -1333,18 +1329,15 @@ DO
 DO
 ANEXO
 anexo Decisión CE añaden partes siguientes
-
 disposiciones previstas aplicables emplee aparato denominado FatOMeat’er FOM II clasificación canales cerdo
 aparato versión sistema medición FatOMeat’er
 FOM II consta sonda óptica cuchilla dispositivo medición espesor distancia operativa milímetros panel recogida análisis datos Carometec Touch Panel computer Ingress Protection IP
 aparato FOM II convierte resultados mediciones contenido estimado carne magra
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor tocino dorsal incluida corteza milímetros medido perpendicularmente trasera canal cm línea media canal cuarta costillas
 espesor músculo dorsal milímetros medido tiempo lugar
 fórmula válida canales peso comprendido kilogramos peso caliente
-
 disposiciones previstas aplicables emplee aparato denominado AutoFOM III clasificación canales cerdo
 aparato equipado transductores ultrasónicos funcionen MHz Carometec distancia operativa transductores mm datos ultrasónicos incluirán mediciones espesor grasa dorsal espesor muscular parámetros conexos
 ordenador convertirá resultados mediciones porcentaje estimado carne magra
@@ -1352,7 +1345,6 @@ RP RP RP RP RP RP RP RP RP
 RP RP RP RP RP RP RP RP RP variables medidas AutoFOM III
 puntos medición describen II protocolo presentado España Comisión conformidad artículo apartado Reglamento CE Comisión
 fórmula válida canales peso comprendido kilogramos peso caliente
-
 MÉTODO MANUAL ZP
 disposiciones previstas aplicables emplee método manual ZP medido regleta clasificación canales cerdo
 aplicar método utilizarse regleta cuyas cotas determinan función ecuación predicción
@@ -2310,11 +2302,6 @@ caso correspondiente ingresos asignados resulte favor miembro declararse partida
 caso correspondiente Fondo azúcar resulte favor miembro declararse partida
 anexo III Reglamento figura modelo cuadro debían presentar miembros
 Basándose cuadros cumplimentados miembros Comisión decidir consecuencias financieras recuperación irregularidades remontan años respectivamente
-
-
-
-
-
 Reglamento CE Comisión
 agosto
 establecen valores globales importación determinación precio entrada determinadas frutas hortalizas
@@ -2600,7 +2587,6 @@ medidas previstas presente Directiva ajustan dictamen Comité permanente cadena 
 ADOPTADO PRESENTE DIRECTIVA
 Artículo
 anexo Directiva CEE columna Disposiciones específicas entrada correspondiente tetraconazol sustituye texto
-
 autorizar usos fungicida
 Artículo
 miembros adoptarán publicarán tardar marzo disposiciones legales reglamentarias administrativas necesarias cumplimiento establecido presente Directiva
@@ -2968,7 +2954,6 @@ Cuestión
 instrumentos financieros incluidas aportaciones socios características patrimonio neto derecho voto participación reparto dividendos
 instrumentos financieros otorgan tenedor derecho solicitar rescate efectivo entrega instrumento financiero pudiendo incluir sujeto rescate determinadas limitaciones
 evaluarse condiciones rescate determinar instrumentos clasificarse pasivo patrimonio neto
-
 derecho contractual tenedor instrumento financiero incluyendo aportaciones socios entidades cooperativas solicitar rescate implica clasificar citado instrumento pasivo financiero
 entidad términos condiciones instrumento financiero clasificarlo pasivo financiero patrimonio neto
 anteriores términos condiciones incluyen leyes locales aplicables reglamentos estatutos entidad vigentes fecha clasificación modificaciones esperadas dichas leyes normas reglamentarias estatutos particulares

@@ -162,7 +162,6 @@ corrección oxígeno
 kg tonelada vidrio
 emisiones masa específica aplican tonelada vidrio producido
 fórmula calcular concentración emisiones nivel oxígeno referencia véase tabla
-
 concentración emisiones corregida nivel oxígeno referencia OR
 nivel oxígeno referencia
 concentración emisiones nivel oxígeno medido OM
@@ -196,12 +195,10 @@ Vidrio envases
 Caso general
 Casos específicos
 Estudio caso caso
-
 Fibra vidrio filamento continuo
 Vidrio doméstico
 Vidrio sódicocálcico
 Casos específicos
-
 Lana mineral
 Lana vidrio
 Hornos cubilote producción lana roca
@@ -212,7 +209,6 @@ Borosilicato tubo
 Vitrocerámicas
 Vidrio iluminación sódicocálcico
 Fritas
-
 DEFINICIONES DETERMINADOS CONTAMINANTES ATMOSFÉRICOS
 fines presentes conclusiones MTD NEAMTD indicados apartados aplicables definiciones siguientes
 NOX expresados
@@ -529,8 +525,6 @@ Tabla
 NEAMTD emisiones metales horno fusión sector vidrio envases
 NEAMTD
 kg tonelada vidrio fundido
-
-
 utilizan compuestos estaño organoestánnicos titanio operaciones aplicación capas caliente MTD consiste reducir emisiones aplicando técnicas siguientes
 Minimización pérdidas producto recubrimiento garantizando sellado sistema aplicación utilizando campana extracción eficaz
 construcción sellado óptimos sistema aplicación esenciales reducir mínimo pérdidas aire producto reaccionar
@@ -614,8 +608,6 @@ Tabla
 NEAMTD emisiones metales horno fusión sector vidrio plano excepción vidrios color selenio
 NEAMTD
 kg tonelada vidrio fundido
-
-
 utilizan compuestos selenio coloración vidrio MTD consiste reducir emisiones selenio horno fusión aplicando técnicas siguientes
 Técnica
 Minimización evaporación selenio composición mezcla seleccionando materias primas eficiencia retención vidrio menor volatilización
@@ -693,8 +685,6 @@ Tabla
 NEAMTD emisiones metales horno fusión sector fibra vidrio filamento continuo
 NEAMTD
 kg tonelada vidrio fundido
-
-
 MTD consiste reducir emisiones procesos acabado aplicando técnicas siguientes
 Técnica
 Sistemas lavado húmedo
@@ -761,8 +751,6 @@ Tabla
 NEAMTD emisiones metales horno fusión sector vidrio doméstico utiliza selenio decoloración vidrio
 NEAMTD
 kg tonelada vidrio fundido
-
-
 utilizan compuestos selenio decoloración vidrio MTD consiste reducir emisiones selenio horno fusión aplicando técnicas siguientes
 Técnica
 Minimización utilización compuestos selenio formulación mezcla selección adecuada materias primas
@@ -780,7 +768,6 @@ NEAMTD emisiones plomo horno fusión sector vidrio doméstico utilizan compuesto
 NEAMTD
 kg tonelada vidrio fundido
 Compuestos plomo expresados Pb
-
 procesos acabado generen polvo MTD consiste reducir emisiones partículas metales aplicando técnicas siguientes
 Técnica
 Realización operaciones generen partículas ejemplo corte triturado pulido aplicación líquido
@@ -842,7 +829,6 @@ Tabla
 NEAMTD emisiones metales horno fusión sector vidrios especiales
 NEAMTD
 kg tonelada vidrio fundido
-
 Técnica
 Tabla
 NEAMTD emisiones partículas metales procesos posteriores sector vidrios especiales tratan separado
@@ -908,8 +894,6 @@ Tabla
 NEAMTD emisiones metales horno fusión sector lana mineral
 NEAMTD
 kg tonelada vidrio fundido
-
-
 Técnica
 Ciclones chorros impacto
 técnica basa eliminación partículas gotas gases residuales impacto choque flujos sustancias gaseosas absorción parcial agua
@@ -2594,7 +2578,6 @@ brucelosis bovina brucelosis ovina caprina melitensis definido programa
 Especifíquese unidad referencia siguientes columnas ejemplo muestra prueba animal muestreado etc
 ANEXO II
 Requisitos normalizados presentación programas nacionales control salmonelosis salmonela zoonótica mencionados artículo letra
-
 Requisitos generales programas nacionales control Salmonella
 miembro
 Objetivo programa
@@ -2634,7 +2617,6 @@ inscripción granjas registro
 existencia registros granjas
 documentos acompañar animales expidan
 medidas pertinentes faciliten trazabilidad animales
-
 Enfermedad salmonelosis animal Salmonella spp zoonótica
 Población animal cubre programa
 Años aplicación
@@ -4344,7 +4326,6 @@ fechas lote entró centro depuración salió
 operadores empresa alimentaria envíen lotes moluscos bivalvos vivos deberán cumplimentar secciones pertinentes documento registro forma resulten fáciles leer imposibles alterar
 operadores empresa alimentaria reciban lotes deberán estampar fecha sello documento recepción lote registrar fecha recepción
 operadores empresa alimentaria deberán conservar copia documento registro relativo lote enviado recibido meses expedición recepción plazo especifique autoridad competente
-
 personal recolecta moluscos bivalvos vivos pertenece centro expedición centro depuración zona reinstalación establecimiento transformación recibe moluscos bivalvos vivos
 autoridad competente única supervisa establecimientos
 necesarios documentos registro dicha autoridad competente permite
@@ -4762,7 +4743,6 @@ Grasas comestibles
 Manteca grasas refinación
 Comestibles
 refinación
-
 Manteca
 AGL ácido oleico máximo
 Peróxidos máximos
@@ -4973,9 +4953,7 @@ REINO UNIDO BRETAÑA IRLANDA NORTE
 denominados sucesivo miembros representados Consejo Unión Europea
 COMUNIDAD EUROPEA COMUNIDAD EUROPEA ENERGÍA ATÓMICA
 denominadas sucesivo Comunidades representadas Consejo Unión Europea Comisión Europea
-
 FEDERACIÓN RUSIA
-
 VISTA adhesión Unión Europea República Checa República Estonia República Chipre República Letonia República Lituania República Hungría República Malta República Polonia República Eslovenia República Eslovaca mayo
 ACORDADO
 República Checa República Estonia República Chipre República Letonia República Lituania República Hungría República Malta República Polonia República Eslovenia República Eslovaca pasan Partes Colaboración Cooperación Comunidades Europeas miembros Federación Rusia firmado Corfú junio sucesivo deberán adoptar tomar nota respectivamente miembros Comunidad textos Declaraciones conjuntas Canjes Notas Declaración Federación Rusia adjuntos Acta firmada fecha Protocolo mayo entró vigor octubre
@@ -4996,5 +4974,4 @@ textos adjuntan presente Protocolo autenticidad textos lenguas redactados Acta d
 Artículo
 presente Protocolo redacta ejemplares lenguas alemana checa danesa eslovaca eslovena española estonia finesa francesa griega húngara inglesa italiana letona lituana maltesa neerlandesa polaca portuguesa sueca rusa textos igualmente auténtico
 versiones lenguas checa eslovaca eslovena estonia húngara letona lituana maltesa polaca publicarán posteriormente Edición Especial Diario Oficial
-
 Decisión Comité Mixto EEE

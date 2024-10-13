@@ -200,13 +200,8 @@ Propiedades químicas
 período vida útil diferencia contenido indicado contenido real sustancia activa producto fitosanitario deberá superior siguientes valores
 Contenido declarado kg °C
 Tolerancia
-
 formulación homogénea
 formulación homogénea
-
-
-
-
 kg
 Propiedades físicas
 producto fitosanitario deberá cumplir criterios físicos incluida estabilidad almacén especificados tipo formulación trate Manual elaboración empleo especificaciones FAO OMS plaguicidas
@@ -759,7 +754,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -826,7 +820,6 @@ organismo intervención facilitará información necesaria características alco
 interesado obtener dirigiéndose organismo intervención trate muestras alcohol puesto venta tomadas representante organismo intervención
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos ocasionen controles contemplados apartado correrán empresas venda alcohol
@@ -2661,7 +2654,6 @@ restantes activos básicos rentables préstamos valores inmuebles recuperados pe
 cuadro presentan estructuras Citadele banka Parex banka división
 Cuadro
 Estructura accionarial división
-
 BERD
 Accionistas minoritarios
 Letonia pasos aplicar escenario goodout
@@ -2690,7 +2682,6 @@ Préstamos
 Valores
 Inversión filiales
 activos
-
 Pasivo capital
 Banco Letonia
 Entidades crédito
@@ -2702,7 +2693,6 @@ Subordinado históricos
 Subordinado
 Subordinado BERD
 pasivos
-
 Capital
 Coeficiente división incluido traspaso inversiones filial lituana AP Anlage Privatbank AG depósitos sucursal alemana
 relación Parex banka
@@ -2799,9 +2789,6 @@ Cuadro
 Medidas liquidez pública saldos pendientes finales ejercicio
 millones LVL
 base
-
-
-
 remuneración liquidez fijó Decisión rescate base Recomendaciones Banco Central Europeo octubre relativas garantías gubernamentales deudas bancarias
 plan reestructuración cálculo precios Citadele banka Parex banka determinará sumando costes financiación pública comisión suplementaria puntos básicos
 Citadele banka introducirá comisión incentivadora abril comisión incrementará trimestralmente puntos básicos acicate entidad acuda mercados busca financiación

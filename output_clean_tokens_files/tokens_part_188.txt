@@ -395,7 +395,6 @@ detección antígenos anticuerpos víricos EIA FAMA centrifugación cultivo shel
 visualización directa cultivo positivo tejido secreciones bronquiales
 seroconversión virus gripe Legionella Chlamydia
 detección antígenos orina Legionella
-
 Cultivo positivo esputo cultivo cuantitativo muestras VRI PN
 Ausencia hallazgos microbiológicos PN
 Nota
@@ -716,7 +715,6 @@ Asuntos acumulados Rec
 DO
 Directiva modificada Directiva CEE DO
 ANEXO
-
 Directiva derogada modificaciones sucesivas
 Directiva CEE Consejo
 DO
@@ -726,7 +724,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 Únicamente apartado artículo
-
 Plazos transposición Derecho interno
 contemplados artículo
 Directiva
@@ -961,7 +958,6 @@ II Vehículos categoría categoría cuya masa máxima supere toneladas respecta 
 III Inmovilizadores vehículos categoría categoría cuya masa máxima supere toneladas respecta inmovilizadores vehículos sistemas eléctricos voltios
 instalación vehículos categorías distintas cuya masa máxima supere toneladas dispositivos contemplados partes II III opcional instalen deberán cumplir totalidad disposiciones pertinentes presente Reglamento
 vehículos homologados arreglo disposiciones III IV Reglamento cumplen respectivamente II III presente Reglamento
-
 HOMOLOGACIÓN SISTEMAS ALARMA VEHÍCULOS
 DEFINICIONES
 efectos presente Reglamento entenderá
@@ -1143,7 +1139,6 @@ verificará asimismo cumplimiento requisitos punto condiciones siguientes
 Temperatura ensayo
 °C
 Voltaje ensayo
-
 Duración almacenamiento
 horas
 caso piezas instalen habitáculo maletero
@@ -1523,7 +1518,6 @@ arreglo descripción formulario comunicación homologación
 Identificación principales componentes
 Componente
 Marca
-
 Dirección completa sello fabricante
 Firma indíquese cargo
 ANEXO VII
@@ -1578,7 +1572,6 @@ ojo cerradura interruptor llave cerrado protegido penetración suciedad agua
 sistema alarma desconectará siguientes dispositivos permiten dispositivos rendimiento equivalente
 alarma activará insertar habitáculo panel vertical medidos centro ventanilla abierta puertas delanteras dirección paralelamente carretera velocidad ángulo plano longitudinal mediano vehículo véanse dibujos anexo VIII presente Reglamento
 muestras tipo sistema alarma vehículos componentes componentes principales deberá inscrita clara indeleble denominación comercial marca solicitante designación tipo componente
-
 organismo concedido homologación verificar momento métodos control conformidad aplicados planta producción frecuencia normal verificaciones años
 muestras tipo inmovilizador componentes componentes principales llevará indicada clara indeleble denominación comercial fabricante marca designación tipo componente
 mantener energía eléctrica batería vehículo nivel requerido accionar mecanismo aparato
@@ -1805,7 +1798,6 @@ República Checa Polonia
 entrada FLORA Orchidaceae Orchis mascula sustituirá texto
 Orchis mascula
 Silvestre Granja cría engorde
-
 RELACIONES EXTERIORES
 Reglamento CE Comisión enero introduce vigilancia comunitaria previa importaciones determinados productos siderúrgicos regulados Tratados CECA CE originarios determinados terceros países
 artículo artículo introducirá artículo bis
@@ -2117,7 +2109,6 @@ Número registro flota Unión número registro CICAA procede nombre buque pesque
 Clase arte pesca
 Código arte Clasificación Estadística Internacional Uniforme Artes Pesca FAO
 Infracción
-
 Clase infracción detectada
 Descripción infracción indicando disposición vulnerada
 procede indicar clase infracción grave detectada referencia número columna izquierda anexo XXX Reglamento UE
@@ -2132,7 +2123,6 @@ Multa EUR ejemplo
 Decomiso
 CAPTURA ARTE caso decomiso físico
 Importe decomisado caso valor capturas artes EUR ejemplo
-
 caso retirada licencia autorización indicar LI AU número ejemplo AU
 Puntos
 Número puntos asignados ejemplo
@@ -2931,7 +2921,6 @@ RECONOCIENDO abril Confederación Suiza Unión Europea procedimientos seguridad 
 CONSIDERANDO beneficios derivan nivel equivalente protección GNSS europeos servicios territorio Partes
 RECONOCIENDO obligaciones Partes arreglo Derecho internacional particular obligaciones Suiza permanentemente neutral
 RECONOCIENDO Reglamento CE Parlamento Europeo Consejo julio continuidad programas europeos radionavegación satélite EGNOS Galileo establece Comunidad Europea propietaria activos materiales intangibles creados desarrollados marco programas GNSS europeos definidos Reglamento CONSIDERANDO Reglamento UE Parlamento Europeo Consejo septiembre crea Agencia GNSS Europeo CONSIDERANDO Decisión UE Parlamento Europeo Consejo octubre relativa modalidades acceso servicio público regulado ofrecido sistema mundial radionavegación satélite resultante programa Galileo CONVENIDO
-
 DISPOSICIONES GENERALES
 Artículo
 Objetivo
@@ -4157,7 +4146,6 @@ Hogares
 Pequeñas empresas
 Restaurantes comedores
 Espacios públicos
-
 especifíquese
 Materiales residuos
 Código residuo Decisión CE
@@ -4488,7 +4476,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -4961,7 +4948,6 @@ Código
 importe reclamado asignado demandante procede
 deuda refiere cuestiones relativas contratos celebrados consumidores demandado consumidor caso afirmativo
 demandado domiciliado miembro cuyos órganos jurisdiccionales conocen asunto tenor artículo Reglamento CE n° Consejo caso afirmativo
-
 Intereses
 Códigos indíquese combinación número letra
 Legal Contractual Capitalización intereses

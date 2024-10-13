@@ -376,9 +376,7 @@ CICAP
 éter diclorodicloroaliloxifenilo trifluorometilpiridiloxipropilo
 julio
 junio
-
 autorizarse usos invernaderos estructura permanente
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión piridalil particular apéndices II finalizó Comité Permanente Cadena Alimentaria Sanidad Animal diciembre
 evaluación general miembros prestarán atención particular
 riesgo trabajadores volver entrar locales
@@ -446,7 +444,6 @@ Italia
 región Abruzos provincia Pescara
 región Cerdeña provincias Cagliari Nuoro Oristano Sássari
 región FriulVenecia Julia región Lacio provincias Latina Roma
-
 léase
 región FriulVenecia Julia región Lacio provincias Latina Rieti Roma Viterbo
 Decisión Ejecución Comisión
@@ -1049,7 +1046,6 @@ DO
 DO
 ANEXO
 PRODUCCIÓN PRIMARIA
-
 Requisitos aplicables empresas piensos respecta producción primaria piensos refiere apartado artículo
 Disposiciones higiene
 explotadores empresas piensos responsables producción primaria piensos deberán garantizar operaciones gestionen pongan práctica puedan prevenir eliminar reducir mínimo peligros puedan afectar seguridad piensos
@@ -1075,7 +1071,6 @@ presencia plagas enfermedades puedan afectar seguridad productos primarios
 resultados análisis efectuados muestras tomadas productos primarios muestras recogidas fines diagnóstico revistan importancia seguridad piensos
 origen cantidad entrada piensos destino cantidad salida piensos
 personas veterinarios agrónomos técnicos agrícolas asistir explotadores empresas piensos registros pertinentes actividades llevadas cabo explotación agrícola
-
 Recomendaciones guías prácticas
 caso redacten guías nacionales comunitarias contempladas capítulo III presente Reglamento contendrán orientaciones materia prácticas controlar peligros producción primaria piensos
 guías prácticas deberán incluir información apropiada peligros puedan surgir producción primaria piensos medidas controlarlos incluidas acciones pertinentes previstas disposiciones legislativas programas comunitarios nacionales tales
@@ -1864,9 +1859,7 @@ Corrección errores Reglamento CE Parlamento Europeo Consejo abril modifica Regl
 Diario Oficial Unión Europea abril
 Versión corregida Diario Oficial Unión Europea junio
 lugar firma queda corregido
-
 Estrasburgo abril
-
 Bruselas abril
 Corrección errores Reglamento CE Parlamento Europeo Consejo abril contaminantes orgánicos persistentes modifica Directiva CE
 Corrección errores Directiva CE Parlamento Europeo Consejo abril relativa derecho ciudadanos Unión miembros familias circular residir libremente territorio miembros modifica Reglamento CEE derogan Directivas CEE CEE CEE CEE CEE CEE CEE CEE CEE
@@ -3382,8 +3375,6 @@ Bruselas abril
 DO
 DO
 ANEXO
-
-
 BEUC asignadas plazas facilitar representación consumidores europeos
 Decisión CE creó efectos agosto Grupo consultivo cadena alimentaria sanidad animal vegetal
 Comisión consulta Grupo acerca programa trabajo relacionado inocuidad etiquetado presentación alimentos piensos alimentación humana relación legislación alimentaria salud bienestar animales fitosanidad torno medida tomar proponer ámbitos
@@ -3645,7 +3636,6 @@ DO
 ANEXO
 ANEXO II
 CARNE FRESCA
-
 LISTA TERCEROS PAÍSES PARTES TERCEROS PAÍSES establece certificado prohíben importaciones carne fresca especies indicadas línea correspondiente país
 Únicamente aplicable adherente convierta miembro Unión Europea
 País
@@ -3889,7 +3879,6 @@ Unidos América
 Sudáfrica
 Antigua República Yugoslava Macedonia código provisional afecta denominación definitiva atribuya país finalicen negociaciones curso Naciones Unidas
 ANEXO II
-
 Modelos certificados sanitarios
 MilkRM
 leche cruda procedente terceros países territorios incluidos columna anexo destinada centro recogida estandarización establecimiento tratamiento transformación
@@ -3913,8 +3902,6 @@ Cumplimentará firmará original certificado representante autoridad competente 
 autoridades competentes país exportador garantizarán cumplimiento principios certificación equivalentes establecidos Directiva CE
 color tinta firma tinta impresión
 norma aplicará sellos distintos troquelados filigrana
-
-
 DO Decisión cuya modificación constituye Decisión CE Comisión DO
 DO Directiva modificada Acta relativa condiciones adhesión DO
 Botsuana
@@ -4023,10 +4010,8 @@ relativa Hungría entrada correspondiente aeropuerto Budapest sustituye texto
 BudapestLiszt Ferenc Nemzetközi Repülőtér
 relativa Países Bajos entrada correspondiente puerto Maastricht sustituye texto
 Maastricht
-
 relativa Austria entrada correspondiente aeropuerto Linz sustituye texto
 Linz
-
 correspondiente Portugal suprimen entradas correspondientes puertos Peniche Setúbal
 anexo II queda modificado
 relativa Alemania queda modificada
@@ -4429,9 +4414,7 @@ CIPAC
 Bifenilol
 enero
 diciembre
-
 autorizarse usos fungicida poscosecha interiores drencher ducha cabina
-
 aplicación principios uniformes anexo VI conclusiones informe revisión fenilfenol particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal noviembre
 evaluación general miembros deberán prestar especial atención establecimiento prácticas adecuadas gestión residuos tratar solución residual resultante aplicación incluida agua limpieza sistema drencher
 miembros permitan evacuar aguas residuales red saneamiento asegurarán realiza evaluación riesgo local
@@ -4478,22 +4461,16 @@ Código producto
 Trigo morcajo tranquillón
 Trigo duro
 siembra
-
-
 escandas trigo blando morcajo tranquillón
 Trigo blando morcajo tranquillón siembra
 Centeno
 Cebada
 siembra
-
 Avena
 siembra
-
 Maíz
 siembra
-
 Sorgo grano granífero
-
 Alforfón mijo alpiste cereales
 Mijo
 Harina trigo morcajo tranquillón
@@ -4530,7 +4507,6 @@ grano
 grano
 presente relación longitud anchura superior inferior
 presente relación longitud anchura superior
-
 Arroz semiblanqueado blanqueado pulido glaseado or
 Arroz semiblanqueado
 Arroz blanqueado
@@ -4546,7 +4522,6 @@ contenido materias grasas inferior peso
 contenido grasas inferior peso contenido celulosa relación sustancia seca inferior peso
 contenido grasas superior inferior peso contenido celulosa relación sustancia seca inferior peso
 contenido grasas superior inferior peso contenido celulosa relación sustancia seca inferior peso
-
 cebada
 contenido cenizas referido sustancia seca inferior peso contenido celulosa relación sustancia seca inferior peso
 avena
@@ -4607,7 +4582,6 @@ Gluten trigo seco contenido proteínas extracto seco superior peso superior
 azúcares incluidas lactosa maltosa glucosa fructosa levulosa químicamente puras sólido jarabe azúcar adición aromatizante colorante sucedáneos miel mezclados miel natural azúcar melaza caramelizados
 Glucosa jarabe glucosa fructosa contenido fructosa producto seco inferior peso sucedáneos miel mezclados miel natural azúcar melaza caramelizados
 polvo cristalino blanco aglomerado
-
 Glucosa jarabe glucosa contenido fructosa producto seco superior inferior peso azúcar invertido miel natural azúcar melaza caramelizados
 incluido azúcar invertido azúcares jarabes azúcar contenido fructosa producto seco peso úcar invertido
 Maltodextrina jarabe maltodextrina
@@ -4615,7 +4589,6 @@ Maltodextrina forma sólido blanco aglomerado
 Azúcar melaza caramelizados
 polvo aglomerado
 Preparaciones alimenticias expresadas comprendidas
-
 Jarabes azúcar aromatizados colorantes añadidos
 glucosa maltodextrina
 Piensos compuestos base cereales
@@ -4628,7 +4601,6 @@ productos lácteos contenido productos inferior peso
 contenido productos lácteos superior inferior peso
 contenido almidón fécula superior inferior peso
 contenido almidón fécula superior
-
 incluidas premezclas
 contengan almidón fécula glucosa jarabe glucosa maltodextrina jarabe maltodextrina
 almidón fécula contenido materias inferior peso
@@ -4641,7 +4613,6 @@ peso vivo superior kg
 edad meses
 Vacas
 peso vivo superior kg
-
 especies domésticas
 peso superior kg inferior kg
 destinen matadero
@@ -4688,14 +4659,11 @@ preparaciones conservas carne despojos sangre
 especie bovina ina
 Corned beef envases herméticamente cerrados contenga carne animales especie bovina
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos cumplan condiciones establecidas Reglamento CE
-
 envases herméticamente cerrados
 contengan carne animales especie bovina
 Carne cerdo
 Animales vivos especie porcina
-
 peso inferior kg
 especies domésticas
 peso superior kg
@@ -4732,7 +4700,6 @@ Embutidos productos similares carne despojos sangre preparaciones alimenticias b
 alimenticias base productos
 Embutidos secos untar cocer
 contengan carne despojos aves corral
-
 especie porcina ne despojos aves corral
 especie porcina doméstica
 Cocida contenido carne grasa superior peso
@@ -4742,7 +4709,6 @@ Paletas trozos paleta
 envases inmediatos contenido neto superior kg
 incluidas mezclas
 contenido carne despojos clase superior peso incluidos tocino grasa naturaleza origen
-
 contengan carne despojos aves corral
 contengan producto compuesto trozos claramente reconocibles carne muscular cuyo tamaño permita determinar obtenidos piernas paletas chuleteros espinazos pequeñas partículas grasa visible pequeñas cantidades depósitos gelatina
 Carne aves
@@ -4788,7 +4754,6 @@ Secas
 usos alimentarios
 Líquidas
 congeladas
-
 Leche productos lácteos
 Leche nata crema concentrar adición azúcar edulcorante
 contenido materias grasas inferior peso corante
@@ -4817,7 +4782,6 @@ Leche nata concentradas azucaradas edulcoradas
 polvo gránulos formas sólidas contenido materias grasas inferior peso edulcorante
 adición azúcar edulcorante
 envases inmediatos contenido neto inferior kg
-
 polvo gránulos formas sólidas contenido materias grasas superior peso
 contenido materias grasas inferior peso
 envases inmediatos contenido neto inferior kg
@@ -4841,7 +4805,6 @@ Superior
 contenido materias grasas inferior peso
 superior
 Superior
-
 contenido materias grasas inferior peso
 contenido extracto seco magro lácteo superior materia grasa superior peso
 contenido materias grasas superior inferior peso
@@ -4986,7 +4949,6 @@ azúcares bruto
 envases inmediatos sobrepasen kg netos producto
 remolacha
 azúcares bruto
-
 adición aromatizantes colorantes
 Azúcares blancos
 cantidad superior toneladas

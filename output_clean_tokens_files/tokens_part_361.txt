@@ -1601,7 +1601,6 @@ ANEXO
 anexo partes sustituyen texto
 ANEXO
 ANIMALES VIVOS
-
 Lista terceros países partes terceros países País
 Código territorio
 Descripción territorio
@@ -1628,7 +1627,6 @@ BOVX BOVY RUM PORX PORY OVIX OVIY
 PM San Pedro Miquelón
 BOVX BOVY RUM OVIX OVIY CAM
 Condiciones específicas véanse notas pie página certificado
-
 paso territorio animales destinados sacrificio directo procedentes miembro destino miembro camiones precintados sello llevará número serie
 número sello deberá indicarse certificado sanitario ganado bovino porcino expedido conforme modelo establece anexo Directiva CEE Consejo junio relativa problemas policía sanitaria materia intercambios intracomunitarios animales especies bovina porcina certificado sanitario ganado ovino caprino conforme modelo anexo Directiva CEE Consejo enero relativa normas policía sanitaria regulan intercambios intracomunitarios animales especies ovina caprina
 sello deberá intacto llegada puesto inspección fronterizo designado entrada Comunidad registrarse Traces
@@ -1642,7 +1640,6 @@ restricciones geográficas
 territorio reconocido oficialmente indemne tuberculosis efectos exportación Comunidad Europea animales certificados conformidad modelo certificado RUM
 territorio reconocido oficialmente indemne brucelosis efectos exportación Comunidad Europea animales certificados conformidad modelo certificado RUM
 territorio reconocido oficialmente indemne enfermedad Aujeszky efectos exportación Comunidad Europea animales certificados conformidad modelo certificado PORX
-
 Modelos certificados veterinarios
 Modelos
 modelo certificado veterinario ganado bovino doméstico incluidas especies géneros Bubalus Bison cruces destinado cría producción importación
@@ -1780,7 +1777,6 @@ sometidos resultados negativos prueba serológica detección rinotraqueítis inf
 vacunados rinotraqueítis infecciosa bovina
 certificado corresponde ganado bovino vivo incluidas especies géneros Bubalus Bison cruces destinado cría producción
 importación animales deberán enviarse demora explotación destino permanecerán mínimo trasladados explotación caso envío matadero
-
 Casilla indicar código territorio figura anexo Decisión CEE Consejo conforme modificación
 Casilla caso centro reagrupación deberá cumplir condiciones establecidas autorización figuran anexo sección Decisión CEE Consejo
 Casilla indicar matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos transporte
@@ -1833,7 +1829,6 @@ sitio radio km registrado caso brote enfermedades mencionadas punto II
 cargados envío Comunidad Europea transporte descrito casilla carga limpiado desinfectado desinfectante oficialmente autorizado construido puedan salirse vehículo contenedor transporte heces orina yacija pienso
 certificado corresponde ganado bovino vivo incluidas especies géneros Bubalus Bison cruces destinado sacrificio inmediato
 importación animales deberán enviarse demora matadero destino deberán sacrificarse plazo laborables
-
 Casilla indicar código territorio figura anexo Decisión CEE Consejo conforme modificación
 Casilla sistema identificación animales deberán
 Casilla especie elegir Bos Bison Bubalus corresponda
@@ -1876,7 +1871,6 @@ fecha
 fecha ovinos caprinos meses edad resultados negativos
 ovinos caprinos edad inferior meses vacunados enfermedad vacuna Rev
 pruebas realizadas intervalo mínimo meses
-
 fecha ovinos caprinos vacunados meses edad
 fecha ovinos caprinos vacunados meses edad
 resultados negativos
@@ -2038,7 +2032,6 @@ abortus aglutinación suero Rosa Bengala placa plazo llegada mínimo
 ovis fijación complemento CFT plazo llegada mínimo
 melitensis aglutinación suero Rosa Bengala placa plazo llegada mínimo
 Fiebre catarral ovina enfermedad hemorrágica epizoótica
-
 prueba ELISA competitiva fiebre catarral ovina plazo llegada mínimo
 cuarentena período centro cuarentena indemne vectores fiebre catarral ovina Culicoides detectado pruebas enfermedad clínica
 Tuberculosis
@@ -2075,7 +2068,6 @@ Certificados conformes Comunidad Europea Confederación Suiza comercio productos
 Antigua República Yugoslava Macedonia código provisional prejuzga nomenclatura definitiva país acordará concluyan negociaciones lugar Naciones Unidas
 Excluido Kosovo definido Resolución Consejo Seguridad Naciones Unidas junio
 anexo II sustituye texto
-
 Modelos certificados veterinarios
 modelo certificado veterinario carne fresca incluida carne picada bovino doméstico comprendidas asimismo especies géneros Bison Bubalus cruces
 modelo certificado veterinario carne fresca incluida carne picada ovino Ovis aries caprino Capra hircus doméstico
@@ -2522,7 +2514,6 @@ DO
 DO
 DO
 ANEXO
-
 Zona protección mencionada artículo
 Código ISO país
 miembro
@@ -2530,7 +2521,6 @@ Código postal
 Nombre
 Italia
 Zona abarca municipio
-
 Zona vigilancia mencionada artículo
 Zona abarca municipios
 Decisión Órgano Vigilancia AELC

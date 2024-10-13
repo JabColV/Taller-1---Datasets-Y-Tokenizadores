@@ -309,7 +309,6 @@ Notificación certificados importación expedidos Reglamento UE
 miembro
 Aplicación artículo Reglamento UE
 Cantidades productos expedido certificados importación
-
 orden
 Categoría categorías productos
 Cantidad
@@ -1890,8 +1889,6 @@ Clordano
 Hexaclorobenceno
 Toxafeno
 Policlorobifenilos PCB
-
-
 prejuicio Directiva CE permite utilización artículos momento entrada vigor presente Reglamento
 DDT triclorobisclorofeniletano
 miembros autorizar actual producción DDT intermediario sistema cerrado limitado emplazamiento producción dicofol enero conformidad apartado artículo presente Reglamento
@@ -2623,9 +2620,7 @@ Alcance registro respecta productos requisitos procedimientos evaluación confor
 Productos
 Requisitos
 GSM
-
 WCDMA
-
 Procedimientos evaluación conformidad
 Procedimiento evaluación conformidad arreglo anexos Directiva CE Parlamento Europeo Consejo marzo equipos radioeléctricos equipos terminales telecomunicación reconocimiento mutuo conformidad modificaciones
 presente Decisión hecha duplicado firmada copresidentes
@@ -4916,7 +4911,6 @@ Certificados conformes Comunidad Europea Confederación Suiza comercio productos
 Antigua República Yugoslava Macedonia nomenclatura definitiva país acordará concluyan negociaciones lugar actualmente Naciones Unidas
 Excluido Kosovo actualmente administración internacional conformidad Resolución junio Consejo Seguridad Naciones Unidas
 ANEXO II
-
 Modelos certificados sanitarios
 MilkRM
 certificado sanitario leche cruda procedente terceros países zonas terceros países autorizados columna anexo destinada transformada Unión Europea utilizarse consumo humano
@@ -4943,7 +4937,6 @@ color firma veterinario oficial deberá utilizado texto impreso certificado sani
 norma aplicará sellos gofrados filigrana
 original certificado sanitario deberá acompañar partida puesto inspección fronterizo introducción Unión Europea
 casos modelo certificado indique tache corresponda funcionario responsable tachar rúbrica sello declaraciones pertinentes eliminar completo certificado
-
 Modelo MilkRM
 Certificado sanitario leche cruda procedente terceros países zonas terceros países autorizados columna anexo Reglamento UE destinada transformada Unión Europea utilizarse consumo humano
 Detalles relativos partida expedida
@@ -4973,7 +4966,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE

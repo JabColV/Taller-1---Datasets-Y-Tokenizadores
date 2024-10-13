@@ -2050,9 +2050,7 @@ CIPAC
 RSRSRSSRbromodiclorofeniltetrahidrofurfurilHtriazol
 febrero
 enero
-
 autorizar usos fungicida
-
 relación aplicación principios uniformes anexo VI conclusiones informe revisión bromuconazol particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal noviembre
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 seguridad operarios garantía condiciones prescriba utilización equipos protección individual adecuados conveniente
@@ -2982,7 +2980,6 @@ Zelanda
 Unidos
 Certificados arreglo Comunidad Europea Confederación Suiza comercio productos agrícolas DO
 ANEXO II
-
 Modelo certificado sanitario importación esperma animales domésticos especie porcina
 Detalles relativos partida expedida
 PAÍS
@@ -3013,7 +3010,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -3103,7 +3099,6 @@ esperma presente envío
 almacenado arreglo dispuesto anexo Directiva CEE Consejo condiciones relativas autorización supervisión centros recogida esperma envío
 transportado miembro destino frascos limpiados desinfectados esterilizados utilización sellados salir local almacenamiento autorizado
 Notas
-
 Casilla Indíquese código tercer país figura anexo Decisión CE
 Casilla diciembre lugar origen corresponderá centro recogida esperma origen esperma figura anexo III Decisión CE enero centro recogida esperma origen esperma enumerado conforme artículo apartado Directiva CEE httpcircaeuropaeuircsancovetsinfodatasemensemenhtml
 Casilla número bultos deberá corresponder número recipientes
@@ -3120,7 +3115,6 @@ Cualificación título
 Fecha
 Firma
 Sello
-
 Notas explicativas certificado
 certificado sanitario expedido autoridad competente tercer país exportador arreglo modelo anexo II
 solicite miembro destino requisitos certificación adicionales declaraciones certifiquen cumplimiento tales requisitos deberán incluirse original certificado sanitario
@@ -3288,7 +3282,6 @@ DO
 ANEXO
 Propuesta
 DECISIÓN COMITÉ CONJUNTO UEMÉXICO
-
 anexo III Decisión Consejo Conjunto UEMéxico marzo relativo definición concepto productos originarios procedimientos cooperación administrativa
 COMITÉ CONJUNTO
 Vista Decisión Consejo Conjunto UEMéxico marzo sucesivo denominada Decisión particular notas apéndice II anexo III relativo definición concepto productos originarios procedimientos cooperación administrativa Declaración Conjunta dicha Decisión
@@ -3383,7 +3376,6 @@ DO
 DO
 ANEXO
 ANEXO II
-
 Información incluirse informe anual previsto artículo apartado Reglamento CEE
 Gestión Reglamento CEE
 suministrará información relativa gestión Reglamento CEE incluyendo cambios registrados entidades responsables controles departamento específicamente responsable supervisar aplicación Reglamento arreglo artículo competencias dichas entidades
@@ -3427,7 +3419,6 @@ II
 HOJA
 INFORME CONTROL PERÍODO
 Artículo Reglamento CEE
-
 Número empresas debía controlar
 Organismo control
 Número empresas debía controlar
@@ -3597,7 +3588,6 @@ concederá especial atención posibilidad emprender acciones conjuntas arreglo d
 Dificultades sugerencia mejoras
 comunicarán dificultades hayan surgido medidas adoptadas propuestas subsanarlas
 caso sugerirán mejoras
-
 Decisión Banco Central Europeo
 mayo
 medidas temporales relativas admisibilidad instrumentos renta fija negociables emitidos garantizados griego
@@ -3931,7 +3921,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -4005,7 +3994,6 @@ recogió posterioridad fecha centro autorizado autoridad competente país export
 trató almacenó transportó condiciones ajustan dispuesto capítulo III anexo Directiva CEE
 II cumple requisitos anexo VIII capítulo Reglamento CE
 II cumple requisitos anexo VIII capítulo sección Reglamento CE destinado miembro beneficia totalidad territorio dispuesto anexo VIII capítulo sección letras Reglamento CE animales donantes cumplen relación tembladera garantías contempladas programas citados dichas letras garantías exigidas miembros UE destino
-
 Casilla indicar código territorio figura anexo Decisión CE
 Casilla lugar origen deberá corresponder centro recogida esperma procede CE
 Casilla número envases deberá corresponder número contenedores

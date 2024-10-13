@@ -162,7 +162,6 @@ registro ICCAT
 OMI
 Identificación externa
 hoja cuaderno pesca
-
 Mes
 Hora
 Año
@@ -505,7 +504,6 @@ Cuadro
 Número explotaciones objeto muestreo categoría aves corral explotaciones pavos patos gansos
 Número explotaciones categoría aves corral miembro
 Número explotaciones figurar muestra
-
 Cuadro
 Número explotaciones pavos patos gansos objeto muestreo
 Número explotaciones miembro
@@ -575,8 +573,6 @@ lista exhaustiva sirve identificar especies migratorias plantear riesgo introduc
 actualizará permanentemente función resultados estudios científicos vayan conociéndose
 DO
 Decisión modificada Decisión CE DO
-
-
 miembros comunicarán meses Comisión muestras positivas detectadas vigilancia aves corral silvestres perjuicio obligación miembros establecida correspondiente legislación comunitaria notificar inmediatamente Comisión casos gripe aviar altamente patogénica independencia hospedador
 Decisión Ejecución Comisión
 diciembre
@@ -1120,7 +1116,6 @@ Diario Oficial Unión Europea octubre
 página considerando
 desarrollo productos procesos tecnologías relacionados productos incluidos anexo Tratado productos pesca productos forestales página artículo apartado letra
 Tratado elaboración política agrícola común métodos especiales aplicación características singulares actividad agrícola resultan estructura social agricultura desigualdades estructurales naturales distintas zonas rurales
-
 transformación comercialización productos enumerados anexo Tratado productos pesca productos forestales página artículo apartado letra guion
 desarrollo productos procesos tecnologías relacionados productos incluidos anexo Tratado productos pesca productos forestales
 beneficiarán ayuda inversiones efectuadas microempresas refiere apartado destinadas cumplimiento norma comunitaria
@@ -1662,21 +1657,13 @@ DESGLOSE PRESUPUESTO GLOBAL
 Desglose indicativo presupuesto anual Programa
 Porcentaje presupuesto
 Capítulo apoyo acciones culturales
-
 proyectos plurianuales cooperación
-
 acciones cooperación
-
 acciones especiales
-
 Capítulo apoyo organismos activos ámbito cultura
-
 Capítulo apoyo análisis recopilación difusión información
-
 gastos operativos
-
 Gestión Programa
-
 porcentajes indicativos susceptibles alterados Comité establecido artículo conformidad procedimiento refiere apartado artículo
 DO
 DO
@@ -3238,7 +3225,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Transportista
 miembro
@@ -3289,7 +3275,6 @@ partida consiste aves corral vivas pollitos huevos incubar procedentes explotaci
 partida cumple condiciones zoosanitarias establecidas Decisión CE Comisión
 partida cumple condiciones zoosanitarias establecidas Decisión CE Comisión
 Notas
-
 Casilla Matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos
 Casilla Categoría seleccionar siguientes línea pura abuelos padres pollitas ponedoras engorde
 Identificaciόn indicar datos identificación manada origen marca comercial
@@ -3605,7 +3590,6 @@ Maíz superficie básica separada
 cultivos figura anexo IX Reglamento CE
 Retirada voluntaria artículo apartado
 Cultivos herbáceos declarados superficies forrajeras respecta primas ganado vacuno ovino
-
 ANEXO IV
 ANEXO XI
 refiere artículo apartado letra inciso iv
@@ -4535,7 +4519,6 @@ ESPECIFICACIONES PARTICULARES
 Presencia
 Facultativo
 Número
-
 Esquema montaje
 especificación particular
 Emplazamiento
@@ -4547,7 +4530,6 @@ delantera tractor caso luz emitida deberá causar molestias conductor directa in
 Visibilidad geométrica
 visibilidad superficie iluminante incluidas zonas aparezcan iluminadas dirección observación considerada quedará garantizada interior espacio divergente delimitado generatrices apoyan perímetro zona iluminante forman ángulo mínimo eje referencia faro
 Orientación
-
 Aparte dispositivos necesarios mantener regulación correcta pares luces carretera constituido faros tengan únicamente función luz carretera moverse función ángulo giro dirección produciéndose rotación eje vertical
 agrupado
 luz cruce luces delanteras
@@ -4565,7 +4547,6 @@ prescripciones
 intensidad máxima conjunto carretera encenderse tiempo deberá sobrepasar cd
 Dicha intensidad máxima obtendrá sumando intensidades máximas individuales medida momento homologación tipo indicadas certificados homologación pertinentes
 Luz cruce
-
 altura suelo
 montadas luces cruce
 mínimo mm
@@ -4598,7 +4579,6 @@ luces carretera muevan función giro dirección existan luces carretera
 luz posición delantera
 luces delanteras antiniebla encenderse apagarse independientemente luces carretera cruce viceversa
 Luz marcha atrás
-
 mm mínimo mm máximo suelo
 trasera tractor
 abajo
@@ -4807,7 +4787,6 @@ observaciones
 Adjuntar esquemas tractor indica punto anexo Directiva CE Parlamento Europeo Consejo julio relativa instalación dispositivos alumbrado señalización luminosa tractores agrícolas forestales ruedas
 Táchese proceda
 ANEXO III
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -4822,7 +4801,6 @@ DO
 Directiva CE Comisión
 DO
 Únicamente respecta referencias hechas artículo anexo III Directiva CEE
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición

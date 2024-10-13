@@ -1564,29 +1564,6 @@ Tipo elemento clasificación ClassificationItemTypeValue
 Valores codificados elementos clasificación
 Edad lustros AgeByYearsValue Valores codificados elemento clasificación lustro especifica cuadro figura continuación
 Valores lista controlada AgeByYears
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Edad años AgeByYearValue Valores codificados elemento clasificación año prevé valor intervalo año
 valor etiqueta definición año valor etiqueta definición años
 Código NACE NACECodeValue Clasificación actividades económicas NACE Eurostat establece Reglamento CE Parlamento Europeo Consejo valores específicos definidos proveedores datos
@@ -1888,7 +1865,6 @@ político
 Relativo cuestiones políticas
 económico
 Relativo propiedad economía cuestiones monetarias
-
 sujeto propiedad casa
 infraestructura
 actividad económica
@@ -3978,7 +3954,6 @@ Pureza
 Humedad
 método Karl Fischer
 Cenizas sulfatadas
-
 Aldehídos
 formaldehído
 Arsénico
@@ -4036,7 +4011,6 @@ oC oC
 Pruebas positivas sublimación benzoato
 secarse horas ácido sulfúrico
 solución agua
-
 Compuestos orgánicos clorados
 expresado cloruro corresponde expresado ácido monoclorobenzoico
 Sustancias fácilmente oxidables
@@ -4087,7 +4061,6 @@ Cristales blancos incoloros polvo blanco
 Pruebas positivas benzoato calcio
 determinado secado oC peso constante
 Materia hidrosoluble
-
 corresponde expresado ácido monoclorobenzoico
 solución fría ácido benzoico ml ácido sulfúrico mostrar color fuerte líquido referencia contenga ml cloruro cobalto STC ml cloruro férrico STC ml sulfato cobre STC ml agua
 acidificación fraccionada solución neutralizada benzoato sodio precipitado intervalo fusión ácido benzoico
@@ -4139,9 +4112,7 @@ Contenido inferior
 Gas incoloro inflamable olor asfixiante acre fuerte
 Prueba positiva sustancias sulfurosas
 Residuo fijo
-
 Trióxido azufre
-
 Selenio
 gases ausentes normalmente aire
 indicio
@@ -4264,7 +4235,6 @@ solución mezcla previamente neutralizada partes dimetilformamida partes agua
 rotatorio específico
 αD solución ácido acético glacial oC calculado material secado
 PO vacío oC peso constante
-
 Criterios microbiológicos recuento viable
 gramo
 HEXAMETILENTETRAMINA
@@ -4303,7 +4273,6 @@ Contenido inferior expresado sustancia anhidra
 Gránulos blancos ligeramente amarillos delicuescentes
 Pruebas positivas nitrito potasio
 pH solución
-
 secarse horas gel sílice
 NITRITO SÓDICO
 Definición
@@ -4321,7 +4290,6 @@ Contenido inferior secarse
 Polvo cristalino blanco ligeramente higroscópico
 Pruebas positivas nitrato sodio
 pH solución
-
 secarse oC horas
 Nitritos
 mg kg expresados NaNO
@@ -4330,7 +4298,6 @@ nitrato sódico líquido solución acuosa nitrato sódico resultado directo reac
 formas normalizadas preparadas nitrato sódico líquido cumplan especificaciones contener ácido nítrico cantidades condición indique etiquete claramente
 Contenido NaNO
 Líquido incoloro
-
 Ácido nítrico libre
 mg kg expresados NaNO
 mg kg
@@ -4339,7 +4306,6 @@ NITRATO POTÁSICO
 Nitrato potasio
 Polvo cristalino blanco prismas transparentes sabor refrescante salino acre
 Pruebas positivas nitrato potasio
-
 secarse oC horas
 mg kg expresado KNO
 ÁCIDO ACÉTICO
@@ -4348,7 +4314,6 @@ mg kg expresado KNO
 Líquido incoloro olor acre característico
 oC mm presión mercurio
 Peso específico
-
 solución tercio resultado positivo pruebas acetato
 Punto solidificación
 inferior oC
@@ -4359,7 +4324,6 @@ ACETATO POTASIO
 Acetato potasio
 Cristales incoloros delicuescentes polvo cristalino blanco inodoro olor acético débil
 pH solución acuosa
-
 Pruebas positivas acetato potasio
 secarse oC horas
 ACETATO SODIO
@@ -4370,7 +4334,6 @@ polvo blanco inodoro granular higroscópico
 cristales incoloros transparentes polvo cristalino granular inodoro débil olor acético
 Eflorescente aire caliente seco
 pH solución acuosa
-
 Pruebas positivas acetato sodio
 oC
 oC
@@ -4382,7 +4345,6 @@ anhidro
 ácido acético libre acetato sodio
 Sólido cristalino blanco higroscópico olor acético
 pH solución acuosa
-
 método Karl Fischer
 ACETATO CALCIO
 Acetato calcio
@@ -4403,7 +4365,6 @@ Nota
 Resultado positivo pruebas detección lactato
 Cloruro
 Sulfato
-
 especificación refiere solución acuosa soluciones acuosas concentradas calcularán valores correspondan contenido ácido láctico
 ÁCIDO PROPIÓNICO
 Ácido propiónico
@@ -4420,7 +4381,6 @@ Propanoato sodio
 Contenido inferior secarse horas oC
 Polvo higroscópico cristalino blanco polvo blanco fino
 Pruebas positivas propionato sodio
-
 determinado secado horas oC
 Sustancias insolubles agua
 mg kg
@@ -4428,7 +4388,6 @@ PROPIONATO CÁLCICO
 Propionato calcio
 Contenido inferior secarse horas oC
 Pruebas positivas propionato calcio
-
 determinado secado horas oC
 PROPIONATO POTÁSICO
 Propionato potasio
@@ -4480,7 +4439,6 @@ Intervalo fusión oC
 Prueba positiva malato
 soluciones sustancia ópticamente inactivas concentraciones
 Ácido fumárico
-
 Ácido maleico
 ÁCIDO FUMÁRICO
 Ácido transbutenedioico ácido transetilenodicarboxílico
@@ -4502,7 +4460,6 @@ Resultado positivo pruebas detección ácido ascórbico
 desecarse vacío ácido sulfúrico
 αD solución acuosa
 pH solución acuosa
-
 ASCORBATO SÓDICO
 Ascorbato sodio
 LAscorbato sodio
@@ -4514,7 +4471,6 @@ Resultado positivo pruebas detección ascorbato sodio
 desecar vacío ácido sulfúrico
 αD solución acuosa
 pH solución acuosa
-
 ASCORBATO CÁLCICO
 Ascorbato calcio dihidrato
 Sal cálcico dideshidroLtreohexonolactona dihidrato
@@ -4524,7 +4480,6 @@ Polvo cristalino inodoro blanco ligeramente amarillo grisáceo pálido
 Resultado positivo pruebas detección ascorbato calcio
 mg kg flúor
 αD solución acuosa
-
 Sustancias volátiles
 determinado desecación temperatura ambiente desecador ácido sulfúrico pentóxido fósforo
 PALMITATO ASCORBILO
@@ -4541,7 +4496,6 @@ Estearato ascorbilo
 Estearato Lascorbilo
 DideshidroLtreohexonolactonaestearato
 EstearoílcetoLgulofuranolactona
-
 Sólido blanco amarillento olor limón
 oC
 desecación estufa vacío oC oC
@@ -4676,7 +4630,6 @@ Insoluble agua propanodiol
 Totalmente soluble etanol
 Máximo absorbencia
 absorción gama nm espesor cm solución etanol deshidratado presenta máximo nm
-
 Absorción específica cm
 nm
 LECITINAS
@@ -4738,7 +4691,6 @@ moléculas agua
 moléculas agua
 materia seca expresada ácido láctico
 mg kg flúor
-
 ÁCIDO CÍTRICO
 Ácido cítrico
 Ácido hidroxipropanotricarboxílico
@@ -4771,13 +4723,11 @@ Determinada desecación oC
 anhidro
 monohidrato
 mg kg expresados ácido oxálico previa desecación
-
 ii CITRATO DISÓDICO
 Citrato disódico
 Sal disódica ácido hidroxipropanotricarboxílico
 Sal disódica ácido cítrico moléculas agua
 desecación oC
-
 iii CITRATO TRISÓDICO
 Citrato trisódico
 Citrato tribásico sodio
@@ -4788,12 +4738,8 @@ CHONa·nHO
 anhidro
 Contenido inferior sustancia anhidra
 anhidra
-
 dihidrato
-
 pentahidrato
-
-
 CITRATO MONOPOTÁSICO
 Citrato monopotásico
 Sal monopotásica ácido hidroxipropanotricarboxílico
@@ -4815,7 +4761,6 @@ Contenido inferior sustancia anhidra
 Polvo blanco fino
 Resultado positivo pruebas detección citrato calcio
 desecación oC
-
 Carbonatos
 disolución citrato calcio ml ácido clorhídrico deberá desprender burbujas aisladas
 ii CITRATO DICÁLCICO
@@ -4857,7 +4802,6 @@ Cristales incoloros transparentes
 gramo insoluble ml agua
 Insoluble etanol
 desecación oC
-
 TARTRATO MONOPOTÁSICO
 Tartrato monobásico potasio
 Sal monopotásica anhidra ácido Ltartárico
@@ -4869,7 +4813,6 @@ ii TARTRATO DIPOTÁSICO
 Tartrato dibásico potasio
 Sal dipotásica ácido Ldihidroxibutanodioico
 Sal dipotásica ácido Ltartárico moléculas agua
-
 desecación oC
 TARTRATO DOBLE SODIO POTASIO
 LTartrato sodio potasio
@@ -4882,7 +4825,6 @@ gramo soluble ml agua insoluble etanol
 oC oC
 desecación oC
 pH solución acuosa
-
 ÁCIDO FOSFÓRICO
 Ácido fosfórico
 ácido fosfórico vende solución acuosa diversas concentraciones
@@ -4917,7 +4859,6 @@ Resultado positivo pruebas detección sodio fosfato
 Totalmente soluble agua
 Insoluble etanol éter
 pH solución
-
 sal anhidra pierde monohidrato dihidrato secarse oC hora oC horas
 sustancia anhidra
 ii FOSFATO DISÓDICO
@@ -4934,7 +4875,6 @@ Contenido inferior NaHPO desecar oC horas oC horas
 sustancia anhidra
 fosfato disódico hidrógeno anhidro polvo inodoro higroscópico blanco
 formas hidratadas disponibles dihidrato sólido inodoro cristalino blanco heptahidrato polvo granuloso cristales eflorescentes inodoros blancos dodecahidrato polvo cristales inodoros eflorescentes blancos
-
 anhidro pierde dihidrato heptahidrato dodecahidrato secarse oC horas oC horas
 iii FOSFATO TRISÓDICO
 Fosfato sódico
@@ -4952,7 +4892,6 @@ fosfato sódico anhidro formas hidratadas dodecahidrato contienen NaPO sustancia
 fosfato sódico dodecahidrato contiene NaPO sustancia calcinada
 sustancia anhidra
 Cristales gránulos polvo cristalino inodoros blancos
-
 Pérdida combustión
 anhidro pierde monohidrato dodecahidrato peso secarse oC horas calcinarse oC minutos
 Sustancias insolubles agua
@@ -4967,7 +4906,6 @@ Contenido inferior desecar oC horas
 sustancia anhidra
 Cristales inodoros incoloros polvo granular cristalino blanco higroscópicos
 Resultado positivo pruebas detección potasio fosfato
-
 desecarse oC horas
 ii FOSFATO DIPOTÁSICO
 Monofosfato dipotásico
@@ -4979,7 +4917,6 @@ Ortofosfato dipotásico hidrógeno
 Contenido inferior desecar oC horas
 sustancia anhidra
 Polvo granular cristales masas incoloros blancos sustancia delicuescente
-
 Fosfato potásico
 Fosfato tribásico potásico
 Ortofosfato tripotásico
@@ -4992,7 +4929,6 @@ Contenido inferior sustancia calcinada
 sustancia calcinada
 Cristales gránulos incoloros blancos inodoros higroscópicos
 formas hidratadas disponibles mono trihidrato
-
 FOSFATO MONOCÁLCICO
 Fosfato monobásico cálcico
 Ortofosfato monocálcico

@@ -3288,7 +3288,6 @@ Reglamento CE Comisión agosto DO
 DO
 Suiza plazo enero introducir medidas necesarias cumplir disposiciones Reglamento
 pertinentes referencias sistema compensación centralizado disposiciones relacionadas
-
 Reglamento CE Comisión
 noviembre
 relativo autorización preparado enzimático endobetaxilanasa producida Aspergillus niger CBS aditivo alimentación pollos engorde autorización preparado aditivo alimentación patos titular autorización BASF modifica Reglamento CE
@@ -3685,7 +3684,6 @@ masa orden marcha vehículo cargas eje correspondientes
 masa efectiva vehículo cargas eje correspondientes
 totalidad datos información necesarios evaluar criterios caso grupo tipos vehículo
 valor energía referencia ER resultado multiplicar masa vehículo constante gravedad altura centro gravedad vehículo posición equilibrio inestable inicio ensayo vuelco véase figura
-
 Mk masa orden marcha tipo vehículo equipado retenciones ocupante
 Mt masa efectiva vehículo equipado retenciones ocupante
 Mk Mm

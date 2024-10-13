@@ -690,8 +690,6 @@ fecha sometieron análisis laboratorio fecha
 nombre laboratorio
 adjuntan detalles muestreo métodos análisis utilizados resultados
 presente certificado válido
-
-
 Sello firma representante autorizado autoridad competente contemplada artículo apartado Reglamento Ejecución UE
 Producto país origen
 ANEXO III
@@ -928,7 +926,6 @@ presente Decisión publicará Diario Oficial Unión Europea
 Bruselas noviembre
 Consejo
 Presidente
-
 Comunidad Europea Principado Liechtenstein relativo establecimiento medidas equivalentes previstas Directiva CE Consejo materia fiscalidad rendimientos ahorro forma pago intereses
 COMUNIDAD EUROPEA sucesivo denominada Comunidad
 PRINCIPADO LIECHTENSTEIN sucesivo denominado Liechtenstein
@@ -2139,7 +2136,6 @@ Bielorrusia Kirguistán Turquía
 Columbia Británica
 Azerbaiyán Moldavia Ucrania
 Kazajstán
-
 Ecuador Perú
 Especímenes especies incluidas anexo Reglamento CE cuya introducción Comunidad queda suspendida
 República Centroafricana Gabón
@@ -2177,7 +2173,6 @@ Argelia
 Hexaprotodon liberiensis sinónimo Choeropsis liberiensis
 Costa Marfil Guinea GuineaBissau Nigeria Sierra Leona
 República Democrática Congo Gambia Liberia Malawi Níger Nigeria Ruanda Sierra Leona Togo
-
 especímenes censo registrado Argentina Secretaría confirme licencias miembro importador acepte productos obtenidos esquileo animales vivos conforme programa gestión aprobado debidamente marcados registrados
 exportaciones comerciales cantidades limitadas kg anuales lana pruebas industriales
 China Rusia
@@ -2232,7 +2227,6 @@ México Unidos
 Varanus jobiensis sinónimo karlschmidti
 China India Singapur
 India Malasia Peninsular Singapur
-
 especímenes reservas pieles marcadas registradas adquiridas septiembre secretaría CITES confirmado validez licencia indonesia exportación
 Laos
 Caledonia
@@ -4105,7 +4099,6 @@ velar observancia disposiciones nacionales adoptadas cumplimiento dicha Directiv
 aplicación Directiva CE colaboran autoridades indíquense medidas tomadas garantizar aplicación uniforme Directiva territorio
 Programa control artículo Directiva CE
 adjuntó ejemplar programa nacional control informe
-
 introducido modificaciones programa control período referencia
 caso exista versión escrita programa control adjuntado programa control programa control revisado informe adjúntese ejemplar programa control revisado anexo presente informe
 caso adjuntado versión escrita programa control descríbase brevemente programa especial referencia siguientes aspectos
@@ -4124,7 +4117,6 @@ Fabricantes Importadores Mayoristas Minoristas
 especifíquense
 medida estímese cantidad productos peso volumen comercializados ámbito aplicación Directiva CE
 Estímese cuota mercado previsto inspeccionar marco programa control año determinado referencia cantidad productos comercializados
-
 inspecciones consisten general posibles respuestas
 visitas terreno previo aviso operador
 visitas terreno notificación previa operador
@@ -4153,7 +4145,6 @@ información consignada cuadros corresponde estimación cuota mercado estimada c
 Cuadro
 Complétese cuadro instalaciones procedido inspecciones contenido etiquetado COV
 Cuadro
-
 Número instalaciones controlado contenido etiquetado COV
 Número instalaciones controlado contenido COV
 Número instalaciones controlado etiquetado
@@ -4292,8 +4283,6 @@ partida aplica dispositivos portátiles individuales contengan sustancia químic
 Vanillilamida ácido pelargónico PAVA CAS
 Oleorresina Capsicum OC CAS
 Productos utilizarse ejecución seres humanos inyección letal indica
-
-
 Agentes anestésicos barbitúricos acción corta intermedia incluyan limitarse
 amobarbital CAS
 sal sódica amobarbital CAS
@@ -4653,7 +4642,6 @@ Tipo carretera
 Autopista
 Carretera nacional
 Carretera secundaria
-
 Número vehículos inmovilizados control carretera tipo tacógrafo
 Tipo tacógrafo
 Analógico
@@ -4697,7 +4685,6 @@ Número empresas conductores controlados locales tamaño parque empresa
 Tamaño parque
 Número empresas controladas
 Número infracciones detectadas
-
 CAPACIDAD EJECUCIÓN NACIONAL
 Número agentes participan controles carretera locales
 Número agentes control reciben formación permite analizar datos tacógrafos digitales carretera locales empresas
@@ -4774,7 +4761,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4788,7 +4774,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4802,7 +4787,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 Peras nashi Pyrus pyrifolia
 Peras Pyrus bretscheri

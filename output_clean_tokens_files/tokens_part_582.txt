@@ -38,7 +38,6 @@ máquinas aparatos plásticos
 máquinas aparatos materiales
 Mandriles pinzas manguitos
 Portaútiles tornos
-
 Cabezales roscar retractables automáticamente
 Portapiezas montajes mecanizado conjuntos componentes estándar
 Portapiezas tornos
@@ -1462,16 +1461,13 @@ DO
 Reglamento modificado Reglamento CE DO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES PORCINO ESLOVENIA
-
 clasificación canales porcino llevará cabo método denominado ZweiPunkt DM ZP
 contenido carne magra canal calculará aplicando fórmula
-
 porcentaje estimado carne magra canal
 espesor visible músculo lumbar línea media canal milímetros medido distancia corta extremo craneal músculo lumbar borde superior dorsal canal raquídeo
 espesor mínimo grasa dorsal incluida piel visible línea media canal milímetros recubre músculo lumbar Musculus glutaeus medius
 peso caliente canal kilogramos
 fórmula válida canales cuyo peso oscile kilogramos
-
 clasificación canales porcino efectuará aparato denominado Sonda Hennessy HGP
 aparato llevará incorporada sonda diámetro milímetros milímetros hoja situada superior sonda provista fotodiodo Siemens LED tipo LYU EO fotodetector tipo MR distancia operativa milímetros
 resultados mediciones convertirán contenido estimado carne magra sonda HGP ordenador conectado
@@ -1554,10 +1550,6 @@ Productos concede ayuda
 Importe ayuda correspondiente periodo almacenamiento
 euros toneladas
 Deducción
-
-
-
-
 Diaria
 Categoría
 Medias canales presentadas pata delantera rabo riñón diafragma médula espinal
@@ -1917,7 +1909,6 @@ Naranjas
 Limones
 Limas
 Mandarinas
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -2215,7 +2206,6 @@ Grupos tipos productos individuales aplican contenidos máximos residuos
 Permetrin suma isómeros
 Profam
 anexo III queda modificado
-
 líneas relativas acequinocilo acrinatrina amidosulfurón beflubutamida boscalid ión bromuro buprofecina clordecona cloridazona clortaldimetil cletodim clopiralida cimoxanilo ciproconazol ciprodinilo difenoconazol diflubenzurón dimetomorf dimoxistrobina dinocap ditianona epoxiconazol espinosad espirodiclofeno espiromesifeno fenazaquina fenbuconazol fenpiroximato fipronil fluacifoppbutil fludioxonil fluoxastrobina flusilazol fosalón fosetilal fosmet imidacloprid lufenurón mepiquat metazacloro metiocarb picloram pirimicarb propamocarb propaquizafop prosulfocarb protioconazol piridabén piriproxifén quizalofop simacina tebuconazol tebufenpirad teflubenzurón tetraconazol tiametoxam tolclofosmetil triflumizol triflumurón sustituyen siguientes
 Grupos tipos productos individuales aplican límites máximos residuos
 Acequinocilo
@@ -2274,7 +2264,6 @@ Espirotetramat metabolitos BYIenol BYIketohidroxi BYImonohidroxi BYI enolglucosi
 Fluoruro sulforilo
 Topramezona BAS
 Valifenal
-
 líneas relativas acefato azinfosmetil clorpirifos clorpirifosmetil ciflutrina cipermetrina diazinón diclorvós dicofol dimetoato endosulfán etión fenitrotión fluroxipir forato indoxarcarbo metalaxil metamidofós paratión paratiónmetil pimetrozina piraclostrobina pirimifósmetil quintoceno triacloprid trifloxistrobina sustituyen siguientes
 Grupos tipos productos individuales aplican límites máximos residuos
 Acinfosmetilo
@@ -2507,9 +2496,7 @@ código ZZ significa orígenes
 Corrección errores Reglamento CE Consejo abril establece organización común mercado vitivinícola modifican Reglamentos CE CE CE CE derogan Reglamentos CEE CE
 Diario Oficial Unión Europea junio página artículo apartado letra inciso ii ii miembros darán prioridad solicitantes tengan años dispone miembro ii miembros darán prioridad lugar solicitantes tengan años edad superior disponen miembros
 página artículo apartado
-
 Reglamento CE capítulos II título título VI artículos
-
 Reglamento CEE capítulos II título título VI artículos
 Reglamento CE Consejo diciembre
 Corrección errores Reglamento CE Consejo diciembre crea Empresa Común ejecución iniciativa tecnológica conjunta medicamentos innovadores
@@ -4105,9 +4092,7 @@ Directiva CEE Consejo julio relativa comercialización productos fitosanitarios 
 Reglamento Ejecución UE Comisión mayo establecen disposiciones aplicación Reglamento CE Parlamento Europeo Consejo respecta lista sustancias activas aprobadas DO
 ANEXO
 columna Disposiciones específicas fila correspondiente bifenox figura anexo Reglamento Ejecución UE sustituye texto
-
 autorizarse usos herbicida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión bifenox particular apéndices II ultimó Comité Permanente Cadena Alimentaria Sanidad Animal marzo
 evaluación general miembros deberán prestar especial atención
 seguridad operarios velar condiciones exija utilización equipos protección individual adecuados conveniente
@@ -4682,8 +4667,6 @@ Confírmese márquense casillas correspondientes
 resolución firme
 autoridad expide certificado conocimiento ejecución dictado resolución persona hechos ejecutado resolución tipo dictada distinto emisión ejecución
 Señálese caso objeto procedimiento escrito
-
-
 confirma legislación emisión notificado interesado personalmente representante competente arreglo legislación nacional derecho impugnar resolución plazos ejercer derecho
 Señálese interesado compareció personalmente vista
 compareció
@@ -4695,7 +4678,6 @@ Pago parcial sanción
 abonado sanción emisión consta autoridad emita Certificado pagado indíquese importe abonado
 Sanciones alternativas incluidas penas privativas libertad
 Indicar emisión permite aplicación ejecución sanciones alternativas caso ejecutar resolución sancionadora parcialmente
-
 caso afirmativo indicar sanciones aplicar naturaleza grado máximo
 circunstancias relacionadas caso información facultativa
 adjunta certificado texto resolución imposición sanción pecuniaria
@@ -4822,7 +4804,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -4932,7 +4913,6 @@ miembro destino
 cerradas siguiendo instrucciones autoridad competente imposible sustituir contenido
 contenedores vehículos transportado cajas mencionadas limpiado desinfectado carga siguiendo instrucciones autoridad competente
 Notas
-
 Casilla indicar código zona compartimento origen necesario código columna anexo Reglamento CE
 Casilla nombre dirección número autorización incubadorasnacedoras establecimiento reproducción
 Casilla indicar matrícula vagones camiones nombre buques conoce número vuelo aviones

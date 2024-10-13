@@ -2192,7 +2192,6 @@ leche desnatada polvo embalará sacos peso neto kilogramos cumplan condiciones p
 página anexo punto
 Cálculo depreciación
 depreciación expresada euros aplicable precio referencia calculará fórmula
-
 página anexo nota letras
 diferencia expresada porcentaje energía metabolizable volátil sorgo contenido taninos sorgo contenido taninos conforme calidad tipo
 depreciación corresponde contenido taninos referido materia seca superior
@@ -2409,7 +2408,6 @@ apéndice puntos sustituyen texto
 CÁLCULO CANTIDAD GASES CONTAMINANTES EMITIDOS
 masas CO gases contaminantes CO HC NOx determinarán separado bolsas conformidad puntos
 masa monóxido carbono emitido ensayo determinará fórmula
-
 COm masa monóxido carbono emitido ensayo expresada km calculada separado fase
 SX distancia realmente recorrida km obtiene multiplicando número vueltas leídas cuentarrevoluciones circunferencia rodillo
 fase frío
@@ -2464,7 +2462,6 @@ Presentación resultados
 resultado fase frío denomina RX fase caliente RX
 Utilizando resultados emisiones resultado ensayo tipo RX km calculará ecuación
 km
-
 HC CO NOx CO
 RHCFrío HCmasafase frío RHCCaliente HCmasafase caliente véase fórmula punto
 RCOFrío COmasafase frío RCOCaliente COmasafase caliente véase fórmula punto
@@ -2940,7 +2937,6 @@ Ejecución
 miembros velarán existan medios adecuados eficaces luchar prácticas comerciales desleales miras cumplimiento disposiciones presente Directiva interés consumidores
 medios deberán incluir disposiciones legales virtud personas organizaciones tengan arreglo legislación nacional interés legítimo combatir prácticas comerciales desleales incluidos competidores puedan
 proceder judicialmente tales prácticas comerciales desleales
-
 someter prácticas comerciales desleales órgano administrativo competente pronuncie reclamaciones entable acciones judiciales pertinentes
 Corresponderá miembro decidir procedimientos adoptará conviene tribunal órgano administrativo esté facultado exigir recurso previo vías establecidas solución reclamaciones incluidas mencionadas artículo
 procedimientos estarán disponibles independencia consumidores afectados hallen territorio miembro encuentre comerciante miembro
@@ -3375,7 +3371,6 @@ descargado descargado animales
 autoridad competente supervisado posterior carga animales
 vuelto precintarse vehículo siguientes números precinto
 observaciones
-
 lugar fecha
 firma veterinario oficial
 Sello
@@ -4470,7 +4465,6 @@ operaciones estuvieran totalmente consolidadas financieros consolidados DEPFA pl
 operaciones necesarias cumplir normas prudenciales disposiciones legales incluidas adquisición tenencia enajenación valores admitidos gestión cestas garantías DEPFA plc control liquidez véase punto iv incluye operación financiación sector público actividad estratégica
 operaciones realizadas DEPFA plc filiales culminar refinanciación incluidas emisiones recompra títulos deuda
 necesario arreglo puntos ib id ie ig medida deberá permitir alcanzar propuesto condiciones económicamente aceptables razonables
-
 Enajenación DEPFA plc participaciones DEPFA plc HPFB HPBI ACS
 medida enajenación posiciones concretas activo HPFB HPBI ACS DEPFA plc representen forma económica extinción activa punto Alemania garantiza HRE llevará cabo inmediatamente tardar diciembre reprivatización HPFB HPBI ACS DEPFA plc subgrupo arreglo condiciones enajenación punto
 Asimismo Alemania garantiza iniciarán procesos venta necesarios tiempo suficiente reprivatización HPFB HPBI ACS DEPFA plc subgrupo tardar diciembre
@@ -4860,7 +4854,6 @@ respecta relaciones empresas seguros terceros países descritas artículo Direct
 vistas lograr máximo grado convergencia aplicación régimen tercer país empresas seguros Partes contratantes intercambiarán información especificada apartado artículo
 celebrarán consultas cuestiones refieren apartados artículo marco Comité Mixto EEE procedimientos específicos vayan acordar Partes contratantes
 autorizaciones concedidas autoridades competentes Partes contratantes empresas seguros filiales directas indirectas empresas matrices sometidas Derecho tercer país validez disposiciones Directiva territorio Partes contratantes
-
 caso tercer país imponga restricciones cuantitativas establecimiento empresas seguros AELC imponga restricciones tales empresas imponga empresas seguros comunitarias autorizaciones concedidas autoridades competentes Comunidad empresas seguros filiales directas indirectas empresas matrices sometidas Derecho tercer país validez únicamente Comunidad caso AELC decida contrario jurisdicción
 caso Comunidad decidido decisiones relativas autorizaciones empresas seguros filiales directas indirectas empresas matrices sometidas Derecho tercer país limitarse suspenderse autorizaciones concedidas autoridades competentes AELC dichas empresas seguros validez únicamente jurisdicción caso contratante decida contrario jurisdicción
 limitaciones suspensiones mencionadas letras aplicarse empresas seguros filiales autorizadas territorio Partes contratantes

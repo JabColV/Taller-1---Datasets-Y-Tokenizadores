@@ -2820,7 +2820,6 @@ ciento
 placa identificación trasera
 ciento
 ambas placas identificación trasera
-
 muestra
 Muestra
 ambas placas identificación trasera
@@ -3039,13 +3038,11 @@ perjuicio Convención Ginebra miembros determinar normalmente solicitante presen
 Artículo
 Agentes persecución causantes daños graves
 Agentes persecución causantes daños graves
-
 partidos organizaciones controlan considerable territorio
 agentes estatales demostrarse agentes mencionados letras incluidas organizaciones internacionales quieren proporcionar protección persecución daños graves definida artículo
 Artículo
 Agentes protección
 protección persecución daños graves proporcionar
-
 partidos organizaciones incluidas organizaciones internacionales controlan considerable territorio
 quieran puedan ofrecer protección arreglo dispuesto apartado
 protección persecución daños graves deberá efectiva carácter temporal
@@ -3287,12 +3284,10 @@ Posición Parlamento Europeo octubre publicada Diario Oficial Decisión Consejo 
 DO
 DO
 ANEXO
-
 Directiva derogada
 refiere artículo
 Directiva CE Consejo
 DO
-
 Plazo transposición Derecho nacional
 refiere artículo
 Directiva
@@ -3522,7 +3517,6 @@ DO
 Publicado sitio web BCE enero
 ANEXO
 Partidas datos billetes euros
-
 Plan información billetes euros
 Partidas datos
 Número nombre partida datos
@@ -3603,7 +3597,6 @@ futuro BCN Eurosistema
 Distribución anticipada
 Subdistribución anticipada
 entidades contrapartida cualificadas
-
 Partidas datos billetes euros
 partidas BCN futuros BCN Eurosistema consignarán cantidades billetes números enteros independencia positivas negativas
 datos acumulados cifras agregadas períodos información entrega imprenta introducción serie variante denominación cierre período información
@@ -3674,7 +3667,6 @@ datos refieren cierre período información
 Billetes euros mantenidos futuro BCN Eurosistema efectos introducción efectivo euros
 Billetes euros distribuidos anticipadamente futuro BCN Eurosistema entidades contrapartida cualificadas cumplen requisitos recibir billetes euros distribuirlos introducción efectivo euros arreglo Orientación BCE
 Billetes euros subdistribuidos anticipadamente entidades contrapartida cualificadas terceros profesionales arreglo Orientación BCE mantenidos dichos terceros profesionales instalaciones introducción efectivo euros
-
 Normas registro movimientos billetes euros CIS
 Introducción
 establecen normas comunes registro entregas billetes imprentas transferencias BCN transferencias distintos tipos reservas BCN objetivo garantizar coherencia datos CIS
@@ -4008,7 +4000,6 @@ comprobaciones exactitud relación reservas billetes realizarán período inform
 serie variante denominación adquiere curso legal comprobaciones exactitud efectuarán período información dicha serie variante denominación curso legal
 caso BCN adoptado euro recientemente ex futuros BCN Eurosistema comprobaciones exactitud relación reservas billetes realizarán período información adopción euro
 Desarrollo billetes reserva estratégica Eurosistema comprobación obligatoria
-
 reserva destino reserva estratégica Eurosistema
 calidad reserva destino reserva estratégica Eurosistema
 calidad reserva origen reserva estratégica Eurosistema reserva origen producción reserva destino reserva estratégica Eurosistema
@@ -4045,7 +4036,6 @@ Transferencias distintos tipos reservas BCN comprobación obligatoria
 Condiciones
 Serie variantei denominaciónj BCN informadork BCN destinom reserva origenu reserva destinov calidadx planificacióny
 BCNk BCNm
-
 tipo reservau tipo reservav
 Conciliación transferencias billetes futuros BCN Eurosistema comprobación obligatoria
 Serie variantei denominaciónj BCN informadork BCN destinom calidadn reserva destinop
@@ -4096,7 +4086,6 @@ monedas vendidas inversión metales preciosos denominadas monedas inversión
 Suelen acuñarse función demanda mercado presentan acabados calidades distintivos
 precio monedas fija precio mercado contenido metálico momento pequeño margen acuñación cubre costes producción promoción pequeño beneficio
 dispuesto acto jurídico BCE gestión reservas billetes
-
 diferencia máxima permitida izquierdo derecho ecuación superar valor absoluto ecuación valor absoluto multiplicado margen
 comprobación exactitud verifica valor absoluto izquierdo derecho menor diferencia máxima permitida
 Método flujos emisión nacional neta billetes registrados emitidos BCN incluidos billetes puestos circulación bancos NHTO bancos ECI introducción partidas acumuladas billetes registrados devueltos BCN incluidos billetes devueltos bancos NHTO bancos ECI introducción partidas acumuladas Entidades emisoras moneda
@@ -4423,7 +4412,6 @@ Período contingentario
 Volumen contingente anual
 toneladas peso neto especifica unidad medida
 Carne animales especie bovina fresca refrigerada congelada
-
 período
 Suero mantequilla manteca leche nata crema cuajadas kéfir leches natas cremas fermentadas acidificadas concentrados adición azúcar edulcorante aromatizados frutas frutos cacao
 Mantequilla manteca materias grasas leche pastas lácteas untar

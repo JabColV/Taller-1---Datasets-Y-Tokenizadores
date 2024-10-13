@@ -219,10 +219,8 @@ consultarse línea dirección wwwefsaeuropaeuefsajournal
 ANEXO
 Modificaciones anexo Reglamento Ejecución UE
 columna Disposiciones específicas fila correspondiente fipronil figura anexo Reglamento Ejecución UE sustituye texto
-
 autorizarán usos insecticida tratamiento semillas
 autorizará únicamente utilización semillas siembra invernadero semillas puerros cebollas chalotes grupo hortalizas género Brassica siembra campo cosechan floración
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión fipronil particular apéndices II adoptadas definitivamente Comité Permanente Cadena Alimentaria Sanidad Animal marzo conclusiones adenda informe revisión fipronil adoptadas Comité Permanente Cadena Alimentaria Sanidad Animal julio
 evaluación general miembros prestarán atención particular
 envasado productos comercializados evitar generación productos fotodegradación peligrosos
@@ -3389,7 +3387,6 @@ DO
 DO
 DO
 ANEXO
-
 ANEXO
 Lista especies contempladas artículo apartado letra cumplir protocolos examen OCVV
 Nombre científico
@@ -3493,7 +3490,6 @@ TG
 Sorgo
 TG
 texto directrices consultarse sitio web UPOV wwwupovint
-
 Allium cepa var Cepa
 Cebolla
 TP
@@ -3887,8 +3883,6 @@ Volumen importaciones procedentes países toneladas
 Índice
 Cuota mercado importaciones procedentes terceros países
 Valor importaciones procedentes países EUR
-
-
 Precio importaciones EUR
 volumen importaciones Unión dióxidos manganeso electrolíticos procedentes terceros países disminuyó período considerado
 precios importaciones sitúan nivel precios industria Unión precios Delta mercados excluido EEUU período investigación reconsideración

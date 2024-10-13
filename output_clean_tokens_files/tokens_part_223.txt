@@ -179,10 +179,6 @@ Modulación disciplina financiera
 Artículo
 Modulación
 pago directo superior EUR deba concederse año natural determinado agricultor reducirá año aplicación siguientes porcentajes
-
-
-
-
 reducciones previstas apartado incrementarán puntos porcentuales importes superiores EUR
 apartados aplicables pagos directos concedidos agricultores departamentos franceses ultramar Azores Madeira islas Canarias islas Mar Egeo
 Artículo
@@ -1116,9 +1112,7 @@ APLICACIÓN PAGOS DIRECTOS MIEMBROS
 Artículo
 Implantación pagos directos
 miembros distintos Bulgaria Rumanía implantación pagos directos llevará cabo calendario incrementos expresados porcentaje nivel pagos aplicable momento considerado miembros distintos miembros
-
 Bulgaria Rumanía implantación pagos directos llevará cabo calendario incrementos expresados porcentaje nivel pagos aplicable momento considerado miembros distintos miembros
-
 Régimen pago único superficie
 Artículo
 miembros hayan decidido sustituir pagos directos pago transitorio frutos baya establecido título IV capítulo sección presente Reglamento cultivos energéticos refiere título IV capítulo Reglamento CE régimen pago único superficie concederán ayudas agricultores arreglo dispuesto presente artículo
@@ -1447,7 +1441,6 @@ Islas mar Egeo
 Capítulo Reglamento CE
 Algodón
 Título IV capítulo sección presente Reglamento
-
 ANEXO II
 Requisitos legales gestión contemplados artículos
 Punto
@@ -1808,7 +1801,6 @@ aumento valor derecho pago agricultor calculará dividiendo importes mencionados
 agricultor sector concreto posea derecho pago asignarán derechos pago
 miembros decidir tardar agosto integrar ayudas semillas refiere título IV sección regímenes refiere anexo XI punto exceptuando prima específica calidad trigo duro régimen pago único
 caso Comisión arreglo procedimiento previsto artículo apartado ajustará límites máximos nacionales contemplados artículo añadiendo importes anexo XII régimen ayuda corresponda
-
 miembro aplicado conformidad artículo Reglamento CE medidas compatibles presente capítulo decida aplicar ayuda específica prevista presente capítulo tiempo decidir tardar agosto aplicar conformidad artículo presente Reglamento medidas comunicadas Comisión conformidad artículo Reglamento CE normas aplicación
 obstante dispuesto artículo apartado ayuda medidas mencionadas artículo apartado letras limitarse límite máximo fijado miembro correspondiente aplicación artículo Reglamento CE
 miembros conceder ayuda establecida presente capítulo condición obstante dispuesto artículo apartado presente Reglamento financien ayuda refiere artículo apartado recurriendo exclusivamente importes reserva nacional estén vigentes disposiciones nacionales fecha límite fijada miembro trate presentación solicitudes ayuda
@@ -1949,7 +1941,6 @@ Nombre autoridad competente centro focal mencionado artículo apartado Reglament
 autoridad competente designada miembro cabo actividades previstas Reglamento UE medidas tomado coordinar trabajo autoridades competentes conformidad artículo Reglamento UE
 Responda utilizando cuadro
 Coordinación actividades artículo Reglamento UE
-
 Comentarios opcional
 Exige legislación nacional autoridad central competente revise proporcione instrucciones vinculantes planes seguimiento notificaciones cambios plan seguimiento informes emisiones
 autoridad central competente dirigir autoridades locales regionales competentes orientaciones directrices vinculantes
@@ -2134,7 +2125,6 @@ Nombre combustible material
 Número instalaciones autoridad competente permitido frecuencia
 Número flujos fuente primarios aplica frecuencia
 Confirmación plan muestreo totalmente documentado cumplido
-
 caso negativo especifíquense motivos
 aplica enfoque nivel alto flujos fuente primarios instalaciones categoría mencionadas artículo apartado letra Reglamento UE indique cuadro instalación ocurra flujos fuente afectados parámetro seguimiento afectado nivel alto exigido Reglamento UE nivel aplicado
 Código identificación instalación
@@ -2427,7 +2417,6 @@ cuadro indique sanciones infracciones Reglamento UE Reglamento UE legislación n
 Tipo infracción
 Multas euros
 Penas prisión meses
-
 Mín
 Máx
 Funcionamiento permiso
@@ -2598,7 +2587,6 @@ efectos artículo apartado anexo III Asociación territorio aduanero Comunidad e
 efectos anexo III Asociación Comunidad entenderá territorio aduanero Comunidad Europea actualmente Unión Europea refiere artículo presente Decisión
 Artículo
 presente Decisión entrará vigor sesenta fecha Partes notificado cumplimiento requisitos internos relativos aplicación
-
 DO
 Reglamento CE Comisión
 agosto
@@ -3643,7 +3631,6 @@ nivel absoluto precios indica Eurostat obstante elevado comparado precios import
 indicado anteriormente probable derogasen medidas precios exportación chinos tendrían alinearse competidores extranjeros India Tailandia consecuencia grado subcotización
 Importaciones terceros países
 Tailandia
-
 refiere importaciones terceros países importaciones mecanismos encuadernación anillos originarios India disminuyendo procedentes Tailandia aumentaron ligeramente período investigación reconsideración superiores comparación años anteriores
 países Hong Kong exporta mecanismos encuadernación anillos UE observaciones información disponible
 Situación económica industria Unión
@@ -4664,7 +4651,6 @@ nombre laboratorio
 determinar nivel aflatoxina nivel contaminación aflatoxinas
 adjuntan detalles muestreo métodos análisis utilizados resultados
 certificado válido
-
 Sello firma representante autorizado autoridad competente contemplada artículo apartado
 Producto país origen
 ANEXO II
@@ -4673,7 +4659,6 @@ Generalidades utilización documento común entrada aplicación presente Reglame
 mencione frase punto control interpretarse punto importación designado
 Cumpliméntese documento mayúsculas
 notas refieren número casilla correspondiente
-
 explotador empresa alimentaria representante completará sección indicación contrario
 Casilla
 Expedidor nombre dirección completa persona física jurídica explotador empresa alimentaria envía remesa

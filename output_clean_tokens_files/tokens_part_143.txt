@@ -735,7 +735,6 @@ Pez espada
 ANEXO II
 ANEXO III
 MEDIDAS TÉCNICAS CONTROL TRANSITORIAS
-
 Atlántico norte incluido Mar Norte Skagerrak Kattegat
 Métodos desembarque pesaje arenque caballa jurel
 aplicarán siguientes procedimientos desembarques Comunidad Europea realizados buques comunitarios terceros países cantidades superiores desembarque toneladas arenque caballa jurel combinación capturadas
@@ -811,12 +810,6 @@ obstante dispuesto anexo IV Reglamento CE aplicarán disposiciones apéndice pre
 Restricciones aplicables pesca bacalao
 División CIEM VIa
 diciembre queda prohibida actividad pesquera zonas delimitadas líneas loxodrómicas unen siguientes posiciones calculadas sistema coordenadas WGS
-
-
-
-
-
-
 Divisiones CIEM VII
 febrero marzo queda prohibida actividad pesquera rectángulos CIEM siguientes
 prohibición aplicará millas náuticas líneas base
@@ -839,10 +832,6 @@ prohibida pesca realizada palangre zonas delimitadas líneas loxodrómicas unen 
 Punto
 Latitud
 Longitud
-
-
-
-
 Medidas técnicas conservación Mar Irlanda
 aplicarán temporalmente medidas técnicas conservación artículos Reglamento CE Consejo febrero establecen medidas aplicables año vistas recuperación población bacalao Mar Irlanda división CIEM VIIa
 Utilización redes enmalle divisiones VI VII subzona XII CIEM
@@ -862,40 +851,10 @@ obstante prohibido capturar mantener bordo transbordar desembarcar cantidad agre
 Medidas provisionales protección hábitats vulnerables aguas profundas
 prohibirá pesca artes arrastre fondo artes fijos incluidas redes enmalle fondo palangres zonas delimitadas líneas loxodrómicas unen siguientes posiciones calculadas sistema coordenadas WGS
 montes submarinos Hecate
-
-
-
-
 montes submarinos Faraday
-
-
-
-
-
-
-
-
 cordillera submarina Reykjanes
-
-
-
-
-
-
-
 montes submarinos Altair
-
-
-
-
-
 montes submarinos Antialtair
-
-
-
-
-
-
 talla mínima pulpo Octopus vulgaris aguas marítimas soberanía jurisdicción terceros países situadas zona CPACO eviscerado
 pulpo alcance talla mínima eviscerado conservarse bordo transbordarse desembarcarse transportarse almacenarse venderse exponerse ponerse venta deberá devolverse inmediatamente mar
 Buques practiquen pesca ilegal declarada reglamentada Atlántico Nordeste
@@ -909,7 +868,6 @@ miembros abanderarán buques INDNR instarán importadores transportistas sectore
 Comisión modificará lista vistas adaptarla CPANE organismo adopte lista
 Pesca eléctrica
 obstante dispuesto artículo apartado Reglamento CE autorizará pesca arrastreros vara utilicen corriente eléctrica condiciones establecerá Comisión arreglo procedimiento refiere artículo apartado Reglamento CE luz dictamen CCTEP
-
 Mediterráneo
 Medidas temporales relación dimensión mallas actividades pesqueras
 actividades pesqueras desarrolladas actualmente amparo excepciones establecidas artículo apartados bis artículo apartados bis Reglamento CE continuar temporalmente
@@ -932,7 +890,6 @@ medida legislación nacional exija armadores buques enarbolen pabellón estén i
 buques cumplan correspondientes medidas conservación gestión CGPM
 miembros tomarán medidas necesarias prohibir pesca conservación bordo transbordo desembarque pescado marisco capturado zona CGPM buques metros eslora estén incluidos registro CGPM
 miembros comunicarán demora Comisión información indique razones fundadas sospechar presencia zona CGPM buques metros eslora incluidos registro CGPM practican pesca transbordo pescado marisco dicha zona
-
 Océano Pacífico oriental
 Redes cerco jareta zona regulación Comisión Interamericana Atún Tropical CIAT
 prohibirá pesca rabil Thunnus albacares patudo Thunnus obesus listado Katsuwonus pelamis cerqueros jareta agosto septiembre noviembre diciembre zona delimitada siguientes líneas
@@ -953,7 +910,6 @@ caso suba bordo tortuga aplicarán medios adecuados recuperación devolverla agu
 buques atuneros verter mar bolsas sal tipo basura plástica
 promoverá liberación tortugas marinas atrapadas dispositivos concentración peces DCP artes pesca
 asimismo fomentará recuperación dispositivos concentración peces DCP estén utilizados pesca
-
 Especies altamente migratorias Atlántico Oriental Mediterráneo
 Talla mínima atún rojo Atlántico Oriental Mediterráneo
 obstante dispuesto artículo anexo IV Reglamento CE talla mínima atún rojo Mediterráneo kg cm
@@ -977,7 +933,6 @@ obstante dispuesto artículo bis Reglamento CE miembro establecerá plan muestre
 muestras tallas tomarán recogida granja conforme metodología CICAA destinada informar cometido II
 muestreo llevará cabo proceso recogida afectará jaulas
 datos deberán transmitirse CICAA mayo relación muestreo llevado cabo año
-
 Atlántico Suroriental
 buques comunitarios operen zona Convenio Organización Pesca Atlántico Suroriental SEAFO vistas captura especies estén sometidas regímenes conservación gestión organizaciones regionales pesca competentes deberán bordo enero observadores científicos cualificados
 miembros tomarán medidas necesarias designar observadores científicos garantizar presencia bordo buques enarbolen pabellón estén matriculados territorio vayan emprender actividades pesqueras zona Convenio SEAFO
@@ -989,7 +944,6 @@ DO
 DO
 peces criados año deberán establecerse métodos muestreo adicionales
 ANEXO IV
-
 Límites cuantitativos aplicables licencias permisos pesca buques comunitarios faenen aguas terceros países
 Zona pesca
 Pesquería
@@ -1141,7 +1095,6 @@ TRA transbordo
 cantidad especies cargada descargada pares caso necesario código FAO peso vivo kilogramos redondeado centena próxima
 indicativo internacional llamada radio buque receptor
 indicativo internacional llamada radio buque cedente
-
 latitud prevista buque previsto transbordo
 longitud prevista buque previsto transbordo
 fecha previsto transbordo
@@ -1204,7 +1157,6 @@ PAN
 Cigala Nephrops norvegicus
 Faneca noruega Trisopterus esmarkii
 Reloj anaranjado Hoplostethus atlanticus
-
 Solla europea Pleuronectes platessa
 Abadejo Pollachius pollachius
 Marrajo Lamma nasus
@@ -1541,7 +1493,6 @@ Entero
 Descabezado
 Descabezado cola
 Descabezado abierto
-
 talla referencia longitud horquilla caso bacalao refiere longitud especies
 talla inferior pescado salado fresco
 ANEXO XI
@@ -1554,7 +1505,6 @@ Puerto matrícula
 Tipos arte utilizados distinto registro tipos arte
 Tipo arte
 Fecha
-
 mes
 año
 Posición
@@ -1938,7 +1888,6 @@ Sistemas ascensor
 Conformidad normas comunitarias nacionales caso
 Sistemas calefacción ventilación aire acondicionado
 ejemplo calidad aire interior requisitos caso incendio desconexión
-
 ejemplo máquinas expendedoras bebidas
 Condiciones ambientales efectos aerodinámicos
 Impacto entorno vehículo impacto vehículo entorno incluidas condiciones aerodinámicas interfaces vehículo tierra sistema ferroviario vehículo entorno exterior
@@ -2100,7 +2049,6 @@ Sistemas calefacción ventilación aire acondicionado cabina conducción
 Ruido cabinas conducción
 Incluido nivel bocina cabina
 Alumbrado cabinas conducción
-
 Interfaz conductormáquina
 Equipo cabina conducción supervisar controlar funcionamiento seguro tren
 Indicación velocidad
@@ -2696,7 +2644,6 @@ Decisión modificada lugar Decisión CE DO
 ANEXO
 anexo Decisión CE sustituye
 ANEXO
-
 Zona contemplada artículo apartado
 Código país ISO
 miembro
@@ -2716,7 +2663,6 @@ SUECIA
 siguientes localidades Kalmar Län
 Localidad
 Zona vigilancia ampliada km
-
 Zona contemplada artículo apartado
 Zona
 territorio Kalmar Län zona incluidas localidades
@@ -2814,7 +2760,6 @@ DO
 DO
 anexo modificará
 sustituirá
-
 Partidas datos billetes euros
 partidas BCN futuros BCN Eurosistema consignarán cantidades billetes números enteros independencia positivas negativas
 Partidas datos acumulados
@@ -3199,7 +3144,6 @@ Transferencias distintos tipos reservas BCN comprobación obligatoria
 Condiciones
 Serie variantei denominaciónj BCN informadork BCN destinom reserva origenu reserva destinov calidadx planificacióny
 BCNk BCNm
-
 tipo reservau tipo reservav
 Conciliación transferencias billetes futuros BCN Eurosistema comprobación obligatoria
 Serie variantei denominaciónj BCN informadork BCN destinom calidadn reserva destinop
@@ -3252,7 +3196,6 @@ Basada sucesos
 Reservas billetes aptos destruidos mantenidas BCN
 Reservas billetes procesados mantenidas BCN
 Billetes tránsito BCN
-
 Explicación datos reservas logísticas BCN reservas estratégicas Eurosistema mantenidas esenciales
 distinction billetes aptos esencial interés caso crisis
 preferible mantener billetes principio emitidos duran destruidos
@@ -3933,13 +3876,11 @@ Datos operativos
 Tipo empresa
 Empresa ferroviaria administrador infraestructura
 Poseedor vagones
-
 especifíquense
 Alcance actividades EEM
 Incluye vagones cisterna mercancías peligrosas
 Incluye tipo vagones especiales transporte mercancías peligrosas
 Funciones operativas EEM
-
 parcialmente
 íntegramente
 Desarrollo mantenimiento
@@ -3947,7 +3888,6 @@ Gestión mantenimiento flota
 Ejecución mantenimiento
 Documentos presentados
 Documentación sistema mantenimiento
-
 Firmas
 Solicitante
 nombre apellidos
@@ -3974,14 +3914,12 @@ IVA
 ORGANISMO CERTIFICACIÓN
 Número referencia organismo certificación
 INFORMACIÓN RELATIVA CERTIFICADO
-
 Número identificacióndel certificado
 Válido
 Tipo empresa
 empresa ferroviaria poseedor vagones prestador servicios mantenimiento etc
 ALCANCE ACTIVIDADES EEM
 Incluye vagones cisterna mercancías peligrosas
-
 Incluye tipo vagones especiales transporte mercancías peligrosas
 INFORMACIÓN ADICIONAL
 Fecha expedición validez
@@ -4472,10 +4410,6 @@ Productos concede ayuda
 Importe ayuda correspondiente periodo almacenamiento
 euros toneladas
 Deducción
-
-
-
-
 Diaria
 Categoría
 Medias canales presentadas pata delantera rabo riñón diafragma médula espinal
@@ -4973,7 +4907,6 @@ ANEXO IX
 CÁLCULO PORCENTAJE APLICABLE EMPRESAS ARREGLO DISPUESTO ARTÍCULO APARTADO PÁRRAFO
 porcentaje aplicable porcentaje deberá establecerse conformidad dispuesto punto aplicable cuota asignada empresa trate
 porcentaje común nivel miembro porcentaje calculado miembro trate arreglo fórmula
-
 Qty cantidad deberá reducirse nivel miembro referencia anexo VIII punto letra
 renuncia referencia letra empresa determinada
 cuota empresa determinada disponible término mes febrero

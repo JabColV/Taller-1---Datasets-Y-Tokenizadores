@@ -298,7 +298,6 @@ instalaciones edificios obras véase
 acabado edificios obras véase
 actividades arquitectura ingeniería véase
 dirección obras construcción véase
-
 Construcción cubiertas estructuras cerramiento
 construcción tejados
 cubierta tejados
@@ -310,8 +309,6 @@ construcción pistas aterrizaje
 construcción equipamientos estadios piscinas gimnasios pistas tenis campos golf instalaciones deportivas excluidos edificios
 pintura señales carreteras aparcamientos
 movimiento tierras previo véase
-
-
 Obras hidráulicas
 clase comprende
 construcción
@@ -375,7 +372,6 @@ instalación piscinas particulares
 limpieza vapor chorro arena similares exterior edificios
 obras acabado edificios citadas
 limpieza interior edificios obras véase
-
 Alquiler equipo construcción demolición dotado operario
 alquiler equipo maquinaria construcción demolición desprovisto operario véase
 Reglamento CEE Consejo octubre relativo nomenclatura estadística actividades económicas Comunidad Europea DO
@@ -562,7 +558,6 @@ datos recibidos abiertos aplicación presentes requisitos accesibles personas au
 caso infrinjan intenten infringir prohibiciones condiciones acceso refieren letras garantizarse razonablemente infracciones tentativas claramente detectables
 ANEXO
 INFORMACIÓN FIGURAR ANUNCIOS
-
 Información figurar anuncios publicación anuncio información previa perfil comprador
 Nombre número identificación esté previsto legislación nacional dirección incluido código NUTS número teléfono fax dirección electrónica internet adjudicador caso servicio obtenerse información complementaria
 Tipo adjudicador principal actividad ejercida
@@ -570,7 +565,6 @@ proceda indicación adjudicador central compras utilizar utilizar forma contrata
 Códigos CPV
 Dirección internet perfil comprador URL
 Fecha envío anuncio relativo publicación anuncio información previa perfil comprador
-
 Información figurar anuncios información previa
 refiere artículo
 Información figurar casos
@@ -607,7 +601,6 @@ aceptará pago electrónico
 Información contrato relacionado proyecto programa financiado fondos Unión
 Nombre dirección órgano responsable procedimientos recurso caso mediación
 Indicación plazo procedimientos recurso caso necesario nombre dirección números teléfono fax dirección electrónica servicio obtenerse dicha información
-
 Información figurar anuncios licitación
 refiere artículo
 disponga acceso libre directo completo gratuito motivos contemplados artículo apartado párrafos indicación acceso pliegos contratación
@@ -647,7 +640,6 @@ Información contrato relacionado proyecto programa financiado fondos Unión
 Indicación plazos presentación recursos caso necesario nombre dirección números teléfono fax dirección electrónica servicio obtenerse dicha información
 Fechas referencias publicaciones anteriores Diario Oficial Unión Europea relevantes contrato contratos den anuncio
 caso contratos periódicos calendario estimado publicación ulteriores anuncios
-
 Información figurar anuncios contratos adjudicación contratos
 refiere artículo
 proceda indicación adjudicador central compras utilizar forma contratación conjunta
@@ -668,7 +660,6 @@ contrato adjudicado agrupación operadores económicos empresa participación co
 Valor oferta ofertas seleccionadas valores ofertas menor coste tomadas consideración adjudicación adjudicaciones contratos
 proceda adjudicación valor proporción contratos prevea subcontratar terceros
 Indicación plazo presentación recursos caso necesario nombre dirección números teléfono fax dirección electrónica servicio obtenerse dicha información
-
 Información figurar anuncios concursos proyectos
 refiere artículo apartado
 Descripción principales características proyecto
@@ -685,7 +676,6 @@ Criterios aplicarán valorar proyectos
 Indicación decisión jurado vinculante adjudicador
 procede posibles pagos participantes
 indicará contratos subsiguientes concurso adjudicados ganador ganadores concurso
-
 Información figurar anuncios resultados concurso
 refiere artículo apartado
 Importe premios
@@ -697,7 +687,6 @@ Número participantes extranjeros
 Nombre dirección incluido código NUTS número teléfono fax dirección electrónica internet ganador ganadores concurso indicación pequeñas medianas empresas
 Información concurso proyectos relacionado proyecto programa financiado fondos Unión Europea
 Fechas referencias publicaciones anteriores Diario Oficial Unión Europea relevantes proyecto proyectos den anuncio
-
 Información figurar anuncios modificación contrato vigencia
 refiere artículo apartado
 Código NUTS emplazamiento principal obras caso contratos obras código NUTS lugar principal entrega ejecución contratos suministro servicios
@@ -708,7 +697,6 @@ Fecha adjudicación contrato
 proceda nombre dirección incluido código NUTS número teléfono fax dirección electrónica internet operador operadores económicos
 Nombre dirección organismo supervisión órgano responsable procedimientos recurso caso mediación
 Fechas referencias publicaciones anteriores Diario Oficial Unión Europea relevantes contrato contratos den anuncio
-
 Información figurar anuncios licitación relativos contratos servicios sociales servicios específicos
 refiere artículo apartado
 Nombre número identificación esté previsto legislación nacional dirección incluido código NUTS dirección electrónica internet adjudicador
@@ -719,7 +707,6 @@ proceda indicación contrato público restringido talleres protegidos prevé eje
 proceda indicar arreglo disposiciones legales reglamentarias administrativas reserva prestación servicio determinada profesión
 Plazos ponerse contacto adjudicador vistas participar
 descripción características principales procedimiento adjudicación aplicar
-
 Información figurar anuncios información previa servicios sociales servicios específicos
 descripción contrato trate incluidos valor estimado contrato números referencia nomenclatura CPV
 medida conozcan
@@ -729,7 +716,6 @@ condiciones participación concreto
 proceda indicar arreglo disposiciones legales reglamentarias administrativas reserva prestación servicio determinada profesión
 descripción características principales procedimiento adjudicación aplicar
 Mención operadores económicos interesados deberán comunicar adjudicador interés contratos fecha límite recepción manifestaciones interés lugar deberán enviarse manifestaciones interés
-
 Información figurar anuncios adjudicación contratos relativos contratos servicios sociales servicios específicos
 refiere artículo apartado
 Código NUTS emplazamiento principal obras caso contratos obras código NUTS lugar principal entrega ejecución contratos suministro servicios
@@ -838,7 +824,6 @@ Reino Unido pedir operador económico aporte certificado Registrar of Companies 
 efectos artículo apartado entenderá registros profesionales mercantiles figuran presente anexo hayan introducido cambios nivel nacional registros hayan sustituido
 ANEXO XII
 MEDIOS PRUEBA CRITERIOS SELECCIÓN
-
 Solvencia económica financiera
 regla general solvencia económica financiera operador económico acreditarse siguientes referencias
 certificación bancaria proceda prueba asegurado riesgos profesionales pertinentes
@@ -882,10 +867,8 @@ Servicios suministro comidas exterior Servicios suministro comidas empresas tran
 Servicios cantina Servicios cantina servicios cafetería clientela restringida Servicios gestión cantina Servicios comidas escuelas
 Servicios hostelería restaurante
 Servicios jurídicos medida estén excluidos virtud artículo letra
-
 servicios administrativos servicios gubernamentales
 Prestación servicios comunidad
-
 Servicios relacionados prisiones servicios seguridad pública servicios salvamento medida estén excluidos virtud artículo letra
 Servicios investigación seguridad Servicios seguridad Servicios vigilancia sistemas alarma Servicios vigilancia Servicios relacionados sistema localización Servicios búsqueda prófugos Servicios patrullas Servicios expedición distintivos identificación Servicios investigación Servicios agencia detectives Servicios grafología Servicios análisis residuos
 Servicios investigación seguridad
@@ -2315,14 +2298,12 @@ Esponjas naturales origen animal
 Hortalizas silvestres estén cocidas agua vapor congeladas
 Maíz dulce congeladas
 Destinados alimentación
-
 Hortalizas silvestres conservadas provisionalmente ejemplo gas sulfuroso agua salada sulfurosa adicionada sustancias asegurar dicha conservación impropias consumo inmediato
 hortalizas silvestres mezclas hortalizas silvestres sustancias asegurar dicha conservación impropias consumo inmediato
 Maíz dulce
 Jugos extractos vegetales materias pécticas pectinatos pectatos agaragar mucílagos espesativos derivados vegetales modificados
 Jugos extractos vegetales ás mucílagos espesativos derivados vegetales modificados
 piretro pelitre raíces contengan rotenona
-
 Extractos vegetales mezclados fabricación bebidas preparaciones alimenticias
 usos terapéuticos profilácticos productos medicinales
 Materias pécticas pectinatos pectatos productos medicinales
@@ -2360,7 +2341,6 @@ Productos base cereales obtenidos inflado tostado ejemplo hojuelas copos maíz c
 Productos base cereales obtenidos inflado tostado maíz grano forma copos grano trabajado harina sémola precocidos preparados expresados comprendidos
 Copos maíz
 Palomitas maíz
-
 Arroz precocinado ingredientes añadidos
 Productos panadería pastelería galletería adición cacao hostias sellos vacíos tipo usados medicamentos obleas sellar pastas secas harina almidón fécula hojas productos similares
 Pan especias acao hostias sellos vacíos tipo usados medicamentos obleas sellar pastas secas harina almidón fécula hojas productos similares
@@ -2382,7 +2362,6 @@ Confituras jaleas mermeladas purés pastas frutas frutos obtenidos cocción adic
 Preparaciones homogeneizadas cocción adición azúcar edulcorante
 adición azúcar edulcorante
 contengan azúcar edulcorante materias primas fresas grosellas negras frambuesas
-
 agrios cítricos
 adición azúcar edulcorante
 albaricoques mangos kiwis melocotones mezclas
@@ -3188,7 +3167,6 @@ Medidas información educación campo rendimiento energético
 autoridades noruegas confirmaron programas relativos material didáctico aprendizaje cursos educación personal técnico seguimiento in situ terminaron enero
 futuro proyectos similares debieran volver comenzar notificaría previamente Órgano Vigilancia
 autoridades noruegas confirmaron programa formación entidades públicas refiere función pública municipios locales véase Sección Decisión
-
 autoridades noruegas confirmaron ayuda aplica discriminatoria inversores extranjeros regularmente informarán Órgano cerca aplicación régimen
 autoridades noruegas presentaron lista Órgano mostraba ejemplos operadores extranjeros recibían ayuda marco Fondo Energía
 Argumentos iniciar procedimiento formal investigación
@@ -4322,20 +4300,15 @@ limitación diciembre utilizarse mg lámpara diciembre
 Mercurio lámparas descarga baja presión lámpara
 Mercurio lámparas vapor sodio alta presión usos generales alumbrado lámparas índice rendimiento color mejorado Ra sobrepasar quemador
 bI
-
 limitación diciembre utilizarse mg quemador diciembre
 bII
-
 limitación diciembre utilizarse mg quemador diciembre
 bIII
-
 Mercurio lámparas vapor sodio alta presión usos generales alumbrado sobrepasar quemador
 cI
 limitación diciembre utilizarse mg quemador diciembre
 cII
-
 cIII
-
 Mercurio lámparas vapor mercurio alta presión HPMV
 Expira abril
 Mercurio lámparas haluros metálicos MH
@@ -4412,7 +4385,6 @@ Plomo cadmio electrodos selectivos iones incluido vidrio electrodos pH
 Ánodos plomo sensores electroquímicos oxígeno
 Plomo cadmio mercurio detectores infrarrojos
 Mercurio electrodos referencia cloruro mercurio contenido cloruro sulfato mercurio óxido mercurio
-
 Cadmio láseres helio cadmio
 Plomo cadmio lámparas espectroscopia absorción atómica
 Plomo aleaciones superconductor conductor térmico MRI
@@ -4452,7 +4424,6 @@ lugar fecha expedición
 nombre cargo firma
 DO
 ANEXO VII
-
 Directiva derogada sucesivas modificaciones
 refiere artículo
 Directiva CE Parlamento Europeo Consejo
@@ -4483,7 +4454,6 @@ Decisión CE Comisión
 DO
 Decisión CE Comisión
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Fecha límite transposición

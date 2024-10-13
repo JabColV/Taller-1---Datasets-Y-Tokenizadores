@@ -364,7 +364,6 @@ LIQUIDACIÓN CUENTAS ORGANISMOS PAGADORES
 Ejercicio
 Importe recuperar abonar miembro
 Gastos ejercicio organismos pagadores cuyas cuentas
-
 Reducciones suspensiones ejercicio
 incluyendo reducciones suspensiones
 Anticipos abonados miembros título ejercicio
@@ -403,9 +402,7 @@ gasto declarado ascendió EUR
 Corrección errores Directiva UE Parlamento Europeo Consejo marzo coordinación determinadas disposiciones legales reglamentarias administrativas miembros relativas prestación servicios comunicación audiovisual Directiva servicios comunicación audiovisual
 Diario Oficial Unión Europea abril
 página artículo apartado
-
 organismos radiodifusión televisiva sometidos jurisdicción ejerzan derechos exclusivos hayan comprado diciembre forma
-
 organismos radiodifusión televisiva sometidos jurisdicción ejerzan derechos exclusivos hayan comprado julio forma
 Directiva CE Parlamento Europeo Consejo
 mayo
@@ -561,7 +558,6 @@ resultado procedimiento descrito artículo
 Alimentos destinados personas afectadas perturbaciones metabolismo hidratos carbono diabéticos
 entiende productos estén mercado adopte directiva específica verán afectados
 ANEXO II
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -573,7 +569,6 @@ DO
 Reglamento CE Parlamento Europeo Consejo
 DO
 punto anexo III
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -1206,7 +1201,6 @@ Caza cría
 Miel
 Emiratos Árabes Unidos
 Antillas Neerlandesas
-
 Colombia
 ER
 Islas Feroe
@@ -1215,8 +1209,6 @@ JM Jamaica
 Kenia
 Kuwait
 Madagascar
-
-
 Rumania
 Rusia
 San Marino
@@ -1242,8 +1234,6 @@ DO cuya modificación constituye Reglamento CE DO
 Huevos
 Argentina
 Bangladesh
-
-
 Islandia
 Sri Lanka
 Caledonia
@@ -1260,7 +1250,6 @@ Irán
 Japón
 Corea Sur
 Mongolia
-
 Omán
 Panamá
 SC
@@ -2114,7 +2103,6 @@ procede
 brucelosis bovina brucelosis ovina caprina melitensis definido programa
 ANEXO II
 Requisitos normalizados presentación programas nacionales control salmonelosis salmonela zoonótica mencionados artículo letra
-
 Requisitos generales programas nacionales control Salmonella
 Especificar objetivos programa
 Demostrar cumple requisitos mínimos muestreo establecidos anexo II Reglamento CE Parlamento Europeo Consejo indicación población animal pertinente fases producción cubre muestreo
@@ -2156,7 +2144,6 @@ inscripción granjas registro
 existencia registros granjas
 documentos acompañar animales expidan
 medidas pertinentes faciliten trazabilidad animales
-
 Enfermedad salmonelosis animal Salmonella spp zoonótica
 Población animal cubre programa
 Años aplicación
@@ -2398,7 +2385,6 @@ Reacción cadena polimerasa
 medidas previstas
 Especifíquense actuaciones concretas
 Muestreo
-
 Vigilancia aves silvestres
 Medidas vigilancia aves silvestres cofinanciadas
 Número pruebas realizarse método
@@ -2926,10 +2912,8 @@ Dc
 Phone Myat Soe
 Dd
 Wei Wei Lay
-
 Df
 San Thida Soe
-
 Dh
 Coronel Thein Nyunt
 Progreso Zonas Fronterizas Razas Nacionales Asuntos Desarrollo Alcalde Naypidaw
@@ -2970,7 +2954,6 @@ Energía Eléctrica ministerio
 Esposa General División Khin Maung Mint
 Empleo Trabajo nombrado Ministro Relaciones encargado relaciones Aung San Suu Kyi
 Esposa Aung Kyi
-
 Kyaw Thu
 Esposa Kyaw Thu
 VICEMINISTROS
@@ -3380,7 +3363,6 @@ Jd
 Je
 Jf
 Zar Chi Htay
-
 Khin Htay Lin
 Shwe Thanlwin Trading Co distribuidores exclusivos neumáticos Thaton control Ministerio Industria
 Nan Mauk Loung Sai Nang Mauk Lao Hsai
@@ -3583,7 +3565,6 @@ Ministerio Comercio
 Kaba Aye Pagoda Road Mayangone Township Yangón Myanmar
 Ministerio Industria Director Gerente Oo Zune
 Ministerio Cooperativas Director Gerente Hla Moe
-
 Htoo Furniture denominada Htoo Wood Products denominada Htoo Wood based Industry denominada Htoo Wood
 Shwe Taung Gyar Street Bahan Township Yangón
 Shwe Taung Gyar Street Bahan Township Yangón
@@ -4170,7 +4151,6 @@ Importante indique número números páginas pertinentes plan notificado documen
 Información general
 Fecha adopción revisión mes año
 Cubre plan territorio miembro
-
 caso negativo indique partes territorio incluidas justifíquelo
 ámbito aplicación plan gestión residuos
 flujos residuos
@@ -4862,10 +4842,8 @@ Impurezas
 Suma dioxinas furanos EQT PCDD FOMS máximo mg kg
 enero
 diciembre
-
 autorizarse usos fungicida
 caso exteriores dosis superarán aplicación
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión procloraz particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal septiembre
 evaluación general miembros
 prestarán especial atención protección operadores trabajadores velarán condiciones incluyan proceda empleo equipo protección individual adecuado

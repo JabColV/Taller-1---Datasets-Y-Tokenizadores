@@ -1288,8 +1288,6 @@ Reglamento modificado lugar Reglamento CE DO
 DO
 Índice
 Índice
-
-
 abril Whirlpool Europe srl presentó denuncia relación importaciones determinados refrigeradores sidebyside originarios República Corea denominado denunciante representa importante producción comunitaria refrigeradores sidebyside
 señala considerando medidas antidumping producir caso estabilización volumen ventas originarias país cuestión
 importadores vinculados cooperaron minoristas mantuvieron neutrales procedimiento darse efectos negativos forma estabilización volúmenes importados alcance dichos efectos ve compensado resultados beneficiosos previstos industria Comunidad
@@ -1315,7 +1313,6 @@ Presidente Consejo procederá notificación prevista artículo nombre Comunidad 
 Consejo
 Presidente
 fecha entrada vigor publicada Diario Oficial Unión Europea Secretaría General Consejo
-
 Comunidad Europea Gobierno República Popular China cooperación asistencia administrativa mutua materia aduanera
 COMUNIDAD EUROPEA
 GOBIERNO REPÚBLICA POPULAR CHINA
@@ -1859,9 +1856,7 @@ añaden siguientes cuadros relativos Bulgaria Rumanía
 Número referencia
 Designación circunscripción
 Número explotaciones contables ejercicio contable
-
 Número referencia
-
 RUMANÍA
 ejercicios contables siguientes Bulgaria contará circunscripciones véase anexo Reglamento CEE número explotaciones contables corresponde país asignará circunscripción
 ejercicios contables siguientes Rumanía contará circunscripciones véase anexo Reglamento CEE número explotaciones contables corresponde país asignará circunscripción
@@ -4212,7 +4207,6 @@ logaritmo natural valor medición aplicado factor deterioro pertinente motor nú
 estimación desviación típica producción aplicar logaritmo natural mediciones
 número muestra utilizada
 muestra calculará suma desviaciones típicas límite fórmula
-
 resultado estadístico ensayo superior número correspondiente decisión aprobación figura cuadro tamaño muestra cuestión adoptará decisión aprobación contaminante
 resultado estadístico ensayo inferior número correspondiente decisión rechazo figura cuadro tamaño muestra cuestión adoptará decisión rechazo contaminante
 casos someterá ensayo motor adicional punto aplicará procedimiento cálculo muestra aumentada unidad
@@ -4231,7 +4225,6 @@ xi logaritmos naturales valores medidos aplicado factor deterioro pertinente ser
 cuadro muestra números correspondientes decisión aprobación An rechazo Bn número muestra utilizada
 resultado estadístico ensayo relación
 utilizará determinar aprueba rechaza serie
-
 aprueba serie
 rechaza serie
 medición An
@@ -4340,7 +4333,6 @@ Nombre dirección fabricante
 caso componentes unidades técnicas independientes emplazamiento forma colocación marca homologación
 Nombre nombres dirección direcciones planta plantas montaje
 Nombre dirección representante fabricante caso
-
 Características esenciales motor referencia tipos motor familia motores
 Motor combustión interna
 Información específica motor
@@ -4564,7 +4556,6 @@ Unidad electrónica control ECU
 Equipo específico GN
 Variante únicamente caso homologaciones motores composiciones específicas combustible
 Característica autoadaptable
-
 Calibración composición gas específica GNH GNL GNHL Transformación composición gas específica GNHt GNLt GNHLt
 metano CH base
 mol
@@ -4611,7 +4602,6 @@ Mezcla combustible
 Porcentaje
 Refrigerador aceite
 Dibujos
-
 Características esenciales componentes sistemas vehículo respecta emisiones gases escape
 Fabricante motor
 Código motor asignado fabricante aparece motor medios identificación

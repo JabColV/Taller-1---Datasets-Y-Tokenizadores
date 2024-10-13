@@ -913,7 +913,6 @@ CÁLCULO PORCENTAJE APLICABLE EMPRESAS ARREGLO DISPUESTO ARTÍCULO APARTADO PÁR
 porcentaje aplicable porcentaje deberá establecerse conformidad dispuesto punto aplicable cuota asignada empresa trate
 porcentaje común nivel miembro porcentaje calculado miembro trate arreglo fórmula
 Qty
-
 Qty cantidad deberá reducirse nivel miembro referencia anexo VII bis punto letra
 renuncia referencia letra empresa determinada
 cuota empresa determinada disponible término mes febrero
@@ -1328,7 +1327,6 @@ Fenoximetilpenicilina
 Fenoximetilpenicilina
 Porcinos
 Músculo
-
 Antiinfecciosos Antibióticos
 Hígado
 Riñón
@@ -1879,7 +1877,6 @@ frutales pepitas hueso
 Rododendros azaleas injertados
 Rosales injertados
 rosales silvestres injertados tallos rosal silvestre
-
 raíz desnuda cepellón
 Plantas procedentes semillero reproducción vegetativa vegetales utilidad micelios
 plantas hortalizas césped rollos
@@ -1903,7 +1900,6 @@ tomates cereza cherry
 octubre abril
 tomates Peretti oblongos
 tomates diámetro superior mm tomates carnosos
-
 Lechuga iceberg hoja externa
 enero febrero
 Endibias witloof frescas refrigeradas
@@ -2215,7 +2211,6 @@ organismo intervención facilitará información necesaria características alco
 interesado obtener dirigiéndose organismo intervención trate muestras alcohol puesto venta tomadas representante organismo intervención
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos ocasionen controles contemplados apartado correrán empresas venda alcohol
@@ -3493,7 +3488,6 @@ Medias
 frías
 cálidas
 Aire extracción
-
 Temperatura entrada salida
 Agua
 Salmuera
@@ -3516,7 +3510,6 @@ Condiciones climáticas medias
 Condiciones climáticas frías
 Condiciones climáticas cálidas
 Hj año
-
 Cuadro
 Temperatura diurna media °C
 Enero
@@ -4223,7 +4216,6 @@ DO
 DO
 ANEXO
 clasificados
-
 Superficie cultivada
 hectáreas
 Producción recolectada
@@ -4253,8 +4245,6 @@ Sorgo
 Tritical
 Mijo alforfón alpiste
 Arroz
-
-
 marzo
 Leguminosas proteaginosas secas producción grano
 Guisantes forrajeros
@@ -4714,7 +4704,6 @@ Comisión mantendrá informados AELC fase temprana negociación celebración acu
 AELC participan régimen comercio derechos emisión UE facilitarán información requisitos pertinentes contemplados artículo apartado párrafo aplicarán requisitos información contemplados párrafo
 anexo añade texto
 APÉNDICE
-
 Cifras AELC correspondientes cálculo ajuste cantidad derechos emisión conjunto EEE expedirán virtud artículos bis Directiva CE
 Cifras AELC virtud artículo
 calcular cifras aplicado factor lineal
@@ -4727,7 +4716,6 @@ Noruega
 cifras basan media anual derechos emisión Noruega período comprendido correspondiente derechos emisión establece Plan Nacional Asignaciones Noruega
 Cifras AELC virtud artículo bis apartado
 Cifras AELC virtud artículo bis apartado
-
 Cifras AELC correspondientes cálculo reducciones emisiones conjunto EEE virtud artículo bis apartado párrafo quinto
 Emisiones procedentes sectores existentes
 toneladas equivalentes CO
@@ -4760,7 +4748,6 @@ Artículo
 presente Decisión entrará vigor notificación transmitida Comité Mixto EEE conformidad establecido artículo apartado EEE fecha posterior
 Artículo
 presente Decisión publicará Sección EEE Suplemento EEE Diario Oficial Unión Europea
-
 DO
 DO
 DO

@@ -789,8 +789,6 @@ APLICABLE
 Abejas
 exige LMR
 Miel
-
-
 Decisión Comisión
 abril
 relativa inclusión metabenztiazurón anexo Directiva CEE Consejo retirada autorizaciones productos fitosanitarios contengan sustancia activa
@@ -843,7 +841,6 @@ Columna
 Columna
 Sustancia activa
 miembro
-
 Bélgica
 Puerro guisantes
 Francia
@@ -1566,7 +1563,6 @@ miembro otorgue sociedad beneficiaria consideración transparente efectos fiscal
 CAPÍTULO
 NORMAS APLICABLES TRASLADO DOMICILIO SOCIAL SCE
 Artículo
-
 SCE traslade domicilio social miembro
 relación traslado domicilio social miembro SCE residente miembro deje residente miembro pase serlo miembro
 traslado domicilio social término residencia dará lugar aplicación impuesto plusvalías calculadas arreglo artículo apartado miembro trasladado domicilio social derivados elementos activo pasivo SCE consecuencia queden efectivamente vinculados establecimiento permanente SCE situado miembro trasladado domicilio social contribuyan obtención resultados integrados base imponible impuestos
@@ -1602,7 +1598,6 @@ Véase anexo II
 DO
 DO
 ANEXO
-
 LISTA SOCIEDADES REFERENCIA ARTÍCULO LETRA
 sociedades constituidas amparo dispuesto Reglamento CE Directiva CE Consejo octubre completa Estatuto Sociedad Anónima Europea respecta implicación trabajadores sociedades cooperativas SCE constituidas amparo dispuesto Reglamento CE Directiva CE Consejo julio completa Estatuto sociedad cooperativa europea respecta implicación trabajadores
 sociedades Derecho belga denominadas société anonymenaamloze vennootschap société commandite par actionscommanditaire vennootschap op aandelen société privée responsabilité limitéebesloten vennootschap met beperkte aansprakelijkheidsociété coopérative responsabilité limitéecoöperatieve vennootschap met beperkte aansprakelijkheid société coopérative responsabilité illimitéecoöperatieve vennootschap met onbeperkte aansprakelijkheid société nom collectifvennootschap onder firma société commandite simplegewone commanditaire vennootschap entidades Derecho público adopten formas jurídicas acaban mencionar sociedades constituidas arreglo Derecho belga sujetas impuesto sociedades belga
@@ -1632,7 +1627,6 @@ sociedades Derecho eslovaco denominadas akciová spoločnosť spoločnosť ruče
 sociedades Derecho finlandés denominadas osakeyhtiöaktiebolag osuuskuntaandelslag säästöpankkisparbank vakuutusyhtiöförsäkringsbolag
 aa sociedades Derecho sueco denominadas aktiebolag bankaktiebolag försäkringsaktiebolag ekonomiska föreningar sparbanker ömsesidiga försäkringsbolag
 bb sociedades constituidas conformidad Derecho Reino Unido
-
 LISTA IMPUESTOS REFERENCIA ARTÍCULO LETRA
 Impôt des sociétés vennootschapsbelasting Bélgica
 Корпоративен данък Bulgaria
@@ -2146,9 +2140,7 @@ Hipoclorito sodio kg kg concentrado técnico
 expresado cloro
 septiembre
 agosto
-
 autorizar usos interiores desinfectante
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión hipoclorito sodio SANCO particular apéndices II ultimado febrero Comité Permanente Cadena Alimentaria Sanidad Animal
 evaluación general miembros prestarán atención particular
 riesgo operador trabajadores
@@ -4506,7 +4498,6 @@ envasados marcados almacenados transportados conformidad capítulos VI VII VIII 
 proceden especies tóxicas contengan biotoxinas
 superado satisfactoriamente pruebas organolépticas parasitológicas químicas microbiológicas establecidas categorías productos pesqueros Directiva CEE correspondientes decisiones aplicación
 inspector oficial abajo firmante declara presente conocimiento disposiciones Directivas CEE CEE Decisión CE
-
 lugar fecha
 Sello oficial
 Firma inspector oficial
@@ -4972,9 +4963,7 @@ Reglamento modificado lugar Reglamento CE DO
 Corrección errores Directiva CE Parlamento Europeo Consejo junio establecen normas mínimas sanciones medidas aplicables empleadores nacionales terceros países situación irregular
 Diario Oficial Unión Europea junio
 página nota pie página
-
 Dictamen Parlamento Europeo febrero
-
 Dictamen Parlamento Europeo febrero
 Reglamento Ejecución UE Comisión
 mayo

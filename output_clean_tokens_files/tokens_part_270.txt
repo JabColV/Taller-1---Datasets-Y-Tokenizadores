@@ -6,7 +6,6 @@ OsHV μνar notificarse autoridad competente investigar inmediatamente informes 
 animales acuicultura especies sensibles OsHV μνar introducen miembro compartimento cumplen requisitos establecidos II presente certificado
 caso partidas destinadas miembro compartimento cubierto programa aprobado Decisión UE cubiertas programa vigilancia aprobado Decisión UE
 sometidos cuarentena condiciones mínimo equivalentes establecidas Decisión CE
-
 Casillas procede indicar número autorización explotación zona cría moluscos establecimiento trate
 Casilla Utilizar códigos SA apropiados
 Casillas respecta cantidad indicar número
@@ -16,7 +15,6 @@ obtener información estatus sanitario explotaciones zonas cría moluscos Unión
 II presente certificado aplicable partidas animales acuicultura productos derivados artículo Reglamento CE acompañadas certificado conforme requisitos aplicables comercialización establecidos Directiva CE autorizadas autoridad competente abandonar zona sometida disposiciones control establecidas secciones capítulo dicha Directiva miembro zona compartimento programa erradicación aprobado conformidad artículo apartado
 II presente certificado únicamente aplicable partidas destinadas centros expedición centros depuración empresas similares miembros compartimentos consideren libres enfermedad aprobado programa Decisión UE respecta OsHV μνar partida cuestión incluya especies figuran anexo II Reglamento CE sensibles OsHV μνar
 requisitos establecidos II aplicarán partidas destinadas centros expedición centros depuración empresas similares estén equipados sistema tratamiento efluentes validado autoridad competente inactive virus envolturas reduzca nivel aceptable riesgo transmisión enfermedades aguas naturales
-
 Lista especies sensibles enfermedades medidas nacionales aprueban arreglo Decisión UE
 Enfermedad
 Especies sensibles
@@ -252,7 +250,6 @@ Infracciones adicionales detectadas inspección puerto
 Observaciones curso
 DATOS CONSIGNARSE INFORME
 REFERENCIAS INSPECCIÓN
-
 Categoría definición
 Dato inspección Nombre autoridad inspección organismo suplente designado
 Dato inspección Fecha realización informe
@@ -3053,8 +3050,6 @@ Valores límite conicidad equivalente
 Condiciones ensayo
 véase cuadro
 disponible
-
-
 aplicarán valores especificados ETI material rodante ferrocarril alta velocidad
 aplicarán condiciones especificadas ETI material rodante ferrocarril alta velocidad
 Cuadro
@@ -4492,7 +4487,6 @@ material rodante destinado circular vías mm ancho valor límite esfuerzo guiado
 valor límite Yqstlim Rm kN
 ruedas trenes diseñados prestar servicio líneas red finlandesa compatibles ancho vía mm
 Velocidad máxima servicio vehículo kmh
-
 Condiciones ensayo vía conicidad equivalente representativa red RTE finlandesa
 Sección transversal carril definida norma
 Sección transversal carril definida norma
@@ -4785,7 +4779,6 @@ FME medirá energía suministrada sistemas tracción eléctricos esté diseñada
 FME conectada energía tracción auxiliar suministrada tren línea aérea contacto regenerada quede registrada caso sistema medición corriente alterna registrará energía reactiva
 FME exactitud corriente alterna energía activa corriente continua
 exactitudes determinarán función cuadro
-
 ΕΜF
 exactitud FME
 error porcentual máximo función medición tensión FMT

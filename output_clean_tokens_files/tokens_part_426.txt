@@ -1365,7 +1365,6 @@ absoluto yuca Mojave
 destilado deconcentrado deextracto detintura
 extracto fresno espinoso aceite fresno espinoso tintura fresno espinoso
 maíz números FEMA CoE extracto maíz CoE aceite maíz CoE tintura maíz CoE
-
 Aditivos piensos pertenecientes grupo sustancias aromatizantes saborizantes retirados respecta determinadas especies categorías animales
 CAS fenilmetanetiol Flavis
 especies excepción perros gatos
@@ -1513,7 +1512,6 @@ DO
 DO
 PROYECTO
 DECISIÓN COMITÉ MIXTO ESTABLECIDO VIRTUD LIBRE CIRCULACIÓN PERSONAS COMUNIDAD EUROPEA MIEMBROS CONFEDERACIÓN SUIZA
-
 sustituye anexo II relativo coordinación regímenes seguridad social
 COMITÉ MIXTO
 Visto libre circulación personas Comunidad Europea miembros Confederación Suiza particular artículo
@@ -1525,7 +1523,6 @@ anexo II mantener consonancia evolución actos jurídicos pertinentes Unión Eur
 anexo II libre circulación personas Comunidad Europea miembros Confederación Suiza sustituye anexo presente Decisión
 presente Decisión establece lenguas alemana búlgara checa danesa eslovaca eslovena española estonia finesa francesa griega húngara inglesa italiana letona lituana maltesa neerlandesa polaca portuguesa rumana sueca textos igualmente auténtico
 presente Decisión entrará vigor adopción
-
 DO
 DO
 DO
@@ -2037,18 +2034,7 @@ buque Comunidad faenar Skagerrak distancia inferior millas náuticas líneas bas
 obstante buques enarbolen pabellón Dinamarca Suecia estarán autorizados faenar distancia millas náuticas líneas base Noruega
 actividad pesquera buques comunitarios aguas jurisdicción Islandia quedará restringida zona delimitada líneas rectas unen secuencialmente siguientes coordenadas
 Zona sudoccidental
-
-
-
-
 Zona sudoriental
-
-
-
-
-
-
-
 anexos IA IB IIA IIB IIC III Reglamento CE quedan modificados conforme indicado anexo II presente Reglamento
 Artículo
 Entrada vigor
@@ -2088,7 +2074,6 @@ Irlanda
 Reino Unido
 rúbrica correspondiente reloj anaranjado aguas comunitarias aguas sujetas soberanía jurisdicción terceros países zona CIEM VII sustituye texto
 Zona VII aguas CE
-
 rúbrica correspondiente reloj anaranjado aguas comunitarias aguas sujetas soberanía jurisdicción terceros países zonas CIEM II III IV VIII IX XI XII XIV sustituye texto
 Zona Aguas CE zonas II III IV VIII IX XI XII XIV
 cuota capturarse únicamente aguas CE zonas CIEM IIIa IIIb IIIc IIId
@@ -3177,7 +3162,6 @@ Documentación informativa EEIG versión
 Reservado
 Calidad mantenimiento
 procedimientos juzgarse calidad mantenimiento equipos control mando
-
 Condiciones ambientales físicas
 requisitos mínimos temperatura humedad choque vibración etc equipos control mando deberán cumplir utilizarse red alta velocidad
 Documentación informativa EEIG versión
@@ -3626,7 +3610,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -4565,7 +4548,6 @@ requisitos genéricos diseño ecológico tienden mejorar comportamiento medioamb
 método refiere presente anexo aplicarse casos resulte adecuado establecer valores límite grupo productos examinado
 Comisión determinar aspectos medioambientales significativos preparación proyecto medida ejecución deberá presentar Comité mención artículo apartado especificarse medida ejecución
 preparar medidas ejecución establecen requisitos diseño ecológico arreglo artículo Comisión determinar productos cubiertos medida ejecución parámetros pertinentes diseño ecológico enumerados requisitos aportación información enumerados requisitos fabricante enumerados
-
 Parámetros diseño ecológico productos
 determinarse aspectos medioambientales significativos referencia siguientes fases ciclo vida producto medida guarden relación diseño
 selección materias primas
@@ -4594,7 +4576,6 @@ cantidad residuos generados cantidad residuos peligrosos generados
 emisiones atmósfera gases efecto invernadero agentes acidificantes compuestos orgánicos volátiles sustancias agotan capa ozono contaminantes orgánicos persistentes metales pesados partículas finas partículas suspendidas perjuicio dispuesto Directiva CE Parlamento Europeo Consejo diciembre aproximación legislaciones miembros medidas emisión gases partículas contaminantes procedentes motores combustión interna instalen máquinas móviles carretera
 emisiones agua metales pesados sustancias efectos nocivos equilibrio oxígeno contaminantes orgánicos persistentes
 emisiones suelo especialmente vertidos pérdidas sustancias peligrosas fase utilización producto potencial lixiviación eliminarse residuo
-
 Requisitos relativos suministro información
 medidas ejecución requerir fabricante proporcione información influir tratar utilizar reciclar producto interesados distintos fabricante
 información incluir caso
@@ -4604,7 +4585,6 @@ información consumidores instalar utilizar mantener producto reducir mínimo im
 información instalaciones tratamiento desmontado reciclado eliminación ciclo vida
 información deberá indicarse producto
 información obligaciones previstas normas comunitarias Directiva CE
-
 Requisitos fabricante
 Teniendo aspectos medioambientales determinados medida ejecución factores influir sustancial diseño producto fabricantes evaluación modelo producto ciclo vida partiendo hipótesis realistas condiciones normales fines previstos
 examinarse aspectos medioambientales forma voluntaria
@@ -4747,7 +4727,6 @@ Compatibilidad incentivos
 posibilidad iniciativas autorregulación den resultados esperados caso factores incentivos presión mercado impuestos legislación nacional envíen señales contradictorias participantes iniciativa autorregulación
 coherencia política fundamental tenerse hora evaluar eficacia iniciativa
 ANEXO IX
-
 Directiva derogada lista sucesivas modificaciones
 mencionados artículo
 Directiva CE Parlamento Europeo Consejo
@@ -4755,7 +4734,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional
 Directiva
 Fecha límite transposición

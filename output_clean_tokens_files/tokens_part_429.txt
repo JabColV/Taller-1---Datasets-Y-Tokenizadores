@@ -525,7 +525,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Números
 Transportista
@@ -579,7 +578,6 @@ presente certificado
 válido período fecha inspección explotación origen centro concentración autorizado instalaciones autorizadas comerciante miembro origen
 arreglo dispuesto artículo apartado Directiva CEE expira indíquese fecha
 Notas
-
 Casilla indicar código NC correspondiente siguientes partidas
 Casilla utilizan recipientes cajas indicar número número precinto caso
 Casilla Sistema identificación animales deberán número individual permita identificar explotación origen conformidad Reglamento CE Consejo
@@ -1091,7 +1089,6 @@ modifica Asociación África Caribe Pacífico Comunidad Europea miembros firmado
 modifica Asociación África Caribe Pacífico Comunidad Europea miembros firmado Cotonú junio modificado Luxemburgo junio DO
 PROYECTO
 DECISIÓN COMITÉ EMBAJADORES
-
 relativa reasignación recursos asignados Fondo Europeo Desarrollo FED cooperación intraACP
 COMITÉ EMBAJADORES
 Visto Asociación África Caribe Pacífico Comunidad Europea miembros firmado Cotonú junio modificado Luxemburgo junio Uagadugu junio Asociación ACPUE particular anexo Ib apartado
@@ -1103,7 +1100,6 @@ Cooperación intraACP
 transferirá importe millones EUR recursos asignados FED dotación cooperación intraACP conformidad objetivos establecidos artículos Asociación ACPUE
 Solicitud financiación
 conformidad dispuesto artículo ter letra anexo IV Asociación ACPUE Comité embajadores ACPUE solicita Comisión financie actividades propuestas Unión grupo ACP respectivamente particular proporcione financiación adicional Fondo Paz África importe millones EUR objeto contribuir esfuerzos Unión Africana organizaciones regionales frente cuestiones seguridad África
-
 Decisión PESC Consejo
 enero
 apoyo actividades UE promover terceros países proceso conduzca tratado comercio armas marco Estrategia Europea Seguridad
@@ -1576,9 +1572,7 @@ procede
 Corrección errores Decisión PESC Consejo agosto modifica Decisión PESC relativa adopción medidas restrictivas Irán
 Diario Oficial Unión Europea agosto
 página anexo II quinta entrada Bank Tejarat columna Motivos
-
 Banco Tejarat banco facilitado directamente esfuerzos nucleares Irán ejemplo Banco Tejarat facilitó movimiento decenas millones dólares esfuerzo asistir persistente esfuerzo Organización Energía Atómica Irán designada Naciones Unidas adquirir mineral uranio concentrado OEAI principal organización iraní investigación desarrollo tecnología nuclear gestiona programas producción material fisible Banco Tejarat historial asistencia bancos iraníes designados participar actividades destinadas eludir sanciones internacionales ejemplo participando actividades empresariales compañías tapadera Grupo Industrial Shahid Hemmat
-
 Banco Tejarat banco
 facilitado directamente esfuerzos nucleares Irán
 ejemplo Banco Tejarat facilitó movimiento decenas millones dólares esfuerzo asistir persistente esfuerzo Organización Energía Atómica Irán OEAI designada Naciones Unidas adquirir mineral uranio concentrado
@@ -1813,7 +1807,6 @@ Decisión modificada lugar Decisión CE DO
 DO
 Directiva modificada lugar Directiva CE DO
 ANEXO
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE
@@ -1828,13 +1821,11 @@ DO
 Únicamente artículo punto
 Directiva CE
 DO
-
 Actos modificativos derogados
 Acta adhesión
 Acta adhesión
 Acta adhesión
 Acta adhesión
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -2528,7 +2519,6 @@ MATERIA CRÉDITOS EXPORTACIÓN APOYO OFICIAL
 Página
 CAPÍTULO DISPOSICIONES GENERALES
 OBJETO
-
 PARTICIPACIÓN
 INFORMACIÓN DISPONIBLE PARTICIPANTES
 ÁMBITO APLICACIÓN
@@ -2618,7 +2608,6 @@ DISPOSICIONES GENERALES
 Objeto
 principal razón materia créditos exportación apoyo oficial sucesivo consiste ofrecer marco permita instaurar ordenado créditos
 finalidad fomentar igualdad condiciones respecta apoyo oficial define artículo letra fomentar competencia exportadores base calidad precio bienes servicios exportados condiciones financieras favorables gracias apoyo oficial
-
 elaborado marco OCDE entró vigor abril duración indefinida
 pacto caballeros Participantes norma OCDE recibe apoyo administrativo Secretaría OCDE sucesivo Secretaría
 Participación
@@ -3342,7 +3331,6 @@ DO
 ANEXO
 anexo Reglamento CE queda modificado
 sustituye texto
-
 Lista terceros países territorios zonas compartimentos
 Código ISO nombre tercer país territorio
 Código tercer país territorio zona compartimento
@@ -3361,7 +3349,6 @@ país
 AR Argentina
 AU Australia
 BR Brasil
-
 Rio do Sul Santa Catarina Paraná São Paulo Mato Grosso do Sul
 Mato Grosso Paraná Rio do Sul Santa Catarina São Paulo
 Distrito Federal
@@ -3438,7 +3425,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -3522,7 +3508,6 @@ permitir inspección visual aves corral
 permitir limpieza desinfección
 cargarse limpiado desinfectado vehículos transportan siguiendo instrucciones autoridad competente
 Notas
-
 Casilla indicar código zona nombre compartimento origen necesario código columna anexo Reglamento CE
 Casilla indicar matrícula vagones camiones nombre buques conoce número vuelo aviones
 caso transporte contenedores cajas indicará casilla componen partida números registro caso precinto
@@ -3959,7 +3944,6 @@ Dirección beneficiario
 Fecha
 Importe ayuda concedida ilegalmente moneda
 Recuperación efectuada
-
 Fecha fechas ayuda ayuda puesta disposición beneficiario
 Importe ayuda puesta disposición beneficiario equivalentes brutos ayuda precios
 Comisión pidió interesados presentaran observaciones ayuda
@@ -4005,7 +3989,6 @@ Circunscripción
 código
 municipio subcircunscripción
 Zona desfavorecida
-
 zona montaña
 Superficies agrícolas restricciones medioambientales
 Persona jurídica gestión explotación encuesta
@@ -4039,7 +4022,6 @@ Maíz grano
 Arroz
 cereales producción grano
 Cultivos proteicos producción grano incluidas semillas mezclas legumbres cereales
-
 guisantes habas haboncillos altramuces dulces
 lentejas garbanzos vezas
 cultivos proteicos recolectados secos
@@ -4196,7 +4178,6 @@ transformación madera aserrado etc
 acuicultura
 producción energías renovables energía eólica quema paja etc
 trabajo contrato utilizando equipo explotación
-
 Nota lector numeración características consecuencia larga historia encuestas estructurales agrícolas cambiar repercuta comparabilidad encuestas
 indica código municipio explotaciones información relativa zona desfavorecida zona montaña opcional
 indica código municipio explotación información relativa zona desfavorecida zona montaña obligatoria
@@ -4596,7 +4577,6 @@ Ingredientes limitados forma específica
 ácido etilendiaminotetraacético EDTA sales fosfonatos fácilmente biodegradables añadirse únicamente jabones sólidos contenido máximo mg CA
 Envases
 relación peso contenido RPC inferior envase gramo producto calcula aplicando fórmula
-
 peso gramos componente envase aplica envases primarios secundarios incluidas eventuales etiquetas
 peso gramos producto contenido componente envase
 número reutilizaciones número utiliza componente envase sistema reutilización rellenado defecto reutilización
@@ -4627,7 +4607,6 @@ DO
 DO
 PR
 RPC Pi
-
 peso peso ingrediente gramos unidad funcional FD factor degradación FT crónica factor toxicidad ingrediente miligramos litro
 tenerse ingredientes sustancias preparados cuya concentración supere peso producto independientemente utilicen formulación sustancia individual constituyente preparado ingredientes preparado utilizado formulación supere peso producto
 tenerse ingredientes sustancias preparados superen peso producto ingredientes preparado utilizado formulación supere peso producto
@@ -4740,7 +4719,6 @@ Noruega
 Groenlandia
 Islas Feroe
 Turquía
-
 Islandia
 carne cabrito
 carne caprino cabrito

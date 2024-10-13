@@ -1111,7 +1111,6 @@ DO
 DO
 ANEXO
 Documentos administrativos homologación tipo CE vehículos motor remolques emplazamiento instalación placas matrícula traseras
-
 Ficha características
 MODELO
 Ficha características relativa homologación tipo CE vehículo motor remolque emplazamiento instalación placas matrícula traseras
@@ -1147,7 +1146,6 @@ Dimensiones longitud anchura
 Inclinación plano vertical
 Ángulo visibilidad plano horizontal
 Notas explicativas
-
 Certificado homologación tipo CE
 Formato mm
 CERTIFICADO HOMOLOGACIÓN TIPO CE
@@ -1725,7 +1723,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -3943,7 +3940,6 @@ virtud artículo apartado EEE aplicará apartado VII EEE Disposiciones Instituci
 presente Decisión entrará vigor notificación transmitida Comité Mixto EEE conformidad establecido artículo apartado EEE
 Artículo
 presente Decisión publicará sección EEE Suplemento EEE Diario Oficial Unión Europea
-
 DO
 indicado preceptos constitucionales indicado preceptos constitucionales
 Reglamento Ejecución UE Comisión
@@ -4579,7 +4575,6 @@ conformidad artículo TFUE establece Tratados prejuzgan régimen propiedad miemb
 consultado Supervisor Europeo Protección Datos conformidad artículo apartado Reglamento CE emitido dictamen
 Procede modificar consecuencia Reglamento UE
 ADOPTADO PRESENTE REGLAMENTO
-
 DISPOSICIONES GENERALES
 TÍTULO
 OBJETO ÁMBITO APLICACIÓN DEFINICIONES

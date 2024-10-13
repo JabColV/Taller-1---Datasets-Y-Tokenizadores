@@ -412,7 +412,6 @@ Aerosol inflamable
 calor químico combustión ΔΗc kilojulios gramo kJ producto calor teórico combustión ΔΗcomb coeficiente eficiencia combustión general inferior coeficiente habitual
 formulación aerosol componentes calor químico combustión suma calores combustión ponderados componentes conforme fórmula
 ΔHcproducto
-
 calor químico combustión kJ
 fracción masa componente producto
 calor específico combustión kJ componente producto
@@ -760,40 +759,30 @@ códigos sustituyen texto
 Quitar inmediatamente prendas contaminadas
 Quitar prendas contaminadas
 Lavar prendas contaminadas volver usarlas
-
 continuación código añade consejo prudencia
 lavarlas volver usarlas
-
 columna código texto Utilizar apagarlo sustituye Utilizar extinción
 códigos sustituyen texto
-
 CASO INGESTIÓN Llamar inmediatamente CENTRO TOXICOLOGÍA médico
 CASO INGESTIÓN Llamar CENTRO TOXICOLOGÍA médico persona
 suprime código
 código sustituye texto
-
 CASO CONTACTO PIEL Lavar abundante agua
 código sustituye texto
-
 CASO CONTACTO PIEL pelo Quitar inmediatamente prendas contaminadas
 Aclararse piel agua ducharse
 código sustituye texto
-
 CASO INHALACIÓN Transportar persona aire libre mantenerla posición facilite respiración
 suprime código
 código sustituye texto
-
 CASO exposición manifiesta presunta Llamar CENTRO TOXICOLOGÍA médico
 suprime código
 código sustituye texto
-
 caso síntomas respiratorios Llamar CENTRO TOXICOLOGÍA médico
 continuación código añaden siguientes consejos prudencia
-
 Quitar inmediatamente prendas contaminadas lavarlas volver usarlas
 Quitar prendas contaminadas lavarlas volver usarlas
 código sustituye texto
-
 caso incendio Utilizar extinción
 medios apropiados especificados fabricante proveedor
 agua aumenta riesgo
@@ -806,7 +795,6 @@ Tipos
 código sustituye texto
 exponer temperaturas superiores
 códigos sustituyen texto
-
 Almacenar lugar ventilado
 exponer temperaturas superiores
 queda modificada
@@ -1286,9 +1274,7 @@ CIPAC
 clorofenoxi propoxiimino butil hidroxi tetrahidro tiopiran yl ciclohex enona
 agosto
 julio
-
 autorizar usos herbicida arroz
-
 aplicación principios uniformes mencionados artículo apartado Reglamento CE conclusiones informe revisión profoxidim particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros deberán prestar especial atención
 protección aguas subterráneas sustancia activa aplique regiones condiciones edáficas climáticas delicadas
@@ -1437,7 +1423,6 @@ efectos disposiciones Directiva entenderán adaptación
 respecta relaciones empresas inversión terceros países descritas artículo Directiva aplicarán disposiciones siguientes
 aras máxima convergencia aplicación régimen aplicable terceros países empresas inversión Partes Contratantes procederán intercambiar información describe artículo apartados mantendrán consultas cuestiones contempladas artículo apartados marco Comité mixto EEE procedimientos específicos convengan Partes Contratantes
 autorizaciones concedidas autoridades competentes Partes Contratantes empresas inversión filiales directas indirectas empresas matriz rijan legislación tercer país validez disposiciones presente Directiva territorio Partes Contratantes
-
 caso tercer país imponga restricciones cuantitativas establecimiento empresas inversión AELC imponga restricciones tales empresas imponga empresas inversión Comunidad autorizaciones concedidas autoridades competentes Comunidad empresas inversión filiales directas indirectas empresas matriz rijan legislación tercer país validez únicamente Comunidad caso AELC decida contrario jurisdicción
 caso Comunidad decidido decisiones relativas autorizaciones empresas inversión filiales directas indirectas empresas matriz rijan legislación tercer país limitarse suspenderse autorizaciones concedidas autoridad competente AELC dichas empresas validez únicamente jurisdicción caso Contratante decida contrario jurisdicción
 limitaciones suspensiones mencionadas letras aplicarse empresas inversión filiales autorizadas territorio Partes Contratantes
@@ -1712,9 +1697,7 @@ DO
 Corrección errores Decisión UE Consejo junio relativa conclusión procedimiento consulta República Madagascar virtud artículo Asociación ACPCE
 Diario Oficial Unión Europea julio
 título Decisión cubierta página fecha acto página
-
 junio
-
 junio
 página anexo título
 bórrese Proyecto Nota
@@ -1780,14 +1763,12 @@ agarradero deberá diseñado forma capaz soportar romperse fuerza tracción vert
 caso agarraderos deberán montados simétricamente
 agarraderos estarán diseñados forma puedan soportar romperse fuerza tracción vertical aplicada estáticamente centro superficie presión máxima MPa
 ANEXO II
-
 Directiva derogada modificación
 contemplados artículo
 Directiva CEE Consejo
 DO
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -2148,11 +2129,9 @@ Prohibición temporal operaciones cabotaje
 Multa
 Prohibición
 Inmovilización
-
 caso fecha comienzo sanción impuesta
 caso fecha finalización sanción impuesta
 Sanciones aplicadas
-
 Sanciones solicitadas
 Tipo sanción administrativa solicitada
 Retirada temporal copias auténticas licencia comunitaria
@@ -2211,7 +2190,6 @@ Identificador autoridad competente responde
 Detalles respuesta búsqueda
 Datos numéricos forma HH MM SS
 Resultados búsqueda
-
 Encontrado
 encontrado
 Nombre
@@ -2283,7 +2261,6 @@ inmediatamente restauración sistema enviará mensaje correo electrónico inform
 DO
 DO
 Nodo central
-
 Reglamento CE Comisión
 abril
 fija importe máximo restitución exportación azúcar blanco marco licitación permanente contemplada Reglamento CE
@@ -2731,7 +2708,6 @@ Uzbekistán
 Belarús Mongolia Tayikistán Turquía
 Canadá Columbia Británica Kazajstán
 Rusia
-
 Bahréin
 Especímenes especies incluidas anexo Reglamento CE cuya introducción Unión queda suspendida
 Hexaprotodon liberiensis sinónimo Choeropsis liberiensis
@@ -3068,13 +3044,11 @@ máx kg peso seco metamsodio
 máx kg peso seco metampotasio
 julio
 junio
-
 autorizar usos nematicida fungicida herbicida insecticida aplicación agente fumigante suelo plantación limitados aplicación años campo
 autorizarse aplicación campo abierto inyección suelo riego goteo invernadero riego goteo únicamente
 prescribirá película plástico estanca gases riego goteo
 tasa aplicación máxima kg correspondiente kg MITC caso aplicaciones campo abierto
 autorizaciones deberán limitarse usuarios profesionales
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión metam particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros
 prestarán especial atención protección operarios velarán condiciones utilización incluyan medidas reducción riesgo tales utilización equipos protección individual adecuados limitación horas trabajo diarias
@@ -3302,9 +3276,6 @@ Importe ayuda período almacenamiento
 EUR tonelada
 Importes diarios
 EUR tonelada
-
-
-
 Categoría
 Medias canales presentadas pata delantera rabo riñón diafragma médula espinal
 Categoría
@@ -3783,9 +3754,7 @@ Reglamento modificado lugar Reglamento CE Comisión DO
 DO Versión corregida DO
 ANEXO
 ANEXO
-
 país autorizado
-
 país autorizado
 Código ISO tercer país
 Tercer país
@@ -3998,7 +3967,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -4040,7 +4008,6 @@ Decisión modificada Decisión CE DO
 DO
 Directiva modificada Reglamento CE Parlamento Europeo Consejo DO
 ANEXO
-
 CUESTIONARIO APLICACIÓN DIRECTIVA CE RELATIVA PREVENCIÓN CONTROL INTEGRADOS CONTAMINACIÓN PCIC
 Observaciones generales
 tercer cuestionario arreglo Directiva CE abarca período
@@ -4146,7 +4113,6 @@ dispone adjúntense referencias tales medidas indíquese mejorarse requisitos UE
 Observaciones generales
 aspectos concretos relacionados aplicación susciten preocupación miembro
 caso afirmativo especifíquense
-
 MODELO RESPONDER PREGUNTA
 Notas
 Nota general presente modelo destina recogida datos número instalaciones arreglo artículo apartado permisos arreglo artículo apartado

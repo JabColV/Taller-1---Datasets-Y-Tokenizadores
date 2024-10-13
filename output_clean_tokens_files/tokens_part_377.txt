@@ -1496,7 +1496,6 @@ resultado fórmula define límite adherencia rueda carril traviesa balasto efect
 Cociente esfuerzos transversales verticales rueda condiciones normales servicio radio curva
 relación esfuerzos transversales verticales rueda superará límite
 esfuerzo guiado lateral ejerce rueda carril medido marco referencia basado juego ruedas esfuerzo vertical rueda carril medido marco referencia
-
 ángulo pestaña
 Nota
 ángulo pestaña grados valor límite Qlim
@@ -1550,9 +1549,6 @@ Valores límite teóricos conicidad equivalente
 Velocidad máxima servicio vehículo kmh
 Valores límite conicidad equivalente
 Condiciones pruebas tabla
-
-
-
 Tabla
 Modelización condiciones vía prueba conicidad equivalente
 Condición pruebas
@@ -1572,10 +1568,6 @@ Dichos procedimientos valores conicidad certificado vehículo véase apartado
 trabajo mantenimiento garantice forma directa indirecta conicidad equivalente permanecerá límites aprobados vehículo modelización eje montado pase muestra representativa condiciones pruebas vía especificadas tablas simuladas cálculo
 Tabla
 Condiciones pruebas vía simuladas valores conicidad equivalente servicio
-
-
-
-
 casos realiza diseño novedoso bogies vehículo vehículo conocido entra servicio itinerario características relevantes suele conocerse evolución desgaste perfil ruedas variación conicidad equivalente
 situación propondrá plan mantenimiento provisional
 validez plan confirmará control perfil rueda conicidad equivalente servicio
@@ -1771,8 +1763,6 @@ pruebas realizarán vía recta balasto
 distancia vertical superior carril nivel suelo valor uσ límite superior intervalo confianza velocidades máximas resultantes aire generado plano xy tierra
 obtendrá muestras ensayo independientes comparables velocidad aire ambiente inferior
 viene
-
-
 valor mediciones velocidad aire uI
 desviación estándar
 Evaluación conformidad
@@ -1845,7 +1835,6 @@ señal presión pasará filtro paso Butterworth polos Hz equivalente
 calculará valor pico pico presión máxima Δpm sensor paso tren corregirá velocidad tren determinada vtr densidad estándar ρo aplicando fórmulaΔpi
 Δpm
 vw
-
 variación presión pico pico corregida
 variación presión pico pico medida muestra
 densidad aire medida punto ensayo muestra
@@ -2107,7 +2096,6 @@ nivel presión acústica dB alcanzará presión aire sistema bar nivel presión 
 protegerán bocinas advertencia sistemas control medida viable frente impactos consiguiente bloqueo objetos aéreos cascotes polvo nieve granizo aves
 niveles presión acústica medirán metros delantera tren altura bocina suelo cubierto balasto limpio
 mediciones acústicas bocinas advertencia realizarán espacio abierto cumpla términos generales requisitos figura
-
 Figura
 Espacio abierto mediciones bocinas
 permiten obstrucciones superficies reflectantes área abierta
@@ -3063,7 +3051,6 @@ velocidades velocidad línea máximo peralte máxima velocidad viento circular r
 mm
 mm
 mm
-
 Altura superior envolvente nivel carril mm
 dimensión suma altura hilo contacto previsión elevación
 contará tolerancia adicional desgaste frotador
@@ -3166,11 +3153,7 @@ Ruido interior
 Aire acondicionado
 ≤V≤
 V≤
-
-
 velocidad inicial
-
-
 Lubricación pestañas apartado subsistema Infraestructura
 Coeficiente suspensión apartado Subsistema Energía
 Características frenos servicio apartado identificado interfaces
@@ -3744,7 +3727,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil

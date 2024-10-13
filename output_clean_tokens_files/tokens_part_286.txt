@@ -223,7 +223,6 @@ DO
 DO
 ANEXO
 anexo II partes Reglamento UE sustituyen texto
-
 Modelo MilkRM
 Certificado sanitario leche cruda procedente terceros países zonas terceros países autorizados columna anexo Reglamento UE destinada transformada Unión Europea utilizarse consumo humano
 Datos partida expedida
@@ -251,7 +250,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -295,7 +293,6 @@ pruebas residuos medicamentos antibacterianos realizadas operador empresa alimen
 fabricado condiciones garantizan respeto niveles máximos residuos plaguicidas establecidos Reglamento CE niveles máximos contaminantes establecidos Reglamento CE
 Notas
 presente certificado utilizará leche cruda procedente terceros países zonas terceros países autorizados columna anexo Reglamento UE destinada transformada Unión Europea utilizarse consumo humano
-
 Casilla indicar nombre código ISO país país figuran anexo Reglamento UE
 Casilla Indicar nombre dirección número autorización establecimiento expedición
 Casilla Indicar número registro vagones contenedores ferrocarril camiones número vuelo aviones nombre buques
@@ -373,7 +370,6 @@ presente certificado utilizará productos lácteos aptos consumo humano proceden
 Casilla indicar número registro vagones contenedores ferrocarril camiones número vuelo aviones nombre buques
 Casilla Utilizar código apropiado Sistema Armonizado SA
 Tachar corresponda
-
 Modelo MilkT
 Certificado zoosanitario leche cruda productos lácteos aptos consumo humano destinados tránsitoalmacenamiento Unión Europea
 Persona responsable carga UE
@@ -1445,7 +1441,6 @@ Artículo
 Modificaciones Directiva CEE
 Directiva CEE queda modificada
 anexo II sección punto cuadro línea correspondiente Galega orientalis Lam columna número sustituye texto
-
 anexo III columna línea correspondiente Poaceae Gramineae sustituye texto
 Poaceae GramineaeArtículo
 Modificaciones Directiva CEE
@@ -3735,7 +3730,6 @@ Cáceres municipio Cáceres
 Rondonópolis municipio Itiquiora
 Barra do Garça
 Rio do Sul
-
 enero
 Santa Catarina
 enero
@@ -4297,7 +4291,6 @@ Notificación certificados importación expedidos Reglamento CE
 miembro
 Aplicación artículo Reglamento CE
 Cantidades productos expedido certificados importación
-
 Número orden
 Categorías producto
 Cantidad
@@ -4546,8 +4539,6 @@ Código producto
 Trigo morcajo tranquillón
 trigo duro
 siembra
-
-
 escandas trigo blando morcajo tranquillón
 Trigo blando morcajo tranquillón siembra
 Centeno
@@ -4642,7 +4633,6 @@ Perlados
 contenido cenizas referido sustancia seca inferior peso talco
 categoría arreglo definición anexo Reglamento CEE
 categoría arreglo definición anexo Reglamento CEE Comisión
-
 trigo grano troceado triturado respondan consignada anexo Reglamento CEE Comisión
 partidos
 Germen cereales entero aplastado copos molido
@@ -4672,7 +4662,6 @@ azúcares incluidas lactosa maltosa glucosa fructosa levulosa químicamente pura
 Glucosa jarabe glucosa fructosa contenido fructosa producto seco inferior peso
 contenido glucosa seco superior peso
 polvo cristalino blanco aglomerado
-
 Glucosa jarabe glucosa contenido fructosa producto seco superior inferior peso azúcar invertido
 incluido azúcar invertido azúcares jarabes azúcar contenido fructosa producto seco peso
 Maltodextrina jarabe maltodextrina
@@ -4745,9 +4734,7 @@ especie bovina
 recipientes sellados herméticamente
 Cecina bovino corned beef contenga carne animales especie bovina
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos cumplan condiciones establecidas Reglamento CE
-
 contengan carne animales especie bovina
 Animales vivos especie porcina
 peso inferior kg
@@ -4779,10 +4766,8 @@ Pancetas trozos corteza
 contenido global peso cartílagos inferior
 Prosciutto di Parma Prosciutto di San Daniele trozos
 Embutidos productos similares carne despojos sangre preparaciones alimenticias base productos
-
 Embutidos secos untar cocer
 contengan carne despojos aves corral
-
 especie porcina
 especie porcina doméstica
 Cocida contenido carne grasa superior peso
@@ -4792,7 +4777,6 @@ Paletas trozos paleta
 envases inmediatos contenido neto superior kg
 incluidas mezclas
 contenido carne despojos clase superior peso incluidos tocino grasa naturaleza origen
-
 contengan carne despojos aves corral
 contengan producto compuesto trozos claramente reconocibles carne muscular cuyo tamaño permita determinar obtenidos piernas paletas chuleteros espinazos pequeñas partículas grasa visible pequeñas cantidades depósitos gelatina
 Gallos gallinas patos gansos pavos gallipavos pintadas especies domésticas vivos
@@ -4862,7 +4846,6 @@ Leche nata concentradas azucaradas edulcoradas
 polvo gránulos formas sólidas contenido materias grasas inferior peso
 adición azúcar edulcorante
 envases inmediatos contenido neto inferior kg
-
 polvo gránulos formas sólidas contenido materias grasas superior peso
 contenido materias grasas inferior peso
 envases inmediatos contenido neto inferior kg

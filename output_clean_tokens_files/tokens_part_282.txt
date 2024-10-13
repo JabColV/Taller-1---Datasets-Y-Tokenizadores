@@ -1,9 +1,5 @@
-
 Método Siwoloboff
-
-
 Calorimetría térmica diferencial
-
 normas internacionales nacionales véase apéndice describen procedimientos métodos ensayo
 Véase método ensayo determinación presión vapor
 temperatura ebullición registrada presión kPa
@@ -414,8 +410,6 @@ bobinas recepción miden magnetización continua baja lateral bola medir velocid
 bola alcanza velocidad angular dada vo generalmente revoluciones interrumpe activación produce frenado fricción gas
 descenso velocidad angular mide función tiempo
 fricción causada suspensión magnética despreciable comparación fricción gas presión gas viene dada fórmula
-
-
 velocidad media moléculas gas
 radio bola
 densidad másica bola
@@ -473,7 +467,6 @@ presión vapor temperatura
 calor vaporización
 factor compresibilidad estimado
 factor empírico depende físico temperatura correspondiente
-
 Hvb
 Kf factor empírico polaridad sustancia
 referencia factores Kf tipos compuestos
@@ -977,7 +970,6 @@ calcular tiempo muerto utilizando serie homóloga inyectarán miembros serie hom
 tiempos retención medidos directamente tr nc representan gráficamente función trnc determinan ordenada origen pendiente ecuación regresión
 nc número átomos carbono
 tiempo muerto viene
-
 Gráfico calibración
 paso construir gráfica correlación log frente log compuestos referencia adecuados
 práctica inyecta simultáneamente serie compuestos patrón referencia cuyo log esté intervalo determinan tiempos retención preferiblemente integradorregistrador unido sistema detección
@@ -1208,7 +1200,6 @@ Véanse normas ISO ISO ISO DIN
 especificación precisa sustancia identificación impurezas
 descripción método utilizado desviación
 resultados información observación útil interpretación resultados
-
 conveniente disponer datos preliminares posibles propiedades explosivas sustancia proceder ensayo
 presente método aplicable sustancias polvo granulosas pastosas
 englobar sustancias inflamarse únicamente queman rápidamente cuya forma combustión forma particularmente peligrosa considerarán fácilmente inflamables sustancias cuya velocidad combustión sobrepase límite
@@ -1657,7 +1648,6 @@ indispensable introducir modificaciones condiciones experimentales cambios deber
 utilizar normas debidas referencias
 método descrito utiliza calibración muestras poliestireno polidispersidad conocida necesario modificarlo adaptarlo polímeros ejemplo polímeros solubles agua ramificados cadena larga
 peso molecular número Mti peso molecular peso Mw determinan siguientes ecuaciones
-
 Hi nivel señal detector línea base volumen retención Vi
 peso molecular fracción polimérica volumen retención Vi
 número puntos medición
@@ -2501,7 +2491,6 @@ Categoría
 clasificación
 Número animales muertos moribundos fase
 Categoría
-
 Inicio
 mg kg animales mg kg animales
 fase
@@ -3927,7 +3916,6 @@ seguirán procedimientos reconocidos preparación cultivos madre comprobación m
 demostrarse preparación cultivo madre congelado necesario aportar aminoácido cuestión crecimiento histidina cepas typhimurium triptófano coli
 controlarán características fenotípicas concreto presencia ausencia factores procede resistencia ampicilina cepas TA TA TAa TA WP uvrA WP uvrA pKM ampicilina tetraciclina cepa TA presencia mutaciones características mutación rfa typhimurium sensibilidad violeta cristal mutación uvrA coli uvrB typhimurium sensibilidad luz ultravioleta
 cepas producir número colonias revertientes espontáneas placa gamas frecuencia esperadas base datos controles anteriores laboratorio preferiblemente gama recogida publicaciones
-
 emplearán agar mínimo adecuado ejemplo mínimo VogelBonner glucosa agar recubrimiento histidina biotina triptófano permitir divisiones celulares
 bacterias exponerse sustancia ensayo presencia ausencia sistema adecuado activación metabólica
 sistema comúnmente empleado fracción postmitocondrial añaden cofactores obtiene hígados roedores tratados inductores enzimáticos Aroclor mezcla fenobarbital βnaftoflavona

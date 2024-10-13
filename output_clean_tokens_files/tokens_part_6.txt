@@ -1194,7 +1194,6 @@ DO
 DO
 ANEXO
 ANEXO
-
 Zona establecida conformidad artículo apartado
 Código ISO país
 miembro
@@ -1207,7 +1206,6 @@ Rumanía
 Zonas abarca
 Zona protección
 Zona vigilancia
-
 Zona establecida conformidad artículo apartado
 Zona
 zonas distrito Tulcea incluidas zona
@@ -4068,7 +4066,6 @@ careciendo techo pérdidas potenciales posición corta permuta ilimitadas
 método conversión utilizarse determinado contrato momento
 Nocional varianza varianzat corriente techo volatilidad
 Nocional varianza min varianzat corriente techo volatilidad techo volatilidad
-
 varianzat corriente función volatilidad cuadrado realizada implícita exactamente
 Varianzat
 volatilidad
@@ -4084,7 +4081,6 @@ ANEXO III
 derivado tipos interés convertirá posición equivalente activo subyacente método
 posición equivalente activo subyacente instrumento derivado tipos interés duración dividida duración objetivo FIA multiplicada posición activo subyacente equivalente
 Posición equivalente activo subyacente duraciónIFD
-
 duraciónIFD representa duración sensibilidad valor mercado instrumento financiero derivado movimientos tipos interés instrumento derivado tipos interés
 duraciónobjetivo coherente estrategia inversión posiciones direccionales nivel riesgo previsto momento adaptará
 asimismo coherente duración cartera condiciones normales mercado
@@ -4134,7 +4130,6 @@ Tipo FIA
 Fondo inversión libre capital inversión inmobiliario fondo fondos fondos
 Patrimonio neto
 FIA UE
-
 valores monetarios expresarán moneda base FIA
 FIA
 FIA información específica facilitarse
@@ -4142,7 +4137,6 @@ Tipo datos
 Datos comunicados
 Datos identificativos FIA
 Nombre FIA
-
 Gestor fondo
 Denominación legal código estándar caso
 GFIA UE
@@ -4161,7 +4155,6 @@ Fondo capital inversión
 Fondo inmobiliario
 Fondo fondos
 frecuencias
-
 Desglose estrategias inversión
 Facilítese desglose estrategias inversión FIA función tipo FIA predominante indicad Véanse notas explicativas información responder punto
 Indíquese estrategia describa estrategia FIA
@@ -4277,7 +4270,6 @@ Valores
 Valor posiciones largas
 Valor posiciones cortas
 Efectivo equivalentes efectivo
-
 Certificados depósito
 Efectos comerciales
 depósitos
@@ -4298,7 +4290,6 @@ Bonos plazo restante vencimiento años
 Bonos convertibles emitidos entidades financieras
 Bonos convertibles emitidos entidades financieras
 Préstamos
-
 Valores respaldados activos ABS
 Productos estructurados titulizados
 Valores respaldados hipotecas garantía organismos públicos Agency MBS
@@ -4320,7 +4311,6 @@ Divisas efectos inversión
 Derivados tipos interés
 Derivados materias primas
 Energía
-
 Petróleo crudo
 Gas natural
 Electricidad
@@ -4345,7 +4335,6 @@ ETFFondo inversión cotizado
 OIC
 Inversiones OIC administrados gestionados GFIA
 Inversiones clases activos
-
 Valor volumen negocios clase activo referencia meses informa
 Valor mercado
 Bonos miembros UE
@@ -4414,13 +4403,6 @@ Perfil liquidez
 Perfil liquidez cartera
 Perfil liquidez inversor
 Porcentaje cartera liquidado
-
-
-
-
-
-
-
 Valor efectivo inmediatamente disponible
 Porcentaje capital inversor reembolsarse patrimonio neto FIA
 Reembolsos inversor
@@ -4445,7 +4427,6 @@ Tipo
 Indíquese porcentaje valor patrimonial neto activos FIA actualmente objeto medidas especiales motivadas iliquidez arreglo artículo Directiva GFIA incluidas enumeradas punto
 Medidas especiales patrimonio neto
 inversores otorga trato preferente derecho trato preferente ejemplo cláusula adicional informarse inversores FIA artículo Directiva GFIA
-
 respuesta letra afirmativa indíquense pertinentes tratos preferentes
 Diferencias información facilitar inversor
 Diferencias condiciones relativas liquidez inversor
@@ -4455,7 +4436,6 @@ Facilítese desglose titularidad participaciones FIA categoría inversor valor p
 Financiación liquidez
 Indíquese importe agregado préstamos obtenidos financiación tesorería dispone FIA incluidas líneas crédito utilizadas comprometidas financiación plazo
 Divídase importe indicado letra plazos continuación especifican basándose plazo acreedor esté contractualmente comprometido proporcionar financiación
-
 Toma préstamos riesgo exposición
 Valor préstamos efectivo valores obtenidos representado
 Préstamos efectivo garantía
@@ -4622,14 +4602,12 @@ Cuadro
 Costes reestructuración CMR
 Partida
 Importe
-
 Inversiones reestructuración mantenimiento
 iniciales
 anuales EUR
 Existencias
 Necesidades formación horas hombre
 provisional
-
 Gastos jubilaciones afectados amianto contraídos adquisición
 Vacaciones pagadas devengadas adquisición
 provisional

@@ -384,7 +384,6 @@ punto sustituye texto
 ÁMBITO APLICACIÓN
 método aplicará eliminación materias fibrosas mezclas binarias
 acetato
-
 triacetato elastolefina melamina
 método queda modificado
 lana pelo animal seda algodón cupro modal viscosa acrílico poliamida nailon poliéster fibra vidrio elastomultiéster elastolefina melamina
@@ -1549,7 +1548,6 @@ categoría luz
 Número categoría tipo fuentes luminosas
 Tensión potencia
 Módulo fuente luminosa
-
 Código identificación específico módulo fuente luminosa
 Aplicación dispositivo electrónico control fuente luminosa
 forma luz
@@ -1669,7 +1667,6 @@ Muestra
 luz
 luz
 Ambas luces
-
 muestra
 Muestra
 Ambas luces
@@ -1696,7 +1693,6 @@ reúnen condiciones punto referentes muestras
 dispositivos
 muestreo
 dispositivos seleccionados aleatoriamente divididos muestras AB
-
 muestra
 Ajuste
 ordena fabricante ajuste productos requisitos
@@ -3022,7 +3018,6 @@ cálculo exigencia capital riesgo general expuestos instrumentos deuda negociabl
 arreglo sistema mencionado punto entidad tomará valor mercado instrumento deuda tipo fijo calculará rendimiento momento vencimiento constituye tasa descuento implícito
 caso instrumentos tipo variable entidad tomará valor mercado instrumento continuación calculará rendimiento suponiendo principal momento modificarse tipo interés
 continuación entidad calculará duración modificada instrumento deuda base fórmula duración modificada duración
-
 rendimiento vencimiento véase punto
 Ct pago efectivo momento
 vencimiento véase punto
@@ -3118,7 +3113,6 @@ trate operaciones instrumentos deuda acciones divisas materias primas excluidos 
 representa diferencia precio liquidación acordado instrumentos deuda acciones moneda extrajeras materias primas trate valor actual mercado caso dicha diferencia entrañar pérdidas entidad
 cálculo exigencia capital efectuará multiplicando citada diferencia factor pertinente columna cuadro CUADRO
 hábiles transcurridos fecha liquidación estipulada
-
 OPERACIONES INCOMPLETAS
 deberá exigir entidad disponga fondos establece cuadro pagado valores divisas materias primas recibirlos entregado valores divisas materias primas recibir pago
 caso transacciones transfronterizas efectuó pago entrega Cuadro
@@ -3332,8 +3326,6 @@ exceso entenderá cambio valor cartera rebase cálculo correspondiente valor rie
 determinar factor adicional evaluará número excesos trimestralmente Cuadro
 Número excesos
 Factor adicional
-
-
 casos concretos obedeciendo circunstancias excepcionales autoridades competentes renunciar exigir incremente factor multiplicación factor adicional arreglo dispuesto cuadro entidad demostrado satisfacción autoridades competentes incremento justificado modelo fundamentalmente sólido
 caso número elevado excesos indique modelo suficientemente preciso autoridades competentes revocarán autorización modelo impondrán medidas adecuadas revise inmediato
 autoridades competentes puedan comprobar adecuación factor adicional continua entidades notificarán demora caso plazo laborables autoridades competentes excesos resultantes programa back‐testing cuadro indicado implicarían incremento factor adicional
@@ -3374,14 +3366,8 @@ entidad deberá cumplir exigencia adicional capital suma exigencias riesgos espe
 Exceso límites
 base porcentaje fondos
 Factores
-
-
-
-
-
 ANEXO VII
 NEGOCIACIÓN
-
 Fines negociación
 posiciones carteras mantengan fines negociación cumplirán siguientes requisitos
 deberá existir estrategia negociación claramente documentada posición instrumento carteras aprobados alta dirección incluirá horizonte tenencia previsto
@@ -3392,7 +3378,6 @@ personal encargado negociación contará autonomía tomar gestionar posiciones l
 informará alta dirección posiciones mantenidas integral proceso gestión riesgos entidad
 llevará cabo seguimiento activo posiciones referencia fuentes información mercado evaluación realizada negociabilidad capacidad cobertura posición componentes riesgo incluida evaluación especial calidad disponibilidad datos mercado proceso valoración volumen negocio mercado importe posiciones negociadas mercado
 deberá política procedimientos claramente definidos supervisar posición estrategia negociación entidad incluida supervisión posiciones ingresos partidas vencidas cartera negociación entidad
-
 Sistemas controles
 entidades establecerán mantendrán sistemas controles suficientes facilitar estimaciones valor prudentes fiables
 sistemas controles incluirán siguientes elementos
@@ -3432,7 +3417,6 @@ entidades considerarán necesidad establecer reservas posiciones líquidas revis
 ajustes reservas valoración den lugar pérdidas importantes ejercicio curso deducirán fondos básicos entidad arreglo letra artículo Directiva CE
 beneficios pérdidas procedentes ajustes reservas valoración incluirán cálculo beneficios netos cartera negociación mencionados letra apartado artículo añadirán deducirán fondos adicionales elegibles cubrir exigencias riesgo mercado arreglo disposiciones
 ajustes reservas valoración excedan efectuados virtud marco contable sujeta entidad tratarán conformidad punto lugar pérdidas importantes conformidad punto
-
 Coberturas internas
 cobertura interna posición compensa significativa completamente componente riesgo existente posición incluida cartera negociación conjunto posiciones
 posiciones resultantes coberturas internas elegibles tratamiento exigencias capital cartera negociación condición mantengan fines negociación cumplan criterios generales fines negociación valoración prudente especificados partes particular
@@ -3445,7 +3429,6 @@ supervisión deberá respaldada procedimientos adecuados
 tratamiento mencionado punto aplicará perjuicio exigencias capital aplicables incluida cartera negociación cobertura interna
 perjuicio puntos entidad cubra exposición ajena cartera negociación utilizando derivado crédito figure cartera negociación utilizando cobertura interna presumirá exposición ajena cartera negociación cubierta efectos requisitos capital entidad compre proveedor protección terceros admisible derivado crédito cumpla requisitos establecidos punto anexo VIII Directiva CE exposición ajena cartera negociación
 compre protección terceros tipo reconozca cobertura exposición ajena cartera negociación efectos requisitos capital incluirá cartera negociación cobertura derivados crédito interna externa efectos requisitos capital
-
 Inclusión cartera negociación
 entidades deberán políticas procedimientos claramente definidos determinar posiciones incluirán cartera negociación fines cálculo requisitos capital coherente criterios establecidos artículo teniendo capacidades prácticas gestión riesgo entidad
 documentará plenamente cumplimiento políticas procedimientos sujeto auditorías internas periódicas
@@ -3661,14 +3644,8 @@ TRATAMIENTO COMPRADOR PROTECCIÓN
 transfiere riesgo crédito comprador protección posiciones determinan imagen reflejada vendedor protección excepción bono vinculación crediticia conlleva posición corta emisor
 momento determinado opción compra combinada ascenso momento considerado vencimiento protección
 caso derivados crédito incumplimiento compradores protección autorizados compensar riesgo específico n‐ subyacentes activos n‐ capital riesgo específico
-
 años
 obstante dispuesto punto autoridades competentes permitir exigencia capital frente riesgo específico posición global bruta lugar carteras acciones entidad cumplan siguientes requisitos valores correspondientes emisores hayan emitido únicamente instrumentos deuda negociables corresponda momento requisito arreglo cuadro punto corresponda requisito inferior únicamente garantizados
-
-
-
-
-
 entidad clasificará zona pertinente cuadro procediendo base duración modificada instrumento Cuadro
 posiciones determinan permuta financiera retorno genera posición larga riesgo mercado general obligación referencia posición corta riesgo mercado general valor deuda pública vencimiento equivalente periodo transcurrido momento fijar nuevamente tipo interés asigna ponderación riesgo arreglo anexo VI Directiva CE crea posición larga riesgo específico obligación referencia
 suma importes constituirá posición global bruta diferencia posición global neta entidad
@@ -4010,7 +3987,6 @@ DO
 DO
 DO
 Secretaría General Consejo encargará publicar Diario Oficial Unión Europea fecha entrada vigor
-
 Unión Europea República Moldova modifica Comunidad Europea República Moldova facilitación expedición visados
 UNIÓN EUROPEA
 REPÚBLICA MOLDOVA
@@ -4274,7 +4250,6 @@ sacrificados expiración período fecha importación
 sacrificados expiración período motivos sanitarios muerto consecuencia enfermedades accidentes
 garantía liberará inmediatamente presente pruebas
 obstante caso observado plazo refiere apartado letra importe garantía liberarse reducirá
-
 importe restante rebase plazo
 importes liberados ejecutarán
 caso presente prueba mencionada apartado siguientes importación garantía ejecutará

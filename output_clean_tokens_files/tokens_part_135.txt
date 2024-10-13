@@ -4,7 +4,6 @@ SHR envío seguro aeronaves pasajeros carga correo requisitos aplicables alto ri
 Especifica entidad documentación adjunta ejemplo conocimiento aéreo declaración seguridad carga obtuvo dicha declaración
 caso negativo explíquese
 Conclusión Ofrece proceso documentación garantías suficientes carga correo acompañado documentación adecuada especifique declaración seguridad correcta
-
 Transporte
 Objetivo carga correo aéreos protegidos interferencia autorizada manipulación momento protegidos embarque traslado ACC RA
 punto incluye protección transporte aeronave ACC RA
@@ -25,7 +24,6 @@ procede firma transportista trate declaración transportista
 persona transporta carga sometida controles seguridad específicos recibido formación materia seguridad autorizada transportar carga correo aéreos seguros
 caso afirmativo descríbase tipo controles seguridad examen precontratación control antecedentes etc tipo formación concienciación temas seguridad etc
 Conclusión Indíquese medidas adoptadas suficientes proteger carga correo aéreos interferencia autorizada transporte
-
 Cumplimiento
 Objetivo evaluar partes anteriores lista control validador seguridad aérea UE concluir verificación in situ confirma aplicación controles seguridad arreglo objetivos enumerados dicha lista control carga correo aéreos destino UE EEE
 observarse supuestos
@@ -203,7 +201,6 @@ envíos deberán controlados RA ACC embarcados aeronave
 Acepta entidad envíos carga correo destinados transporte vía aérea procedentes entidades
 caso afirmativo indíquese separan envíos carga correo compañía identifican agente acreditado transportista
 Observaciones validador seguridad aérea UE
-
 Objetivo KC implantados procedimientos garantizar carga correo aéreos reconocibles destino UE EEE protegidos interferencia autorizada manipulación transporte
 carga correo protegidos aceptados ACC RA carga correo seguros
 transporte KC responsable protección envíos seguros
@@ -212,7 +209,6 @@ Responda preguntas reconocerse producto carga correo aéreos destino UE EEE tran
 entrega ACC RA carga correo aéreos
 Transporte ACC RA
 caso afirmativo descríbase tipo controles seguridad examen precontratación control antecedentes etc tipo formación concienciación temas seguridad etc
-
 Objetivo evaluar partes anteriores lista control validador seguridad aérea UE concluir verificación in situ confirma aplicación controles seguridad arreglo objetivos enumerados lista control carga correo aéreos destino UE EEE
 validador entregará entidad validada original informe validación declarará entidad designada expedidor conocido tercer país superado validación seguridad aérea UE KC
 caso autorizará entidad entregar carga correo aéreos destino UE EEE ACC RA inspeccionado autorizada
@@ -340,7 +336,6 @@ Directiva CE Consejo noviembre relativa condiciones policía sanitaria regulan i
 Decisión Ejecución UE Comisión agosto relativa determinadas medidas protección relación gripe aviar alta patogenicidad subtipo HN Italia DO
 DO
 ANEXO
-
 Zonas protección mencionadas artículo
 Código ISO país
 miembro
@@ -351,13 +346,11 @@ Italia
 Zona abarca municipios
 territorio municipio Imola situado carretera nacional norte carretera nacional Via Emilia
 territorio municipio Solarolo situado norte intersección autopista Rávena
-
 Zonas vigilancia mencionadas artículo
 Fecha límite aplicación conformidad artículo Directiva CE
 Imola restante municipio
 Solarolo restante municipio
 territorio municipio Ferrara situado carretera nacional Via Pomposa carretera provincial Via Ponte Assa
-
 zona restringida mencionada artículo
 Fecha límite aplicación medidas
 Reglamento CE Comisión
@@ -820,7 +813,6 @@ Factor pegilado estimulador colonias granulocitos bovinos
 procede
 Bovinos
 exige LMR
-
 Agente biológico inmunorregulador
 Reglamento CE Consejo
 diciembre
@@ -1843,7 +1835,6 @@ epígrafe Personas físicas entrada Rubén Pestano Lavilla jr alias Reuben Lavil
 Título Jeque Sheik
 Dirección th Avenue Caloocan City Philippines
 Sitio Banga Maiti Barangay Tranghawan Lambunao Iloilo Filipinas
-
 Fecha nacimiento
 Lugar nacimiento Sitio Banga Maiti Barangay Tranghawan Lambunao Iloilo Filipinas
 Pasaportes pasaporte filipino MM pasaporte filipino EE pasaporte filipino
@@ -2754,7 +2745,6 @@ Directiva CE Parlamento Europeo Consejo septiembre materia derecho sociedades re
 Directiva UE Parlamento Europeo Consejo abril relativa fusiones sociedades anónimas DO
 Directiva UE Parlamento Europeo Consejo octubre tendente coordinar hacerlas equivalentes garantías exigidas miembros sociedades definidas artículo párrafo Tratado Funcionamiento Unión Europea proteger intereses socios terceros relativo constitución sociedad anónima mantenimiento modificaciones capital DO
 ANEXO
-
 DERECHO SOCIEDADES
 artículo Directiva CE texto relativo Francia inserta texto
 Croacia
@@ -2765,7 +2755,6 @@ artículo apartado Directiva UE texto relativo Francia inserta texto
 dioničko društvo
 anexo Directiva UE texto relativo Francia inserta texto
 dioničko društvo
-
 NORMAS CONTABILIDAD
 artículo apartado Directiva CEE modifica
 párrafo añade texto
@@ -4341,9 +4330,7 @@ Diario Oficial Unión Europea noviembre
 página artículo punto letra artículo apartado letra Reglamento CE Euratom
 Comisión regla general consignación tardar hábiles extracto anotaciones recursos página artículo punto letra artículo apartado párrafos Reglamento CE Euratom
 recursos IVA recursos adicionales teniendo efecto recursos corrección concedida Reino Unido concepto desequilibrios presupuestarios anotarán
-
 página artículo punto artículo Reglamento CE Euratom
-
 diciembre tercer año ejercicio rectificará importe anotado mensuales miembro contemplado letra apartado artículo
 Artículo diciembre tercer año ejercicio rectificará importe anotado mensuales remitidos miembros aplicación letra apartado artículo
 página artículo punto letra artículo Reglamento CE Euratom bis Comisión regla general consignación tardar hábiles extracto anotaciones recursos bis
@@ -4430,9 +4417,7 @@ CIPAC
 tertbutilfenetil quinazolinil éter
 junio
 mayo
-
 autorizar usos acaricida plantas ornamentales invernadero
-
 aplicación principios uniformes anexo VI conclusiones informe revisión fenazaquina particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros
 atenderán especialmente protección organismos acuáticos
@@ -4933,9 +4918,7 @@ principal componente eugenol
 Impureza relevante metileugenol máximo material técnico
 septiembre
 agosto
-
 autorizarse usos interior fungicida bactericida recolección
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión aceite clavo SANCO particular apéndices II finalizado Comité Permanente Cadena Alimentaria Sanidad Animal
 evaluación general miembros deberán prestar especial atención seguridad operarios trabajadores garantizando condiciones incluyan proceda empleo equipo protección individual adecuado
 notificante presentará información confirmatoria

@@ -337,7 +337,6 @@ Alemania Francia Italia Países Bajos Suecia Bélgica Hungría República Checa 
 asignarán números consecutivos países orden cronológico ratifiquen adopción prescripciones técnicas uniformes aplicables vehículos ruedas equipos piezas puedan montarse utilizarse condiciones reconocimiento recíproco homologaciones concedidas conforme dichas prescripciones adhieran Secretario General Naciones Unidas comunicará números asignados Partes contratantes
 ANEXO
 DOCUMENTACIÓN RELATIVA HOMOLOGACIÓN TIPO CEPE
-
 Modelo ficha características
 Apéndice
 MODELO FICHA CARACTERÍSTICAS
@@ -441,11 +440,9 @@ Cabina conducción avanzada normal
 carrocerías homologadas bastidor
 Altura orden marcha caso suspensión regulable altura indíquese posición normal marcha
 Tipos bastidor instalarse carrocería homologada fabricante fabricantes tipo tipos vehículo
-
 Piso superior Na
 Piso inferior Nb
 Número asientos viajeros
-
 Piso superior Aa
 Piso inferior Ab
 Piso superior
@@ -465,7 +462,6 @@ Masa máxima carga técnicamente admisible declarada fabricante máximo mínimo
 Distribución dicha masa ejes caso semirremolque remolque eje central carga punto acoplamiento máximo mínimo
 Carga masa máxima técnicamente admisible eje
 RESISTENCIA SUPERESTRUCTURA
-
 COMUNICACIÓN
 formato máximo mm
 emitida
@@ -510,7 +506,6 @@ Masa máxima técnicamente admisible kg
 Longitud general mm
 Anchura general mm
 Altura general mm
-
 Piso superior Na Táchese proceda
 capacidad vehículo dependa número sillas ruedas indíquense combinaciones admisibles viajeros sentados viajeros pie viajeros silla ruedas
 Piso inferior Nb Táchese proceda
@@ -1217,7 +1212,6 @@ Escalones viajeros
 véase anexo punto
 Altura nivel suelo vehículo carga
 Clases
-
 II III
 escalón piso
 Altura máxima mm
@@ -1345,7 +1339,6 @@ fuerza cierre reactiva Ft función temporal medida borde exterior puerta rampa v
 fuerza máxima FS valor máximo fuerza cierre reactiva
 fuerza efectiva FE valor fuerza cierre reactiva relación duración impulso
 duración impulso tiempo transcurrido
-
 umbral sensibilidad fuerza cierre reactiva supera
 umbral debilitamiento fuerza cierre reactiva inferior
 relación parámetros muestra figura ejemplo
@@ -1741,7 +1734,6 @@ SSp viajero
 espacio convencional viajero pie
 Clases
 Clases III
-
 caso vehículos capacidad variable asientos superficie variable viajeros pie superficie variable transporte sillas ruedas determinarán requisitos puntos condiciones siguientes corresponda
 asientos posibles ocupados seguidos zona restante viajeros pie límite declarado fabricante alcanza excluidas zonas destinadas exclusivo usuarios sillas ruedas queda sitio espacios sillas ruedas ocupados
 posibles zonas viajeros pie ocupadas límite declarado fabricante excluidas zonas destinadas exclusivo usuarios sillas ruedas seguidas asientos restantes disponibles viajeros sentados sobra sitio espacios sillas ruedas ocupados
@@ -3247,7 +3239,6 @@ DO
 DO
 ANEXO
 ANEXO
-
 Bienes tecnología refieren artículo apartados artículo apartado artículo apartado artículo artículo apartado artículo apartado artículo apartado
 presente anexo comprende bienes tecnología enumerados anexo Reglamento CE definen excepción especificados excepción abril especificados
 Descripción
@@ -3273,7 +3264,6 @@ Equipo lógico diseñado especialmente modificado utilización equipos especific
 Equipo lógico software específico indica
 Equipo lógico software características realice simule funciones equipos especificados subartículo Aa
 Tecnología Nota General Tecnología utilización equipos especificados subartículo equipo lógico especificado subartículos presente lista utilización servicios públicos telecomunicaciones prestación servicios internet protección operador red servicios
-
 artículo aplicable siguientes bienes
 Epígrafe anexo Reglamento CE
 Reactores nucleares equipos componentes diseñados especialmente preparados indica
@@ -3288,7 +3278,6 @@ Componentes internos reactor nuclear diseñados especialmente preparados utiliza
 Intercambiadores calor generadores vapor diseñados especialmente preparados utilización circuito refrigerante primario reactor nuclear
 Instrumentos detección medición neutrones diseñados especialmente preparados determinar niveles flujo neutrones núcleo reactor nuclear
 Uranio enriquecido mencionado artículo incorpore elementos ensamblados combustible nuclear
-
 Sistemas destinados seguridad información equipos componentes diseñados especialmente indica
 Sistemas equipos conjuntos electrónicos específicos aplicaciones determinadas módulos circuitos integrados destinados seguridad información indica componentes diseñados especialmente
 control sistemas mundiales navegación satélite GNSS estén dotados equipos contengan utilicen descifrado ej GPS GLONASS véase
@@ -3310,7 +3299,6 @@ Gas natural líquido
 Gas natural gaseoso
 Propano
 Butanos
-
 ANEXO III
 ANEXO VIA
 Equipo clave tecnología referencia artículos apartado letra apartado
@@ -3318,7 +3306,6 @@ Tubos entubación casing producción tubing tubos perforación tipos utilizados 
 Tubos perforación acero inoxidable
 tubos perforación
 acero inoxidable
-
 tubos ejemplo soldados remachados sección circular diámetro exterior superior mm hierro acero contenido cromo resistencia frío °C
 Tubos tipos utilizados oleoductos gasoductos
 Soldados acero inoxidable
@@ -3524,19 +3511,13 @@ Período contingentario
 Volumen contingentario toneladas peso neto
 Derechos contingentarios
 Patatas frescas refrigeradas destinadas siembra
-
 Exención
 Cebollas frescas refrigeradas
-
 Berenjenas frescas refrigeradas
-
 Calabacines frescos refrigerados
-
 Exención
 Uvas mesa frescas
-
 Sandías frescas
-
 Fruta frutos cocer cocidos agua vapor congelados contenido azúcares superior peso
 Fresas
 Frambuesas zarzamoras moras morasframbuesa grosellas
@@ -3547,9 +3528,7 @@ Tomates preparados conservados vinagre ácido acético
 Enteros trozos
 contenido materia seca inferior peso
 Tomates preparados conservados vinagre ácido acético enteros trozos contenido materia seca inferior peso
-
 contenido materia seca superior inferior peso
-
 Confituras jaleas mermeladas purés pastas frutas frutos
 derecho específico
 Confituras jaleas mermeladas purés pastas frutas frutos obtenidos cocción distintas preparaciones homogeneizadas agrios cítricos contenido azúcar superior inferior peso
@@ -4697,7 +4676,6 @@ Rentabilidad
 Rentabilidad
 Beneficio operativo bruto
 Volumen negocios
-
 Deuda
 Fondos
 Indicador fondos
@@ -4706,8 +4684,6 @@ indicador fondos considerará positivo indicador deuda fondos superior inferior 
 función resultados obtenidos coeficientes mencionados asignarán valoraciones siguientes
 Débil
 Aceptable
-
-
 siguientes normas aplican casos especiales coeficiente negativo contiene denominador numerador nulo
 Liquidez
 capital circulante existencias deudores año resultado débiles cualificaciones
@@ -4797,7 +4773,6 @@ Rentabilidad
 Beneficio operativo neto
 Fondos
 Débil insuficiente
-
 Excepciones
 siguientes normas aplican casos particulares coeficiente contiene denominador numerador nulo
 Autonomía financiera
@@ -4892,12 +4867,9 @@ control capacidad cofinanciación indicador riesgo financiero procede véase sec
 persona física goza beca
 organismo público exceptuadas organizaciones internacionales
 Solvencia
-
 Solvencia
-
 httpeceuropaeubudgetinfocontractlegalentitiesenhtm
 Véase httpcordiseuropaeufpcallsgrantagreementenhtml
-
 Volumen negocios
 resultados obtenidos dichas herramientas aportan indicaciones vinculantes prejuzgan resultados control oficial viabilidad financiera servicios encargados ejecución PM irregularidades declaraciones falsas lugar aplicación sanciones financieras administrativas forma exclusión solicitante participante futuras participaciones
 categoría categorías entidades jurídicas pertenezca entidad jurídica derechos obligaciones particular atañe derechos términos contribución financiera UE favor participante nivel máximo financiación

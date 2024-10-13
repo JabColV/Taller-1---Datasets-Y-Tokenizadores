@@ -1104,7 +1104,6 @@ Importe
 instituciones financieras
 proveedores
 empresas vitivinícolas comerciantes
-
 conformidad artículo ley insolvencia alemana Insolvenzordnung pasivo empresa superior activo motivo incoación procedimiento insolvencia
 arreglo artículo GmbHGesetz antigua versión combinación artículo Insolvenzordnung junta gobierno GfW obligada solicitar incoación procedimiento insolvencia plazo semanas constatación pasivo superado activo Überschuldung
 inminente insolvencia GfW pidió acreedores WAK empresas vitivinícolas comerciantes intervinieron compra mencionada considerando condonaran deudas pendientes empresa pudiera mantener actividad
@@ -2426,7 +2425,6 @@ presente certifica motor examinado desvía excesivamente parámetros prescritos
 Inspección instalación
 Nombre dirección instalaciones ensayo
 Nombre controlador
-
 Firma
 Prueba reconocida autoridad competente
 Sello autoridad competente
@@ -2459,7 +2457,6 @@ Componente
 Número componente registrado
 Conformidad
 Árbol levas pistón
-
 Válvula inyección
 Número software conjunto datos
 Número software conjunto datos
@@ -2481,7 +2478,6 @@ detectado anomalías puedan indicar incumplimiento valores autorizados
 OBSERVACIONES
 observado siguientes divergencias ajustes modificaciones cambios motor instalado
 Nombre controlador
-
 Firma
 DO
 homologaciones alternativas reconocidas conformidad Directiva CE recogen anexo XII punto Directiva CE
@@ -2647,7 +2643,6 @@ originarios proceden prefectura distinta Fukushima Gunma Ibaraki Tochigi Miyagi 
 proceden prefecturas Fukushima Gunma Ibaraki Tochigi Miyagi Nagano Yamanashi Saitama Tokio Chiba Kanagawa Shizuoka originarios expuestos radiactividad tránsito
 originarios prefecturas Fukushima Gunma Ibaraki Tochigi Miyagi Nagano Yamanashi Saitama Tokio Chiba Kanagawa Shizuoka sometidos muestreo fecha objeto análisis laboratorio fecha nombre laboratorio determinar nivel radionúclidos yodo cesio cesio resultados analíticos conformes tolerancias máximas mencionadas artículo apartado
 adjunta informe análisis
-
 Sello firma representante autorizado autoridad competente mencionada artículo apartado
 rellenarla autoridad competente PIF PED
 envío aceptado presentación autoridades aduaneras vistas despacho libre práctica Unión Europea
@@ -3680,7 +3675,6 @@ casos concede titular habilitación categoría limitaciones canjea permiso
 habilitación Klasse modelo concedida federado Sarre categoría nacional autoriza conducir categorías siguientes cm cm
 casos concede titular habilitación categorías limitaciones canjea permiso
 AM
-
 categoría refiere tractores tractores carretera maquinaria trabajo motorizada vehículos nieve vehículo remolcado
 AM
 Reglamento CE Comisión
@@ -3909,7 +3903,6 @@ Método calcular Índice Eficiencia Energética eficiencia condensación pondera
 CÁLCULO ÍNDICE EFICIENCIA ENERGÉTICA
 calcular Índice Eficiencia Energética IEE modelo secadora tambor doméstica compara consumo energía anual ponderado secadora tambor doméstica programa normal algodón carga completa carga parcial consumo energía anual normalizado
 Índice Eficiencia Energética IEE EEI siglas inglés calcula redondea decimal
-
 consumo energía anual ponderado secadora tambor doméstica
 consumo energía anual normalizado secadora tambor doméstica
 consumo energía anual normalizado SAEC calcula kWh año redondea decimal
@@ -4257,7 +4250,6 @@ Flores camomila
 Flor hibisco
 Pétalos rosa
 Tila
-
 Hojas
 Hojas fresa
 Hoja té rojo Hojas ginkgo
@@ -4299,7 +4291,6 @@ Estigma flores
 Azafrán
 Arilo
 Macis
-
 Código
 Grupos tipos productos individuales aplican contenidos máximos residuos
 Dimetomorf

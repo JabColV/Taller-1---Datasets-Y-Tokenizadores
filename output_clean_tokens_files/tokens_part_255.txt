@@ -813,9 +813,6 @@ Zona restringida pesca Golfo León
 Artículo
 Establecimiento zona restringida pesca
 oriental Golfo León establece zona restringida pesca limitada líneas unen siguientes coordenadas geográficas
-
-
-
 Artículo
 Esfuerzo pesquero
 Tratándose poblaciones demersales esfuerzo pesquero buques utilicen redes arrastre palangres fondo semipelágicos redes fondo zona restringida pesca contemplada artículo superará nivel esfuerzo pesquero aplicado miembro dicha zona
@@ -1066,22 +1063,7 @@ Sur Mar Adriático
 Coordenadas geográficas SZG CGPM CGPM
 LÍMITES
 Línea costa
-
-
-
-
-
-
-
-
-
-
-
-
-
 Frontera Marruecos Argelia
-
-
 Frontera Argelia Túnez
 Línea costa
 Frontera Francia Italia
@@ -1599,7 +1581,6 @@ Apellidos nombre razón social dirección completa
 suscribe reconoce correspondencia notificaciones general formalidades trámites relativos presente compromiso dirigidos evacuados escrito domicilios señalados aceptarán debidamente comunicados
 suscribe reconoce competencia órganos jurisdiccionales correspondientes lugares señalado domicilio
 suscribe compromete mantener domicilios señalados tuviere cambiar domicilios señalados comunicarlo previamente aduana garantía
-
 FirmaII
 Aceptación aduana garantía
 Aduana garantía
@@ -2018,14 +1999,12 @@ DO
 Directiva modificada Directiva CEE DO
 Véase anexo
 ANEXO
-
 Directiva derogada modificación
 contemplados artículo
 Directiva CEE Consejo
 DO
 Directiva CEE Consejo
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Fecha límite transposición
@@ -2647,7 +2626,6 @@ SRI ISOFIX integral vehículos específicos
 Orientado capazo
 Orientado atrás
 Orientado integral
-
 SRI Sistema retención infantil
 Aplicable
 NA aplicable
@@ -2799,7 +2777,6 @@ Colisión trasera
 Colisión lateral
 Ensayo carro asiento estándar
 Ensayo carrocería
-
 atrás
 sistemas retención infantil iSize someterán ensayo carro ensayo asiento ensayo prescrito anexo arreglo punto
 sistemas retención infantil categoría ISOFIX vehículos específicos deberán ensayarse modelos vehículo estén destinados
@@ -3086,9 +3063,7 @@ Distancia frenado ensayo mm
 Velocidad relativa puerta banco
 Distancia frenado ensayo mm Intrusión máxima
 Carro banco ensayo
-
 atrás
-
 Maniquíes ensayos dinámicos
 sistemas retención infantil deberán ensayarse utilizando maniquíes establecidos anexo presente Reglamento
 Instalación maniquíes colisiones frontales traseras
@@ -3351,7 +3326,6 @@ objeto medición
 resultados medición desplazamiento máximo cabeza deberán cumplir condiciones siguientes
 valor deberá superar
 deberá superar
-
 valor límite prescrito
 media valores
 desviación estándar valores
@@ -3941,7 +3915,6 @@ DETERMINACIÓN CRITERIOS COMPORTAMIENTO
 CRITERIO COMPORTAMIENTO CABEZA HPC
 satisface criterio ensayo produce contacto cabeza componente vehículo
 calculará valor HPC aceleración arreglo fórmula
-
 término aceleración resultante medida unidades gravedad
 comienzo contacto cabeza determinarse satisfactoria constituyen instantes expresados segundos definen intervalo tiempo comienzo contacto cabeza registro valor HPC máximo
 comienzo contacto cabeza determinarse satisfactoria constituyen instantes expresados segundos definen intervalo tiempo inicio registro valor HPC máximo
@@ -4160,13 +4133,11 @@ cuadros completados miembros Comisión decidir consecuencias financieras falta r
 Corrección errores Decisión PESC Consejo febrero relativa medidas restrictivas Zimbabue
 Diario Oficial Unión Europea febrero
 página artículo apartado
-
 Artículo
 artículo aplicará
 venta suministro transferencia exportación equipos militares letales equipo utilizarse represión interna destinados únicamente humanitario protección programas desarrollo institucional Naciones Unidas UE material destinado operaciones gestión crisis UE Naciones Unidas
 ofrecimiento financiación asistencia financiera relativa dichos equipos
 suministro asistencia técnica relativa dichos equipos correspondiente autoridad competente aprobado previamente exportaciones
-
 suministro asistencia técnica relativa dichos equipos
 correspondiente autoridad competente aprobado previamente exportaciones
 Reglamento CE Consejo

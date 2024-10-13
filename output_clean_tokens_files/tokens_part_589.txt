@@ -88,9 +88,7 @@ modificaciones suelos ocurridas paso tiempo lugar zonas llanas constituidas sedi
 Corrección errores Reglamento CE Consejo julio relativo estructuras gestión programa europeo radionavegación satélite
 Diario Oficial Unión Europea julio
 página considerando
-
 crearse Autoridad Europea Supervisión sistema global navegación satélite GNSS sucesivo Autoridad
-
 crearse Autoridad Supervisión sistema global navegación satélite GNSS europeo sucesivo Autoridad
 Reglamento CE Comisión
 septiembre
@@ -162,7 +160,6 @@ CSB ImageMeater anexo Decisión CE puntos sustituyen texto
 CSB ImageMeater consiste concretamente cámara vídeo PC equipado tarjeta análisis imágenes pantalla impresora mecanismo mando mecanismo cálculo interfaces
 variables ImageMeater medirán línea divisoria valores medidos convertidos estimación porcentaje carne magra unidad central
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor mínimo tocino milímetros incluida piel músculo glúteo
 espesor tocino milímetros incluida piel vértebras lumbares denominadas Vb Vc Vd
@@ -1016,7 +1013,6 @@ Artículo
 presente Decisión entrará vigor notificación transmitida Comité Mixto EEE conformidad establecido artículo apartado EEE
 Artículo
 presente Decisión publicará sección EEE Suplemento EEE Diario Oficial Unión Europea
-
 DO
 DO
 indicado preceptos constitucionales indicado preceptos constitucionales
@@ -1549,7 +1545,6 @@ DO
 DO
 ANEXO
 Artículo apartado
-
 DEFINICIÓN CARACTERÍSTICAS EXAMINARSE CONSIDERAR CALIDAD IRREPROCHABLE CEREAL BASE
 Granos partidos
 consideran granos partidos granos cuyo endospermo esté parcialmente descubierto
@@ -1598,13 +1593,11 @@ niveles máximos admisibles contaminantes incluida radiactividad establecidos no
 ELEMENTOS TENERSE DEFINICIÓN IMPUREZAS TRIGO DURO
 impurezas constituidas granos entenderá granos asurados granos cereales granos atacados plagas granos presenten coloraciones germen granos atizonados atacados Fusarium granos calentados secado
 impurezas estarán compuestas granos extraños granos dañados impurezas propiamente dichas glumas cornezuelos granos cariados insectos muertos fragmentos
-
 CRITERIOS CALIDAD MÍNIMA TRIGO DURO
 aplicable
 Contenido máximo humedad
 Porcentaje máximo elementos cereales base calidad irreprochable máximo
 Impurezas constituidas granos distintos punto
-
 granos asurados
 cereales
 granos atacados plagas
@@ -1615,7 +1608,6 @@ granos atacados Fusarium
 Impurezas Schwarzbesatz
 granos extraños
 nocivos
-
 granos dañados
 granos deteriorados calentamiento espontáneo secado excesivo
 impurezas propiamente dichas
@@ -1689,7 +1681,6 @@ Efectuar ensayos duplicado
 Repetición
 diferencia valores obtenidos determinaciones efectuadas simultáneamente intervalo analista exceder humedad muestra
 caso supere dicha cifra habrán repetirse determinaciones
-
 MÉTODO REFERENCIA DETERMINACIÓN GRADO HARINOSIDAD TRIGO DURO
 método referencia determinación grado harinosidad trigo duro figura continuación
 muestra sirve determinación grado harinosidad parcialmente
@@ -1711,8 +1702,6 @@ masa gramos elementos cereales base calidad irreprochable
 porcentaje harinosos parcialmente granos limpios examinados
 Resultado
 Porcentaje granos harinosos parcialmente muestra
-
-
 MÉTODOS DETERMINACIÓN CALIDAD TRIGO DURO
 método referencia determinación índice caída Hagberg prueba actividad amilásica determinará conformidad método ISO
 método referencia determinación peso específico método ISO
@@ -1781,21 +1770,6 @@ defectos granos arroz cáscara sobrepasen tolerancias aceptadas calidad tipo apl
 Reducciones defectos granos arroz
 Porcentaje granos defectuosos entraña descuento precio intervención
 Porcentaje descuento aplicable punto fracción punto supere límite inferior
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 grado humedad arroz cáscara sobrepase descuento precio intervención diferencia porcentaje humedad arroz ofrecido intervención medido precisión decimal
 porcentaje impurezas arroz cáscara exceda arroz comprará intervención descuento precio intervención impurezas
 ofrezca intervención lote arroz cáscara variedad determinada lote porcentaje granos arroz variedades superior comprará intervención descuento precio intervención granos variedades
@@ -2185,7 +2159,6 @@ evaluación precisión posición horizontal suministrada sistemas refiere artíc
 proveedores servicios navegación aérea verificarán cumplimiento requisitos rendimiento establecidos conforme puntos
 verificación cumplimiento realizará base datos vigilancia suministrados cadena vigilancia usuario datos vigilancia
 ANEXO II
-
 Capacidades transpondedores radar secundario vigilancia contempladas artículo apartado artículo apartado letra apartado letra artículo apartado artículo apartados
 capacidad mínima transpondedor radar secundario vigilancia nivel certificado arreglo apartados anexo Convenio Chicago vol IV cuarta edición incluidas enmiendas
 registro transpondedor empleado deberá cumplir sección correspondiente documento OACI edición
@@ -2208,7 +2181,6 @@ emergencia emergencia general comunicación interferencia ilícita incluido cód
 avisos resolución activos ACAS aeronave esté equipada Sistema Alerta Tránsito Anticolisión II TCAS II
 facilitar transpondedor datos
 transpondedor transmitirá datos refiere punto protocolo proceso certificación aeronave equipamiento comprende transmisión datos protocolo
-
 Capacidades transpondedores radar secundario vigilancia contempladas artículo apartado artículo apartado letra apartado letra apartado artículo apartado artículo apartado
 capacidad mínima transpondedor radar secundario vigilancia nivel certificado arreglo apartados anexo Convenio Chicago vol IV cuarta edición incluidas enmiendas
 siguientes elementos datos deberán facilitados transpondedor transmitidos versión protocolo señales espontáneas ampliadas ADSB arreglo formatos especificados documento OACI edición
@@ -2242,7 +2214,6 @@ latencia descompensada datos posición horizontal elemento datos punto letra inf
 latencia datos velocidad suelo elementos datos punto letras inferior segundos transmisiones
 ajusta transpondedor utilizar código conspicuidad inhibirá emisión información código protocolo señales espontáneas ampliadas ADSB
 formatos reservados militar transpondedor transmitirá elementos datos punto protocolo señales espontáneas ampliadas ADSB proceso certificación aeronave equipamiento comprende transmisión elementos datos protocolo señales espontáneas ampliadas ADSB
-
 Capacidad adicional datos vigilancia transpondedores radar secundario vigilancia contemplada artículo apartado artículo apartado letra apartado letra artículo apartado artículo apartado artículo apartado
 registro transpondedor empleado deberá cumplir sección correspondiente documento OACI edición
 transpondedor recibir siguientes datos transmitirlos requiera cadena vigilancia terrestre protocolo arreglo formatos especificados documento OACI edición
@@ -3062,7 +3033,6 @@ COSTES OPERATIVOS COMUNES CORRESPONDIENTES FASE PREPARATORIA OPERACIÓN CORREN C
 gastos adicionales necesarios misiones exploración preparativos particular misiones investigación reconocimiento realizados personal civil militar vistas operación militar específica UE transporte alojamiento empleo medios comunicación comunicaciones operativas contratación personal civil local ejecución misión intérpretes conductores etc
 Servicios médicos coste evacuación médica urgencia Medevac personas participan misiones exploratorias preparativos realizados personal militar civil vistas operación militar específica Unión prestarse tratamiento médico teatro operaciones
 ANEXO III
-
 COSTES OPERATIVOS COMUNES RELATIVOS FASE ACTIVA OPERACIONES ESTARÁN CARGO ATHENA
 operaciones militares UE ATHENA sufragará concepto costes operativos comunes costes adicionales necesarios operación definidos continuación
 Costes adicionales cuarteles generales móviles fijos operaciones dirigidas UE
@@ -3094,11 +3064,9 @@ costes UE ejecución operaciones militares acuerdos UE OTAN relativos entrega co
 Reembolso Unión Europea OTAN
 Costes adicionales contraídos Unión bienes servicios obras incluidos lista costes comunes puestos disposición operación dirigida UE miembro institución Unión tercer organización internacional arreglo contemplado artículo
 Reembolsos institución Unión organización internacional arreglo características
-
 COSTES OPERATIVOS COMUNES RELATIVOS FASE ACTIVA OPERACIÓN ESPECÍFICA ESTARÁN CARGO ATHENA DECIDE CONSEJO
 Costes transporte transporte ida vuelta teatro operaciones desplegar mantener recuperar fuerzas necesarias operación
 Cuartel general multinacional fuerza operativa cuartel general multinacional fuerzas operativas UE desplegadas zona operaciones
-
 COSTES OPERATIVOS COMUNES ESTARÁN CARGO ATHENA SOLICITE COMANDANTE OPERACIÓN APRUEBE COMITÉ ESPECIAL
 Cuarteles infraestructuras alojamiento gastos adquisición alquiler reformas locales teatro operaciones edificios refugios tiendas medida necesaria fuerzas desplegadas operación
 Material adicional esencial alquiler compra operación material específico previsto esencial ejecución operación medida equipo adquirido repatríe misión
@@ -3631,14 +3599,12 @@ DO
 DO
 ANEXO
 ANEXO
-
 Zona establecida conformidad artículo apartado
 Código ISO país
 miembro
 Zona
 Fecha aplicable artículo apartado letra inciso iii
 Código
-
 Nombre
 ALEMANIA
 zona km establecida brote municipio Markersdorf distrito Görlitz incluida totalidad municipios
@@ -3649,7 +3615,6 @@ norte frontera norte ciudad Zgorzelec
 frontera ciudad Zgorzelec pueblo Koźmin pueblo Osiek Łużycki
 sur frontera sur pueblo Osiek Łużycki
 oeste frontera Polonia Alemania
-
 Zona establecida conformidad artículo apartado
 Zona
 zona distrito Görlitz incluye totalidad siguientes municipios

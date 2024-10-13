@@ -613,9 +613,7 @@ CICAP
 diclorofenilfluoroHtriazolilquinazolinHona
 enero
 diciembre
-
 autorizarse usos fungicida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión fluquinconazol particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros
 prestarán atención particular seguridad operarios trabajadores velarán condiciones incluyan proceda empleo equipo protección personal adecuado
@@ -683,7 +681,6 @@ DO
 DO
 PROYECTO
 DECISIÓN COMITÉ MIXTO EEE
-
 modifica Protocolo EEE cooperación sectores específicos incluidos libertades
 COMITÉ MIXTO EEE
 Visto Espacio Económico Europeo redacción dada Protocolo adapta Espacio Económico Europeo particular artículos
@@ -698,7 +695,6 @@ presente Decisión entrará vigor notificación Comité Mixto EEE efectuada disp
 presente Decisión aplicable enero
 Artículo
 presente Decisión publicará sección EEE Suplemento EEE Diario Oficial Unión Europea
-
 DO
 indicado preceptos constitucionales indicado preceptos constitucionales
 Corrección errores Decisión Comité Mixto EEE noviembre modifica anexo II Reglamentaciones técnicas normas ensayos certificación anexo IV Energía EEE Diario Oficial Unión Europea febrero
@@ -721,8 +717,6 @@ Carga normal
 Volumen utilizablelitros
 Tipo
 Pequeño
-
-
 Tiempo cocción carga normal
 Ruido dBAre pW
 Ficha información detallada folletos producto
@@ -943,7 +937,6 @@ Emisiones atmósfera rama actividad NACE rev
 Emisiones hogares atmósfera
 Transportes
 Calefacción refrigeración
-
 Elementos transposición
 cuentas emisiones atmósfera ramas actividad hogares
 residentes nacionales extranjero
@@ -1475,11 +1468,9 @@ CIPAC
 RSRSRSSRbifenililtetrahidronaftilhidroxicumarina
 enero
 diciembre
-
 autorizarán usos rodenticida forma cebos preparados colocados cajas cebos construidas especialmente efecto selladas prueba manipulaciones
 concentración nominal sustancia activa productos deberá exceder mg kg
 autorizaciones deberán limitarse usuarios profesionales
-
 Deberán tomarse medidas reducción riesgo pertinente
 miembros afectados velarán notificante presente Comisión información adicional métodos determinación residuos difenacum fluidos corporales
 Velarán notificante proporcione información Comisión tardar noviembre
@@ -1788,7 +1779,6 @@ Año
 Volumen importaciones activación toneladas
 Panamá
 diciembre
-
 procede
 DECLARACIÓN COMISIÓN
 Comisión acoge satisfacción lectura Parlamento Europeo Consejo relación Reglamento UE Parlamento Europeo Consejo enero aplica cláusula bilateral salvaguardia mecanismo estabilización banano establece asociación Unión Europea miembros Centroamérica
@@ -2735,7 +2725,6 @@ Directiva CE Parlamento Europeo Consejo abril relativa mercados instrumentos fin
 efectos presente introduce adaptación disposiciones Directiva
 respecta relaciones empresas inversión terceros países descritas artículo Directiva aplicarán disposiciones siguientes aras máxima convergencia aplicación régimen aplicable terceros países empresas inversión Partes Contratantes procederán intercambiar información describe artículo apartados mantendrán consultas cuestiones contempladas artículo apartados marco Comité mixto EEE procedimientos específicos convengan Partes contratantes
 autorizaciones concedidas autoridades competentes Partes contratantes empresas inversión filiales directas indirectas empresas matriz rijan legislación tercer país validez disposiciones presente Directiva territorio Partes Contratantes
-
 caso tercer país imponga restricciones cuantitativas establecimiento empresas inversión AELC imponga restricciones tales empresas imponga empresas inversión Comunidad autorizaciones concedidas autoridades competentes Comunidad empresas inversión filiales directas indirectas empresas matriz rijan legislación tercer país validez únicamente Comunidad caso AELC decida contrario jurisdicción
 caso Comunidad decidido decisiones relativas autorizaciones empresas inversión filiales directas indirectas empresas matriz rijan legislación tercer país limitarse restringirse autorizaciones concedidas autoridad competente AELC dichas empresas validez únicamente jurisdicción caso contratante decida contrario jurisdicción
 limitaciones suspensiones mencionadas letras aplicarse empresas inversión filiales autorizadas territorio Partes contratantes
@@ -3301,7 +3290,6 @@ Artículo apartado
 exceda EUR
 certificación electrónica
 Deberán aportarse pruebas trabajo funcionario revisado funcionario superior
-
 presidente miembros hayan participado deliberaciones firmarán informes asimismo firmados secretaría órgano conciliación
 miembros autorizar organismos pagadores cumplen determinados criterios mínimos establecidos escala comunitaria vinculados ámbitos fundamentales entorno interior actividades control información comunicación seguimiento
 organismo certificación elaborará informe recoja resultados obtenidos abarque funciones delegadas ejercidas autoridades aduaneras nacionales
@@ -3436,12 +3424,9 @@ autoriza Presidente Consejo efectuar notificación prevista artículo apartado
 Bruselas mayo
 Consejo
 Presidente
-
 Comunidad Europea República Islámica Pakistán determinados aspectos servicios aéreos
 COMUNIDAD EUROPEA
-
 REPÚBLICA ISLÁMICA PAKISTÁN sucesivo denominada Pakistán
-
 sucesivo denominados Partes
 OBSERVANDO determinadas disposiciones acuerdos bilaterales servicios aéreos miembros Comunidad Europea República Islámica Pakistán ajustarse Derecho comunitario
 OBSERVANDO Comunidad Europea competencia exclusiva aspectos incluirse acuerdos bilaterales servicios aéreos miembros Comunidad Europea terceros países
@@ -4597,8 +4582,6 @@ Características
 Requisitos específicos evaluarse referencia capítulo Módulo
 Plataforma seguridad tierra Eurobaliza LEU Eurobaliza Seguridad
 ERTMS ETCS bordo
-
-
 excepción
 Registro datos fines cumplimiento normativa
 RBC niveles Unidad radio infill opcional nivel Interfaz aire Eurobaliza
@@ -4608,7 +4591,6 @@ Sistema gestión claves
 Gestión ETCS ID
 Interfaz datos
 Registrador información seguridad
-
 Plataforma seguridad bordo
 Registrador información seguridad
 registro datos fines cumplimiento normativa

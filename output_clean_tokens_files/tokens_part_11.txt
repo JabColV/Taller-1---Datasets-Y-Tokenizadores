@@ -157,8 +157,6 @@ Caballa especie Scomber scombrus
 Estornino especie Scomber japonicus
 Anchoa Engraulis spp
 Solla Pleuronectes platessa
-
-
 Merluzas especie Merluccius merluccius
 Gallos Lepidorhombus spp
 Limandas Limanda limanda
@@ -199,7 +197,6 @@ Precio producción comunitario
 Rabil Thunnus albacares
 peso superior kg unidad
 Eviscerado branquias
-
 peso inferior kg unidad
 Albacora atún blanco Thunnus alalunga
 Listado Katsuwonus pelamis
@@ -819,12 +816,10 @@ Suero mantequilla manteca leche nata crema cuajadas yogur kéfir leches natas cr
 Yogur
 Aromatizados frutas frutos cacao
 Aromatizados
-
 frutas frutos
 cacao
 glucosa peso
 Aromatizados frutas frutos cacao
-
 frutas frutos
 Mantequilla manteca materias grasas leche pastas lácteas untar
 Pastas lácteas untar
@@ -843,7 +838,6 @@ Fructosa químicamente pura as grasas leche superior inferior peso
 Artículos confitería cacao incluido chocolate blanco
 Chicles gomas mascar recubiertos azúcar inferior peso
 Preparación llamada chocolate blanco
-
 Chocolate preparaciones alimenticias contengan cacao
 Cacao polvo adición azúcar edulcorante zúcar
 Edulcorado exclusivamente adición sacarosa
@@ -858,7 +852,6 @@ Preparaciones alimentación infantil acondicionadas venta menor extracto malta c
 Preparaciones alimenticias productos partidas contenido cacao inferior peso calculado base totalmente desgrasada
 Mezclas pastas preparación productos panadería pastelería galletería partida peso calculado base totalmente desgrasada
 Extracto malta
-
 Preparaciones alimenticias productos partidas contenido cacao inferior peso calculado base totalmente desgrasada
 Pastas alimenticias cocidas rellenas carne sustancias preparadas forma tales espaguetis fideos macarrones tallarines lasañas ñoquis ravioles canelones cuscús preparado
 Pastas alimenticias cocer rellenar preparar forma tis fideos macarrones tallarines lasañas ñoquis ravioles canelones cuscús preparado
@@ -3962,7 +3955,6 @@ Mercancías estatuto comunitario transportadas amparo cuaderno ATA
 Documento único administrativo acreditativo carácter comunitario mercancías
 Documento único administrativo acreditativo carácter comunitario mercancías intercambios partes territorio aduanero Comunidad aplican normas comunitarias relativas impuesto valor añadido partes territorio aplican
 Declaración tránsito amparando procedimiento tránsito común relativo mercancías comunitarias
-
 documento an
 CÓDIGO DOCUMENTOS CERTIFICADOS PRESENTADOS
 Códigos numéricos extraídos Repertorio intercambio electrónico datos administración comercio transporte Lista códigos elemento dato Nombre documento mensaje codificado
@@ -4004,7 +3996,6 @@ Formulario TIF
 Cuaderno TIR
 Certificado origen EUR
 Cuaderno ATA
-
 CÓDIGOS MODOS TRANSPORTE ENVÍOS POSTALES ENVÍOS
 Código cifra obligatorio
 Código cifras cifra facultativa Partes contratantes
@@ -4058,7 +4049,6 @@ campo completarse libremente código alfanumérico caracteres
 caracteres permiten administraciones nacionales caso necesario definir jerarquía aduanas
 aduanas destino figuran lista aduanas competentes LBD sitio Europa operaciones tránsito común
 ANEXO
-
 Expedidor Exportador
 TRÁNSITO DOCUMENTO ACOMPAÑAMIENTO
 Partidas
@@ -4237,7 +4227,6 @@ casilla facultativa Partes contratantes
 indicarán apellidos nombre razón social dirección completa interesado
 número identificación países cuestión completar instrucciones número identificación atribuido interesado autoridades competentes motivos fiscales estadísticos tipo
 caso agrupamiento Partes contratantes establecer indique
-
 Casilla Formularios
 Indíquese número orden formulario número formularios utilizados
 Ejemplos documento TL emite formulario indicará documento TL incluye formulario complementario TLbis indicará documento TL formulario complementario documento TL incluye formularios complementarios TLbis indicará documento TL documento TLbis TLbis
@@ -4457,7 +4446,6 @@ registrada
 número
 aduana
 entregado
-
 Táchese proceda
 ANEXO
 ETIQUETA
@@ -4487,7 +4475,6 @@ Apellidos nombre razón social dirección completa
 suscribe reconoce correspondencia notificaciones general formalidades trámites relativos presente compromiso dirigidos evacuados escrito domicilios señalados aceptarán debidamente comunicados
 suscribe reconoce competencia órganos jurisdiccionales correspondientes lugares señalado domicilio
 suscribe compromete mantener domicilios señalados tuviere cambiar domicilios señalados comunicarlo previamente aduana garantía
-
 FirmaII
 Aceptación aduana garantía
 Aduana garantía
@@ -4506,7 +4493,6 @@ GARANTÍA INDIVIDUAL TÍTULOS
 Comunidad Europea constituida Reino Bélgica República Bulgaria República Checa Reino Dinamarca República Federal Alemania República Estonia República Helénica Reino España República Francesa Irlanda República Italiana República Chipre República Letonia República Lituania Ducado Luxemburgo República Hungría República Malta Reino Países Bajos República Austria República Polonia República Portuguesa Rumanía República Eslovenia República Eslovaca República Finlandia Reino Suecia Reino Unido Bretaña Irlanda Norte República Islandia Reino Noruega Confederación Suiza Principado Andorra República San Marino obligado principal deba pudiera deber citados países suma principal adicional gastos accesorios exclusión sanciones pecuniarias concepto deuda constituida derechos gravámenes aplicables mercancías incluidas régimen tránsito comunitario común relación suscribe comprometido asumir responsabilidad entrega títulos garantía importe máximo EUR título
 suscribe obliga efectuar pago cantidades exigidas requerimiento escrito autoridades competentes países mencionados punto importe máximo EUR título garantía individual diferirlo allá plazo contar fecha requerimiento persona interesada demuestre expiración plazo satisfacción autoridades competentes régimen finalizado
 suscribe seguirá responsable pago deuda originada consecuencia operaciones tránsito comunitario común cubiertas presente compromiso hayan comenzado anterioridad fecha surta efectos revocación rescisión documento fianza pago exija posterioridad
-
 Aceptado compromiso fiador
 Únicamente operaciones tránsito comunitario
 firma deberá precedida indicación manuscrita firmante Vale concepto garantía
@@ -4533,14 +4519,12 @@ domiciliadoa
 representa importe referencia Comunidad Europea constituida Reino Bélgica República Bulgaria República Checa Reino Dinamarca República Federal Alemania República Estonia República Helénica Reino España República Francesa Irlanda República Italiana República Chipre República Letonia República Lituania Ducado Luxemburgo República Hungría República Malta Reino Países Bajos República Austria República Polonia República Portuguesa Rumanía República Eslovenia República Eslovaca República Finlandia Reino Suecia Reino Unido Bretaña Irlanda Norte República Islandia Reino Noruega Confederación Suiza Principado Andorra República San Marino
 suscribe obliga efectuar pago cantidades exigidas requerimiento escrito autoridades competentes países mencionados punto importe máximo mencionado diferirlo allá plazo contar fecha requerimiento persona interesada demuestre expiración plazo satisfacción autoridades competentes régimen finalizado
 importe deducir sumas pagadas virtud presente compromiso caso suscribe requeridoa consecuencia operación tránsito comunitario común comenzado recepción requerimiento pago precedente siguen
-
 Aceptado compromiso fiador
 Táchese proceda
 firma deberá precedida indicación manuscrita firmante Vale concepto fianza importe indicando cantidad letras
 ANEXO
 CERTIFICADO GARANTÍA GLOBAL
 validez
-
 Mes
 Año
 Número

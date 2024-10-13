@@ -3508,7 +3508,6 @@ Producción ecológica
 Cultivado
 Silvestre
 granja
-
 Reutilizable
 Blindado
 Ergonómico
@@ -3583,7 +3582,6 @@ Subterráneo
 Subacuático
 In situ
 suelo
-
 usos especiales
 artículos conexos
 Estándar
@@ -3734,7 +3732,6 @@ Mensual
 Anual
 Grupo indicaciones
 exceder
-
 Máximo
 Mínimo
 Fase
@@ -3755,7 +3752,6 @@ Lote principal
 Superficie
 Puesta servicio
 Prolongación
-
 Número
 Número canales
 Número elementos
@@ -4215,10 +4211,8 @@ Designación servicios Número referencia CPC
 Código CPC
 Servicios mantenimiento reparación
 Servicios transportes vía terrestre incluidos servicios furgones blindados servicios mensajería transporte correo
-
 Servicios transporte excluido transporte residuos
 Servicios transporte aéreo transporte pasajeros carga transporte correo
-
 Transporte correo vía terrestre vía aérea
 Servicios telecomunicación
 Servicios telefónicos PI
@@ -4250,7 +4244,6 @@ Servicios transporte complementarios auxiliares
 Servicios rompehielos
 Servicios colocación suministro personal
 Servicios investigación seguridad servicios furgones blindados
-
 Servicios educación formación profesional
 Servicios sociales salud
 Reparto domicilio alimentos
@@ -4271,7 +4264,6 @@ Construcción general inmuebles obras ingeniería civil
 Construcción general edificios obras singulares ingeniería civil puentes túneles etc
 Construcción cubiertas estructuras cerramiento
 Construcción autopistas carreteras campos aterrizaje vías férreas centros deportivos
-
 Trabajos construcción piscinas Público
 Trabajos construcción cabinas seccionamiento vías férreas
 Obras hidráulicas
@@ -4287,7 +4279,6 @@ Instalaciones carpintería
 Revestimiento suelos paredes
 Pintura acristalamiento
 acabados edificios obras
-
 Trabajos construcción piscinas Privado
 Alquiler equipo construcción demolición dotado operario
 ANEXO IV
@@ -4333,7 +4324,6 @@ instalaciones edificios obras véase
 acabado edificios obras véase
 actividades arquitectura ingeniería véase
 dirección obras construcción véase
-
 construcción tejados
 cubierta tejados
 impermeabilización edificios balcones
@@ -4343,8 +4333,6 @@ construcción pistas aterrizaje
 construcción equipamientos estadios piscinas gimnasios pistas tenis campos golf instalaciones deportivas excluidos edificios
 pintura señales carreteras aparcamientos
 movimiento tierras previo véase
-
-
 vías navegables instalaciones portuarias fluviales puertos deportivos esclusas etc
 presas diques
 dragados
@@ -4391,7 +4379,6 @@ instalación piscinas particulares
 limpieza vapor chorro arena similares exterior edificios
 obras acabado edificios citadas
 limpieza interior edificios obras véase
-
 alquiler equipo maquinaria construcción demolición desprovisto operario véase
 caso interpretaciones CPV NACE aplicará nomenclatura NACE
 Reglamento CEE Consejo octubre relativo nomenclatura estadística actividades económicas Comunidad Europea DO Reglamento modificado lugar Reglamento CEE Comisión DO
@@ -4399,40 +4386,13 @@ ANEXO VI
 Categorías
 Número referencia CPC
 Número referencia CPV
-
 Servicios transporte vía terrestre incluidos servicios furgones blindados servicios mensajería transporte correo
-
-
-
-
-
 Transporte correo vía terrestre vía aérea
-
-
-
-
-
-
 Servicios investigación desarrollo
-
-
 Servicios contabilidad auditoría teneduría libros
-
-
 Servicios consultores dirección servicios conexos
-
-
 Servicios arquitectura servicios ingeniería servicios integrados ingeniería servicios planificación urbana servicios arquitectura paisajista Servicios conexos consultores ciencia tecnología Servicios ensayos análisis técnicos
-
-
-
-
-
 Servicios editoriales imprenta tarifa contrato
-
-
-
-
 caso interpretaciones CPV CPC aplicará nomenclatura CPC
 Nomenclatura CPC versión provisional empleada definir ámbito aplicación Directiva CEE
 Exceptuando servicios transporte ferrocarril incluidos categoría
@@ -4441,23 +4401,9 @@ Quedan excluidos servicios consistan adquisición arrendamiento independientemen
 Exceptuando servicios investigación desarrollo distintos cuyos resultados corresponden adjudicador entidad adjudicadora exclusivo remunere íntegramente prestación servicio
 Exceptuando servicios arbitraje conciliación
 ANEXO VII
-
-
-
-
-
-
 Servicios colocación suministro personal
-
-
-
-
-
 Servicios sociales salud
-
 Servicios esparcimiento culturales deportivos
-
-
 Exceptuando contratos trabajo
 Exceptuando contratos compra desarrollo producción coproducción material programación organismos radiodifusión contratos relativos tiempo radiodifusión
 Mate

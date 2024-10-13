@@ -1380,7 +1380,6 @@ DO
 DO
 DO
 ANEXO
-
 Directiva derogada sucesivas modificaciones
 refiere artículo
 Directiva CEE Consejo
@@ -1402,7 +1401,6 @@ DO
 Únicamente artículo
 Directiva CE Parlamento Europeo Consejo
 DO
-
 Plazos incorporación Derecho nacional
 Directiva
 Fecha límite incorporación
@@ -1476,9 +1474,7 @@ plan muestreo plan control programas comunes control conformes metodologías bas
 Corrección errores Reglamento UE Comisión enero modifica centésimo decimonovena Reglamento CE Consejo imponen determinadas medidas restrictivas específicas dirigidas determinadas personas entidades asociadas Usamah bin Ladin red AlQaida talibanes
 Diario Oficial Unión Europea enero
 Página punto letra
-
 Tanzim Qa’idat alJihad fi Jazirat alArabm
-
 Tanzim Qa’idat alJihad fi Jazirat alArab
 Página punto letra
 Salahm
@@ -3970,7 +3966,6 @@ tipo interés contemplado apartado aplicará período fecha recuperación
 transcurrido año fecha ayuda ilegal puso disposición beneficiario fecha recuperación ayuda tipo interés calculará intervalos anuales tomando base tipo vigente momento cálculo tipo
 ANEXO II
 Anexo Decisión COL queda modificado
-
 INFORMACIÓN GENERAL
 NATURALEZA NOTIFICACIÓN
 información transmitida impreso refiere
@@ -4029,7 +4024,6 @@ Conservación patrimonio
 Cultura
 Régimen Ayuda individual
 refiere notificación régimen ayudas
-
 caso afirmativo modifica régimen régimen ayudas existente
 caso afirmativo cumplen condiciones establecidas procedimiento notificación simplificado conformidad Decisión COL Órgano Vigilancia AELC
 caso afirmativo utilícese impreso notificación simplificada facilítese información solicita véase Anexo II
@@ -4086,12 +4080,6 @@ Pequeñas empresas
 Microempresas
 siguientes beneficiarios
 Número estimado beneficiarios
-
-
-
-
-
-
 Importe ayuda gasto anual
 ayuda individual indíquese importe medida
 régimen ayudas indíquese importe anual presupuesto previsto importe
@@ -4109,7 +4097,6 @@ Desgravación fiscal
 Reducción base imponible
 Reducción tipo impositivo
 Aplazamiento impuestos
-
 Reducción cotizaciones seguridad social
 Financiación capital riesgo
 formas intervención capital Especifíquese
@@ -4318,7 +4305,6 @@ ayuda proyecto concede forma medida fiscal facilítense estudios evaluación per
 caso afirmativo especifíquese calculan intensidades ayuda
 base proyecto individual
 ratio desgravación fiscal global suma costes subvencionables incurrido período superior ejercicios fiscales consecutivos
-
 Facilítense detalles método cálculo aplicado
 Condiciones generales
 estudios preparatorios actividades
@@ -4659,7 +4645,6 @@ indicador pertinente grado deficiencias mercado
 Indíquese basó decisión AELC utilizar instrumento selectivo ayuda estatal intensificar actividades facilítense documentos justificativos
 evaluación impacto medida propuesta
 comparación posibles alternativas consideradas AELC
-
 Especifíquese cambio comportamiento beneficiario pretende inducir ayuda estatal ejemplo lanzamiento proyectos tamaño alcance rapidez proyecto facilítense documentos justificativos
 descríbase análisis contrafáctico comportamiento beneficiario proyecto hubiera recibido ayuda
 Descríbase porqué necesaria ayuda proyecto interesante proyecto descrito análisis contrafáctico proyecto habría ayuda

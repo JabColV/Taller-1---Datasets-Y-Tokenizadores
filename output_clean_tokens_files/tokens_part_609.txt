@@ -1450,9 +1450,7 @@ NmetoxiacetilNxililDLalaninato metilo
 impureza dimetilanilina importancia toxicológica establece contenido máximo kg
 julio
 junio
-
 autorizar usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión metalaxil particular apéndices II adoptó Comité permanente cadena alimentaria sanidad animal marzo
 miembros deberán prestar especial atención posibilidad contaminación aguas subterráneas sustancia activa productos degradación CGA CGA sustancia activa aplique regiones características climáticas edáficas vulnerables
 Deberán tomarse medidas reducción riesgo pertinente
@@ -2996,7 +2994,6 @@ INFORMACIÓN COMPLEMENTARIA
 miembros deberán cumplimentar tabla informativa figura presente anexo zona tarificación responsabilidad año período referencia
 Tabla
 Información complementaria
-
 Información complementaria costes
 Costes Eurocontrol
 Costes EUROCONTROL euros
@@ -3015,7 +3012,6 @@ Costes reestructuración autorizados conformidad artículo
 Costes previstos estrategia comercial
 Costes reales información
 Costes totales reestructuración
-
 Información complementaria ajustes
 Importes
 RP
@@ -3119,7 +3115,6 @@ Gallos gallinas desplumados eviscerados cabeza patas cuello corazón hígado mol
 Gallos gallinas desplumados eviscerados cabeza patas cuello corazón hígado molleja llamados pollos presentados trocear congelados
 Trozos deshuesados gallo gallina congelados
 Pechugas trozos pechuga congelados
-
 Trozos deshuesados pavo congelados
 Preparaciones gallo gallina cocer
 Origen importaciones Brasil Tailandia Argentina Chile
@@ -4131,11 +4126,8 @@ Auditoría OMI
 Organización reconocida
 Historial
 Alto
-
-
 Reconocida UE
 Compañía
-
 Número deficiencias registradas inspección meses anteriores
 Deficiencias
 susceptible inspección
@@ -4549,7 +4541,6 @@ inspector trabaje puerto zona geográfica contará puerto equivalente tiempo par
 datos suministrarán nivel nacional puertos miembro considerado
 fines presente anexo entenderá puerto puerto individual zona geográfica cubierta inspector equipo inspectores incluidos caso puertos individuales
 ANEXO XV
-
 Directiva derogada sucesivas modificaciones
 refiere artículo
 Directiva CE Consejo
@@ -4565,7 +4556,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 artículo
-
 Plazos incorporación derecho nacional
 Directiva
 Plazo incorporación Derecho nacional

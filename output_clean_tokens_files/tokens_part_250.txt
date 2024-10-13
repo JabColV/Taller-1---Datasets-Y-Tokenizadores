@@ -97,7 +97,6 @@ chalecos salvavidas contabilizarse número chalecos salvavidas prescrito present
 ANEXO II
 CERTIFICADO SEGURIDAD BUQUES PASAJE
 Sello oficial
-
 nombre medidas pertinentes introducidas abanderamiento
 acreditativo cumplimiento buque mencionado ulteriormente disposiciones Directiva CE Parlamento Europeo Consejo reglas normas seguridad aplicables buques pasaje
 otorgado virtud autoridad conferida Gobierno
@@ -131,10 +130,8 @@ Observaciones condiciones servicio
 presente certificado válido fecha reconocimiento periódico arreglo artículo Directiva CE
 Expedido
 lugar expedición certificado
-
 fecha expedición
 firma funcionario expide certificado
-
 sello autoridad espedidora
 certificado Ileva firma añadirá frase
 abajo firma declara debidamente autorizado mencionado abanderamiento expedir presente certificado seguridad buques pasaje
@@ -613,7 +610,6 @@ Consejo
 Presidente
 DO
 Secretaría General Consejo encargará publicar Diario Oficial Unión Europea fecha entrada vigor
-
 forma Canje Notas Unión Europea Unidos América conformidad artículo XXIV apartado artículo XXVIII General Aranceles Aduaneros Comercio GATT modificación concesiones listas República Bulgaria Rumanía contexto adhesión Unión Europea
 Nota Unión Europea
 Ginebra diciembre
@@ -864,13 +860,11 @@ Decisión modificada lugar Decisión CE DO
 ANEXO
 ANEXO
 Partes territorio Rumanía mencionadas artículo letras
-
 Código ISO país
 Nombre país
 Descripción territorio
 Rumanía
 territorio Rumanía
-
 Rumanía distritos
 Vrancea
 Reglamento Ejecución UE Comisión
@@ -3907,7 +3901,6 @@ reforma
 empresas desglose sector
 Servicios financieros
 Servicios públicos
-
 empresas desglose ingresos
 ingresos
 ingresos
@@ -4966,7 +4959,6 @@ eficacia prescrita sistemas frenado basada distancia frenado deceleración media
 eficacia sistema frenado determinará midiendo distancia frenado relación velocidad inicial vehículo midiendo ensayo deceleración media estabilizada
 distancia frenado distancia recorrida vehículo momento conductor accione mando sistema frenado momento vehículo detenga velocidad inicial velocidad momento conductor comience accionar mando sistema frenado
 velocidad inicial inferior velocidad exigida ensayo considerado deceleración media estabilizada dm calculará deceleración media relación distancia intervalo vb ve fórmula
-
 velocidad inicial vehículo kmh
 velocidad vehículo vo kmh
 velocidad vehículo vo kmh

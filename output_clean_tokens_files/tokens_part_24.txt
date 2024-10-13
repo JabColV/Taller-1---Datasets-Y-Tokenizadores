@@ -2055,7 +2055,6 @@ DO
 DO
 DO
 ANEXO
-
 Lista productos origen animal contemplados artículo apartado letra
 Código NC
 Designación mercancía
@@ -2064,7 +2063,6 @@ ex capítulo
 Carne despojos comestibles
 excluyen ancas rana código NC
 Productos lácteos
-
 Tripas vejigas estómagos animales pescado enteros trozos frescos refrigerados congelados salados salmuera secos ahumados
 tripas artificiales
 Grasa cerdo incluida manteca cerdo grasa ave partidas
@@ -2085,7 +2083,6 @@ Preparaciones sopas potajes caldos sopas potajes caldos preparados preparaciones
 Helados cacao
 preparaciones contengan leche
 Preparaciones alimenticias expresadas comprendidas
-
 Lista productos origen animal contemplados artículo apartado letra
 Productos origen animal expresados comprendidos animales muertos capítulos impropios alimentación humana
 Notas
@@ -4745,7 +4742,6 @@ Artículos beber cristal plomo vidrio templado hechos mano
 Artículos beber cristal plomo vidrio templado fabricación mecánica
 Objetos servicio mesa cocina artículos beber cristal plomo hechos mano
 Objetos servicio mesa cocina artículos beber cristal plomo fabricación mecánica
-
 Objetos vitrocerámica servicio mesa cocina
 Objetos vitrocerámica servicio mesa cocina artículos beber
 Ampollas vidrio termos recipientes isotérmicos aislados vacío
@@ -4916,17 +4912,13 @@ Ferromolibdeno
 ferroaleaciones ncop
 Productos planos intermedios acero alear
 Lingotes formas primarias productos largos intermedios tubos soldadura acero alear
-
 Lingotes formas primarias productos largos intermedios incluidas piezas bruto acero alear
-
 Productos planos intermedios desbastes planos acero inoxidable
 Lingotes formas primarias productos intermedios largos tubos soldadura acero inoxidable
 lingotes formas primarias productos largos intermedios acero inoxidable
-
 Productos planos intermedios acero aleado excluido acero inoxidable
 Lingotes formas primarias productos largos intermedios tubos soldadura acero aleado excluido acero inoxidable
 lingotes formas primarias productos largos intermedios acero aleado distinto acero inoxidable
-
 Productos planos acero inoxidable laminados caliente enrollados destinados relaminado anchura superior mm
 productos planos acero inoxidable laminados caliente enrollados anchura superior mm
 Productos planos acero inoxidable laminados caliente enrollados anchura inferior mm
@@ -4944,7 +4936,6 @@ Productos planos enrollados fleje banda cortada anchura inferior mm acero exclui
 Chapas laminadas caliente procedentes corte bobinas banda ancha anchura superior mm planos anchos acero excluido acero inoxidable acero rápido
 Chapas cuarto anchura superior mm planos anchos acero excluido acero inoxidable acero rápido
 Chapa banda laminada frío revestir anchura superior mm acero excluido acero inoxidable
-
 Chapa banda magnéticas recocido anchura superior mm
 Chapa banda magnéticas grano orientado anchura superior mm
 Chapa banda magnéticas grano orientado anchura superior mm

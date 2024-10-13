@@ -111,7 +111,6 @@ Autoridad expedidora
 Información complementaria
 Vigencia
 Inicio
-
 licencia abarca
 Sustancias catalogadas
 Código NC
@@ -223,7 +222,6 @@ Fecha firma
 envío EFECTUARÁ EFECTUARÁ recibe respuesta plazo
 Plantea aduana objeción envío
 requiere investigación adicional respondido facilítense detalles razones
-
 notificación multilateral productos químicos incluye
 operación exportación
 operaciones exportación período tiempo específico Inicio
@@ -242,7 +240,6 @@ Importador nombre dirección teléfono fax
 Número autorización importación exportación
 Destinatario nombre dirección teléfono fax
 observaciones
-
 Exportador fabricante proveedor nombre dirección teléfono fax
 Intermediarios nombre dirección teléfono fax
 Empresas tránsito nombre dirección teléfono fax
@@ -556,14 +553,12 @@ número interfaces red pública modificados
 Aplicación disposiciones artículo
 Designación organismo organismos independientes
 ANEXO II
-
 Directiva derogada modificación
 contemplados artículo
 Directiva CEE Comisión
 DO
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -1176,7 +1171,6 @@ Notificación certificados importación expedidos Reglamento CE
 miembro
 Aplicación artículo Reglamento CE
 Cantidades productos expedido certificados importación
-
 orden
 Categoría categorías productos
 Cantidad
@@ -1801,7 +1795,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -2095,7 +2088,6 @@ efecto Decisión Comité Mixto EEE contiene adaptación específica artículo Di
 Comité comunicaciones AELC emitido dictamen favorable conformidad artículo Directiva CE Directiva marco
 RECOMIENDA
 términos definidos Directiva CE Directiva marco Directivas específicas significado efectos presente Recomendación
-
 Recomendación mercados pertinentes entenderá Recomendación Órgano COL relativa mercados pertinentes productos servicios sector comunicaciones electrónicas objeto regulación ex conformidad Directiva CE Parlamento Europeo Consejo relativa marco regulador común redes servicios comunicaciones electrónicas
 notificación entenderá notificación Órgano autoridad nacional reglamentación proyecto medida conformidad artículo Directiva CE Directiva marco solicitud prevista párrafo artículo Directiva CE Directiva acceso acompañada formulario abreviado notificación contemplado anexo presente Recomendación
 notificaciones deberán realizarse medios electrónicos
@@ -2645,7 +2637,6 @@ Principal incentivo financiero seguir trabajando
 personas años
 Aumentar derechos pensión jubilación
 Proporcionar suficientes ingresos hogar
-
 años trabajo remunerado vida activa
 Factor elevación módulo EPA optativo
 columnas contienen números enteros
@@ -2788,7 +2779,6 @@ Véase página presente Diario Oficial
 DO
 ANEXO
 EXIGENCIAS INFORMACIÓN ESTADÍSTICA
-
 Exigencias información estadística generales
 población informadora real presentar información estadística indica continuación
 trimestralmente información valor valor valores código identificación público mantenidos fondos inversión ii información agregada desglosada instrumentos vencimientos monedas contrapartidas activos pasivos distintos valores valores código identificación público iii información valor valor agregada tenedores participaciones emitidas fondos inversión especifica
@@ -2801,7 +2791,6 @@ información facilitarse BCN pertinente valor valor especifica cuadro
 exigencias información estadística trimestral agregada referidas saldos especifican cuadro referidas revalorizaciones debidas variaciones precios tipos cambio operaciones especifican cuadro
 exigencias información estadística mensual agregada referidas saldos revalorizaciones debidas variaciones precios tipos cambio operaciones emisiones amortizaciones participaciones fondos inversión especifican cuadro
 cumpla condiciones protección información estadística confidencial recopilada SEBC virtud artículo Reglamento CE particular apartado BCN igualmente extraer información precisan datos recogidos base Directiva UE Parlamento Europeo Consejo junio relativa gestores fondos inversión alternativos medida datos recopilados autoridad nacional supervisión competente virtud dicha Directiva san transmitidos NCN conformidad términos acordados organismos
-
 Residencia sector económico tenedores participaciones fondos inversión
 agentes informadores presentan trimestralmente datos residencia tenedores participaciones fondos inversión emitidas fondos inversión miembros cuya moneda euro sucesivo miembros zona euro distinguiendo residentes miembro residentes zona euro nacionales residentes resto mundo
 contrapartes residentes miembro zona euro nacionales desglosan sector
@@ -2822,7 +2811,6 @@ opción aplicable información completa abarca sustancialmente operaciones reali
 aplican letras agentes informadores incluidas IFM OIF comunicarán datos correspondientes basándose información disponible
 BCN extraer igualmente información precisan datos recogidos base Reglamento UE Banco Central Europeo octubre relativo estadísticas carteras valores BCE medida datos cumplan requisito puntualidad previsto artículo presente Reglamento carácter general normas mínimas establecidas anexo IV
 participaciones nominativas portador emiten circunstancias mercado exigen cambiar opción combinación opciones BCN conceder exenciones anuales cumplimiento dispuesto apartados
-
 Cuadros presentación información
 Cuadro
 Información valor valor exigida
@@ -3419,9 +3407,7 @@ Gal galactopiranosil
 impureza patulina exceder μg kg material técnico
 junio
 mayo
-
 autorizar usos regulador crecimiento vegetal
-
 aplicación principios uniformes anexo VI conclusiones informe revisión heptamaloxyloglucan particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal noviembre
 αDXyl p→βDGlc p→αLFuc p→βDGal p→αDXyl p→βDGlc p→DGlc–ol
 informe revisión incluyen datos identidad especificaciones sustancia activa
@@ -3765,9 +3751,7 @@ AvermectinaBb
 EEEZRS’SS’RRSSRRS’Ssecbutildihidroxi’tetrametiloxotrioxatetraciclo pentacosatetraenoespiro’’’dihidro’Hpiranil dideoxiOdideoxiOmetilαLarabinohexopiranosilOmetilαLarabinohexopiranósido
 mayo
 abril
-
 usos insecticida acaricida
-
 evaluación solicitudes autorización productos fitosanitarios contengan abamectina usos correspondientes tratamiento cítricos lechugas tomates miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión abamectina particular apéndices II aprobado Comité permanente cadena alimentaria sanidad animal julio
 evaluación general miembros deberán atender especialmente
@@ -3924,7 +3908,6 @@ Motivo rechazo
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO III
 Licitación permanente exportación trigo blando organismo intervención húngaro
 Reglamento CE
@@ -4417,19 +4400,8 @@ Artículo
 Establecimiento zonas restricción pesca proteger hábitats sensibles aguas profundas
 Queda prohibida pesca rastras redes arrastre fondo zonas circunscritas líneas unen siguientes coordenadas
 zona restringida pesca aguas profundas arrecifes Lophelia frente Capo Santa Maria di Leuca
-
-
-
-
 zona restringida pesca aguas profundas filtraciones frías hidrocarburos zona delta Nilo
-
-
-
-
 zona restringida pesca aguas profundas monte submarino Eratóstenes
-
-
-
 miembros adoptarán medidas necesarias protección hábitats sensibles aguas profundas zonas refiere apartado particular velarán protección zonas impactos actividad distinta pesquera ponga peligro conservación elementos caracterizan hábitats particulares
 Artículo
 Dimensiones mínimas malla redes arrastre utilizadas actividades locales estacionales pesca redes arrastre fondo Mar Mediterráneo
@@ -4703,59 +4675,19 @@ Zonas veda
 Queda prohibida actividad pesquera buques comunitarios relación especies contempladas Convenio SEAFO zonas definen continuación
 Subdivisión
 Monte submarino Dampier
-
-
-
-
 Monte submarino Malahit Guyot
-
-
-
-
 Subdivisión
 Monte submarino Molloy
-
-
-
-
 División
 Montes submarinos Schmidt Ott Erica
-
-
-
-
 Monte submarino Africana
-
-
-
-
 Monte submarino Panzarini
-
-
-
-
 Subdivisión
 Monte submarino Vema
-
-
-
-
 Monte submarino Wust
-
-
-
-
 División
 Montes submarinos Discovery Junoy Shannon
-
-
-
-
 Montes submarinos Schwabenland Herdman
-
-
-
-
 Artículo
 Reanudación pesca zona veda
 reanudará actividad pesquera zonas veda refiere artículo pabellón identificado cartografiado ecosistemas marinos vulnerables zona incluidos montes marinos fuentes hidrotermales corales aguas frías llevado cabo evaluación impacto eventual reanudación pesca ecosistemas marinos vulnerables

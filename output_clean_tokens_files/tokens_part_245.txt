@@ -164,17 +164,6 @@ fuerza cuasiestática máxima rueda ejercida vía eje montado
 ETI material rodante sistema ferroviario convencional sistema ferroviario alta velocidad definen límite fuerza cuasiestática máxima rueda condiciones ensayo definidas
 Línea red TEN línea principal
 elementos subsistema infraestructura describen anexo II Infraestructura Directiva CE
-
-
-
-
-
-
-
-
-
-
-
 desplazamiento diseños sufre punta real punta matemática adquiriendo grosor suficiente evitar posibles impactos pestaña rueda
 utiliza nota cuadro anexo aplica Bretaña
 Inclinación carril Rail inclination Schienenneigung Inclinaison du rail
@@ -921,9 +910,7 @@ DO
 DO
 ANEXO
 Componentes agrícolas kg peso neto aplicables febrero importaciones Comunidad procedentes Suiza
-
 Código NC
-
 Código adicional
 Véase
 Directiva UE Parlamento Europeo Consejo
@@ -1111,7 +1098,6 @@ DO
 ANEXO
 DATOS BÚSQUEDA REFIERE ARTÍCULO
 Objeto
-
 Observaciones
 Datos relativos vehículo
 miembro matriculación
@@ -1132,7 +1118,6 @@ utilización casco protección
 Utilización ilegal teléfono móvil dispositivo comunicación conducción
 DATOS FACILITADOS REFIERE ARTÍCULO
 Datos vehículos
-
 Número bastidor VIN
 País matriculación
 Marca
@@ -1143,7 +1128,6 @@ Código categoría UE
 ejemplo ciclomotores motocicletas turismos
 II
 Datos relativos propietarios titulares vehículo
-
 Datos relativos titulares vehículo
 datos refieren titular certificado concreto matriculación
 Apellidos titulares Nombre empresa
@@ -1228,7 +1212,6 @@ Número permiso conducción expedido fecha lugar
 Dirección
 Lista preguntas
 registrado nombre vehículo marca matrícula
-
 caso respuesta negativa titular permiso circulación
 Apellidos nombre dirección
 Reconoce cometido infracción
@@ -1434,7 +1417,6 @@ finés munia haudottavaksi
 sueco Kläckägg
 ANEXO III
 RESUMEN MENSUAL PRODUCCIÓN COMERCIALIZACIÓN HUEVOS INCUBAR POLLITOS AVES CORRAL
-
 País
 Año
 unidades
@@ -1486,7 +1468,6 @@ Categoría tamaño Capacidad
 Número
 Capacidad
 Utilización
-
 Bélgica región
 Bulgaria región
 República Checa región
@@ -2412,40 +2393,8 @@ Indicaciones peligro prudencia islandés
 anexo III Reglamento CE añade texto
 Islandés
 anexo IV Reglamento CE añade texto
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Setjið ekki hærri hita
-
-
-
-
-
 Hlífið við hærri hita
-
 ANEXO III
 Apéndice
 Indicaciones peligro prudencia noruego
@@ -2536,7 +2485,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -4205,7 +4153,6 @@ ANEXO
 líneas correspondientes Alemania anexo III Reglamento CE sustituyen texto
 ALEMANIA
 Menciones específicas tradicionales previstas artículo
-
 Vcprd
 Alemán
 Suiza

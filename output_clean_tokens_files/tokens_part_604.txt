@@ -228,7 +228,6 @@ Principales cifras financieras ÖVAG Hipótesis base millones EUR
 plan reestructuración ÖVAG
 Grupo ÖVAG
 Resultado impuestos
-
 Rendimiento capital impuestos
 balance
 Porcentaje capital
@@ -1192,7 +1191,6 @@ DO
 DO
 United States International Trade Commission persulfatos procedentes China investigación TA Revista Determinación opinión Comisión USITC publicación octubre
 DO
-
 Reglamento CE Parlamento Europeo Consejo diciembre relativo registro evaluación autorización restricción sustancias preparados químicos REACH crea Agencia Europea Sustancias Preparados Químicos modifica Directiva CE derogan Reglamento CEE Consejo Reglamento CE Comisión Directiva CEE Consejo Directivas CEE CEE CE CE Comisión DO Versión corregida DO Directiva CE Parlamento Europeo Consejo diciembre modifica Directiva CEE Consejo relativa aproximación disposiciones legales reglamentarias administrativas materia clasificación embalaje etiquetado sustancias peligrosas adaptarla Reglamento CE relativo registro evaluación autorización restricción sustancias preparados químicos REACH crea Agencia Europea Sustancias Preparados Químicos DO Versión corregida DO
 Reglamento CE Consejo abril pone procedimiento antidumping relativo importaciones peroxodisulfatos originarias República Popular China DO
 Comisión EuropeaDirección General ComercioDirección HDespacho Bruselas
@@ -1475,7 +1473,6 @@ heces mezclarse análisis mínimo muestras compuestas
 Número sitios deberán tomarse muestras heces separadas elaborar muestra compuesta
 Número aves manada reproductora
 Número muestras heces tomarse manada reproductora
-
 muestras calzas polvo
 calzas utilizadas deberán permitir absorción suficiente humedad
 efecto aceptables medias gasa tubular
@@ -1868,7 +1865,6 @@ HC NHCNT
 relativa Letonia modifica
 entrada correspondiente carretera Patarnieki sustituye texto
 Patarnieki
-
 añade entrada relativa puesto inspección fronterizo aeropuerto Riga entrada correspondiente ferrocarril Rēzekne entrada correspondiente puerto Riga Riga port
 Riga Airport
 HCTFR
@@ -2282,7 +2278,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -2624,12 +2619,9 @@ ZARTI Mustafá
 Corrección errores Reglamento CE Consejo diciembre establecen posibilidades pesca condiciones correspondientes determinadas poblaciones grupos poblaciones peces aplicables aguas comunitarias caso buques comunitarios aguas necesario establecer limitaciones capturas
 Diario Oficial Unión Europea enero
 página artículo apartado
-
 recoge anexo punto anexo III Reglamento CE
-
 recoge anexos II Reglamento CE
 página especie Rape Lophiidae Zona IV aguas Noruega
-
 aplicable artículo Reglamento CE
 aplicable artículo apartado Reglamento CE
 artículo Reglamento CE aplicación
@@ -2685,13 +2677,8 @@ Requisito aplicable subzonas divisiones CIEM VIII
 página anexo IV II columna Número máximo buques faenar simultáneamente apartados correspondientes Guyana Trinidad Tobago Corea llamada nota pie página indicación pm
 páginas anexo IV II cuadro columna Pesquería
 recuadros correspondientes Guyana Surinam Trinidad Tobago relativos pesca Camarones Penaeus aguas Guayana francesa
-
-
 recuadro correspondiente Corea relativo pesca atún aguas Guayana francesa
-
-
 recuadro correspondiente Venezuela relativo pesca pargos tiburones aguas Guayana francesa
-
 página anexo VI punto Nombre estación radio
 Indicativo llamada estación radio
 suprimen entradas Gryt
@@ -2702,9 +2689,7 @@ STOCKHOLM RADIO
 artículo Reglamento CE aplicación
 IIa aguas comunitarias Vb aguas CE VI VII VIIIa XII XIV
 página anexo IIA punto frase
-
 grupos artes pesca
-
 aplicable artículo Reglamento CE
 aplicable artículo Reglamento CE
 MACCX
@@ -3241,7 +3226,6 @@ DO
 ANEXO
 ANEXO IA
 LISTA EQUIPOS BIENES TECNOLOGÍA CONTEMPLADOS ARTÍCULO BIS
-
 Notas introductorias
 comprende bienes soporte lógico software tecnología enumerados anexo Reglamento CE
 indique cosa números referencia utilizados columna titulada Nose refieren número lista control columna titulada Descripción refiere descripciones control productos doble tecnología figuran anexo Reglamento CE
@@ -3614,7 +3598,6 @@ Tecnología Nota General Tecnología desarrollo equipos equipo lógico software 
 Tecnología Nota General Tecnología producción equipos incluidos artículo
 Nota técnica
 subartículo Eb UAVs sistemas vehículos aéreos tripulados alcance superior km
-
 indique contrario números referencia utilizados columna titulada Designación refieren descripciones productos doble recogidos anexo Reglamento CE
 número referencia columna titulada Producto relacionado anexo Reglamento CE significa características producto descrito columna Descripción corresponden parámetros descripción artículo doble referencia
 Véase relación sección
@@ -3764,10 +3747,8 @@ Clavibacter michiganensis subsp sepedonicus Corynebacterium michiganensis subsp 
 Corrección errores Decisión UE Euratom Consejo septiembre nombra miembros Comité Económico Social Europeo período comprendido septiembre septiembre
 Diario Oficial Unión Europea septiembre
 página anexo Miembros Francia
-
 JeanPaul PANZANI
 Membre du comité exécutif président Fédération nationale mutualité française FNMF
-
 Viceprésident Fédération nationale mutualité française FNMF et président Fédération des mutuelles France FMF
 Reglamento UE Comisión
 abril
@@ -4522,7 +4503,6 @@ miembros tardar marzo facilitarán Comisión descripción detallada programas mu
 obstante dispuesto punto permitirá desembarque capturas estén clasificadas puertos lugares desembarque aplique programa muestreo arreglo dispuesto punto
 ANEXO III
 MEDIDAS TÉCNICAS CONTROL PROVISIONALES
-
 MAR BÁLTICO
 Sección
 Pesca bacalao
@@ -4605,11 +4585,9 @@ potencia motor cualquiera buques sustitución supere momento kW
 sustituirse motor cualquiera buques incluidos lista punto
 sustitución conduzca momento rebasamiento potencia motor buque kW
 potencia motor sustituto suponga incremento potencia motriz miembro interesado indica letra punto
-
 SKAGERRAK KATTEGAT
 Medidas técnicas conservación Skagerrak Kattegat
 obstante dispuesto anexo IV Reglamento CE aplicarán disposiciones apéndice presente anexo
-
 SUBZONAS CIEM VII
 Métodos pesaje arenque caballa jurel
 aplicarán siguientes procedimientos desembarques Comunidad Europea realizados buques comunitarios terceros países superiores toneladas arenque caballa jurel combinación capturados
@@ -4700,11 +4678,9 @@ Latitud ′N longitud ′O
 Latitud ′N longitud ′O
 Latitud ′N longitud ′O
 Latitud ′N longitud ′O
-
 MEDITERRÁNEO
 Medidas técnicas conservación Mediterráneo
 actividades pesqueras desarrolladas actualmente amparo excepciones establecidas apartados bis artículo bis artículo Reglamento CE proseguir
-
 OCÉANO PACÍFICO ORIENTAL
 Redes cerco jareta océano Pacífico oriental zona regulación Comisión Interamericana Atún Tropical CIAT
 prohibirá pesca rabil Thunnus albacares patudo Thunnus obesus listado Katsuwonus pelamis cerqueros jareta agosto septiembre noviembre diciembre zona delimitada
@@ -4725,7 +4701,6 @@ caso suba bordo tortuga aplicarán medios adecuados recuperación devolverla agu
 buques atuneros verter mar bolsas sal tipo basura plástica
 promoverá liberación tortugas marinas atrapadas dispositivos concentración peces DCP artes pesca
 asimismo fomentará recuperación dispositivos concentración peces DCP estén utilizados pesca
-
 ATLÁNTICO ORIENTAL MEDITERRÁNEO
 Talla mínima atún rojo Atlántico Oriental Mediterráneo
 obstante dispuesto artículo anexo IV Reglamento CE talla mínima atún rojo Mediterráneo kg cm
@@ -4786,7 +4761,6 @@ montes submarinos Antialtair
 ′N ′O
 ′N ′O
 ′N ′O
-
 ESPECIES AGUAS PROFUNDAS
 obstante dispuesto Reglamento CE aplicación
 miembros garantizarán actividades pesqueras resulten capturas mantenimiento bordo toneladas año civil especies aguas profundas fletán negro buques enarbolen bandera estén registrados territorio titulares permiso pesca alta mar
@@ -4850,25 +4824,19 @@ Cuadro II Excepciones presencia zona ausencia puerto cuadro condiciones vinculad
 Zona
 Arte pesca indicado punto
 Registro captura buque
-
 Zona definida punto
-
 bacalao lenguado solla europea
 restricción
-
 bacalao
 mm mm
 Kattegat Mar Norte
 arte malla superior mm
 bacalao rodaballo ciclóptero
-
 Kattegat Mar Norte Skagerrak
 escape malla cuadrada mm
-
 Oriental Canal Mancha
 trasmallos malla inferior mm
 Buques ausentes puerto horas máximo
-
 asignación elevada buque resultado porcentaje registro capturas determinadas especies buque momento conservar bordo porcentaje superior fijado dichas especies cuadro II transbordar pescado buque mar
 caso buque incumpla condiciones perderá derecho adicionales efecto inmediato
 Comisión asignar miembro previa solicitud adicional buque presente zona ausente puerto lleve bordo artes pesca indicados letra punto malla superior mm condición miembro establecido régimen suspensión automática licencias pesca relación infracciones
@@ -4964,7 +4932,6 @@ miembros deseen aplicar asignación notificarán Comisión buques beneficiarán 
 Cuadro II Excepciones presencia zonas ausencia puerto cuadro condiciones correspondientes
 Zona delimitada punto
 Registro captura buque
-
 toneladas merluza años
 restricción
 asignación elevada buque resultado registro capturas merluza desembarques buque superar toneladas merluza peso vivo transbordar pescado buque mar

@@ -65,7 +65,6 @@ Terrenos forestales comprendido arbolado pie
 Maquinaria equipo
 Capital circulante
 DEUDAS
-
 Tierras edificaciones
 activos
 tierras
@@ -86,8 +85,6 @@ Denominación
 Código
 Importe
 Primas subvenciones gastos compra animales
-
-
 veinte códigos abiertos correspondientes categorías definen anexo II
 Primas subvenciones gastos
 códigos abiertos correspondientes rúbricas costes cuestión rúbricas
@@ -942,7 +939,6 @@ Patatas producción fécula
 Amoniaco
 Abonos orgánicos
 Derechos ayuda arreglo régimen pago único facultativo
-
 COLUMNAS CUADRO
 Cuotas derechos columna
 Rúbrica cuota derecho
@@ -1940,7 +1936,6 @@ Cualquiera ácidos siguientes
 Ácido tereftálico
 Ácido hidroxi naftóico
 Ácido hidroxibenzoico
-
 Cetonas poliarileno
 Sulfuros poliarileno grupo arileno constituido bifenileno trifenileno combinaciones
 Polibifenilenetersulfona temperatura transición vítrea Tg superior °C
@@ -2804,7 +2799,6 @@ Nota subartículo Bf somete control trajes diseñados usarse aparato respiració
 Cámaras aisladores seguridad biológica Clase III proporcionen niveles protección equivalente
 Nota subartículo Bf aisladores incluyen aisladores flexibles cajas secas cámaras anaeróbicas cajas guante campanas flujo laminar cerradas flujo vertical
 Cámaras diseñadas ensayos ataque aerosoles microorganismos virus toxinas tengan capacidad
-
 Equipo lógico software especificado diseñado especialmente modificado desarrollo producción utilización equipos incluidos artículos
 Equipo lógico software destinado dispositivos electrónicos incluido contenido dispositivo sistema electrónico permita dispositivos sistemas funcionar unidad control numérico capaz coordinar simultáneamente ejes control contorneado
 Nota artículo somete control equipo lógico software diseñado especialmente modificado funcionamiento máquinas herramienta especificadas Categoría
@@ -4839,10 +4833,8 @@ ANEXO II
 AUTORIZACIÓN GENERAL EXPORTACIÓN COMUNITARIA EU
 mencionada artículo Reglamento CE
 Autoridad expedición Comunidad Europea
-
 presente autorización exportación abarca siguientes artículos
 productos doble especificados epígrafes anexo presente Reglamento enumerados mencionan continuación
-
 productos especificados anexo IV
 Uranio natural uranio empobrecido torio forma metal aleación compuesto concentrado químico material contenga productos citados
 Materiales fisibles especiales distintos especificados anexo IV
@@ -4856,7 +4848,6 @@ Patógenos vegetales
 Tecnología integración datos control vuelo guiado propulsión sistema gestión vuelo optimización trayectoria sistema cohetes
 Sistemas propulsión cohetes híbridos capacidad impulsión superior MNs
 Mecanismos etapas mecanismos separación interetapas puedan utilizarse misiles
-
 presente autorización exportación válida territorio comunitario exportaciones siguientes destinos
 Canadá
 Japón
@@ -4892,7 +4883,6 @@ Código artículo caso
 Lista control
 Divisa valor
 Cantidad artículos caso
-
 Fecha contrato caso
 Régimen exportación aduanera
 informaciones requiera legislación nacional especifíquese formulario
@@ -4935,7 +4925,6 @@ Lista mencionada Artículo apartado Reglamento CE
 artículos recogen descripción completa producto notas conexas anexo
 anexo figura descripción completa productos
 mención artículo anexo afecta aplicación disposiciones refieran productos consumo anexo
-
 posibilidad Autorización Nacional General Comercio intracomunitario
 Productos tecnología sigilo
 Materiales diseñados especialmente absorber ondas electromagnéticas polímeros intrínsecamente conductores

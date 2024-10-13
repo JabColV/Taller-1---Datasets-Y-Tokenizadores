@@ -6,13 +6,11 @@ ANEXO
 anexo Reglamento CE queda modificado
 Cereales modifica forma
 códigos NC designaciones sustituyen siguientes
-
 polvo cristalino blanco aglomerado contenido glucosa producto seco inferior peso
 contenido glucosa producto seco inferior peso
 designación figura columna códigos NC sustituye
 almidón fécula glucosa jarabe glucosa maltodextrina jarabe maltodextrina subpartidas productos lácteos
 designación figura columna códigos NC ex sustituye
-
 incluidas premezclas ementaria capítulo nomenclatura combinada
 almidón fécula glucosa jarabe glucosa maltodextrina jarabe maltodextrina subpartidas productos lácteos
 III Azúcar modifica forma
@@ -913,9 +911,7 @@ Folpet máximo kg
 Tetracloruro carbono máximo kg
 octubre
 septiembre
-
 autorizar usos fungicida
-
 evaluación solicitudes autorización productos fitosanitarios contengan captan usos tomates miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión captan particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal septiembre
 evaluación general miembros deberán prestar especial atención
@@ -1013,7 +1009,6 @@ Importe fijado calidad tipo define anexo IV punto II Reglamento CE
 Importe fijado contenido sacarosa
 página anexo VI Disposiciones forma actos punto
 Forma directivas decisiones recomendaciones dictámenes Tratado CE
-
 Forma directivas decisiones recomendaciones dictámenes
 Corrección errores Decisión UE Consejo diciembre aprueba Reglamento interno
 Diario Oficial Unión Europea diciembre
@@ -2327,7 +2322,6 @@ DO
 ANEXO
 ANEXO II
 REQUISITOS ELABORACIÓN FICHAS DATOS SEGURIDAD
-
 Introducción
 presente anexo establece requisitos cumplir proveedor elabore ficha datos seguridad acompaña sustancia mezcla conformidad artículo
 información facilite ficha datos seguridad coherente figura informe seguridad química exija informe
@@ -2590,7 +2584,6 @@ Deberá especificarse claramente tipo guantes utilizarse manipulación sustancia
 tipo material espesor
 tiempo penetración normal mínimo material fabricados guantes
 necesario indicarán medidas complementarias protección manos
-
 necesario proteger cuerpo distinta manos especificará tipo calidad equipo protección precisa ejemplo manoplas botas mono función peligros asociados sustancia mezcla posibilidades contacto
 preciso indicarán medidas complementarias protección piel higiene específicas
 Protección respiratoria
@@ -2801,7 +2794,6 @@ lista frases advertencias peligro indicaciones seguridad consejos prudencia pert
 Facilitar texto completo advertencias estén completas secciones
 recomendaciones relativas formación adecuada trabajadores garantizar protección salud humana ambiente
 conformidad artículo apartado proveedor mezcla opta identificar informar acerca clasificación necesaria junio utilizarla clasificación etiquetado embalaje incluir dicha clasificación presente sección
-
 ficha datos seguridad incluirá secciones siguientes conformidad artículo apartado epígrafes indican excepción sección necesario incluir proceda epígrafes
 Transporte granel arreglo anexo II Convenio Marpol Código IBC
 SECCIÓN información
@@ -2930,7 +2922,6 @@ falta pruebas suficientes caso duda miembro efectuará control terreno declaraci
 plantaciones arranques realizados mayo octubre respecta Chipre Malta período cuestión abarca diciembre octubre determinarán función datos proporcione oleicultor instancia organismo competente miembro situación observada terreno especialmente refiere tamaño árboles
 realizadas comprobaciones persisten dudas aplicará beneficio oleicultor
 tercer guión párrafo apartado artículo sustituirá texto
-
 párrafo artículo sustituirá texto
 enero campañas comercialización junio campaña presentarán informe recapitulativo número controles efectuados virtud artículos número casos hayan necesitado modificación datos cantidades correspondientes multas sanciones impuestas estén examinándose evaluación sistema control establecido dificultades encontradas Artículo
 Artículo
@@ -3506,10 +3497,8 @@ CICAP
 Smetil EZNmetilcarbamoiloxitioacetimidato
 septiembre
 agosto
-
 autorizar usos insecticida plantas dosis superiores kg sustancia activa hectárea aplicación máximo aplicaciones temporada
 autorizaciones deberán limitarse usuarios profesionales
-
 aplicación principios uniformes anexo VI conclusiones informe revisión metomilo particular apéndices II aprobado Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 seguridad operarios condiciones deberán exigir utilización equipos protección individual adecuados prestará atención especial exposición operarios utilizan mochilas equipos manuales
@@ -3664,9 +3653,7 @@ Peso número sublotes
 Número muestras elementales
 Peso muestra global kg
 Cereales productos base cereales
-
 sublotes
-
 Método muestreo cereales productos base cereales lotes superiores iguales toneladas
 condición sublotes puedan separarse físicamente lote subdividirá sublotes cuadro
 peso lote múltiplo exacto peso sublotes peso superar peso indicado máximo
@@ -3721,9 +3708,7 @@ peso envase clase inferior muestra elemental consistirá envases aproximarse
 Resumen general método muestreo higos secos cacahuetes frutos cáscara
 Higos secos
 Cacahuetes pistachos nueces Brasil frutos cáscara
-
 sublotes
-
 toneladas
 Método muestreo higos secos cacahuetes frutos cáscara lotes superiores iguales toneladas
 Peso muestra global kg mezclarán dividirán muestras laboratorio kg molerlas división muestras laboratorio necesaria caso cacahuetes frutos cáscara destinados tratamiento selección tratamiento físico ulteriores dispone equipo permita homogeneizar muestra kg
@@ -3906,7 +3891,6 @@ Intervalo concentración
 Valor recomendado
 Valor máximo autorizado
 Blancos
-
 Desdeñable
 Recuperación Aflatoxina
 Recuperación Aflatoxinas
@@ -3927,7 +3911,6 @@ criterios funcionamiento toxinas HT
 observaciones criterios funcionamiento micotoxinas
 indican límites detección métodos utilizados puesto valores precisión concentraciones presentan interés
 valores precisión calculan ecuación Horwitz
-
 RSDR desviación estándar relativa calculada resultados obtenidos condiciones reproducibilidad sR
 cociente concentración mg kg
 ecuación precisión generalizada independiente análito matriz dependiente únicamente concentración mayoría métodos habituales análisis
@@ -4061,9 +4044,7 @@ siguientes impurezas fabricación entrañan riesgos toxicológicos concentració
 bisaminofluorophe¬nyl disulfide mg kg
 agosto
 julio
-
 autorizar usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión bentiavalicarbo particular apéndices II adoptó Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención
 seguridad operarios
@@ -4507,7 +4488,6 @@ DO DO
 ANEXO
 anexo Reglamento CE sustituye texto
 ANEXO
-
 Sustancias incluidas Convenio Protocolo sustancias incluidas únicamente Convenio
 Sustancia
 CAS
@@ -4556,12 +4536,9 @@ Clordecona
 Aldrina
 Pentaclorobenceno
 Policlorobifenilos PCB
-
-
 perjuicio Directiva CE permite utilización artículos momento entrada vigor presente Reglamento
 Toxafeno
 Hexabromodifenilo
-
 Sustancias incluidas únicamente Protocolo
 DO
 DO

@@ -769,7 +769,6 @@ DO
 DO
 DO
 ANEXO
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -778,10 +777,8 @@ Directiva CEE Consejo
 DO
 Directiva CE Parlamento Europeo Consejo
 DO
-
 Acto modificador derogado
 Acta adhesión
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -3395,11 +3392,9 @@ DO versión corregida DO
 Reglamento modificado lugar Reglamento CE Comisión DO
 DO
 ANEXO
-
 Información adicional declaración conformidad materiales objetos plástico reciclado
 declaración escrito mencionada artículo apartado incluirá información adicional
 declaración utilizado plástico reciclado proceso reciclado autorizado indicación número Registro CE proceso reciclado autorizado
-
 Información adicional declaración conformidad plástico reciclado
 declaración escrito mencionada artículo apartado incluirá información adicional
 declaración autorizado proceso reciclado indicación número Registro CE proceso reciclado autorizado
@@ -4133,7 +4128,6 @@ Número máximo año buque presente zona arte pesca
 Condiciones especiales
 Arte regulado
 Redes arrastre redes cerco danesas redes arrastre similares malla mm redes enmalle malla mm palangres fondo
-
 Ilimitado
 INTERCAMBIO ASIGNACIONES ESFUERZO PESQUERO
 Transferencia buques enarbolen pabellón miembro
@@ -4337,7 +4331,6 @@ Chipre
 Número máximo buques UE autorizados pescar activamente atún rojo kg cm kg cm Mar Adriático fines cría
 ANEXO
 ZONA CONVENCIÓN CCRVMA
-
 PROHIBICIÓN PESCA DIRIGIDA ZONA CONVENCIÓN CCRVMA
 Especie objeto pesca
 Zona
@@ -4357,7 +4350,6 @@ Lepidorhombus spp
 especies Champsocephalus gunnari Dissostichus eleginoides
 FAO Antártico
 FAO Antártico zona comprendida paralelos meridianos
-
 LÍMITES CAPTURAS CAPTURAS ACCESORIAS PESQUERÍAS EXPLORATORIAS ZONA CONVENCIÓN CCRVMA
 Subzona división
 Región
@@ -4368,7 +4360,6 @@ especies
 división
 UIPE
 UIPE
-
 división
 división
 división
@@ -4396,7 +4387,6 @@ SSRU
 SSRU
 SSRU
 SSRU
-
 NOTIFICACIÓN INTENCIÓN PARTICIPAR PESQUERÍA EUPHAUSIA SUPERBA
 contratante
 Temporada pesquera
@@ -4417,7 +4407,6 @@ Ago
 Márquese casillas zona periodo probable desarrolle actividad
 establecen límites capturas cautelares consideran pesquerías exploratorias
 Nótese datos facilitados presente documento únicamente fines informativos impiden faene zonas periodos hayan indicado
-
 CONFIGURACIÓN REDES EMPLEO TÉCNICAS PESCA
 Circunferencia abertura boca red
 Abertura vertical
@@ -4557,7 +4546,6 @@ YEL
 Limanda ferruginea
 HKW
 Urophycis tenuis
-
 Lamna nasus
 LIN
 Molva molva
@@ -4573,7 +4561,6 @@ DGS
 Squalus acanthias
 RJB
 Dipturus batis
-
 Lepidonotothen squamifrons
 CYO
 Centroscymnus coelolepis

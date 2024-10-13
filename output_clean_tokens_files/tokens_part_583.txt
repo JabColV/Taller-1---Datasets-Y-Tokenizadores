@@ -26,7 +26,6 @@ Almacén frigorífico
 Peso neto
 EP ovoproductos
 veterinario oficial abajo firmante certifica presente ovoproductos descritos certificado producido huevos procedentes establecimiento momento expedirse presente certificado libre influenza aviar alta patogenicidad Reglamento CE
-
 torno radio kilómetros incluido procede territorio país vecino habido brote influenza aviar alta patogenicidad enfermedad Newcastle previos
 procesados
 clara líquida tratado
@@ -127,11 +126,9 @@ fibra cruda fibra compuesta principalmente celulosa pentosanos lignina indigerib
 ANEXO II
 USOS SEMILLAS CHÍA SALVIA HISPANICA
 Productos panadería
-
 Cereales desayuno
 Mezclas frutas frutos secos semillas
 Semillas tales preenvasadas
-
 Reglamento Ejecución UE Comisión
 agosto
 aprueba sustancia activa terbutilazina conformidad Reglamento CE Parlamento Europeo Consejo relativo comercialización productos fitosanitarios modifican anexo Reglamento Ejecución UE Comisión Decisión CE Comisión
@@ -223,9 +220,7 @@ Atrazina kg máximo
 Simazina kg máximo
 enero
 diciembre
-
 autorizarse usos herbicida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión terbutilazina particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros prestarán atención particular
 protección aguas subterráneas sustancia activa aplique regiones condiciones edáficas climáticas delicadas
@@ -641,7 +636,6 @@ relativa Italia queda modificada
 suprime entrada correspondiente aeropuerto Ancona
 entrada correspondiente aeropuerto RomaFiumicino sustituye texto
 RomaFiumicino
-
 relativa Letonia entrada correspondiente carretera Patarnieki sustituye texto
 Patarnieki
 relativa Eslovaquia entrada correspondiente carretera Vyšné Nemecké sustituye texto
@@ -2081,7 +2075,6 @@ Decisión modificada Decisión CE
 ANEXO
 ANEXO II
 CARNE FRESCA
-
 LISTA TERCEROS PAÍSES PARTES TERCEROS PAÍSES Certificados conformes Comunidad Europea Confederación Suiza comercio productos agrícolas DO
 establece certificado prohíben importaciones carne fresca especies indicadas línea correspondiente país
 Restricciones categoría
@@ -2109,10 +2102,8 @@ Cuiaba municipios San Antonio Leverger Nossa Senhora do Livramento Pocone Barão
 Cáceres municipio Cáceres
 Rondonópolis municipio Itiquiora
 Barra do Burgres Rio do Sul
-
 noviembre
 Santa Catarina
-
 BW Botsuana
 Zonas veterinarias control enfermedades
 Zonas veterinarias control enfermedades
@@ -2650,7 +2641,6 @@ funciones autoridad central virtud presente artículo desempeñadas medida permi
 designación organismos públicos entidades datos contacto ámbito funciones comunicados miembro Comisión conformidad artículo
 presente artículo artículo imponen caso autoridades centrales obligación ejercer atribuciones arreglo ley miembro requerido ejercidas autoridades judiciales
 Artículo
-
 autoridad central miembro requerido exigir solicitante actúe representación procedimientos judiciales autoridades designar representante efecto
 Artículo
 Peticiones medidas específicas
@@ -3441,7 +3431,6 @@ Cantidades anuales
 toneladas
 Brasil
 Tailandia
-
 Carne pavo
 Número grupo
 ANEXO II
@@ -4219,7 +4208,6 @@ Presidente
 DO
 DO
 ANEXO
-
 límites cuantitativos comunitarios aplicables Vietnam figuran anexo Reglamento CEE sustituyen texto
 Tercer país
 Categoria
@@ -4236,7 +4224,6 @@ GRUPO IIIA
 GRUPO IIIB
 GRUPO IV
 GRUPO
-
 anexo VII Reglamento CEE límites cuantitativos comunitarios mercancías reimportadas TPP correspondientes Vietnam sustituyen texto
 Bruselas septiembre
 Consejo
@@ -4436,9 +4423,7 @@ toneladas
 Contingente semestral máximo
 cantidades toneladas
 Contingente
-
 Número contingente
-
 Derecho importación
 Normas cumplimentar certificados IMA
 Mantequilla semanas contenido grasas superior peso inferior fabricada directamente leche nata utilizar materias primas almacenadas proceso único autónomo ininterrumpido
@@ -4500,7 +4485,6 @@ MEDIA
 MEDIA aritmética peso neto caja indicado casilla certificado IMA
 MEDIA aritmética peso neto cajas constituyen muestra
 diferencia importante media aritmética peso neto determinado UE valor declarado
-
 Desviaciún típica
 Desviación típica peso neto caja indicado casilla certificado IMA
 Desviación típica peso neto cajas constituyen muestra
@@ -4813,7 +4797,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón mano Buda Citrus medica var sarcodactylis
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos tangor Citrus reticulata sinensis
-
 Frutos cáscara
 Almendras
 Nueces Brasil

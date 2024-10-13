@@ -558,7 +558,6 @@ adoptarse normas desarrollo aplicación uniforme presente artículo conformidad 
 Artículo
 Modificaciones Directiva CEE
 artículo Directiva CEE apartado sustituye texto
-
 obligaciones contempladas artículo óbice organización
 concursos reservados équidos inscritos libro genealógico determinado mejorar raza
 concursos regionales objeto seleccionar équidos
@@ -592,7 +591,6 @@ anexo queda modificado
 suprime punto
 punto sustituye texto
 laboratorios nacionales referencia enfermedades aviares designados conforme artículo responsables miembro coordinar métodos diagnóstico establecidos presente Directiva
-
 facilitar laboratorios autorizados reactivos necesarios pruebas diagnóstico
 harán seguimiento calidad reactivos utilizados laboratorios autorizados pruebas diagnóstico establecidas presente Directiva
 organizarán periódicamente pruebas comparativas
@@ -676,7 +674,6 @@ apartado sustituye texto
 laboratorios nacionales mencionados apartado encargarán coordinar normas métodos diagnóstico reactivos ensayo vacunas
 apartado frase introductoria sustituye texto
 laboratorios nacionales mencionados apartado encargarán coordinar normas métodos diagnóstico establecidos laboratorio diagnóstico enfermedad Newcastle miembro
-
 apartado sustituye texto
 laboratorios nacionales refiere apartado mantendrán contacto laboratorio comunitario referencia mencionado artículo
 miembros llevarán listas actualizadas laboratorios institutos nacionales mencionados apartado pondrán disposición miembros público
@@ -2356,8 +2353,6 @@ texto publicará Decisión relativa celebración
 Corrección errores Reglamento CE Consejo noviembre establecen posibilidades pesca condiciones asociadas aplicables Mar Báltico determinadas poblaciones grupos poblaciones peces
 Diario Oficial Unión Europea diciembre
 página anexo cuadro relativo salmón Atlántico fila correspondiente Lituania
-
-
 Decisión Comité Mixto EEE
 septiembre
 modifica anexo XXI Estadísticas EEE
@@ -3360,7 +3355,6 @@ consumo energía anual AE calcula kWh año forma redondea decimal
 caso aspiradoras alfombras
 caso aspiradoras suelos madera
 caso aspiradoras fines generales
-
 ASEc consumo energía específico expresado Wh ensayo alfombra calculado indica
 ASEhf consumo energía específico expresado Wh ensayo suelo madera calculado indica
 dpuc recogida polvo alfombra determinada arreglo punto presente anexo
@@ -3648,7 +3642,6 @@ aktiebolag
 Reino Unido
 Private company limited by shares or by guarantee
 ANEXO II
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -3660,7 +3653,6 @@ DO
 Directiva CE Consejo
 DO
 Únicamente punto anexo
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -4294,7 +4286,6 @@ extracto respuesta Ministerio Finanzas belga pregunta parlamentaria enero Bull Q
 establece entrega intracomunitaria Bélgica constituye operación IVA exigible principio Bélgica realizada sujeto pasivo actúe
 artículo especifica entrega lugar pone disposición adquirente artículo precisa devengo impuesto produce impuesto exigible momento produce entrega
 Véase sentencia Tribunal Casación Pas
-
 procedimiento expresamente previsto Código IVA constituye práctica habitual Administración respetar principios fundamentales defensa administración
 Comentario administrativo Código IVA
 Especialmente teniendo número importancia transacciones constan documentos regulares comparación número importancia operaciones objeto documentos regulares
@@ -4666,7 +4657,6 @@ Cantidades anuales
 toneladas
 Brasil
 Tailandia
-
 Pavo
 Reglamento CE Comisión
 junio

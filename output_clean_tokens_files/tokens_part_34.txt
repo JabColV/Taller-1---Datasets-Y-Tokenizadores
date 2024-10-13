@@ -2911,7 +2911,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -3668,7 +3667,6 @@ nafta punto ebullición
 combinación compleja hidrocarburos obtenida destilación fraccionada petróleo fracción intervalo ebullición aproximado °C °C
 nafta punto ebullición
 combinación compleja hidrocarburos producida proceso tratamiento separar materiales ácidos compuesta hidrocarburos número carbonos intervalo intervalo ebullición aproximado °C °C
-
 combinación compleja hidrocarburos producida destilación petróleo crudo compuesta hidrocarburos número carbonos intervalo intervalo ebullición aproximado °C °C
 combinación compleja hidrocarburos producida destilación petróleo crudo compuesta principalmente hidrocarburos alifáticos saturados número carbonos intervalo intervalo ebullición aproximado °C °C
 nafta punto ebullición
@@ -3769,7 +3767,6 @@ combinación compleja hidrocarburos producida destilación extractiva nafta gas�
 destilados petróleo gasóleo nafta craqueados térmicamente productos extracción
 combinación compleja hidrocarburos producida destilación extractiva nafta gasóleo craqueado térmicamente compuesta hidrocarburos olefínicos parafínicos isoamilenos tales metilbuteno metilbuteno intervalo ebullición aproximado °C °C
 destilados petróleo fracción ligera craqueada térmicamente fracción aromática desbutanizada
-
 nafta craqueada térmicamente punto ebullición
 combinación compleja hidrocarburos obtenida sometiendo destilado petróleo craqueo térmico elevada temperatura fracciones aceite pesado proceso desazufrado transformar mercaptanos compuesta principalmente hidrocarburos aromáticos olefínicos saturados intervalo ebullición aproximado °C °C
 nafta tratada hidrógeno punto ebullición
@@ -3801,7 +3798,6 @@ combinación compleja hidrocarburos obtenida tratamiento fracción petróleo hid
 nafta tratada hidrógeno punto ebullición
 hidrocarburos tratados hidrógeno desaromatizados
 combinación compleja hidrocarburos obtenida disolventes sometidos tratamiento hidrógeno transformar compuestos aromáticos naftenos hidrogenación catalítica
-
 hidrocarburos tratados hidrógeno desaromatizados
 disolvente Stoddard
 residuos petróleo fracción ligera craqueada vapor aromáticos
@@ -3991,7 +3987,6 @@ epoxiaoctahidrohexametilnaftaleno
 dimetilisopropildioxaespirodecano
 Etrimetildodecatetraenol
 antracenodióxido disodio
-
 ERRtetrametilhexadecenol
 RSRRRRhexametildioxatetraciclotetradecano
 mezcla heptanodiilbisdioxolano
@@ -4484,7 +4479,6 @@ residuo queda destilación nafta recuperada compuesto principalmente naftaleno p
 redestilado destilación libre ácidos alquitrán bases alquitrán alquitrán hulla bituminosa elevada temperatura intervalo ebullición aproximado °C °C compuesto principalmente benceno tolueno xilenos
 sedimento ácido subproducto refino ácido sulfúrico hulla cruda elevada temperatura compuesto principalmente ácido sulfúrico compuestos orgánicos
 destilado alquitrán hulla elevada temperatura aceite ligero horno coque residuo extracto alcalino aceite alquitrán hulla intervalo destilación aproximado °C °C compuesto principalmente indeno sistemas anillos policíclicos anillo aromático contener compuestos fenólicos bases nitrogenadas aromáticas
-
 destilados alquitrán hulla aceites ligeros fracción neutra residuos extracto aceite ligero alto punto ebullición
 destilado destilación fraccionada alquitrán hulla elevada temperatura compuesto principalmente hidrocarburos aromáticos anillo alquilsustituidos intervalo ebullición aproximado °C °C incluir hidrocarburos insaturados indeno cumarona
 destilado alquitrán hulla elevada temperatura intervalo destilación aproximado °C °C compuesto principalmente naftaleno alquinaftalenos compuestos fenólicos bases nitrogenadas aromáticas
@@ -4543,13 +4537,10 @@ aceite lavado
 extracto residuo extracto alcalino aceite alquitrán hulla producido lavado ácido ácido sulfúrico acuoso destilación separar naftaleno compuesto principalmente sales ácidas diversas bases nitrogenadas aromáticas piridina quinolina alquilderivados
 producto reacción obtenido neutralización aceite extraído bases alquitrán hulla solución alcalina hidróxido sodio acuoso obtener bases libres compuesto principalmente bases orgánicas tales acridina fenantridina piridina quinolina alquilderivados
 líquido orgánico volátil extraído gas desprendido destilación destructiva hulla elevada temperatura °C compuesto principalmente benceno tolueno xilenos contener constituyentes hidrocarbonados minoritarios
-
 producto líquido condensación vapores emitidos digestión hulla disolvente líquido intervalo ebullición aproximado °C °C compuesto principalmente hidrocarburos aromáticos anillos condensados hidrogenados parcialmente compuestos aromáticos nitrógeno oxígeno azufre alquilderivados número carbonos intervalo
 destilado obtenido hidrocraqueo extracto solución hulla producidos extracción disolvente líquido procesos extracción gas supercrítico intervalo ebullición aproximado °C °C compuesto principalmente compuestos aromáticos aromáticos hidrogenados nafténicos alquilderivados alcanos número carbonos intervalo presentes compuestos ar
-
 fracción destilado obtenido hidrocraqueo extracto solución hulla producidos extracción disolvente líquido procesos extracción gas supercrítico intervalo ebullición aproximado °C °C compuesta principalmente compuestos aromáticos aromáticos hidrogenados nafténicos alquilderivados alcanos número carbonos intervalo presentes compuestos aromáticos hidrogenados compuestos aromáticos nitrógeno azufre oxígeno
 destilado obtenido hidrocraqueo extracto solución hulla producidos extracción disolvente líquido procesos extracción gas supercrítico intervalo ebullición aproximado °C °C compuesto principalmente compuestos aromáticos anillos aromáticos hidrogenados nafténicos alquilderivados alcanos número carbonos intervalo presentes compuestos nitrógeno azufre oxígeno
-
 destilado hidrogenación destilado intermedio hidrocraqueado extracto solución hulla producidos extracción disolvente líquido procesos extracción gas supercrítico intervalo ebullición aproximado °C °C compuesto principalmente compuestos carbonados hidrogenados anillos alquilderivados número carbonos intervalo
 líquido orgánico volátil condensado gas desprendido destilación destructiva hulla baja temperatura °C compuesto principalmente hidrocarburos
 combinación compleja hidrocarburos obtenida fraccionamiento hidrocarburos craqueados catalíticamente tratados separar impurezas ácidas compuesta hidrocarburos número carbonos intervalo
@@ -4623,7 +4614,6 @@ combinación compleja producida expansión súbita alta presión efluente reacto
 combinación compleja producida expansión súbita baja presión efluente reactor reformado compuesta principalmente hidrógeno pequeñas cantidades variables metano etano propano
 combinación compleja separada destilación corriente gas hidrógeno monóxido carbono dióxido carbono hidrocarburos número carbonos intervalo obtenidos craqueo etano propano compuesta hidrocarburos número carbonos intervalo hidrógeno nitrógeno monóxido carbono
 combinación compleja producida tratamiento alimentación unidad benceno hidrógeno presencia catalizador seguido despentanización compuesta principalmente hidrógeno etano propano cantidades pequeñas variables nitrógeno monóxido carbono dióxido carbono hidrocarburos número carbonos intervalo contener trazas benceno
-
 combinación compleja producida fraccionamiento productos cabeza proceso craqueo catalítico craqueador catalítico fluidizado compuesta hidrógeno nitrógeno hidrocarburos número carbonos intervalo
 combinación compleja obtenida separación líquidovapor efluente reactor proceso hidrocraqueo compuesta principalmente hidrógeno hidrocarburos saturados número carbonos intervalo
 combinación compleja obtenida diversas operaciones refino petróleo compuesta hidrógeno hidrocarburos número carbonos intervalo
@@ -4692,7 +4682,6 @@ hidrocarburos craqueo catalítico neutralizados químicamente
 hidrocarburos destilados craqueador catalítico
 nafta petróleo fracción ligera reformada catalíticamente
 combinación compleja hidrocarburos producida destilación productos proceso reformado catalítico compuesta hidrocarburos número carbonos intervalo intervalo ebullición aproximado °C °C contiene proporción relativamente hidrocarburos cadena ramificada aromáticos corriente contener benceno volumen
-
 nafta petróleo fracción pesada reformada catalíticamente
 destilados petróleo despentanizador reformado catalítico
 residuo complejo reformado catalítico alimentación compuesta hidrocarburos número carbonos intervalo
@@ -4722,7 +4711,6 @@ hidrocarburos craqueo nafta tratada hidrógeno
 nafta disolvente petróleo fracción nafténica ligera tratada hidrógeno
 combinación compleja hidrocarburos producida separación posterior hidrogenación productos proceso craqueo vapor producir etileno compuesta principalmente parafinas saturadas insaturadas parafinas cíclicas hidrocarburos aromáticos cíclicos número carbonos intervalo punto ebullición aproximado °C °C proporción hidrocarburos benceno variar peso corriente contener pequeñas cantidades azufre compuestos oxigenados
 combinación compleja hidrocarburos separada líquido gas natural separador superficie condensación retrógrada compuesta principalmente hidrocarburos número carbonos intervalo líquida temperatura presión atmosféricas
-
 combinación compleja hidrocarburos separada líquido gas natural planta reciclado gas procesos tales refrigeración absorción compuesta principalmente hidrocarburos alifáticos saturados número carbonos intervalo
 nafta petróleo fracción pesada neutralizada químicamente
 nafta petróleo fracción ligera neutralizada químicamente
@@ -4763,7 +4751,6 @@ cloroclorodifluorometoximetilpirazolilfluorofenoxiacetato etilo ácido cloroclor
 destilados alquitrán hulla aceites naftaleno
 aceites hidrocarbonados aromáticos mezclados polietileno polipropileno pirolizados fracción aceite ligero
 combinación compleja hidrocarburos producida destilación productos proceso hidrocraqueo compuesta principalmente hidrocarburos número carbonos intervalo contener pequeñas cantidades hidrógeno sulfuro hidrógeno
-
 gases petróleo alimentación sistema aminas
 gas alimentación sistema aminas separación sulfuro hidrógeno compuesto hidrógeno presencia monóxido carbono dióxido carbono sulfuro hidrógeno hidrocarburos alifáticos número carbonos intervalo
 gases petróleo hidrodesulfurador unidad benceno

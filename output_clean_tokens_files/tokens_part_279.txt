@@ -1370,7 +1370,6 @@ experimentado reacción tatuajes temporales henna negra
 Contiene diaminobencenos
 emplear teñir cejas pestañas
 profesional
-
 mezclarse condiciones oxidantes concentración máxima aplicada pelo deberá exceder calculada base libre
 profesional
 Utilizar guantes apropiados
@@ -1582,7 +1581,6 @@ Aceite extracto Liquidambar styraciflua estoraque
 Tetrahidrohexametilnaftiletanona AHTN
 productos cosméticos productos bucales
 Productos aclaran
-
 productos hidroalcohólicos
 fragancia fina
 crema fragancia
@@ -1623,7 +1621,6 @@ fines inhibición crecimiento microorganismos producto
 presentación producto evidencia fines
 loroetilaminonitrofenol
 mezclada condiciones oxidantes concentración máxima aplicada pelo exceder
-
 Clorhidrato metoxiNmetilpiridindiamina diclorhidrato
 mezclarse condiciones oxidantes concentración máxima aplicada pelo deberá exceder calculada base libre diclorhidrato
 base libre diclorhidrato
@@ -1673,7 +1670,6 @@ erupción cutánea rostro cuero cabelludo sensible irritado dañado
 experimentado tipo reacción coloración pelo
 experimentado reacción tatuajes temporales henna negra
 Aminometilnitrofenilaminoetanol sales
-
 Metilaminonitrofenoxietanol
 Metoxinitrofenilaminoetanol sales
 ′Aminonitrofeniliminobisetanol clorhidrato
@@ -2181,7 +2177,6 @@ productos originarios Ceuta Melilla
 productos enteramente obtenidos Ceuta Melilla
 productos obtenidos Ceuta Melilla cuya fabricación hayan utilizado productos distintos mencionados letra
 productos hayan suficientemente elaborados transformados sentido artículo
-
 productos originarios EEE hayan objeto elaboraciones transformaciones vayan allá operaciones contempladas artículo
 productos originarios EEE
 productos enteramente obtenidos EEE
@@ -2575,7 +2570,6 @@ Sangre humana
 Sangre animal preparada usos terapéuticos profilácticos
 Componentes sangre antisueros hemoglobina globulinas sangre seroglobulina
 Hemoglobina globulinas sangre seroglobulina
-
 Medicamentos productos partidas
 Obtenidos amikacina partida
 obstante utilizarse materias partidas valor máximo exceda precio franco fábrica producto obtenido
@@ -2722,7 +2716,6 @@ Fabricación valor materias utilizadas exclusión caucho natural exceda precio f
 Neumáticos llantas neumáticas recauchutados usados caucho bandajes llantas macizas huecas bandas rodadura neumáticos llantas neumáticas protectores flaps caucho
 Neumáticos bandajes macizos huecos recauchutados caucho neumáticos llantas neumáticas protectores flaps caucho
 Recauchutado neumáticos bandajes macizos huecos usados
-
 Fabricación materias partida materias partidas
 Manufacturas caucho endurecido
 Fabricación caucho endurecido
@@ -2991,7 +2984,6 @@ artículos textiles confeccionados juegos prendería trapos excepción
 Mantas ropa cama etc visillos cortinas etc artículos tapicería
 fieltro telas tejer
 Fabricación
-
 Bordados
 Fabricación hilados simples crudos
 Fabricación tejidos bordar exclusión punto cuyo valor exceda precio franco fábrica producto
@@ -3001,7 +2993,6 @@ Fabricación
 Toldos clase tiendas velas embarcaciones deslizadores carros vela artículos acampar
 tejer zadores carros vela artículos acampar
 Fabricación
-
 Fabricación hilados simples crudos
 artículos confeccionados incluidos patrones prendas vestir
 Juegos constituidos piezas tejido hilados accesorios confección alfombras tapicería manteles servilletas bordados artículos textiles similares envases venta menor
@@ -4399,11 +4390,9 @@ DO
 ANEXO
 ANEXO II
 LISTA PAÍSES TERRITORIOS
-
 IE Irlanda
 Suecia
 UK Reino Unido
-
 Sección
 DK Dinamarca incluidas GL Groenlandia FO Islas Feroe
 España incluidas Islas Baleares Islas Canarias Ceuta Melilla
@@ -4417,7 +4406,6 @@ IS Islandia
 MC Mónaco
 Noruega
 Ciudad Vaticano
-
 AC Isla Ascensión
 AE Emiratos Árabes Unidos
 AG Antigua Barbuda

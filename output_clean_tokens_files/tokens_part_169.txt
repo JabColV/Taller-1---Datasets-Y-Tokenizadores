@@ -270,7 +270,6 @@ título
 Diluciones antisuero anticuerpo
 Muestra
 Duplicado muestra muestra
-
 Dilución decimal precipitado resuspendido
 Colocar portaobjetos papel humedecido
 Cubrir completamente pocillo dilución diluciones anticuerpo
@@ -332,7 +331,6 @@ caso necesario repetir prueba FISH separar etanol centrifugación añadir volume
 Figura
 Distribución portaobjetos prueba FISH
 Muestra
-
 Muestra
 pocillo
 pocillo
@@ -961,7 +959,6 @@ subartículos MLb MLd aplican
 Ácido cianhídrico CAS
 Cloro CAS
 Difosgeno triclorometil cloroformato CAS
-
 Bromuro xililo orto CAS meta CAS CAS
 Bromuro bencilo CAS
 Yoduro bencilo CAS
@@ -1196,7 +1193,6 @@ Buques componentes indica
 Buques superficie subacuáticos diseñados especialmente modificados militar cualquiera actual conservación funcionamiento tengan sistemas bombardeo blindaje cascos partes casco dichos buques componentes diseñados especialmente militar
 Buques superficie distintos especificados MLa siguientes elementos fijados integrados buque
 Armas automáticas calibre mm especificadas ML armas especificadas ML ML ML ML puntos montaje puntos duros armas
-
 puntos montaje entiende puntos montaje armas refuerzos estructurales destinados instalación armas
 Sistemas dirección tiro especificados ML
 posean características siguientes
@@ -1223,7 +1219,6 @@ potencia kW CV
 efectos subcapítulo MLb incluyen energía nuclear
 Aparatos detección subacuática diseñados especialmente militar controles componentes diseñados especialmente militar
 Redes antisubmarinos antitorpedos diseñadas especialmente militar
-
 Obturadores casco conectores diseñados especialmente militar permitan interacción equipos externos buque componentes diseñados especialmente militar
 subartículo MLf incluye conectores navales tipo conductor simple multiconductor coaxiales guías ondas obturadores casco buques capaces estanqueidad conservar características necesarias profundidades submarinas conectores fibra óptica obturadores casco ópticos diseñados especialmente transmisión haz láser cualquiera profundidad
 subcapítulo MLf aplica obturadores casco ordinarios árbol propulsión vástago mando hidrodinámico
@@ -1233,7 +1228,6 @@ Controles activos supresión firma
 Controles supresión vibración
 Aeronaves vehículos ligeros aire vehículos aéreos tripulados motores aviación equipo aeronaves equipos asociados componentes indica diseñados especialmente modificados militar
 Aeronaves vehículos ligeros aire tripulados componentes diseñados especialmente
-
 Aeronaves tripuladas equipo relacionado indica componentes diseñados especialmente
 Vehículos aéreos tripulados vehículos aéreos teledirigidos vehículos autónomos programables vehículos ligeros aire tripulados
 Lanzadores equipo recuperación equipo apoyo tierra
@@ -1492,7 +1486,6 @@ Comprende funcionamiento instalación incluida instalación in situ mantenimient
 Cloruro cianógeno CAS véase subartículo Ca Lista Productos Doble UE
 Cloruro carbonilo fosgeno CAS véase subartículo Ca Lista Productos Doble UE
 Cloropicrina CAS véase subartículo Ca Lista Productos Doble UE
-
 NTDNT Nnitrotriazolodinitrotriazol
 palabras términos contenidos Lista Definiciones adoptan significado definido figuran indicados comillas dobles
 definiciones términos figuran comillas simples figuran nota técnica correspondiente entrada
@@ -2911,8 +2904,6 @@ Caballa especie Scomber scombrus
 Estornino especie Scomber japonicus
 Anchoa Engraulis spp
 Solla Pleuronectes platessa
-
-
 Merluzas especie Merluccius merluccius
 Gallos Lepidorhombus spp
 Limandas Limanda limanda
@@ -2954,7 +2945,6 @@ Precio producción Unión
 Rabil
 peso superior kg unidad
 Eviscerado branquias
-
 peso inferior kg unidad
 Albacora atún blanco
 Listado
@@ -3153,7 +3143,6 @@ Designación mercancía
 Puntualizaciones aclaraciones
 Capítulo Animales vivos
 Caballos asnos mulos burdéganos vivos
-
 Animales vivos especie bovina
 Animales vivos especie porcina
 especie ovina
@@ -3173,7 +3162,6 @@ perdices faisanes codornices chochas becadas palomas urogallos lagópedos hortel
 abejas colmenas cajas continentes similares insectos ranas
 partida comprende animales formen circos zoológicos ambulantes espectáculos itinerantes animales partida
 Ballenas delfines marsopas mamíferos orden Cetáceos manatíes dugones dugongos mamíferos orden Sirenios
-
 Conejos domésticos mamíferos comprendidos
 Comprende perros gatos
 Reptiles incluidas serpientes tortugas mar
@@ -3225,7 +3213,6 @@ Comprende peces ornamentales partida
 Pescado fresco refrigerado filetes carne pescado partida
 Hígados huevas lechas
 Pescado congelado filetes carne pescado partida
-
 Comprende salmones Pacífico hígados huevas lechas salmones rojos salmónidos hígados huevas lechas truchas salmones atlánticos peces
 Filetes carne pescado picada frescos refrigerados congelados
 Pescado seco salado salmuera pescado ahumado cocido ahumado harina polvo pellets pescado aptos alimentación humana
@@ -3335,7 +3322,6 @@ Capítulo Semillas frutos oleaginosos semillas frutos diversos plantas industria
 sujetos controles veterinarios determinados productos vegetales
 comprende heno paja
 Nabos forrajeros remolachas forrajeras raíces forrajeras heno alfalfa trébol esparceta coles forrajeras altramuces vezas productos forrajeros similares pellets
-
 Capítulo Grasas aceites animales vegetales productos desdoblamiento grasas alimenticias elaboradas ceras origen animal vegetal
 tocino grasa cerdo ave partida
 manteca grasa aceite cacao partida
@@ -3812,9 +3798,7 @@ publicación Decisión CE queda anulada
 Corrección errores Decisión MPUE Comité Político Seguridad noviembre nombra Jefe Misión Jefe Policía Misión Policía Unión Europea MPUE Bosnia Herzegovina
 Diario Oficial Unión Europea diciembre
 página cubierta sumario página título Decisión
-
 Decisión MPUE Comité Político Seguridad noviembre nombra Jefe Misión Jefe Policía Misión Policía Unión Europea MPUE Bosnia Herzegovina
-
 Decisión MPUE Comité Político Seguridad noviembre prorroga mandato Jefe Misión Jefe Policía Misión Policía Unión Europea MPUE Bosnia Herzegovina
 Corrección errores Colaboración sector pesquero República Democrática Santo Tomé Príncipe Comunidad Europea
 Diario Oficial Unión Europea agosto
@@ -4933,7 +4917,6 @@ DO
 DO
 DO
 ANEXO
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -4947,7 +4930,6 @@ DO
 Reglamento CE Consejo
 DO
 Únicamente punto anexo III
-
 Plazos transposición Derecho interno
 Directiva
 Plazo transposición

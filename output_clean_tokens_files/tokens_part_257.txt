@@ -223,7 +223,6 @@ Eje
 Eje
 Eje
 Asistencia técnica
-
 nota cuadro bis añade frase
 Bulgaria Rumanía identificar tales gastos utilizará tabla correspondencias anexo Reglamento CE Comisión
 cuadro añade cuadro correspondiente Bulgaria Rumanía
@@ -587,7 +586,6 @@ anexo II Reglamento CE sustituyen columnas texto
 YEARESID
 ANUAL
 Años residencia país
-
 Nacido país
 Número años residencia país
 blanco
@@ -659,7 +657,6 @@ acceso restringido empleo autónomo
 acceso permite empleo autónomo
 combinación
 combinación
-
 aplicable persona menor años persona años persona años blanco
 Utilización instrumentos establecer equivale calificación elevada sistema país acogida
 personas años
@@ -676,7 +673,6 @@ Parientes amigos
 Oficina pública empleo
 Agencias privadas empleo
 Organización étnica inmigrantes
-
 aplicable persona menor años persona años
 Utilización servicios integración mercado laboral años posteriores llegada
 personas años
@@ -2555,7 +2551,6 @@ ciento
 luz
 ciento
 ambas luces
-
 muestra
 Muestra
 ambas luces
@@ -4817,7 +4812,6 @@ Deudas finales
 Deudas finales enero
 Ayuntamiento Sosnowiec
 Agencia Tributaria Sosnowiec
-
 consecuencia finales deudas TB acreedores públicos ascendían millones PLN
 autoridades polacas indicaron TB conseguido devolver millones PLN millones PLN ZUS millones PLN Ayuntamiento merced venta activos innecesarios
 informe indicaba deuda vuelto incrementarse enero ascendía millones PLN

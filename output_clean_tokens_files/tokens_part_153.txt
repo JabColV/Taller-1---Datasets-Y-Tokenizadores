@@ -1214,7 +1214,6 @@ Tabla
 Código dirección viento
 Norte
 North east Nordeste
-
 South east Sudeste
 South Sur
 South west Sudoeste
@@ -2091,7 +2090,6 @@ oferta monetaria incluye billetes monedas fraccionarias circulación pasivos mon
 contrapartidas oferta monetaria comprenden partidas balance IFM
 BCE recopila transacciones financieras derivadas saldos datos incluidos ajustes revalorización presentados IFM véase
 información estadística requerida BCE resume
-
 Determinación IFM
 SECCIÓN
 Determinación IFM base principios sustituibilidad depósitos
@@ -2125,7 +2123,6 @@ vida media ponderada utiliza medir riesgo crédito puesto pospone reembolso prin
 vida media ponderada utiliza limitar riesgo liquidez
 entenderá instrumentos mercado monetario instrumentos normalmente negociados mercado monetario líquidos valor determinable exactitud momento
 entenderá sociedad gestora sociedad cuya actividad habitual gestionar cartera FMM
-
 Balance saldos mensuales
 calcular agregados monetarios contrapartidas zona euro BCE requiere datos cuadro conforme
 Categorías instrumentos
@@ -2181,7 +2178,6 @@ IFM OIF declarantes operaciones residentes residentes relación participaciones 
 agentes informadores IFM OIF actúan declarantes operaciones residentes residentes relación participaciones FMM residente presentan datos desglose residencia titulares participaciones emitidas FMM residentes negocian nombre titular intermediario interviene operación
 opción aplicable información completa abarca sustancialmente operaciones realizadas agentes informadores ii facilitan datos precisos compras ventas residentes zona euro iii diferencias valores emisión amortización participaciones deducidos gastos mínimas iv importe participaciones residentes zona euro emitidas fondos inversión residentes pequeño
 aplican opciones ii agentes informadores incluidas IFM OIF comunicarán datos correspondientes basándose información disponible
-
 Balance saldos trimestrales
 analizar detalle evolución monetaria fines estadísticos BCE requiere partidas principales
 Desglose subsectores vencimientos garantías inmobiliarias préstamos instituciones distintas IFM zona euro véase cuadro
@@ -2202,7 +2198,6 @@ Desglose sectores depósitos préstamos instituciones distintas IFM carácter tr
 desglose necesario evaluar posiciones sectores IFM miembro frente restantes miembros zona euro
 Desglose monedas véase cuadro
 necesario desglose calcular transacciones agregados monetarios contrapartidas ajustados fluctuaciones tipos cambio agregados incluyen monedas juntas
-
 Presentación información ajustes revalorización elaboración transacciones
 elaborar transacciones agregados monetarios contrapartidas zona euro BCE requiere ajustes revalorización saneamientos totales parciales préstamos revalorizaciones valores
 Saneamientos totales parciales préstamos
@@ -2219,7 +2214,6 @@ requisitos mínimos revalorización valores figuran cuadro
 establecen requisitos mínimos información pasivo balance
 obstante prácticas valoración agentes informadores aplican valores distintos acciones provocan cambios saldos período BCN recopilar datos cambios
 datos presentan ajustes revalorizaciones
-
 Obligaciones información estadística titulizaciones préstamos transferencias préstamos
 Obligaciones generales
 datos comunican artículo apartado matizado dispuesto artículo apartado proceda
@@ -2252,7 +2246,6 @@ BCN datos refiere sección desgloses refiere sección recopilarse informará IFM
 Obligaciones información estadística IFM aplican NIC NIIF normas contabilidad nacionales similares
 IFM aplican NIC NIIF normas contabilidad nacionales similares comunican saldos vivos mes préstamos transferidos titulización hayan dados baja balance cuadro
 IFM aplica exención artículo apartado presentan saldos vivos trimestre préstamos transferidos titulización hayan objeto baja balance estén reconocidos financieros cuadro
-
 Presentación información simplificada entidades crédito tamaño reducido
 entidades crédito aplican exenciones contempladas artículo apartado letra exentas siguientes obligaciones
 desglose monedas referencia sección
@@ -2264,7 +2257,6 @@ desglose sectores referencia sección
 desglose países referencia sección
 desglose monedas referencia sección
 entidades crédito cumplir obligaciones información estadística referencia partes presentando datos periodicidad trimestral plazos estipulados estadísticas trimestrales artículo apartado
-
 Resumen
 Resumen desgloses efectos balance agregado sector IFM
 CATEGORÍAS INSTRUMENTOS VENCIMIENTOS
@@ -2687,7 +2679,6 @@ Base reservas calculada suma siguientes columnas Cuadro Pasivos abcdefghijk
 PASIVOS FORMA DEPÓSITO
 Euros monedas extranjeras
 DEPÓSITOS TOTALES
-
 aplazo
 años
 disp preaviso

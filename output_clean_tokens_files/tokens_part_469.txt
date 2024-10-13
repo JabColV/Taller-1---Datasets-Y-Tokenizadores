@@ -1010,7 +1010,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA cáscara
 Almendras
 Nueces Brasil
@@ -1301,9 +1300,7 @@ Impurezas
 diciclohexilurea kg máximo
 enero
 diciembre
-
 autorizarse usos insecticida acaricida dosis superiores aplicación
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión acrinatrina particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal julio
 evaluación general miembros
 prestarán especial atención protección operadores trabajadores velarán condiciones incluyan proceda empleo equipo protección individual adecuado
@@ -2047,7 +2044,6 @@ productos originarios Ceuta Melilla
 productos enteramente obtenidos Ceuta Melilla
 productos obtenidos Ceuta Melilla cuya fabricación hayan utilizado productos distintos mencionados inciso
 productos hayan suficientemente elaborados transformados sentido artículo
-
 productos originarios Marruecos Comunidad hayan objeto elaboraciones transformaciones vayan allá operaciones contempladas artículo
 productos originarios Marruecos
 productos enteramente obtenidos Marruecos
@@ -2505,7 +2501,6 @@ señal cola deberá exhibirse trasera vehículo tren
 señal dispondrá muestra continuación
 indicación cola tren viajeros consistirá luces rojas fijas altura tope eje transversal
 miembro notificar siguientes requisitos aplicará red trenes crucen frontera miembros
-
 luces rojas fijas
 placas reflectantes forma triángulos laterales blancos triángulos abajo rojos
 luces placas estarán altura tope eje transversal
@@ -2951,7 +2946,6 @@ capítulo Vínculos registros explicación relativa RMPV sustituye texto
 RMPV registro gestionado colaboración OTIF UE OTIF miembros OTIF pertenecientes UE poseedor registrado RMN apéndice especifica registros centrales globales códigos tipo vehículos códigos interoperabilidad códigos país etc gestionados organismo central resultado colaboración OTIF
 añade apéndice
 Apéndice
-
 IDENTIFICACIÓN VEHÍCULO
 Observaciones generales
 apéndice describe Número Vehículo Europeo marca correspondiente aplicados visible vehículo identificarlo forma inequívoca permanente explotación
@@ -3023,7 +3017,6 @@ MPV transmitir titular sucesor legal poseedor original
 MPV mantendrá validez titular cambia nombre parezca MPV
 caso cambio poseedor implique cambio MPV vehículos correspondientes deberán marcarse MPV plazo meses fecha registro cambio poseedor vehículo Registro Matriculación Nacional
 caso discrepancia MPV datos consignados RMN prevalecerá consignado RMN
-
 utiliza
 NORMAS DETERMINACIÓN DÍGITO CONTROL DÍGITO
 dígito control determinará
@@ -3094,7 +3087,6 @@ Turkmenistán
 Ucrania
 Reino Unido
 Uzbekistán
-
 CÓDIGOS INTEROPERABILIDAD UTILIZADOS VAGONES MERCANCÍAS DÍGITOS
 dígito
 dígito
@@ -3612,7 +3604,6 @@ organismo intervención facilitará información necesaria características alco
 interesado obtener dirigiéndose organismo intervención trate muestras alcohol puesto venta tomadas representante organismo intervención
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos ocasionen controles contemplados apartado correrán empresas venda alcohol
@@ -4801,7 +4792,6 @@ gastos declarados declaración anual
 gastos acumulados declaraciones mensuales
 ANEXO II
 Lista organismos pagadores cuyas cuentas disociadas liquidadas decisión posterior
-
 Organismos pagadores
 Alemania
 Bélgica
@@ -4811,9 +4801,6 @@ Países Bajos
 Reino Unido
 Suecia
 Luxemburgo
-
-
-
 Reglamento CE Comisión
 julio
 relativo apertura gestión contingente arancelario carne porcino asignado Unidos América
@@ -4903,7 +4890,6 @@ peso producto
 Chuleteros piernas deshuesados frescos refrigerados congelados
 EUR tonelada
 ANEXO II
-
 Indicaciones refiere artículo apartado párrafo letra
 búlgaro Регламент ЕО
 danés Forordning EF nr
@@ -4923,7 +4909,6 @@ portugués Regulamento CE
 esloveno Uredba št
 finés Asetus EY
 sueco Förordning EG nr
-
 Indicaciones refiere artículo apartado párrafo
 búlgaro намаляване на общата митническа тарифа съгласно предвиденото Регламент ЕО
 español reducción arancel aduanero común prevista Reglamento CE

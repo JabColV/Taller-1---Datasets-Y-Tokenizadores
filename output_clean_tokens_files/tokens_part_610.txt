@@ -626,7 +626,6 @@ Transcurrida fecha obtener muestras arreglo dispuesto artículo apartados Reglam
 volumen entregado empresas autorizadas limitado litros cuba
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos correrán cargo empresas venda alcohol
@@ -1492,7 +1491,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -1506,7 +1504,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -1520,7 +1517,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -2012,7 +2008,6 @@ proveedores servicios navegación aérea deberán garantizar personal participe 
 proveedores servicios navegación aérea garantizar personal participe procesos verificación efectuar controles imparcialidad
 remuneración reciba personal dependerá número controles efectuados resultados
 ANEXO VII
-
 Requisitos refiere artículo apartado verificación sistemas
 verificación sistemascontemplados artículo apartado letras deberá demostrar cumplen requisitos interoperabilidad prestaciones seguridad presente Reglamento entorno evaluación refleje contexto operativo dichos sistemas
 verificación sistemas contempla artículo apartado letras llevará cabo siguiendo prácticas prueba adecuadas estén reconocidas
@@ -2027,7 +2022,6 @@ comprobar plan pruebas cubre totalidad requisitos prestaciones seguridad present
 inspecciones pruebas contemple plan pruebas
 proveedores servicios navegación aérea garantizarán sistemas contemplados artículo apartado letras cumplen entorno evaluación operativa requisitos prestaciones seguridad presente Reglamento
 concluir satisfactoriamente verificación cumplimiento proveedores servicios navegación aérea deberán emitir declaración CE verificación sistemas presentarla autoridad nacional supervisión expediente técnico dispone artículo Reglamento CE
-
 Requisitos refiere artículo apartado verificación sistemas
 verificación sistemas contempladosen artículo apartado letras deberá demostrar cumplen requisitos interoperabilidad prestaciones seguridad presente Reglamento entorno evaluación refleje contexto operativo dichos sistemas
 proveedores servicios navegación aérea determinarán entorno evaluación operativa técnica adecuado refleje entorno funcional confiarán organismo notificado realización actividades verificación
@@ -2615,7 +2609,6 @@ Anexo Contingentes arancelarios OMC concedidos autoridades comunitarias competen
 Sección IV Tratamiento arancelario favorable razón naturaleza mercancías
 Anexo Mercancías impropias consumo lista desnaturalizantes
 Anexo Certificados
-
 DISPOSICIONES PRELIMINARES
 SECCIÓN
 REGLAS GENERALES
@@ -2679,7 +2672,6 @@ Barcos frigorífico subpartida
 barcos transporte mercancías barcos concebidos transporte mixto personas mercancías
 Barcos pesca barcos factoría barcos preparación conservación productos pesca
 Yates barcos embarcaciones recreo deporte barcas botes remo canoas
-
 Barcos vela motor auxiliar
 Barcos motor motores fueraborda
 Remolcadores barcos empujadores
@@ -2848,7 +2840,6 @@ st Cien unidades
 Mil unidades
 TJ Terajulios calorífico superior
 unidad suplementaria
-
 CUADRO DERECHOS
 ANIMALES VIVOS PRODUCTOS REINO ANIMAL
 Notas
@@ -3536,7 +3527,6 @@ Pepinillos
 Hortalizas vaina estén desvainadas frescas refrigeradas
 Guisantes arvejas chícharos Pisum sativum
 Judías porotos alubias frijoles fréjoles Vigna spp Phaseolus spp
-
 hortalizas frescas refrigeradas
 Espárragos
 Berenjenas
@@ -4209,7 +4199,6 @@ efectos subpartidas considerarán cocer productos hayan sometido tratamiento té
 efectos subpartidas expresión trozos aplica únicamente preparaciones conservas carne puedan identificarse dimensiones características tejido muscular coherente procedentes piernas chuleteros espinazos paletas cerdo doméstico caso
 Embutidos productos similares carne despojos sangre preparaciones alimenticias base productos
 hígado
-
 Embutidos secos untar cocer
 preparaciones conservas carne despojos sangre
 Preparaciones homogeneizadas

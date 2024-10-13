@@ -606,7 +606,6 @@ Entrenamiento inicial seguridad
 Véanse apéndice OPS apéndice OPS
 operador garantizará miembro tripulación cabina superado satisfactoriamente entrenamiento conversión entrenamiento inicial seguridad incluya mínimo temas figuran apéndice OPS
 discreción Autoridad aprobación proporcionará cursos entrenamiento
-
 operador
 directamente
 indirectamente centro formación actúe nombre operador
@@ -2487,13 +2486,10 @@ Pureza
 Pérdida desecación
 °C
 Grado esterificación
-
 Cenizas totales
 °C
 Cenizas insolubles ácido
-
 Materia insoluble agua
-
 Almidones dextrinas
 ebullición solución acuosa muestra añadir ml solución yodo
 aparecerá coloración azulada rojiza
@@ -2501,7 +2497,6 @@ Tanino
 ml solución acuosa muestra añade ml cloruro férrico
 aparecerá coloración precipitado negruzco
 Ácido octenilsuccínico residual
-
 Plomo
 mg kg
 Criterios microbiológicos
@@ -2614,7 +2609,6 @@ Peso específico
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO III
 Indicación contemplada artículo
 ANEXO IV
@@ -3286,7 +3280,6 @@ presentaciones farmacéuticas semisólidas cantidad equivalente sustancia vegeta
 Tintura relación droga extracto
 compresas diluido mínimo agua recién hervida
 gargarismo enjuague boca solución
-
 Indicación
 recomienda utilización medicamento niños menores años véase apartado Advertencias especiales precauciones
 Indicación
@@ -3411,9 +3404,7 @@ CICAP
 Isopropil metoxibifenilylhidrazinoformato
 diciembre
 noviembre
-
 autorizar usos acaricida
-
 evaluación solicitudes autorización productos fitosanitarios contengan bifenazato usos correspondientes plantas ornamentales invernaderos miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión bifenazato apéndices II aprobado Comité permanente cadena alimentaria sanidad animal junio
 Milbemectina
@@ -3702,9 +3693,7 @@ Corrección errores Decisión CE Parlamento Europeo Consejo abril modifica Decis
 Diario Oficial Unión Europea abril
 Versión corregida Diario Oficial Unión Europea junio
 lugar firma queda corregido
-
 Estrasburgo abril
-
 Bruselas abril
 Corrección errores Reglamento CE Parlamento Europeo Consejo abril negociación aplicación acuerdos servicios transporte aéreo miembros países terceros
 Versión corregida Diario Oficial Unión Europea junio
@@ -3979,7 +3968,6 @@ Tomillo Mejorana orégano
 Albahaca Melisa menta menta piperita albahaca morada albahaca común albahaca velluda flores comestibles flores Tagetes spp centella asiática hojas betel silvestre hojas curry
 Hojas laurel Hierba limón
 Estragón Hisopo
-
 Autoridad Europea Seguridad Alimentaria disponible determinada información metabolismo cultivos
 Judías vaina Judía verde judía plana judía hilo judía pinta judía común judía espárrago habas guar habas soja
 Guisantes vaina Tirabeques
@@ -4406,7 +4394,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4420,7 +4407,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4434,7 +4420,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 Peras nashi Pyrus pyrifolia
 Peras Pyrus bretscheri

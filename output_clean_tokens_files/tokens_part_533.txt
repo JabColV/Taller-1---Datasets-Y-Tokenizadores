@@ -536,7 +536,6 @@ Grado penetración
 aspectos importantes plan empresarial grado penetración previsto
 ingresos GNA dependen medida grado penetración logrado porcentaje hogares conectados viabilidad grado penetración previsto crucial importancia éxito actividades GNA
 GNA lograr meses grado penetración hogares esperándose niveles penetración estén saturados nivel
-
 UPC documento presentó serias dudas proyecto pudiera alcanzar importante cuota mercado objetivo grado penetración mencionado informe inversión
 Basándose informe RBB cifras totales rescisión zonas GNA presta servicios triple play UPC señala actual penetración general banda ancha zonas previsto cubrir GNA alcanzado
 concreto opina operadores minoristas utilizan red GNA BBned atraerán suficientes clientes basándose UPC relativamente fuerte competencia zona limitado ofertas disponibles red fibra óptica GNA
@@ -1676,9 +1675,7 @@ metoximetiltriazinilmetilcarbomoilsulfamoil ácido benzoico
 kg expresados tribenurón metil
 marzo
 febrero
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión tribenurón apéndices II aprobado Comité permanente cadena alimentaria sanidad animal febrero
 evaluación general miembros deberán atender especialmente protección plantas terrestres diana plantas acuáticas superiores aguas subterráneas situaciones vulnerables
 condiciones autorización deberán incluir medidas reducción riesgo proceda
@@ -1821,7 +1818,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados azucarados edulcorados
@@ -2226,7 +2222,6 @@ DO
 DO
 DO
 ANEXO
-
 Certificado sanitario intercambios comerciales animales procedentes explotaciones ungulados aves lagomorfos perros gatos hurones
 Datos partida presentada
 UNIÓN EUROPEA
@@ -2256,7 +2251,6 @@ Establecimiento
 Organismo autorizado
 Centro esperma
 Equipo embriones
-
 Lugar carga
 Fecha hora salida
 transporte
@@ -2319,7 +2313,6 @@ Enfermedad
 Decisión
 presente certificado válido
 Notas
-
 Casillas Datos requeridos caso desplazamiento ánimo comercial perros gatos hurones compañía
 Casilla Número documentos acompañamiento documentos CITES caso
 Casilla Indicar código SA correspondiente
@@ -2427,7 +2420,6 @@ Muestras elementales
 Piensos granel
 Número mínimo muestras elementales
 Lotes objeto muestreo superen toneladas
-
 Lotes objeto muestreo superen toneladas
 Veinte número toneladas constituyen lote objeto muestreo máximo muestras elementales
 Piensos envasados
@@ -2436,7 +2428,6 @@ Envases contenido superior kg
 Lotes objeto muestreo compuestos envases
 envases
 Lotes objeto muestreo compuestos envases
-
 Lotes objeto muestreo compuestos envases
 Número envases componen lote objeto muestreo máximo envases
 Envases kg
@@ -2486,13 +2477,8 @@ continuación indica número mínimo muestras globales lote objeto muestreo
 peso muestras elementales componen muestra global inferior kg
 Peso lote objeto muestreo toneladas
 Número mínimo muestras globales lote objeto muestreo
-
-
-
-
 Piensos envasados
 Tamaño lote objeto muestreo número envases
-
 peso muestra destinada análisis inferior
 INSTRUCCIONES TOMA PREPARACIÓN ENVASADO MUESTRAS
 Generalidades
@@ -2675,7 +2661,6 @@ Moler inmediatamente indica punto efectuar desecación indica punto
 Cálculo resultados
 contenido humedad porcentaje muestra calcula fórmulas siguientes
 Desecación predesecación
-
 peso inicial gramos muestra ensayo
 peso gramos muestra ensayo seca
 Desecación predesecación
@@ -3936,7 +3921,6 @@ Cálculo resultados
 altura área media picos vitamina solución muestra determinar concentración UI ml tomando referencia curva calibración
 contenido vitamina muestra UI kg viene fórmula
 UI kg
-
 concentración vitamina solución muestra UI ml
 volumen solución muestra mililitros
 volumen alícuota tomada punto mililitros
@@ -4511,15 +4495,10 @@ Inyectar μl solución calibración determinar altura área media picos diclazur
 Inyectar μl solución muestra determinar altura área media picos diclazurilo patrón interno
 Piensos
 contenido mg kg diclazurilo muestra viene fórmula
-
 altura área pico diclazurilo solución muestra
-
 altura área pico patrón interno solución muestra
-
 altura área pico diclazurilo solución calibración
-
 altura área pico patrón interno solución calibración
-
 concentración diclazurilo solución calibración microgramos mililitro
 volumen extracto muestra punto ml
 altura área pico diclazurilo solución muestra

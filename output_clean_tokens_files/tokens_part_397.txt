@@ -1202,7 +1202,6 @@ REQUISITOS
 Dimensiones neumáticos
 Anchura sección neumático
 anchura sección calcula fórmula
-
 anchura sección expresada milímetros medida llanta medición
 anchura nominal sección milímetros indica flanco neumático designación prescrita neumático
 anchura expresada milímetros llanta medición indicada fabricante nota descriptiva
@@ -1377,7 +1376,6 @@ Tamaños baja presión
 Cuadro
 Tamaños dimensiones neumáticos americanos
 MVM
-
 normal carretera
 normal carretera
 Neumáticos especial neumáticos nieve
@@ -1396,10 +1394,7 @@ Categoría velocidad
 Presión
 Normal
 Reforzado
-
-
 Derivados motocicletas
-
 Ciclomotores
 versiones inflan presión especificada fabricante
 acondiciona neumático instalado llanta temperatura ambiente laboratorio horas
@@ -1507,14 +1502,6 @@ marcado refiere punto marca homologación contemplada punto presente Reglamento 
 mm mín
 índice capacidad carga símbolo categoría velocidad colocarán juntos cerca designación tamaño
 bares
-
-
-
-
-
-
-
-
 din
 Decisión Consejo
 junio
@@ -1894,7 +1881,6 @@ DO
 ANEXO
 anexo Directiva CEE queda modificado
 sustituye texto
-
 Certificado sanitario intercambios comerciales animales procedentes explotaciones ungulados aves vacunadas influenza aviar lagomorfos perros gatos hurones EI
 Datos partida presentada
 UNIÓN EUROPEA
@@ -1929,7 +1915,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Transportista
 Descripción mercancía
@@ -1990,7 +1975,6 @@ Enfermedad
 Decisión
 presente certificado válido
 Notas
-
 Casillas Datos requeridos caso desplazamiento ánimo comercial perros gatos hurones
 Casilla Número documentos acompañamiento documentos CITES caso
 Casilla Indicar código SA correspondiente
@@ -2011,7 +1995,6 @@ Fecha
 Firma
 Sello
 sustituye texto
-
 Certificado sanitario intercambios comerciales animales esperma óvulos embriones procedentes organismos institutos centros autorizados
 EIII Animales procedentes organismos institutos centros autorizados
 organismo instituto centro origen autorizado anexo Directiva CEE efectos intercambios comerciales animales esperma óvulos embriones descritos casilla
@@ -4824,7 +4807,6 @@ Explotación instalaciones riego drenaje
 Tala árboles corte madera servicios silvicultura
 ANEXO IX
 OBJETOS ARTE OBJETOS COLECCIÓN ANTIGÜEDADES REFIERE ARTÍCULO APARTADO PUNTOS
-
 Objetos arte
 cuadros collages cuadros pequeño tamaño similares pinturas dibujos realizados totalmente mano artista excepción planos arquitectura ingeniería dibujos industriales comerciales topográficos similares artículos manufacturados decorados mano lienzos pintados decorados teatro fondos estudio usos análogos código NC
 grabados estampas litografías originales tiradas limitadas blanco negro color procedan directamente planchas totalmente ejecutadas mano artista cualquiera técnica materia empleada excepción medios mecánicos fotomecánicos código NC
@@ -4833,11 +4815,9 @@ tapicerías código NC textiles murales código NC tejidos mano base cartones or
 ejemplares únicos cerámica realizados totalmente artista firmados
 esmaltes cobre realizados totalmente mano límite ejemplares numerados aparezca firma artista taller excepción artículos bisutería orfebrería joyería
 fotografías tomadas artista reveladas impresas autor control firmadas numeradas límite treinta ejemplares fueren formatos soportes
-
 Objetos colección
 sellos correos timbres fiscales marcas postales sobres artículos franqueados análogos obliterados obliterar tengan hayan curso legal código NC
 colecciones especímenes colecciones zoología botánica mineralogía anatomía tengan interés histórico arqueológico paleontológico etnográfico numismático código NC
-
 Antigüedades
 Objetos tengan cien años antigüedad objetos arte colección código NC
 ANEXO
@@ -4907,7 +4887,6 @@ Directiva CE DO
 Directiva CE DO
 Directiva CE DO únicamente artículo
 Directiva CE DO únicamente punto Anexo
-
 Plazos incorporación derecho nacional
 contemplados artículo
 Directiva

@@ -378,11 +378,6 @@ porcentaje producto interior bruto Unión redondea entero exceso inferior defect
 Porcentaje PIB UE
 redondeado
 Cuota EUR
-
-
-
-
-
 cuota anual miembros comprometan inicialmente años incrementará adquirido compromiso período restante
 adquiere compromiso restante años miembro permanece años tomarán medidas necesarias garantizar miembro abone importe superior cuotas normales años
 cuadro figura continuación totales incluyen miembros europeos potenciales
@@ -427,7 +422,6 @@ DO pp
 aprobar adhesión miembros observadores
 decidir terminación condición miembro observador
 Etc
-
 observadores admitidos período años máximo observador volver solicitar estatuto observador casos excepcionales Asamblea General aceptar prórroga estatuto observador
 cuota miembro determinará años aumento anual compensar inflación incremento costes importe exacto miembro especifica cuadro figura abajo
 Adenda
@@ -2297,7 +2291,6 @@ DO
 DO
 ANEXO
 anexo partes sustituyen texto
-
 miembros zonas compartimentos sometidos programas autorizados erradicación
 Enfermedad
 miembro
@@ -2319,7 +2312,6 @@ Islas Shetland suroeste
 Infección Marteilia refringens
 Infección Bonamia ostreae
 Enfermedad mancha blanca
-
 miembros zonas compartimentos libres enfermedad
 Delimitación geográfica zona libre enfermedad miembro zona compartimento
 cuencas hidrográficas zonas litorales
@@ -2524,9 +2516,6 @@ acondicionamiento durará horas mínimo proseguirá temperatura aceite motor lí
 Evaluación emisión contaminantes vehículos equipados catalizadores recambio
 vehículos ensayo catalizador original cumplirán valores límite arreglo homologación tipo vehículos incluyendo proceda factores deterioro aplicados homologación tipo vehículos
 considerará cumplen requisitos relativos emisiones vehículos equipados catalizador recambio resultados cumplan relación contaminante regulado CO HC NOx partículas siguientes condiciones
-
-
-
 valor emisiones contaminante CO HC NOx partículas suma contaminantes HC NOx obtenido ensayos tipo catalizador recambio
 valor emisiones contaminante CO HC NOx partículas suma contaminantes HC NOx obtenido ensayos tipo catalizador original
 valor límite emisiones contaminante CO HC NOx partículas suma contaminantes HC NOx arreglo homologación tipo vehículos dividido procede factores deterioro determinados conforme punto
@@ -2831,8 +2820,6 @@ período autorización
 Límite máximo residuos LMR alimentos origen animal trate
 mg sustancia activa kg pienso completo
 Coccidiostáticos sustancias medicamentosas
-
-
 Composición aditivo
 Diclazuril
 Harina soja
@@ -3375,9 +3362,7 @@ kg expresado dodecahidrato
 kg anhidro
 septiembre
 agosto
-
 autorizar usos repelente
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión sulfato aluminio amonio SANCO particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal
 caso condiciones deberán incluir medidas reducción riesgo
 notificante presentará información confirmatoria
@@ -3744,7 +3729,6 @@ animales transferirse directamente centro recogida esperma situación sanitaria 
 Dichos animales deberán entrar contacto directo indirecto biungulados situación sanitaria inferior transporte utilice deberá limpiado desinfectado utilización
 efectos punto caso comercio miembros animales deberán acompañados certificado sanitario animales especie porcina cría conformidad modelo figuran anexo Directiva CEE siguientes garantías complementarias correspondientes condición certificados añadiendo sección certificado
 animales proceden directamente
-
 centro recogida esperma ajusta dispuesto Directiva CEE
 centro cuarentena cumplen condiciones admisión centros recogida esperma establecidas capítulo anexo Directiva CEE
 explotación sometidos protocolo previo admisión centro cuarentena cumplen condiciones admisión centro establecidas puntos capítulo punto anexo Directiva CEE
@@ -3813,7 +3797,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Descripción mercancía
 Código mercancía código SA
@@ -3852,7 +3835,6 @@ II recogido centro recogida esperma animales vacunados enfermedad Aujeszky ajust
 II recogido centro recogida esperma animales vacunados enfermedad Aujeszky vacuna deleción glucoproteína ajusta requisitos anexo Directiva CEE
 recogido transformado almacenado transportado cumpliendo requisitos establecidos anexo Directiva CEE
 Notas
-
 Casilla lugar origen centro recogida esperma definido artículo Directiva CEE procede esperma cuestión
 Casilla lugar destino centro recogida esperma definido artículo Directiva CEE explotación destino esperma
 Casilla Deberán indicarse identificación recipiente número precinto

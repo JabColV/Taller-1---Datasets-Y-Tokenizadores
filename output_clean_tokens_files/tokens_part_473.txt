@@ -765,7 +765,6 @@ Placas películas fotográficas impresionadas reveladas cinematográficas
 carácter educativo científico cultural
 Películas cinematográficas impresionadas reveladas registro sonido registro sonido
 anchura superior mm
-
 positivas
 Películas actualidad tengan sonido recojan sucesos tengan carácter actualidad momento importación importadas reproducción número copias tema máximo
 Películas archivo tengan sonido destinadas acompañar películas actualidad
@@ -778,12 +777,10 @@ Discos cintas soportes grabar sonido grabaciones análogas grabados matrices mol
 Instrumentos aparatos modelos proyectados demostraciones ejemplo enseñanza exposiciones susceptibles usos
 Modelos maquetas murales carácter educativo científico cultural destinados exclusivamente demostración enseñanza
 Maquetas modelos visuales reducidos conceptos abstractos tales estructuras moleculares fórmulas matemáticas
-
 Hologramas proyección láser
 Juegos multimedia
 Material enseñanza programada incluido material forma equipo acompañado material impreso correspondiente
 ANEXO II
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -799,7 +796,6 @@ DO
 Únicamente artículo apartado guión
 Acta adhesión anexo punto XIIIB
 DO
-
 Plazos transposición
 Directiva
 Fecha límite transposición
@@ -3151,7 +3147,6 @@ DO
 DO
 ANEXO
 PROYECTO DECISIÓN
-
 órganos gestión arreglo Gobierno Unidos América Comunidad Europea coordinación programas etiquetado eficiencia energética equipos ofimáticos revisión especificaciones aplicables monitores ordenador figuran anexo II
 ÓRGANOS GESTIÓN
 Visto Gobierno Unidos América Comunidad Europea coordinación programas etiquetado eficiencia energética equipos ofimáticos particular artículo XII
@@ -3209,7 +3204,6 @@ Resolución pantalla MP
 Resolución pantalla MP
 Diagonal pantalla pulgadas
 resoluciones pantalla
-
 MP Resolución aparato visualización megapíxels
 Superficie pantalla visible pulgadas cuadradas
 Ejemplo consumo energía máximo encendido aparato visualización resolución píxels diagonal pantalla visible pulgadas superficie pantalla visible pulgadas cuadradas vatios redondeado décima vatio próxima
@@ -3236,7 +3230,6 @@ sistemas visualización tengan modos espera espera espera reforzada deberán aju
 Ejemplo resultado ensayo aparato visualización vatios espera vatios espera reforzada permitiría obtención etiqueta ENERGY STAR consumo energía modos espera supera límite vatios nivel
 Cuadro
 Requisitos consumo energía espera apagado sistemas visualización
-
 Consumo energía máximo espera vatios
 Consumo energía máximo apagado vatios
 Requisitos ensayo
@@ -4933,7 +4926,6 @@ Relaciones caja cambios
 Relaciones reducción engranaje
 relaciones
 Máximo caja CVT
-
 Mínimo caja CVT
 Marcha atrás
 SUSPENSIÓN

@@ -3038,7 +3038,6 @@ Directiva modificada lugar Decisión CE Comisión DO
 DO
 Directiva modificada lugar Reglamento CE DO
 ANEXO
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -3048,7 +3047,6 @@ DO
 Reglamento CE Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -4602,7 +4600,6 @@ concentrado estabiliza tampón ácido cítrico mM
 Determinación
 ISP activa
 Cenizas
-
 ADN
 detectable
 dictamen adoptado Comisión técnica organismos modificados genéticamente julio

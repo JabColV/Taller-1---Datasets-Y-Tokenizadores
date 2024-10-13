@@ -350,13 +350,11 @@ Valor Recomendado
 Valor máximo autorizado
 Recuperación
 Precisión RSDR
-
 derivado ecuación Horwitz
 valor derivado ecuación Horwitz
 Observaciones criterios eficacia
 indican intervalos concentración puesto valores precisión calculan concentraciones presentan interés
 valores precisión calculan ecuación Horwitz
-
 RSDR desviación estándar relativa calculada resultados obtenidos condiciones reproducibilidad sR
 cociente concentración mg kg
 Notificación registro resultados estimación incertidumbre medición cálculo tasa recuperación
@@ -793,7 +791,6 @@ Precios EUR kg
 Malasia
 Indizado
 Taiwán
-
 cabo comparación significativa precios importaciones glifosato procedentes terceros países comparación efectuado base ácido glifosato correspondieron importaciones glifosato período investigación
 importaciones glifosato empresas vinculadas productores comunitarios disminuido ligeramente pasando toneladas toneladas período investigación
 únicas importaciones significativas período investigación países distintos RPC aparte importaciones productores comunitarios empresas vinculadas Comunidad proceden Taiwán véase cuadro
@@ -1079,9 +1076,7 @@ DO Reglamento cuya modificación constituye Reglamento CE DO
 Coste producción
 derecho antidumping vigente refiere glifosato ampliado Reglamento CE abarcase importaciones glifosato procedentes Malasia Taiwán declaran originarias Malasia Taiwán consecuencia derecho antidumping calculado reconsideración sustituye derecho vigente derecho antidumping deberá aplicarse importaciones producto afectado estableció considerando deberá ampliarse importaciones glifosato procedentes Malasia Taiwán declaran originarias Malasia Taiwán productores exportadores eximidos medidas ampliadas Reglamento CE deberán eximidos medidas impuestas presente Reglamento
 Corrección errores Directiva CEE Consejo junio relativa condiciones policía sanitaria regulan movimientos équidos importaciones équidos procedentes países terceros
-
 página artículo apartado letra guión cuarto
-
 meses caso estomatitis vesiculosa
 meses caso estomatitis vesiculosa comprobado
 Diario Oficial Unión Europea agosto
@@ -1729,7 +1724,6 @@ eficacia prescrita dispositivos frenado basada distancia frenado deceleración m
 eficacia dispositivo frenado determinará midiendo distancia frenado relación velocidad inicial vehículo midiendo ensayo deceleración media estabilizada
 distancia frenado distancia recorrida vehículo momento conductor accione mando dispositivo momento vehículo detenga velocidad inicial velocidad vehículo momento conductor comience accionar mando dispositivo velocidad inicial inferior velocidad exigida ensayo considerado
 deceleración media estabilizada dm calculará deceleración media relación distancia intervalo Vb Ve fórmula
-
 deceleración media estabilizada
 velocidad inicial vehículo
 velocidad vehículo kmh
@@ -1962,12 +1956,10 @@ Envases Tipo producto Categoría calidad número tipo variedad norma exige
 Peso kg
 Bruto Neto
 Período validez
-
 Observaciones
 KEPHIS certifica inspeccionado muestreo envío indicado ajusta normas vigor
 Nombre apellidos inspector
 mayúsculas
-
 Firma
 Fecha
 Sello oficial
@@ -2258,9 +2250,7 @@ CICAP
 Dipropiltiocarbamato Sbenzilo
 noviembre
 octubre
-
 autorizarse usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión prosulfocarb particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal octubre
 evaluación general miembros deberán prestar especial atención
 seguridad operarios velar condiciones exija utilización equipos protección individual adecuados
@@ -2875,7 +2865,6 @@ Artículo
 Dispensa legalización
 exigirá legalización formalidad similar contexto Convenio
 Artículo
-
 Autoridad Central requerido exigir solicitante actúe representación procedimientos judiciales autoridades designar representante tales fines
 Artículo
 Cobro costes
@@ -3859,10 +3848,7 @@ Combustible precio
 impuestos
 Combustible precio alto
 EUR amarre año
-
 Pequeño
-
-
 MODERNIZADO
 Comparación costes beneficios
 beneficios anuales valor monetario reducción agentes contaminantes amarraderos estiman millones EUR utiliza combustible azufre millones EUR utiliza combustible azufre
@@ -4753,7 +4739,6 @@ Tipo documento
 citación
 sentencia
 recurso
-
 Fecha plazo transcurrido requiere notificación traslado
 mes año
 Lengua documento
@@ -4765,7 +4750,6 @@ caso documento notificarse trasladarse enviarse doble ejemplar
 conformidad dispuesto artículo apartado Reglamento CE obligado diligencias necesarias notificación traslado plazo caso mes recepción solicitud
 hubiera proceder efectuar notificación traslado mes recepción solicitud deberá informar organismo indicándolo punto certificado cumplimiento incumplimiento trámites notificación traslado documentos
 pudiera satisfacer solicitud notificación traslado base información documentos transmitidos obligado virtud dispuesto artículo apartado Reglamento CE ponerse contacto rápido organismo obtener información documentos falten
-
 Fecha
 Firma sello
 referencia organismo transmisor

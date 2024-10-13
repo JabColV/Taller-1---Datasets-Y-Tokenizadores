@@ -1725,7 +1725,6 @@ Girar luna vidrio seguridad desplazarla horizontal verticalmente examinar superf
 Estimación utilizando plantilla control
 suficiente rápida estimación margen error calculará valor véase figura valor límite ΔαL cambio desviación valor distancia luna vidrio seguridad pantalla proyección
 relación cambio diámetro imagen proyectada Δd cambio desviación angular Δα
-
 Δd expresado milímetros
 expresado milímetros
 expresado minutos arco
@@ -1770,7 +1769,6 @@ tipo parabrisas considerará satisfactorio respecta distorsión óptica muestras
 Categoría vehículo
 Zona
 Valores máximos distorsión óptica
-
 extendida punto
 arco
 reducida punto anexo
@@ -1991,10 +1989,6 @@ desprendido pequeños fragmentos intersección cortes zona expuesta representa s
 dichas zonas amplias clasificarán valores Gt Gt
 CLASIFICACIÓN VALORES CORTES
 ZONA EXPUESTA ENREJADO
-
-
-
-
 Teledyne Taber Unidos América comercializa instrumento abrasión adecuado
 Teledyne Taber Unidos América comercializa ruedas abrasivas adecuadas
 ejemplo serie Atlas Ci serie Heraeus Xenotest serie Suga WELX
@@ -2400,11 +2394,6 @@ curvatura
 GRUPO CONSTITUIDO CATEGORÍA GROSOR
 CLASIFICACIÓN ORDEN CRECIENTE SUPERFICIES DESARROLLADAS
 seleccionan superficies desarrolladas pequeñas numeran
-
-
-
-
-
 pequeña
 pequeña
 pequeña
@@ -2935,7 +2924,6 @@ hará inspección parabrisas detectar defectos visuales asimismo siguiendo méto
 VIII caso acristalamientos plástico rígido aplicación adecuada indicada
 mm diámetro par fijarlas
 distancia borde frontal portamuestras extremidad cámara mm distancia bordes longitudinales portamuestras lados cámara mm mediciones harán interior véanse figuras
-
 mm
 forma dimensiones muestras indican figura
 caso unidades doble acristalamiento plástico rígido aplicación adecuada indicada
@@ -3305,9 +3293,7 @@ DO
 Decisión modificada lugar Decisión CE DO
 ANEXO
 Requisitos deberán establecerse conformidad artículo
-
 Requisitos cumplir plantones hortalizas
-
 Fichas relativas géneros especies relacionados Directiva CE incluyen condiciones cumplir materiales multiplicación
 ANEXO II
 Lista géneros especies contemplados artículo apartado
@@ -3522,7 +3508,6 @@ Miembro Comisión
 DO
 DO
 ANEXO
-
 Lista terceros países partes terceros países Certificados conformes Comunidad Europea Confederación Suiza comercio productos agrícolas DO
 establece certificado prohíben importaciones carne fresca especies indicadas línea correspondiente país
 Restricciones categoría
@@ -3548,7 +3533,6 @@ BA Bosnia Herzegovina
 BH Bahréin
 BR Brasil
 Minas Gerais Espíritu Santo Goias Mato Grosso Rio do Sul Mato Grosso do Sul zona designada alta vigilancia km fronteras exteriores municipios Porto Mutinho Caracol Bela Vista Antônio João Ponta Porã Aral Moreira Coronel Sapucaia Paranhos Sete Quedas Japora Mundo Novo zona designada alta vigilancia municipios Corumbá Ladário
-
 diciembre
 Santa Catarina
 enero
@@ -3677,7 +3661,6 @@ DO
 DO
 ANEXO
 Documentos administrativos homologación tipo CE vehículos motor refiere limpiaparabrisas lavaparabrisas
-
 Ficha características
 MODELO
 Ficha características relativa homologación CE tipo vehículo motor limpiaparabrisas lavaparabrisas
@@ -3741,7 +3724,6 @@ Coordenadas dibujo punto
 Asiento conductor
 Ángulo previsto respaldo
 Notas explicativas
-
 Certificado homologación tipo CE
 Formato mm
 CERTIFICADO HOMOLOGACIÓN TIPO CE
@@ -3800,7 +3782,6 @@ Unidad técnica independiente universal específica vehículo Táchese proceda
 Observaciones
 Lista tipos vehículo homologada unidad técnica independiente procede
 Táchese proceda
-
 distintivo homologación tipo CE unidades técnicas independientes consistirá
 letra minúscula rectángulo seguida número distintivo miembro concedido homologación CE unidad técnica independiente
 Alemania
@@ -4043,7 +4024,6 @@ millones EUR
 Fondo Desempleo
 Fondo Seguridad Social Sanidad
 incluido precio venta millones EUR
-
 millones EUR
 millones EUR
 informe basaba suposición caso liquidación garantía habría ejecutado Ministerio Finanzas habría responsable suma restante préstamo concedido KfW Petrotub millones EUR palabras caso liquidación habría recibido eventualmente millones EUR inferior suma millones EUR habría recibido caso privatización

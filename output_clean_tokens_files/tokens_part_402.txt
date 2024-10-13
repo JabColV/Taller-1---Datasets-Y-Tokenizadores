@@ -2,7 +2,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -16,7 +15,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -490,7 +488,6 @@ valor medido situará intervalo tolerancia requerido
 caso lámparas incandescencia emitan luz blanca valores medidos desviarán unidades dirección punto elegido lugar Planck publicación Colorimetry CEI
 lámparas incandescencia dispositivos señalización luminosa reunirán requisitos especificados punto publicación CEI modificación edición
 radiación UV lámpara halógena reunirá siguientes características
-
 distribución espectral flujo radiante
 eficiencia luminosa espectral
 equivalente radiación fotométrica
@@ -561,19 +558,6 @@ Grupo
 aplican limitaciones generales
 Categoría
 Números ficha
-
-
-
-
-
-
-
-
-
-
-
-
-
 HW
 HW
 HB
@@ -586,7 +570,6 @@ HS
 HSA
 HS
 PW
-
 Grupo
 luces señalización luces angulares luces marcha atrás luces alumbrado placa posterior matrícula
 HW
@@ -610,7 +593,6 @@ WRW WW
 WYW
 repuestos véanse disposiciones transitorias previstas puntos
 CW
-
 Lista fichas lámparas incandescencia secuencia presente anexo
 PSXW
 CATEGORÍA CW Ficha CW
@@ -1373,7 +1355,6 @@ plano HH posición normal pantalla perpendicular plano VV incluye eje referencia
 CATEGORÍAS Ficha
 Casquillo BAd publicación CEI ficha
 Flujo luminoso referencia
-
 CATEGORÍA Ficha
 LÁMPARA INCANDESCENCIA CICLOMOTORES
 Casquillo Ps publicación CEI ficha
@@ -1861,7 +1842,6 @@ Valores normales valores conseguirse tolerancias especificadas lámpara incandes
 Lámpara patrón incandescencia lámpara incandescencia emite luz blanca amarillo auto roja tolerancias reducidas dimensiones utilizada ensayos fotométricos dispositivos alumbrado señalización luminosa
 Flujo luminoso referencia flujo luminoso especificado lámpara patrón incandescencia referirse características ópticas dispositivo alumbrado
 Eje referencia eje definido casquillo refieren determinadas dimensiones lámpara incandescencia
-
 diseño interno lámpara concebido imágenes reflejos generados luz parásita localicen exclusivamente filamento visto dirección horizontal vista conforme indicaciones figura ficha
 desfase filamentos eje referencia mide exclusivamente direcciones mira conforme figura ficha
 puntos medirán proyección exterior espiras extremas cercana alejada plano referencia corta eje filamentos
@@ -1873,10 +1853,7 @@ valores indicados columna izquierda corresponden haz carretera
 indicados columna derecha haz cruce
 minutos examinará visualmente dicha superficie deberá mostrar cambios aparentes
 garantizar realización muestreo ensayo comprueba muestras recogidas conformes tipo ensayo considerado tomarán medidas necesarias restablecer conformidad producción correspondiente
-
 mv
-
-
 valores indicados columnas izquierda corresponden filamento baja potencia indicados columnas derecha filamento alta potencia
 casquillo situada allá plano referencia hará intersección ángulo indica figura ficha PSXW
 asegurará conformidad supera nivel aceptable falta conformidad grupo características establecido cuadro anexo significa número lámparas incandescencia ajustan requisitos grupo características tipo lámpara incandescencia supera tolerancias figuran correspondientes cuadros anexo
@@ -1944,7 +1921,6 @@ resultado normal proceso homologación multifásico ejemplo autobús fabricado f
 describirán brevemente características adicionales añadidas proceso multifásico
 modelo certificado conformidad vehículos incompletos cubrirá vehículos necesiten fase adicional homologación ejemplo bastidores camiones
 excepción tractores semirremolques certificados conformidad cubran vehículos bastidorcabina pertenecientes categoría modelo
-
 VEHÍCULOS COMPLETOS COMPLETADOS
 MODELO CARA
 VEHÍCULOS COMPLETOS
@@ -2051,7 +2027,6 @@ Cargado ciclo mixto
 vehículos eléctricos puros vehículos eléctricos híbridos cargan exterior
 consumo energía eléctrica Cargado ciclo mixto
 Autonomía eléctrica km
-
 vehículos especiales designación conforme anexo II sección
 Observaciones
 CATEGORÍA VEHÍCULOS
@@ -2701,7 +2676,6 @@ Tabla plano equipo control parásitos radioeléctricos
 Información valor nominal resistencias corriente continua caso cables ignífugos resistencia nominal metro
 DISPOSITIVOS ALUMBRADO SEÑALIZACIÓN LUMINOSA
 descripción componentes eléctricos electrónicos lámparas hubiera
-
 Dispositivos protección utilización autorizada vehículo
 posición antena vehículo
 condiciones específicas instalación
@@ -4463,9 +4437,7 @@ lista miembros indicación miembro referencia procede
 tasas correspondientes previstas normas nacionales aplicables miembros afectados
 DO
 ANEXO
-
 Modificaciones relativas cambio adición indicaciones terapéuticas
-
 Modificaciones relativas cambio adición especie destino esté destinada producción alimentos
 Modificaciones relativas sustitución adición serotipo cepa antígeno combinación serotipos cepas antígenos vacuna veterinaria gripe aviar fiebre aftosa fiebre catarral ovina
 Modificaciones relativas sustitución cepa vacuna veterinaria gripe equina

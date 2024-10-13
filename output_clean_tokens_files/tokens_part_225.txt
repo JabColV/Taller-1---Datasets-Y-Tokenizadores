@@ -1537,10 +1537,8 @@ vuelos efectuados exclusivamente transporte misión oficial Monarca reinante fam
 Dióxido carbono
 anexo IV modifica
 título anexo inserta título
-
 Seguimiento notificación emisiones instalaciones fijas
 añade
-
 Seguimiento notificación emisiones actividades aviación
 Seguimiento emisiones dióxido carbono
 emisiones seguirán cálculos
@@ -1577,7 +1575,6 @@ incertidumbre
 Seguimiento datos toneladaskilómetro efectos artículos sexies septies
 efectos solicitudes asignación derechos emisión conformidad apartado artículo sexies apartado artículo septies volumen actividades aviación calculará toneladaskilómetro aplicando fórmula
 Toneladaskilómetro distancia carga útil
-
 distancia distancia ortodrómica aeródromo origen aeródromo destino factor fijo adicional km
 carga útil masa carga correo pasajeros transportados
 efectos cálculo carga útil
@@ -2582,7 +2579,6 @@ Valores enumeración ComparisonOperatorValue
 exactamente
 exactamente
 menor
-
 menor exactamente
 exactamente
 Tipo fenómeno PhenomenonTypeValue
@@ -3563,9 +3559,7 @@ Conjunto objetos geofísicos
 Función componente CompositionPartRoleValue
 Funciones desempeña componente unidad geológica
 Valores lista controlada CompositionPartRoleValue
-
 unidad descrita consta pieza componente
-
 conoce detalle función unidad geológica
 Cuerpo rocoso determinado constituye variante lateral unidad litoestratigráfica variante unidad litodémica
 inclusión
@@ -4213,7 +4207,6 @@ abandonado mala calidad agua
 Abandonado mala calidad agua
 profundizado
 aplica lugar aumentado profundidad perforación
-
 aplica perforación practicada lugar utilizado previamente
 desuso
 utilizado
@@ -4382,7 +4375,6 @@ centro gravedad
 geometría descrita geometría puntos situada centro gravedad unidad
 geometría generalizada
 Geometría generalizada unidad estadística
-
 tipos geometría
 Tipo evolución EvolutionTypeValue
 Valores codificados tipos evolución

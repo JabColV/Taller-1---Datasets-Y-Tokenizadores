@@ -903,7 +903,6 @@ Fecha añadida anexo III
 Terceros países cuestión
 REPÚBLICA CHECA
 Menciones específicas tradicionales previstas artículo
-
 Vcprd
 Checo
 Menciones tradicionales complementarias previstas artículo
@@ -1612,9 +1611,7 @@ beneficiario efectivo Drex Technologies Holding SA Rami Makhlouf incluido lista 
 Corrección errores Reglamento CE Consejo octubre establece derecho antidumping definitivo importaciones determinados cables hierro acero originarios Federación Rusia derogan medidas antidumping importaciones determinados cables hierro acero originarios Tailandia Turquía
 Diario Oficial Unión Europea octubre
 página artículo apartado columna Empresa entrada cuadro
-
 Closed Joint Stock Company SeverstalMetiz
-
 Joint Stock Company Severstalmetiz
 Reglamento CE Comisión
 marzo
@@ -2700,7 +2697,6 @@ Pescados crustáceos moluscos invertebrados acuáticos
 Crustáceos pelados vivos frescos refrigerados congelados secos salados salmuera crustáceos pelar cocidos agua vapor refrigerados congelados secos salados salmuera harina polvo pellets crustáceos aptos alimentación humana
 Camarones langostinos Decápodos Natantia
 Langostinos género Penaeus
-
 Capítulo
 Preparaciones carne pescado crustáceos moluscos invertebrados acuáticos
 Crustáceos moluscos invertebrados acuáticos preparados conservados
@@ -2967,7 +2963,6 @@ PERMISO CERTIFICADO
 IMPORTACIÓN
 EXPORTACIÓN
 REEXPORTACIÓN
-
 Válido
 Importador
 Convención Comercio Internacional Especies Amenazadas Fauna Flora Silvestres
@@ -3119,7 +3114,6 @@ especímenes mueren robados destruidos perdidos vendidos transferidos propietari
 certificado válido acompañado hoja complementaria
 certificado afectará derecho adoptar medidas internas estrictas restricciones condiciones aplicables especímenes certificados especialmente posesión tenencia animales vivos
 certificado válido condiciones transporte ajustan dispuesto directrices transporte animales vivos caso transporte aéreo Reglamentación animales vivos IATA
-
 Finalidad transacción
 estampilla seguridad
 Nombre científico género especie nombre común especie
@@ -4178,7 +4172,6 @@ Servicios mantenimiento reparación incluidos partidas
 Transporte marítimo
 Pasajeros
 Mercancías
-
 Transporte aéreo
 Pasajeros
 Mercancías

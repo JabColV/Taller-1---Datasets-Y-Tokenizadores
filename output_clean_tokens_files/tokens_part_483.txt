@@ -202,7 +202,6 @@ Solicitud lista oficinas impuestos especiales
 Solicitud búsqueda lista eAD
 Solicitud estadísticas SEED
 Nombre mensaje solicitud
-
 aplica casos
 véase tipo solicitud casilla
 CCODDAT
@@ -214,17 +213,12 @@ estructura completa
 Oficina solicitante
 identificador existente Número impuesto especial operador conjunto AUTORIZACIÓN OPERADOR
 Identificador correlación solicitud
-
 valor único miembro
 Fecha inicio
-
-
 Fecha
 Fecha
 Fecha única
-
 SOLICITUD LISTA EAD
-
 Código miembro
 véase lista códigos anexo II Reglamento CE
 RACRITERIO PRIMARIO
@@ -282,7 +276,6 @@ Número IVA transportista
 Modificación destino número secuencia
 RAVALOR PRIMARIO
 SOLICITUDESTAD
-
 Tipo estadísticas
 Operadores económicos activos inactivos
 Expiraciones pendientes
@@ -293,7 +286,6 @@ CÓDIGO LISTA MIEMBROS
 PERÍODOESTAD
 Año
 Semestre
-
 campos datos siguientes optativos exclusivos
 cumplimenta campos datos aplican
 semestre
@@ -358,7 +350,6 @@ Actualización operadores económicos notificación cambios CD RD
 Difusión actualizaciones operadores económicos
 Búsqueda operadores económicos
 Extracción operadores económicos
-
 véase tipo mensaje casilla
 AUTORIZACIÓN OPERADOR
 Número impuesto especial operador
@@ -428,7 +419,6 @@ Número referencia oficina expedición
 Fecha expiración
 Indicador autorización temporal reutilizable
 falso
-
 Indicador pequeño productor vino
 Véase Operación casilla
 OPERADOR EXPEDIDOR
@@ -441,7 +431,6 @@ Nombre operador
 DATOS AUTORIZACIÓN TEMPORAL
 figura Autorización temporal pequeño productor vino
 Código producto sujeto impuestos especiales
-
 Cantidad
 véase lista códigos anexo II Reglamento CE
 Cuadro
@@ -498,7 +487,6 @@ Cuadro
 Datos estadísticos SEED
 refiere artículo
 valor único miembro
-
 ESTADPORES
 Número operadores económicos activos
 Número operadores económicos inactivos
@@ -829,7 +817,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -859,7 +846,6 @@ Información sanitaria
 Número referencia certificado
 Declaración zoosanitaria
 veterinario oficial abajo firmante certifica presente ovoproductos descritos certificado producido huevos procedentes establecimiento momento expedirse presente certificado libre influenza aviar alta patogenicidad Reglamento CE
-
 torno radio kilómetros incluido procede territorio país vecino habido brote influenza aviar alta patogenicidad enfermedad Newcastle previos
 procesados
 clara líquida tratado
@@ -883,7 +869,6 @@ satisfacen especificaciones analíticas sección capítulo II IV anexo III Regla
 marcado marca identificación conformidad sección anexo II sección capítulo II anexo III Reglamento CE
 cumplen garantías relativas animales vivos productos ofrecen planes residuos presentados conformidad Directiva CE particular artículo
 Notas
-
 Casilla indicar código zona compartimento origen necesario código columna anexo Reglamento CE
 Casilla nombre dirección número autorización establecimiento expedición
 Casilla indicar matrícula vagones camiones nombre buques conoce número vuelo aviones
@@ -1863,7 +1848,6 @@ Artículo
 Inicio actividades Oficina Apoyo
 Oficina Apoyo entrará pleno funcionamiento tardar junio
 Comisión responsable creación funcionamiento inicial Oficina Apoyo capacidad operativa ejecutar presupuesto
-
 Director Ejecutivo asuma funciones nombramiento Consejo Administración condiciones previstas artículo funcionario Comisión ejercer director interino funciones correspondientes Director Ejecutivo
 funcionarios Comisión funciones encomendadas Oficina Apoyo responsabilidad director interino Director Ejecutivo
 director interino autorizar pagos cubiertos créditos consignados presupuesto Oficina Apoyo aprobación Consejo Administración celebrar contratos particular contratación personal aprobada plantilla Oficina Apoyo
@@ -2208,7 +2192,6 @@ Vicepresidente
 DO
 ANEXO
 ÍNDICE
-
 Definiciones
 II
 Capítulo Montaje ensayo
@@ -2423,7 +2406,6 @@ velocidad impacto requerida ángulo impacto determinarán figuras referencia alt
 velocidad impacto requerida deberá deducirse figura referencia altura vertical nivel referencia suelo posición impacto prevista borde delantero sistema protección delantera frente sistema protección delantera
 masa impactador incluirá elementos propulsión guía formen integrante impacto incluidos pesos añadidos
 valor masa impactador deberá calcularse forma
-
 masa kg
 energía impacto requerida
 velocidad requerida
@@ -2519,7 +2501,6 @@ Impactador simulador cabeza niño adulto pequeño
 Placa posterior
 Esfera
 Esfera mm
-
 Reglamento UE Comisión
 septiembre
 modifica Reglamento UE establecen listas terceros países territorios partes terceros países territorios autorizados introducir Unión Europea determinados animales carne fresca requisitos certificación veterinaria
@@ -2581,7 +2562,6 @@ suspenso mayo
 ANEXO
 anexo II modifica
 sustituye texto
-
 Lista terceros países territorios partes terceros países territorios Requisitos conformes Comunidad Europea Confederación Suiza comercio productos agrícolas DO
 establece certificado prohibirán importaciones carne fresca especies indicadas línea correspondiente país
 Restricciones categoría
@@ -2617,7 +2597,6 @@ Espíritu Santo
 Goiás
 Mato Grosso
 Rio do Sul Mato Grosso do Sul zona designada alta vigilancia km fronteras exteriores municipios Porto Murtinho Caracol Bela Vista Antônio João Ponta Porã Aral Moreira Coronel Sapucaia Paranhos Sete Quedas Japorã Mundo Novo zona designada alta vigilancia municipios Corumbá Ladário
-
 diciembre
 Santa Catarina
 enero
@@ -2645,7 +2624,6 @@ MK Antigua República Yugoslava Macedonia
 MU Mauricio
 MX México
 sur cordón sanitario extiende Palgrave Point oeste Gam
-
 NC Caledonia
 NZ Zelanda
 PA Panamá
@@ -2670,7 +2648,6 @@ distrito Camperdown provincia KwaZuluNatal
 ZW Zimbabue
 modifica
 lista introductoria sustituye texto
-
 Modelos certificados veterinarios
 Modelos
 modelo certificado veterinario carne fresca incluida carne picada bovino doméstico comprendidas asimismo especies géneros Bison Bubalus cruces
@@ -2720,7 +2697,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -2820,7 +2796,6 @@ veterinario oficial abajo firmante certifica carne fresca descrita procede anima
 Notas
 certificado corresponde carne fresca incluida carne picada bovino doméstico comprendidas asimismo especies géneros Bison Bubalus cruces
 carne fresca entienden partes animales aptas consumo humano frescas refrigeradas congeladas
-
 Casilla indicar código territorio figura anexo II Reglamento UE
 Casilla lugar origen nombre dirección establecimiento expedición
 Casilla indicar matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre buques transporte
@@ -2889,7 +2864,6 @@ sacrificados ddmmaaaa ddmmaaaa ddmmaaaa
 obtenido establecimiento torno radio km registrado caso brote enfermedades referencia punto II treinta producido caso brote enfermedad preparación carne importación Unión autorizado sacrificio animales presentes eliminación carne limpieza desinfección totales establecimiento control veterinario oficial
 mantenido estrictamente separada carne cumple requisitos contemplados presente certificado etapas producción deshuesado almacenamiento momento embalada cajas envases cartón posterior almacenamiento zonas especiales
 certificado corresponde carne fresca incluida carne picada ovino Ovis aries caprino Capra hircus doméstico
-
 Casilla indicar código SA correspondiente
 Casilla utilizan recipientes cajas indicar número número precinto caso
 carne picada deshuesada desmenuzada fragmentos preparada exclusivamente músculos estriados incluidos tejidos grasos adheridos músculo corazón
@@ -4837,7 +4811,6 @@ DO
 DO
 ANEXO
 PRINCIPIOS UNIFORMES EVALUACIÓN AUTORIZACIÓN PRODUCTOS FITOSANITARIOS CONFORME ARTÍCULO APARTADO REGLAMENTO CE
-
 Principios uniformes evaluación autorización productos fitosanitarios químicos
 CONTENIDO
 INTRODUCCIÓN

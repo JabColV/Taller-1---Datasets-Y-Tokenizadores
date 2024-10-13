@@ -477,7 +477,6 @@ Dirección
 Sello
 Fecha
 Firma
-
 respuesta solicitud adjuntamos
 formularios siguientes
 documentos siguientes
@@ -616,7 +615,6 @@ Reglamento CEE artículo artículo bisb artículo ter
 compone páginas suprimirse
 Fax
 Fax
-
 Apellidos nacimiento
 Dirección habitual
 Apartado correos
@@ -638,8 +636,6 @@ identificación
 Dirección
 Teléfono
 Fax
-
-
 Autoridad competente organismo designado país empleo
 Denominación
 Dirección Teléfono
@@ -817,7 +813,6 @@ institución competente cumplimentará enviará ejemplares formulario instituci�
 legislación sujeto interesado
 institución cumplimentará devolverá formulario institución
 remitido
-
 Institución destinataria
 Denominación
 Número identificación institución
@@ -832,7 +827,6 @@ Actividades anteriores
 nombre razón social dirección
 trámite solicitud presentada trabajador citado recuadro rogamos comuniquen períodos
 seguro empleo residencia cumplido
-
 arreglo legislación país contingencia
 enfermedad maternidad
 defunción subsidio
@@ -842,7 +836,6 @@ Fecha
 persona citada recuadro
 protegida contingencia enfermedadmaternidad fecha citada punto
 cumplido
-
 siguientes períodos seguro empleo lugar prestaciones figuran continuación
 siguientes períodos residencia
 Institución cumplimenta
@@ -941,7 +934,6 @@ institución lugar residencia estancia cumplimentará enviará ejemplares formul
 arreglo dispuesto artículos Reglamento CEE citados referencia
 institución estima
 enviar formulario solicitado cumplimentará devolverá ejemplares institución remitido
-
 formulario deberá cumplimentarse caracteres imprenta utilizando únicamente líneas puntos compone páginas
 Titular
 Solicitante
@@ -1013,7 +1005,6 @@ precisarse motivo suspensión supresión letras figuran continuación
 titular pensión renta iniciado actividad laboral país residencia
 miembro familia iniciado actividad laboral país residencia
 impago cotizaciones
-
 CERTIFICACIÓN INSCRIPCIÓN MIEMBROS FAMILIA TRABAJADOR AJENA ELABORACIÓN INVENTARIOS
 Reglamento CEE artículo
 Reglamento CEE artículo artículo
@@ -1140,7 +1131,6 @@ expedido formulario
 Solicitud prestaciones
 hospitalización fechas centro hospitalario prevención rehabilitación
 incapacidad temporal
-
 accidente ocurrido fecha
 remuneración reducida maternidad adopción
 certificado médico atiende
@@ -1181,7 +1171,6 @@ Deberá enviarse cerrado
 Dirección
 Adjunto formulario fecha
 Dirección país residencia estancia
-
 abajo firmante doctor medicina
 habiendo examinado persona cita recuadro
 recaída agravamiento
@@ -1405,7 +1394,6 @@ trabajador fronterizo
 trabajador desempleado pensionista
 institución deudora pensión deberá cumplimentar recuadro
 persona indicada apartado derecho pensión
-
 Institución cumplimentado apartado
 Miembro familia pensionista
 Fecha traslado residencia
@@ -1527,7 +1515,6 @@ accidente
 actuación
 causas
 Institución aseguradora difunto
-
 cargo difunto
 difunto
 cargo solicitante
@@ -1665,12 +1652,9 @@ Asistencia médica
 Asistencia odontológica
 Medicamentos
 Hospitalización
-
-
 prestaciones
 Reconocimientos médicos
 prestaciones económicas
-
 Institución acreedora
 Sello
 Reservado institución país competente
@@ -1780,19 +1764,14 @@ empleador agencia contratación
 persona asegurada citada recuadro
 empleada empleador citado recuadro
 ejercido actividad
-
 trabaja desplazada ejercerá actividad período extenderá previsiblemente
-
 empresas indican continuación
 Nombre razón social empresas buque
 empleador contemplado recuadro
 empresas contempladas punto
-
 caso indicar nombre
-
 dirección
 Apartado correos
-
 trabajador cubierto régimen seguridad social finlandés islandés deberá solicitar formulario
 Reglamento CEE artículos bis
 Deberá cumplimentada empleador trabajador
@@ -1815,7 +1794,6 @@ formulario expide petición interesado institución entregarlo cumplimentará pa
 Número identificación personal
 invalidez
 contingencia
-
 enMalta Entitlement Unit Unidad derechos Ministerio Sanidad St John Street Valeta
 elReino Unido Department for Work and Pensions the Pension Service International Pension Centre Ministerio Trabajo Pensiones Servicio pensiones Centro pensiones internacionales Tyneview Park NewcastleuponTyne Irlanda Norte Department for Social Development Overseas Benefits Branch Departamento desarrollo social Prestaciones ultramar Block Castle Buildings Belfast
 enIslandia Tryggingastofnun rikisins Instituto nacional seguridad social Reikiavik
@@ -1858,7 +1836,6 @@ Nombres
 motivo
 derecho prestaciones
 derecho percibir prestaciones especie
-
 siguientes miembros familia trabajador mencionado recuadro inscritos
 CERTIFICADO RELATIVO MANTENIMIENTO DERECHO PRESTACIONES CURSO ENFERMEDAD MATERNIDAD
 seguro enfermedadmaternidad
@@ -1875,7 +1852,6 @@ Número identificación institución
 Países Bajos conoce institución competente seguro enfermedad enviarse formulario dirección UWV Postbus CC Amsterdam
 Número identificación institución
 cumplimentará casos
-
 víctima atendida
 informe médico
 probables secuelas citan continuación
@@ -1886,7 +1862,6 @@ Referencia formulario fecha
 persona contempla recuadro
 posibilidad prórroga
 institución
-
 prestaciones concederán semana
 lunes
 martes
@@ -1962,13 +1937,11 @@ MIEMBROS FAMILIA
 Reglamento CEE artículo
 institución competente cumplimentará formulario remitirá ejemplares interesado deberá presentarlos
 invalidez
-
 enSuecia delegación Försäkringskassan Instituto nacional seguridad social lugar residencia obtiene asistencia
 institución expedir certificado conforme artículo artículo Reglamento CEE cumplimentará
 formulario entregará ejemplares pensionista miembro familia hará llegar institución
 coste prestaciones concederse país residencia caso beneficiario resida país
 Institución cumplimentado apartado
-
 código BIC SWIFT
 difunto
 enSuiza Institution commune LAMal Instituzione commune LAMal Gemeinsame Einrichtung KVG Institución común arreglo
@@ -2025,7 +1998,6 @@ Fecha nacimiento
 agente auxiliar Comunidades Europeas
 declara optar quedar amparado legislación materia seguridad social
 Declaración
-
 período ejerza actividad laboral indicada presente formulario
 Institución designada autoridad competente
 cumplimentada formulario excepción recuadro deberá enviar ejemplar formulario empleador
@@ -2093,8 +2065,6 @@ relación
 formulario
 trabajador mencionado recuadro mantendrá previsiblemente situación incapacidad temporal inclusive
 interesado
-
-
 caso enfermedad
 caso maternidad fecha prevista nacimiento
 probablemente
@@ -2106,14 +2076,12 @@ interesado situación incapacidad laboral
 Informes caso accidente trabajo
 informe médico
 lesiones
-
 incapacidad temporal comenzó
 domicilio
 hospital
 lugar
 secuelas
 resulta
-
 plazo noventa contar notificación
 Asimismo interesado derecho iniciar procedimiento judicial plazo año fecha recibo decisión
 decisión adjunta presentar recurso plazo mes contar fecha notificación
@@ -2142,7 +2110,6 @@ decisión adjunta presentar recurso plazo treinta contar fecha notificación
 instancia
 Lisboa
 paraPortugal certificado defunción facturas satisfechas concepto gastos sepelio
-
 Correo electrónico
 Apartado correos
 identificación personal
@@ -2171,7 +2138,6 @@ enFinlandia oficina local Kansaneläkelaitos Instituto seguridad social presente
 enSuecia Försäkringskassan Oficina local seguridad social presente formulario presentarse institución atienda paciente
 trabajador mencionado recuadro solicitó fecha prestaciones económicas
 Referencia formulario fecha
-
 interesado situación incapacidad laboral parcial
 año fecha
 alzado contempla artículo Reglamento CEE
@@ -2183,7 +2149,6 @@ Cumplimentar únicamente formulario extienda petición institución lugar reside
 enFrancia organismo proporciona proporcionaría prestaciones especie seguro enfermedad
 subsidio defunción certificado defunción fallecido registro defunción afiliado
 solicitante empresario pompas fúnebres solicita subsidio conforme legislación finlandesa estonia deberá adjuntarse carta abogado persona derecho
-
 persona mencionada apartado percibido prestaciones arreglo documento
 formulario fecha
 Orientación Banco Central Europeo
@@ -2742,7 +2707,6 @@ Retraso
 caso obstrucción temporal puente esclusa tramo canal fechas concretas
 ejemplo Retraso máximo horas noviembre
 Codificación
-
 servicio
 caso puente móvil funcione período concreto
 período comprendido horas funcionamiento normales
@@ -2798,12 +2762,9 @@ timeend hora finalización
 intervalcode código intervalo período limitación importante planificación viaje períodos limitación codificarse arreglo siguientes ejemplos
 Período limitación
 Continuo
-
-
 laborables lunes viernes
 lunes viernes
 semanas lunes viernes
-
 excepción
 sección identificación
 siguientes secciones
@@ -3267,7 +3228,6 @@ DO
 ANEXO
 anexo Directiva CEE queda modificado
 fila relativa clofentecina columna Disposiciones específicas sustituye texto
-
 aplicación principios uniformes anexo VI conclusiones informe revisión clofentecina particular apéndices II decidió Comité permanente cadena alimentaria sanidad animal mayo
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 seguridad operarios trabajadores cuyo efecto deberá estipularse condiciones utilización equipos protección individual adecuados conveniente
@@ -4358,7 +4318,6 @@ ANEXO
 Artículo
 LISTA MÉTODOS REFERENCIA
 Índice Mín mínimo Máx máximo Anexo anexo Reglamento citado ESM extracto seco magro IP índice peróxido aspecto olor consistencia RTB recuento bacterias Term recuento bacterias termófilas EM miembro FIL Federación Internacional Lechería ISO Organización Internacional Normalización IUPAC Unión Internacional Química Pura Aplicada ADPI Instituto Americano Productos Lácteos LC leche condensada LNE leche nata evaporada
-
 Reglamento Comisión
 Producto
 Parámetro
@@ -4368,12 +4327,9 @@ Observaciones
 Reglamento CE Almacenamiento público
 Mantequilla salar
 Grasa
-
 Agua
-
 FIL
 ESM
-
 FIL
 Ácidos grasos
 mmol grasa
@@ -4406,7 +4362,6 @@ puntos
 ISO FIL
 Reglamento CE Almacenamiento privado
 Mantequilla salada
-
 ESM sal
 Sal
 Reglamento CE capítulo II
@@ -4417,9 +4372,7 @@ Véase anexo VI
 Véase anexo VII
 Véase anexo
 Mantequilla concentrada
-
 Agua ESM
-
 FIL humedad
 FIL ESM
 meq oxígeno grasa
@@ -4428,13 +4381,11 @@ Aroma
 Limpio
 Olor
 Ausencia olores extraños
-
 Ausencia neutralizantes antioxidantes conservantes
 Nata
 Mínimo
 Nota
 Reglamento CE capítulo III
-
 estigmasterol
 kg mantequilla concentrada
 estigmasterol
@@ -4446,8 +4397,6 @@ estigmasterol anexo VIII
 éster etílico ácido butírico triglicéridos ácido enántico
 triglicéridos ácido enántico anexo
 lecitina
-
-
 meq oxígeno grasa
 Reglamento CE capítulo IV
 Artículo título II Reglamento CE
@@ -4456,48 +4405,35 @@ Leche vaca
 Anexo IX
 Reglamento CEE
 Anexo Caseína ácida
-
-
 FIL
 Acidez libre
 ml solución NaOH
 Anexo Caseínacuajo
-
 Cenizas
-
 ISO FIL
 Anexo Caseinatos
-
 Proteínas lácteas Mín
-
 Grasa cenizas
 Cenizas fijas
 Anexo II Caseína ácida
-
-
 ml solución NaOH
 RTB máx
 Ausencia
 Term
 Véanse notas
 Anexo II Caseína cuajo
-
 Anexo II Caseinatos
 Anexo III Caseinatos
-
 Lactosa
-
 Reglamento CE
 Piensos compuestos leche desnatada polvo LDP piensos
 Agua mazada ácida polvo
-
 Anexo XIX
 Proteína
 mínimo extracto seco magro
 FIL
 Agua leche desnatada polvo
 Grasa leche desnatada polvo
-
 Suero queso leche desnatada polvo
 Anexo XIII
 Nota
@@ -4509,23 +4445,18 @@ Grasa mezclas
 Directiva CEE Comisión DO
 Suero queso mezclas
 Contenido leche desnatada polvo producto Mín
-
 Anexo XVI
 Grasa producto Mín
-
 Nota
 Almidón producto Mín
-
 Nota
 Cobre producto
 Directiva CEE Comisión DO
 Reglamento CE
 Leche desnatada polvo aerosol
-
 mínimo extracto seco magro
 ISO
 FIL
-
 Acidez
 ml NaOH extracto seco magro
 Lactatos
@@ -4546,7 +4477,6 @@ Anexo XII
 Suero ácido
 Agentes antimicrobianos
 Anexo XV
-
 métodos referencia enumerados utilizarse analizar productos contemplados cualquiera Reglamentos enumerados columna
 Código NC
 Límite
@@ -4631,7 +4561,6 @@ DETERMINACIÓN ÍNDICE REPETIBILIDAD
 plazo meses catador analizará muestras duplicados ciegas
 Normalmente hará sesiones
 resultados distintas características producto evaluarán fórmula
-
 índice repetibilidad
 puntuación evaluación muestra xi
 puntuación evaluación muestra xi
@@ -4763,7 +4692,6 @@ Sabor aroma
 Puntos
 Observaciones
 Puntos clase calidad
-
 tipo ideal
 calidad máxima
 uniformemente seco

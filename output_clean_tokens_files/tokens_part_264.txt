@@ -1619,10 +1619,8 @@ Diario Oficial Unión Europea enero
 Corrección errores Reglamento UE Consejo diciembre fija posibilidades pesca buques UE poblaciones peces determinadas especies aguas profundas
 Diario Oficial Unión Europea diciembre
 página anexo punto entrada
-
 Brótola
 Phycis spp
-
 Brótola
 Phycis Blennoides
 página anexo cuadro muestran posibilidades pesca anuales tiburones aguas profundas Deania histricosa Deania profundorum encabezamiento
@@ -1697,9 +1695,7 @@ RSRSRSSRclorobencildimetilHtriazolilmetilciclopentanol
 suma isómeros cis trans
 junio
 mayo
-
 autorizarse usos fungicida regulador crecimiento vegetal
-
 aplicación principios uniformes anexo VI conclusiones informe revisión metconazol particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal mayo
 evaluación general
 Bélgica evaluó información datos presentados notificador Comisión octubre llegado conclusión ampliación solicitada representa riesgo añadirse considerados disposiciones específicas correspondientes metconazol anexo Directiva CEE informe revisión Comisión dicha sustancia
@@ -1926,7 +1922,6 @@ DO
 Decisión modificada lugar Decisión CE DO
 ANEXO
 ANEXO
-
 Alemania
 RenaniaPalatinado
 distrito Ahrweiler municipios Adenau Altenahr
@@ -2503,7 +2498,6 @@ anexo IV queda modificado
 ANEXO IV
 Normas admisibilidad aplicables gastos relacionados misiones seminarios actividades formación reuniones
 punto IV sustituye texto
-
 alcanza número máximo participantes asistido seminario actividades formación mínimo veinte participantes laboratorios nacionales referencia Comisión aceptará máximo participantes laboratorios referencia Unión reciban dietas dependiendo durado presencia seminario actividades formación
 Comisión reembolsará costes viaje alojamiento participantes seminario actividades formación tengan lugar localidad distinta laboratorio referencia UE
 pago dietas reembolso costes viaje alojamiento dependerán supere ayuda financiera máxima Unión
@@ -2691,7 +2685,6 @@ Fecha pago
 Apellidos
 Nombre
 Planta tratamiento
-
 especifíquense
 Ovinos
 Caprinos
@@ -2835,7 +2828,6 @@ Zona II III IV VIII IX XII XIV aguas comunitarias aguas sujetas soberanía juris
 entrada correspondiente especie maruca azul aguas comunitarias aguas sujetas soberanía jurisdicción terceros países zonas CIEM VI VII sustituye texto
 Maruca azul
 Zona VI VII aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
-
 entrada correspondiente especie besugo aguas comunitarias aguas sujetas soberanía jurisdicción terceros países sustituye texto
 Besugo
 Zona aguas comunitarias aguas sujetas soberanía jurisdicción terceros países
@@ -2924,7 +2916,6 @@ pescar pez espada zonas situadas sur paralelo zona Convención buques comunitari
 participación comunitaria circunscribirá buques enarbolen pabellón España
 anexo IV queda modificado
 sustituye texto
-
 Límites cuantitativos aplicables licencias permisos pesca buques comunitarios faenen aguas determinados terceros países
 Zona pesca
 Pesquería
@@ -3066,11 +3057,8 @@ Decisión CE Comisión octubre establecen disposiciones aplicación Directiva CE
 Decisión CEE Consejo junio relativa determinados gastos sector veterinario DO
 ANEXO
 anexo Decisión CE queda modificado
-
 suprime entrada correspondiente Irlanda relación herpesvirosis Koi HVK
-
 suprime entrada correspondiente Dinamarca relativa septicemia hemorrágica vírica SHV
-
 entrada Dinamarca relativa septicemia hemorrágica vírica SHV sustituye texto
 Dinamarca
 territorio continental

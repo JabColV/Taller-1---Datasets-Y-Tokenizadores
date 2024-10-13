@@ -691,7 +691,6 @@ Compraventa firme
 Entrega venta vista prueba consignación mediación agente comisionado
 Trueque compensación especie
 Arrendamiento financiero alquilercompra
-
 Devolución sustitución gratuita mercancías registro transacción original
 Devolución mercancías
 Sustitución mercancías devueltas
@@ -2535,7 +2534,6 @@ Previsión situación económica meses siguientes espera situación económica
 Mejore
 Permanezca
 Empeore
-
 Motivos hogar dispone corriente bancaria
 hogar necesita prefiere pagar efectivo
 hogar dispone corriente bancaria
@@ -2682,7 +2680,6 @@ Garantía contemplada apartado artículo
 Origen
 Gallos gallinas desplumados eviscerados cabeza patas cuello corazón hígado molleja llamados pollos presentados trocear congelados
 Trozos deshuesados gallo gallina congelados
-
 Trozos deshuesados pavo congelados
 Preparaciones gallo gallina cocer
 Origen importaciones Brasil Tailandia Argentina Chile
@@ -3216,7 +3213,6 @@ léase
 Corrección errores Reglamento CE Comisión noviembre modifica Reglamento CE Consejo respecta contingentes arancelarios comunitarios determinados productos pesqueros originarios Noruega
 Diario Oficial Unión Europea noviembre
 página anexo letra cuarta columna cuadro
-
 Reglamento CE Comisión
 febrero
 establecen valores globales importación determinación precio entrada determinadas frutas hortalizas
@@ -3619,7 +3615,6 @@ diseño etiqueta ajustará indicado punto
 obstante caso modelo obtenido etiqueta ecológica UE conformidad Reglamento CE Parlamento Europeo Consejo añadirse copia dicha etiqueta ecológica
 DISEÑO ETIQUETA
 diseño etiqueta ajustará figura aparece continuación
-
 etiqueta deberá medir mm ancho mm alto
 imprima formato contenido deberá conservar proporciones
 fondo blanco
@@ -3768,7 +3763,6 @@ Método calcular Índice Eficiencia Energética consumo agua anual contenido hum
 CÁLCULO ÍNDICE EFICIENCIA ENERGÉTICA
 calcular Índice Eficiencia Energética IEE modelo lavadora doméstica compara consumo energía anual ponderado lavadora doméstica programa normal algodón °C carga completa carga parcial programa normal algodón °C carga parcial consumo energía anual normalizado
 Índice Eficiencia Energética IEE calcula redondea decimal
-
 consumo energía anual lavadora doméstica
 consumo energía anual normalizado lavadora doméstica
 consumo energía anual normalizado SAEC calcula kWh año arreglo fórmula redondea decimal
@@ -3889,7 +3883,6 @@ transmitirán datos
 Desglose resto mundo
 transmisión
 Datos históricos únicamente
-
 Datos anteriores transmitirán
 años transmisión
 variables ramas actividad
@@ -4723,9 +4716,7 @@ DO
 DO
 DO
 ANEXO
-
 distritos Jonava Kaišiadorys Kaunas Kėdainiai condado Kaunas distritos Ukmergė Širvintos condado Vilnius
-
 totalidad territorio Lituania incluida
 ANEXO II
 II Certificación

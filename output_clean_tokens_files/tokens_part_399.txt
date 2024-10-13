@@ -350,8 +350,6 @@ Obleas solares
 Módulos solares
 Capacidad producción
 MWp
-
-
 Inicio proyecto
 Verano Otoño
 valor nominal EUR
@@ -1334,7 +1332,6 @@ Clasificación calidad aguas baño
 raíz evaluación calidad aguas baño efectuada arreglo artículo miembros clasificarán aguas baño conformidad criterios expuestos anexo II calidad
 insuficiente
 suficiente
-
 excelente
 clasificación arreglo requisitos presente Directiva efectuará tardar finales temporada baño
 miembros velarán finales temporada baño aguas baño calidad suficiente
@@ -1540,7 +1537,6 @@ fuere necesario deberá actualizarse
 frecuencia alcance revisión determinarán función carácter gravedad contaminación
 obstante revisión deberá abarcar disposiciones cuadro figura continuación lugar frecuencia fijada cuadro
 Clasificación calidad aguas baño
-
 Suficiente
 Insuficiente
 revisiones deberán lugar
@@ -1548,7 +1544,6 @@ años
 años
 años
 Aspectos deberán revisarse letras punto
-
 caso aguas baño anteriormente hubieran clasificadas calidad excelente perfil aguas baño deberá revisarse necesario actualizarse caso clasificación cambie calidad suficiente insuficiente
 revisión deberá abarcar aspectos mencionados punto
 obras cambios importantes infraestructuras zona baño inmediaciones deberá actualizarse perfil aguas baño inicio temporada baño
@@ -3984,9 +3979,7 @@ Decisión indica empresas deban considerarse única entidad adquisición concret
 Corrección errores Reglamento CE Consejo mayo modifica Reglamento CEE Comisión fijan determinadas disposiciones aplicación Reglamento CEE Consejo establece código aduanero comunitario
 Diario Oficial Unión Europea junio
 página artículo párrafo
-
 aplicable julio
-
 aplicable julio
 Directiva CE Comisión
 febrero

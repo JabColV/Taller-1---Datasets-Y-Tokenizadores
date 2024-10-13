@@ -276,7 +276,6 @@ Criterios relativos grupo ensayo tipo
 caso piezas intercambiables ensayo grupos ensayo conexión zona montaje caras fricción disco forma general
 grupos ensayo mencionados continuación someterá variantes ensayos correspondientes establecidos anexos
 variante elegida perteneciente grupo ensayo someter ensayo pieza repuesto relación energía cinética masa pieza repuesto directamente correspondiente
-
 velocidad máxima diseño vehículo instalada pieza repuesto caso remolques supone vmax kmh mínimo
 masa ensayo definida anexo punto anexo punto
 masa pieza repuesto vehículo correspondiente
@@ -354,7 +353,6 @@ indicación permita trazabilidad proceso producción ejemplo fecha número lote 
 grosor mínimo disco freno diámetro interior máximo admisible tambor freno
 MODIFICACIONES EXTENSIÓN HOMOLOGACIÓN PIEZAS REPUESTO
 modificación pieza repuesto notificará autoridad homologación tipo concedió homologación tipo
-
 considerar probable modificaciones realizadas tengan efectos adversos apreciables caso pieza repuesto cumpliendo requisitos
 solicitar informe ensayo servicio técnico responsable ensayos
 confirmación homologación denegación especificando modificaciones comunicará partes apliquen presente Reglamento procedimiento expuesto apartado
@@ -519,8 +517,6 @@ dinamómetro instrumentos necesarios registrar continuamente velocidad rotación
 Condiciones ensayo
 masa rotatoria dinamómetro corresponderá mitad masa máxima vehículo eje cuadro radio rodadura neumático autorizado dichos tipos vehículo
 masa máxima vehículo eje
-
-
 velocidad inicial rotación dinamómetro equivaldrá velocidad lineal vehículo establece puntos presente anexo basada radio rodadura dinámico neumático
 forros freno presentados ensayo estarán instalados freno correspondiente rodados bruñidos arreglo procedimiento
 Fase bruñido frenadas interrumpidas kmh kmh presiones conducto
@@ -587,7 +583,6 @@ resultados monótonos consecutivos mantenerse tolerancia desaceleración media e
 cumple requisito repetirá rodaje denominada Fase bruñido logre estabilidad eficacia requerida
 permite enfriar freno aire
 velocidad flujo aire freno frenada
-
 velocidad ensayo vehículo inicio frenado
 comparará eficacia frío conjunto forro freno repuesto conjunto forro freno origen cotejo resultados ensayos aplicando método
 Partiendo velocidad inicial kmh caso kmh temperatura freno °C principio accionamiento accionará freno mínimo intervalos espaciados presión conducto alcanzar desaceleración media estabilizada
@@ -731,7 +726,6 @@ forros frenos presentados ensayo estarán instalados frenos correspondientes bru
 sistema frenado estacionamiento vehículo ensayará arreglo requisitos pertinentes Reglamento anexo punto Reglamento anexo punto corresponda teniendo homologación original sistema
 ANEXO
 PROCEDIMIENTOS ADICIONALES ESPECIALES RELATIVOS CONFORMIDAD PRODUCCIÓN
-
 Determinación comportamiento fricción ensayo máquina
 Introducción
 aplica conjuntos forro freno repuesto forros freno tambor repuesto homologados conforme presente Reglamento
@@ -808,7 +802,6 @@ coeficiente mínimo fricción μmin valor registrado accionamiento ciclos inclui
 solicitud homologación tipo conjunto forro freno repuesto forros freno tambor repuesto adjuntarán valores μop μop μmin μmax
 producción tipo conjunto forro freno repuesto homologado forros freno tambor repuesto muestras ensayo deberán demostrar cumplimiento valores registrados punto presente anexo tolerancias siguientes
 μop μop valor registrado
-
 Conformidad producción discos tambores freno
 aplica discos tambores freno repuesto homologados arreglo presente Reglamento
 Requisitos
@@ -1450,7 +1443,6 @@ Ejemplo marcado conjunto cojinete
 Ejemplo marcado conjunto zapata
 vair
 kmh
-
 ISO Mín
 dm
 tambores freno componentes sistema frenado sometidos ensayo programa ensayo imita condiciones efectivas conducción ensayo componente
@@ -2017,13 +2009,9 @@ Fórmula estructural
 CAS
 Peso molecular Dalton
 Propiedades fisicoquímicas zeaxantina sintética Pérdida desecación
-
 Alltrans zeaxantina
-
 Ciszeaxantina
-
 carotenoides
-
 Óxido trifenilfosfina
 CAS
 mg kg
@@ -2100,9 +2088,7 @@ N’bistrifluorometoxifenilurea kg
 trifluorometoxianilina kg
 abril
 marzo
-
 autorizarse usos insecticida
-
 efectos aplicación principios uniformes anexo VI conclusiones informe revisión triflumurón particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 protección acuático
@@ -3004,13 +2990,11 @@ Exenciones requisitos etiquetado capacidad
 pilas acumuladores portátiles secundarios recargables incorporados destinados incorporarse aparatos ofrecidos usuarios finales destinados extraídos conformidad artículo Directiva CE exentos ámbito aplicación presente Reglamento
 ANEXO II
 Medición capacidad pilas acumuladores portátiles secundarios recargables automoción
-
 Pilas acumuladores portátiles secundarios recargables
 capacidad nominal pilas acumuladores portátiles secundarios níquelcadmio medirá arreglo normas IEC IEC
 capacidad nominal pilas acumuladores portátiles secundarios níquelmetalhidruro medirá arreglo norma IEC
 capacidad nominal pilas acumuladores portátiles secundarios litio medirá arreglo norma IEC
 capacidad nominal pilas acumuladores portátiles secundarios plomoácido medirá arreglo norma IEC
-
 Pilas acumuladores automoción
 capacidad nominal capacidad arranque frío pilas acumuladores automoción baterías arranque plomoácido medirá arreglo norma IEC
 ANEXO III

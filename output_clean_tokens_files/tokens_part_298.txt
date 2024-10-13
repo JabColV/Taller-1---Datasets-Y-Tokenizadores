@@ -3131,7 +3131,6 @@ Bovinos machos jóvenes destinados engorde peso inferior kg
 Asignado países suministradores
 Rumanía
 Antigua República Yugoslava Macedonia
-
 Carne vacuno calidad superior fresca refrigerada congelada ajuste definición Canales cualesquiera cortes procedentes vacunos treinta meses criados cien alimentación equilibrada concentración energética contenga granos peso mínimo libras carne marcada choice prime normas United States Department of Agriculture USDA entrará automáticamente definición carne clasificada Canada Canada AA Canada AAA Canada Choice Canada Prime normas Agence Canadienne dinspection des aliments Gobierno Canadá corresponderá definición
 peso producto
 Asignada EEUU Canadá
@@ -3175,9 +3174,7 @@ Bosnia Hercegovina
 Croacia
 Antigua República Yugoslava Macedonia
 Groenlandia
-
 Músculos delgados enteros congelados
-
 Aves corral
 Canales pollo frescas refrigeradas congeladas
 Trozos pollo frescos refrigerados congelados
@@ -3185,17 +3182,14 @@ Trozos gallo gallina congelados deshuesados
 Trozos gallo gallina congelados
 Brasil
 Tailandia
-
 Trozos gallo gallina congelados especies domésticas
 Brasil
 Carne pavo fresca refrigerada congelada
 Trozos pavo congelados
 Brasil
-
 Carne salada aves corral
 Brasil
 Tailandia
-
 Atunes género Thunnus pescados género Euthynnus
 pescados deberán destinarse industria conservera
 respete precio referencia
@@ -3236,7 +3230,6 @@ huevos aves corral
 equivalente huevos cascarón
 Huevos aves cascarón
 Patatas enero mayo
-
 Pepinos noviembre mayo
 Derecho ad valorem reducido
 Véase número orden
@@ -3270,7 +3263,6 @@ Trigo calidad
 Trigo blando calidades calidad alta
 Unidos América
 Canadá
-
 Cebada cerveza
 Maíz
 maíces
@@ -3286,11 +3278,9 @@ Arroz partido destinado fabricación productos industrias alimentarias clasifica
 granos avena trabajados
 Carne pavo preparada
 Brasil
-
 Carne cocida pollo
 Brasil
 Tailandia
-
 Conservas carne especie porcina doméstica
 Preparaciones conservas pescado entero trozos sardina bonito caballa especies Scomber scombrus Scomber japonicus pescados especie Orcynopsis unicolor
 Preparaciones conservas pescado entero trozos atún listado pescados género Euthynnus
@@ -3300,7 +3290,6 @@ Azúcar caña bruto destine refinado
 tipo aplicará azúcar bruto tasa rendimiento icus pescados especie Orcynopsis unicolor
 Véase nota complementaria capítulo
 Brasil
-
 Azúcar caña remolacha
 equivalente
 países ACP
@@ -3319,7 +3308,6 @@ Jugo uva incluido mosto ado adición azúcar conteniendo jugo naranja sanguina v
 productos importados utilizarse producción jugo uva productos distintos sector vitivinícola tales vinagre bebidas alcohólicas mermeladas salsas
 valor Brix inferior
 valor inferior kg peso neto
-
 valor Brix superior
 valor superior kg peso neto
 valor Brix superior inferior

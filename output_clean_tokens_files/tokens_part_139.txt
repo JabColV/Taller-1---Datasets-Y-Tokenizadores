@@ -495,7 +495,6 @@ sodium mAminophenol CAS
 mezclarse condiciones oxidantes concentración máxima aplicada cabello deberá exceder
 Dihydroxydimethylpyridine CAS CE
 Hydroxyethyl picramic acid CAS CE
-
 agentes nitrosantes
 Contenido máximo nitrosaminas μg kg
 Conservar recipientes contengan nitritos
@@ -547,7 +546,6 @@ mezclarse condiciones oxidantes concentración máxima aplicada cabello deberá 
 indica número orden columna
 entrada número orden sustituye
 Chloroethylaminonitrophenol CAS CE
-
 indica número orden columna letra
 queda modificada
 suprimen entradas números orden
@@ -695,7 +693,6 @@ Polisacáridos fibra insoluble
 incluida celulosa
 Minerales
 Saponinas
-
 Isoflavonas
 mg kg
 Cumestrol
@@ -901,10 +898,6 @@ Derechos aplicables importación Comunidad mercancías originarias Bulgaria
 Código NC
 Designación mercancía
 Derechos
-
-
-
-
 Suero mantequilla manteca leche nata crema cuajadas yogur kéfir leches natas cremas fermentadas acidificadas concentrados adición azúcar edulcorante aromatizados frutas frutos cacao
 Yogur
 Aromatizados frutas frutos cacao fermentadas acidificadas concentrados adición azúcar edulcorante aromatizados frutas frutos cacao
@@ -916,7 +909,6 @@ contenido materias grasas leche
 Inferior peso ual peso
 Superior inferior peso materias grasas leche
 Superior peso peso
-
 Aromatizados frutas frutos cacao peso
 polvo gránulos formas sólidas contenido materias grasas leche ados adición azúcar edulcorante aromatizados frutas frutos cacao
 Inferior peso contenido materias grasas leche
@@ -928,7 +920,6 @@ Mantequilla manteca materias grasas leche pastas lácteas untar
 Pastas lácteas untar
 contenido grasas superior inferior peso leche
 Esponjas naturales origen animal
-
 Hortalizas silvestres estén cocidas agua vapor congeladas
 Maíz dulce
 Hortalizas silvestres conservadas provisionalmente ejemplo gas sulfuroso agua salada sulfurosa adicionada sustancias asegurar dicha conservación impropias consumo inmediato
@@ -946,13 +937,11 @@ Grasa lana bruto suarda suintina espesativos derivados vegetales modificados
 Margarina mezclas preparaciones alimenticias grasas aceites animales vegetales fracciones grasas aceites capítulo grasas aceites alimenticios fracciones partida
 Margarina margarina líquida cias grasas aceites animales vegetales fracciones grasas aceites capítulo grasas aceites alimenticios fracciones partida
 contenido materias grasas leche superior inferior peso grasas aceites capítulo grasas aceites alimenticios fracciones partida
-
 Mezclas preparaciones culinarias desmoldeo inferior peso
 Grasas aceites animales vegetales fracciones cocidos oxidados deshidratados sulfurados soplados polimerizados calor vacío atmósfera inerte estandolizados modificados químicamente forma partida mezclas preparaciones alimenticias grasas aceites animales vegetales fracciones grasas aceites capítulo expresadas comprendidas
 Linoxina
 Grasas aceites animales vegetales fracciones cocidos oxidados deshidratados sulfurados soplados polimerizados calor vacío atmósfera inerte modificados químicamente forma partida partida mezclas preparaciones alimenticias grasas aceites animales vegetales fracciones grasas aceites capítulo expresadas comprendidas
 Mezclas preparaciones alimenticias grasas aceites animales grasas aceites animales vegetales fracciones or vacío atmósfera inerte modificados químicamente forma partida
-
 Ceras vegetales triglicéridos cera abejas insectos esperma ballena cetáceos espermaceti refinadas coloreadas
 proporción inferior peso calculado contenido Dglucitol
 Degrás residuos procedentes tratamiento grasas ceras animales vegetales
@@ -996,12 +985,10 @@ Rellenos
 rellenar ues tabletas barras
 cereales nueces frutos contenido sacarosa superior peso incluido azúcar invertido calculado sacarosa
 car rapé
-
 Chocolate artículos chocolate
 Bombones rellenos
 alcohol rellenos
 rellenos
-
 Rellenos so rellenos
 rellenar ellenos
 Artículos confitería sucedáneos fabricados productos sustitutivos azúcar contengan cacao azúcar invertido calculado sacarosa
@@ -1083,7 +1070,6 @@ Maíz dulce Zea mays var saccharata parados conservados vinagre ácido acético
 Palmitos
 hortalizas silvestres preparadas conservadas vinagre ácido acético congeladas productos partida
 Patatas papas as silvestres preparadas conservadas vinagre ácido acético congeladas productos partida
-
 forma harinas sémolas copos preparadas conservadas vinagre ácido acético congeladas productos partida
 hortalizas mezclas hortalizas das conservadas vinagre ácido acético congeladas productos partida
 Maíz dulce Zea mays var saccharata alizas
@@ -1128,7 +1114,6 @@ Harina mostaza mostaza preparada taza mostaza preparada
 Mostaza preparada staza preparada
 Preparaciones sopas potajes caldos sopas potajes caldos preparados preparaciones alimenticias compuestas homogeneizadas
 Preparaciones sopas potajes caldos sopas potajes caldos preparados contenido neto inferior kg
-
 Preparaciones alimenticias compuestas homogeneizadas eparados
 Helados cacao
 grasa leche contenido inferior peso
@@ -1151,7 +1136,6 @@ grado alcohólico adquirido inferior vol erias grasas procedentes dichos product
 tabacos sucedáneos tabaco elaborados tabaco homogeneizado reconstituido extractos jugos tabaco
 Tabaco fumar sucedáneos tabaco proporción cedentes dichos productos
 envases inmediatos contenido neto inferior orción
-
 Tabaco homogeneizado reconstituido erior
 eneizado reconstituido
 Tabaco mascar rapé onstituido
@@ -1260,7 +1244,6 @@ bloques tabletas barras crumb
 cereales nueces frutos crumb
 Chocolate artículos chocolate
 Bombones rellenos
-
 Artículos confitería sucedáneos fabricados productos sustitutivos azúcar contengan cacao or peso
 Extracto malta preparaciones alimenticias harina grañones sémola almidón fécula extracto malta contengan cacao contenido inferior peso calculado base totalmente desgrasada expresadas comprendidas preparaciones alimenticias productos partidas contengan cacao contenido inferior peso calculado base totalmente desgrasada expresadas comprendidas
 Preparaciones alimentación infantil acondicionadas venta menor extracto malta contengan cacao contenido inferior peso calculado base totalmente desgrasada expresadas comprendidas preparaciones alimenticias productos partidas contengan cacao contenido inferior peso calculado base totalmente desgrasada expresadas comprendidas
@@ -1302,7 +1285,6 @@ ruto
 Coñac bruto
 Grappa bruto
 Brandy Jerez ido superior
-
 Whisky
 Whisky malt recipientes contenido
 Inferior contenido
@@ -1334,12 +1316,10 @@ recipientes contenido inferior recipientes contenido
 recipientes contenido superior
 Inferior uperior
 Ouzo
-
 Aguardientes
 frutas
 Calvados
 superior
-
 Korn
 Tequila
 bebidas espirituosas
@@ -2971,7 +2951,6 @@ DO
 DO
 DO
 ANEXO II
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -2982,7 +2961,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 Únicamente relación referencia Directiva CEE artículo guión
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -3694,9 +3672,6 @@ Filtros observaciones
 ACCIDENTES LABORALES SUFRIDOS PERSONAS HAYAN TRABAJADO MESES
 Accidentes aparte enfermedades sufridos meses trabajo trabajo
 Col Col Col
-
-
-
 Col Col
 blanco
 respuesta
@@ -4221,19 +4196,16 @@ compone polímeros ramificados monometoxipolietilenglicol MPEG insertados poliis
 Estructura molecular PIPgMA insertado MPEG
 Características monometoxipolietilenglicol
 Humedad
-
 Cenizas
 mg kg
 Anhídrido residual
 μmol
 Índice polidispersión
-
 Isopreno
 mg kg
 Óxido etileno
 mg kg
 Anhídrido maleico libre
-
 Oligómeros totales Dalton
 mg kg
 Impurezas materias primas
@@ -4634,7 +4606,6 @@ Deberá producirse señal activación testigo contemplado punto Reglamento
 caso fallo cualquiera fuentes luminosas
 caso lámpara concebida únicamente fuentes luminosas incandescencia intensidad eje referencia inferior intensidad mínima
 consecuencia fallo fuentes luminosas intensidad siguientes direcciones indica anexo presente Reglamento inferior intensidad mínima exigida
-
 exterior vehículo
 interior vehículo
 fuentes luminosas estén iluminadas superar intensidad máxima especificada luz única dicha luz lleve marca supere intensidad máxima especificada conjunto luces
@@ -4642,7 +4613,6 @@ eje referencia interior campos angulares especificados esquemas colocación anex
 inferior producto mínimo figura apartado porcentaje indica cuadro distribución luminosidadintensidad anexo presente Reglamento dirección correspondiente puntos cuadro
 obstante dispuesto puntos categoría indicadores dirección exigirá valor mínimo atrás cd campos especificados anexo
 superar máximo figura punto dirección área observarse luz indicadora
-
 extensión campos definidos esquemas anexo intensidad luz emitida inferior cd dispositivos categoría inferior cd dispositivos categorías categoría inferior cd dispositivo categoría noche
 Deberá observarse dispuesto anexo apartado presente Reglamento variaciones intensidad locales
 general intensidades medirán fuentes luminosas encendidas continuamente
@@ -4902,7 +4872,6 @@ Muestra
 indicador dirección
 indicador dirección
 indicadores dirección
-
 pasar muestra
 Muestra
 indicadores dirección
@@ -4931,7 +4900,6 @@ Figura
 dispositivos
 toma muestras
 dispositivos seleccionados azar distribuidos muestras
-
 pase muestra
 Cumplimiento
 fabricante productos cumplan requisitos

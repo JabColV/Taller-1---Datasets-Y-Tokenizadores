@@ -242,7 +242,6 @@ permiso Klasse expedido fechas anteriores habilita conducir
 Modelo Alemania
 Expedido Alemania
 BE CE CE
-
 Expedido Estonia
 Descripción Tarjeta plástico rosa
 Categorías modelo EST
@@ -251,7 +250,6 @@ expiden categorías nacionales
 palabra ESMANE centro delantera indica titular permiso conductor principiante validez permiso limitada años
 Modelo Estonia EST
 Expedido Estonia
-
 palabra ESMANE centro trasera indica titular permiso conductor principiante validez permiso limitada años
 MODELOS EXPEDIDOS GRECIA
 Modelo Grecia GR
@@ -445,10 +443,8 @@ asientos pasajeros véase
 Tractores agrícolas
 categoría habilita conducción vehículos destinados transporte personas dotados asientos incluido conductor incluido conductor obtenerla titulares categoría
 introducido categorías nacionales siguientes
-
 Modelo Malta
 Modelo expedido Malta
-
 Modelo expedido Países Bajos
 Descripción Permiso papel rosa gris páginas
 Categorías modelo NL
@@ -560,7 +556,6 @@ modelo expedido lenguas siguientes esloveno esloveno italiano bilingüe esloveno
 Modelo Eslovenia SLO
 Expedido Eslovenia
 BE CE
-
 Expedido República Eslovaca
 Categorías modelo SK
 Modelo República Eslovaca SK
@@ -578,7 +573,6 @@ Categorías modelo
 Modelo Finlandia
 Expedido Finlandia
 Descripción Modelo tarjeta plástico conforme anexo bis Directiva CEE
-
 Modelo Finlandia
 Expedido territorio islas Åland
 Descripción Permiso papel rosa recubierto plástico páginas
@@ -636,7 +630,6 @@ Modelo Reino Unido UK
 Expedido Bretaña julio
 denominada contraparte recogen sanciones infracciones tráfico expide separado
 período expedición modelo superpone período expedición modelo UK introducción paulatina modelo
-
 Modelo Reino Unido UK
 Expedido Bretaña
 Modelo Reino Unido UK
@@ -650,7 +643,6 @@ Categorías modelo UK Irlanda Norte
 Modelo Reino Unido UK
 Expedido Irlanda Norte
 Descripción Modelo tarjeta plástico conforme anexo bis Directiva CEE contraparte recogen infracciones tráfico
-
 Modelo Reino Unido UK
 Expedido Gibraltar
 Categorías modelo UK Gibraltar
@@ -662,7 +654,6 @@ años
 Modelo Reino Unido UK
 Expedido Gibraltar
 Descripción Modelo papel rosa conforme anexo Directiva CEE
-
 Modelo Reino Unido UK
 Expedido Gibraltar
 Modelo papel rosa páginas conforme anexo Directiva CEE
@@ -823,7 +814,6 @@ modelo tarjeta plástico introdujo gradualmente
 MODELOS EXPEDIDOS REPÚBLICA ESLOVACA
 Modelo República Eslovaca SK
 MODELOS EXPEDIDOS FINLANDIA
-
 MODELOS EXPEDIDOS SUECIA
 categoría nacional taxi abolida
 BE CE véase
@@ -1087,7 +1077,6 @@ Número registro flota Unión buque pesquero identificación vehículo razón so
 Clase arte pesca
 Código arte Clasificación Estadística Internacional Uniforme Artes Pesca FAO
 Infracción grave
-
 Clase infracción grave detectada
 Indicar clase infracción grave detectada referencia número columna izquierda anexo XXX Reglamento Ejecución UE
 infracciones graves contempladas artículo apartado letras Reglamento control identificarán números respectivamente
@@ -1098,7 +1087,6 @@ Multa EUR ejemplo
 Decomiso
 CAPTURA ARTE efectos decomiso físico
 Importe decomisado caso valor CAPTURA ARTE EUR ejemplo
-
 caso retirada licencia autorización indicar LI AU número ejemplo AU
 Puntos
 Número puntos asignados ejemplo
@@ -3337,8 +3325,6 @@ Peso nominal
 Error negativo máximo tolerable
 Canales
 Cortes
-
-
 Artículo
 presente Reglamento entrará vigor publicación Diario Oficial Unión Europea
 aplicable julio
@@ -3348,7 +3334,6 @@ Comisión
 Miembro Comisión
 DO
 DO
-
 Reglamento UE Comisión
 diciembre
 establecen valores importación alzado determinación precio entrada determinadas frutas hortalizas

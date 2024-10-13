@@ -245,11 +245,9 @@ Reglamento cuya modificación constituye Reglamento CE DO
 Corrección errores Reglamento Ejecución UE Comisión abril establece normas desarrollo Reglamento CE Consejo establece régimen comunitario control garantizar cumplimiento normas política pesquera común
 Diario Oficial Unión Europea abril
 página artículo apartado
-
 considerará miembros recojan sistemáticamente periodicidad mensual buques pesqueros estén sujetos requisitos relativos cuaderno diario pesca desembarque datos referidos
 desembarques capturas especies kilogramos ausencia desembarques
 rectángulos estadísticos efectuado capturas cumplido requisitos relativos planes muestreo recogen artículo presente Reglamento
-
 considerará miembros cumplido requisitos relativos planes muestreo contemplan artículo presente Reglamento recogen sistemáticamente periodicidad mensual buques pesqueros estén sujetos requisitos relativos cuaderno diario pesca declaración desembarque datos referidos
 rectángulos estadísticos efectuado capturas
 página anexo XIII especie Rape línea GUH
@@ -823,13 +821,11 @@ Decisión modificada lugar Decisión CE DO
 ANEXO
 ANEXO
 Partes territorio Rumanía mencionadas artículo letras
-
 Código ISO país
 Nombre país
 Descripción territorio
 Rumanía
 territorio Rumanía
-
 Rumanía distritos
 Vrancea
 Reglamento CE Comisión
@@ -1178,9 +1174,7 @@ Secretaría Unidad
 Corrección errores Reglamento CE Parlamento Europeo Consejo julio establece procedimiento negociación celebración acuerdos miembros terceros países materias específicas relación ley aplicable obligaciones contractuales extracontractuales
 Diario Oficial Unión Europea julio
 página artículo apartado
-
 fecha entrada vigor presente Reglamento miembro hubiera concluido negociaciones hubiera celebrado aplicables artículo artículo apartados artículo
-
 fecha entrada vigor presente Reglamento miembro hubiera concluido negociaciones hubiera celebrado aplicables artículo artículo apartados artículo
 Corrección errores Reglamento CE Consejo julio establece procedimiento negociación celebración acuerdos miembros terceros países competencia reconocimiento ejecución resoluciones judiciales materia matrimonial responsabilidad parental obligaciones alimentos ley aplicable materia obligaciones alimentos
 página artículo apartado
@@ -2470,9 +2464,7 @@ indicado preceptos constitucionales
 Corrección errores Directiva CE Consejo octubre relativa requisitos zoosanitarios animales productos acuicultura prevención control determinadas enfermedades animales acuáticos
 Diario Oficial Unión Europea noviembre
 página artículo apartado
-
 miembros seguirán libres adoptar medidas estrictas ámbito contemplado capítulo II artículo capítulo tales medidas afecten intercambios comerciales miembros
-
 miembros seguirán libres adoptar medidas estrictas ámbito contemplado capítulo II artículo capítulo tales medidas afecten intercambios comerciales miembros
 página artículo apartado
 miembros adoptarán publicarán tardar mayo disposiciones legales reglamentarias administrativas necesarias cumplimiento dispuesto presente Directiva diciembre
@@ -3651,7 +3643,6 @@ Dirección Terrasse Boieldieu Puteaux Francia
 Información disponible junio sitio web httpwwwprosernatcomencontactuszoomimageimgphp
 Tribunal Casación Sala Mercantil diciembre
 Delebecque Groupes sociétés et procédures collectives confusion patrimoines et responsabilités des membres du groupe Rev proc coll
-
 Informe parlamentario citado
 Grimonprez Pour une responsabilité des sociétés mères du fait leurs filiales citado apartado
 Ibid apartado
@@ -4795,9 +4786,7 @@ obstante miembros siguen sufriendo graves dificultades relación estabilidad fin
 Corrección errores Reglamento CE Consejo diciembre establece derecho antidumping definitivo importaciones tubos soldados hierro acero alear originarios Belarús República Popular China Rusia raíz procedimiento conforme artículo Reglamento CE originarios Tailandia reconsideración expiración conforme artículo apartado citado Reglamento originarios Ucrania reconsideración expiración conforme artículo apartado reconsideración provisional arreglo artículo apartado citado Reglamento finalizan procedimientos relativos importaciones producto originario Bosnia Herzegovina Turquía
 Diario Oficial Unión Europea diciembre
 Página considerando letra Productores exportadores Ucrania guion
-
 OJSC Interpipe Nizhnedneprovsk Tube Rolling Plant
-
 OJSC Interpipe Nizhnedneprovsky Tube Rolling Plant
 Página considerando cuadro columna Empresa línea relativa Ucrania
 Página artículo apartado cuadro columna Empresa línea relativa Ucrania

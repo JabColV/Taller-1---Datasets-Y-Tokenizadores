@@ -248,7 +248,6 @@ DO
 DO
 ANEXO
 PROGRAMA DESGLOSE PRESUPUESTARIO INDICATIVO
-
 PROGRAMA
 programa constará subprogramas
 subprograma interdepartamental
@@ -261,7 +260,6 @@ medida gestión sistema alerta fitosanitaria agrícola producción arroz
 subprograma departamento Guadalupe
 medida gestión red vigilancia mosca fruta
 medida gestión riesgo introducción organismos nocivos actividades turísticas
-
 DESGLOSE PRESUPUESTARIO INDICATIVO
 EUR indicación diversas medidas prevén
 Subprogramas
@@ -790,7 +788,6 @@ Cuadro
 Importaciones procedentes terceros países cantidad
 Turquía
 Japón
-
 países
 Cuadro
 Importaciones procedentes terceros países precio
@@ -1551,13 +1548,6 @@ EUR
 Tasa aplicable personas físicas
 Coeficiente aplicable tasa fija
 Categorías tasas aplicables organizaciones volumen negocios recurrente EUR
-
-
-
-
-
-
-
 superior
 Lista tareas exhaustiva
 inclusión tarea interpretarse automáticamente indicación tarea realizada Agencia Europea Seguridad Aérea
@@ -1996,14 +1986,7 @@ Potencia neta
 Monóxido carbono
 Hidrocarburos
 Partículas
-
-
-
-
 Suma hidrocarburos óxidos nitrógeno
-
-
-
 valores límite bandas potencia incluirán factores deterioro calculados arreglo anexo
 familia motores abarque banda potencia define anexo valores emisión motor referencia homologación tipos motor comprendidos familia COP deberán cumplir requisitos exigentes banda potencia superior
 aplicarán siguientes requisitos
@@ -2122,7 +2105,6 @@ Requisitos relativos zona control
 Zona control motor
 zona control véase figura define
 rango regímenes régimen régimen alto
-
 régimen
 régimen
 régimen alto
@@ -2166,7 +2148,6 @@ producción serie considerará conforme cumple condición
 cualquiera resultados obtenidos muestra
 valor límite prescrito apartado contaminante considerado
 factor estadístico dependiente cuadro
-
 servicio técnico encargado controlar conformidad producción efectuará prescripciones fabricante ensayos motores hayan rodaje parcial completamente
 frecuencia normal inspecciones autorizadas organismo homologación año
 cumplen prescripciones apartado organismo homologación asegurará adopten medidas necesarias restablecer conformidad producción
@@ -2266,7 +2247,6 @@ Parámetros definen familia motores
 Ciclo combustión
 tiempos
 Motor rotativo
-
 Configuración cilindros
 Posición cilindros bloque
 línea
@@ -2288,7 +2268,6 @@ Sobrealimentación sistema refrigeración admisión
 Tipo diseño cámara combustión
 Cámara abierta
 Cámara dividida
-
 Válvulas orificios
 Configuración
 Número válvulas cilindro
@@ -3127,7 +3106,6 @@ medición continua caudal
 Cálculo emisión instantánea
 Integración emisiones instantáneas
 continuo
-
 Concentración gas análisis gas
 Caudal
 Cálculo emisiones
@@ -3361,7 +3339,6 @@ régimen desnormalización ndenorm selecciona valores régimen normalizados espe
 ciclo referencia motor resultado desnormalización régimen referencia depende selección régimen desnormalización ndenorm adecuado
 calcular régimen desnormalización ndenorm obtenido curva gráfica medida utilizar cualquiera siguientes fórmulas equivalentes organismo homologación tipo
 ndenorm
-
 régimen desnormalización
 régimen alto véase apartado
 régimen véase apartado
@@ -4873,7 +4850,6 @@ Medias Hz
 Regímenes pares referencia retorno ciclo ensayo transición
 Regímenes pares referencia retorno ciclo ensayo continuo aumentos
 Analizadores continuos concentraciones gases diluir
-
 Analizadores continuos concentraciones gases diluidos
 Concentraciones lote analizadores gas escape diluir diluidos
 valor intervalo ensayo

@@ -363,9 +363,7 @@ BCE
 Corrección errores Decisión PESC Consejo marzo relativa medidas restrictivas dirigidas determinadas personas entidades organismos habida situación Ucrania
 Diario Oficial Unión Europea marzo
 página anexo entrada Serhii Petrovych Kliuiev columna Información identificación
-
 Nacido agosto hombre negocios hermano Andrii Kiuiev
-
 Nacido agosto hombre negocios hermano Andrii Kliuiev
 Decisión Comisión
 agosto
@@ -1777,10 +1775,8 @@ CAS
 CIPAC
 noviembre
 octubre
-
 autorizar usos insecticida nematicida fumigante usuarios profesionales salas estancas
 estén vacías
-
 aplicación principios uniformes anexo VI conclusiones informe revisión fluoruro sulfurilo particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal mayo
 evaluación general miembros deberán prestar especial atención
 riesgo supone contaminación fluoruro inorgánico productos harina salvado pudieran quedar molino fumigación grano almacenado silos molino asegurarse tales productos entren cadena alimentación humana animal
@@ -2430,7 +2426,6 @@ Deberá aplicarse fuerza centro barra transversal frontal inferior SFAD ajustar 
 Deberán aplicarse fuerzas oblicuas dispositivo aplicación fuerza estática SFAD conformidad cuadro
 Cuadro
 Direcciones fuerzas ensayo
-
 Oblicua
 lados dirección configuración lados asimétricos
 ensayos efectuarse estructuras solicita fabricante
@@ -2716,11 +2711,8 @@ Asientos orientados sentido marcha
 Sentido contrario
 Lateral
 Central
-
 toneladas
 toneladas
-
-
 ANEXO
 ENSAYO DINÁMICO OPTARSE LUGAR ENSAYO ESTÁTICO RESISTENCIA ANCLAJES CINTURONES SEGURIDAD
 presente anexo describe ensayo dinámico carro optarse alternativa ensayo estático resistencia anclajes cinturones seguridad establecen puntos presente Reglamento
@@ -3226,7 +3218,6 @@ país región
 análisis riesgo conformidad capítulo identificar factores riesgo históricos actuales
 demostrado tomado medidas específicas adecuadas período pertinente definido gestionar riesgo identificado
 demostrado puesta práctica vigilancia tipo capítulo consecución objetivo puntos pertinente conforme cuadro capítulo
-
 situación
 país región habido caso EEB habido demostrado importado destruido completo
 respetan criterios enunciados letras capítulo presente anexo años
@@ -3941,7 +3932,6 @@ Caracterización sustancia activa
 Lvalina CHNO
 Método analítico
 Método comunitario determinación aminoácidos Reglamento CE Comisión
-
 indicará contenido humedad
 junio
 DO
@@ -4329,7 +4319,6 @@ Derechos aplicables importaciones Comunidad mercancías originarias Rumanía
 Códigos NC
 Designación mercancía
 fecha entrada vigor
-
 Suero mantequilla manteca leche nata crema cuajadas yogur kéfir leches natas cremas fermentadas acidificadas concentrados adición azúcar edulcorante aromatizados frutas frutos cacao
 Yogur
 Aromatizados frutas cacao
@@ -4358,7 +4347,6 @@ Jugos extractos vegetales ás mucílagos espesativos derivados vegetales modific
 lúpulo
 Materias pécticas pectinatos pectatos espesativos derivados vegetales modificados
 Secos
-
 Grasa lana sustancias grasas derivadas incluida lanolina
 Grasa lana bruto suarda suintina espesativos derivados vegetales modificados
 Grasas aceites animales vegetales fracciones parcial totalmente hidrogenados interesterificados reesterificados elaidinizados refinados preparar
@@ -4367,10 +4355,8 @@ Aceite ricino hidrogenado llamado opalwax
 Margarina mezclas preparaciones alimenticias grasas aceites animales vegetales fracciones grasas aceites capítulo grasas aceites alimenticios fracciones partida
 Margarina margarina líquida cias grasas aceites animales vegetales fracciones grasas aceites capítulo grasas aceites alimenticios fracciones partida
 contenido grasas leche superior inferior peso
-
 Mezclas preparaciones culinarias desmoldeo
 Grasas aceites animales vegetales fracciones cocidos oxidados deshidratados sulfurados soplados polimerizados calor vacío atmósfera inerte estandolizados modificados químicamente forma partida mezclas preparaciones alimenticias grasas aceites animales vegetales fracciones grasas aceites capítulo expresadas comprendidas
-
 Grasas aceites animales vegetales fracciones cocidos oxidados deshidratados sulfurados soplados polimerizados calor vacío atmósfera inerte modificados químicamente forma partida
 Mezclas preparaciones alimenticias grasas aceites animales grasas aceites animales vegetales fracciones
 Ceras vegetales triglicéridos cera abejas insectos esperma ballena cetáceos espermaceti refinadas coloreadas
@@ -4390,11 +4376,9 @@ Preparación llamada chocolate blanco
 Pastas masas incluido mazapán envases inmediatos contenido neto superior kg
 Pastillas garganta caramelos tos
 Grageas peladillas dulces recubrimiento similar
-
 Gomas artículos confitería base gelificantes incluidas pastas frutas forma artículos confitería
 Caramelos azúcar cocido rellenos
 caramelos
-
 Obtenidos compresión
 Chocolate preparaciones alimenticias contengan cacao
 Cacao polvo adición azúcar edulcorante ificantes incluidas pastas frutas forma artículos confitería
@@ -4427,7 +4411,6 @@ Pastas alimenticias cocer rellenar preparar tis fideos macarrones tallarines las
 contengan huevo
 EUR kg
 EUR kg
-
 harina sémola trigo blando
 EUR kg
 EUR kg
@@ -4521,15 +4504,12 @@ Ron contenido substancias volátiles distintas alcohol etílico alcohol metílic
 EUR vol hl EUR hl
 recipientes contenido superior
 EUR vol hl
-
 Cigarros puros despuntados cigarritos puritos cigarrillos tabaco sucedáneos tabaco
 Cigarros puros despuntados cigarritos puritos contengan tabaco alcohol metílico superior hectólitro alcohol puro tolerancia
 Cigarrillos contengan tabaco cigarritos puritos contengan tabaco
 contengan clavo
-
 tabacos sucedáneos tabaco elaborados tabaco homogeneizado reconstituido extractos jugos tabaco
 Tabaco fumar sucedáneos tabaco proporción tabaco
-
 Tabaco homogeneizado reconstituido
 Tabaco mascar rapé
 Mezclas sustancias odoríferas mezclas incluidas disoluciones alcohólicas base sustancias tipos utilizados materias básicas industria preparaciones base sustancias odoríferas tipos utilizados elaboración bebidas
@@ -4627,7 +4607,6 @@ Whisky
 Ron aguardientes caña uvas
 Gin ginebra
 Licores
-
 Cigarros puros despuntados cigarritos puritos cigarrillos tabaco sucedáneos tabaco
 Cigarros puros despuntados cigarritos puritos contengan tabaco aguardientes licores bebidas espirituosas
 Tabaco fumar sucedáneos tabaco proporción abaco
@@ -4647,7 +4626,6 @@ ANEXO III
 Contingentes derechos aplicables importaciones Comunidad mercancías originarias Rumanía
 Volumen toneladas
 Derecho contingente
-
 Pastas lácteas untar
 materias grasas superior inferior peso
 Cacao polvo adición azúcar edulcorante inferior peso
@@ -4672,14 +4650,12 @@ Alcohol etílico aguardiente desnaturalizados graduación ior vol
 tipo NMF
 Cigarros puros despuntados cigarritos puritos contengan tabaco vol
 Cigarrillos contengan tabaco cigarritos puritos contengan tabaco
-
 volumen cuotas reducirá proporción número meses año hayan transcurrido
 caso cantidades rebasen contingente aplicables derechos figuran anexo
 contingente abierto derecho contingente
 ANEXO IV
 Contingentes arancelarios aplicables importaciones Rumanía mercancías originarias Comunidad
 Derecho contingente
-
 rellenar
 Mezclas pastas preparación productos panadería pastelería galletería partida contengan cacao contenido inferior peso calculado base totalmente desgrasada expresadas comprendidas preparaciones alimenticias productos partidas contengan cacao contenido cacao inferior peso calculado base totalmente desgrasada expresadas comprendidas
 Productos base cereales obtenidos inflado tostado ejemplo hojuelas copos maíz cereales maíz grano forma copos grano trabajado harina sémola precocidos preparados expresados comprendidos
@@ -4702,11 +4678,8 @@ Aguardiente vino orujo uvas do alcohólico volumétrico inferior vol aguardiente
 Whisky
 vol aguardientes licores bebidas espirituosas
 tabacos sucedáneos tabaco elaborados tabaco homogeneizado reconstituido extractos jugos tabaco
-
-
 caso cantidades rebasen contingente aplicables derechos figuran anexo II
 Bruselas julio
-
 Consejo asociación
 Linoxina
 Degrás

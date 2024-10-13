@@ -442,7 +442,6 @@ DO
 DO
 ANEXO
 Proyecto Decisión
-
 órganos gestión arreglo Gobierno Unidos América Comunidad Europea coordinación programas etiquetado eficiencia energética equipos ofimáticos revisión especificaciones aplicables aparatos impresión imágenes figuran anexo VII
 ÓRGANOS GESTIÓN
 Visto Gobierno Unidos América Comunidad Europea coordinación programas etiquetado eficiencia energética equipos ofimáticos particular artículo XII
@@ -603,7 +602,6 @@ Impresoras
 Cuadro
 Productos obtener etiqueta Enfoque funcionamiento MF
 Cuadro MF
-
 Color monocroma
 Inyección tinta
 Máquinas franqueadoras
@@ -937,7 +935,6 @@ Espere temporizador indique transcurrido minutos
 Energía Trabajo
 Recuperación activo listo espera
 Repita paso
-
 Repita paso medición tiempo Activo
 Tiempo
 Listo espera
@@ -1023,7 +1020,6 @@ apartado describe parámetros emplearse ensayo medir consumo energía producto p
 Conectividad red
 tipo conexión red activa decide fabricante deberá comunicar tipo empleado producto recibirá potencia funcionamiento conexión red ejemplo PoweroverEthernet USB USB PlusPower IEEE única fuente alimentación producto fuente corriente alterna presente
 producto configuración fábrica recomienda especialmente parámetros clave plazos activación preprogramados gestión consumo eléctrico calidad impresión resolución
-
 fuente papel hardware acabado estarán presentes configuración fábrica características ensayo decidirá fabricante ejemplo utilizarse fuente papel
 características antihumedad desactivarse pertenecen ámbito control usuario
 caso faxes introducirá página dispositivo alimentación originales unidad copias ocasionales colocarse dispositivo comenzar ensayo
@@ -1730,7 +1726,6 @@ DO
 DO
 DO
 ANEXO
-
 Países desarrollados
 Denominación grupo
 Tercer país
@@ -3537,11 +3532,9 @@ INFORMACIÓN GENERAL
 miembro
 Autoridad notificante
 Fecha notificación
-
 Personal
 sistema sistemas certificación personal dedicado instalación mantenimiento reparación control fugas equipos fijos refrigeración aire acondicionado bombas calor contengan gases fluorados efecto invernadero recuperación dichos gases equipos satisfacen requisitos mínimos condiciones reconocimiento mutuo establecidos artículos Reglamento CE Título certificado
 Organismo certificación personal nombre dirección contacto
-
 Empresas
 sistema sistemas certificación empresas dedicadas instalación mantenimiento reparación equipos fijos refrigeración aire acondicionado bombas calor contengan gases fluorados efecto invernadero satisfacen requisitos mínimos condiciones reconocimiento mutuo establecidos artículos Reglamento CE
 Título certificado
@@ -4119,7 +4112,6 @@ Nombre
 Elaboración productos alimenticios origen vegetal
 Elaboración productos alimenticios origen animal
 Condiciones específicas
-
 Queso Red Leicester
 Queso Double Gloucester
 Queso Mimolette

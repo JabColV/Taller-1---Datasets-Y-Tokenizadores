@@ -2533,9 +2533,7 @@ RSclorofenilHtriazolilmetilhexanenitrilo
 impureza metilpirrolidinona excederá kg material técnico
 junio
 mayo
-
 autorizar usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión miclobutanil particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal noviembre
 evaluación general miembros deberán prestar especial atención seguridad operarios asegurarán condiciones prescribe utilización equipos protección individual adecuados pertinente
 caso condiciones deberán incluir medidas reducción riesgo
@@ -3922,22 +3920,16 @@ Código producto
 Trigo morcajo tranquillón
 Trigo duro
 siembra
-
-
 escandas trigo blando morcajo tranquillón
 Trigo blando morcajo tranquillón siembra
 Centeno
 Cebada
 siembra
-
 Avena
 siembra
-
 Maíz
 siembra
-
 Sorgo grano granífero
-
 Alforfón mijo alpiste cereales
 Mijo
 Harina trigo morcajo tranquillón
@@ -3974,7 +3966,6 @@ grano
 grano
 presente relación longitud anchura superior inferior
 presente relación longitud anchura superior
-
 Arroz semiblanqueado blanqueado pulido glaseado or
 Arroz semiblanqueado
 Arroz blanqueado
@@ -3990,7 +3981,6 @@ contenido materias grasas inferior peso
 contenido grasas inferior peso contenido celulosa relación sustancia seca inferior peso
 contenido grasas superior inferior peso contenido celulosa relación sustancia seca inferior peso
 contenido grasas superior inferior peso contenido celulosa relación sustancia seca inferior peso
-
 cebada
 contenido cenizas referido sustancia seca inferior peso contenido celulosa relación sustancia seca inferior peso
 avena
@@ -4051,7 +4041,6 @@ Gluten trigo seco contenido proteínas extracto seco superior peso superior
 azúcares incluidas lactosa maltosa glucosa fructosa levulosa químicamente puras sólido jarabe azúcar adición aromatizante colorante sucedáneos miel mezclados miel natural azúcar melaza caramelizados
 Glucosa jarabe glucosa fructosa contenido fructosa producto seco inferior peso sucedáneos miel mezclados miel natural azúcar melaza caramelizados
 polvo cristalino blanco aglomerado
-
 Glucosa jarabe glucosa contenido fructosa producto seco superior inferior peso azúcar invertido miel natural azúcar melaza caramelizados
 incluido azúcar invertido azúcares jarabes azúcar contenido fructosa producto seco peso úcar invertido
 Maltodextrina jarabe maltodextrina
@@ -4059,7 +4048,6 @@ Maltodextrina forma sólido blanco aglomerado
 Azúcar melaza caramelizados
 polvo aglomerado
 Preparaciones alimenticias expresadas comprendidas
-
 Jarabes azúcar aromatizados colorantes añadidos
 glucosa maltodextrina
 Piensos compuestos base cereales
@@ -4072,7 +4060,6 @@ productos lácteos contenido productos inferior peso
 contenido productos lácteos superior inferior peso
 contenido almidón fécula superior inferior peso
 contenido almidón fécula superior
-
 incluidas premezclas
 contengan almidón fécula glucosa jarabe glucosa maltodextrina jarabe maltodextrina
 almidón fécula contenido materias inferior peso
@@ -4084,7 +4071,6 @@ peso vivo superior kg
 edad meses
 Vacas
 peso vivo superior kg
-
 especies domésticas
 peso superior kg inferior kg
 destinen matadero
@@ -4131,14 +4117,11 @@ preparaciones conservas carne despojos sangre
 especie bovina ina
 Corned beef envases herméticamente cerrados contenga carne animales especie bovina
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos cumplan condiciones establecidas Reglamento CE
-
 envases herméticamente cerrados
 contengan carne animales especie bovina
 Carne cerdo
 Animales vivos especie porcina
-
 peso inferior kg
 especies domésticas
 peso superior kg
@@ -4174,7 +4157,6 @@ Embutidos productos similares carne despojos sangre preparaciones alimenticias b
 alimenticias base productos
 Embutidos secos untar cocer
 contengan carne despojos aves corral
-
 especie porcina ne despojos aves corral
 especie porcina doméstica
 Cocida contenido carne grasa superior peso
@@ -4184,7 +4166,6 @@ Paletas trozos paleta
 envases inmediatos contenido neto superior kg
 incluidas mezclas
 contenido carne despojos clase superior peso incluidos tocino grasa naturaleza origen
-
 contengan carne despojos aves corral
 contengan producto compuesto trozos claramente reconocibles carne muscular cuyo tamaño permita determinar obtenidos piernas paletas chuleteros espinazos pequeñas partículas grasa visible pequeñas cantidades depósitos gelatina
 Carne aves
@@ -4231,7 +4212,6 @@ Secas
 usos alimentarios
 Líquidas
 congeladas
-
 Leche productos lácteos
 Leche nata crema concentrar adición azúcar edulcorante
 contenido materias grasas inferior peso corante
@@ -4260,7 +4240,6 @@ Leche nata concentradas azucaradas edulcoradas
 polvo gránulos formas sólidas contenido materias grasas inferior peso edulcorante
 adición azúcar edulcorante
 envases inmediatos contenido neto inferior kg
-
 polvo gránulos formas sólidas contenido materias grasas superior peso
 contenido materias grasas inferior peso
 envases inmediatos contenido neto inferior kg
@@ -4284,7 +4263,6 @@ Superior
 contenido materias grasas inferior peso
 superior
 Superior
-
 contenido materias grasas inferior peso
 contenido extracto seco magro lácteo superior materia grasa superior peso
 contenido materias grasas superior inferior peso
@@ -4429,7 +4407,6 @@ azúcares bruto
 envases inmediatos sobrepasen kg netos producto
 remolacha
 azúcares bruto
-
 adición aromatizantes colorantes
 Azúcares blancos
 cantidad superior toneladas
@@ -4443,7 +4420,6 @@ Azúcar melaza caramelizados
 contenido sacarosa seco superior peso
 Sucedáneos miel mezclados miel natural
 sorbosa
-
 isoglucosa
 DO
 método análisis aplicarse determinación contenido materias grasas figura anexo método Directiva CEE Comisión DO
@@ -4609,7 +4585,6 @@ Artículo
 anexo Decisión CE queda modificado
 texto punto sustituye texto
 contenido carne magra canal calculará fórmula
-
 carne magra estimada canal
 espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal nivel costilla
 espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal cuarta costillas

@@ -643,7 +643,6 @@ DO
 DO
 DO
 ANEXO
-
 Ficha características
 MODELO
 Ficha características
@@ -679,7 +678,6 @@ descripción sistema antiproyección vehículo elementos constituyen
 Planos detallados sistema antiproyección localización vehículo indiquen dimensiones especificadas figuras anexo VI Reglamento UE tengan combinaciones extremas neumáticos ruedas
 Números homologación tipo CE dispositivos antiproyección caso
 Fecha firma
-
 CERTIFICADO HOMOLOGACIÓN TIPO CE
 Sello organismo homologación
 Comunicación relativa
@@ -732,7 +730,6 @@ Información adicional
 Principio funcionamiento dispositivo absorción energía separación aire agua
 Características dispositivos antiproyección descripción marca denominación comerciales número números
 Observaciones caso
-
 marca homologación tipo CE unidades técnicas independientes consistirá
 letra minúscula rectángulo seguida número distintivo miembro concedido homologación CE unidad técnica independiente
 Alemania
@@ -929,7 +926,6 @@ borde frontal delantera vehículo extremo
 borde trasero trasera vehículo extremo mm
 borde frontal extremo
 borde trasero extremo mm
-
 radio neumático montado vehículo
 distancia radial extremo inferior faldilla exterior centro rueda
 caso ejes múltiples distancia neumáticos ejes adyacentes superior mm faldillas exteriores colocadas espacios interaxiales deberán seguir modelo indicado punto extenderse abajo forma encuentren mm línea recta imaginaria horizontal pase centros ruedas figura anexo VI
@@ -2162,7 +2158,6 @@ DO
 DO
 ANEXO
 contemplado artículo apartado
-
 MARCO MUESTREO
 productos muestrearse
 muestreo incluirán siguientes categorías alimentos listos consumo comercio menor
@@ -2219,7 +2214,6 @@ Selección alimentos listos consumo principales categorías muestrearse
 selección alimentos listos consumo categorías alimentos tipo muestrearse basará datos comerciales detallará plan muestreo
 autoridades competentes optar ordenar encargados toma muestras seleccionen quesos muestreo basándose contribución estimada cuota mercado plan muestreo nacional
 Conviene autoridades competentes den orientaciones cuota mercado aproximada principales tipos alimentos categorías obtenerse muestra representativa mercado ejemplo quesos leche cruda pasteurizada
-
 RECOGIDA TRANSPORTE MUESTRAS
 Tipo datos muestra
 muestras tomarán expositores azar mínimo
@@ -2254,7 +2248,6 @@ muestras transportarán contenedores refrigerados mantendrán temperatura °C °
 muestras alimentos listos consumo deberán llegar laboratorio horas siguientes muestreo
 circunstancias excepcionales duración transporte exceder horas
 obstante duración transporte superior horas caso dará lugar pruebas lleven cabo posterioridad fecha venta recomendada producto recogido muestreo
-
 PREPARACIÓN MUESTRAS MÉTODOS ANALÍTICOS
 Recepción muestras
 Normas generales
@@ -2311,7 +2304,6 @@ Almacenamiento cepas
 almacenará cepa Listeria monocytogenes confirmada muestra positiva posibles estudios posteriores tipado
 cepas recuperado método detección recuento almacenarán cepas obtenidas método recuento
 cepas almacenarán laboratorios nacionales referencia siguiendo métodos adecuados recogida cultivos dichos métodos garanticen viabilidad cepas tipado mínimo años
-
 COMUNICACIÓN INFORMACIÓN
 Disposiciones generales
 información comunicar miembros medida accesible esté disponible tipos
@@ -3194,10 +3186,8 @@ caso transporte contenedores cajas deberá indicarse punto número corresponda n
 Corrección errores Reglamento CE Parlamento Europeo Consejo julio relativo requisitos homologación tipo referentes seguridad general vehículos motor remolques sistemas componentes unidades técnicas independientes destinados
 Diario Oficial Unión Europea julio
 página artículo párrafos cuarto
-
 aplicables agosto artículo apartado artículo anexo III punto letra inciso iii punto letra inciso iii inciso iv punto letra punto letra inciso iii punto letra inciso iii punto letra inciso iii punto letra inciso iii punto letra inciso iii punto letra inciso
 aplicables noviembre anexo III punto letra inciso punto letra inciso punto letra punto letra inciso punto letra inciso punto letra inciso punto letra inciso punto letra inciso punto letra inciso ii
-
 aplicables agosto artículo apartado artículo anexo III punto letra inciso iii punto letra inciso iii inciso iv punto letra punto letra inciso iii punto letra inciso iii punto letra inciso iii punto letra inciso iii punto letra inciso iii punto letra inciso ii
 aplicables noviembre anexo III punto letra inciso punto letra inciso punto letra punto letra inciso punto letra inciso punto letra inciso punto letra inciso punto letra inciso punto letra inciso
 página anexo II frase continuación cuadro
@@ -3412,7 +3402,6 @@ peso neto
 VISADO AUTORIDAD COMPETENTE
 abajo firmante certifica país contemplado casilla cantidades expedido licencias exportación arroz virtud Reglamento CE año indicado casilla incluidas presente licencia exportación inferiores cantidad máxima autorizada anexo III artículo apartado Decisión CE
 Autoridad competente nombre dirección completa país
-
 firma sello
 meses tardar mes cantidades totales peso producido efectivamente despachadas libre práctica marco contingente mes desglosadas códigos NC cifras período efectuado despacho libre práctica enviará notificación negativa
 Decisión Comisión
@@ -3598,7 +3587,6 @@ Andorra
 residuos enumerados anexo III Reglamento CE
 entrada correspondiente China sustituye texto
 China
-
 Metales preciosos oro platino
 Chatarra molibdeno
 Desechos cobalto
@@ -3636,7 +3624,6 @@ resinas epoxídicas
 resinas alquídicas
 residuos termoplásticos
 residuos
-
 Desechos lana pelo animal fino basto inclusión desechos hilados exclusión material hilachas
 Desechos algodón inclusión desechos hilados material hilachas
 Desechos inclusión borras desechos hilados material hilachas fibras naturales
@@ -4372,8 +4359,6 @@ aplicó factor seguridad resulta ingesta semanal tolerable μg kg ingesta diaria
 Corrección errores Decisión UE Representantes Gobiernos miembros septiembre nombra juez Tribunal Justicia
 Diario Oficial Unión Europea octubre
 página firma
-
-
 Corrección errores Decisión UE Representantes Gobiernos miembros octubre nombra juez Tribunal General
 Diario Oficial Unión Europea octubre
 página firma
@@ -4707,7 +4692,6 @@ impreso solicitud COLA denominado Application for and certification exemption of
 conformidad anexo III Comunidad Europea Unidos América comercio vinos
 texto anexo IV sustituye
 ANEXO IV
-
 Austria
 Lista vinos denominaciones origen protegidas
 Burgenland seguida nombre unidad geográfica menor

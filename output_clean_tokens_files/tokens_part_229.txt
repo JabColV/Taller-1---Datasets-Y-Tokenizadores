@@ -96,15 +96,8 @@ Número muestras elementales
 Peso muestra global kg producto envasado venta menor peso muestra global variar véase punto
 Número muestras laboratorio constituidas muestra global
 división
-
-
-
 kg
-
-
 kg
-
-
 muestra global peso máximo kg molienda mezclará dividirá muestras laboratorio iguales máximo kg división muestras laboratorio necesaria caso higos secos destinados tratamiento selección tratamiento físico ulterior dispone equipo permita homogeneizar muestra kg
 muestra global pese kg dividirá muestras laboratorio
 kg dividirá muestras laboratorio
@@ -116,10 +109,6 @@ Productos derivados partículas ligeras distribución homogénea contaminación 
 Número muestras elementales lotes inferiores toneladas tomarán muestras elementales función peso lote véase cuadro
 Cuadro
 Número muestras elementales deberán tomarse función peso lote
-
-
-
-
 muestra global peso kg suficientemente mezclada
 productos derivados partículas relativamente gruesas distribución heterogénea contaminación aflatoxinas
 Método muestreo aceptación lotes higos secos
@@ -150,9 +139,7 @@ peso envase venta menor inferior gramos inferior peso considerará envase consti
 peso envase inferior gramos muestra elemental consistirá envases aproximarse gramos
 Visión general método muestreo cacahuetes semillas oleaginosas huesos albaricoque frutos cáscara arbóreos
 Cacahuetes semillas oleaginosas huesos albaricoque frutos cáscara arbóreos
-
 sublotes
-
 Método muestreo cacahuetes semillas oleaginosas huesos albaricoque frutos cáscara arbóreos lotes toneladas
 muestra global peso kg molienda mezclará dividirá muestras laboratorio iguales kg división muestras laboratorio necesaria caso cacahuetes semillas oleaginosas huesos albaricoque frutos cáscara arbóreos destinados tratamiento selección tratamiento físico ulterior dispone equipo permita homogeneizar muestra kg
 aplicar método muestreo descrito anteriormente consecuencias comerciales tendrían daños ocasionados lote tipo envase medios transporte etc aplicarse método muestreo alternativo condición representativo esté adecuadamente descrito documentado
@@ -223,14 +210,11 @@ Volumen lote expresado litros
 Número mínimo muestras elementales tomarse
 granel
 envases
-
 División lotes sublotes función peso lote
 Número mínimo muestras elementales
 Peso mínimo muestra global kg
 Aceites vegetales
-
 sublotes
-
 Método muestreo aceites vegetales fase venta menor
 caso muestra global pesará kg
 envíos lotes aceite vegetal granel dividirán sublotes condición puedan separarse físicamente indica cuadro
@@ -811,7 +795,6 @@ CICAP
 Crotonato dinitroactilfenilo crotonato dinitroactilfenilo actil mezcla grupos metilheptil etilhexil propilpentil
 enero
 diciembre
-
 autorizar usos fungicida cultivos siguientes
 uvas vinificación
 dosis superiores kg sustancia activa hectárea aplicación
@@ -821,7 +804,6 @@ aplicaciones mochila equipos mano aficionados
 jardinería doméstica
 miembros garantizarán aplicación medidas pertinentes reducción riesgo
 trabajadores ropa protección adecuada particular guantes entrar zona tratada transcurra plazo específico volver entrar plazo inferior horas
-
 aplicación principios uniformes anexo VI conclusiones informe revisión dinocap apéndices II
 miembros garantizar titulares autorización informen tardar diciembre año incidencia problemas salud operarios
 miembros exigir faciliten elementos tales datos ventas estudio modalidades utilización imagen real condiciones impacto toxicológico dinocap
@@ -1015,7 +997,6 @@ DO
 DO
 ANEXO
 ESPECIFICACIONES CONJUNTO DATOS CONTEMPLADAS ARTÍCULO
-
 IAIP mapeo aeródromo datos electrónicos obstáculos
 datos aeronáuticos información aeronáutica contemplados artículo apartado párrafo letras facilitarán conforme especificación común conjunto datos deberá
 documentada
@@ -1036,11 +1017,9 @@ basar descripción información metadatos norma ISO mencionada anexo III punto
 incluir elementos metadatos enumerados anexo
 relativo normas ISO correspondiente certificado emitido organización debidamente acreditada considerará prueba cumplimiento suficiente
 partes contempladas artículo apartado aceptarán permita acceso documentación relativa certificado autoridad nacional supervisión solicite
-
 Conjunto datos electrónicos terreno
 datos electrónicos terreno contemplados artículo apartado párrafo letra deberán
 suministrarse formato digital conforme normas OACI contempladas anexo III puntos
-
 Metadatos
 metadatos especificaciones conjuntos datos definidos partes deberán incluir siguientes elementos mínimo
 originador dichos datos
@@ -1137,7 +1116,6 @@ restricción relativa datos
 requisitos producción informes calidad proveedores datos facilitar verificación calidad datos usuarios
 requisitos metadatos
 requisitos contingencia relativos continuidad suministro datos
-
 Obtención original datos
 levantamiento topográfico planos radioayudas navegación obtención original datos calculados derivados cuyas coordenadas publiquen AIP realizará conformidad normas adecuadas mínimo conformidad disposiciones pertinentes OACI contempladas anexo III punto
 datos levantamientos topográficos harán referencia WGS especifica disposiciones OACI mencionadas anexo III punto
@@ -1152,7 +1130,6 @@ mediciones hechas terreno almacenadas formato digital
 datos brutos transferirán formato digital cargarán software procesamiento
 datos levantamientos topográficos clasificados datos críticos objeto medición adicional suficiente detectar errores levantamiento detectables única medición
 datos aeronáuticos información aeronáutica validados verificados usados derivar calcular datos
-
 Requisitos procesos datos
 procesos partes procesos utilizados obtención original producción almacenamiento manejo procesamiento transferencia distribución datos aeronáuticos información aeronáutica estén sujetos automatización deberán
 automatizados nivel correspondiente contexto proceso datos
@@ -1160,7 +1137,6 @@ automatizados optimizar atribución personas máquinas interacción lograr eleva
 diseñados evitar introducción datos errores
 diseñados detectar errores datos recibidos introducidos
 introduzcan manualmente datos aeronáuticos información aeronáutica objeto verificación independiente detectar error haberse introducido
-
 Requisitos relativos notificación rectificación errores
 mecanismos notificación medición errores medidas correctoras correspondientes garantizarán
 problemas detectados obtención original producción almacenamiento manejo procesamiento detectados usuarios publicación registrados notificados proveedor servicios información aeronáutica
@@ -1589,9 +1565,7 @@ CIPAC consta
 aceite parafina
 enero
 diciembre
-
 autorizar usos insecticida acaricida
-
 conveniente condiciones deberán incluir medidas adecuadas reducción riesgo
 miembros afectados deberán exigir
 miembros velarán notificante proporcione información Comisión junio
@@ -2017,7 +1991,6 @@ Examinar cuestión relativa anexo aplicación
 Examinar periódicamente evolución disposiciones legislativas reglamentarias internas Partes ámbitos regulados anexo
 Formular propuestas presentación Comité mixto vistas adaptar actualizar apéndices anexo
 presente Decisión entrará vigor
-
 Comité mixto agricultura
 Jefe Delegación Unión Europea
 Jefe Delegación Suiza
@@ -3095,9 +3068,7 @@ DO
 Corrección errores Directiva CE Parlamento Europeo Consejo mayo relativa máquinas modifica Directiva CE
 Diario Oficial Unión Europea junio
 página artículo párrafo
-
 Queda derogada Directiva CE
-
 Queda derogada Directiva CE diciembre
 Decisión Consejo
 enero

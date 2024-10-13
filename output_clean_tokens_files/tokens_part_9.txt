@@ -746,7 +746,6 @@ DO
 Directiva cuya modificación constituye Reglamento CE
 ANEXO
 Requisitos seguridad artículos ocio flotantes agua
-
 Definición productos
 artículos flotantes cubiertos presente Decisión artículos ocio utilizar agua cuya flotabilidad garantiza calidad inflabes materiales inherentemente flotantes
 artículos cubiertos acto específico legislación UE agua actividades ocio jugar agua practicar deportes acuáticos navegar bucear aprender nadar distintos productos típicos tradicionales sector
@@ -1199,10 +1198,8 @@ RS SR
 RR SS
 enero
 junio
-
 autorizarse usos fungicida tratamiento semillas
 miembros velarán autorizaciones dispongan aplicación semillas realice exclusivamente instalaciones profesionales tratamiento semillas instalaciones empleen mejores técnicas disponibles excluir liberación nubes polvo almacenamiento transporte aplicación
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión bitertanol particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal octubre
 evaluación general miembros
 prestarán especial atención riesgos operadores trabajadores velarán condiciones incluyan proceda utilización equipo protección personal adecuado
@@ -1260,10 +1257,8 @@ consiguiente Protocolo entró vigor noviembre conformidad dispuesto artículo
 Corrección errores Decisión PESC Consejo mayo modifica Acción Común PESC relativa creación centro satélites Unión Europea
 Diario Oficial Unión Europea mayo
 página artículo punto
-
 artículo añade apartado
 julio disolución Unión Europea Occidental UEO Centro realizará tareas administrativas señaladas artículo bis
-
 julio disolución Unión Europea Occidental UEO Centro realizará tareas administrativas señaladas artículo bis
 Reglamento CE Comisión
 octubre
@@ -1447,15 +1442,11 @@ Tipo contabilidad indicará tipo contabilidad aplica explotación
 Deberán utilizarse códigos siguientes
 Contabilidad partida doble
 Contabilidad partida simple
-
 Fecha cierre ejercicio contable indicará formato AAAAMMDD ejemplo
 Orientación técnicoeconómica momento selección Clasificación explotaciones agrícolas orientación técnico económica OTE conformidad anexo Reglamento CE Comisión momento selección ejercicio contable trate ATYES
 Clase dimensión económica momento selección Código clase dimensión económica explotación conformidad anexo II Reglamento CE momento selección ejercicio contable trate
 actividades lucrativas directamente relacionadas explotación presentará banda porcentual indicativa ingresos totales correspondiente restantes actividades lucrativas directamente relacionadas explotación
 Deberán utilizarse códigos siguientes
-
-
-
 Explotación familiar explotación utiliza mano obra capital propietario jefe explotación familia beneficiarios actividad económica
 Sociedad fines lucro beneficios destinan remunerar accionistas forma dividendos participación beneficios
 explotación propiedad sociedad
@@ -1463,7 +1454,6 @@ Sociedad fines lucro beneficios destinan primordialmente mantener empleo objetiv
 explotación propiedad sociedad
 Régimen jurídico indicará explotación persona jurídica
 Falso
-
 Nivel responsabilidad delde titulares indicará nivel responsabilidad económica titular principal
 Plena
 Parcial
@@ -1520,7 +1510,6 @@ procede explotación carece riego
 Superficial
 Rociadores
 Goteo
-
 Jornadas pastoreo unidad ganado tierras comunales Número jornadas unidad ganado animales explotación pacen tierras comunales utilizadas
 COLUMNAS CUADRO
 columna refiere circunscripción subcircunscripción número orden explotación DG grados minutos zonas NUTS AO número oficina contable DT fecha ponderación explotación TF orientación técnico económica dimensión económica código
@@ -1574,7 +1563,6 @@ Empresario jefe explotación
 Empresario jefe explotación
 Jefe explotación empresario
 Cónyuges delde empresarios
-
 Mano obra ocupada regularmente
 Jefe explotación
 mano obra entenderá conjunto personas ejercicio contable hayan ocupadas trabajos explotación agrícola véase abajo
@@ -1610,7 +1598,6 @@ Mano obra remunerada efectivo especie normalmente prestación realizada ejercici
 distinguirán categorías siguientes
 Jefe explotación
 Persona asalariada asume gestión corriente explotación
-
 mano obra asalariada ocupada regularmente jefe explotación asalariado indicará globalmente grupo
 incluye capataces subjefes explotación responsables gestión explotación
 Mano obra asalariada ocupada regularmente
@@ -4012,7 +3999,6 @@ Circunscripción
 Código
 municipio subcircunscripción
 Zona desfavorecida
-
 zona montaña
 Superficies agrícolas restricciones medioambientales
 Personalidad jurídica gestión explotación encuesta
@@ -4051,7 +4037,6 @@ Maíz grano
 Arroz
 cereales producción grano
 Cultivos proteicos producción grano incluidas semillas mezclas legumbres cereales
-
 guisantes habas haboncillos altramuces dulces
 lentejas garbanzos vezas
 cultivos proteicos recolectados secos
@@ -4074,7 +4059,6 @@ Plantas aromáticas medicinales especias
 Plantas industriales incluidas
 Hortalizas frescas melones fresas
 aire libre protección altura accesible
-
 cultivos terreno labor
 cultivos huerta
 invernadero tipo protección accesible
@@ -4152,7 +4136,6 @@ Aves corral
 Pollos cría
 Ponedoras
 aves corral
-
 pavos
 patos
 ocas
@@ -4161,14 +4144,10 @@ Conejas crías
 Abejas
 Número colmenas
 Ganado incluido
-
 Tractores motocultores máquinas instalaciones
 encuesta pertenecientes exclusivamente explotación
 Tractores ruedas tractores oruga portaherramientas potencia kW
 Número
-
-
-
 Motocultores motoazadas motofresadoras motosegadoras
 Cosechadoras
 cosechadoras totalmente mecanizadas
@@ -4187,7 +4166,6 @@ relación personas físicas mencionadas anteriormente recoge información
 sexo
 edad clasificación
 edad límite escolaridad obligatoria años
-
 trabajos agrícolas explotación excluidas labores domésticas conformidad clasificación
 tiempo completo tiempo anual trabajo persona tiempo completo
 Responsables explotación
@@ -4227,7 +4205,6 @@ transformación madera aserrado etc
 acuicultura
 producción energías renovables energía eólica quema paja etc
 trabajo contrato utilizando equipo explotación
-
 Nota lector numeración características consecuencia larga historia encuestas estructurales agrícolas cambiar repercuta comparabilidad encuestas
 indica código municipio explotaciones información relativa zona desfavorecida zona montaña opcional
 indica código municipio explotación información relativa zona desfavorecida zona montaña obligatoria

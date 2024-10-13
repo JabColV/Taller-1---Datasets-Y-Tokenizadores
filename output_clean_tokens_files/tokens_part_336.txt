@@ -4,7 +4,6 @@ papel cartón obtenido principalmente pasta mecánica ejemplo periódicos revist
 inclusión cartón laminado limitarse
 rúbrica Ucrania sustituye texto
 Ucrania
-
 Desechos cromo
 Escorias tratamiento cobre destinadas tratamiento refinación posteriores contengan arsénico plomo cadmio grado presenten características peligrosas anexo III
 BB
@@ -489,8 +488,6 @@ inflarán neumáticos presión inflado frío prescrita masa deban soportar vehí
 iniciar ensayos frenos estarán fríos temperatura superficie discos tambores exteriores inferior °C
 caso fallo fuente energía eficacia freno servicio deberá alcanzar pisar freno valores indicados cuadro
 Categoría
-
-
 fallo mecanismo dirección suministro energía deberá obtenerse accionado fondo mando freno servicio novena eficacia equivalente mínimo prescrita sistema freno secundario emergencia véase cuadro aparece
 sistema freno secundario requiera energía almacenada accione mando aparte deberá accionado mando freno servicio obtener novena eficacia residual indicada véase cuadro
 Eficacia frenado secundaria residual
@@ -518,8 +515,6 @@ comprobará ensayos exponen continuación
 Ensayo circular
 vehículo marcha describirá círculo ensayo radio velocidad kmh correspondiente categoría valores establecidos cuadro
 Categoría vehículo
-
-
 fallo provocará alcanzado velocidad ensayo especificada
 ensayo incluirá conducción sentido agujas reloj sentido contrario
 Ensayo condiciones transitorias
@@ -1369,13 +1364,10 @@ autoriza Presidente Consejo designe personas facultadas firmar nombre Unión Eur
 Bruselas septiembre
 DO
 DO
-
 Unión Europea Islandia Noruega relativo aplicación determinadas disposiciones Decisión JAI Consejo profundización cooperación transfronteriza particular materia lucha terrorismo delincuencia transfronteriza Decisión JAI Consejo relativa ejecución Decisión JAI profundización cooperación transfronteriza particular materia lucha terrorismo delincuencia transfronteriza anexo
 UNIÓN EUROPEA
-
 ISLANDIA
 NORUEGA
-
 denominadas sucesivo Partes Contratantes
 DESEOSAS mejorar cooperación policial judicial miembros Unión Europea Islandia Noruega perjuicio normas protección libertades individuales
 CONSIDERANDO relaciones actuales Partes Contratantes particular celebrado Consejo Unión Europea República Islandia Reino Noruega asociación ejecución aplicación desarrollo acervo Schengen denotan estrecha cooperación lucha delincuencia
@@ -3231,7 +3223,6 @@ Reglamento CE Comisión junio completa anexo Reglamento CE relativo inscripción
 Corrección errores Corrección errores Directiva CE Comisión abril adapta vigésima novena progreso técnico Directiva CEE Consejo relativa aproximación disposiciones legales reglamentarias administrativas materia clasificación embalaje etiquetado sustancias peligrosas
 Diario Oficial Unión Europea junio
 página altura correspondiente columna Index columna Límites concentración
-
 Decisión Comisión
 agosto
 aprueba entrada funcionamiento consejo consultivo regional Mar Mediterráneo virtud política pesquera común
@@ -3493,7 +3484,6 @@ carne machos castrar meses edad categoría
 carne machos castrados meses edad categoría
 carne machos meses edad categoría
 sustituye texto
-
 Clasificación productos
 efectos presente categoría refiere únicamente machos descritos punto letra presente anexo
 Category class
@@ -4042,7 +4032,6 @@ DO
 DO
 ANEXO
 contemplado artículo apartado
-
 MARCO MUESTREO
 productos muestrearse
 muestreo incluirán siguientes categorías alimentos listos consumo comercio menor
@@ -4101,7 +4090,6 @@ obstante suceder diversidad productos incluidos categoría permita calcular cuot
 caso autoridades competentes optar ordenar encargados toma muestras selección quesos muestreo base contribución estimada cuota mercado plan muestreo nacional
 muestreos tipo basarse datos relativos volumen negocios facilitados dirección local comercio venta menor aproximativa importancia mercado ejemplo función encuentre expositores punto venta menor
 planteamiento conviene autoridades competentes den orientaciones cuota mercado aproximada principales tipos alimentos categorías obtenerse muestra representativa mercado ejemplo quesos leche cruda pasteurizada
-
 RECOGIDA TRANSPORTE MUESTRAS
 Tipo datos muestra
 muestras tomarán expositores azar mínimo
@@ -4136,7 +4124,6 @@ muestras transportarán contenedores refrigerados mantendrán temperatura °C °
 muestras alimentos listos consumo deberán llegar laboratorio horas siguientes muestreo
 circunstancias excepcionales duración transporte exceder veinticuatro horas
 obstante duración transporte superior cuarenta horas caso dará lugar pruebas lleven cabo posterioridad fecha venta recomendada producto recogido muestreo
-
 PREPARACIÓN MUESTRAS MÉTODOS ANALÍTICOS
 Recepción muestras
 Normas generales
@@ -4193,7 +4180,6 @@ Almacenamiento cepas
 almacenará cepa Listeria monocytogenes confirmada muestra positiva posibles estudios posteriores tipado
 cepas recuperado método detección recuento almacenarán cepas obtenidas método recuento
 cepas almacenarán laboratorios nacionales referencia siguiendo métodos adecuados recogida cultivos dichos métodos garanticen viabilidad cepas tipado mínimo años
-
 COMUNICACIÓN INFORMACIÓN
 Disposiciones generales
 información comunicar miembros medida accesible esté disponible tipos
@@ -4590,7 +4576,6 @@ Fecha añadida anexo III
 Tercer país cuestión
 PORTUGAL
 Menciones específicas tradicionales previstas artículo
-
 Vcprd vecprd vacprd vlcprd
 Portugués
 Vlcprd
@@ -4827,7 +4812,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante

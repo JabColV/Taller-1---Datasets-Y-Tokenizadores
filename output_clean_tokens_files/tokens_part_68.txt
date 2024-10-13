@@ -190,7 +190,6 @@ Transportes
 Ferrocarril
 kilómetros
 Longitud líneas ferroviarias
-
 Longitud líneas ferroviarias reconstruidas mejoradas
 Carreteras
 Longitud carreteras construcción
@@ -335,7 +334,6 @@ ANEXO
 Perú
 perjuicio reglas interpretación nomenclatura combinada texto designación mercancía valor meramente indicativo marco anexo alcance régimen preferencial viene determinado códigos NC momento adopción presente Reglamento
 figura ex código NC alcance régimen preferencial determinará aplicación conjunta código NC descripción correspondiente
-
 orden
 Código NC
 Designación mercancías
@@ -357,7 +355,6 @@ Estufas calderas hogar cocinas incluidas puedan utilizarse accesoriamente calefa
 número unidades
 Artículos doméstico partes fundición hierro acero lana hierro acero esponjas estropajos guantes artículos similares fregar lustrar usos análogos hierro acero
 manufacturas moldeadas fundición hierro acero
-
 toneladas métricas
 Caballas Scomber scombrus Scomber japonicas congeladas
 Anchoas congeladas Engraulis spp
@@ -509,7 +506,6 @@ buques
 caso solicitudes licencia miembros agoten posibilidades pesca fijadas Protocolo Comisión tomar consideración solicitudes presentadas miembro
 Consejo
 DO
-
 forma Canje Notas aplicación provisional modificaciones introducidas Protocolo fijan posibilidades pesca contrapartida financiera previstas Comunidad Económica Europea República Seychelles pesca alta mar frente costa Seychelles período comprendido enero enero
 Nota Gobierno República Seychelles
 Excelentísimo señor
@@ -2889,7 +2885,6 @@ Prestaciones producto referencias métodos empleados evaluación
 Sistema evaluación verificación constancia prestaciones sucesivo EVCP aplicado referencia base jurídica
 Detalles técnicos necesarios aplicación sistema EVCP establece DEE
 Emitido
-
 Anexos
 Decisión Comisión
 abril
@@ -3231,7 +3226,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -3631,7 +3625,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -3645,7 +3638,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -3659,7 +3651,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -3877,9 +3868,7 @@ DO
 Corrección errores Reglamento Ejecución UE Consejo enero establece derecho antidumping definitivo importaciones cables acero originarios República Popular China Ucrania ampliado importaciones cables acero procedentes Marruecos Moldavia República Corea hayan declarados originarios dichos países reconsideración expiración virtud artículo apartado Reglamento CE concluido procedimiento reconsideración expiración importaciones cables acero originarios Sudáfrica virtud artículo apartado Reglamento CE
 Diario Oficial Unión Europea febrero
 página artículo apartado frase introductoria
-
 producidos empresas figuran continuación
-
 empresas indicadas aplican condiciones establecidas artículo apartado Reglamento Ejecución UE
 Decisión Consejo
 enero
@@ -4260,7 +4249,6 @@ sistema frenos secundario independiente freno servicio empléese método especif
 frenado rueda inferior esfuerzo máximo registrado rueda eje
 sistema freno secundario independiente sistema frenos servicio empléese método especificado
 esfuerzo frenado inferior rendimiento freno servicio indicado punto masa máxima autorizada semirremolques suma cargas eje autorizadas
-
 Rendimiento eficacia freno estacionamiento
 Prueba aparato estático comprobación frenos prueba carretera decelerómetro
 Frenado inoperante caso prueba carretera vehículo desvía excesivamente línea recta
@@ -4414,7 +4402,6 @@ sistema funciona requisitos
 Iluminación placa trasera matrícula
 lámpara haz luz directamente atrás
 Catadióptricos marcas visibilidad reflectantes placas reflectantes traseras
-
 Equipamiento reflectante defectuoso dañado
 Reflector sujeto
 Dispositivo color reflejado posición conforme requisitos
@@ -4929,7 +4916,6 @@ Indicador
 Observaciones
 Puntuación
 excelente
-
 suficiente
 Umbral
 Ponderación relativa

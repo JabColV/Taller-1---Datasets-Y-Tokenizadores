@@ -466,7 +466,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -480,7 +479,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -494,7 +492,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -689,7 +686,6 @@ DO
 Véase anexo II
 EU septiembre EU mayo EU enero
 ANEXO
-
 Certificación aeronaves productos componentes equipos relacionados organizaciones diseño producción
 Índice
 Página
@@ -2247,7 +2243,6 @@ Peróxido hidrógeno agua oxigenada compuestos mezclas liberen peróxido hidróg
 Productos pelo
 HO volúmenes presente liberado
 Utilizar guantes apropiados
-
 Contiene peróxido hidrógeno
 Evitar contacto ojos
 Enjuagar inmediatamente producto entra contacto
@@ -2270,7 +2265,6 @@ profesional
 Contiene peróxido hidrógeno
 entrada número orden sustituye
 Resorcina
-
 mezclarse condiciones oxidantes concentración máxima aplicada pelo pestañas deberá exceder
 Contiene resorcinol
 Enjuagar pelo aplicación
@@ -2283,7 +2277,6 @@ mezclarse condiciones oxidantes concentración máxima aplicada pelo pestañas d
 experimentado reacción tatuajes temporales henna negra
 Colorantes oxidación teñido pelo
 base libre diclorhidrato
-
 agentes nitrosantes
 Contenido máximo nitrosaminas μg kg
 Conservar recipientes contengan nitritos
@@ -4280,7 +4273,6 @@ DO
 DO
 ANEXO
 CARACTERIZACIÓN ÓRGANOS DONANTES
-
 Conjunto datos mínimos
 Datos mínimosinformación caracterización órganos donantes recabada donación conformidad artículo apartado párrafo perjuicio artículo apartado
 Establecimiento lugar obtención datos generales
@@ -4297,7 +4289,6 @@ Historial presente neoplasia maligna
 Historial presente enfermedades transmisibles
 Pruebas VHB VHC VIH
 Información básica evaluar función órgano donado
-
 Conjunto datos complementarios
 Datos complementarios Información caracterización órganos donantes recabada datos mínimos figuran base decisión equipo médico teniendo disponibilidad dichos datos circunstancias particulares caso conformidad artículo apartado párrafo
 Datos generales

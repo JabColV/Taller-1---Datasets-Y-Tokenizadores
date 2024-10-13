@@ -1412,10 +1412,8 @@ desvío producido
 Corrección errores Reglamento CE Consejo junio modifican Reglamentos CE CE CE relativo posibilidades pesca condiciones asociadas aplicables determinadas poblaciones peces
 Diario Oficial Unión Europea junio
 Página Anexo modificaciones anexos Reglamento CE punto modificación Anexo II letra
-
 añade punto
 pesque palangres deriva períodos fijados puntos llevará bacalao bordo
-
 Decisión Comisión
 noviembre
 Ayuda estatal ex NN Programa modernización buques pesqueros aplicado Reino Unido
@@ -1567,10 +1565,8 @@ ayudas estatales sector pesquero consideran compatibles mercado común atienen D
 Corrección errores Reglamento UE Consejo enero establecen posibilidades pesca disponibles aguas UE caso buques UE determinadas aguas pertenecientes UE determinadas poblaciones peces grupos poblaciones peces sujetas negociaciones acuerdos internacionales
 Diario Oficial Unión Europea enero
 página anexo IB TAC bacalao zonas IIb CODB nota
-
 capturas accesorias eglefino representar desembarques lance
 volumen capturas accesorias eglefino añade cuota bacalao
-
 capturas accesorias eglefino representar lance
 volumen capturas accesorias eglefino añade cuota bacalao
 Reglamento CE Comisión
@@ -1668,7 +1664,6 @@ DO
 DO
 ANEXO
 ANEXO
-
 Menciones contempladas artículo apartado
 Lengua
 Menciones relativas sulfitos
@@ -1762,7 +1757,6 @@ sueco
 sulfiter svaveldioxid
 ägg äggprotein äggprodukt ägglysozym äggalbumin
 mjölk mjölkprodukter mjölkkasein mjölkprotein
-
 Pictogramas contemplados artículo apartado
 Reglamento Ejecución UE Comisión
 junio
@@ -2850,7 +2844,6 @@ Decisión modificada lugar Decisión CE Comisión DO
 ANEXO
 ANEXO II
 CARNE FRESCA
-
 LISTA TERCEROS PAÍSES PARTES TERCEROS PAÍSES establece certificado prohíben importaciones carnes frescas especies indicadas línea correspondiente país
 País
 Código territorio
@@ -3475,7 +3468,6 @@ Aceitunas destinen producción aceite
 Alcaparras
 Hinojo
 Calabacines
-
 Hortalizas silvestres estén cocidas agua vapor congeladas
 Hortalizas silvestres conservadas provisionalmente ejemplo gas sulfuroso agua salada sulfurosa adicionada sustancias asegurar dicha conservación impropias consumo inmediato productos código
 Hortalizas silvestres secas incluidas cortadas trozos rodajas trituradas pulverizadas preparación aceitunas productos código
@@ -4041,7 +4033,6 @@ régimen refiere sección capítulo II aplicará productos código NC
 productos códigos NC derecho específico limitará valor aduana régimen especial estímulo desarrollo sostenible gobernanza
 ANEXO III
 Convenios refiere artículo
-
 Convenios ONU OIT referentes derechos humanos trabajadores
 Pacto Internacional Derechos Civiles Políticos
 Pacto Internacional Derechos Económicos Sociales Culturales
@@ -4059,7 +4050,6 @@ Convenio relativo discriminación materia empleo ocupación
 Convenio libertad sindical protección derecho sindicación
 Convenio relativo aplicación principios derecho sindicación negociación colectiva
 Convención Internacional Represión Castigo Crimen Apartheid
-
 Convenios referentes ambiente principios gobernanza
 Protocolo Montreal relativo sustancias agotan capa ozono
 Convenio Basilea control movimientos transfronterizos desechos peligrosos eliminación

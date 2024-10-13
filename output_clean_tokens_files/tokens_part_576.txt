@@ -558,7 +558,6 @@ Italia
 Grecia
 Chipre
 miembros
-
 Seguimiento ovinos caprinos sacrificados consumo humano
 miembros someterán prueba conforme normas muestreo establecidas punto tamaños mínimos muestra indicados cuadros animales ovinos caprinos hayan muerto hayan sacrificados
 hayan sacrificados marco campaña erradicación enfermedades
@@ -569,7 +568,6 @@ Tamaño mínimo muestra animales ovinos muertos
 Cuadro
 Población cabras cubiertas cabras hayan parido miembros
 Tamaño mínimo muestra animales caprinos muertos
-
 tamaño mínimo muestra calculado detectar prevalencia animales sacrificados fiabilidad
 tamaños mínimos muestra superiores permitirán detectar prevalencia fiabilidad
 cálculo tamaño mínimo muestra tamaño poblaciones ovinas miembros objeto metas fijadas alcanzables
@@ -1239,7 +1237,6 @@ Conforme definiciones anexo Resolución consolidada construcción vehículos RE 
 Alemania Francia Italia Países Bajos Suecia Bélgica Hungría República Checa España Serbia Montenegro Reino Unido Austria Luxemburgo Suiza asignar Noruega Finlandia Dinamarca Rumanía Polonia Portugal Federación Rusia Grecia Irlanda Croacia Eslovenia Eslovaquia Belarús Estonia asignar Bosnia Herzegovina Letonia asignar Bulgaria asignar Lituania Turquía asignar Azerbaiyán Antigua República Yugoslava Macedonia asignar Comunidad Europea miembros conceden homologaciones utilizando símbolo CEPE respectivo Japón asignar Australia Ucrania Sudáfrica Zelanda Chipre Malta República Corea
 números subsiguientes asignarán países orden cronológico conforme ratifiquen adhieran adopción prescripciones técnicas uniformes aplicables vehículos ruedas equipos piezas puedan montarse utilizarse condiciones reconocimiento recíproco homologaciones concedidas conforme dichas prescripciones números asignados comunicados Secretario General Naciones Unidas Partes contratantes
 Véase nota pie página punto
-
 Véase punto
 Documento TRANS WP Rev Modif
 ANEXO
@@ -1409,7 +1406,6 @@ horas oC
 Deformación permanente compresión método
 horas oC
 Densidad oC
-
 Envejecimiento aire método ASTM
 horas oC
 Dureza shore variación máx
@@ -1840,7 +1836,6 @@ Asientos laterales
 Asientos centrales
 Delanteros
 delanteros
-
 Br Br BrNm Ar ArNm
 Br Br BrNm Ar ArNm
 Véanse punto condiciones permite cinturón subabdominal
@@ -2266,7 +2261,6 @@ relevante comprender situación financiera entidad presentará situación financ
 entidad presente separado situación financiera activos pasivos corrientes corrientes clasificará activos pasivos impuestos diferidos activos pasivos corrientes
 Norma prescribe orden formato concreto entidad presentará partidas
 párrafo simplemente enumera partidas suficientemente naturaleza función justificar presentación separado situación financiera
-
 añadirán partidas tamaño naturaleza función partida agrupación partidas similares tales presentación separado resulte relevante comprender situación financiera entidad
 denominaciones utilizadas ordenación partidas agrupaciones partidas similares modificadas naturaleza entidad transacciones suministrar información relevante comprensión situación financiera entidad
 ejemplo institución financiera modificar denominaciones anteriores proporcionar información relevante operaciones lleve cabo
@@ -2652,7 +2646,6 @@ modelos contables ajuste correspondiente pasivo contratos seguro costes adquisic
 práctica
 cumplir
 análisis sensibilidad muestre haberse visto afectado resultado patrimonio neto variaciones variable relevante riesgo cuya ocurrencia razonablemente ejercicio informa métodos hipótesis utilizados elaborar análisis sensibilidad variación métodos hipótesis ejercicio
-
 añade párrafo
 modificó párrafo
 NIIF Activos corrientes mantenidos venta operaciones interrumpidas
@@ -2771,7 +2764,6 @@ NIC Inmovilizado material
 NIC modifica describe continuación
 párrafos modifican
 incrementa importe libros activo consecuencia revaluación aumento reconocerá directamente resultado global acumulado patrimonio neto encabezamiento superávit revaluación
-
 reduzca disminución reconocerá resultado global medida exista saldo acreedor superávit revaluación relación activo
 disminución reconocida resultado global reduce importe acumulado patrimonio neto encabezamiento superávit revaluación
 párrafo eiv reconocidas revertidas directamente patrimonio neto modifica reconocidas revertidas resultados globales
@@ -2924,7 +2916,6 @@ pérdida deterioro valor asociada activo revaluado reconocerá resultados
 pérdida deterioro valor activo revaluado reconocerá resultado global medida deterioro valor exceda importe superávit revaluación activo
 pérdida deterioro valor correspondiente activo revaluado reduce superávit revaluación activo
 reversión pérdida deterioro valor correspondiente activo revaluado reconoce resultado global incrementa superávit revaluación activo
-
 párrafos directamente patrimonio neto modifica resultado global
 párrafo añade
 modificó párrafos
@@ -2936,7 +2927,6 @@ NIC Activos intangibles
 NIC modifica describe continuación
 párrafos modifican
 incrementa importe libros activo intangible consecuencia revaluación aumento reconocerá resultado global acumulado patrimonio encabezamiento superávit revaluación
-
 reduzca disminución reconocerá resultado global medida existiera saldo acreedor superávit revaluación relación activo
 párrafo resultados modifica cambios resultado
 párrafo eiii directamente patrimonio neto modifica resultado global
@@ -3520,7 +3510,6 @@ consumo energía ponderado EC kWh período horas calculado redondeado número en
 etiqueta encuentre impresa embalaje información detallada incisos II IV punto presente lugar embalaje dicha información omitirse etiqueta
 caso diseño etiqueta escogerá ilustraciones figuran continuación
 diseño etiqueta
-
 especificaciones tamaños figura letra corresponden etiqueta lámpara mm ancho mm alto
 etiqueta imprime formato contenido deberá mantener proporciones citadas especificaciones
 versión etiqueta especificada punto punto medirá mm ancho mm alto versiones especificadas punto medirán mm ancho mm alto mm ancho mm alto respectivamente

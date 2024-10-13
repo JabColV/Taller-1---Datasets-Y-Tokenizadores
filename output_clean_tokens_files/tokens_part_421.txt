@@ -18,7 +18,6 @@ definirse forma
 ángulo expresado milirradianes dirección haz punto característico situado horizontal corte distribución luminosa luz plano horizontal
 tangente ángulo expresada porcentaje inclinación ángulos pequeños ángulos pequeños equivale mrad
 inclinación exprese porcentaje inclinación calcularse fórmula
-
 altura suelo milímetros punto característico anteriormente mencionado medida pantalla vertical perpendicular plano longitudinal vehículo situada distancia horizontal
 altura suelo milímetros centro referencia origen nominal punto característico elegido
 distancia milímetros pantalla centro referencia
@@ -201,10 +200,8 @@ Luces carretera
 forma función
 Función
 Función
-
 Superficie salida luz dispositivo señalización luminosa distinto catadióptrico
 Vehículos categorías arreglo definición figura anexo Resolución consolidada construcción vehículos RE documento TRANS WP Rev Enmienda modificado lugar Enmienda
-
 cumplir requisitos colorimétricos presentar características fotométricas prácticamente idénticas aplica par luces simétricas antiniebla frontales clase
 obligatorio instalar testigo visual avería AFS
 Vr Vr kmh
@@ -214,7 +211,6 @@ sistema luces interdependientes esté instalado componente fijo componente móvi
 proporcionarán medios adecuados informar conductor luces cruce luces posición caso luces gálibo posición laterales encendidas dichos medios consistirán
 condiciones luz ambiente reducidas definen anexo encenderá testigo visual acústico informar conductor encenderse luces cruce activado testigo apagará hayan encendido luces cruce dispositivo encendido apagado motor sistema propulsión esté posición motor sistema propulsión funcionar
 superficies exteriores carrocería fabricadas material flexible marcado línea instalará partes rígidas vehículo
-
 Sistema alumbrado fibras ópticas
 Reglamento UE Comisión
 marzo
@@ -792,7 +788,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -3155,7 +3150,6 @@ DO
 Véase anexo II
 Rec
 ANEXO
-
 Lista sociedades referencia artículo letra inciso
 sociedades constituidas amparo dispuesto Reglamento CE Consejo octubre aprueba Estatuto Sociedad Anónima Europea Directiva CE Consejo octubre completa Estatuto Sociedad Anónima Europea respecta implicación trabajadores sociedades cooperativas incorporadas virtud Reglamento CE Consejo julio relativo Estatuto Sociedad Cooperativa Europea SCE Directiva CE Consejo julio completa Estatuto Sociedad Cooperativa Europea respecta implicación trabajadores
 sociedades Derecho belga denominadas société anonymenaamloze vennootschap société commandite par actionscommanditaire vennootschap op aandelen société privée responsabilité limitéebesloten vennootschap met beperkte aansprakelijkheid société coopérative responsabilité limitéecoöperatieve vennootschap met beperkte aansprakelijkheid société coopérative responsabilité illimitéecoöperatieve vennootschap met onbeperkte aansprakelijkheid société nom collectifvennootschap onder firma société commandite simplegewone commanditaire vennootschap entidades Derecho público adopten formas jurídicas acabadas mencionar sociedades constituidas arreglo Derecho belga sujetas impuesto sociedades belga
@@ -3187,7 +3181,6 @@ sociedades Derecho eslovaco denominadas akciová spoločnosť spoločnosť ruče
 sociedades Derecho finlandés denominadas osakeyhtiöaktiebolag osuuskuntaandelslag säästöpankkisparbank vakuutusyhtiöförsäkringsbolag
 aa sociedades Derecho sueco denominadas aktiebolag försäkringsaktiebolag ekonomiska föreningar sparbanker ömsesidiga försäkringsbolag försäkringsföreningar
 ab sociedades constituidas conformidad Derecho Reino Unido
-
 Lista impuestos referencia artículo letra inciso iii
 impôt des sociétés vennootschapsbelasting Bélgica
 корпоративен данък Bulgaria
@@ -3379,7 +3372,6 @@ carta octubre Alemania remitió aclaraciones Gobierno federado Renania NorteWest
 Comisión solicitó Alemania información complementaria procedimientos bancos regionales carta abril específicamente Helaba cartas mayo agosto
 Alemania respondió cartas junio agosto
 septiembre octubre BdB federado Hesse Helaba debatieron cuestión remuneración adecuada capital aportado banco
-
 carta septiembre BdB formuló observaciones complementarias procedimiento
 continuación Comisión pidió Alemania formulara comentarios remitidos cartas octubre
 DESCRIPCIÓN DETALLADA MEDIDAS
@@ -4318,7 +4310,6 @@ miembro
 Zona
 Fecha aplicable artículo apartado letra inciso iii
 Código
-
 Nombre
 POLONIA
 VOIVODATO MAZOWIECKIE
@@ -4493,7 +4484,6 @@ conviene señalar Irlanda dispone compañías aéreas nacionales tales cedió pa
 impuesto producía efecto compañías aéreas irlandesas distinto
 autoridades irlandesas señalan rutas intracomunitarias sujetas tarifa superior EUR gestionadas predominantemente compañías irlandesas
 período cuestión compañías aéreas poseían cuota mercado aproximada vuelos aplicaba tarifa inferior dominaban mercado vuelos destinos intracomunitarios indica horquilla tratarse información comercial confidencial
-
 autoridades irlandesas argumentaron particular supuestas desventajas esgrimidas Ryanair claramente insostenibles compañía registraba indica horquilla tratarse información comercial confidencial
 pasajeros transportados rutas aplica tarifa inferior véase cuadro
 Cuadro

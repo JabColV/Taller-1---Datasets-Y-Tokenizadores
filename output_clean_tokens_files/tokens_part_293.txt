@@ -82,7 +82,6 @@ servicio información canales capítulo
 información estratégica tráfico capítulo
 gestión esclusas puentes capítulo
 gestión transporte abarca gestión cadena transporte allá sector navegación agentes carga gestores calidad servicio transporte
-
 controlar prestación global gestores flotas navegantes contratados operadores terminales
 controlar evolución operaciones transporte contratadas
 reaccionar amenazas imprevistas puedan afectar fiabilidad dichas operaciones
@@ -856,7 +855,6 @@ ocasionado accidente daños ambiente
 caso deberá facilitarse información requerida secciones
 avanzar sección
 instalaciones
-
 Consecuencias medioambientales
 Información tipo consecuencias medioambientales
 Márquese casilla correspondiente
@@ -974,7 +972,6 @@ Zona
 VIIIc IX aguas UE CPACO
 Fecha
 enero
-
 Corrección errores Reglamento Ejecución UE Comisión agosto modifica Reglamento UE relativo selección explotaciones contables registro rentas explotaciones agrícolas
 Diario Oficial Unión Europea agosto
 página punto anexo relativo anexo Reglamento UE
@@ -1497,13 +1494,11 @@ Normas desarrollo
 Disposiciones transitorias finales
 ANEXO
 LISTA PRODUCTOS REFIERE ARTÍCULO APARTADO
-
 Cereales
 II
 Arroz
 III
 IV
-
 Semillas
 VI
 Lúpulo
@@ -1513,7 +1508,6 @@ VIII
 Lino cáñamo destinados producción fibras
 IX
 Frutas hortalizas
-
 Productos transformados base frutas hortalizas
 XI
 Plátanos
@@ -1600,7 +1594,6 @@ ANEXO XXI
 LISTA PRODUCTOS CONTIENEN AZÚCAR EFECTOS CONCESIÓN RESTITUCIONES EXPORTACIÓN REFIERE SECCIÓN II CAPÍTULO III III
 ANEXO XXII
 TABLAS CORRESPONDENCIAS REFIERE ARTÍCULO
-
 DISPOSICIONES PRELIMINARES
 Artículo
 Ámbito aplicación
@@ -2920,7 +2913,6 @@ miembros interesados deberán informar Comisión plazo campaña comercializació
 perjuicio aplicación artículo apartado artículo apartado frase Tratado diciembre Alemania conceder ayudas virtud Monopolio Alemán Alcohol productos transformación comercializados monopolio alcohol etílico origen agrícola refiere anexo Tratado
 importe ayuda superar millones EUR anuales
 Alemania presentará anualmente Comisión junio informe funcionamiento sistema
-
 DISPOSICIONES ESPECÍFICAS DETERMINADOS SECTORES
 Artículo
 Canon promoción sector leche productos lácteos
@@ -3192,10 +3184,8 @@ Malta cebada cereales tostada
 Raíces mandioca yuca arruruz salep aguaturmas patacas batatas boniatos camotes raíces tubérculos similares ricos fécula inulina frescos refrigerados congelados secos troceados pellets médula sagú
 Harina cereales trigo morcajo tranquillón
 Harina maíz
-
 cebada
 avena
-
 Grañones sémola pellets cereales grañones sémola trigo subpartida arroz subpartida pellets arroz subpartida
 Granos cereales trabajados ejemplo mondados aplastados copos perlados troceados quebrantados excepción arroz partida copos arroz subpartida germen cereales entero aplastado copos molido
 Harina sémola polvo sagú raíces tubérculos partida
@@ -3601,7 +3591,6 @@ Paja cascabillo cereales bruto picados molidos prensados pellets
 Nabos forrajeros remolachas forrajeras raíces forrajeras heno alfalfa trébol esparceta coles forrajeras altramuces vezas productos forrajeros similares pellets
 Harina pellets alfalfa excluidos alfalfa desecada artificialmente alfalfa desecada procedimiento molida
 Remolachas nabos raíces forrajeras
-
 Alfalfa esparceta trébol altramuces vezas productos forrajeros análogos deshidratados artificialmente desecado calor exclusión heno coles forrajeras productos contengan heno
 Alfalfa esparceta trébol altramuces vezas trébol olor almorta serradella desecados procedimiento molidos
 Grasa animales especies bovina ovina caprina partida
@@ -3835,11 +3824,8 @@ Clase conformación
 perfiles extremadamente convexos desarrollo muscular excepcional dobles músculos tipo culón
 Excelente
 perfiles convexos superconvexos desarrollo muscular excepcional
-
 Perfiles convexos conjunto fuerte desarrollo muscular
-
 Perfiles rectilíneos conjunto desarrollo muscular
-
 Perfiles rectilíneos cóncavos desarrollo muscular
 Mediocre
 perfiles cóncavos cóncavos escaso desarrollo muscular
@@ -3870,12 +3856,6 @@ entenderá canal cuerpo cerdo sacrificado sangrado eviscerado entero dividido mi
 canales dividirán clases función contenido estimado carne magra clasificarán consecuencia
 Clase
 Contenido carne magra expresado porcentaje peso canal
-
-
-
-
-
-
 canales presentarán lengua cerdas pezuñas órganos genitales manteca riñones diafragma
 refiere cerdos sacrificados territorio miembros autorizados prever presentación canales cerdo cumple siguientes condiciones
 práctica comercial normalmente seguida territorio aparte presentacióntipo definida párrafo
@@ -4977,7 +4957,6 @@ importe percibirá tonelada cuota suplementaria asignada
 miembro someter consideración Consejo decisiones adoptadas Comisión virtud apartados plazo hábiles siguientes comunicación
 mayoría cualificada modificar revocar decisión cuestión plazo mes fecha sometido
 Comisión considere medida salvaguardia adoptada conformidad apartados deba derogarse modificarse actuará
-
 presentar sabor olor extraños
 arrendamiento fábrica contrato arrendamiento unidad técnica contenga instalaciones necesarias fabricación azúcar miras explotación celebrado período campañas comercialización consecutivas mínimo partes comprometan finalizar terminación campaña empresa establecida miembro fábrica entrada vigor arrendamiento empresa arrendataria considerada empresa productora azúcar producción
 carne aves corral fresca carne aves corral deba mantenerse permanentemente temperatura comprendida oC oC frío llegue provocar rigidez obstante miembros establecer requisitos temperatura corte almacenamiento carne aves corral fresca realice establecimientos minoristas locales adyacentes puntos venta corte almacenamiento realizan únicamente fines suministro directo in situ consumidor

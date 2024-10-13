@@ -244,7 +244,6 @@ Decisión modificada Decisión CE DO
 ANEXO
 anexo Decisión CE sustituye
 ANEXO
-
 Zona contemplada artículo apartado
 Código país ISO
 miembro
@@ -262,7 +261,6 @@ Código postal
 Localidad
 Zona protección
 Zona vigilancia ampliada km
-
 Zona contemplada artículo apartado
 Zona
 municipios
@@ -912,7 +910,6 @@ Carbonato manganeso
 procede
 especies destinadas producción alimentos
 exige LMR
-
 Aparato digestivo metabolismo suplementos minerales
 Decisión Consejo
 junio
@@ -1245,7 +1242,6 @@ identificación inequívoca poseedores CAM múltiple campos crea confusión amba
 campos numeración corrección puedan relacionarse inequívoca líneas corrección líneas corregirse
 Campos control calidad permitirán mejorar calidad datos
 Descripción cambio
-
 Tamaño incrementado caracteres
 caracteres iniciales campo descripción materiales Reglamento Euratom
 Tercer carácter campo descripción materiales Reglamento Euratom
@@ -1276,7 +1272,6 @@ TC FC GA CE CB BR PR SR NP NL BJ MF
 Suprimidos LD WD EU DU CU declarados actualización BTC NT diferenciación NP NL NC sustituido notificación inventario contable mes IC code BA
 NV NG NB NC
 Suprimido
-
 Etiquetas LIF
 etiquetas nivel informe preceptivas
 figurar informe encabezamiento
@@ -1339,7 +1334,6 @@ Declaración cambio categoría
 Reglamento Euratom propone IC codes declarar cambio categoría CC CB CE
 Tipo ZBM típico
 Operación
-
 Cambio categoría convención PSP consecuencia evento transformación nuclear
 Planta fabricación combustible Planta reprocesado
 Cambio categoría consecuencia operación mezcla
@@ -1688,21 +1682,10 @@ Corrección instalación correspondiente
 Anulación importación
 Corrección peso elemento
 Adición venta notificada
-
-
 Revisión
-
-
 equipo cliente EXC
-
-
-
 Anulada
-
-
-
 Venta equipo cliente
-
 notificada
 envía declaración número utilizando anexo Comisión
 Corregir instalación correspondiente identifica cliente compró equipo octubre
@@ -1720,7 +1703,6 @@ Fecha lugar envío informe
 Fecha declaración
 Declaración
 Ejemplo información NEGRITAS errónea continuacion
-
 corregir peso elemento equipo vendido cliente EUC notificado declaración asiento enviarse declaración Comisión asiento asiento
 BA notificado declaración asiento ajustarse asiento asiento
 Fecha lugar envío informe
@@ -1904,8 +1886,6 @@ años entrada vigor persona empresa preparada empezar anexos III IV Reglamento E
 contrario transcurrido período años persona empresa preparada empezar anexos III IV Reglamento Euratom deberá dirigir Comisión solicitud prórroga años presentar tiempo plan ejecución
 aclararse propósito Comisión introducir procedimiento solicitud prórroga efectuar seguimiento avances persona empresa introducción formularios notificación ejercicio concluir totalidad período años previsto Reglamento
 RESUMEN OBLIGACIONES INFORMACIÓN
-
-
 persona empresa constituya explote instalación producción separación reprocesado almacenamiento material nuclear producción energía reactores investigación instalaciones críticas energía cero conversión fabricación reprocesado almacenamiento separación isótopos producción mineral concentración mineral tratamiento almacenamiento residuos
 fecha prevista recepción materiales nucleares
 BTC anexo
@@ -2047,15 +2027,6 @@ Servicio asistencia
 ICI contenga cambios inventario febrero finales febrero
 Fecha lugar envío informe Godlinster marzo
 Nombre cargo firmante du Mont Joly director técnico
-
-
-
-
-
-
-
-
-
 Fecha declaración
 Fecha declaración
 Fecha declaración
@@ -2065,12 +2036,9 @@ Fecha transferencia NUCLEAR CAFAM
 Ltd país origen UE
 Fecha lugar envío informe Godlinster
 artículos aplicables transferencias materiales básicos materiales fisionables especiales materiales nucleares contenidos residuos minerales
-
 CRC Ejemplo código
 refiere esquema XML algoritmo CRC sitio preguntas frecuentes httpforumeuropaeuint
 refiere información general acerca XML httpwwwxmlorg
-
-
 Radiographie
 Torio
 Plutonio
@@ -2183,7 +2151,6 @@ ADOPTADO PRESENTE DECISIÓN
 Artículo
 anexo II Decisión CE entrada correspondiente Argentina inserta entrada correspondiente Brasil
 Brasil BR
-
 XXX
 Artículo
 destinatarios presente Decisión miembros
@@ -2248,7 +2215,6 @@ DO
 DO
 Proyecto
 DECISIÓN COMITÉ MIXTO UESUIZA
-
 adopta reglamento interno Comité mixto instituye grupo trabajo
 COMITÉ MIXTO
 Visto celebrado junio Comunidad Europea Confederación Suiza facilitación controles formalidades transporte mercancías medidas aduaneras seguridad particular artículo apartados
@@ -3798,7 +3764,6 @@ DO
 DO
 ANEXO
 SOLICITUDES AUTORIZACIÓN PESCA BUQUES TERCEROS PAÍSES
-
 Buques naveguen pabellón Noruega
 solicitudes buques naveguen pabellón Noruega indicarán
 indicativo internacional llamada radio
@@ -4049,7 +4014,6 @@ POA
 HOM
 SAN
 Limanda nórdica Limanda ferruginea
-
 LIN
 BLI
 WHG
@@ -4360,7 +4324,6 @@ Interpretación aplicará tales transacciones contraprestación identificable re
 obstante Interpretación aplicará transacciones excluidas ámbito aplicación NIIF párrafos dicha NIIF
 Cuestión
 problema Interpretación NIIF aplicable transacciones entidad identificar forma específica bienes servicios recibidos
-
 NIIF aplicará transacciones reciban bienes servicios tales transacciones entidad reciba bienes servicios cambio instrumentos patrimonio
 incluye transacciones entidad identificar forma específica bienes servicios recibidos
 puedan identificar específicamente bienes servicios circunstancias indicar recibido recibirán cuyo caso aplicará NIIF

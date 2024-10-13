@@ -1412,7 +1412,6 @@ Temperatura nominal IEE °C
 diseño
 número
 Tipos compartimento
-
 Conservación vinos
 Bodega
 Conservación alimentos frescos
@@ -1466,7 +1465,6 @@ Compartimento armario congelador alimentos estrellas
 CÁLCULO VOLUMEN EQUIVALENTE
 volumen equivalente aparato refrigeración doméstico suma volúmenes equivalentes compartimentos
 calcula litros redondea número entero fórmula
-
 número compartimentos
 Vc volumen útil compartimento compartimentos
 Tc temperatura nominal compartimento compartimentos indicada cuadro
@@ -2335,7 +2333,6 @@ grupos
 cantidad aproximada
 años cosecha
 tipos arroz
-
 cantidad arroz cáscara almacenada actualmente organismo intervención italiano importante período almacenamiento resulta conveniente convocar licitación permanente reventa mercado interior cerca toneladas arroz cáscara posesión organismo
 Milano Tel
 Reglamento CE Comisión
@@ -2482,24 +2479,9 @@ añaden artículos siguientes
 Artículo quater
 Coto eglefino Rockall subzona CIEM VI
 totalmente prohibida pesca eglefino Rockall realizada palangre zonas circundadas líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
-
-
-
 Artículo quinquies
 Restricciones aplicables pesca bacalao eglefino merlán subzona CIEM VI
 prohibida actividad pesquera dirigida bacalao eglefino merlán división CIEM VIa situada sur líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
-
-
-
-
-
-
-
-
-
-
-
-
 buque pesquero encuentre zona refiere apartado presente artículo deberá cerciorarse artes pesca lleve bordo permanezcan trincados amarrados dispuesto artículo Reglamento CE Consejo noviembre establece régimen comunitario control garantizar cumplimiento normas política pesquera común
 obstante dispuesto apartado autorizará pesca zona refiere apartado redes estáticas litorales fijadas estacas rastras vieiras rastras mejillones líneas mano poteras mecanizadas redes tiro jábegas nasas condición
 único mantenga bordo desembarque lleve orilla caballas abadejos carboneros salmones marisco distinto moluscos crustáceos
@@ -2520,11 +2502,6 @@ arte pesca fabricado mallas cuya dimensión mínimo milímetros
 peso capturas conservadas cigala
 Comisión adoptará basándose dictamen favorable CCTEP actos ejecución determinar artes pesca proporcionan selectividad elevada equivalente efectos letra
 apartado aplicará zona circundada líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
-
-
-
-
-
 obstante dispuesto apartado permitido pescar redes arrastre jábegas demersales artes similares zona establecida apartado
 redes estén bordo buque hayan fabricado mallas cuya dimensión mínimo milímetros buques cuya eslora superior metros milímetros buques
 capturas mantenidas bordo incluyen carbonero arte pesca empleado incorpore puerta red malla cuadrada describe anexo XIV quater
@@ -2532,10 +2509,6 @@ eslora buque inferior metros independencia capturas carbonero mantenga bordo art
 tardar enero fecha tardar años Comisión evaluará teniendo asesoramiento científico CCTEP características artes especificados apartado proceda presentará Parlamento Europeo Consejo propuesta modificación apartado
 apartado aplicará zona circundada líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
 enero marzo octubre diciembre año prohibida actividad pesquera cualesquiera artes especificados anexo Reglamento CE Consejo diciembre establece plan plazo poblaciones bacalao pesquerías explotan zona especificada zona CIEM VIa circundada líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
-
-
-
-
 capitanes buques pesqueros persona encuentre bordo propiciarán permitirán persona bordo embarcación intente pescar desembarcar transbordar bordo pescado procedente zona especificada
 miembro interesado establecerá programa observación bordo desarrollará años enero diciembre obtener muestras capturas descartes realizados buques benefician excepciones establecidas apartados
 programas observación llevarán cabo perjuicio obligaciones impuestas normas respectivas objeto calcular cantidad capturas descartes bacalao eglefino merlán precisión inferior
@@ -2551,32 +2524,8 @@ Artículo septies
 Normas especiales protección maruca azul
 período comprendido marzo mayo año prohibido mantener bordo cantidad maruca azul superior toneladas marea zonas división CIEM VIa circundadas líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
 Borde plataforma continental Escocia
-
-
-
-
-
-
-
-
-
-
-
-
-
 Borde Rosemary bank
-
-
 Excluida zona circundada líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
-
-
-
-
-
-
-
-
-
 entrar zona indicada apartado salir capitán buque pesquero consignará cuaderno diario fecha hora lugar entrada salida
 cualquiera zonas indicadas apartado buque alcanza toneladas maruca azul
 deberá interrumpir inmediatamente pesca salir zona encuentre
@@ -2585,11 +2534,6 @@ devolver mar cantidad maruca azul
 observadores referencia artículo Reglamento CE Consejo diciembre establecen modalidades específicas acceso condiciones aplicables pesca poblaciones aguas profundas asignados buques pesqueros encuentren zonas mencionadas apartado cabo tareas contemplan apartado artículo deberán muestras apropiadas capturas maruca azul medir pescado muestras determinar fase madurez sexual pescado presente submuestras
 base asesoramiento CCTEP miembros elaborarán protocolos muestreo detallados procederán cotejo resultados
 período comprendido febrero abril año prohibida utilización redes arrastre fondo palangres fondo redes enmalle fondo zona circundada líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
-
-
-
-
-
 Artículo octies
 Medidas pesca gallineta nórdica aguas internacionales subzonas CIEM II
 pesca dirigida gallineta nórdica aguas internacionales subzonas CIEM II autorizará período comprendido julio diciembre año buques hayan pescado especie zona regulación CPANE definida artículo apartado Reglamento UE Parlamento Europeo Consejo diciembre establece régimen control ejecución aplicable zona Convenio futura cooperación multilateral caladeros Atlántico Nororiental
@@ -2606,14 +2550,6 @@ Artículo nonies
 Medidas pesca gallineta nórdica Mar Irminger aguas adyacentes
 prohibido pescar gallineta nórdica aguas internacionales subzona CIEM aguas Unión subzonas CIEM XII XIV
 obstante dispuesto apartado permitirá pescar gallineta nórdica mayo diciembre zona circundada líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS zona protección gallineta nórdica
-
-
-
-
-
-
-
-
 obstante dispuesto apartado permitirse virtud acto legislativo Unión pesca gallineta nórdica zona protección gallineta nórdica Mar Irminger aguas adyacentes mayo diciembre año base asesoramiento científico condición CPANE establecido plan recuperación atañe gallineta nórdica zona geográfica
 actividad pesca participarán únicamente buques Unión cuenten debida autorización miembro respectivo hayan notificados Comisión artículo Reglamento UE
 prohibido utilizar redes arrastre malla inferior milímetros
@@ -2652,7 +2588,6 @@ febrero abril quedará prohibido utilizar redes arrastre fondo redes tiro artes 
 costa oriental Irlanda costa oriental Irlanda Norte
 líneas rectas unen secuencialmente siguientes coordenadas geográficas
 punto situado costa oriental península Ards Irlanda Norte
-
 punto situado costa oriental Irlanda
 obstante dispuesto apartado lugar período especifican
 autorizará redes arrastre demersal puertas condición lleve bordo tipo arte pesca tales redes
@@ -2660,16 +2595,10 @@ presenten intervalos dimensión malla milímetros milímetros
 pertenezcan categorías dimensión malla autorizadas
 contengan malla individual independientemente lugar red encuentre dimensión superior milímetros
 calen únicamente zona circundada líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
-
-
-
-
-
 autorizará redes arrastre fondo redes tiro red arrastre similar red selectiva rejilla separadora lleve bordo tipo arte pesca dichas redes
 cumplan condiciones establecidas letra
 caso redes selectivas estén fabricadas especificaciones técnicas recogidas anexo Reglamento CE Consejo febrero establecen medidas aplicables año vistas recuperación población bacalao Mar Irlanda División CIEM VIIa yen caso rejillas separadoras ajusten dispuesto puntos anexo XIV bis presente Reglamento
 redes arrastre fondo redes tiro red arrastre similar red selectiva rejilla separadora permitido zona circundada líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
-
 Artículo ter
 Utilización redes enmalle divisiones CIEM IIIa IVa Vb VIa VIb VII subzonas CIEM VIII IX XII longitud oeste
 buques Unión calarán redes enmalle fondo redes enredo trasmallos posición profundidad indicada cartas batimétricas superior metros divisiones CIEM IIIa IVa Vb VIa VIb VII subzonas CIEM VIII IX XII
@@ -2730,113 +2659,19 @@ Artículo quinquies
 Medidas protección hábitats vulnerables aguas profundas zona regulación CPANE
 Estarán prohibidas pesca arrastre fondo pesca artes fijos incluidos redes enmalle fondo palangres fondo zonas delimitadas líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
 cordillera submarina Reykjanes
-
-
-
-
-
-
 Dorsal atlántica septentrional
-
-
-
 Dorsal atlántica central zona fractura CharlieGibbs región frontal subpolar
-
-
-
-
-
 Dorsal atlántica meridional
-
-
-
 Montes submarinos Altair
-
-
 Montes submarinos Antialtair
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 North West Rockall
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 curso actividad pesquera zonas pesca fondo actuales zonas pesca fondo zona regulación CPANE cantidad coral vivo esponjas vivas capturada arte utilizado exceda kg coral vivo kg esponjas vivas buque informará pabellón interrumpirá pesca alejará millas náuticas mínimo posición datos disponibles parezca cercana lugar exacto dicha captura
 Artículo sexies
 Medidas protección hábitats vulnerables aguas profundas divisiones CIEM VIIc
 Estarán prohibidas pesca arrastre fondo pesca artes fijos incluidos redes enmalle fondo palangres fondo zonas delimitadas líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema coordenadas WGS
 Bélgica Mound Province
-
-
-
-
-
-
-
-
-
-
-
 NorthWest Porcupine Bank Zona
-
-
-
-
-
-
 NorthWest Porcupine Bank Zona II
-
-
-
-
-
-
-
-
 buques pesca pelágica faenen zonas protección hábitats vulnerables aguas profundas establecidas apartado presente artículo deberán figurar lista buques autorizados obtener autorización pesca conformidad artículo Reglamento CE
 buques incluidos lista buques autorizados llevarán bordo artes pesca pelágicos exclusivamente
 buques pesca pelágica tengan propósito faenar zonas protección hábitats vulnerables aguas profundas establecidas apartado presente artículo notificarán horas antelación intención entrar dicha zona centro seguimiento pesca Irlanda arreglo definición artículo apartado Reglamento CE
@@ -2848,8 +2683,6 @@ ejercicio pesca especies pelágicas zonas protección hábitats vulnerables agua
 Artículo septies
 Medidas protección hábitats vulnerables aguas profundas división CIEM VIIIc
 Estarán prohibidas pesca arrastre fondo pesca artes fijos incluidos redes enmalle fondo palangres fondo zona delimitada líneas loxodrómicas unen secuencialmente siguientes coordenadas calculadas sistema WGS
-
-
 obstante prohibición establecida apartado buques hayan actividades pesqueras palangres fondo dirigidas brótola fango obtener autoridades pesca autorización pesca conformidad artículo Reglamento CE autorice mantener actividad pesquera zona situada sur buques hayan obtenido autorización pesca independencia eslora deberán utilizar SLB seguro operativo pleno funcionamiento cumpla plenamente normas respectivas faenen zonas establecidas apartado
 suprime artículo
 suprime artículo
@@ -2890,7 +2723,6 @@ Categorías dimensión malla especies principales porcentajes captura aplicables
 Especie
 Categoría dimensión malla milímetros
 Porcentaje mínimo especies principales
-
 Lanzones Ammodytidae
 Lanzones Ammodytidae
 Faneca noruega Trisopterus esmarkii
@@ -3465,7 +3297,6 @@ Muestra
 luz
 luz
 ambas luces
-
 muestra
 Muestra
 ambas luces
@@ -3876,7 +3707,6 @@ sociedades Derecho Reino Unido denominadas companies incorporated with limited l
 DO
 Reglamento modificado lugar Reglamento CE DO
 ANEXO II
-
 Directiva derogada lista sucesivas modificaciones
 contemplada artículo apartado
 Directiva CEE Consejo
@@ -3899,7 +3729,6 @@ Punto XIBI anexo Acta adhesión
 DO
 Punto anexo II Acta adhesión
 DO
-
 Lista plazos transposición Derecho nacional
 Directiva
 Plazos transposición Derecho nacional

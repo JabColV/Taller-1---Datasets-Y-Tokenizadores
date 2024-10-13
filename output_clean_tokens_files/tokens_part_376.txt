@@ -740,23 +740,16 @@ objeto
 Ayuda única
 Crédito
 WIBOR
-
 anexos
 Datos disponibles
 USD
-
 USD
-
 anexos
 WIBOR
-
 Cuadro
 Ayudas estatales adicionales concedidas Astillero Szczecin junio septiembre datos facilitados autoridades polacas
-
 Astillero Szczecin ARP concesión ayuda estatal forma inyección capital
 OPP
-
-
 OPP
 Intercambio deuda obligaciones
 Cuadro
@@ -3499,12 +3492,10 @@ PRESUPUESTO PROGRAMAS APOYO
 contemplados artículo apartado
 miles EUR
 Ejercicio presupuestario
-
 límites máximos nacionales Italia contemplados anexo VIII Reglamento CE correspondientes años reducirán millones EUR incluido importes presupuesto destinados Italia ejercicios presupuestarios quedan establecidos cuadro
 ANEXO III
 DOTACIÓN PRESUPUESTARIA DESARROLLO RURAL
 véase artículo apartado
-
 ANEXO IV
 CATEGORÍAS PRODUCTOS VITÍCOLAS
 Vino
@@ -4474,10 +4465,7 @@ responsable indemnizaciones pagarse caso futuros despidos derivados paralizació
 AVR Holding responderá resultados negativos consecuencias incumplimiento determinadas exigencias relativas calidad seguridad ambiente modificación exigencias medioambientales autorizó excepción determinada discutirla
 disposiciones particulares relativas posibilidad ajuste alza ayuda casos específicos temperatura autorizada cámara postcombustión posibilidad ahorros utilizando combustibles secundarios deberían experimentarse cuestión legislación impone pago impuestos especiales residuos oleosos
 Resultados
-
-
 real
-
 Ingresos residuos hornos
 Ingresos residuos
 Ingresos vapor
@@ -4879,7 +4867,6 @@ cosechados procesados marzo
 originarios proceden prefectura distinta Fukushima Gunma Ibaraki Tochigi Miyagi Yamagata Niigata Nagano Yamanashi Saitama Tokio Chiba
 originarios proceden prefecturas Fukushima Gunma Ibaraki Tochigi Miyagi Yamagata Niigata Nagano Yamanashi Saitama Tokio Chiba sometidos muestreo fecha objeto análisis laboratorio fecha nombre laboratorio determinar nivel radionucleidos yodo cesio cesio resultado analíticos conformes tolerancias máximas mencionadas artículo apartado
 adjunta informe análisis
-
 Sello firma representante autorizado autoridad competente mencionada artículo apartado
 rellenarla autoridad competente PIF PED
 envío aceptado presentación cara despacho libre práctica autoridades competentes Unión Europea
@@ -4954,7 +4941,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4968,7 +4954,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4982,7 +4967,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri

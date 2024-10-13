@@ -1160,7 +1160,6 @@ partes interesadas alegaron beneficios importadores serían altos soportar aumen
 afirmación suficientemente fundada
 muestra cuadro orden magnitud beneficios importadores permite pensar disponen margen absorber costes mencionados
 afirmado dato empleo relativo importadores personas incluir empleos valor añadido Unión
-
 dato empleo importadores calculado base datos empleo comprobados importadores muestreados incluyen empleos añaden valor elevado diseño márketing ID imagen marca etc atribuirse producto afectado
 datos empleo comprobados sumaron vincularon volumen importación producto afectado correspondiente importadores muestreados
 extrapoló resultado volumen importaciones procedentes países afectados
@@ -2312,7 +2311,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -2326,7 +2324,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -2340,7 +2337,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -2822,7 +2818,6 @@ accidentes pasos nivel incluidos accidentes afecten peatones pasos nivel
 accidentes causados personas material rodante movimiento excepción suicidios
 suicidios
 incendios material rodante
-
 informará accidente arreglo tipo accidente primario consecuencias accidente secundario fueran graves ejemplo incendio descarrilamiento
 Número relativo relación kilómetrostren heridos graves víctimas mortales tipo accidente desglosado siguientes categorías
 pasajeros relación número pasajeroskilómetro
@@ -3785,7 +3780,6 @@ DO
 DO
 DO
 ANEXO
-
 Bienes tecnología refieren artículo apartados artículo apartado artículo apartado artículo artículo apartado artículo apartado artículo apartado
 presente anexo comprende bienes tecnología enumerados anexo Reglamento CE definen excepción siguientes
 Epígrafe anexo Reglamento CE
@@ -3813,7 +3807,6 @@ artículo somete control
 equipo lógico software necesario utilización equipos excluidos control nota artículo
 equipo lógico software efectúe cualquiera funciones equipos excluidos control nota artículo
 Tecnología Nota General Tecnología utilización equipos incluidos artículo Aa equipo lógico especificado subartículos Dc lista
-
 artículo aplicable siguientes bienes
 Reactores nucleares equipos componentes diseñados especialmente preparados indica
 Reactores nucleares

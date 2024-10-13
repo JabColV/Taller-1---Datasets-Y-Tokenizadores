@@ -1224,12 +1224,10 @@ DO
 Táchese proceda
 ANEXO
 Partes territorio Bulgaria mencionadas artículo letras respectivamente
-
 Código ISO país
 Nombre país
 Descripción territorio
 territorio Bulgaria
-
 Bulgaria condados
 Veliko Tarnovo zona norte carretera
 Reglamento UE Comisión
@@ -1885,7 +1883,6 @@ categorías NACE rev
 categorías tamaño empresas función número personas ocupadas
 muestra calculará garantice valor máximo semilongitud intervalo confianza parámetros estimados proporción empresas formadoras deducida tasa respuesta muestra estratos determinados anteriormente
 definir tamaño muestra utilizarse fórmula
-
 número unidades muestreo casilla estrato considerado
 tasa respuesta anticipada casilla estrato considerado
 valor máximo semilongitud intervalo confianza
@@ -2076,14 +2073,10 @@ Cb
 Db
 Dc
 Dd
-
 Df
-
 Db
 Dc
 Dd
-
-
 Costes elevados cursos formación profesional permanente
 Directiva UE Parlamento Europeo Consejo
 abril
@@ -2212,7 +2205,6 @@ nivel mínimo grados Brix establece anexo zumo frutas reconstituido puré frutas
 Ingredientes autorizados
 productos contemplados añadir siguientes ingredientes
 vitaminas minerales autorizados Reglamento CE Parlamento Europeo Consejo diciembre adición vitaminas minerales sustancias determinadas alimentos aditivos alimentarios autorizados Reglamento CE
-
 zumos frutas zumos frutas concentrado zumos frutas concentrados aromas pulpas células restituidos
 zumo uva sales ácidos tartáricos restituidas
 néctares fruta aromas pulpas células restituidos azúcares miel cantidad superior peso peso productos acabados edulcorantes
@@ -3711,7 +3703,6 @@ hongos pienso alimento compuesto contiene productos originarios prefecturas Yama
 piensos alimentos incluidos anexo IV Reglamento Ejecución UE pienso alimento compuesto contiene productos originarios prefecturas Fukushima Gunma Ibaraki Tochigi Miyagi Saitama Chiba Iwate sometidos muestreo fecha objeto análisis laboratorio fecha nombre laboratorio determinar nivel radionúclidos cesio cesio
 piensos alimentos origen desconocido contienen ingredientes origen desconocido sometido muestreo fecha objeto análisis laboratorio fecha nombre laboratorio determinar nivel radionúclidos cesio cesio
 adjunta informe análisis
-
 Sello firma representante autorizado refiere artículo apartados Reglamento Ejecución UE
 ANEXO II
 Tolerancias máximas alimentos Bq kg establecidas legislación japonesa
@@ -4487,7 +4478,6 @@ Organización NOMBRE DIRECCIÓN EMPRESA
 Tipo serie grupo aeronave
 Revisión aeronavegabilidad autorizada
 Organización organizaciones trabajan sistema calidad
-
 presente lista aprobación limita especificado sección alcance aprobación memoria gestión mantenimiento aeronavegabilidad aprobada arreglo anexo sección subparte Reglamento CE
 Referencia memoria gestión mantenimiento aeronavegabilidad
 Formulario EASA
@@ -4983,7 +4973,6 @@ Organización NOMBRE DIRECCIÓN EMPRESA
 Tipo serie grupo aeronave
 Revisión aeronavegabilidad autorizada
 Organización organizaciones trabajan sistema calidad
-
 presente lista aprobación limita especificado sección alcance aprobación memoria gestión mantenimiento aeronavegabilidad aprobada arreglo anexo sección subparte Reglamento CE
 Referencia memoria gestión mantenimiento aeronavegabilidad
 Formulario EASA

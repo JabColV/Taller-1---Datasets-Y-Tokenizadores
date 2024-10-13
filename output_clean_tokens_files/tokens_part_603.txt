@@ -209,7 +209,6 @@ mínimos VMC espacio aéreo clase incluyen orientación suponen aceptación vuel
 altura altitud transición pies AMSL debería utilizarse FL lugar pies
 aviones categorías operarse visibilidades vuelo correspondiente autoridad ATS permita utilización visibilidad vuelo inferior km circunstancias tales probabilidad encuentros tráfico baja IAS kt inferior
 Clase espacio aéreo
-
 pies AMSL pies terreno ateniéndose valores
 pies AMSL pies terreno ateniéndose valores
 Distancia nubes
@@ -558,7 +557,6 @@ Alternativamente casos número asientos disponible aplicables valores masa adult
 efectos cuadro vuelo chárter vacaciones significa vuelo chárter prevé únicamente elemento paquete viaje vacaciones
 aplicarán valores masa chárter vacaciones asientos pasajeros instalados avión utilicen transporte gratuito categorías pasajeros
 Asientos pasajeros
-
 adultos
 Hombres
 Mujeres
@@ -582,7 +580,6 @@ Tipo vuelo
 Masa normalizada equipaje
 Nacional
 región europea
-
 operador desea utilizar valores normalizados masa distintos figuran cuadros deberá informar Autoridad motivos obtener aprobación previa
 deberá presentar aprobación plan detallado estudio pesaje aplicar método análisis estadístico incluye apéndice OPS
 verificación aprobación Autoridad resultados estudio pesaje valores normalizados masa revisados aplicables únicamente operador
@@ -631,7 +628,6 @@ Número aviones deberán pesarse obtener valores flota
 número aviones flota utilizan valores flota operador deberá mínimo período evaluaciones masa flota número determinado aviones define cuadro
 Número mínimo aviones flota
 Número mínimo pesajes
-
 elegir aviones pesarán deberían seleccionar aviones flota cuyo pesaje transcurrido período tiempo
 intervalo evaluaciones masa flota deberá exceder meses
 Procedimiento pesaje
@@ -970,7 +966,6 @@ Botiquines auxilios
 operador explotará avión esté equipado botiquines auxilios situados lugares accesibles arreglo baremo
 Número asientos pasajeros instalados
 Número botiquines auxilios necesarios
-
 operador garantizará botiquines auxilios
 inspeccionados periódicamente asegurarse medida contenido mantiene condiciones necesarias previsto
 reaprovisionados periódicamente instrucciones etiquetas justifiquen circunstancias
@@ -1040,7 +1035,6 @@ deberá disponer mínimo extintor portátil fácilmente accesible utilización c
 numero extintores portátiles mínimo deberá convenientemente situado compartimentos pasajeros
 Configuración máxima aprobada asientos pasajeros
 Número extintores
-
 requieran extintores deberán distribuidos uniforme compartimento pasajeros
 mínimo extintores situados compartimento pasajeros aviones configuración máxima aprobada asientos pasajeros mínimo extintores situados compartimentopara pasajeros aviones configuración máxima aprobada asientos pasajeros deberán contener halón bromoclorodifluorometano CBrCIF equivalente agente extintor
 Hachas palancas pata cabra
@@ -1066,7 +1060,6 @@ operador explotará avión configuración máxima aprobada asientos pasajeros tr
 cabina pasajeros
 Configuración asientos pasajeros
 Número megáfonos requerido
-
 caso aviones cabina pasajeros configuración asientos pasajeros requerirá mínimo megáfono cabina
 Iluminación emergencia
 operador explotará avión transporte pasajeros configuración máxima aprobada asientos pasajeros disponga sistema iluminación emergencia dotado fuente alimentación independiente facilitar evacuación avión
@@ -3806,9 +3799,7 @@ DO
 Corrección errores Reglamento UE Consejo diciembre medidas relacionadas comercio encaminadas garantizar suministro determinados productos pesca transformadores Unión modifican Reglamentos CE UE
 Diario Oficial Unión Europea diciembre
 página anexo número orden columna cuarta Descripción producto
-
 Camarones langostinos especie Pandalus borealis frescos refrigerados congelados destinen transformación
-
 Camarones langostinos especie Pandalus borealis frescos refrigerados congelados destinen transformación
 página anexo número orden columna Código NC
 página anexo número orden columna Código TARIC
@@ -4595,27 +4586,20 @@ ANEXO
 anexo Decisión CE queda modificado
 ZweiPunkteMessverfahren ZP punto sustituye texto
 contenido carne magra canal calculará fórmula
-
-
 porcentaje estimado carne magra canal
 medida grasa regla cálculo espesor mínimo tocino incluida corteza recubre gluteus medius hendidura central milímetros
 medida carne regla cálculo distancia corta craneal gluteus medius borde superior dorsal canal vertebral milímetros
 fórmula válida canales peso comprendido kilogramos
 FatOMeater FOM punto sustituye texto
-
 espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal penúltima antepenúltima costilla
 espesor músculo milímetros medido tiempo lugar
 Hennessy Grading Probe HGP punto sustituye texto
-
 espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal antepenúltima costilla
 UltraFOM punto sustituye texto
 contenido carne magra canal calculará fórmula
-
 espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal penúltima antepenúltima costilla medida denominada
 Ultrasound ISD punto sustituye texto
-
 Needle ISD punto sustituye texto
-
 espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal penúltima antepenúltima costilla
 fórmula válida canales peso comprendido kilogramos
 orejas habrán retirado clasificar canal presentación tipo peso registrado canal caliente ajustará fórmula

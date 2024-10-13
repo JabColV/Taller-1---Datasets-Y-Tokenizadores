@@ -201,7 +201,6 @@ Directiva modificada Reglamento CE DO
 DO
 DO
 Anexo
-
 Términos mencionados artículo apartado párrafo letra
 Código lengua
 яйца от кокошки свободно отглеждане на открито
@@ -273,7 +272,6 @@ Häkkikanojen munia
 Ägg från utehöns
 Ägg från frigående höns inomhus
 Ägg från burhöns
-
 Términos mencionados artículo apartado párrafo cuarto
 уголемени клетки
 Jaulas acondicionadas
@@ -478,15 +476,11 @@ cuadro indica correspondencias distintos sistemas calificación reconocidos
 Comparación Basilea
 AAA AA
 Aaa Aa
-
-
 BBB BBB
 Baa Baa
 Evaluación riesgo plazo
 BB BB
 Ba
-
-
 CCC
 Caa
 Score rating nota riesgo corresponde división probabilidades impago
@@ -2175,7 +2169,6 @@ Cantidad toneladas julio
 Chuleteros jamones deshuesados frescos refrigerados congelados
 Filet mignon refrigerado congelado
 Embutidos secos untar cocer
-
 preparaciones conservas carne despojos sangre
 Canales medias canales frescas refrigeradas congeladas
 Trozos frescos refrigerados congelados deshuesados deshuesar filet mignon presentados
@@ -2288,15 +2281,12 @@ Período contingentario
 Volumen contingentario peso neto toneladas indicación contraria
 Derecho contingentario
 Pavos gallipavos vivos peso inferior
-
 unidades
 Exención
 Lactosuero esté modificado concentrado adición azúcar edulcorante
 Flores capullos frescos cortados ramos adornos
 flores capullos cortados ramos adornos frescos
-
 Patatas tempranas frescas refrigeradas
-
 Tomates cereza frescos refrigerados
 Exención
 Tomates frescos refrigerados tomates cereza
@@ -2309,12 +2299,9 @@ Tomates secos enteros cortados rodajas triturados pulverizados preparación
 Naranjas frescas
 Exención
 Clementinas mandarinas wilkings frescas
-
 Melones frescos
-
 período posterior
 Fresas frescas
-
 período posterior
 Preparaciones conservas carne despojos sangre pavo contenido carne despojos aves superior peso contengan exclusivamente carne pavo cocer
 Preparaciones conservas carne despojos sangre pavo contenido carne despojos aves superior inferior peso
@@ -2328,7 +2315,6 @@ Pan especias contenido sacarosa incluido azúcar invertido calculado sacarosa su
 Tomates preparados conservados vinagre ácido acético contenido materia seca superior peso
 Rodajas melocotón fritas aceite alcohol añadido contenido azúcar superior peso envases inmediatos contenido neto superior kg
 Jugo naranja
-
 presente recipientes litros
 Mezclas jugos cítricos
 Vino uvas encabezado mosto uva partida
@@ -3105,7 +3091,6 @@ Interpretación siguientes cuestiones
 debería reconocer entidad dividendo pagar
 debería valorar entidad dividendo pagar
 entidad liquide dividendo pagar debería contabilizar diferencia importe libros activos distribuidos importe libros dividendo pagar
-
 reconocer dividendo pagar
 pasivo pago dividendo reconocerá dividendo esté debidamente autorizado quede discreción entidad fecha
 declaración dividendo realizada ejemplo dirección consejo administración apruebe autoridad correspondiente ejemplo accionistas jurisdicción requiere aprobación
@@ -3793,17 +3778,10 @@ dibromoetano dibromuro etileno
 Véase circular PIC wwwpicint
 dicloroetano dicloruro etileno
 naftilamina naftalenamina sales
-
-
 sales ésteres
-
-
 aminobifenilo bifenilamina sales
-
-
 Acefato
 Fibras amianto
-
 Crocidolita
 Amosita
 Antofilita
@@ -3813,8 +3791,6 @@ Crisótilo
 Atrazina
 Azinfósetilo
 Bencidina sales
-
-
 Derivados bencidina
 Binapacrilo
 Clorobencilato
@@ -3823,8 +3799,6 @@ Creosota sustancias afines
 DBB diμoxodiNbutilestannohidroxiborano dioxaestannaboretanol
 Dicofol p′dicofol kg DDT compuestos afines DDT
 Dinoseb sales ésteres
-
-
 Dinitroortocresol DNOC sales sal amonio sal potasio sal sodio
 Formulaciones polvo seco contengan combinación
 benomilo concentración superior
@@ -3837,12 +3811,8 @@ HCH hexaclorociclohexano mezcla isómeros
 Hexacloroetano
 Lindano γHCH
 Hidrazida maleica sales distintas sales colina potasio sodio
-
 Sales colina potasio sodio hidrazida maleica mg kg hidrazina libre expresada ácido equivalente
 Compuestos mercurio incluidos compuestos inorgánicos mercurio compuestos alquílicos mercurio compuestos alcoxialquílicos arílicos mercurio
-
-
-
 Metamidofós formulaciones líquidas solubles sustancia sobrepasen ingrediente activo
 Paratiónmetilo
 Monocrotofós
@@ -3853,18 +3823,12 @@ fenol nonil ramificado
 isononilfenol
 fenol nonil ramificado
 pnonilfenol
-
 Etoxilatos nonilfenol CHOnCHO
-
 Pentaclorofenol sales ésteres
-
-
-
 Fosfamidón formulaciones líquidas solubles sustancia sobrepasen ingrediente activo
 mezcla isómeros
 isómero
 Polibromobifenilos PBB
-
 Véase circular PIC wwwpicint
 Pirazofós
 Quintoceno
@@ -3872,7 +3836,6 @@ Tecnaceno
 Tetraetilo plomo
 Tetrametilo plomo
 Compuestos triorganoestánnicos
-
 Óxido trisaziridinilfosfina ′″fosforiltriaziridina
 queda modificada
 añadirá anotación
@@ -3883,7 +3846,6 @@ anotaciones correspondientes naftilamina sales aminobifenilo sales bencidina sal
 naftilamina naftalenamina sales
 aminobifenilo bifenilamina sales
 Bencidina sales
-
 Derivados bencidina
 Dicofol p′dicofol kg DDT compuestos afines DDT
 Hidróxido fentina
@@ -3892,8 +3854,6 @@ Nonilfenoles CHOHCH
 pnonilfenol
 Etoxilatos nonilfenol CHOnCHO
 Compuestos triorganoestánnicos particular tributilestaño incluido óxido bistributilestaño
-
-
 suprimirán anotaciones correspondientes endrina paratión tetraetilo plomo tetrametilo plomo
 queda modificada
 Números CAS correspondientes

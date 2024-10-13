@@ -172,14 +172,12 @@ DO
 DO
 ANEXO
 ANEXO
-
 Zona establecida conformidad artículo apartado
 Código ISO país
 miembro
 Zona
 Fecha aplicable artículo apartado letra inciso iii
 Código
-
 Nombre
 REPÚBLICA CHECA
 ČESKÉ LIBCHAVY parcialmente
@@ -192,7 +190,6 @@ SOPOTNICE parcialmente
 ÚSTÍ NAD ORLICÍ parcialmente
 ALEMANIA
 municipios
-
 Zona establecida conformidad artículo apartado
 Zona
 PARDUBICKÝ KRAJ
@@ -676,9 +673,7 @@ DO
 DO
 ANEXO
 Espacio aéreo contemplado artículo apartado
-
 espacio aéreo contemplado artículo apartado letra incluirá espacio aéreo FL siguientes regiones información vuelo FIR regiones superiores información vuelo UIR
-
 espacio aéreo contemplado artículo apartado letra incluirá espacio aéreo FL definido siguientes regiones información vuelo FIR regiones superiores información vuelo UIR
 Finland UIR sur
 Sweden UIR sur
@@ -884,19 +879,16 @@ DO
 DO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES CERDO PAÍSES BAJOS
-
 disposiciones previstas aplicables emplee aparato denominado Hennessy grading probe HGP clasificación canales cerdo
 aparato irá equipado sonda diámetro milímetros milímetros lámina situada extremo llevará fotodiodo Siemens LED tipo LYU EO fotodetector tipo MR alcance operativo milímetros HGP ordenador conectado traducirán resultados medición contenido estimado carne magra
 contenido carne magra canal calculará fórmula
 LMP Grasa Músculo
-
 LMP porcentaje estimado carne magra canal
 grasa
 espesor tocino incluida corteza milímetros medido HGP cuarta costillas centímetros línea mediana dorsal
 músculo
 espesor músculo incluida corteza milímetros medido HGP tiempo lugar grasa
 fórmula válida canales cuyo peso oscile kilogramos
-
 disposiciones previstas aplicables emplee aparato denominado Capteur Gras Maigre Sydel CGM clasificación canales cerdo
 aparato irá equipado sonda Sydel alta definición milímetros diámetro diodo emisor infrarrojo Honeywell sensores luz Honeywell
 alcance operativo situará mm
@@ -905,7 +897,6 @@ contenido carne magra canal calculará fórmula
 LMP Grasa Músculo
 espesor tocino incluida corteza milímetros medido CGM cuarta costillas centímetros línea mediana dorsal
 espesor músculo incluida corteza milímetros medido CGM tiempo lugar grasa
-
 disposiciones previstas aplicables emplee aparato denominado CSB ImageMeater CSB clasificación canales cerdo
 CSB ImageMeater consiste concretamente cámara vídeo ordenador provisto tarjeta análisis imágenes pantalla impresora mecanismo mando mecanismo cálculo interfaces
 variables ImageMeater miden hendidura central zona jamón gluteus medius
@@ -3789,27 +3780,21 @@ Proveedor servicios
 Intermediario comercial
 Frontera
 Nombre
-
 Expediente gestionado
 Documentos presentados
 Medios subsistencia
 Invitación
-
 Decisión visado
 Denegado
 Expedido
 VTL
 Válido
-
-
 Número entradas
 múltiples
 Número
 miembros destino
 miembro entrada
 Número entradas solicitados
-
-
 múltiples
 Duración prevista estancia tránsito
 Indíquese número
@@ -3975,7 +3960,6 @@ Estimada Sra DEstimado Sr
 Embajada Consulado General Consuladootra autoridad competente nombre nombre miembro representado
 autoridad competente
 autoridades responsables control personas
-
 examinado solicitud visado
 examinado visado número expedido mes año
 visado denegado
@@ -4118,7 +4102,6 @@ Validez territorial
 visado VTL inscribir letra
 visado uniforme inscribir carácter relleno
 Número entradas
-
 Duración estancia
 Estancia corta duración número inscribirse zona lectura visual
 Estancia larga duración
@@ -4136,7 +4119,6 @@ evitar reutilización etiqueta visado colocada impreso separado colocación visa
 prórroga visado conforme artículo presente Reglamento plasmará etiqueta visado
 autoridades expedidoras estamparán sello etiqueta visado
 ANEXO IX
-
 Normas expedición visados frontera marinos tránsito sujetos obligación visado
 normas refieren intercambio información autoridades competentes miembros respecta marinos tránsito sujetos obligación visado
 caso proceda expedición visado frontera tomando base información intercambiada responsabilidad residirá miembro expida visado
@@ -4162,7 +4144,6 @@ armador agente marítimo informará autoridades competentes puerto miembro entra
 pondrán contacto averiguaciones autoridades competentes puerto miembro marinos vayan abandonar barco territorio miembros
 comprobará buque embarcar marinos halla atracado puerto espera llegada
 marco dicha averiguación verificará asimismo itinerario seguido territorio miembros
-
 IMPRESO
 MARINOS TRÁNSITO SUJETOS OBLIGACIÓN VISADO
 RESERVADO ADMINISTRACIÓN
@@ -4613,9 +4594,7 @@ contengan carne despojos aves corral
 contenido peso proteínas mínimo peso neto
 adición agua extraña
 presencia proteínas animales prohibida
-
 contenido peso proteínas mínimo peso neto
-
 Presentados recipientes contengan líquido conservación contengan carne despojos aves corral
 contenido peso proteínas animales mínimo peso neto
 relación colágeno proteínas máximo
@@ -4961,7 +4940,6 @@ consumo anual energía AE kWh año redondeados decimal calculará forma
 caso aspiradoras alfombras moquetas
 caso aspiradoras suelos duros
 caso aspiradoras general
-
 ASEc consumo específico energía Wh ensayo alfombra calculado forma indica abajo
 ASEhf consumo específico energía Wh ensayo suelo duro calculado forma indica abajo
 dpuc nivel succión polvo alfombra determinado punto presente anexo

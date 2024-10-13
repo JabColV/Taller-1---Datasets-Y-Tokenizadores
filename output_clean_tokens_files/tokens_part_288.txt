@@ -378,7 +378,6 @@ apartado punto método sustituye texto
 algodón acetato cupro modal triacetato viscosa determinados acrílicos determinados modacrílicos poliamida nailon poliéster elastomultiéster
 Lista fibras poliéster anteriormente polipropileno anteriormente elastano anteriormente fibra vidrio anteriormente
 capítulo anexo II Directiva CE modifica cuadro Métodos particulares Cuadro resumen sustituye cuadro
-
 Directiva CE modificada Directiva CE Comisión DO
 Recomendación Comisión
 diciembre
@@ -3156,11 +3155,9 @@ caso efectos personas compartimientos ambientales determinar DNEL PNEC realizar�
 sustancias cumplen criterios PBT mPmB fabricante importador utilizará información obtenida arreglo etapa sección hora aplicar instalaciones medidas gestión riesgos destinadas minimizar exposición emisiones relación personas ambiente recomendaciones usuarios intermedios ciclo vida sustancia resultante fabricación usos identificados
 MODELO INFORME SEGURIDAD QUÍMICA
 informe seguridad química constará siguientes epígrafes
-
 RESUMEN MEDIDAS GESTIÓN RIESGOS
 DECLARACIÓN APLICACIÓN MEDIDAS GESTIÓN RIESGOS
 DECLARACIÓN COMUNICACIÓN MEDIDAS GESTIÓN RIESGOS
-
 IDENTIDAD SUSTANCIA PROPIEDADES FÍSICAS QUÍMICAS
 FABRICACIÓN USOS
 Fabricación

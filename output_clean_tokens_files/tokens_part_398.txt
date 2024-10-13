@@ -1787,7 +1787,6 @@ Dirección silo
 Motivo rechazo aceptación
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -3707,7 +3706,6 @@ Inspector nombre letra imprenta Firma Firma agente económico
 Observaciones
 Horas control km
 Ejemplar
-
 Blanco original
 Destinatario
 Rosa
@@ -3827,9 +3825,7 @@ Categoria calidad
 Bruto
 Neto
 Período validez
-
 KEPHIS certifica inspeccionado muestreo envío indicado ajusta normas vigor
-
 Fecha
 Sello oficial
 KEPHIS funcionarios representantes declinan responsabilidad pecuniaria derivarse presente certificado
@@ -3945,11 +3941,9 @@ caso deba dictaminarse mercancía conforme deberán tomarse mínimo siguientes m
 Productos envasados
 Número bultos consta lote
 Número bultos tomarse muestra muestras elementales
-
 Productos granel
 Masa lote kg número unidades lote
 Masa muestras elementales kg número unidades tomarse muestra
-
 trate frutas hortalizas frescas voluminosas kg pieza granel muestras elementales compuestas mínimo piezas
 trate lotes compuestos bultos peso inferior kg controlará totalidad lote
 término comprobación inspector llega conclusión condiciones tomar decisión efectuar inspección obtener resultado expresado porcentaje inspecciones
@@ -4367,7 +4361,6 @@ RÉGIMEN PRECIOS ENTRADA PREVISTO TÍTULO IV CAPÍTULO II SECCIÓN
 perjuicio reglas interpretación Nomenclatura Combinada texto designación mercancías tomarse título puramente indicativo
 anexo ámbito aplicación régimen previsto título IV capítulo II sección quedará determinado alcance códigos NC existentes momento adoptarse modificación presente Reglamento
 caso anteponga ex código NC ámbito aplicación derechos adicionales quedará determinado alcance código NC designación mercancías período aplicación correspondiente
-
 Código NC
 Designación mercancía
 Períodos aplicación
@@ -4392,7 +4385,6 @@ mayo agosto
 Melocotones duraznos incluidas nectarinas
 junio septiembre
 Ciruelas
-
 Pepinos destinados transformación
 mayo octubre
 Guindas Prunus cerasus
@@ -4480,13 +4472,6 @@ DO
 DO
 anexo IV figura lista países cuyos controles conformidad homologados virtud presente artículo productos cuestión anexo figuran datos corresponsales oficiales organismos control
 modelos certificados referencia artículo figuran mencionado anexo
-
-
-
-
-
-
-
 número afiliados divididos productores productores modificaciones lista afiliados año
 Helsingborg Estocolomo
 Mattenhofstrasse CH Berne Tel
@@ -4537,9 +4522,7 @@ resumen principales problemas planteado aplicación estrategia nacional gestión
 Corrección errores Reglamento CE Consejo junio establece derecho antidumping definitivo importaciones determinados tubos soldadura hierro acero originarias Croacia Rumanía Rusia Ucrania derogan Reglamentos CE CE Consejo concluidas reconsideraciones provisionales expiración derechos antidumping importaciones determinados tubos soldadura hierro acero alear originarias países Rusia Rumanía concluidas reconsideraciones provisionales derechos antidumping importaciones determinados tubos soldadura hierro acero alear originarias países Rusia Rumanía Croacia Ucrania
 Diario Oficial Unión Europea junio
 página nota pie página
-
 IIW doc IX
-
 IIW doc IX
 Información relativa entrada vigor forma Canje Notas Comunidad Europea República Corea virtud artículo XXIV apartado artículo XXVIII General Aranceles Aduaneros Comercio GATT
 forma Canje Notas Comunidad Europea República Corea virtud artículo XXIV apartado artículo XXVIII General Aranceles Aduaneros Comercio GATT DO entró vigor diciembre

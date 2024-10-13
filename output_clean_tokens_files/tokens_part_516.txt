@@ -4,7 +4,6 @@ Indicador presentación diferida
 presentación eAD circulación iniciado amparo documento soporte papel mencionado artículo apartado
 Posibles valores
 falso
-
 valor falso defecto
 dato aparecer eAD asignado ARC documento soporte papel mencionado artículo apartado
 CIRCULACIÓN PRODUCTOS SUJETOS IMPUESTOS ESPECIALES eAD
@@ -27,7 +26,6 @@ Identificar persona responsable organizar transporte siguientes valores
 Expedidor
 Destinatario
 Propietario productos
-
 facilitarán autoridades competentes miembro expedición validación borrador eAD
 Véase anexo II lista códigos
 Fecha hora validación eAD
@@ -130,7 +128,6 @@ Véase código tipo garante anexo II lista códigos
 Identificar transportista propietario productos constituyen garantía
 Indicar número registro SEED válido NIF IVA transportista propietario productos sujetos impuestos especiales
 NIF IVA
-
 facilita número impuesto especial operador casos
 TRANSPORTE
 Código transporte
@@ -227,7 +224,6 @@ Vino DOP IGP
 Vino varietal DOP IGP
 Vino DOP IGP
 Vino importado
-
 Código zona vitícola
 productos vitivinícolas granel volumen nominal superior litros
 Indicar zona vitícola origen producto transportado conformidad anexo IX Reglamento CE
@@ -2224,7 +2220,6 @@ densidad carga debería suficientemente elevada evitar lesiones despegue caso tu
 determinación densidad carga deberían clima duración viaje hora llegada
 Peso
 Superficie suelo cerdo
-
 Aves corral
 Densidades aplicables transporte aves contenedores
 Deberá disponerse superficies dimensiones siguientes
@@ -2724,7 +2719,6 @@ proporción ensambladores cooperaron baja situándose PIR
 gráfico muestra proporciones mencionadas anteriormente años
 ensambladores
 ensambladores
-
 Puesto criterios necesarios determinar existencia prácticas elusión cumplía ensambladores burlaban medidas vigentes cumplían condiciones vinculadas exenciones
 porcentaje ensambladores comunitarios cooperaron elevado términos volumen bicicletas vendidas ensambladores CE encontraron pruebas ensambladores bicicletas hubieran burlado medida principal
 ausencia pruebas indiquen contrario concluir PIR prácticas elusión medida principal
@@ -4060,14 +4054,12 @@ huevos frescos licables enero huevos yemas huevo exportados forma mercancías in
 gallina especie Gallus domesticus
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
-
 aves corral distintos aves especie Gallus domesticus
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
 Yemas huevo cidos agua vapor moldeados congelados conservados adición azúcar edulcorante
 Secos
 Adecuadas consumo humano
 edulcorados
-
 Líquidas
 Congeladas
 adas

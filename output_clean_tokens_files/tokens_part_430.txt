@@ -643,7 +643,6 @@ marca homologación colocará lugar luces agrupadas combinadas mutuamente incorp
 visible instalación
 pieza luces agrupadas combinadas recíprocamente incorporadas transmita luz retirarse quitar tiempo marca homologación
 símbolo identificación luz Reglamento concedido homologación serie correspondiente enmiendas incorpora modificaciones técnicas importantes Reglamento momento expidió homologación procede flecha exigida marcarán
-
 superficie salida luz
 grupo luces agrupadas combinadas mutuamente incorporadas esté claramente identificada véanse ejemplos posibles anexo
 tamaño componentes marca homologación inferior tamaño mínimo exigido menor marcas Reglamento concedido homologación
@@ -875,13 +874,11 @@ GENERALIDADES
 considerará cumplido requisitos punto vista mecánico geométrico diferencias superiores desviaciones fabricación inevitables conforme disposiciones presente Reglamento
 refiere rendimiento fotométrico pondrá duda conformidad faros fabricados serie comprobar rendimiento fotométrico faro elegido azar equipado lámpara incandescencia normalizada
 valores medidos desvía desfavorablemente exigidos presente Reglamento
-
 lux equivalente
 lux equivalente
 Zona III
 lux equivalente
 lux equivalente
-
 haz cruce cumple valores exigidos presente Reglamento HV tolerancia lux relación orientación punto área delimitada pantalla medición círculo cm radio puntos tolerancia lux zona IV esté cm línea
 caso haz carretera HV situado isolux Emax observa tolerancia valores máximos mínimos valores fotométricos cualquiera puntos medición especificados punto presente Reglamento
 resultados ensayos descritos anteriormente cumplen requisitos reglar faro eje haz desvíe lateralmente derecha izquierda
@@ -1168,7 +1165,6 @@ Muestra
 faro
 faro
 faros
-
 pasar muestra
 Muestra
 faros
@@ -1176,7 +1172,6 @@ reúnen condiciones punto referentes muestra
 pone duda conformidad
 procedimiento toma muestras figura presente anexo pondrá duda conformidad faros producidos serie pedirá fabricante tome medidas necesarias producción cumpla requisitos ajuste desviaciones valores medidos faros
 faro
-
 caso
 faro
 reúnen condiciones punto referentes muestra
@@ -1208,7 +1203,6 @@ obstante muestra respeta valor mrad faros muestra sometidos procedimiento valor 
 dispositivos
 toma muestras
 dispositivos seleccionados azar distribuidos muestras
-
 pase muestra
 Cumplimiento
 fabricante productos cumplan requisitos
@@ -1243,7 +1237,6 @@ inclusión eliminación componentes modificar resultados ópticos reflexión ref
 valores medidos desvía desfavorablemente exigidos presente Reglamento valores zona III desviación desfavorable máxima
 soporte lámpara lámparas incandescencia categorías siguientes HB HB HIR HIR materiales hechas lentes revestimiento hubiera
 asignará número homologación tipo homologado contratante asignar número luz agrupada combinada mutuamente incorporada cubierta presente Reglamento
-
 tensión deberá regularse proporcione potencia máxima especificada Reglamento lámparas incandescencia utilizadas
 Reglamento
 caso haz carretera HV situado isolux Emax observa tolerancia valores máximos mínimos valores fotométricos cualquiera puntos medición especificados punto presente Reglamento marca referencia
@@ -1848,7 +1841,6 @@ antiguos puntos pasan puntos
 Modificaciones anexo
 anexo añaden puntos redactados
 vehículo equipado función control estabilidad
-
 caso afirmativo
 función control estabilidad vehículo sometida ensayo requisitos anexo cumple dichos requisitos
 función control estabilidad vehículo opcional
@@ -2049,7 +2041,6 @@ Verificación componentes
 especificación freno vehículo cuya homologación tipo solicita deberá cumplir requisitos establecidos puntos presente apéndice
 suprimirse puntos
 punto fórmula queda modificada
-
 punto fórmula queda modificada
 Anexo Apéndice
 apéndice incluida supresión figuras queda modificado
@@ -2199,7 +2190,6 @@ Horas
 EBS octeto
 Meses
 EBS octeto
-
 EBS octeto
 Año
 EBS octeto
@@ -3705,7 +3695,6 @@ solicita remisión asunto deberá confirmar mercados afectados territorio miembr
 Explicar mercados afectados miembros AELC refiere remisión presenta características mercado definido efectos artículo apartado Reglamento concentraciones
 Explicar verse significativamente afectada competencia mencionados mercados definidos tenor artículo apartado Reglamento concentraciones
 caso miembros AELC competentes examinar totalidad asunto consecuencia remisión arreglo artículo apartado Reglamento concentraciones consentimiento miembros AELC basen procedimiento nacional relativo asunto información contenida formulario EM
-
 Remisión arreglo artículo apartado remisión conformidad disposiciones EEE
 Especificar miembro AELC concentración examinada conforme legislación nacional competencia
 información deberá facilitarse cumplimentando modelo cuadro disponible sitio internet DG Competencia
@@ -4680,23 +4669,19 @@ presente entrará vigor fecha firma carta
 fecha fijada fecha inicio trabajos deberá llegar Comisión original carta firmada incluidos formulario identificación financiera formulario personalidad jurídica individuos anexo IV
 concertará fecha fijada fecha aceptación informe prestaciones contractuales
 Disposiciones sesión sesiones evaluación
-
 sesiones evaluación distancia centralizada combinarse indicados continuación
 calendario indicativo figura anexo VII establece
 períodos evaluación distancia trabajará casa lugar trabajo
 fechas límite presentación Comisión prestaciones contractuales informes
 fechas direcciones evaluación centralizada
-
 Evaluación centralizada
 número máximo asistencia Comisión superará NÚMERO
 Deberá asistir sesión evaluación celebrada indíquese dirección iniciará indíquese fecha inicio evaluación terminará tardar indíquese fecha probable terminación evaluación
 lugar origen viajes establece presente lugar residencia indicado anteriormente dirección correou dirección deberá acordarse firma carta nombramiento Comisión
-
 Evaluación distancia
 número máximo dedicado asistir Comisión deberá exceder NÚMERO
 número fija anexo VI
 Deberá presentar informes evaluación individuales tardar indíquese fecha participar proceso consenso posterior acerca propuestas evaluadas
-
 Evaluación distancia Centralizada evaluadores
 número máximo asistencia Comisión superará NÚMERO
 incluyen
@@ -4704,7 +4689,6 @@ NÚMERO asistir sesión inicial información celebrará indíquese dirección in
 NÚMERO evaluación propuestas casa lugar trabajo
 Deberá presentar informes evaluación individuales tardar indíquese fecha
 deberá asistir sesión evaluación celebrará indíquese dirección iniciará indíquese fecha inicio evaluación terminará tardar indíquese fecha probable terminación evaluación
-
 Evaluación distancia Centralizada observadores
 NÚMERO examinar información previa preparación
 NÚMERO asistir reuniones información observación directa proceso evaluación propuestas

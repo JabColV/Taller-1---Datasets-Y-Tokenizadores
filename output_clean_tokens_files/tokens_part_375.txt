@@ -45,28 +45,8 @@ miembros dispongan cuota bacalao efectuarán pruebas medidas técnicas artes arr
 miembros facilitarán Comisión resultados pruebas mencionadas punto bis tardar diciembre
 punto coordenadas Hatton Bank sustituyen siguientes
 Hatton Bank
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 anexo XIV
 texto reproduce anexo Resolución CGPM coordenadas geográficas subzona geográfica SZG CGPM sustituyen siguientes
-
-
-
-
 deducirse limitaciones capturas Noruega establecidas virtud acuerdos ribereños
 capturas zona IV superiores toneladas
 deducirse limitaciones capturas Islas Feroe establecidas virtud acuerdos ribereños
@@ -402,10 +382,8 @@ kg kg
 kg
 Aeronaves ligeras planeadores motor planeadores
 Aerogiros
-
 Medianos
 Pequeños
-
 Globos
 Propulsión
 Motores turbina empuje despegue superior KN potencia despegue superior kW
@@ -755,7 +733,6 @@ Nivel cifras NACE Rev
 sectores NACE Rev
 CN
 sectores NACE Rev
-
 Ocupación víctima
 Nivel cifras CIUO
 Edad víctima
@@ -1292,7 +1269,6 @@ DO
 ANEXO
 anexo Decisión CE queda modificado
 sustituye texto
-
 Lista terceros países partes terceros países País
 Código territorio
 Descripción territorio
@@ -1350,7 +1326,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -1429,7 +1404,6 @@ permitir inspección visual aves corral
 facilitar limpieza desinfección
 limpiado desinfectado carga vehículos transportarse conformidad instrucciones autoridades competentes
 Notas
-
 Recuadro indíquese código región origen caso necesario definido columna código territorio anexo Decisión CE modificación
 Recuadro nombre dirección número registro sanitario establecimiento reproducción cría
 Recuadro indíquense números registro vagones camiones nombre buques conoce número vuelo aviones
@@ -1704,7 +1678,6 @@ Artículo
 cuadro anexo Protocolo queda modificado inclusión filas siguientes
 Pescado seco salado salmuera pescado ahumado cocido ahumado harina polvo pellets pescado aptos alimentación humana
 Pescado seco salado ahumar ina polvo pellets pescado aptos alimentación humana
-
 Carboneros Pollachius virens
 Crustáceos pelados vivos frescos refrigerados congelados secos salados salmuera crustáceos pelar cocidos agua vapor refrigerados congelados secos salados salmuera harina polvo pellets crustáceos aptos alimentación humana
 Congelados secos salados salmuera crustáceos pelar cocidos agua vapor refrigerados congelados secos salados salmuera harina polvo pellets crustáceos aptos alimentación humana
@@ -2461,7 +2434,6 @@ DO
 DO
 DO
 ANEXO
-
 celebrado ECSA ETF relativo Convenio trabajo marítimo
 PREÁMBULO
 PARTES FIRMANTES
@@ -4017,7 +3989,6 @@ Reglamento CE Comisión julio DO
 Reglamento CE Consejo abril presentación estadísticas producción acuícola miembros DO
 ESTADÍSTICAS ENERGÍA
 Directiva CEE Consejo junio relativa procedimiento comunitario garantice transparencia precios aplicables consumidores industriales finales gas electricidad DO
-
 Decisión Comisión
 abril
 autoriza método clasificación canales porcino Letonia
@@ -4062,7 +4033,6 @@ MÉTODOS CLASIFICACIÓN CANALES PORCINO LETONIA
 clasificación canales cerdo llevará cabo aparato denominado Intrascope Optical Probe
 aparato equipado sonda hexagonal anchura máxima milímetros milímetros lámina situada extremo llevará visor fuente luz cilindro deslizante calibrado milímetros alcance operativo milímetros
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal costilla
 fórmula válida canales peso comprendido kilogramos
@@ -4645,7 +4615,6 @@ Deuda posterior
 Cantidad anulada
 Público
 Oficina fiscal
-
 acreedores
 autoridades eslovacas confirmaron acreedores públicos privados Konas cumplido obligaciones plazo fijado acreedores
 procedimiento concurso oficina fiscal actuó acreedor independiente votó separado favor
@@ -4722,7 +4691,6 @@ Reestructuración financiera
 Reembolso deuda
 Recursos Konas efectivo
 Anulación
-
 Recursos estatales
 acreedores
 Recursos externos

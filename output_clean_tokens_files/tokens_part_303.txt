@@ -1336,13 +1336,7 @@ confirma evolución positiva situación económica aplicación medidas compensat
 Concretamente industria Unión incrementará rentabilidad años PIR contrasta enormemente situación establecimiento medidas
 Comisión Europea Dirección General Comercio Dirección Bruselas Bélgica
 Cuota mercado importaciones país afectado
-
-
-
 Precio importaciones país afectado EUR tonelada
-
-
-
 Reglamento CE Comisión
 febrero
 establecen valores importación alzado determinación precio entrada determinadas frutas hortalizas
@@ -1667,7 +1661,6 @@ polvo cacao adición azúcar edulcorante
 contenido sacarosa isoglucosa superior inferior peso incluido azúcar invertido calculado sacarosa
 contenido sacarosa isoglucosa superior peso incluido azúcar invertido calculado sacarosa
 preparaciones alimenticias contengan cacao bloques tabletas barras peso superior kg forma líquida pastosa polvo gránulos formas similares recipientes envases inmediatos contenido superior kg
-
 Extracto malta preparaciones alimenticias harina sémola almidón fécula extracto malta contengan cacao contenido cacao inferior peso calculado base totalmente desgrasada expresadas comprendidas preparaciones alimenticias productos partidas contengan cacao contenido inferior peso calculado base totalmente desgrasada expresadas comprendidas
 extracto malta
 preparaciones base café
@@ -1680,10 +1673,7 @@ tipo utilizadas industrias alimentarias bebidas
 tipo utilizadas industrias bebidas
 Preparaciones contienen agentes aromatizantes caracterizan bebida
 grado alcohólico adquirido superior vol
-
 grasas leche sacarosa isoglucosa glucosa almidón fécula contenido grasas lácteas inferior peso sacarosa isoglucosa inferior peso glucosa almidón fécula inferior peso
-
-
 Reglamento CE Comisión
 enero
 fija coeficiente asignación aplicarlo solicitudes certificados importación aceite oliva presentadas enero marco contingente arancelario tunecino suspende expedición certificados importación mes enero
@@ -1890,7 +1880,6 @@ Subvenciones Comisión
 donantes Ministerio Asuntos Exteriores italiano
 donantes CE Convenio ETE MED
 donantes CE Convenio Tempus TA
-
 ingresos
 Gastos
 Personal Título presupuesto
@@ -2074,7 +2063,6 @@ DO
 ANEXO
 anexo Directiva CEE queda modificado
 fila relativa clotianidina columna Disposiciones específicas sustituye texto
-
 autorizar usos insecticida
 respecta protección organismos diana particular abejas melíferas use tratamiento semillas
 deberán utilizarse sembradoras adecuadas garanticen alto nivel incorporación suelo minimización derrames emisión polvo
@@ -2754,7 +2742,6 @@ movimientos tránsito clasificarían tales
 Nota tipo operación desglosa
 Recorrido nacional lugares carga descarga situados país declarante
 Recorrido internacional lugar carga descarga hallan país distinto país declarante suma categorías siguientes
-
 exterior mercancías cargadas país declarante recorrido inicia país declarante finaliza
 interior mercancías descargadas país declarante recorrido inicia país finaliza país declarante
 terceros países recorrido países distintos país declarante
@@ -4011,7 +3998,6 @@ principales criterios impuestos política nacional inversión cabe mencionar cre
 empresas conjuntas joint ventures inversores bahameños extranjeros sujetas aprobación Consejo Económico Nacional arreglo política nacional inversión base dicha prueba necesidades económicas beneficios
 AGRICULTURA GANADERÍA CAZA SILVICULTURA
 Agricultura ganadería caza
-
 Silvicultura explotación forestal
 PESCA
 buques ejerzan actividad pesquera zona económica exclusiva pertenecer únicamente personas físicas jurídicas Bahamas indica Ley Jurisdicción Conservación Recursos Pesqueros
@@ -4096,10 +4082,8 @@ empresas comerciales
 Sujeto examen necesidades económicas caso PSC
 Servicios aplicación programas informática
 instalaciones informáticas establecimientos comerciales autorizadas empresas conjuntas joint ventures compañías bahameñas
-
 Servicios tratamiento datos
 Servicios bases datos
-
 Servicios preparación datos servicios informática ncp
 consolidar equipo oficina residencial
 equipo comercial sujeto examen necesidades económicas basado tipo servicio
@@ -4153,7 +4137,6 @@ Servicios intercambio electrónico datos IED CCP
 Servicios facsímil ampliados valor añadido incluidos almacenamiento retransmisión almacenamiento recuperación
 Conversión códigos protocolos
 Procesamiento datos información línea inclusión procesamiento transacción
-
 Internet acceso internet voz
 Servicios comunicaciones personales servicios móviles datos servicios radiobúsqueda sistemas radioeléctricos troncales
 Servicios venta arrendamiento mantenimiento conexión reparación asesoramiento relacionados equipos telecomunicaciones
@@ -4172,7 +4155,6 @@ consolidar construcción especializada
 TRABAJOS GENERALES CONSTRUCCIÓN OBRAS INGENIERÍA CIVIL
 MONTAJE TRABAJOS INSTALACIÓN
 TRABAJOS ACABADO EDIFICIOS
-
 SERVICIOS DISTRIBUCIÓN
 SERVICIOS INTERMEDIARIOS
 Requisito licencia caso PSC PI
@@ -4764,7 +4746,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante

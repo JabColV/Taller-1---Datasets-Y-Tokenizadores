@@ -303,7 +303,6 @@ Determinación cuantitativa ceras
 Calcular ayuda integrador áreas picos correspondientes patrón interno araquidato laurilo ésteres alifáticos
 Determinar contenido ceras sumando ceras ésteres mg kg materia grasa aplicando fórmula
 Ceras mg kg Ax
-
 área pico éster milímetros cuadrados
 área pico patrón interno araquidato laurilo milímetros cuadrados
 masa patrón interno araquidato laurilo añadido miligramos
@@ -3390,14 +3389,11 @@ Legal
 Capitalización intereses
 Tipo interés préstamo
 Importe calculado demandante
-
 Anual
 Semestral
 Trimestral
 Mensual
-
 Tipo interés
-
 Especifíquese Código
 Consígnese identificación deuda correspondiente
 Obtenido demandante importe superior principal
@@ -3678,9 +3674,7 @@ DO
 Corrección errores Reglamento Euratom Consejo diciembre apoyo Unión programas ayuda clausura nuclear Lituania deroga Reglamento CE
 Diario Oficial Unión Europea diciembre
 página considerando frase
-
 importe millones EUR precios equivalen millones EUR precios corrientes
-
 millones EUR precios equivalen millones EUR precios corrientes
 página artículo apartado frase
 dotación financiera ejecución Programa Ignalina período EUR precios corrientes

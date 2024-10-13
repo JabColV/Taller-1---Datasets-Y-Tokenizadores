@@ -1070,7 +1070,6 @@ Contenido máximo humedad
 Porcentaje máximo elementos cereales base calidad irreprochable máximo
 Granos partidos
 Impurezas constituidas granos distintos punto
-
 granos asurados
 cereales
 granos atacados plagas
@@ -1082,7 +1081,6 @@ Granos germinados
 Impurezas Schwarzbesatz
 granos extraños
 nocivos
-
 granos dañados
 granos deteriorados calentamiento espontáneo secado excesivo
 impurezas propiamente dichas
@@ -1290,7 +1288,6 @@ pega mecanizable
 pega mecanizable
 División compresión
 precisión trozos pasta fórmula
-
 masa trozo pasta
 masa pasta
 Comprimir inmediatamente trozos pasta segundos compresora punto colocarlos continuación minutos placas plástico recubiertas cajas plástico puestas revés punto cámara fermentación punto
@@ -1329,8 +1326,6 @@ extrae harina utilizando molinillos laboratorio Buehler MLU Brabender Quadrumat 
 Escoger diagrama molturación forma obtenga índice mínimo extracción harina cuyo contenido ceniza esté comprendido materia seca
 Determinar cenizas harina anexo II Reglamento CE Comisión DO contenido agua presente Reglamento
 Calcular índice extracción ecuación
-
-
 índice extracción
 contenido agua harina
 contenido agua trigo
@@ -1357,7 +1352,6 @@ masa granos elementos cereales base calidad irreprochable
 porcentaje harinosos parcialmente granos limpios examinados
 Resultado
 Porcentaje granos harinosos parcialmente muestra
-
 ANEXO VII
 CUADRO
 Bonificaciones grado humedad
@@ -1371,15 +1365,9 @@ CUADRO III
 Depreciaciones peso específico
 Peso específico kg hl
 Depreciación EUR
-
-
-
-
 CUADRO IV
 Depreciaciones contenido proteína
 Índice proteína
-
-
 ANEXO VIII
 Método práctico determinación depreciación organismos intervención aplicar precio sorgo
 Datos base
@@ -1594,7 +1582,6 @@ resultados estadísticas objetivo socioeconómico OSE desglosarse arreglo nomenc
 resultados estadísticas grupo edad desglosarse siguientes clases edad
 resultados estadísticas nacionalidad desglosarse categorías siguientes ciudadanía nacional ciudadanía miembros UE ciudadanía países europeos ciudadanía países América Norte ciudadanía países Centroamérica Sudamérica ciudadanía países Asia ciudadanía países África ciudadanía
 resultados estadísticas actividad económica principal grupo productos NACE Rev desglosarse siguientes divisiones grupos agregados NACE Rev
-
 conceptos definiciones relativos estadísticas definidas presente sección describen Manual Frascati
 temas estudios piloto decidirán estrecha cooperación miembros
 Sección
@@ -3604,7 +3591,6 @@ CAS
 tetrahidrohexametilnaftiletanona
 productos cosméticos excepción productos higiene bucal
 Productos aclaran
-
 productos hidroalcohólicos
 fragancia
 fina
@@ -4113,7 +4099,6 @@ noviembre relativo modalidades liquidación créditos recíprocos arreglo artíc
 punto
 ESTONIAPAÍSES BAJOS sustituirá
 ESTONIAPAÍSES BAJOS
-
 punto ALEMANIAPAÍSES BAJOS modificará
 letras sustituirán texto
 artículos relativo aplicación Tratado Seguridad Social abril

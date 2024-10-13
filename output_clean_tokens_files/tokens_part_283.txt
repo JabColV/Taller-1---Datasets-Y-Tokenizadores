@@ -1339,7 +1339,6 @@ factor fotoirritación PIF
 supervisarse datos previos comportamiento control positivo
 lugar clorpromazina emplearse controles positivos paralelo sustancias fototóxicas convengan clase química características solubilidad sustancia estudiada
 Procedimiento ensayo
-
 ponen μl cultivo pocillos periféricos placa microvaloración cultivo tisular pocillos blancos
 pocillos vierten μl suspensión células ml cultivo células pocillo
 prepararse placas serie concentraciones distintas sustancias problema controles positivos disolvente
@@ -1585,12 +1584,9 @@ determinadas situaciones necesario utilizar disolvente relevante punto vista cl�
 especial cuidado garantizar incorporan materiales hidrófilos sistema vehículo humedecen piel pierden inmediatamente evitarán vehículos totalmente acuosos
 Calendario experimento
 calendario experimento
-
 identifica animal toma nota peso
 dorso oreja aplicación abierta μl apropiada dilución sustancia estudio vehículo control positivo procede
-
 repite procedimiento aplicación
-
 tratamiento
 horas sacrifica animales
 extirpan ganglios linfáticos auriculares oreja agrupan PBS grupo experimentación enfoque agrupación grupo tratamiento extirpar pares ganglios linfáticos animales individuales agruparlos PBS animal enfoque animales individuales
@@ -1907,14 +1903,11 @@ Frecuencia observaciones pruebas funcionales
 Tipo observaciones
 Duración estudio
 aguda
-
-
 crónica
 animales
 general salud
 diariamente
 Mortalidad morbilidad
-
 animales seleccionados observaciones funcionales
 exposición
 horas siguientes administración momento estimado efecto agudo
@@ -2723,7 +2716,6 @@ sustancias estimular crecimiento bajas concentraciones
 datos indiquen inhibición
 COMPARACIÓN ÁREAS CURVAS CRECIMIENTO
 área curvas crecimiento línea horizontal calcularse fórmula
-
 área
 número células ml momento comienzo ensayo
 número medido células ml
@@ -2933,7 +2925,6 @@ Control absorción conteniendo sustancia problema inóculo agente esterilizante
 Control toxicidad conteniendo sustancia problema sustancia referencia inóculo
 determinación suspensión ensayo determinación inóculo aislado deberían realizarse obligatoriamente paralelo
 aconsejable determinaciones frascos paralelo
-
 asegurarse toman bastantes muestras lecturas certeza alcanza porcentaje eliminación adecuado período tiempo
 curso degradación representa gráficamente indica período observación
 calcula registra pérdida porcentual período observación valor fase estacionaria ensayo considere adecuado
@@ -3173,7 +3164,6 @@ CO mg CO
 Acondicionamiento previo caso
 Concentración sólidos suspensión mezcla reacción mg
 Tiemp
-
 acumulado
 media
 Nota utilizarse formatos similares sustancia referencia controles toxicidad PRODUCCION DIOXIDO CARBONO DEGRADABILIDAD Método BaOH NaOH
@@ -3227,7 +3217,6 @@ calcular porcentaje biodegradación
 biodegradación DOT DBOmg
 mg sustancia
 mg substancia
-
 DQOmg
 señalarse métodos necesariamente valor preferible
 caso sustancias examinar contengan nitrógeno utiliza DTO NH adecuada espere sepa nitrificación véase anexo II
@@ -3255,7 +3244,6 @@ degradación
 Media
 Nota utilizarse formatos similares sustancias referencia controles toxicidad
 CORRECCIÓN NITRIFICACIÓN véase anexo
-
 Diferencia
 Concentración nitrato mg
 Concentración nitrito mg
@@ -3532,7 +3520,6 @@ ecuación consumo oxigeno nitrógeno contenidos cloruro amónico NHCl oxidado ni
 ecuación consumo oxígeno nitrógeno oxidado nitrato factor
 reacciones secuenciales desencadenadas especies bacterianas determinadas concentración nitrito aumente disminuya caso formará concentración equivalente nitrato
 oxígeno consumido formación nitrato multiplicado aumento concentración nitrato oxígeno relacionado formación nitrito multiplicado aumento concentración nitrito disminución concentración pérdida oxígeno multiplicado disminución concentración
-
 consumido formación nitratoN aumento concentración nitrato
 consumido formación nitritoN aumento concentración nitrito
 perdido desaparición nitritoN disminución concentración nitrito forma
@@ -3794,7 +3781,6 @@ energía activación kJ mol
 temperatura absoluta
 constante gases mol
 energía activación calcula análisis regresión ecuación
-
 ml NaOH ml ácido bórico ml
 ml NaOH ml ácido bórico ml
 ml NaOH ml citrato ml
@@ -4042,7 +4028,6 @@ Sustancia control
 Blanco
 COD neto
 Degradación
-
 Ejemplos curvas biodegradación
 Degradación
 Sustancias
@@ -4219,7 +4204,6 @@ Desviación estándar serie valores GEi
 Media valores GEi
 valores atípicos serie GE eliminan conforme procedimiento estadístico adecuado ej Nalimov referencia nivel probabilidad vuelven calcular medía desviación estándar serie valores GE libre valores atípicos
 resultado calcula ecuación
-
 valor tabular pares valores Eo fiabilidad estadística fija referencia
 resultado expresa dando media límites tolerancia nivel probabilidad respectiva desviación estándar número valores serie GE libre valores atípicos número ejemplo
 GE eliminación COD
@@ -4487,7 +4471,6 @@ OCDE París Directriz pruebas Decisión Consejo
 Prueba LASC Ejemplo resultados
 CTCe
 Porcentaje biodegradación
-
 acetil aminobenceno sulfonato
 Tetra propilen benceno sultanato
 nitrofenil
@@ -4836,7 +4819,6 @@ fase depuración Cw supone nulo
 ecuación reducirse
 Cfo concentración principio período depuración
 llegará depuración tiempo
-
 depuración alcanzará tiempo
 utiliza absorción período perdida fase depuración fase depuración doble depuración fase absorción
 importante estimaciones basan hipótesis esquemas absorción depuración siguen cinética orden
@@ -4854,7 +4836,6 @@ Ejemplos teóricos calendarios muestreo ensayos bioconcentración sustancias log
 valores paréntesis números muestras agua peces toman procede muestreo suplementario
 Nota
 estimación ensayo kn log Pow duración experiencia fija abs
-
 Remitirse anexo cálculo abs
 Muestreos peces
 Calendario muestreo

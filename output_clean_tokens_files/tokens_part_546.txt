@@ -779,7 +779,6 @@ PFC Perfluorohexano CF
 ANEXO II
 Suma efectos emisiones recalculadas gases efecto invernadero miembro contemplada artículo apartado
 suma efectos emisiones recalculadas gases efecto invernadero miembro obtendrá fórmula
-
 asignación anual emisiones miembro año determinada conformidad artículo apartado párrafo cuarto artículo Decisión CE quedado establecida lugar base revisión realizada arreglo artículo apartado presente Reglamento conformidad artículo apartado Decisión CE
 asignación anual emisiones miembro año conformidad artículo apartado párrafo cuarto artículo Decisión CE habría calculado hubieran utilizado base datos inventario revisados presentados
 ei corresponde emisiones gases efecto invernadero miembro año establecidas conformidad actos adoptados Comisión arreglo artículo apartado examen inventarios expertos año
@@ -2192,7 +2191,6 @@ Belarús Kirguistán Turquía
 Azerbaiyán
 Canadá Columbia Británica
 Rusia
-
 Armenia Bahréin Iraq Mauritania Tayikistán
 Especímenes especies incluidas anexo Reglamento CE cuya introducción Unión queda suspendida
 Kazajstán Rusia
@@ -2767,7 +2765,6 @@ distancia separe superficies iluminantes luces carretera exceder mm
 Visibilidad geométrica
 visibilidad superficie iluminante incluida visibilidad zonas parezcan iluminadas dirección observación considerada deberá garantizarse espacio divergente delimitado generatrices apoyan perímetro superficie iluminante forman ángulo mínimo eje referencia faro
 Orientación
-
 luz luces moverse consonancia ángulo dirección
 combinadas luz
 Conexiones eléctricas
@@ -2795,7 +2792,6 @@ mando pasar haz cruce apagará simultáneamente haz carretera
 Testigo
 Testigo conexión opcional color verde intermitente
 LUZ POSICIÓN DELANTERA
-
 anchura
 instalarse luz posición delantera independiente luz delantera luces centro referencia luz posición delantera situarse plano longitudinal vehículo centros referencia simétricos plano longitudinal mediano vehículo
 luces posición delanteras ambas recíprocamente incorporadas luz delantera instaladas forma centros referencia simétricos plano longitudinal mediano vehículo
@@ -2807,9 +2803,7 @@ obstante ángulo vertical horizontal reducirse altura luces inferior mm
 ángulo horizontal par luces
 testigo conexión opcional color verde intermitente iluminación tablero mandos
 requisitos
-
 CATADIÓPTRICO DELANTERO TRIANGULAR
-
 altura mm mm suelo
 Ángulo horizontal izquierda derecha
 Ángulo vertical horizontal
@@ -2839,7 +2833,6 @@ longitud trasera vehículo
 par catadióptricos
 atrás
 LUZ INDICADORA DIRECCIÓN
-
 luces indicadoras dirección delanteras categoría
 anchura
 luces indicadoras dirección delanteras deberán cumplir requisitos siguientes
@@ -2991,8 +2984,6 @@ ESQUEMA
 Superficie iluminante
 Superficie emisora luz
 bordes
-
-
 ESQUEMA
 ANEXO
 VISIBILIDAD LUCES ROJAS VISIBILIDAD LUCES BLANCAS
@@ -3108,9 +3099,7 @@ CICAP
 RSRSclorofenildimetilHtriazolilpentanol
 junio
 mayo
-
 autorizarse usos regulador crecimiento
-
 aplicación principios uniformes anexo VI conclusiones informe revisión paclobutrazol particular apéndices II finalizó Comité Permanente Cadena Alimentaria Sanidad Animal marzo
 evaluación global miembros prestarán atención particular riesgos plantas acuáticas velarán condiciones incluyan proceda medidas reducción riesgos
 miembros afectados pedirán presente información confirmatoria relativa

@@ -176,15 +176,12 @@ expresado glucosa
 mg kg
 mg kg
 entrada correspondiente aditivo alimentario ii Manitol fabricado fermentación especificaciones pureza sustituyen texto
-
 entrada correspondiente aditivo alimentario Isomaltosa modifica
 especificación relativa descripción sustituye texto
 Descripción
 Sustancia inodora blanca cristalina ligeramente higroscópica solución acuosa concentración mínima
 producto sólido método Karl Fischer
 Dmanitol
-
-
 entrada correspondiente aditivo alimentario Maltitol especificaciones pureza sustituyen texto
 Apariencia solución acuosa
 Clara incolora
@@ -205,7 +202,6 @@ Pérdida desecación
 Sustancias reductoras
 expresado Dglucosa
 Ribitol glicerol
-
 mg kg
 Reglamento CE Comisión
 agosto
@@ -843,7 +839,6 @@ mecanismo garantía préstamos estudiantes
 Jean Monnet
 deporte porcentaje máximo actividad mencionada artículo apartado letra
 concepto subvenciones funcionamiento agencias nacionales
-
 cubrir gastos administrativos
 asignaciones refieren letras apartado mínimo dedicará movilidad personas motivos aprendizaje mínimo cooperación innovación intercambio prácticas apoyo reforma políticas
 dotación financiera indicada apartado promocionar dimensión internacional educación superior asignará financiación adicional conforme dispuesto distintos instrumentos exteriores Instrumento Cooperación DesarrolloICD Instrumento Europeo Vecindad IEVA Instrumento Asociación cooperación terceros paísesIA Instrumento Ayuda Preadhesión IPA acciones relacionadas movilidad motivos aprendizaje países asociados cooperación diálogo políticas autoridades instituciones organizaciones países
@@ -2233,7 +2228,6 @@ Indíquese tipo buque relación buque pasaje nave pasaje velocidad nave carga ve
 frase corchetes suprimirse trate buques presten servicios exclusivamente miembro
 Véase párrafo Código IGS párrafo Directrices implantación Código internacional gestión seguridad Código IGS administraciones Resolución
 frase corchetes suprimirse trate buques presten servicios exclusivamente miembro
-
 miembro difícil práctica compañías cumplan disposiciones específicas Código IGS determinados buques tipos buques realicen exclusivamente viajes nacionales miembro potestad excepción parcial disposiciones imponiendo medidas garanticen cumplimiento equivalente objetivos Código establecer buques compañías procedimientos certificación verificación distintos
 garantizar seguridad operacional buque proporcionar enlace compañía personal bordo compañía designará forma estime oportuna personas tierra directamente ligadas dirección cuya responsabilidad autoridad permita supervisar aspectos operacionales buque afecten seguridad prevención contaminación garantizar habilitan recursos suficientes apoyo tierra
 presente Certificado gestión seguridad provisional válido reserva conserve validez Documento cumplimiento Documento provisional cumplimiento Táchese proceda
@@ -2396,7 +2390,6 @@ comprobación queda pescado bordo completada descarga
 actividades inspección contempladas punto deberán documentadas
 documentación correspondiente conservará años
 añadirá
-
 ATLÁNTICO NORDESTE
 Buques practican pesca ilegal declarada reglamentada
 apéndice enumeran buques incluidos Comisión Pesquerías Atlántico Nordeste NEAFC lista buques cuya participación actividades pesca ilegal declarada reglamentada confirmada
@@ -2548,7 +2541,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -2562,7 +2554,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -2576,7 +2567,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -3383,7 +3373,6 @@ Filipinas
 Malasia
 Sri Lanka
 Túnez
-
 importaciones procedentes Taiwán disminuyeron período considerado pasando unidades unidades PIR cuota mercado aumentó ligeramente período
 importaciones bicicletas procedentes Taiwán destinadas mercados productos gama alta
 investigación demostrado aplicando comparación modelos importaciones procedentes Taiwán venden precio mercado superior modelos similares producidos industria Unión período investigación
@@ -3828,7 +3817,6 @@ Fabricación valor materias partida utilizadas exceda precio franco fábrica pro
 Jugos extractos vegetales materias pécticas pectinatos pectatos agaragar mucílagos espesativos derivados vegetales modificados
 Mucílagos espesativos derivados vegetales modificados
 Fabricación mucílagos espesativos modificados
-
 Fabricación valor materias utilizadas exceda precio franco fábrica producto
 capítulo
 Materias trenzables productos origen vegetal expresados comprendidos
@@ -4155,7 +4143,6 @@ Fabricación valor materias partida producto utilizadas exceda precio franco fá
 Semimanufacturas manufacturas plástico pertenecientes partidas ex ex ex ex cuyas normas indican
 Productos planos trabajados distinto superficie cortados forma distinta cuadrada rectangular productos trabajados superficie
 Fabricación valor materias capítulo utilizadas exceda precio franco fábrica producto
-
 ex ex
 Perfiles tubos
 límite indicado valor materias partida producto utilizadas exceda precio franco fábrica producto
@@ -4635,7 +4622,6 @@ Diodos transistores dispositivos semiconductores similares exclusión discos cor
 Circuitos electrónicos integrados
 Circuitos integrados monolíticos
 Multichips partes máquinas aparatos expresadas comprendidas capítulo
-
 límite indicado valor materias partidas utilizadas exceda precio franco fábrica producto
 Hilos cables incluidos coaxiales conductores aislados electricidad estén laqueados anodizados provistos piezas conexión cables fibras ópticas constituidos fibras enfundadas individualmente conductores eléctricos provistos piezas conexión
 Electrodos escobillas carbón carbón lámparas pilas artículos grafito carbonos metal usos eléctricos

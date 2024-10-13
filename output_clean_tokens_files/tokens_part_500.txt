@@ -30,8 +30,6 @@ Reglamento modificado Reglamento CE DO
 Corrección errores Reglamento Ejecución UE Comisión agosto modifica Reglamento CE establecen disposiciones aplicación Reglamento CE Consejo relativo medidas sector apicultura
 Diario Oficial Unión Europea agosto
 página cuadro anexo fila HR
-
-
 Reglamento CE Comisión
 mayo
 establecen valores globales importación determinación precio entrada determinadas frutas hortalizas
@@ -291,9 +289,7 @@ presente decisión refiere régimen ejecutarse inmediatamente refiere recuperaci
 Corrección errores Reglamento Ejecución UE Comisión septiembre relativo autorización urea aditivo piensos rumiantes
 Diario Oficial Unión Europea septiembre
 página cuarta columna anexo rúbrica Caracterización sustancia activa
-
 Número CAS
-
 Número CAS
 Directiva CE Parlamento Europeo Consejo
 noviembre
@@ -1933,10 +1929,8 @@ Reglamento CE Consejo diciembre conservación explotación sostenible recursos p
 Corrección errores Reglamento CE Parlamento Europeo Consejo noviembre medicamentos terapia avanzada modifican Directiva CE Reglamento CE
 Diario Oficial Unión europea diciembre
 página artículo modificaciones Directiva CE punto
-
 artículo apartado párrafo sustituye texto
 comercializarse medicamento miembro autoridad competente miembro concedido autorización comercialización arreglo presente Directiva concedido autorización conformidad Reglamento CE leído relación Reglamento CE
-
 comercializarse medicamento miembro autoridad competente miembro concedido autorización comercialización arreglo presente Directiva concedido autorización conformidad Reglamento CE leído relación Reglamento CE Parlamento Europeo Consejo diciembre medicamentos pediátrico Reglamento CE
 DO
 Directiva CE Comisión
@@ -2430,7 +2424,6 @@ Neumáticos vehículos motor remolques clase
 Suplemento serie modificaciones
 DO
 DO
-
 entrada correspondiente Reglamento sustituye texto
 Prevención riesgos incendio depósitos combustible líquido
 Suplemento serie modificaciones
@@ -2450,7 +2443,6 @@ inserta Reglamento Reglamento Reglamento
 Unidad repuesto provisional neumáticos autoportantes sistema autoportante sistema control presión neumáticos
 Serie modificaciones corrección
 DO
-
 inserta Reglamento Reglamento Reglamento
 Neumáticos refiere emisiones ruido rodadura adherencia superficie mojada resistencia rodadura clases
 Serie modificaciones
@@ -2657,7 +2649,6 @@ crédito
 divisas
 renta variable
 tipos interés
-
 tipo derivado definirá siguientes
 contratos diferencias
 acuerdos plazo tipos interés
@@ -2732,10 +2723,8 @@ principal agente
 contraparte
 comprador vendedor
 Operación contraparte EEE
-
 Vinculada directamente actividad comercial financiación tesorería
 Umbral compensación
-
 Valor contrato precios mercado
 dígitos formato xxxx yyyyy
 Moneda denominación valor contrato precios mercado
@@ -2917,13 +2906,11 @@ Precio ejercicio máximo mínimo
 dígitos formato xxxx yyyyy
 Sección Modificaciones contrato
 Tipo actuación
-
 modificación
 error
 anulación
 compresión
 actualización valoración
-
 Detalles tipo actuación
 ISIN AII
 código caracteres alfanuméricos
@@ -4530,7 +4517,6 @@ DO
 DO
 ANEXO
 REQUISITOS ESPECÍFICOS SEGURIDAD RELATIVOS EQUIPOS GIMNASIA
-
 Producto definición
 equipos gimnasia objeto presente mandato utilizados entrenamiento ejercicio competición individual grupo
 caso equipos gimnasia concretos requisitos generales completan requisitos seguridad adicionales
@@ -4886,14 +4872,11 @@ Paletilla extremadamente convexa extremadamente gruesa
 Excelente
 Lomo convexo ancho grueso paletilla
 Paletilla convexa gruesa
-
 Lomo ancho grueso paletilla
 Paletilla gruesa convexa
-
 Cuartos traseros perfiles generalmente rectilíneos
 Lomo grueso ancho paletilla
 Paletilla desarrollada gruesa
-
 Cuartos traseros perfiles tendencia ligeramente cóncavos
 Lomo escasa anchura grosor
 Paletilla tendencia estrecha

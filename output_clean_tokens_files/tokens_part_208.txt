@@ -8,7 +8,6 @@ animales acuáticos especies enumeradas columna considerarán portadores enferme
 Infección Perkinsus marinus
 Bogavante europeo Homarus gammarus cangrejos mar Brachyura spp yabbie cangrejo australiano Cherax destructor langostino río Macrobrachium rosenbergii langostas europeas Palinurus spp nécora Portunus puber cangrejo fango australiano Scylla serrata langostino India banana Penaeus indicus langostino tigre Penaeus japonicus langostino meditarráneo Penaeus kerathurus langostino blanco Penaeus stylirostris langostino vannamei langostino blanco Penaeus vannamei
 Infección Microcytos mackini
-
 aplicable
 Síndrome Taura
 Pinas Atrina spp bocina Buccinum undatum ostra Portugal Crassostrea angulata berberecho Cerastoderma edule ostión ostra japonesa Crassostrea gigas ostra virginica americana Crassostrea virginica coquina Donax trunculus abalón japonés Haliotis discus hannai oreja mar Haliotis tuberculata bígaro Littorina littorea almeja americana Mercenaria mercenaria venus japonesa Meretrix lusoria almeja río Mya arenaria mejillón Mytilus edulis mejillón mar Mytilus galloprovincialis pulpo Octopus vulgaris ostra Ostrea edulis vieira venera Pecten maximus almeja fina Ruditapes decussatus almeja japonesa Ruditapes philippinarum choco jibia sepia Sepia officinalis cobos Strombus spp almeja dorada pirulo Venerupis aurea almeja babosa chocha Venerupis pullastra escupiña grabada Venus verrucosa
@@ -38,7 +37,6 @@ Vieira venera Pecten maximus
 Enfermedad mancha blanca
 Pinas Atrina spp bocina Buccinum undatum ostra Portugal Crassostrea angulata berberecho Cerastoderma edule ostión ostra japonesa Crassostrea gigas ostra virginica americana Crassostrea virginica coquina Donax trunculus abalón japonés Haliotis discus hannai oreja mar Haliotis tuberculata bígaro Littorina littorea almeja americana Mercenaria mercenaria venus japonesa Meretrix lusoria almeja río Mya arenaria mejillón Mytilus edulis mejillón mar Mytilus galloprovincialis pulpo Octopus vulgaris ostra Ostrea edulis vieira venera Pecten maximus almeja fina Ruditapes decussatus almeja japonesa Ruditapes philippinarum choco jibia sepia Sepia officinalis cobos Strombus spp almeja dorada pirulo Venerupis aurea almeja babosa chocha Venerupis pullastra escupiña grabada Venus verrucosa
 ANEXO II
-
 Modelo certificado zoosanitario comercialización animales acuicultura destinados cría reinstalación pesquerías suelta captura instalaciones ornamentales abiertas repoblación
 Detalles relativos partida presentada
 COMUNIDAD EUROPEA
@@ -57,7 +55,6 @@ Cód ISO
 País destino
 Lugar origen lugar captura
 Explot autorizada acuicultura
-
 Número autorización
 Lugar destino
 Lugar carga
@@ -132,7 +129,6 @@ animales indicados anteriormente originarios zona sometida medidas control enfer
 comercialización animales indicados anteriormente permitida medidas control establecidas
 Peces Moluscos Crustáceos silvestres originarios zona sometida medidas control enfermedades
 Notas
-
 Casilla procede indicar número autorización explotación zona cría moluscos trate
 Marcar animales acuáticos silvestres
 Casilla procede indicar número autorización explotación zona cría moluscos trate
@@ -163,7 +159,6 @@ UVL relacionada
 Fecha
 Firma
 Sello
-
 Modelo certificado zoosanitario comercialización animales acuicultura productos derivados destinados transformación complementaria centros expedición centros depuración empresas similares consumo humano
 Establecimiento
 Consumo humano
@@ -333,7 +328,6 @@ obtener información situación enfermedades distintas partes Comunidad httpeceu
 II presente certificado aplicable partidas destinadas miembro zona compartimento declarado libre VPC renibacteriosis NPI GS cuente programa control erradicación relación enfermedades aprobado conformidad Decisión CE partida incluya especies sensibles enfermedad declarado libre relación apliquen programas control erradicación
 Libre conformidad dispuesto artículo Decisión CE
 caso VPC renibacteriosis NPI reconoce calificación libre conforme edición Código Manual OIE
-
 Modelo certificado zoosanitario tránsito almacenamiento animales acuicultura huevos peces pescado eviscerar destinados consumo humano
 Persona responsable envío UE
 Depósito Aduanero
@@ -350,15 +344,12 @@ Tránsito Almacenamiento animales acuicultura destinados consumo humano
 cumplen requisitos zoosanitarios pertinentes prescritos modelos certificados establecidos Reglamento CE Comisión
 Casilla Indicar códigos SA adecuados
 Casillas respecta cantidad indicar pesos bruto neto totales kilogramos
-
 Apéndice transporte marítimo animales acuicultura vivos
 cumplimentarse adjuntarse certificado zoosanitario transporte frontera Comunidad Europea comprenda trayecto transporte barco
 Declaración patrón barco
 patrón barco nombre abajo firmante declara animales acuicultura vivos referencia certificado zoosanitario adjunto permanecido bordo barco travesía país zona compartimento exportador Comunidad Europea camino Comunidad Europea barco escala sitio país zona compartimento exportador puertos escala travesía
 travesía animales acuicultura contacto bordo animales tuvieran estatus sanitario inferior
-
 Puerto arribada
-
 Fecha arribada
 Firma patrón
 Sello
@@ -482,7 +473,6 @@ Modificaciones Interpretación CINIIF
 evaluación derivados implícitos
 modifica párrafo
 añaden párrafos
-
 convierta contrato entidad evaluará necesario derivado implícito separe contrato principal contabilice derivado
 prohíbe evaluaciones posterioridad cambio condiciones contrato modifique forma significativa flujos efectivo vendrían exigidos contrato reclasificación activo financiero categoría valor razonable cambios resultados cuyos casos requiere volver evaluación
 entidad determinará modificación flujos efectivo significativa teniendo medida flujos efectivo esperados asociados derivado implícito contrato principal variado cambio significativo relación flujos efectivo esperados inicialmente contrato
@@ -1008,7 +998,6 @@ artículo apartado letra guion sustituye texto
 ejercer mitad derechos voto
 artículo párrafo sustituye texto
 determinación emisiones medias específicas CO fabricante utilizarán siguientes porcentajes turismos fabricante matriculados año correspondiente
-
 tardar
 inserta artículo
 Artículo bis
@@ -1075,9 +1064,7 @@ Comisión adopte acto delegado notificará simultáneamente Parlamento Europeo C
 actos delegados adoptados virtud artículo apartado párrafo artículo apartado artículo apartado párrafo artículo apartado párrafo entrará vigor únicamente plazo meses notificación Parlamento Europeo Consejo Parlamento Europeo Consejo formulan objeciones vencimiento plazo informan Comisión formularán
 plazo prorrogará meses iniciativa Parlamento Europeo Consejo
 anexo punto añade letra
-
 Emisiones específicas CO
-
 masa vehículo kilogramos kg
 valor adoptado arreglo artículo apartado
 anexo II modifica
@@ -1439,7 +1426,6 @@ originarios proceden prefectura distinta Chiba Fukushima Gunma Ibaraki Iwate Kan
 proceden prefecturas Chiba Fukushima Gunma Ibaraki Iwate Kanagawa Miyagi Saitama Shizuoka Tochigi Tokio Yamanashi originarios prefecturas expuestos radiactividad tránsito
 originarios prefecturas Chiba Fukushima Gunma Ibaraki Iwate Kanagawa Miyagi Saitama Shizuoka Tochigi Tokio Yamanashi sometidos muestreo fecha objeto análisis laboratorio fecha nombre laboratorio determinar nivel radionúclidos cesio cesio
 adjunta informe analítico
-
 Sello firma representante autorizado refiere artículo apartados
 cumplimentar autoridad competente puesto inspección fronterizo punto entrada designado
 envío aceptado presentación autoridades aduaneras vistas despacho libre práctica Unión
@@ -1902,7 +1888,6 @@ DO
 ANEXO
 Lugar destino
 Coeficientes correctores agosto
-
 Coeficientes correctores septiembre
 Coeficientes correctores octubre
 Coeficientes correctores noviembre
@@ -2251,10 +2236,8 @@ Chaghi Bazaar Chaghi provincia Baluchistán Pakistán
 jSucursal
 Zahedan provincia Zabol Irán
 suprime mención figura anexo Reglamento UE relativa persona indicada continuación
-
 Nasiruddin Haqqani recaudó fondos red Haqqani viajes realizados finalidad viajes periódicos Emiratos Árabes Unidos viaje recaudación fondos Golfo
 mediados Haqqani contaba permanentemente fuentes financiación
-
 representa red Haqqani basada zona fronteriza Afganistán Pakistán presta apoyo logístico financiero miembro Consejo Financiero Talibán viajado extranjero recaudar fondos nombre Sirajuddin Jallaloudine Haqqani Jalaluddin Haqqani red Haqqani talibanes cree zona fronteriza Afganistán Pakistán
 dirigente red Haqqani opera Waziristán Septentrional áreas tribales administración federal Pakistán hijo Jalaluddin Haqqani viajó Arabia Saudí Emiratos Árabes Unidos objeto recoger fondos talibanes
 miembro destacado talibanes funciones financieras incluidas recaudación fondos nombre dirección facilitado apoyo logístico operaciones talibanes encauzado beneficios tráfico drogas compra armas actuado secretario líder talibán Mullah Mohammed Omar mensajero reuniones alto nivel talibanes asociado Gul Agha Ishakzai miembro círculo Mullah Mohammed Omar régimen talibán
@@ -3258,12 +3241,6 @@ Bergen
 tiempo zonas precios conectadas
 Conjunto zonas precios
 horas conectadas
-
-
-
-
-
-
 Suecia
 zonas precios noruegas general integradas Suecia
 posibilidad aparición congestiones suscitar preocupación explotación puntos estrangulamiento temporales aumentar mercado local

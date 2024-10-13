@@ -2214,7 +2214,6 @@ DO
 DO
 DO
 ANEXO
-
 Lista terceros países partes terceros países Certificados conformes Comunidad Europea Confederación Suiza comercio productos agrícolas DO
 establece certificado prohíben importaciones carne fresca especies indicadas línea correspondiente país
 Restricciones categoría
@@ -2239,7 +2238,6 @@ agosto
 BA Bosnia Herzegovina
 BH Bahréin
 Minas Gerais Espíritu Santo Goias Mato Grosso Rio do Sul Mato Grosso do Sul zona designada alta vigilancia km fronteras exteriores municipios Porto Mutinho Bela Vista Ponta Porã Aral Moreira Coronel Sapucaia Paranhos Sete Quedas Japorã Mundo Novo zona designada alta vigilancia municipios Corumbá Ladário
-
 diciembre
 Santa Catarina
 enero
@@ -2409,7 +2407,6 @@ punto sustituye texto
 ÁMBITO APLICACIÓN
 método aplicará eliminación materias fibrosas mezclas binarias
 seda poliamida nailon
-
 lana pelos animales polipropileno elastolefina melamina bicomponente polipropileno poliamida
 punto sustituye texto
 PRINCIPIO
@@ -3363,7 +3360,6 @@ Pa
 Método efusión balanza presión vapor
 Pa
 Método efusión celda Knudsen
-
 Método efusión termogravimetría isotérmica
 Pa
 Método saturación gases
@@ -3374,7 +3370,6 @@ PRINCIPIO ENSAYO
 regla general determina presión vapor distintas temperaturas
 intervalo temperaturas limitado logaritmo presión vapor sustancia pura función lineal inversa temperatura termodinámica arreglo ecuación ClapeyronClausius simplificada
 constante
-
 presión vapor pascales
 ΔHv calor vaporización mol–
 constante universal gases mol– K–
@@ -4168,7 +4163,6 @@ tasa media crecimiento específico período determinado calcula incremento logar
 día–
 ij
 tasa media crecimiento específico tiempo
-
 biomasa tiempo
 grupo tratamiento control calcularse valor tasa crecimiento estimación varianza
 tasa media crecimiento específico duración ensayo principio calcula utilizando valor inicial biomasa teórica inoculada valor inicial medido obtenerse normalmente precisión
@@ -4177,7 +4171,6 @@ determinará tasa crecimiento sección calculada tasas crecimiento específico r
 considerarse tasa crecimiento sección evaluar efecto sustancia problema presente período exposición
 diferencia importante tasa crecimiento sección tasa media crecimiento indica desviación crecimiento exponencial constante impone examen detalle curvas crecimiento
 porcentaje inhibición tasa crecimiento réplica tratamiento calcula ecuación
-
 porcentaje inhibición tasa media crecimiento específico
 valor promedio tasa media crecimiento específico grupo control
 tasa media crecimiento específico réplica tratamiento
@@ -4186,7 +4179,6 @@ Rendimiento
 rendimiento calcula restando biomasa presente ensayo biomasa inicial recipiente controles tratamientos
 grupo tratamiento control calcularse valor promedio rendimiento estimación varianza
 porcentaje inhibición rendimiento Iy calcularse réplica tratamiento
-
 porcentaje inhibición rendimiento
 valor promedio rendimiento grupo control
 valor rendimiento réplica tratamiento
@@ -4778,7 +4770,6 @@ considerarse tasa crecimiento sección evaluar efecto sustancia problema present
 caso enfoque prudente comparar tasas crecimiento específico cultivos tratados tiempo inhibición máxima correspondientes controles tiempo
 calcularse porcentaje inhibición tasa crecimiento It correspondiente concentración ensayo grupo tratamiento aplicando fórmula
 μT crecimiento It correspondiente concentración ensayo grupo tratamiento aplicando fórmula
-
 porcentaje inhibición tasa media crecimiento específico
 valor promedio grupo control
 valor promedio grupo tratamiento
@@ -4951,8 +4942,6 @@ httpguidanceechaeuropaeudocsguidancedocumentinformationrequirementsenhtmtimeA
 sueco
 Bruce RD Versteeg DJ
 Brain Cousens
-
-
 tubo contiene líquido ebullición
 hilo platino fijado fondo contribuye ebullición uniforme
 Microbalanza
@@ -4961,18 +4950,9 @@ Colector líquido
 Perlas vidrio
 Tubo sorbente mm di
 sistema sorbente contiene sección frontal reserva
-
-
 sedimento superficial prepararse forma extraen calas sedimento utilizando tubo plástico transparente separan capas aerobias superiores superficie profundidad máxima mm inmediatamente extracción juntan
 caso sustancias problema volátiles marcadas adecuado utilizar tapones algodón flojos impidan contaminación aire véase punto sepa productos degradación importantes volátiles efectúa determinación indirecta CO véase apéndice
 matraces incuban temperatura seleccionada véase punto
-
-
-
-
-
-
-
 Canadian Wildlife Service Technical Report Series
 Indicador presión
 CFR pp

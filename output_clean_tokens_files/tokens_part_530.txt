@@ -308,7 +308,6 @@ entiende plaguicidas productos fitosanitarios biocidas definidos artículo Direc
 entiende suma plaguicidas concretos detectados cuantificados procedimiento seguimiento incluidos productos metabolización productos degradación productos reacción
 ANEXO II
 VALORES UMBRAL CONTAMINANTES AGUAS SUBTERRÁNEAS INDICADORES CONTAMINACIÓN
-
 Directrices establecimiento valores umbral miembros conformidad artículo
 miembros establecerán valores umbral contaminantes indicadores contaminación arreglo caracterización efectuada conformidad artículo Directiva CE determinan masas grupos masas agua subterránea riesgo alcanzar químico
 valores umbral establecerán caso resultados seguimiento punto control representativo excedan valores umbral indique riesgo estén cumpliendo condiciones químico agua subterránea mencionadas incisos ii iii iv letra apartado artículo
@@ -321,7 +320,6 @@ características hidrogeológicas incluida información niveles referencia balan
 determinación valores umbral orígenes contaminantes presencia natural toxicología tendencia dispersión persistencia potencial bioacumulación
 produzcan elevados niveles referencia sustancias iones indicadores debidos motivos hidrogeológicos naturales hora establecer valores umbral niveles referencia masa agua subterránea trate
 determinación valores umbral debería apoyarse procedimiento control respecta datos recogidos basado evaluación calidad datos consideraciones analíticas niveles referencia sustancias presentes natural consecuencia actividad humana
-
 Lista mínima contaminantes indicadores miembros establecer valores umbral dispuesto artículo
 Sustancias iones indicadores presentes forma natural resultado actividades humanas
 Arsénico
@@ -336,7 +334,6 @@ Tricloroetileno
 Tetracloroetileno
 Parámetros indicativos salinización intrusiones
 Conductividad
-
 Información deberá facilitar miembros relación contaminantes hayan establecido valores umbral
 miembros resumirán plan hidrológico cuenca presentado conformidad dispuesto artículo Directiva CE hayan atenido procedimiento establecido
 resulte factible miembros proporcionarán particular
@@ -1448,8 +1445,6 @@ hidroxitriciclohexilestannano
 hidróxido triciclohexilestaño
 acetato fentina ISO
 acetato trifenilestaño
-
-
 hidróxido fentina ISO
 hidróxido trifenilestaño
 compuestos tributilestaño especificados partes presente anexo
@@ -2390,7 +2385,6 @@ Número orden
 Código NC
 enero diciembre
 ANEXO II
-
 Indicaciones contempladas artículo letra
 danés Forordning EF nr
 alemán Verordnung EG Nr
@@ -2408,7 +2402,6 @@ polaco Rozporządzenie WE nr
 esloveno Uredba št
 finés Asetus EY
 sueco Förordning EG nr
-
 Indicaciones contempladas artículo letra
 español Derecho aduana aplicación Reglamento CE
 danés Told fastsat til henhold til forordning EF nr
@@ -2950,7 +2943,6 @@ entradas correspondientes azinfósmetilo perfluorooctanosulfonatos sustituyen
 Azinfósmetilo
 Perfluorooctanosulfonatos
 OH sal metálica OM halogenuro amida derivados incluidos polímeros
-
 entrada correspondiente clorato sustituye
 Clorato
 queda modificada
@@ -3073,7 +3065,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -3087,7 +3078,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -3101,7 +3091,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 Peras nashi Pyrus pyrifolia
 Peras Pyrus bretscheri
@@ -4220,10 +4209,8 @@ Pescado seco salado salmuera pescado ahumado cocido ahumado harina polvo pellets
 Crustáceos pelados vivos frescos refrigerados congelados secos salados salmuera crustáceos pelar cocidos agua vapor refrigerados congelados secos salados salmuera harina polvo pellets crustáceos aptos alimentación humana
 Moluscos separados valvas vivos frescos refrigerados congelados secos salados salmuera invertebrados acuáticos crustáceos moluscos vivos frescos refrigerados congelados secos salados salmuera harina polvo pellets invertebrados acuáticos crustáceos aptos alimentación humana
 Productos origen animal expresados comprendidos animales muertos capítulos impropios consumo humano
-
 Productos pescado crustáceos moluscos invertebrados acuáticos animales muertos capítulo
 Desperdicios pescado
-
 Algas
 Grasas aceites fracciones pescado mamíferos marinos refinados modificar químicamente
 Aceites hígado pescado fracciones

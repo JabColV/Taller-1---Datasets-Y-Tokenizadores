@@ -1848,7 +1848,6 @@ Incluidos Peñón Vélez Gomera Peñón Alhucemas islas Chafarinas
 Antiguamente Yemen Norte Yemen Sur
 GrandeTerre Pamandzi
 Sudáfrica
-
 Comunidad Europea
 Código reservado marco intercambios terceros países declaración origen mercancías conformidad condiciones previstas disposiciones comunitarias materia
 código utilizarse fines estadísticos
@@ -3314,9 +3313,7 @@ Impurezas relevantes
 Tolueno contenido máximo kg
 junio
 mayo
-
 autorizarse usos herbicida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión flurocloridona particular apéndices II aprobado Comité permanente cadena alimentaria sanidad animal febrero
 evaluación general miembros prestarán atención particular
 riesgo plantas diana organismos acuáticos
@@ -3447,9 +3444,7 @@ metilciclopropeno
 impurezas fabricación clorometilpropeno clorometilpropeno consideran importancia toxicológica exceder kg material técnico
 abril
 marzo
-
 autorizarán usos regulador crecimiento vegetal almacenamiento postcosecha almacén precintable
-
 aplicación principios uniformes anexo VI conclusiones informe revisión metilciclopropeno apéndices II ultimó Comité permanente cadena alimentaria sanidad animal septiembre
 informe revisión incluyen datos identidad especificaciones sustancias activas
 Decisión PESC Consejo
@@ -4403,8 +4398,6 @@ DO
 ANEXO
 SUPERVISIÓN RECTOR PUERTO
 Número inmovilizaciones relacionadas organización reconocida inspecciones efectuadas período años
-
-
 número inmovilizaciones relacionadas organización reconocida
 umbral actuación
 umbral actuación alto
@@ -4573,57 +4566,24 @@ Período contingentario
 Volumen contingentario peso neto toneladas
 Derecho contingentario
 Tomates frescos refrigerados
-
 Exención
-
-
 período posterior
-
-
-
 período posterior
-
-
-
 período posterior
-
-
-
 período posterior
-
-
-
 período posterior
-
-
-
 período posterior
-
-
-
 período posterior
-
-
-
 período posterior
 período posterior
 Ajos frescos refrigerados
-
 Exención
 año posterior
 Pepinos frescos refrigerados
-
 Exención
-
-
-
 período posterior
 Calabacines zapallitos frescos refrigerados
-
 Exención
-
-
-
 período posterior
 Clementinas frescas
 período posterior

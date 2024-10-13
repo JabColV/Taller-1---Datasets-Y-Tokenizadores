@@ -46,7 +46,6 @@ LOQ resultado
 Límite cuantificación notificado unidad indicada variable Unidad resultado
 Valor resultado
 resultado medida analítica notificado mg kg tipo resultado VAL
-
 Valor resultado corregido función recuperación
 Defínase valor resultado corregido cálculo función recuperación
 Desviación estándar incertidumbre valor resultado
@@ -796,7 +795,6 @@ Iguales proceso producción metanol utilizado
 Metodología
 emisiones gases efecto invernadero procedentes producción biocarburantes calcularán fórmula
 eec ep etd eu esca eccs eccr eee
-
 emisiones totales procedentes combustible
 emisiones procedentes extracción cultivo materias primas
 emisiones anualizadas procedentes modificaciones reservas carbono causadas cambio suelo
@@ -2172,10 +2170,8 @@ DO
 DO
 ANEXO
 ANEXO XVIII
-
 Cuadro combinaciones
 ANEXO XVIII
-
 DOCUMENTO REGISTRO
 ESQUEMAS
 MÓDULO
@@ -2446,7 +2442,6 @@ Fromage fribourgeois vacherin mont d’or tête moine
 Feta oveja búfala
 feta
 Queso oveja búfala
-
 Superior exceder
 Superior exceder
 Superior exceder
@@ -3372,7 +3367,6 @@ Véase página presente Diario Oficial
 DO
 DO
 ANEXO
-
 Fecha nacimiento mayo
 Lugar nacimiento Gagnoa Costa Marfil
 Ex Presidente Costa Marfil obstrucción proceso paz reconciliación rechazo resultados elección presidencial
@@ -3389,7 +3383,6 @@ Número pasaporte PD AE DD
 Fecha nacimiento enero
 Lugar nacimiento Bouadriko Costa Marfil
 Presidente Frente Popular Costa Marfil FPI obstrucción proceso paz reconciliación incitación odio violencia
-
 Fecha nacimiento octubre
 Lugar nacimiento Abidjan Costa Marfil
 Asesor cercano Sr GBAGBO participación gobierno ilegítimo Sr GBAGBO obstrucción proceso paz reconciliación incitación pública odio violencia
@@ -3437,9 +3430,7 @@ Presidente Consejo Administración Banco Nacional Inversiones Contribuye financi
 Corrección errores Decisión CHAD PESC Comité Político Seguridad mayo modifica Decisión CHAD Comité Político Seguridad aceptación contribuciones terceros operación militar Unión Europea República Chad República Centroafricana Decisión CHAD Comité Político Seguridad establecimiento Comité contribuyentes operación militar Unión Europea República Chad República Centroafricana
 Diario Oficial Unión Europea junio
 sumario página cubierta página título Decisión fórmula página
-
 mayo
-
 mayo
 Decisiónno CE Parlamento Europeo Consejo
 junio
@@ -3768,7 +3759,6 @@ Euribor anual
 mes
 pagos mensuales
 Septiembre
-
 garantía estatal préstamo garantía cobro Farice hf plenamente responsable pago préstamo acreedor agotar vías cobro empresa ejecutarse garantía estatal
 Farice hf cobró prima anual fijada Instituto Nacional Gestión Deuda abonada adelantado suscribieron préstamo garantía estatal
 pago adelantado ascendió EUR representó importe préstamo
@@ -4394,9 +4384,7 @@ Importe fijado contenido sacarosa
 Corrección errores Reglamento CE Consejo junio impone derecho antidumping definitivo percibe definitivamente derecho provisional impuesto importaciones determinado maíz dulce grano preparado conservado originario Tailandia
 Diario Oficial Unión Europea junio
 página anexo lista fabricantes cooperaron
-
 Agroon Thailand Co Ltd
-
 Agroon Thailand Co Ltd
 Decisión Ejecución Consejo
 junio
@@ -4803,7 +4791,6 @@ Consejo
 Presidente
 ANEXO
 anexo Reglamento CE sustituye texto
-
 Residuos operaciones aplica letra apartado artículo
 fines letra apartado artículo autorizan operaciones siguientes residuos especifican definidos código cifras clasificación Decisión CE Comisión Residuos clasificados Decisión CE Comisión
 Límites concentración máxima sustancias incluidas anexo IV

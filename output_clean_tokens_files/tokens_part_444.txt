@@ -190,7 +190,6 @@ haga calor caso terneros enfermos deberá disponerse momento agua potable
 equipos suministro alimentos agua estarán concebidos construidos instalados mantenidos forma reduzca mínimo riesgo contaminación alimentos agua destinados terneros
 ternero recibirá calostro bovino nacimiento caso primeras horas vida
 ANEXO II
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -202,7 +201,6 @@ DO
 Reglamento CE Consejo
 DO
 Únicamente punto anexo III
-
 Plazos transposición Derecho nacional
 Directivas
 Plazo transposición
@@ -302,7 +300,6 @@ Artículo
 Excepciones respecta determinados criterios selección donantes
 miembros deban frente grave riesgo escasez situación escasez real abastecimiento sangre componentes sanguíneos derivado directamente pandemia gripe AHN carácter temporal
 reducir obstante dispuesto apartado anexo III Directiva CE niveles mínimos hemoglobina sangre donantes nivel inferior mujeres hombres
-
 solicitar obstante dispuesto apartado anexo III Directiva CE período exclusión inferior cese síntomas enfermedad similar gripe
 aplicación excepciones establecidas apartado sujeta siguientes condiciones
 miembro trate deberá informar demora Comisión medidas previsto adoptar adoptado conformidad apartado
@@ -1474,7 +1471,6 @@ Cumple definición activo
 cumple definición activo valorar elemento inmovilizado material transferido momento reconocimiento inicial
 elemento inmovilizado material valora valor razonable momento reconocimiento inicial contabilizarse contrapartida correspondiente
 entidad contabilizar transferencia efectivo procedente cliente
-
 entidad recibe cliente transferencia elemento inmovilizado material evaluará elemento transferido cumple definición activo establecida Marco conceptual
 párrafo Marco conceptual señala activo recurso controlado entidad resultado sucesos pasados entidad espera obtener futuro beneficios económicos mayoría casos entidad obtiene derecho propiedad elemento inmovilizado material transferido
 obstante determinar activo derecho propiedad esencial
@@ -1937,7 +1933,6 @@ Decisión Ejecución UE Comisión agosto relativa determinadas medidas protecci�
 Decisión Ejecución UE Comisión agosto relativa determinadas medidas protección relación gripe aviar alta patogenicidad subtipo HN Italia incluido establecimiento zonas restringidas deroga Decisión Ejecución UE DO
 ANEXO
 ANEXO
-
 Zonas protección mencionadas artículo
 Código ISO país
 miembro
@@ -1950,7 +1945,6 @@ territorio municipio Imola situada carretera nacional norte carretera nacional V
 territorio municipio Solarolo situada norte intersección autopista Ravenna
 territorio municipio Bondeno situada sur carretera nacional oeste río Panaro
 territorio municipio Finale Emilia situada norte carretera nacional carretera provincial oeste río Panaro
-
 Zonas vigilancia mencionadas artículo
 Fecha límite aplicación conformidad artículo Directiva CE
 territorio municipio Ferrara situada carretera nacional Via Pomposa carretera provincial Via Ponte Assa
@@ -1959,7 +1953,6 @@ territorio municipio Mirandola situada vía férrea Modena Verona
 territorio municipio San Felice sul Panaro situada vía férrea Modena Verona
 territorio municipio Sermide situada sur carretera provincial Via Pole oeste carretera provincial
 territorio municipio Felonica situada sur carretera provincial Via Pole
-
 zona restringida mencionada artículo
 Fecha límite aplicación medidas
 Taglio di Po
@@ -2514,7 +2507,6 @@ Calentadores agua convencionales calentadores agua bomba calor
 eficiencia energética caldeo agua calcula
 caso calentadores agua bomba calor aguaagua salmueraagua consumo eléctrico bombas agua subterránea
 Calentadores agua solares
-
 Cálculo consumo anual electricidad AEC consumo anual combustible AFC
 consumo anual electricidad AEC kWh términos energía calcula
 consumo anual combustible AFC GJ términos GCV calcula
@@ -3196,12 +3188,10 @@ Gerona
 HC NHC
 entrada correspondiente puerto Palmas Canaria sustituye texto
 Palmas Canaria
-
 entrada correspondiente aeropuerto Madrid sustituye texto
 Madrid
 entrada correspondiente puerto Málaga sustituye texto
 Málaga
-
 entrada correspondiente aeropuerto Palma Mallorca sustituye texto
 Palma Mallorca
 entradas correspondientes aeropuerto puerto Santander sustituyen texto
@@ -3229,7 +3219,6 @@ Riga BFT
 HCTFR HCNT
 relativa Lituania entrada correspondiente carretera Kybartai sustituye texto
 Kybartai
-
 relativa Países Bajos entrada correspondiente aeropuerto Amsterdam sustituye texto
 Amsterdam
 relativa Portugal queda modificada
@@ -4231,7 +4220,6 @@ recepción correspondiente notificación organismo informará Partes contratante
 DISPOSITIVOS ADICIONALES
 respecta dispositivos protección vayan adicionalmente equipados mecanismo aviso acústico visual montaje opcional dispositivos complementarios destinados impedir utilización autorizada vehículo concederá homologación arreglo presente Reglamento dispositivos complementarios requieran activación distinto disposiciones artículo adjunta presente Reglamento impiden Partes contratantes apliquen Reglamento prohibir dichos dispositivos adicionales vehículos matriculados
 dispositivo protección adicionalmente equipado mecanismo aviso visual acústico externo señales emitidas mecanismo aviso breves cesarán automáticamente transcurridos segundos volverán emitirse vuelve activar dispositivo
-
 señal acústica emitida mecanismo aviso acústico normalmente instalado vehículo
 señal visual
 producirá únicamente destellos luces cruce vehículo
@@ -4679,7 +4667,6 @@ Dirección silo
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr

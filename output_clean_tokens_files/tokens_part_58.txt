@@ -2305,7 +2305,6 @@ productos originarios Ceuta Melilla
 productos enteramente obtenidos Ceuta Melilla
 productos obtenidos Ceuta Melilla cuya fabricación hayan utilizado productos distintos mencionados inciso
 productos hayan suficientemente elaborados transformados sentido artículo
-
 productos originarios Suiza Comunidad hayan objeto elaboraciones transformaciones vayan allá operaciones contempladas artículo
 productos originarios Suiza
 productos enteramente obtenidos Suiza
@@ -2492,7 +2491,6 @@ Fabricación valor materias partida utilizadas exceda precio franco fábrica pro
 Jugos extractos vegetales materias pécticas pectinatos pectatos agaragar mucílagos espesativos derivados vegetales modificados
 Mucílagos espesativos derivados vegetales modificados
 Fabricación mucílagos espesativos modificados
-
 Fabricación valor materias utilizadas exceda precio franco fábrica producto
 capítulo
 Materias trenzables productos origen vegetal expresados comprendidos
@@ -2805,7 +2803,6 @@ Fabricación valor materias partida producto utilizadas exceda precio franco fá
 Semimanufacturas manufacturas plástico pertenecientes partidas ex ex ex ex cuyas normas indican
 Productos planos trabajados distinto superficie cortados forma distinta cuadrada rectangular productos trabajados distinto superficie
 Fabricación valor materias capítulo utilizadas exceda precio franco fábrica producto
-
 ex
 Perfiles tubos
 límite indicado valor materias partida producto utilizadas exceda precio franco fábrica producto
@@ -3406,10 +3403,8 @@ VISADO ADUANA
 Declaración certificada conforme
 Documento exportación
 Modelo
-
 Aduana
 País territorio expedición
-
 firma
 Sello
 DECLARACIÓN EXPORTADOR
@@ -3586,8 +3581,6 @@ fibras naturales cardar peinar transformar hiladura
 hilados coco yute
 Fabricación
 Aduana País territorio expedición
-
-
 declaración factura cuyo texto recoge dorso deberá redactarse arreglo notas pie página obstante deban reproducirse
 norma lista precise producto fabricarse materia significa utilizarse materias necesario utilicen
 Poliéster
@@ -4814,7 +4807,6 @@ ADOPTADO PRESENTE REGLAMENTO
 Artículo
 Modificación Reglamento Ejecución UE
 columna Disposiciones específicas fila metazaclor anexo sustituye texto
-
 autorizar usos herbicida
 aplicaciones limitarán dosis metazaclor superior kg período años campo
 Artículo

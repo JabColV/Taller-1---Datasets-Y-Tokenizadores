@@ -964,19 +964,14 @@ situación laboral empleo ajena incluidos colaboradores familiares optativo trab
 optativo sector económico empleo
 Secciones NACE rev
 Agricultura ganadería silvicultura pesca
-
 Industrias extractivas manufactureras
 Construcción
-
 Comercio menor transporte hostelería
 Información comunicación
 Actividades financieras seguros
 Actividades inmobiliarias
-
 Servicios empresariales
-
 Administración pública defensa educación actividades sanitarias servicios sociales
-
 servicios
 situación laboral desempleo estudiantes incluidos población activa personas incluidas población activa optativo personas incluidas población activa jubilación jubilación anticipada cese actividad discapacidad permanente servicio militar obligatorio civil sustitutorio tareas domésticas persona inactiva tipo
 ocupación conforme Clasificación Internacional Uniforme Ocupaciones CIUO trabajadores manuales trabajadores manuales trabajadores manuales trabajadores TIC trabajadores optativo ocupaciones conforme CIUO dígitos
@@ -1198,7 +1193,6 @@ Lasalócido
 Lasalócido
 Aves corral
 Músculo
-
 Antiinfecciosos Antibióticos
 Piel grasa
 Hígado
@@ -1737,7 +1731,6 @@ propulsión independiente aire permite funcione sistema propulsión submarino su
 incluye energía nuclear
 Aparatos detección subacuática diseñados especialmente militar controles
 Redes antisubmarinos antitorpedos
-
 Obturadores casco conectores diseñados especialmente militar permitan interacción equipos exteriores buque
 Nota subartículo MLf incluye conectores navales tipo conductor simple multiconductor coaxiales guías ondas obturadores casco buques capaces estanqueidad conservar características requeridas profundidades submarinas conectores fibra óptica obturadores casco ópticos diseñados especialmente transmisión haz láser cualquiera profundidad
 incluye obturadores casco ordinarios árbol propulsión vástago mando hidrodinámico
@@ -4712,7 +4705,6 @@ presente Decisión entrará vigor adopción
 Bruselas abril
 DO
 ANEXO
-
 Fecha nacimiento mayo
 Lugar nacimiento Gagnoa Costa Marfil
 Ex Presidente Costa Marfil obstrucción proceso paz reconciliación rechazo resultados elección presidencial
@@ -4728,7 +4720,6 @@ Número pasaporte PD AE DD
 Fecha nacimiento enero
 Lugar nacimiento Bouadriko Costa Marfil
 Presidente Frente Popular Costa Marfil FPI obstrucción proceso paz reconciliación incitación odio violencia
-
 Fecha nacimiento octubre
 Lugar nacimiento Abidjan Costa Marfil
 Asesor cercano Sr GBAGBO participación gobierno ilegítimo Sr GBAGBO obstrucción proceso paz reconciliación incitación pública odio violencia

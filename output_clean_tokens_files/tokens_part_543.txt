@@ -1738,7 +1738,6 @@ Definiciones aplicables efectos anexos II
 efectos anexos II entenderá
 impulsor componente rotatorio bomba centrífuga transfiere energía agua
 impulsor completo impulsor diámetro máximo catálogos fabricante bombas hidráulicas indican características rendimiento relativas tamaño determinado bomba hidráulica
-
 altura elevación aumento energía hidráulica agua metros producida bomba hidráulica punto funcionamiento especificado
 velocidad rotación número revoluciones minuto rpm eje
 caudal volumen agua circula bomba hidráulica unidad tiempo
@@ -1793,7 +1792,6 @@ Deberán cumplir parámetros técnicos siguientes
 eficiencia hidráulica bomba conforme definición anexo mide altura elevación caudal correspondan punto máximo rendimiento BEP carga parcial PL sobrecarga OL diámetro completo impulsor agua fría limpia
 fórmula calcular eficiencia mínima requerida punto máximo rendimiento BEP
 ηΒΕΡ min requ CPump Type rpm
-
 ln ns ln ln logaritmo natural caudal ns velocidad específica min– valor cuadro
 valor depende tipo bomba velocidad nominal valor MEI
 Cuadro
@@ -1894,7 +1892,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -1908,7 +1905,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -1922,7 +1918,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -2460,9 +2455,7 @@ importe base aplicable producto definido punto anexo Reglamento CEE Comisión DO
 Corrección errores Reglamento CE Consejo diciembre establecen posibilidades pesca condiciones correspondientes determinadas poblaciones grupos poblaciones peces aplicables aguas comunitarias caso buques comunitarios aguas necesario establecer limitaciones capturas
 Diario Oficial Unión Europea enero
 página capítulo VIII título
-
 BUQUES PESQUEROS TERCEROS PAÍSES ZONA REGULACIÓN CPANE
-
 BUQUES PESQUEROS TERCEROS PAÍSES ZONA CONVENIO CPANE
 página artículo
 buques pesqueros terceros países zona regulación CPANE
@@ -2484,9 +2477,7 @@ página anexo IA especie Espadín Sprattus sprattus zona VIId VIIe
 página anexo IB especie Carbonero Pollachius virens aguas Islas Feroe zona Vb
 Francia
 página anexo IB especie Gallineta nórdica Sebastes spp aguas Islas Feroe zona Vb
-
 Alemania
-
 Alemania
 página anexo IIA punto
 bogavante
@@ -2494,7 +2485,6 @@ cigala
 página anexo IIA punto cuadro columna Denominación fila
 redes arrastre redes cerco danesas malla mm
 redes arrastre redes cerco danesas malla mm
-
 civ
 página anexo IIIA punto ii
 características ajusten exigencias técnicas figuran anexo
@@ -2989,7 +2979,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -3772,9 +3761,7 @@ Gul Agha necesaria transferencia dinero informaría Ahmed Shah receptor talibán
 Ahmed Shah proporcionaría fondos pedidos sistema hawala
 mediados Ahmed Shah llevado cabo movimientos fondos Pakistán Afganistán altos mandos talibanes traficantes droga
 actividades ayuda Ahmed Shah donado talibanes suma dinero importante conoce exactamente cantidad
-
 Lugar nacimiento
-
 número pasaporte paquistaní NC expedido octubre expira octubre
 identificación nacional
 Decisión Comité Mixto EEE
@@ -3973,7 +3960,6 @@ Especie
 Gallineta nórdica Sebastes spp
 Zona
 Fecha límite
-
 Aviso lectores
 Reglamento UE Consejo marzo publicación electrónica Diario Oficial Unión Europea
 arreglo Reglamento UE Consejo marzo publicación electrónica Diario Oficial Unión Europea DO julio edición electrónica Diario Oficial considerará auténtica producirá efectos jurídicos
@@ -4793,9 +4779,7 @@ CICAP
 RS Etil etilitomtolil isopropil fosforamidato
 agosto
 julio
-
 autorizar usos nematicida aplicado riego goteo invernaderos estructura permanente
-
 aplicación principios uniformes anexo VI conclusiones informe revisión fenamifos apéndices II adoptado Comité permanente cadena alimentaria sanidad animal julio
 evaluación general
 miembros deberán prestar especial atención protección organismos acuáticos organismos diana suelo aguas subterráneas situaciones vulnerables

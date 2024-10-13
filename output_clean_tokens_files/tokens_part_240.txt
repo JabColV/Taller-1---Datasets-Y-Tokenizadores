@@ -318,7 +318,6 @@ DO
 DO
 DO
 ANEXO
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -328,7 +327,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -932,8 +930,6 @@ Código producto
 Trigo morcajo tranquillón
 trigo duro
 siembra
-
-
 escandas trigo blando morcajo tranquillón
 Trigo blando morcajo tranquillón siembra
 Centeno
@@ -1029,11 +1025,9 @@ Perlados
 contenido cenizas referido sustancia seca inferior peso talco
 categoría arreglo definición anexo Reglamento CE
 categoría arreglo definición anexo Reglamento CE
-
 trigo grano troceado triturado respondan consignada anexo Reglamento CE Comisión
 partidos
 Germen cereales entero aplastado copos molido
-
 Malta cebada cereales tostada
 tostar
 Harina
@@ -1054,7 +1048,6 @@ Gluten trigo seco contenido proteínas extracto seco superior peso
 azúcares incluidas lactosa maltosa glucosa fructosa levulosa químicamente puras sólido jarabe azúcar adición aromatizante colorante sucedáneos miel mezclados miel natural azúcar melaza caramelizados
 Glucosa jarabe glucosa fructosa contenido fructosa producto seco inferior peso
 polvo cristalino blanco aglomerado
-
 Glucosa jarabe glucosa contenido fructosa producto seco superior inferior peso azúcar invertido
 incluido azúcar invertido azúcares jarabes azúcar contenido fructosa producto seco peso
 Maltodextrina jarabe maltodextrina
@@ -1126,9 +1119,7 @@ preparaciones conservas carne despojos sangre
 especie bovina
 Corned beef envases herméticamente cerrados contenga carne animales especie bovina
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos cumplan condiciones establecidas Reglamento CE
-
 envases herméticamente cerrados
 contengan carne animales especie bovina
 Animales vivos especie porcina
@@ -1162,10 +1153,8 @@ Pancetas trozos corteza
 contenido global peso cartílagos inferior
 Prosciutto di Parma Prosciutto di San Daniele trozos
 Embutidos productos similares carne despojos sangre preparaciones alimenticias base productos
-
 Embutidos secos untar cocer
 contengan carne despojos aves corral
-
 especie porcina
 especie porcina doméstica
 Cocida contenido carne grasa superior peso
@@ -1175,7 +1164,6 @@ Paletas trozos paleta
 envases inmediatos contenido neto superior kg
 incluidas mezclas
 contenido carne despojos clase superior peso incluidos tocino grasa naturaleza origen
-
 contengan carne despojos aves corral
 contengan producto compuesto trozos claramente reconocibles carne muscular cuyo tamaño permita determinar obtenidos piernas paletas chuleteros espinazos pequeñas partículas grasa visible pequeñas cantidades depósitos gelatina
 Gallos gallinas patos gansos pavos gallipavos pintadas especies domésticas vivos
@@ -1246,7 +1234,6 @@ Leche nata crema concentradas adición azúcar edulcorant
 polvo gránulos formas sólidas contenido materias grasas inferior peso
 adición azúcar edulcorante
 envases inmediatos contenido neto inferior kg
-
 polvo gránulos formas sólidas contenido materias grasas superior peso
 contenido materias grasas inferior peso
 envases inmediatos contenido neto inferior kg
@@ -2089,8 +2076,6 @@ DO Reglamento cuya modificación constituye Reglamento CE Comisión DO
 Corrección errores Decisión EUPOL COPPS Comité Político Seguridad julio nombra Jefe Misión Policía Unión Europea Territorios Palestinos EUPOL COPPS
 Diario Oficial Unión Europea julio
 página cubierta sumario página título numeración Decisión
-
-
 PESC
 Reglamento Ejecución UE Comisión
 diciembre
@@ -3130,7 +3115,6 @@ Ephraums ed Cambridge University Press Cambridge RU
 DO
 Directiva modificada lugar Acta adhesión
 ANEXO
-
 Directiva CEE modifica
 anexo IV añaden punto nota siguientes
 Asunto
@@ -3138,7 +3122,6 @@ Número Directiva
 Referencia Diario Oficial
 Aplicable
 Sistemas aire acondicionado
-
 anexo XI modifica
 apéndice añade punto
 Punto
@@ -3146,7 +3129,6 @@ apéndice añade punto
 apéndice añade punto
 Significado letras inserta letra
 Únicamente vehículos categoría clase describen tabla correspondiente punto anexo Directiva CEE insertada Directiva CE
-
 Método cálculo potencial calentamiento atmosférico PCA preparado
 PCA media ponderada derivada suma fracciones expresadas peso sustancias multiplicadas PCA
 Sustancia PCA Sustancia PCA Sustancia PCA
@@ -3472,7 +3454,6 @@ arreglo dispuesto artículo apartado Reglamento CE dichos casos aplicable proced
 inserta orden alfabético entrada correspondiente Albania
 Albania
 Entradas correspondientes residuos individuales
-
 Metales preciosos oro plata grupo platino mercurio
 Chatarra tungsteno
 Chatarra molibdeno
@@ -3495,7 +3476,6 @@ Chatarra estaño
 Chatarra magnesio
 Desechos bismuto
 Desechos manganeso
-
 Sulfato calcio parcialmente refinado resultante desulfuración gases combustión
 Residuos revestimientos planchas yeso resultantes demolición edificios
 Escorias producción cobre químicamente estabilizadas elevado contenido hierro tratadas conformidad especificaciones industriales ejemplo DIN DIN principalmente fines construcción aplicaciones abrasivos
@@ -3509,7 +3489,6 @@ Desechos tierras raras Desechos cromo
 Etileno
 Estireno
 Polipropileno
-
 inclusión limitarse
 Cartón laminado
 Desperdicios triar
@@ -3518,7 +3497,6 @@ Desperdicios desechos papel cartón
 Papel cartón blanquear papel cartón ondulado
 papeles cartones hechos principalmente pasta química blanqueada colorear masa
 Papel cartón obtenido principalmente pasta mecánica ejemplo periódicos revistas materiales impresos similares
-
 Desechos paja
 Micelio hongos desactivado resultante producción penicilina utilización pienso
 Desechos pelo humano
@@ -3526,21 +3504,13 @@ Mezclas residuos
 residuos enumerados anexo III mezclas residuos enumeradas anexo IIIA Reglamento CE
 inserta orden alfabético entrada correspondiente Antigua República Yugoslava Macedonia
 Antigua República Yugoslava Macedonia
-
-
-
 Mezclas residuos Mezcla
-
-
 Entradas correspondientes residuos individuales Residuos cinc duro
 Espumas grasos contengan cinc Matas galvanización superficie Zn
 Matas galvanización fondo Zn
 Matas proceso galvanización discontinuo Zn Residuos procedentes desespumado cinc
 Residuos procedentes desespumado aluminio espumas exclusión escorias salinas Residuos revestimientos refractarios inclusión crisoles derivados fundición cobre
-
-
 Desechos lana pelo animal fino basto inclusión desechos hilados exclusión material hilachas
-
 Residuos resinas curadas productos condensación
 siguientes residuos polímeros fluorados
 Perfluoroetileno propileno FEP
@@ -3580,7 +3550,6 @@ Mezcla Perfluoro alcoxil alcano
 Desechos hafnio niobio renio galio
 Metales transición contienen VO exclusión residuos catalizadores catalizadores usados catalizadores líquidos usados catalizadores lista
 Metales transición únicamente contienen VO exclusión residuos catalizadores catalizadores usados catalizadores líquidos usados catalizadores lista
-
 Desperdicios desechos cermet chatarra carburo tungsteno
 Residuos resinas curadas productos condensación poliamidas resinas fenólicas formaldehído
 Desechos plástico polímeros copolímeros halogenados
@@ -3597,7 +3566,6 @@ Poliuretano contenga CFC
 Desechos corcho madera tratar
 residuos industria agroalimentaria exclusión subproductos satisfagan requisitos normas nacionales internacionales consumo humano animal
 Mezclas residuos
-
 Desechos corcho corcho triturado granulado pulverizado
 Residuos resultantes industrias agroalimentarias infecciosos
 Mezcla Mezcla Mezcla Mezcla
@@ -3613,7 +3581,6 @@ Croacia
 mezclas residuos enumeradas anexo IIIA Reglamento CE
 inserta orden alfabético entrada correspondiente Curaçao
 Curaçao
-
 Tetrafluoroetileno perfluorometilvinil éter MFA Fluoruro polivinilo PVF
 inserta orden alfabético entrada correspondiente Emiratos Árabes Unidos
 Emiratos Árabes Unidos
@@ -3629,7 +3596,6 @@ Residuos resinas curadas productos condensación Mezcla
 Mezcla Mezcla
 Mezcla
 inserta orden alfabético entrada correspondiente Kuwait Kuwait
-
 inserta orden alfabético entrada correspondiente Guatemala
 Guatemala
 entrada correspondiente Guyana sustituye texto
@@ -3640,12 +3606,9 @@ entrada correspondiente Hong Kong China sustituye texto
 Hong Kong China
 Residuos revestimientos refractarios inclusión crisoles derivados fundición cobre
 Chatarra tantalio Desechos cobalto
-
 inserta orden alfabético entrada correspondiente Kazajistán
 Kazajistán
-
 Desechos desperdicios caucho endurecido ejemplo ebonita
-
 residuos caucho exclusión residuos especificados categoría
 Residuos industria agroalimentaria infecciosos lías vino
 únicamente lías vino
@@ -3670,7 +3633,6 @@ inserta orden alfabético entrada correspondiente Zelanda
 Zelanda
 inserta orden alfabético entrada correspondiente Ruanda
 Ruanda
-
 Desechos selenio
 Residuos procedentes desespumado aluminio espumas exclusión escorias salinas Residuos revestimientos refractarios inclusión crisoles derivados fundición cobre
 Escorias tratamiento metales preciosos destinados refinación posterior Escorias estaño contengan tantalio estaño Residuos cinc duro
@@ -3711,7 +3673,6 @@ Desechos berilio
 Desechos cadmio
 Desechos selenio
 Desechos telurio
-
 Desechos antimonio
 inserta orden alfabético entrada correspondiente Zambia
 Zambia
@@ -3720,7 +3681,6 @@ Andorra
 inserta orden alfabético entrada correspondiente Chad
 Chad
 entrada correspondiente China sustituye texto China
-
 Lantánidos metales grupo tierras raras
 desperdicios mica
 únicamente desperdicios mica
@@ -3731,17 +3691,14 @@ siguientes residuos polímeros fluorados
 únicamente escorias producción cobre químicamente estabilizadas elevado contenido hierro tratadas conformidad especificaciones industriales ejemplo DIN DIN principalmente fines construcción aplicaciones abrasivos
 Chatarra magnesio Desechos titanio
 Desechos germanio
-
 Matas galvanización fondo Zn Matas cinc moldeo presión Zn
 Matas proceso galvanización discontinuo Zn Residuos procedentes desespumado cinc
 Fluoruro polivinilideno PVDF GB GC GC GEO
-
 Desechos cadmio Desechos plomo exclusión baterías plomo ácido
 Desechos antimonio Desechos berilio
 Desechos algodón inclusión desechos hilados material hilachas
 Poliuretano contenga CFC
 Residuos resinas curadas productos condensación
-
 únicamente caucho vulcanizar
 caucho vulcanizar
 únicamente escorias convertidor procedentes fundición cobre contengan cobre
@@ -3750,7 +3707,6 @@ residuos cables chatarra motores eléctricos
 Desechos plástico polímeros copolímeros halogenados
 autorizada importación residuos peligrosos incluidos
 Mezcla
-
 Residuos industria agroalimentaria infecciosos
 entrada correspondiente Moldova República Moldova sustituye texto
 Moldavia República Moldavia
@@ -3766,9 +3722,7 @@ Residuos resinas curadas productos condensación
 inserta orden alfabético entrada correspondiente Tanzania Tanzania Mezclas residuos
 mezclas residuos enumeradas anexo IIIA Reglamento CE inserta orden alfabético entrada correspondiente Tayikistán
 Entradas correspondientes residuos individuales
-
 residuos
-
 Poliamidas
 Tereftalato polietileno
 Butadieno
@@ -3801,7 +3755,6 @@ Malasia
 entrada correspondiente Taipei chino sustituye texto
 Taipéi chino
 Desechos hafnio indio niobio renio galio
-
 contienen cartón laminado desperdicios triar
 Perfluoro alcoxil alcano
 autorizada importación residuos peligrosos incluidos
@@ -3838,11 +3791,9 @@ desperdicios mica
 Desechos circonio Desechos manganeso
 únicamente escorias producción cobre químicamente estabilizadas elevado contenido hierro tratadas conformidad especificaciones industriales ejemplo DIN DIN principalmente fines construcción aplicaciones abrasivos
 Desechos corcho corcho triturado granulado pulverizado
-
 Desechos corcho madera tratar
 Desechos desperdicios madera estén aglomerados leños briquetas bolas formas similares
 Lías vino
-
 Residuos industria agroalimentaria infecciosos
 Desechos desperdicios subproductos vegetales secos esterilizados estén forma bolas tipo utilizados pienso especificados incluidos categoría
 Productos desgrasados residuos resultantes tratamiento sustancias grasas ceras animales vegetales
@@ -3850,10 +3801,8 @@ Desechos huesos núcleos córneos elaborados desgrasados simplemente preparados 
 Desechos pelo humano
 Desechos paja
 Micelio hongos desactivado resultante producción penicilina utilización pienso
-
 Ropa usada artículos textiles usados
 Trapos usados bramantes cordelería cables desecho artículos usados bramante cordelería cables materiales textiles
-
 Entradas correspondientes residuos individuales
 únicamente desechos torio
 Residuos metales aleaciones metales forma metálica dispersable desechos torio
@@ -3868,8 +3817,6 @@ estén cardados peinados
 Estopa desechos lino
 siguientes materiales estén mezclados desechos estén preparados arreglo especificación Desechos algodón inclusión desechos hilados material hilachas Desechos hilados inclusión desechos hilos Material hilachas
 Mezclas residuos
-
-
 Desechos plástico polímeros copolímeros halogenados inclusión limitarse
 Acetato polivinilo
 Residuos resinas curadas productos condensación inclusión
@@ -4201,7 +4148,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -4919,7 +4865,6 @@ manuales implantación mensajes utiliza número menor exige norma ISO indicará 
 espacio restante elemento datos rellenará caracteres espacio
 indicadores figuran manuales implantación mensajes siguientes
 UNSM
-
 Indicador manual implantación mensajes
 Obligatorio
 obligatorio

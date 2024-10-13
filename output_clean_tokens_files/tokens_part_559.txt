@@ -88,7 +88,6 @@ resultados individuales obtenidos muestra
 valor límite correspondiente
 número motores muestra
 factor estadístico dependiente véase cuadro
-
 ANEXO VIII
 PROCEDIMIENTO ADICIONAL APLICABLE MARCO CONFORMIDAD TIPO BASADA CONTROL INTERNO PRODUCCIÓN MÓDULO
 casos contemplados artículo apartado nivel calidad resulte insatisfactorio aplicará procedimiento
@@ -579,7 +578,6 @@ ALTAS PARTES CONTRATANTES
 CONSIDERANDO República Bulgaria Rumanía convertirán miembros Unión Europea enero
 CONSIDERANDO artículo Tratado establece Constitución Europa estipula condiciones procedimiento admisión establecerán miembros candidato
 CONVENIDO siguientes disposiciones incorporarán anexo Tratado establece Constitución Europa Tratado constitutivo Comunidad Europea Energía Atómica
-
 PRINCIPIOS
 Artículo
 efectos presente Protocolo
@@ -644,7 +642,6 @@ actos adoptados instituciones refieren disposiciones transitorias establecidas p
 disposiciones presente Protocolo tengan objeto efecto derogar modificar carácter transitorio actos adoptados instituciones naturaleza jurídica disposiciones derogadas modificadas estarán sujetas normas
 Artículo
 aplicación Constitución actos adoptados instituciones sujeta carácter transitorio excepciones previstas presente Protocolo
-
 ADAPTACIONES CONSTITUCIÓN
 TÍTULO
 DISPOSICIONES INSTITUCIONALES
@@ -693,7 +690,6 @@ añade párrafo apartado artículo IV Constitución
 virtud Tratado adhesión igualmente auténticas versiones presente Tratado lenguas búlgara rumana
 párrafo artículo Tratado CEEA sustituye texto
 igualmente auténticas versiones presente Tratado lenguas búlgara checa danesa eslovaca eslovena española estonia finesa griega húngara inglesa irlandesa letona lituana maltesa polaca portuguesa rumana sueca
-
 DISPOSICIONES PERMANENTES
 ADAPTACIONES ACTOS ADOPTADOS INSTITUCIONES
 Artículo
@@ -1358,7 +1354,6 @@ Toros novillos vacas novillas
 Terneros mes meses edad peso canal kg
 artículo bis añade párrafo
 obstante caso Bulgaria Rumanía implantación pagos directos llevará cabo programa incrementos expresados porcentualmente relación nivel aplicable Comunidad composición abril
-
 apartado artículo ter añade párrafo
 obstante caso Bulgaria Rumanía superficie agraria régimen pago único superficie superficie agraria utilizada mantenga condiciones agronómicas esté produciendo ajustada procediera arreglo criterios objetivos establezcan Bulgaria Rumanía previa aprobación Comisión
 apartado artículo ter sustituye texto
@@ -1505,7 +1500,6 @@ Tratado establece Constitución Europa III Título III Capítulo III Sección Ag
 Consejo pronunciándose mayoría cualificada propuesta Comisión previa consulta Parlamento Europeo modificará Reglamento regula organización común mercados sector azúcar adhesión Bulgaria Rumanía adaptará cuotas azúcar isoglucosa necesidades máximas abastecimiento correspondientes importaciones azúcar bruto figuran cuadro aparecen seguidamente adaptarse cuotas miembros actuales garantizar respeto principios objetivos organización común mercados sector azúcar vigente momento
 Cantidades acordadas
 Cantidad base azúcar
-
 Necesidades máximas abastecimiento expresadas azúcar blanco correspondientes importaciones azúcar bruto
 Cantidad base isoglucosa
 caso Bulgaria solicite mencionadas cantidades base azúcar trasladarse respectivas cantidades base isoglucosa
@@ -3236,7 +3230,6 @@ toneladas Reino Unido
 miembros concederán ayuda comunitaria límite máximo calculado multiplicando número hectáreas SNG determina apartado promedio EUR
 caso Bulgaria Rumanía cantidades totales refiere párrafo quedan recogidas cuadro Anexo Reglamento CE Consejo revisarán dispuesto párrafo sexto apartado artículo Reglamento
 Terneros mes meses edad peso canal kg
-
 miembros notificarán Comisión intención aplicación régimen tardar agosto año aplicación
 ayudas directas nivel ayudas directas aplicable Comunidad composición abril puntos porcentuales nivel aplicable contemplado artículo bis año considerado
 caso Eslovenia incremento puntos porcentuales puntos porcentuales puntos porcentuales puntos porcentuales
@@ -3743,9 +3736,7 @@ honor confirmar Gobierno contenido
 Corrección errores Reglamento CE Comisión diciembre modifica Reglamento CEE fijan determinadas disposiciones aplicación Reglamento CEE Consejo establece código aduanero comunitario
 Diario Oficial Unión Europea diciembre
 página punto párrafo frase
-
 régimen aduanero pertinente indicarse códigos utilizados subdivisiones casilla documento único
-
 régimen aduanero pertinente indicarse letras utilizadas encabezamiento columna designar regímenes aduaneros cuadro anexo título
 Corrección errores Reglamento CE Consejo diciembre modifica Reglamento CE establece derecho antidumping definitivo importaciones cables acero originarios países Sudáfrica
 Diario Oficial Unión Europea diciembre
@@ -4306,7 +4297,6 @@ Directiva CEE Consejo marzo relativa aproximación legislaciones miembros materi
 Directiva CEE Consejo agosto relativa aproximación legislaciones miembros medidas adoptarse emisiones contaminantes procedentes motores diésel destinados propulsión vehículos DO
 Directiva CEE Consejo diciembre relativa aproximación legislaciones miembros medidas adoptarse emisión gases partículas contaminantes procedentes motores encendido compresión destinados propulsión vehículos emisión gases contaminantes procedentes motores encendido chispa alimentados gas natural gas licuado petróleo destinados propulsión vehículos DO
 ANEXO III
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CE Consejo
@@ -4322,7 +4312,6 @@ DO
 Reglamento CE Parlamento Europeo Consejo
 DO
 Únicamente punto anexo III
-
 Plazos transposición Derecho nacional
 Actos
 Plazo transposición
@@ -4968,7 +4957,6 @@ Retención ventas derechos ayuda
 miembro recurra opción establecida apartado artículo Reglamento CE miembro restituir reserva nacional
 caso venta derechos ayuda tierras valor derecho ayuda importe equivalente expresado número derechos ayuda
 años aplicación régimen pago único porcentaje sustituido
-
 caso venta derechos ayuda tierras valor derecho ayuda importe equivalente expresado número derechos ayuda
 caso venta derechos ayuda retirada tierras tierras valor derecho ayuda
 años aplicación régimen pago único porcentaje sustituido

@@ -324,7 +324,6 @@ cuadro figura letra queda modificado
 continuación línea relativa Portugal inserta línea
 România
 línea sustituye línea
-
 cuadro figura letra queda modificado
 cuadro figura anexo III sustituye cuadro
 Transferencias intracomunitarias autorizadas marco plan
@@ -634,7 +633,6 @@ particular valorará resumen adjuntarse manual sistema gestión seguridad permit
 solicite información autoridad nacional seguridad especificar grado detalle dicha información considere razonable evaluar solicitud
 conceda certificado seguridad documentará cumplimiento criterio evaluación sistema gestión seguridad solicitante
 señale incumplimiento aspecto plantee dudas autoridad nacional seguridad expresará concretamente ayudará solicitante comprender nivel detalle espera respuesta
-
 señalará precisión criterios pertinentes asegurará solicitante comprende claramente incumplimientos detectados
 indicará pertinente reglamentaciones normas relacionadas
 indicará cumplido criterio evaluación
@@ -902,10 +900,8 @@ Bruselas noviembre
 Consejo
 Presidente
 DO
-
 Comunidad Europea Gobierno Ucrania Comercio determinados productos siderúrgicos
 COMUNIDAD EUROPEA sucesivo denominada Comunidad
-
 Considerando
 colaboración cooperación Comunidades Europeas miembros Ucrania entró vigor marzo
 Partes desean promover desarrollo ordenado equitativo comercio productos siderúrgicos Comunidad Ucrania
@@ -1264,12 +1260,10 @@ Presidente
 Reglamento CEE Consejo julio relativo nomenclatura arancelaria estadística arancel aduanero común DO
 ANEXO
 sección XVI capítulo anexo Reglamento CEE líneas correspondientes códigos NC sustituyen texto
-
 Pantallas planas capaces reproducir señales procedentes máquinas tratamiento automático datos nivel aceptable funcionalidad
 Monocromas
 Color
 pantalla cristal líquido LCD
-
 Código TARIC
 Código TARIC
 Código TARIC
@@ -1861,7 +1855,6 @@ DO
 Véase página presente Diario Oficial
 ANEXO
 LISTA UNIÓN AROMAS MATERIALES BASE
-
 Lista Unión sustancias aromatizantes
 SECCIÓN
 Contenido lista
@@ -4447,15 +4440,10 @@ glicina
 ácido aminobutírico
 SalilLcisteína
 Lmetionilglicina
-
 Preparados aromatizantes
-
 Sustancias aromatizantes obtenidas procesamiento térmico
-
 Precursores sustancias aromatizantes
-
 sustancias aromatizantes
-
 Materiales base
 DO
 dictamen adoptado mayo EFSA examinó ácido glicirrícico forma amónica
@@ -4735,16 +4723,12 @@ Código nomenclatura combinada NC compuesto químico presentado separado cumpla 
 Código nomenclatura combinada NC mezcla componentes ejemplo mercurio metales preciosos metales tierras raras elementos radiactivos determinarían clasificación código NC
 Peróxido hidrógeno
 CAS
-
 Nitrometano
 CAS
-
 Ácido nítrico
 CAS
-
 Clorato potásico
 CAS
-
 Perclorato potásico
 CAS
 Clorato sódico
@@ -4774,7 +4758,6 @@ CAS
 Nitrato amónico
 CAS concentración superior peso nitrógeno relación nitrato amónico
 solución acuosa
-
 Reglamento CE
 considerarse sospechosas transacciones relativas precursores explosivos consecuencia habría informar
 ejemplo casos cliente profesional indique claramente utilización prevista parezca familiarizado utilización prevista explicarla forma plausible pretenda comprar cantidades inusuales concentraciones inusuales combinaciones inusuales sustancias reacio aportar pruebas identidad lugar residencia insista emplear métodos pago inusuales ejemplo elevados importes efectivo

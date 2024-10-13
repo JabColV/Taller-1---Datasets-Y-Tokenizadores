@@ -392,19 +392,6 @@ efectos presente artículo zona Porcupine Bank zona geográfica delimitada líne
 Punto
 Latitud
 Longitud
-
-
-
-
-
-
-
-
-
-
-
-
-
 obstante dispuesto apartado permitirá arreglo artículo apartados Reglamento CE tránsito zona Porcupine Bank buques lleven bordo especies mencionadas apartado
 Artículo
 Prohibiciones
@@ -3479,7 +3466,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -3560,7 +3546,6 @@ caso material destinado producción abonos enmiendas suelo origen orgánico comb
 producto contiene obtenido material especificado riesgo define anexo Reglamento CE carne separada mecánicamente obtenida huesos bovinos ovinos caprinos animales obtenido producto sacrificados previo aturdimiento inyección gas cavidad craneal laceración tejido nervioso central introducción instrumento forma vara alargada cavidad craneal
 producto contiene obtenido materiales bovino ovino caprino procedan animales nacidos criados forma continuada sacrificados país región clasificados poseedores riesgo insignificante EEB artículo apartado Reglamento CE
 Notas
-
 Casilla persona responsable envío UE casilla cumplimentarse únicamente certificado mercancía tránsito cumplimentarse certificado refiere mercancía importada
 Casillas número autorización número autorización pide casillas refiere número registro establecimiento planta asignado autoridad competente
 Casilla lugar destino casilla rellenarse únicamente certificado mercancía tránsito
@@ -3697,11 +3682,9 @@ código ZZ significa orígenes
 Corrección errores Decisión PESC Consejo diciembre modifica Decisión PESC relativa adopción medidas restrictivas Irán
 Diario Oficial Unión Europea diciembre
 páginas anexo punto Entidades entrada
-
 Hong Kong Intertrade Company Ltd HKICO ayuda entidades vetadas infringir disposiciones Reglamento UE Irán ofrece apoyo financiero Gobierno Irán
 HKICO compañía ficticia controlada National Iranian Oil Company NIOC entidad vetada UE
 mediados previó HKICO recibiera millones dólares ventas petróleo NIOC
-
 HK Intertrade Company Ltd HKICO ayuda entidades vetadas infringir disposiciones Reglamento UE Irán ofrece apoyo financiero Gobierno Irán
 HK Intertrade Company piso Edificio Tai Yau Johnston Road Wanchai Hong Kong
 Directiva CE Parlamento Europeo Consejo
@@ -4625,7 +4608,6 @@ Productos salida
 indicarse produce energía ejemplo electricidad
 produce vapor indicarse temperatura presión
 indicarse vende energía utiliza energía térmica instalación ejemplo calefacción urbana
-
 especificarse recupera energía instalación forma cantidad
 indicarse producen reacciones exotérmicas instalación cantidad
 especificar producen pérdidas calor instalación

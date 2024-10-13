@@ -416,9 +416,7 @@ Importe fijado contenido sacarosa
 Corrección errores Decisión UE Consejo noviembre relativa firma celebración Unión Europea Georgia crea marco participación Georgia operaciones gestión crisis Unión Europea
 Diario Oficial Unión Europea enero
 página cubierta sumario
-
 Decisión Consejo noviembre relativa firma celebración Unión Europea Georgia crea marco participación Georgia operaciones gestión crisis Unión Europea
-
 Decisión PESC Consejo noviembre relativa firma celebración Unión Europea Georgia crea marco participación Georgia operaciones gestión crisis Unión Europea
 página título
 DECISIÓN CONSEJO
@@ -921,7 +919,6 @@ DO
 Estimaciones tales interpolaciones extrapolaciones necesarias ejemplo datos recopilan fuentes públicas supervisoras periodicidad inferior trimestral plazo superior vigésimo octavo hábil posterior período referencia
 ANEXO
 añade decimoquinta anexo III
-
 Cuadro información sociedades instrumentales FVC
 Cuadro
 Saldos vivos operaciones financieras
@@ -977,7 +974,6 @@ miembros participantes
 AAPP
 sectores residentes
 sectores residentes
-
 ESFP
 SONF
 Hogares
@@ -989,11 +985,9 @@ año años
 añade anexo VIII
 ANEXO VIII
 LISTA SOCIEDADES INSTRUMENTALES EFECTOS ESTADÍSTICOS
-
 Variables comunicación lista sociedades instrumentales efectos estadísticos
 Nombre variable
 Descripción variable
-
 fvcreqnew solicitud adición sociedad instrumental
 fvcreqmod solicitud modificaciones sociedad instrumental
 fvcreqdel solicitud modificaciones sociedad instrumental fvcreqdel solicitud eliminar sociedad instrumental
@@ -1029,7 +1023,6 @@ variable consta partes incluyen referencia ISIN ISIN ISIN ISIN ISINn
 requisito mínimo comunicarse código ISIN ISIN
 comunica sociedad instrumental aplicables disponibles códigos ISIN comunicar ISIN término caracteres XXXXXXXXXXXX
 Información explicativa sociedad instrumental
-
 Comprobaciones validación
 Comprobaciones generales
 comprobará
@@ -2035,7 +2028,6 @@ nitrógeno
 proteínas
 cenizas
 Hidroxiprolina
-
 Exceso hidroxiprolina
 Hidratos carbono
 Contenido calculado pollo
@@ -2174,7 +2166,6 @@ cuadro anexo IV líneas correspondientes contingentes arancelarios números orde
 Naranjas frescas secas
 período
 Exención
-
 Naranjas dulces frescas
 período
 Exención
@@ -2186,7 +2177,6 @@ Designación mercancías
 Período contingentario
 Derechos contingentarios
 Bases cítricos preparación bebidas alcohol bebidas contenido zumos fruta concentrados superior peso contenido sacarosa inferior leche productos lácteos
-
 componente agrícola
 período
 Protocolo prevé aumento volumen contingentes arancelarios aplicables importación Comunidad naranjas originarias Egipto aumento surtirá efecto julio
@@ -2298,15 +2288,12 @@ abajo firmante certifica
 loque americana pequeño escarabajo colmena Aethina tumida ácaro Tropilaelaps Tropilaelaps spp enfermedades plagas obligada notificación indicar totalidad territorio país exportador mencionado anexo III región exportadora tercer país mencionada anexo III Decisión CE
 VALIDEZ
 presente certificado período validez
-
 Nombre cualificación firmante veterinario autorizado funcionario autorizado
 Firma veterinario autorizado funcionario autorizado sello original conservarse años Indíquense número registro vehículo contenedor número precinto caso Número precinto jaula Continuar necesario firma sello distinto color utilizado impreso
 ANEXO II
 ANEXO III
-
 Lista terceros países cumplen condiciones básicas policía sanitaria autorizados principio exportar abejas reinas CE
 países mencionados anexo II Decisión CEE Consejo modificación
-
 Regiones tercer país aisladas geográfica epidemiológicamente loque americana pequeño escarabajo colmena ácaro Tropilaelaps cumplen requisito notificación enfermedades plagas autorizadas exportar abejas reinas CE
 Hawai Unidos América
 Decisión Comisión
@@ -3354,7 +3341,6 @@ Comité Comercio Desarrollo fijará modalidades financieras
 Únicamente miembros permanentes Comité recibir ayuda financiera ejercer funciones seno Comité
 Artículo
 presente Decisión entrará vigor
-
 Comité Económico Social Europeo asumirá Secretaría Comité período inicial finalizará diciembre
 período renovará automáticamente Partes Comité Económico Social Europeo notifiquen desacuerdo antelación suficiente razonable
 solicitará Comité Económico Social Europeo elabore listas organizaciones figuran artículo apartado letras anexo
@@ -3789,7 +3775,6 @@ documento decisión pospuesto sesión posterior Asamblea irá acompañado enmien
 perjuicio dispuesto artículo apartado letra aplazamiento votación abre plazo presentación enmiendas
 documento devuelto comisión correspondiente enmiendas decaerán ponente decidirá medida contenido
 requiere revisión previa texto teniendo plazos fijados
-
 lugar presentación enmiendas ponente procedimiento establecido presentación enmiendas comisión
 documento incluirá decisión orden comisión
 Artículo
@@ -4446,19 +4431,14 @@ extracto cresta gallo obtiene Gallus gallus hidrólisis enzimática crestas gall
 ingredientes principales extracto cresta gallo glicosaminoglicanos ácido hialurónico sulfato condroitina sulfato dermatán sulfato condroitina
 Ácido hialurónico
 Sulfato condroitina
-
 Sulfato dermatán sulfato condroitina
-
 Descripción
 polvo higroscópico blanco blanquecino
 Identificación
 Pureza
 Cloruros
-
 Nitrógeno
-
 Pérdida desecación °C horas
-
 Mercurio
 mg kg
 Arsénico

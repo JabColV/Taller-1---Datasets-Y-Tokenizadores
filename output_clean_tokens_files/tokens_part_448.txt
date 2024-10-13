@@ -488,7 +488,6 @@ Veterinary Laboratories Agency New Haw Weybridge Surrey KT NB Reino Unido
 DO
 ANEXO
 AVES CORRAL HUEVOS INCUBAR POLLITOS HUEVOS GÉRMENES PATÓGENOS ESPECÍFICOS CARNE CARNE PICADA CARNE SEPARADA MECÁNICAMENTE HUEVOS OVOPRODUCTOS
-
 Lista terceros países territorios zonas compartimentos
 Código ISO nombre país territorio
 Código tercer país territorio zona compartimento
@@ -504,7 +503,6 @@ Fecha conclusión
 Fecha inicio
 país
 BR Brasil
-
 Rio do Sul Santa Catarina Paraná São Paulo Mato Grosso do Sul
 Mato Grosso Paraná Rio do Sul Santa Catarina São Paulo
 Distrito Federal
@@ -534,7 +532,6 @@ TR Turquía
 US Unidos
 ZA Sudáfrica
 ZW Zimbabue
-
 Modelos certificados veterinarios
 Modelos
 BPP
@@ -639,7 +636,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Números CITES
 Identificación
 Referencia documental
@@ -731,7 +727,6 @@ impedir salgan excrementos minimizar pérdida plumas transporte
 permitir inspección visual aves corral
 permitir limpieza desinfección
 cargarse limpiado desinfectado vehículos transportan siguiendo instrucciones autoridad competente
-
 Casilla indicar código zona nombre compartimento origen necesario código columna anexo Reglamento CE
 Casilla nombre dirección número autorización establecimiento reproducción cría
 Casilla indicar matrícula vagones camiones nombre buques conoce número vuelo aviones
@@ -1224,7 +1219,6 @@ Deberá cumplimentarse adjuntarse certificado veterinario transporte aves corral
 Declaración patrón barco
 abajo firmante patrón barco nombre declara aves corral refiere certificado veterinario adjunto permanecido bordo barco trayecto país territorio zona compartimento exportadora Comunidad Europea camino Comunidad Europea barco escala sitio país territorio zona compartimento exportadora puertos escala travesía
 travesía aves corral bordo contacto aves corral estatus sanitario inferior
-
 Puerto arribada
 Fecha arribada
 Sello
@@ -2850,8 +2844,6 @@ Diario Oficial Comunidades Europeas diciembre
 página anexo punto
 Testigo conexión optativo
 Testigo conexión obligatorio
-
-
 Reglamento CE Comisión
 agosto
 abre licitación venta alcohol origen vínico miras utilización forma bioetanol Comunidad
@@ -2908,7 +2900,6 @@ organismo intervención facilitará información necesaria características alco
 interesado obtener dirigiéndose organismo intervención trate muestras alcohol puesto venta tomadas representante organismo intervención
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos ocasionen controles contemplados apartado correrán empresas venda alcohol
@@ -3266,11 +3257,8 @@ Artículos confitería cacao incluido chocolate blanco
 Chicles gomas mascar recubiertos azúcar procedentes Turquía
 contenido sacarosa inferior peso incluido azúcar invertido calculado sacarosa
 tiras
-
 contenido sacarosa superior peso incluido azúcar invertido calculado sacarosa
-
 Preparación llamada chocolate blanco
-
 Pastas masas incluido mazapán envases inmediatos contenido neto superior kg
 Pastillas garganta caramelos tos
 Grageas peladillas dulces recubrimiento similar
@@ -3513,8 +3501,6 @@ Artículo
 partes citadas cuadro figura continuación constituyen lista actualizada partes sometidas examen arreglo artículo Reglamento CE
 suspensión derecho ampliado raíz solicitudes surtió efecto fecha correspondiente figura columna titulada Fecha efecto cuadro
 Lista partes sometidas examen
-
-
 Artículo
 rechazan solicitudes exención derecho antidumping ampliado presentadas partes citadas cuadro figura continuación
 Lista partes cuya solicitud exención rechazada
@@ -4088,7 +4074,6 @@ sectores
 comercial institucional
 residencial
 agricultura silvicultura pesca
-
 estacionarios
 móviles
 Emisiones fugitivas combustibles

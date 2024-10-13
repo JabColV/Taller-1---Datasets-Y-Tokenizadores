@@ -59,13 +59,6 @@ Artículo
 miembros velarán explotaciones cumplan requisitos siguientes
 superficie suelo libre deberá disponer cerdo destetado cerdo producción criado grupo excluidas cerdas cerdas jóvenes cubrición
 Peso vivo kg
-
-
-
-
-
-
-
 superficie suelo libre deberá disponer cerda cerda joven cubrición críen grupo respectivamente
 dichos animales críen grupos inferiores individuos superficie suelo libre incrementará
 animales críen grupos individuos superficie suelo libre disminuir
@@ -209,7 +202,6 @@ aparezcan signos pelea violenta investigarán inmediatamente causas adoptarán m
 animales peligro agresores específicos mantendrán separados grupo
 tranquilizantes facilitar mezcla limitará condiciones excepcionales únicamente previa consulta veterinario
 ANEXO II
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -221,7 +213,6 @@ DO
 Reglamento CE Consejo
 DO
 Únicamente punto anexo III
-
 Plazos transposición Derecho nacional
 Directivas
 Plazo transposición
@@ -1498,7 +1489,6 @@ efectos inclusión subsidio subsistencia minusválidos letra epígrafe AA
 REINO UNIDO mantiene exclusivamente respecta movilidad subsidio
 anexo II bis añade texto
 ISLANDIA
-
 Subsidios invidentes Ley diciembre relativa concesión subvenciones invidentes
 Subsidio maternidad Ley noviembre concesión subvenciones maternidad
 Beneficios suplementarios edad supervivientes seguro invalidez Ley diciembre modificada noviembre beneficios suplementarios edad supervivientes seguro invalidez
@@ -1769,9 +1759,7 @@ dimetilformamida contenido máximo kg
 metanol contenido máximo kg
 junio
 mayo
-
 autorizarse usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión flutriafol particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros deberán prestar especial atención
 seguridad trabajadores velar condiciones incluyan utilización equipos protección individual adecuados
@@ -2186,7 +2174,6 @@ Véase página presente Diario Oficial
 Reglamento Ejecución UE Comisión septiembre modifica anexo Reglamento CEE Consejo relativo nomenclatura arancelaria estadística arancel aduanero común DO
 ANEXO
 perjuicio reglas interpretación nomenclatura combinada considerarse designación productos valor meramente indicativo contexto presente anexo concesiones determinadas ámbito cubierto códigos NC vigentes momento adoptarse presente Reglamento
-
 Cuadro derechos
 Código NC
 Designación mercancía
@@ -2198,7 +2185,6 @@ Carne pollo transformada contenido carne despojos aves corral inferior peso
 Carne pato oca pintada transformada cocer contenido carne despojos aves corral superior peso
 Carne pato oca pintada transformada cocida contenido carne despojos aves corral superior peso
 Carne pato oca pintada transformada contenido carne despojos aves corral inferior peso
-
 Anexos arancelarios
 Tipo derecho
 Apertura contingente arancelario toneladas toneladas asignarán Brasil
@@ -2541,11 +2527,9 @@ DO
 ANEXO
 ANEXO II
 LISTA PAÍSES TERRITORIOS
-
 IE Irlanda
 Suecia
 UK Reino Unido
-
 Sección
 DK Dinamarca incluidas GL Groenlandia FO Islas Feroe
 España continental Islas Baleares Canarias Ceuta Melilla
@@ -2559,7 +2543,6 @@ IS Islandia
 MC Mónaco
 Noruega
 Vaticano
-
 AC Isla Ascensión
 AE Emiratos Árabes Unidos
 AG Antigua Barbuda
@@ -3118,7 +3101,6 @@ DO
 DO
 ANEXO
 Modelos certificados sanitarios comercio Unión partidas esperma animales especie equina
-
 Modelo certificado sanitario IA comercio Unión partidas esperma animales especie equina recogido conformidad Directiva CEE Consejo agosto expedido centro recogida autorizado origen
 Información partida presentada
 UNIÓN EUROPEA
@@ -3148,7 +3130,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Descripción mercancía
 Código mercancía código SA
@@ -3227,7 +3208,6 @@ esperma descrito anteriormente
 recogido transformado almacenado transportado condiciones acordes requisitos anexo capítulo II sección punto capítulo III sección Directiva CEE
 enviado lugar carga recipiente precintado conformidad anexo capítulo III sección punto Directiva CEE número indicado casilla
 Notas
-
 Casilla lugar origen centro recogida esperma procede esperma cuestión
 Casilla lugar destino centro recogida almacenamiento esperma explotación destinado
 Casilla Indíquese identificación recipiente número precinto
@@ -3276,7 +3256,6 @@ Fecha
 Firma
 Sello
 color sello firma indicaciones certificado
-
 Modelo certificado sanitario IB comercio Unión partidas existencias esperma animales especie equina recogido transformado almacenado conformidad Directiva CEE Consejo septiembre expedido agosto centro recogida autorizado origen
 Esperma equinos
 centro recogida esperma recogió transformó almacenó comercialización posterior esperma descrito anteriormente
@@ -3306,7 +3285,6 @@ esperma descrito anteriormente recogido transformado almacenado transportado con
 Indíquese fecha
 Veterinario oficial inspector oficial
 color sello firma indicaciones certificado
-
 Modelo certificado sanitario IC comercio Unión partidas esperma animales especie equina recogido transformado almacenado conformidad Directiva CEE Consejo agosto partidas existencias esperma animales especie equina recogido transformado almacenado conformidad Directiva CEE Consejo septiembre expedido agosto centro almacenamiento autorizado
 Números certificados originales asociados
 Números documentos acompañamiento
@@ -3689,7 +3667,6 @@ drá representativa envío plátanos frescos
 drá representativa envío plátanos frescos
 rá representativa envío plátanos frescos
 rá representativa envío plátanos frescos
-
 peso neto determinará
 pesando unidad envase plátanos examen peso bruto
 abriendo unidad envase plátanos pesando envase

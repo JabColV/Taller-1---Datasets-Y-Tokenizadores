@@ -255,7 +255,6 @@ necesario pronunciarse forma definitiva segmento considerarse mercado referencia
 vehículos pasajeros matriculados año Unión Europea Espacio Económico Europeo pasó unidades
 marca Peugeot representó matriculaciones matriculaciones pasando sexta posición marcas Unión Europea cuota mercado pasó
 marca Peugeot registró Países Bajos crecimiento fuerte continuo cuotas mercado vehículos pasajeros pasaron
-
 Decisión refiere infracción aplicada marco acuerdos distribución exclusiva selectiva regulan relaciones Peugeot concesionarios neerlandeses
 infracción articuló torno medidas específicas aptas limitar comercio paralelo sistema remuneración concesionarios función destino geográfico vehículo presiones concesionarios realizaban exportaciones
 Bonificación discriminatoria
@@ -412,7 +411,6 @@ Artículo
 destinatarios presente Decisión miembros
 Bruselas junio
 DO
-
 Unión Europea República Cabo Verde facilitación expedición visados estancias corta duración ciudadanos República Cabo Verde Unión Europea
 UNIÓN EUROPEA sucesivo denominada Unión
 REPÚBLICA CABO VERDE sucesivo denominada Cabo Verde
@@ -1453,7 +1451,6 @@ NOTA excepción cargas eje toneladas superarse toneladas líneas Categoría sigu
 vagones ejes longitud topes carga útil alcance toneladas
 vagones diseñados cargas eje toneladas compensar tara añadida adaptarlos dichas cargas eje
 carga útil máxima transportable vagón punto vista vía estructuras valor resultante fórmulas siguientes
-
 número ejes vagón
 masa unidad longitud
 longitud topes
@@ -1587,10 +1584,6 @@ frenos neumáticos tiempo corresponde presión establecida cilindros freno
 función correspondiente desaceleración Fvelocidad define sucesión secciones desaceleración constante
 Aceleración
 Velocidad
-
-
-
-
 Nota indica desaceleración instantánea velocidad instantánea
 Porcentaje masafreno
 porcentaje masafreno lambda razón suma masas frenado suma masas vehículos
@@ -1611,38 +1604,21 @@ carga
 Requisito velocidad circulación kmh
 Requisito velocidad circulación kmh
 frenado
-
 Vacío
-
-
 Caso zapatas material compuesto
-
 Caso casos
-
-
-
-
-
 Dispositivo
 vacío
 Carga intermedia
-
-
-
 Cargado
 Máximo eje
-
 Caso Aplicación freno ruedas zapatas freno
 obtenida fuerza retardo media kN eje
 Caso casos
-
-Válvula relé carga variable
-
-obtenida fuerza retardo media kN eje
-
 Válvula relé carga variable
 obtenida fuerza retardo media kN eje
-
+Válvula relé carga variable
+obtenida fuerza retardo media kN eje
 frenado
 evaluará separado potencia frenado vagones posición masafreno vagón posición masafreno posición
 cuadro basa velocidad referencia kmh carga eje velocidad referencia kmh carga eje aceptarse cargas eje superiores determinadas condiciones funcionamiento conformidad normas nacionales
@@ -2539,11 +2515,7 @@ Distancia superficies externas pestaña rueda
 Distancia superficies internas pestaña rueda
 Anchura llanta BR
 Espesor pestaña Sd
-
-
 Altura pestaña Sh
-
-
 Cara pestaña QR
 condiciones climáticas nórdicas Finlandia Noruega generalmente material ruedas especial semejante ER nivel alto manganeso silicio mejorar resistencia desgaste lateral
 tráfico interior usarse material partes acuerdan
@@ -4152,7 +4124,6 @@ Alubias
 Alubias Vigna spp Phaseolus spp
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4163,7 +4134,6 @@ Aguacates frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4177,7 +4147,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 Peras nashi Pyrus pyrifolia
 Peras Pyrus bretscheri
@@ -4356,10 +4325,8 @@ Reglamento modificado lugar Reglamento CE DO
 Corrección errores Acción Común PESC Consejo noviembre prorroga modifica mandato misión Observación Unión Europea MOUE
 Diario Oficial Unión Europea diciembre
 página artículo
-
 Artículo
 importe referencia financiera destinado cubrir gastos asociados MOUE enero diciembre EUR importe deberá cubrir gastos asociados cierre MOUE
-
 importe referencia financiera destinado cubrir gastos asociados MOUE enero diciembre EUR importe deberá cubrir gastos asociados cierre MOUE
 Reglamento CE Comisión
 abril

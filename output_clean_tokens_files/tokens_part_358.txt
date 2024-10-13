@@ -193,7 +193,6 @@ Cánones analógicos SVT
 Cánones digitales SVT
 Cánones totales SVT
 Resultado anual Teracom
-
 Resultado acumulado Teracom
 Gobierno facilitado Comisión explicaciones relativas pérdidas Teracom transmisiones SVT período
 Gobierno precios Teracom red digital terrestre basaron número real espectadores llamado índice penetración fase inicial lanzamiento expectativas
@@ -946,7 +945,6 @@ Italia
 Luxemburgo
 Países Bajos
 Finlandia
-
 DO
 Directiva modificada lugar Directiva CE DO
 miembros período desaparición gradual aplicará instrumentos jurídicos creados período desaparición gradual actuarán miembro seguirá referencia unidad monetaria nacional
@@ -1384,10 +1382,8 @@ Animales destinatarios
 Duración estudios
 Característica animales destinatarios
 Lechones lactantes
-
 Preferiblemente previos destete
 Lechones destetados
-
 destete
 Cerdos engorde
 Peso corporal comienzo estudio kg
@@ -1399,17 +1395,14 @@ demostrado tolerancia lechones destetados necesario estudio aparte cerdos engord
 Cuadro
 Duración ensayos tolerancia aves corral
 Pollos engorde criados puesta
-
 incubación
 Gallinas ponedoras
-
 Preferiblemente tercio período puesta
 Pavos engorde
 datos tolerancia pollos engorde pavos engorde utilizarse demostrar tolerancia respectivamente pollos pavos criados puesta reproducción
 Cuadro
 Duración ensayos tolerancia bovinos
 Terneros engorde
-
 Peso corporal inicial kg
 Terneros cría vacuno engorde reproducción
 Vacas lecheras
@@ -1420,7 +1413,6 @@ Corderos cría reproducción
 Cuadro
 Duración ensayos tolerancia salmónidos peces
 Salmón trucha
-
 lugar duración realizarse estudio pez aumentara peso corporal inicial comienzo ensayo factor mínimo
 aditivo destinado utilizado únicamente animales reproducción pruebas tolerancia efectuarán próximas desove
 pruebas tolerancia durarán deberá prestarse atención calidad supervivencia huevos
@@ -1605,7 +1597,6 @@ Cifras teóricas consumo humano diario tejidos productos
 Mamíferos
 Aves
 Pescado
-
 Músculo
 Hígado
 Riñón
@@ -2014,7 +2005,6 @@ Deberá indicarse grupo pertenece producto objeto solicitud
 producto encaja grupos mencionados deberá señalarse justificarse circunstancia
 Caracterización sustancias agentes activos
 aplicación subsección anexo II totalidad
-
 relación grupos aromatizantes deberán indicarse estén disponibles números distintivos pertinentes FLAVIS Consejo Europa JECFA CAS sistema numeración aceptado nivel internacional utilizados específicamente identificar productos aromatizantes empleados piensos alimentos
 Productos naturales botánicamente definidos
 caracterización productos naturales botánicamente definidos incluirá denominación científica planta origen clasificación botánica familia género especie procede subespecie variedad nombres comunes sinónimos número lenguas europeas lenguas ejemplo lugar cultivo origen
@@ -2312,18 +2302,13 @@ Peso
 Lechones lactantes
 Porcinos jóvenes maman cerdas
 nacimiento
-
 kg
 Lechones destetados
 Porcinos jóvenes completado período lactancia crían fines reproducción producción carne
-
-
 kg
 Lechones lactantes destetados
 Porcinos jóvenes criados fines reproducción producción carne nacimiento
-
 Porcinos completado período destete destinan producción carne transporte matadero
-
 costumbre local
 kg costumbre local
 peso sacrificio
@@ -2337,7 +2322,6 @@ Duración mínima estudios eficacia prolongados
 Período
 Pollos engorde
 Aves criadas engorde
-
 kg
 Pollos criados puesta
 Hembras criadas producción huevos mesa fines reproducción
@@ -2349,14 +2333,10 @@ semanas
 meses
 meses
 blancas marrones
-
 semanas
 semanas
 Pavas
-
 Pavos
-
-
 Pavos destinados reproducción
 Hembras machos destinados reproducción
 período
@@ -2408,10 +2388,8 @@ Hembras ovino inseminadas apareadas
 Categoría animales cabras
 Cabritos destinados cría
 Cabras jóvenes criadas fines reproducción
-
 Cabritos engorde
 Cabras jóvenes criadas producción carne cabra
-
 Cabras lecheras producción leche
 Cabras parido cabrito
 Cabras reproducción

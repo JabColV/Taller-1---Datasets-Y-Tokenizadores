@@ -283,7 +283,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 Punto entrada
@@ -335,7 +334,6 @@ presente certificado validez
 caso transporte marítimo prorroga validez dura travesía viaje
 declaración firmada propietario representante forma certificado
 Notas
-
 Casilla Indíquese código territorio figura anexo Decisión CE Comisión enero establece lista terceros países partes territorio miembros autorizan importación équidos vivos esperma óvulos embriones especie equina modifican Decisiones CEE CE DO
 Casilla Indíquese matrícula vagones contenedores ferrocarril camiones número vuelo avión nombre buque
 caso mercancía descargue vuelva cargar expedidor informar puesto inspección fronterizo entrada Unión Europea
@@ -2681,7 +2679,6 @@ voluntad ideológica conservar mayoría capital facilitado internacionalización
 endeudamiento
 Repito France Télécom tuviera problemas financiación actualmente caso tomaría decisiones necesarias superarlos
 reactivando rumor ampliación capital
-
 Digo simplemente tiempo adoptaremos medidas adecuadas
 necesario
 Conviene observar autoridades francesas desmintieron entrevista
@@ -3188,7 +3185,6 @@ Véase comunicado prensa Moodys junio anteriormente mencionado
 Véase artículo Código civil francés establece obligación contraída condición suspensiva depende acontecimiento futuro incierto acontecimiento producido partes desconocen
 evidente definición pertinente caso concreto
 nevertheless the state’s indication underpins FT’s investment grade credit quality
-
 Mer excluyó posibilidad grupo privatizase claramente apoyo firme posee caso problemas financiación
 trader Ministro Hacienda expresaba tanta claridad expediente France Télécom
 falta plasmará apoyo
@@ -3656,14 +3652,12 @@ Fondo Fondos afectados
 Certificado declaración gastos Solicitud pago
 Denominación programa operativo
 Decisión Comisión
-
 referencia Comisión CCI
 Referencia nacional procede
 CERTIFICADO
 abajo firmante
 representante autoridad certificación designada
 certifica gastos incluidos declaración adjunta cumplen criterios subvencionabilidad gasto establecidos artículo Reglamento CE abonados beneficiarios ejecutar operaciones seleccionadas marco programa operativo conformidad condiciones concesión contribuciones públicas arreglo artículo Reglamento CE
-
 ascienden
 EUR
 importe exacto decimales
@@ -3725,7 +3719,6 @@ Comisión presentado dictamen motivado consecuencia incumplimiento arreglo artí
 pago Comisión destinado organismo designado miembro percibir pagos
 Organismo designado
 Entidad bancaria
-
 Titular coincida organismo designado
 CERTIFICADO DECLARACIÓN GASTOS SOLICITUD PAGO
 representante autoridad certificación designada
@@ -3751,7 +3744,6 @@ declaración cierre mencionada artículo apartado letra Reglamento CE
 Comisión presentado dictamen motivado consecuencia incumplimiento arreglo artículo Tratado CE respecta operación operaciones relación declarado gasto solicitud pago cuestión
 Organismo designado
 Entidad bancaria
-
 Titular coincida organismo designado
 ANEXO XI
 DECLARACIÓN ANUAL IMPORTES RETIRADOS RECUPERADOS RECUPERACIONES PENDIENTES IMPORTES IRRECUPERABLES ARREGLO ARTÍCULO APARTADO
@@ -3931,7 +3923,6 @@ Texto
 Nombre empresa
 disponible
 PYME
-
 Dimensión tema prioritario
 Códigos
 Dimensión tipo financiación
@@ -4770,9 +4761,7 @@ Crustáceos moluscos invertebrados acuáticos preparados conservados
 CA
 Camarones langostinos decápodos Natantia eda modificado
 envases herméticamente cerrados
-
 envases inmediatos contenido neto inferior kg
-
 Cigalas Nephrops norvegicus ntenido neto inferior kg
 presente Decisión surtirá efecto mes adopción
 Tórshavn julio

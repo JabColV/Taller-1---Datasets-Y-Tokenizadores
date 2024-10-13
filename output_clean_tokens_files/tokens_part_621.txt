@@ -239,14 +239,10 @@ Corrección errores Decisión Consejo Ministros ACPCE noviembre relativa utiliza
 Diario Oficial Unión Europea febrero
 página artículo
 punto
-
 millones EUR
-
 millones EUR
 punto
-
 millones EUR
-
 millones EUR
 Directiva Ejecución UE Comisión
 abril
@@ -331,9 +327,7 @@ CICAP
 clorobencilciclopentilfenilurea
 junio
 mayo
-
 autorizarse usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión pencicurón particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación global miembros atenderán especialmente protección mamíferos omnívoros
 condiciones incluirán proceda medidas reducción riesgos
@@ -929,7 +923,6 @@ PERMISO CERTIFICADO
 IMPORTACIÓN
 EXPORTACIÓN
 REEXPORTACIÓN
-
 Importador
 País exportación reexportación
 País importación
@@ -1065,7 +1058,6 @@ especímenes mueren robados destruidos perdidos vendidos transferidos propietari
 certificado válido acompañado hoja complementaria
 certificado afectará derecho adoptar medidas internas estrictas restricciones condiciones aplicables especímenes certificados especialmente posesión animales vivos
 certificado válido condiciones transporte ajustan dispuesto directrices transporte animales vivos caso transporte aéreo Reglamentación animales vivos IATA
-
 Objectivo transacción
 estampilla seguridad
 Nombre científico género especie nombre común especie
@@ -1738,7 +1730,6 @@ DO
 DO
 PROYECTO
 DECISIÓN COMITÉ MIXTO EEE
-
 modifica Protocolo EEE cooperación sectores específicos incluidos libertades
 COMITÉ MIXTO EEE
 Visto Espacio Económico Europeo sucesivo denominado EEE particular artículos
@@ -1750,7 +1741,6 @@ presente Decisión entrará vigor notificación transmitida Comité Mixto EEE co
 aplicable enero
 Artículo
 presente Decisión publicará sección EEE Suplemento EEE Diario Oficial Unión Europea
-
 indicado preceptos constitucionales indicado preceptos constitucionales
 Reglamento UE Comisión
 septiembre
@@ -2068,7 +2058,6 @@ Operaciones préstamos
 Operaciones acciones participaciones
 Privatizaciones
 Aportaciones capital
-
 Operaciones activos financieros
 impuestos cotizaciones seguridad social devengados pagados
 Operaciones pasivos consolidadas
@@ -3392,7 +3381,6 @@ Rueda rueda completa compuesta llanta disco rueda
 Indicación dimensiones rueda indicación incluya mínimo diámetro nominal llanta ancho nominal perfil
 Bombeo rueda distancia superficie apoyo cubo línea central llanta
 Neumático cubierta flexible reforzada forma rueda montada cámara continua esencialmente toroidal cerrada contiene gas generalmente aire gas líquido destinado usado presión superior presión atmosférica
-
 neumático normal adecuado condiciones normal carretera
 neumático repuesto provisional neumático diseñado específicamente neumático normal destina temporal condiciones conducción restringidas
 neumático autoportante estructura neumático soluciones técnicas ejemplo flancos reforzados permiten neumático montado rueda adecuada componente adicional garantizar vehículo funciones básicas neumático velocidad kmh mph distancia km funcionando aire
@@ -4338,7 +4326,6 @@ Primas animales
 Corrección alzado Exceso declaración superficies forrajeras alpinas inaplicación sistema medición superficies
 nto alzado Exceso declaración superficies forrajeras alpinas inaplicación sistema medición superficies
 Auditoría financiera
-
 Corrección financiera Certificación cuentas
 Corrección Aplicación Reglamento CE Incumplimiento plazos pago
 Aplicación Reglamento CE Incumplimiento plazos pago
@@ -4550,9 +4537,7 @@ DO
 Corrección errores Directiva UE Parlamento Europeo Consejo noviembre emisiones industriales prevención control integrados contaminación
 Diario Oficial Unión Europea diciembre página artículo apartado párrafo agentes contaminantes cubre plan nacional transitorio fijará límite máximo emisiones totales anuales instalaciones cubiertas plan base potencia nominal térmica diciembre horas anuales reales funcionamiento combustible instalación calculados base máximo años funcionamiento año inclusive agentes contaminantes cubre plan nacional transitorio fijará límite máximo emisiones anuales totales máximas conjunto instalaciones cubiertas plan función potencia nominal térmica diciembre horas funcionamiento anuales reales combustible instalación calculados base media años funcionamiento año inclusive
 página artículo apartado párrafo
-
 utilizando resultados mediciones indicadas apartado anexo VI determinar niveles emisión vertido aguas residuales
-
 utilizando resultados mediciones indicadas apartado anexo VI determinar niveles emisión vertido aguas residuales
 página artículo apartado letra
 enero instalaciones combustión refiere artículo apartado

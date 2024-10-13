@@ -72,7 +72,6 @@ Véase página presente Diario Oficial
 ANEXO
 perjuicio reglas interpretación nomenclatura combinada texto designación mercancía valor meramente indicativo determinándose concesiones marco presente anexo alcance códigos NC vigentes fecha adopción presente Reglamento
 figura ex código NC concesiones determinan tiempo código NC designación correspondiente
-
 Cuadro derechos aduana
 Código NC
 Descripción
@@ -1361,7 +1360,6 @@ sección GH Residuos materias plásticas forma sólida
 GH ex Desechos desperdicios recortes plásticos poliuretano contengan clorofluorocarbonos
 Desperdicios hilados incluidos desperdicios fibras
 Hilachas
-
 fibras sintéticas
 fibras artificiales
 Reglamento CE Comisión
@@ -2509,7 +2507,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 Punto inspección entrada UE
@@ -2556,7 +2553,6 @@ permiten limpieza desinfección
 utilizan limpiados desinfectados vehículo transporta cargar aves arregle instrucciones autoridad competente
 caso transporte aéreo ajustan mínimo normas recientes IATA Asociación Internacional Transporte Aéreo transporte animales vivos
 Notas
-
 Casilla Lugar origen explotación establecimiento reproducción acorde definición Reglamento ejecución UE Comisión PE
 Casilla Matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos
 Deberá aportarse información aparte descarga recarga
@@ -2869,9 +2865,7 @@ CIPAC
 NdiclorofluorometiltioNNdimetilNptolilsulfamida
 octubre
 septiembre
-
 autorizarán usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión tolilfluanida apéndices II ultimó Comité permanente cadena alimentaria sanidad animal septiembre
 evaluación general miembros
 atender especialmente protección mamíferos herbívoros organismos acuáticos artrópodos diana distintos abejas
@@ -3036,7 +3030,6 @@ envasados marcados almacenado transportado capítulos VI VII VIII anexo Directiv
 proceden especies tóxicas contengan biotoxinas
 sometido resultados satisfactorios pruebas organolépticas parasitológicas químicas microbiológicas establecidas categorías productos pesqueros Directiva CEE decisiones aplicación
 inspector oficial abajo firmante declara conocimiento disposiciones contenidas Directivas CEE CEE Decisión CE
-
 lugar fecha
 Sello oficial
 Firma inspector oficial
@@ -3206,7 +3199,6 @@ CC caza cría especies sensibles fiebre aftosa
 CS caza silvestre especies sensibles fiebre aftosa
 GRUPO
 Unidad administrativa
-
 Escocia
 West Yorkshire consta
 South Yorkshire consta
@@ -4713,9 +4705,7 @@ Decisión modificada lugar Decisión CE Consejo DO
 DO
 Decisión modificada lugar Decisión CE DO
 ANEXO
-
 Países miembros OIE incluidos ámbito competencia comisiones regionales OIE contempladas artículo apartado letra
-
 Países miembros OIE incluidos ámbito competencia comisiones regionales OIE contempladas artículo apartado letra
 África
 Américas
@@ -4744,7 +4734,6 @@ Lugar origen lugar captura
 Explotación
 Número autorización
 Explotación Cuarentena Organismo autorizado
-
 Lugar carga
 Fecha salida hora salida
 transporte
@@ -4785,7 +4774,6 @@ propietario representante constar
 aves irán acompañadas desplazamiento persona responsable
 animales destinan fines comerciales
 período comprendido inspección veterinaria previa desplazamiento partida propiamente dicha aves permanecerán aisladas contacto aves
-
 animales permanecido aislados treinta previos desplazamiento entrar contacto aves cubiertas presente certificado
 tomado disposiciones pertinentes cumplimiento período cuarentena indica punto certificado
 Notas

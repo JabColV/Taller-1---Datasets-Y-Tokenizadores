@@ -53,9 +53,7 @@ REINO UNIDO BRETAÑA IRLANDA NORTE
 Partes Tratado constitutivo Comunidad Europea Tratado constitutivo Comunidad Europea Energía Atómica sucesivo denominados miembros
 COMUNIDAD EUROPEA COMUNIDAD EUROPEA ENERGÍA ATÓMICA
 sucesivo denominadas Comunidad
-
 REPÚBLICA TAYIKISTÁN
-
 CONSIDERANDO vínculos existentes Comunidad miembros República Tayikistán valores comunes comparten
 RECONOCIENDO Comunidad República Tayikistán desean reforzar vínculos establecer colaboración cooperación intensifique amplíe relaciones establecidas especialmente Comunidad Económica Europea Comunidad Europea Energía Atómica Unión Repúblicas Socialistas Soviéticas comercio cooperación comercial económica firmado diciembre
 CONSIDERANDO compromiso Comunidad miembros República Tayikistán fortalecimiento libertades políticas económicas constituyen auténtica base colaboración
@@ -585,7 +583,6 @@ retorno condiciones humanas dignas personas residen ilegalmente incluida promoci
 visados especialmente respecta puntos interés común
 controles fronteras especialmente respecta organización formación mejores prácticas medida aplicada terreno caso suministro equipo teniendo presente doble potencial equipo
 cooperación dirigida prevenir controlar inmigración ilegal Partes acuerdan readmitir emigrantes situación ilegal
-
 República Tayikistán acepta readmitir nacionales encuentren ilegalmente territorio miembro Unión Europea solicitud miembro mediar trámites
 miembro Unión Europea acepta readmitir cualquiera nacionales resida ilegalmente territorio República Tayikistán petición mediar trámites
 miembros Unión Europea República Tayikistán proporcionarán nacionales documentos identidad apropiados dichos fines
@@ -860,7 +857,6 @@ Cidro limón
 Limas
 Mandarinas
 Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 producto entero retirar cáscara castañas
 Almendras
@@ -970,7 +966,6 @@ Batatas
 Ñames
 Judía batata jicama mexicana
 Arrurruces
-
 raíces tubérculos excluida remolacha azucarera
 Remolachas
 Zanahorias
@@ -1032,7 +1027,6 @@ Coles Bruselas
 yemas col
 Repollos
 Col puntiaguda col roja col Saboya col blanca
-
 Hojas
 Col china
 Brassica rapa pekinensis
@@ -3928,7 +3922,6 @@ clasificación canales porcino desolladas efectuará aparato denominado Hennessy
 aparato llevará incorporada sonda diámetro milímetros milímetros hoja situada superior sonda provista fotodiodo Siemens LED tipo LYU EO fotodetector tipo Silonex SLCDN distancia operativa milímetros
 resultados mediciones convertirán contenido estimado carne magra sonda HGP ordenador conectado
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor grasa dorsal piel milímetros medido centímetros línea media canal altura costilla
 espesor grasa dorsal piel milímetros medido centímetros línea media canal cuarta costilla contando costilla
@@ -4401,7 +4394,6 @@ Reglamento CE
 anexo XI queda modificado
 apéndice cuadro modifica
 Epígrafe
-
 apéndice cuadro modifica
 apéndice cuadro modifica
 apéndice cuadro modifica
@@ -4687,10 +4679,8 @@ Landsvirkjun suministrará energía necesaria satisfacer necesidades energética
 Landsvirkjun compromete proporcionar Verne necesario suministro regular energía
 validez contrato suministro años sujeto prórroga años
 precio electricidad negociado costes transmisión incluidos
-
 Precio MW
 Periodo
-
 contrato
 volúmenes superiores
 Volumen

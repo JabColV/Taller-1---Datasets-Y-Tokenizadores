@@ -111,7 +111,6 @@ Pico energía electrones acelerador superior MeV
 Pico potencia superior MW
 subartículo Ac somete control aceleradores componentes dispositivos diseñados fines distintos radiación haz electrónico rayos microscopia electrónica ejemplo diseñados fines médicos
 factor mérito define
-
 pico energía electrones millones electronvoltios
 duración impulso haz acelerador inferior microsegundo carga acelerada culombios
 duración impulso haz acelerador superior microsegundo carga acelerada máxima microsegundo
@@ -146,7 +145,6 @@ Intensidad nominal corriente pico ánodo superior
 Tiempo conexión inferior microsegundo
 Generadores impulsos corriente elevada indica
 Véase subartículo Aa conjuntos ignición detonador explosivo
-
 Generadores modulares impulsos eléctricos impulsadores tengan características siguientes
 Diseñados portátil móvil condiciones severas ruggedized
 Encerrados receptáculo estanco polvo
@@ -296,7 +294,6 @@ Dosis Gy silicio
 Modificación tasa dosis Gy silicioseg
 Modificación fenómeno único errores bit
 subartículo Aa somete control ordenadores diseñados especialmente aplicaciones aeronves civiles
-
 Ordenadores digitales conjuntos electrónicos equipo conexo indica componentes diseñados especialmente
 artículo incluye
 procesadores vectoriales
@@ -322,9 +319,7 @@ Conjuntos electrónicos diseñados especialmente modificados mejorar prestacione
 subartículo Ac somete control conjuntos electrónicos interconexiones programables sobrepasen límite especificado subartículo Ab expidan conjuntos electrónicos integrados
 somete control conjuntos electrónicos limitados intrínsecamente naturaleza diseño utilización equipo conexo incluidos subartículo Ae
 subartículo Ac somete control conjuntos electrónicos diseñados especialmente producto familia productos cuya configuración máxima sobrepase límite especificado subartículo Ab
-
 Equipos realicen conversiones analógicodigital sobrepasen límites especificados subartículo Aa
-
 Equipos diseñados especialmente agregar rendimiento ordenadores digitales proporcionando interconexiones externas permitan comunicaciones tasas unidireccionales datos superiores gigaoctetos enlace
 subartículo Ag somete control equipos interconexión interna ejemplo backplanes buses equipos pasivos interconexión controladores acceso red controladores canal comunicaciones
 Ordenadores indica equipo conexo conjuntos electrónicos componentes diseñados especialmente
@@ -383,7 +378,6 @@ Nota
 entiende procesador vectorial procesador instrucciones incorporadas realice simultáneamente cálculos múltiples vectores coma flotante órdenes unidimensionales bits disponga unidades funcionales vectoriales registros vectoriales elementos
 CATEGORÍA
 TELECOMUNICACIONES SEGURIDAD INFORMACIÓN
-
 TELECOMUNICACIONES
 categoría define régimen control componentes láseres equipos producción prueba equipo lógico software diseñados especialmente equipos sistemas telecomunicaciones
 láseres diseñados especialmente equipos sistemas telecomunicaciones véase artículo
@@ -463,7 +457,6 @@ utilicen técnicas analógicas tengan ancho banda superior GHz
 subartículo Bbd somete control equipos diseñados especialmente desarrollo sistemas televisión comerciales
 Equipos radio utilicen técnicas modulación amplitud cuadratura QAM nivel
 Equipos utilicen señalización canal común funcionen explotación asociado
-
 Equipo lógicosoftware diseñado especialmente modificado desarrollo producción utilización equipos funciones elementos incluidos artículo
 Equipo lógicosoftware diseñado especialmente modificado soporte tecnología incluida artículo
 Equipo lógicosoftware diseñado especialmente modificado proporcionar características funciones elementos equipos incluidos artículos
@@ -511,7 +504,6 @@ Tasados operar frecuencias superiores GHz
 Tecnología Nota General Tecnología desarrollo producción dispositivos circuitos electrónicos diseñados especialmente telecomunicaciones contengan componentes fabricados materiales superconductores diseñados especialmente funcionar temperaturas inferiores temperatura crítica constituyentes superconductores tengan cualquiera características siguientes
 Selección frecuencia frecuencias utilizando circuitos resonantes valores superiores
 Tecnología Nota General Tecnología desarrollo producción utilización equipos incluidos artículo
-
 SEGURIDAD INFORMACIÓN
 régimen control equipos equipo lógico software sistemas conjuntos electrónicos específicos aplicaciones determinadas módulos circuitos integrados componentes funciones destinados seguridad información determina categoría trate componentes conjuntos electrónicos equipos
 categoría somete control productos acompañen usuario personal
@@ -694,7 +686,6 @@ Medición profundidad agua
 Medición distancia objetos sumergidos enterrados
 Detección bancos peces
 subartículo Ab somete control equipo diseñado especialmente instalación buques superficie
-
 Sensores equipos ópticos componentes indica
 VÉASE ARTÍCULO
 Detectores ópticos indica
@@ -800,7 +791,6 @@ ciclo cerrado tiempo fallo MTTF tiempo fallos MTBF superior horas
 Minirrefrigeradores autorregulables Joule Thomson JT tengan diámetros interiores exterior inferiores mm
 Fibras ópticas sensoras fabricadas especialmente composición estructura modificadas revestimiento forma sensibles efectos acústicos térmicos inerciales electromagnéticos radiaciones nucleares
 subartículo Ad somete control fibras ópticas sensoras encapsuladas diseñadas especialemnte aplicaciones detección orificios perforación
-
 Cámaras sistemas equipos componentes indica
 VÉASE ARTÍCULO
 cámaras televisión cámaras fotográficas película diseñadas especialmente modificadas utilización subacuática véanse subartículos Ad Ae
@@ -1105,7 +1095,6 @@ subartículo Aj somete control equipos LIDAR diseñados especialmente observaci�
 parámetros estándar Orden OHI edición febrero resumirse
 Incertidumbre horizontal nivel confianza profundidad
 Incertidumbre profundidad profundidades reducidas nivel confianza ±a
-
 error profundidad constante suma errores profundidad constantes
 factor error dependiente profundidad
 bd error dependiente profundidad suma errores dependientes profundidad
@@ -2024,7 +2013,6 @@ Dotadas lente distancia focal fija diseñada retirada
 campo visión instantáneo IFOV mencionado subartículo Ab nota menor valores IFOV horizontal IFOV vertical
 Resolución velocidad metros
 Equipos lógicossoftware diseñados modificados cámaras dotadas conjuntos plano focal especificados subartículos Aaf diseñados modificados eliminar restricción frecuencia cuadro permitir cámara supere frecuencia cuadro especificada nota subartículo Ab
-
 Tecnología Nota General Tecnología producción UAVs incluidos artículo productos incluidos artículos
 Sociedad Americana Ensayos Materiales American Society for Testing and Materials ATC
 Asignada UIT refiere asignación bandas frecuencia edición Reglamento Radiocomunicaciones UIT servicios primarios autorizados secundarios
@@ -3350,7 +3338,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -4192,7 +4179,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Transportista
 miembro
@@ -4241,7 +4227,6 @@ partida cumple condiciones zoosanitarias establecidas Decisión CE Comisión
 partida cumple condiciones zoosanitarias establecidas Decisión CE Comisión
 partida cumple condiciones zoosanitarias establecidas Decisión UE Comisión vacunación influenza aviar
 Notas
-
 Casilla Indicar matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos
 Casilla Categoría seleccionar siguientes opciones línea pura abuelos padres pollitas ponedoras engorde
 Número autorización indicar número granjas autorizadas manadas origen
@@ -4527,7 +4512,6 @@ miembro
 Zona
 Fecha aplicable artículo apartado letra inciso iii
 Nombre
-
 ALEMANIA
 texto sustituye entrada correspondiente Alemania
 Zona
@@ -4645,7 +4629,6 @@ Alubias
 Alubias Vigna spp Phaseolus spp
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4656,7 +4639,6 @@ Aguacates frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4670,7 +4652,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 Peras nashi Pyrus pyrifolia
 Peras Pyrus bretscheri

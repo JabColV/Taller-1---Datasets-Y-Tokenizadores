@@ -183,7 +183,6 @@ Frenado
 Directiva CEE
 Frenado vehículos remolques
 Reglamento CEPE
-
 Reglamento CEPE
 Parásitos radioeléctricos compatibilidad electromagnética
 Directiva CEE
@@ -399,7 +398,6 @@ Nivel sonoro admisible
 Reglamento CE
 Dispositivos visión indirecta
 Frenado vehículos turismo
-
 Placas reglamentarias
 Luces gálibo posición delanteras traseras frenado posición laterales circulación diurna
 Proyectores incluidas lámparas
@@ -412,7 +410,6 @@ Sistemas antiproyección
 Directiva CEE
 Sistemas antiproyección
 Reglamento UE
-
 Salientes exteriores cabinas
 Directiva CEE
 Vehículos industriales respecta salientes exteriores situados panel trasero cabina
@@ -434,7 +431,6 @@ Vehículos accesibles silla ruedas
 Acto reglamentario
 XW
 XW
-
 Seguridad eléctrica
 Requisitos adicionales someter ensayo sistema anclaje sillas ruedas retención ocupantes
 Nota
@@ -473,15 +469,10 @@ Dichos requisitos considerarán cumplidos retención ocupantes homologada confor
 Apéndice
 vehículos especiales incluidos grupo especial portadores multiequipamiento caravanas
 cumplirán medida requisitos anexo IV autorizarán excepciones fabricante demostrar satisfactoriamente organismo homologación vehículo función especial cumplir requisitos
-
-
 sistema protección delantera suministrado vehículo cumplirá requisitos Reglamento CE llevará número homologación marcará consecuencia
 Apéndice
 Grúas móviles
 Autorizada guía carro
-
-
-
 Apéndice
 Vehículos transporte carga excepcional
 Significado notas
@@ -600,12 +591,9 @@ número máximo vehículos tipos superar caso categoría superar vehículos tipo
 caso equivalga cien vehículos miembro autorizar puesta servicio máximo cien vehículos
 vehículos cualquiera tipos estarán limitados expedido fecha fabricación posterioridad certificado conformidad válido período validez inferior meses fecha expedición posteriormente dejado válido entrada vigor acto reglamentario
 GQ
-
 GD
 GH
 GH
-
-
 admite modificación longitud dispositivo escape silenciador supera necesidad ensayos
 homologación tipo CE concedida vehículo base representativo seguirá válida independientemente peso referencia varíe
 conversión puntos anclaje cinturones seguridad deban desplazarse tolerancias previstas punto Reglamento CEPE servicio técnico comprobará alteración constituye caso deberá realizarse ensayo previsto punto Reglamento CEPE
@@ -2553,7 +2541,6 @@ aplica fuerza mm articulación planchas previstas respaldo apoyan ligera tangenc
 determinar exactamente tangente inferior respaldo plancha inferior prevista apoya ligeramente posición vertical
 suspensión asiento ajustar función peso conductor ajuste efectúa forma asiento quede situado distancia posiciones extremas
 ANEXO IV
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -2571,7 +2558,6 @@ DO
 Directiva CE Comisión
 DO
 Únicamente artículo anexo II
-
 Plazos transposición Derecho nacional aplicación
 Acto
 Plazo transposición
@@ -3199,7 +3185,6 @@ capacidad autoridad judicial dictado orden detención europea Dicha información
 información pertinente sección orden detención europea especificando procede
 infracción penal dictado orden detención castigada cadena perpetua medida privativa libertad perpetuidad
 ordenamiento jurídico miembro informador permite revisión pena medida impuesta años solicite vistas ejecución pena medida
-
 ordenamiento jurídico jurisprudencia miembro informador permite aplicación medidas gracia vistas ejecución pena medida
 información pertinente sección orden detención europea
 información pertinente sección orden detención europea especificando procede
@@ -3760,7 +3745,6 @@ Véase anexo II información
 DO
 ANEXO
 EXIGENCIAS INFORMACIÓN ESTADÍSTICA
-
 Operaciones financieras
 instituciones financieras monetarias fondos inversión custodios presentan información acerca carteras valores valores mantienen custodia nombre inversores residentes presentan información estadística siguientes métodos
 periodicidad trimestral mensual operaciones financieras valor valor trimestre mes solicite BCN pertinente variaciones volumen trimestre mes referencia
@@ -3770,7 +3754,6 @@ periodicidad trimestral operaciones financieras valor valor trimestre solicite B
 periodicidad trimestral mensual posiciones valor valor mes solicite BCN pertinente variaciones volumen mes referencia meses trimestre referencia
 periodicidad trimestral posiciones valor valor trimestre solicite BCN pertinente variaciones volumen trimestre referencia
 custodios presenten información acerca valores mantengan custodia nombre inversores financieros residentes miembros zona euro ii acerca valores emitidos entidades zona euro mantengan custodia nombre inversores residentes miembros zona euro inversores residentes Unión Europea presentan información estadística métodos señalan apartado
-
 Datos carteras valores código ISIN instituciones financieras monetarias fondos inversión sociedades instrumentales custodios
 valor asignado código ISIN esté clasificado categorías valores representativos deuda acciones cotizadas participaciones unidades fondos inversión información campos incluidos cuadro presentada relación carteras valores inversores financieros pertenecientes instituciones financieras monetarias fondos inversión sociedades instrumentales custodios
 Dichos datos presentan siguientes normas conformidad definiciones aparecen anexo II
@@ -3790,7 +3773,6 @@ Valor mercado
 Inversión cartera inversión directa
 variaciones volumen valor nominal
 variaciones volumen valor mercado
-
 Datos valores código ISIN mantenidos custodia nombre inversores financieros residentes inversores financieros sujetos obligación informar carteras valores
 valor asignado código ISIN esté clasificado categorías valores representativos deuda acciones cotizadas participaciones unidades fondos inversión mantengan custodia nombre inversores financieros residentes inversores financieros obligados informar carteras valores custodios presentan información relativa campos cuadro
 Informan virtud siguientes normas conformidad definiciones anexo II
@@ -3808,7 +3790,6 @@ intermediarios financieros excluidas sociedades instrumentales auxiliares financ
 Sociedades instrumentales
 Sociedades financieras
 Administraciones públicas Hogares Instituciones fines lucro servicio hogares SS
-
 Datos valores código ISIN mantenidos custodia nombre inversores residentes miembros zona euro
 valor asignado código ISIN esté clasificado categorías valores representativos deuda acciones cotizadas participaciones unidades fondos inversión mantengan custodia nombre inversores financieros residentes miembros zona euro custodios presentan información relativa campos cuadro
 información campos obligada presentación
@@ -3819,14 +3800,12 @@ BCN pertinente solicitar custodios informen datos campos
 Hogares
 inversores financieros excluidos hogares
 País titular
-
 Datos valores código ISIN emitidos residentes zona euro mantenidos custodia nombre inversores residentes miembros zona euro Unión
 custodios informan valor emitido residentes zona euro asignado código ISIN clasificado categoría seguridad valores representativos deuda acciones cotizadas participaciones unidades fondos inversión mantengan custodia nombre inversores residentes miembros zona euro Unión datos campos cuadro
 informa datos campos
 Sector titular
 Administraciones públicas bancos centrales
 inversores distintos Administraciones públicas bancos centrales
-
 Datos carteras valores código ISIN grupos informadores
 empresas principales grupos informadores proporcionan información estadística arreglo siguientes métodos información
 carteras valores grupo entero
@@ -3846,7 +3825,6 @@ Entidades residentes residentes identificadas forma separada
 entidad
 Entidades residentes entidades residentes
 Entidad grupo
-
 Datos carteras valores código ISIN
 valor asignado código ISIN clasificado categoría valores representativos deuda corto plazo valores representativos deuda plazo acciones cotizadas participaciones unidades fondos inversión inversores financieros pertenezcan instituciones financieras monetarias fondos inversión sociedades instrumentales custodios informar datos campos cuadro
 inversores informan datos carteras valores informar siguientes datos trimestrales mensuales
@@ -4139,9 +4117,7 @@ Bifenilol
 kg
 enero
 diciembre
-
 autorizarse usos fungicida poscosecha interiores
-
 aplicación principios uniformes anexo VI conclusiones informe revisión fenilfenol particular apéndices II ultimó noviembre modificó octubre Comité permanente cadena alimentaria sanidad animal
 evaluación general miembros deberán prestar especial atención
 protección usuarios trabajadores velar condiciones exija utilización equipos protección individual adecuados
@@ -4547,8 +4523,6 @@ presente certificación validez meses fecha expedición
 Dirección
 Declaración trabajador desempleado
 trabajador desempleado indica recuadro declara miembros familia mencionados números orden recuadro
-
-
 cálculo prestaciones desempleo debidas persona virtud legislación Reino Unido
 Firma trabajador desempleado
 ciudadanos eslovenos indicar número identificación fiscal
@@ -4705,8 +4679,6 @@ denominación
 dirección
 Conforme citado
 abonado prestaciones desempleo períodos
-
-
 número
 abonado prestaciones desempleo períodos
 motivos siguientes ejemplo finalización período empleo enfermedad regreso trabajador etc
@@ -4715,7 +4687,6 @@ Dirección
 apellidos anteriores incluyen apellido nacimiento
 formulario destinado institución checa danesa estonia austriaca finlandesa islandesa eslovena eslovaca sueca indicar número identificación personal institución polaca indicar números NIP PESEL
 destinado institución belga indicar número identificación seguridad social INSZNISS
-
 legislación italiana permanente actividad laboral legislación estonia actividad laboral legislaciones belga española neerlandesa actividad laboral suponga trabajo ordinario legislación griega actividad laboral implique trabajo semana legislación Reino Unido actividad laboral retribución alcance sobrepase mínimo prescrito cotizar seguridad social
 trabajador desempleado perciba pensión vejez certificación extendida institución checa eslovaca estonia alemana luxemburguesa eslovena suiza perciba pensión invalidez certificación extendida institución francesa alemana luxemburguesa eslovena suiza caso trabajador desempleado perciba pensión invalidez simultáneamente incapacidad permanente trabajar tiempo completo circunstancias excepcionales certificación extendida institución checa trabajador desempleado perciba pensión vejez pensión invalidez parcial tasa superior certificación extendida institución chipriota
 Austria oficina regional Arbeitsmarktservice Servicio mercado trabajo

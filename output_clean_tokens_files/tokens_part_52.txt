@@ -190,7 +190,6 @@ Riñón
 Autoridad Europea Seguridad Alimentaria disponible determinada información métodos analíticos alimentación rumiantes
 Grasa
 Despojos comestibles
-
 Leche nata crema concentrar adición azúcar edulcorante mantequilla materias grasas leche queso requesón
 Bovino
 Ovino
@@ -606,7 +605,6 @@ Limas
 Mandarinas incluidos clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -876,7 +874,6 @@ Fecha inicio
 Modelos
 UY Uruguay
 país
-
 noviembre
 Artículo
 Disposiciones corrección
@@ -1095,14 +1092,12 @@ DO
 Véase anexo
 DO
 ANEXO
-
 Directiva derogada modificación
 contemplado artículo
 Directiva CEE Consejo
 DO
 Decisión CEE Consejo
 DO
-
 Plazo transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -2513,7 +2508,6 @@ Directiva modificada lugar Directiva CE Parlamento Europeo Consejo DO
 DO
 Directiva modificada lugar Acta adhesión
 ANEXO
-
 Gases fluorados efecto invernadero refiere artículo apartado
 Gas fluorado efecto invernadero
 Fórmula química
@@ -2528,7 +2522,6 @@ Perfluorobutano
 Perfluoropentano
 Perfluorohexano
 Perfluorociclobutano
-
 Método cálculo potencial calentamiento atmosférico PCA preparado
 PCA media ponderada derivada suma fracciones expresadas peso sustancias multiplicadas PCA
 Sustancia PCA Sustancia PCA Sustancia PCA
@@ -2929,7 +2922,6 @@ disposición aplicará casos plazo fijado Parlamento Europeo Consejo Comisión p
 documento decisión pospuesto sesión posterior Asamblea irá acompañado enmiendas válidamente presentadas refieran
 documento devuelto comisión correspondiente enmiendas decaerán ponente decidirá medida contenido
 requiere revisión previa texto teniendo plazos fijados
-
 lugar presentación enmiendas ponente procedimiento establecido presentación enmiendas comisión
 documento incluirá decisión orden comisión
 Artículo
@@ -3940,12 +3932,9 @@ Tesoro Público
 Garantía buque
 Ley mayo fianzas garantías constituidas Tesoro Público determinadas personas jurídicas DO punto modificado
 Decreto Consejo Ministros
-
 Garantía buque
-
 Garantía buques
 Decreto Consejo Ministros
-
 Garantía buques
 Decreto Consejo Ministros
 Ley
@@ -3966,7 +3955,6 @@ Plazos mensuales abonados
 Transacción única
 Garantía construcción buques
 Decreto Consejo Ministros
-
 Crédito
 Actividad KPS arreglo escritura constitución
 Contrato crédito
@@ -3984,7 +3972,6 @@ Ayudas estatales adicionales concedidas Astillero Gdynia junio julio datos facil
 Crédito
 Contrato crédito OPP
 plazos
-
 Contrato crédito
 Cuadro
 Deudas
@@ -4826,7 +4813,6 @@ Decisión Comisión autorizó constituir ayuda estatal régimen garantías gesti
 principales accionistas Astillero Gdynia Ministerio Tesoro Público posee acciones corresponde derechos voto empresa privada Ray Car Carriers Ltd respectivamente Korporacja Polskie Stocznie SA Corporación Astilleros Polacos Agencja Rozwoju Przemysłu SA Agencia Desarrollo Industrial sucesivo ARP respectivamente Stoczniowy Fundusz Inwestycyjny SA Fondo Inversión Construcción Naval respectivamente
 plan contempla cartera consta buques offshore buques transporte vehículos
 arreglo plan reestructuración conjunto junio astilleros fusionados debían celebrar contratos construcción trece buques portacontenedores buques offshore buques transporte vehículos dieciséis buques portacontenedores buques offshore transporte vehículos quince buques portacontenedores buques offshore transporte vehículos diecisiete buques buques offshore transporte vehículos dieciocho buques catorce buques offshore transporte vehículos
-
 Instituto Seguridad Social ZUS
 escritos autoridades polacas funcionamiento sistema garantías KUKE indican garantías concedieron forma lugar firmaba contrato armador solía supeditado astillero demostrase determinado plazo KUKE garantizaría financiación producción
 septiembre organizó reunión autoridades polacas Comisión participaron representantes ISD Polska

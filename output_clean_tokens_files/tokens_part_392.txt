@@ -217,7 +217,6 @@ Eprinomectina
 Eprinomectina Ba
 Bovinos
 Músculo
-
 Antiparasitarios Agentes activos frente endo ectoparásitos
 Grasa
 Hígado
@@ -1751,14 +1750,12 @@ Véase Anexo
 DO
 Directiva cuya modificación constituye Directiva CE
 ANEXO
-
 Directiva derogada modificación
 Directiva CEE Consejo
 DO
 únicamente apartado articulo
 Directiva CE Parlamento Europeo Consejo
 DO
-
 Plazos transposición Derecho interno aplicación
 contemplados artículo
 Directiva
@@ -2126,7 +2123,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -2406,7 +2402,6 @@ ref
 CAS
 Nombre sustancia
 aditivo auxiliar polimerización
-
 monómero sustancia partida macromolécula obtenida fermentación microbiana
 FRF aplicable
 LME
@@ -3072,7 +3067,6 @@ bancos centrales nacionales subastan liquidan forma descentralizada
 entidades contrapartida cumplan criterios generales selección describen sección presentar pujas subastas correspondientes
 RECUADRO
 importe emisión PT
-
 importe nominal certificado deuda
 tipo interés porcentaje
 plazo vencimiento certificado deuda
@@ -3677,7 +3671,6 @@ virtud Reglamento CE Consejo Reglamento BCE BCE discriminatoria eximir entidades
 adoptar decisión exenciones BCE tomará consideración siguientes criterios
 entidad desempeña funciones propósito especial
 entidad realiza funciones bancarias forma activa competencia entidades crédito
-
 entidad depósitos asignados fines relacionados ayuda desarrollo regional internacional
 BCE elabora mantiene lista entidades sujetas sistema reservas mínimas Eurosistema
 Asimismo publica lista entidades exentas exigencias impone sistema razones distintas sujetas procesos saneamiento
@@ -4209,7 +4202,6 @@ Información simplificada datos reservas mínimas exigidos
 Base reservas calculada sumando siguientes columnas cuadro Pasivo
 DEPÓSITOS euros monedas extranjeras
 DEPÓSITOS TOTALES
-
 plazo años
 disponibles preaviso años
 Información voluntaria
@@ -4331,7 +4323,6 @@ banco procese solicitud deberá recibirse tardar minutos hora cierre efectiva TA
 general sistema TARGET cierra hora BCE hora central europea
 volumen mínimo puja aplica nivel tipo interés
 BCE imponer límite máximo pujas evitar desproporcionadamente
-
 instrumento renta fija admitido negociación mercado regulado define Directiva CE Parlamento Europeo Consejo abril relativa mercados instrumentos financieros negociarse mercados regulados especificados BCE
 evaluación mercados regulados efectuada Eurosistema basa principios seguridad transparencia accesibilidad Tipo emisor avalista
 instrumento renta fija emitido avalado bancos centrales entidades públicas entidades sector privado organismos internacionales supranacionales
@@ -4672,15 +4663,12 @@ DO
 Reglamento modificado Reglamento CE DO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES CERDO ESTONIA
-
 clasificación canales cerdo llevará cabo aparato denominado Intrascope Optical Probe
 aparato equipado sonda hexagonal anchura máxima milímetros milímetros lámina situada extremo llevará visor fuente luz cilindro deslizante calibrado milímetros alcance operativo milímetros
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal costilla
 fórmula válida canales peso comprendido kilogramos
-
 clasificación canales cerdo llevará cabo aparato denominado UltraFOM
 aparato irá equipado sonda ultrasónica MHz Krautkrämer MB
 señal ultrasónica digitalizada almacenada procesada microprocesador
@@ -4758,7 +4746,6 @@ animales obtenido subproducto animal sacrificados previo aturdimiento inyección
 subproducto animal contiene obtenido materiales bovino ovino caprino hayan obtenido animales nacidos criados forma continuada sacrificados país región clasificados riesgo insignificante EEB artículo apartado
 importaciones subproductos animales productos transformados derivados origen bovino ovino caprino mencionados sección presente capítulo contengan leche productos lácteos origen ovino caprino estarán supeditadas presentación certificado zoosanitario corresponda modelo establecido anexo capítulo Reglamento CE contenga acreditación añadida punto certificado
 relativo EET
-
 caso subproductos animales destinados piensos rumiantes contengan leche productos lácteos origen ovino caprino ovinos caprinos origen dichos productos permanecido interrupción nacimiento años vida explotación sometida restricción oficial movimientos sospecha EET años satisfecho siguientes requisitos
 sometida controles veterinarios oficiales periódicos
 haberse diagnosticado caso tembladera clásica definido anexo punto letra Reglamento CE confirmación caso tembladera clásica

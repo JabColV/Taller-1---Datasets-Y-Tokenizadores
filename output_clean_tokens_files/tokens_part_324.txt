@@ -4627,7 +4627,6 @@ instalaciones edificios obras véase
 acabado edificios obras véase
 actividades arquitectura ingeniería véase
 dirección obras construcción véase
-
 Construcción cubiertas estructuras cerramiento
 construcción tejados
 cubierta tejados
@@ -4639,8 +4638,6 @@ construcción pistas aterrizaje
 construcción equipamientos estadios piscinas gimnasios pistas tenis campos golf instalaciones deportivas excluidos edificios
 pintura señales carreteras aparcamientos
 movimiento tierras previo véase
-
-
 Obras hidráulicas
 clase comprende
 construcción
@@ -4704,7 +4701,6 @@ instalación piscinas particulares
 limpieza vapor chorro arena similares exterior edificios
 obras acabado edificios citadas
 limpieza interior edificios obras véase
-
 Alquiler equipo construcción demolición dotado operario
 alquiler equipo maquinaria construcción demolición desprovisto operario véase
 Reglamento CEE Consejo octubre DO
@@ -4752,7 +4748,6 @@ personas autorizadas puedan acceso datos transmitidos fecha especificada
 datos recibidos abiertos aplicación presentes requisitos accesibles personas autorizadas conocimiento
 caso infrinjan intenten infringir prohibiciones condiciones acceso refieren letras garantizarse razonablemente infracciones tentativas claramente detectables
 ANEXO VI
-
 INFORMACIÓN FIGURAR ANUNCIOS PERIÓDICOS INDICATIVOS
 refiere artículo
 Información figurar casos
@@ -4790,7 +4785,6 @@ Nombre dirección órgano competente procedimientos recurso caso mediación
 Indicación plazo presentación recursos caso necesario nombre dirección números teléfono fax dirección electrónica servicio obtenerse dicha información
 conocen criterios contemplados artículo utilizarán adjudicación contrato
 oferta económicamente ventajosa determina precio exclusivamente mencionarán asimismo criterios determinen oferta económicamente ventajosa ponderación caso orden importancia figuren pliego condiciones invitación confirmar interés refiere artículo apartado letra invitación licitar negociar
-
 INFORMACIÓN FIGURAR ANUNCIOS PUBLICACIÓN PERFIL COMPRADOR ANUNCIO PERIÓDICO INDICATIVO SIRVA CONVOCATORIA LICITACIÓN
 refiere artículo apartado
 Códigos CPV

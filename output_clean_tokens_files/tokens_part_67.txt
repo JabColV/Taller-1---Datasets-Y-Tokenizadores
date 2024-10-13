@@ -283,9 +283,7 @@ Impurezas relevantes
 Tolueno máx kg
 junio
 mayo
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión flurocloridona particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal febrero
 evaluación general miembros deberán atender especialmente
 riesgo plantas diana organismos acuáticos
@@ -492,7 +490,6 @@ organismo intervención facilitará información necesaria características alco
 interesado obtener dirigiéndose organismo intervención trate muestras alcohol puesto venta tomadas representante organismo intervención
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos ocasionen controles contemplados apartado correrán empresas venda alcohol
@@ -696,7 +693,6 @@ DO
 actualizaciones CCRVMA lista INDNR adoptada reunión anual CCAMLRXXXI octubre noviembre actualizada abril SEAFO SEAFO incluye lista INDNR listas CCRVMA CPANEB NAFO CICAA lista INDNR adoptada reunión anual noviembre Recomendación CIAT lista adoptada octogésima reunión junio CPANE AM lista INDNR rev adoptada trigésima reunión anual celebrada noviembre NAFO trigésima cuarta reunión anual celebrada septiembre NAFO revisó lista buques INDNR observó necesario cambios lista
 Posteriormente decisión CPANE suprimir buque RED lista INDNR NAFO suprimió diciembre buque lista INDNR CPPOC lista CPPOC buques INDNR diciembre efecto febrero
 ANEXO
-
 Buques inscritos lista virtud artículo Reglamento CE
 Número OMI identificación buque referencia OROP
 Nombre buque nombre
@@ -1954,15 +1950,12 @@ Designación mercancía
 Volumen contingente
 toneladas
 Tipo derechos aplicables límites contingente
-
-
 Mantequilla manteca materias grasas leche pastas lácteas untar
 Pastas lácteas untar
 contenido grasas superior inferior peso
 contenido grasas superior inferior peso
 Artículos confitería cacao incluido chocolate blanco
 grasas superior inferior peso
-
 Chocolate preparaciones alimenticias contengan cacao
 Cacao polvo adición azúcar edulcorante inferior peso
 contenido sacarosa isoglucosa superior peso incluido azúcar invertido calculado sacarosa
@@ -1991,7 +1984,6 @@ tipo NMF
 Cigarros puros despuntados puritos contengan tabaco
 Cigarrillos contengan tabaco tabaco
 contengan clavo ngan tabaco
-
 contingente toneladas abierto enero diciembre derecho contingente
 Reglamento UE Parlamento Europeo Consejo
 diciembre
@@ -3309,14 +3301,12 @@ DO
 ANEXO
 ANEXO II bis
 Informe referencia artículo apartado
-
 Información relativa período meses finaliza marzo incluye entregas ventas directas
 Número productores rebasaron cuota disponible reasignación cuota arreglo dispuesto artículo Reglamento CE
 Volumen entregas ventas directas excedentarias efectuadas productores mencionados punto kg reasignación cuota arreglo dispuesto artículo Reglamento CE
 Número productores utilizado volumen inferior cuota disposición
 Volumen cuota utilizada productores mencionados punto kg
 Número productores contribuir pago tasa excedentes reasignación cuota utilizada arreglo dispuesto artículo Reglamento CE
-
 INCLUYE ENTREGAS VENTAS DIRECTAS
 Nota columnas subtotal columna
 Período
@@ -3327,7 +3317,6 @@ Número productores incluidos columna cuya tasa adeudada reclamada procedimiento
 Número productores incluidos columna cuya tasa adeudada reclamada procedimiento jurídico
 Número productores incluidos columna entablado procedimiento jurídico atañe tasa impuesta
 Número productores incluidos columna imposible recaudar tasa
-
 añádase comentario
 Nota columnas subtotal columna
 Importe tasa adeudada período
@@ -3458,26 +3447,21 @@ DO
 Reglamento modificado lugar Reglamento CE DO
 ANEXO
 anexo Decisión CE añaden partes siguientes
-
 clasificación canales cerdo realizará dispositivo denominado VCS
 dispositivo VCS sistema tratamiento imágenes determina automáticamente valor comercial medias canales cerdo
 utiliza línea sistema sacrificio consiste red cámaras filma automáticamente medias canales
 imágenes tratadas informáticamente software especial tratamiento imágenes
 contenido carne magra canal calculará base variables fórmula
-
 porcentaje estimado carne magra canal
 variables medidas VCS
 descripción puntos medición método estadístico consultarse II protocolo belga presentado Comisión arreglo artículo apartado Reglamento CEE
 fórmula válida canales peso comprendido kilogramos
-
 clasificación canales cerdo hará dispositivo denominado Hennessy Grading Probe HGP
 dispositivo consta sonda diámetro milímetros milímetros hoja situada superior sonda provista fotodiodo fotodetector alcance operativo milímetros
 resultados mediciones convertirán contenido estimado carne magra HGP ordenador conectado
 contenido carne magra canal calculará fórmula
-
 espesor tocino incluida piel milímetros medido punto situado centímetros línea divisoria cuarta costillas contando costilla
 espesor músculo milímetros medido punto situado centímetros línea divisoria cuarta costillas contando costilla
-
 clasificación canales cerdo hará dispositivo denominado OptiscanTP
 dispositivo OptiscanTP consta procesador digital imágenes foto iluminada puntos medición canal
 imágenes base cálculo espesor tocino músculo método puntos ZweiPunkte Messverfahren ZP
@@ -3535,7 +3519,6 @@ presente Decisión entrará vigor notificación transmitida Comité Mixto EEE co
 aplicable enero
 Artículo
 presente Decisión publicará sección EEE Suplemento EEE Diario Oficial Unión Europea
-
 DO
 indicado preceptos constitucionales indicado preceptos constitucionales
 Corrección errores Directiva UE Comisión marzo modifica Directiva CEE Consejo incluir sustancia activa malatión
@@ -4402,7 +4385,6 @@ reglas tecnológicas reconocidas descritas ejemplo normas ASTM ISO NFPA encuentr
 aplicando método cálculo
 calor químico combustión ΔHc kilojulios gramo kJ calcularse producto calor teórico combustión ΔHcomb eficiencia combustión general inferior eficiencia combustión típica
 preparado aerosol compuesto calor químico combustión suma calores combustión ponderados componentes conforme fórmula
-
 calor químico combustión kJ producto
 fracción masa componente producto
 calor específico combustión kJ componente producto
@@ -4534,7 +4516,6 @@ Humedad relativa
 Nombre producto
 Volumen neto
 Ignición
-
 Observaciones indicar especial posición bote
 Ensayo ignición espacio cerrado
 norma ensayo describe método evaluar inflamabilidad productos salen generadores aerosoles debida tendencia ignición espacio cerrado limitado

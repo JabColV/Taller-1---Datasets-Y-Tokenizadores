@@ -915,7 +915,6 @@ Partes contratantes prohibir frecuencia potencia permitir frecuencias potencias 
 luces utilicen avisadores ópticos estén incluidas sistema estándar alumbrado vehículo cumplir parámetros funcionamiento punto estarán sujetas ensayos punto
 arreglo definición anexo Reglamento CEPE versión modificada
 ANEXO
-
 Formato máximo mm mm
 FICHA CARACTERÍSTICAS
 conformidad apartados proceda Reglamento relativa homologación tipo CEPE sistemas tipo vehículo respecta dispositivos utilización autorizada
@@ -932,7 +931,6 @@ Direcciones plantas montaje
 CONSTITUCIÓN GENERAL VEHÍCULO
 Fotografías dibujos vehículo representativo
 Posición volante izquierda derecha Táchese proceda casos necesario tachar aplicable opción
-
 Dispositivos utilización autorizada vehículo
 Dispositivo protección
 Descripción detallada tipo vehículo disposición diseño mando unidad actúa dispositivo protección
@@ -949,7 +947,6 @@ Sistema alarma haberlo
 caso sistemas alarma homologados
 Descripción detallada sistema alarma piezas vehículo relacionadas sistema alarma instalado
 Lista principales componentes constituyen sistema alarma
-
 conformidad apartado Reglamento relativa homologación tipo CEPE componentes sistema alarma
 identificación tipo marcado dispositivo
 Nombre dirección fabricante
@@ -964,7 +961,6 @@ Lista vehículos previsto instalar dispositivo
 Descripción método instalación ilustrado fotografías dibujos ambas cosas
 Instrucciones utilización
 Instrucciones mantenimiento haberlas
-
 conformidad apartado Reglamento relativa homologación tipo CEPE componentes sistema inmovilizador
 identificación tipo marcado dispositivo
 Sistemas vehículo actúa inmovilizador
@@ -1062,7 +1058,6 @@ ejemplo
 marca homologación colocada vehículo indica tipo correspondiente homologado Países Bajos arreglo partes II IV Reglamento arreglo Reglamento
 primeras cifras número homologación indican fechas concedieron homologaciones Reglamento encontraba forma original Reglamento incorporaba serie enmiendas
 ANEXO
-
 PROCEDIMIENTO ENSAYO DESGASTE DISPOSITIVOS UTILIZACIÓN AUTORIZADA ACTÚAN DIRECCIÓN
 Equipo ensayo
 equipo ensayo consistirá
@@ -1098,14 +1093,11 @@ apellidos nombre
 certifica sistema alarma vehículos inmovilizador
 Marca
 plenamente conforme tipo homologado
-
-
 fecha
 describe formulario comunicación homologación
 Identificación principales componentes
 Componente
 Marcado
-
 Dirección completa sello fabricante
 indíquese cargo
 Táchese proceda
@@ -1448,7 +1440,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -1486,7 +1477,6 @@ sometida
 tratamiento ácidos lavado agua tratamiento solución alcalina pH ajustarse material purificarse filtración esterilizarse °C segundos
 tratamiento álcalis lavado agua tratamiento solución ácida horas pH ajustarse material purificarse filtración esterilizarse °C segundos
 envasado embalado envases embalajes figura advertencia GELATINA FOTOGRÁFICA DESTINADA EXCLUSIVAMENTE INDUSTRIA FOTOGRÁFICA
-
 Casilla destino previsto gelatina fotográfica Luxemburgo Países Bajos Reino Unido
 Casilla País destino aplicable únicamente Luxemburgo Países Bajos Reino Unido
 Casilla número registro vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos Deberá aportarse información aparte caso descarga recarga
@@ -2190,7 +2180,6 @@ Véase página presente Diario Oficial
 ANEXO
 perjuicio reglas interpretación nomenclatura combinada texto designación mercancía valor meramente indicativo determinándose concesiones marco presente anexo alcance códigos NC vigentes fecha adopción presente Reglamento
 figura ex código NC concesiones determinan tiempo código NC designación correspondiente
-
 Cuadro derechos aduana
 Código NC
 Descripción
@@ -2550,7 +2539,6 @@ meses
 meses
 meses
 meses
-
 Carne animales especie porcina doméstica fresca refrigerada
 Medias canales presentadas pata delantera rabo riñón diafragma médula espinal
 Jamones
@@ -2687,7 +2675,6 @@ ANEXO
 ANEXO
 clasificación canales cerdo efectúa método denominado ZweiPunkteMessverfahren ZP
 contenido carne magra canal calculará fórmula
-
 porcentaje calculado carne magra canal
 espesor milímetros tocino incluida corteza visible hendidura central medido estrecha recubre Musculus glutaeus medius
 espesor milímetros músculo lumbar visible hendidura central distancia corta craneal Musculus glutaeus medius borde superior dorsal canal vertebral
@@ -2714,7 +2701,6 @@ Bruselas noviembre
 Comisión
 Miembro Comisión
 ANEXO
-
 Sector carne vacuno
 Plan previsiones abastecimiento ayuda comunitaria abastecimiento productos comunitarios año civil
 Designación mercancía
@@ -2761,7 +2747,6 @@ Directiva modificada lugar Directiva CE Parlamento Europeo Consejo DO versión c
 DO
 ANEXO
 ANEXO
-
 Alemania
 RenaniaPalatinado
 distrito Ahrweiler municipios Adenau Altenahr
@@ -2875,9 +2860,7 @@ estadísticas comunitarias innovación deberán elaborarse año referencia año 
 Corrección errores Reglamento CE Consejo septiembre establece plan plurianual poblaciones bacalao Mar Báltico pesquerías poblaciones modifica Reglamento CEE deroga Reglamento CE
 Diario Oficial Unión Europea septiembre
 página anexo II Contenido programas nacionales control punto
-
 Descripción sistemas aplicados garantizar observancia artículos
-
 Descripción sistemas aplicados garantizar observancia artículos
 página anexo II Contenido programas nacionales control punto
 procede lista puertos designados efectuar desembarques bacalao conforme indicado artículo
@@ -4146,7 +4129,6 @@ bb
 Atrazina
 Simazina
 Compuestos triorganoestánnicos distintos compuestos tributilestaño
-
 sr sr
 queda modificada
 Categoría
@@ -4876,7 +4858,6 @@ DETERMINACIÓN CRITERIOS COMPORTAMIENTO
 CRITERIO COMPORTAMIENTO CABEZA HPC ACELERACIÓN CABEZA ms
 satisface criterio comportamiento cabeza HPC ensayo produce contacto cabeza componente vehículo
 ensayo cabeza entra contacto componente vehículo procederá cálculo valor HPC base aceleración medida conforme punto anexo fórmula
-
 aceleración resultante medida conforme punto anexo unidades gravedad
 comienzo contacto cabeza determinarse satisfactoria constituyen instantes expresados segundos definen intervalo tiempo comienzo contacto cabeza registro valor HPC máximo
 comienzo contacto cabeza determinarse satisfactoria constituyen instantes expresados segundos definen intervalo tiempo comienzo registro valor HPC máximo
@@ -4894,7 +4875,6 @@ criterio vendrá determinado carga compresión expresada kN ejerce axialmente f�
 CRITERIO FUERZA COMPRESIÓN TIBIA TCFC ÍNDICE TIBIA
 criterio fuerza compresión tibia vendrá determinado fuerza compresión Fz expresada kN ejerce axialmente tibia maniquí medida conforme punto anexo
 índice tibia calculará tomando base momentos flexión Mx My medidos conforme punto fórmula
-
 momento flexión torno eje
 momento flexión torno eje
 momento crítico flexión tomará valor Nm

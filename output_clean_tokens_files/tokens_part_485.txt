@@ -444,7 +444,6 @@ Intermediarios piensos
 Medios transporte
 Explotaciones animales rumiantes
 Explotaciones animales rumiantes
-
 Toma muestras examen materias primas piensos piensos compuestos vistas detección proteínas animales transformadas
 Número muestras oficiales sometidas prueba vistas detectar presencia proteínas animales transformadas
 Número muestras conformes
@@ -1898,14 +1897,11 @@ DO
 Corrección errores Directiva CE Parlamento Europeo Consejo noviembre modifican Directiva CE relativa marco regulador común redes servicios comunicaciones electrónicas Directiva CE relativa acceso redes comunicaciones electrónicas recursos asociados interconexión Directiva CE relativa autorización redes servicios comunicaciones electrónicas
 Diario Oficial Unión Europea diciembre
 página considerando frases
-
 consiguiente Comisión aportar participación garantizando coherencia aplicación soluciones adoptando dictámenes proyectos medidas propongan autoridades nacionales reglamentación aprovechar conocimientos especializados autoridades nacionales reglamentación análisis mercados Comisión consultar ORECE adoptar decisiones dictámenes
-
 consiguiente Comisión aportar participación garantizando coherencia aplicación soluciones adoptando recomendaciones proyectos medidas propongan autoridades nacionales reglamentación aprovechar conocimientos especializados autoridades nacionales reglamentación análisis mercados Comisión consultar ORECE adoptar decisiones recomendaciones
 página considerando nota pie página
 Recomendación Comisión febrero relativa mercados pertinentes productos servicios sector comunicaciones electrónicas objeto regulación ex conformidad Directiva CE Parlamento Europeo Consejo relativa marco regulador común redes servicios comunicaciones electrónicas DO
 Recomendación Comisión diciembre relativa mercados pertinentes productos servicios sector comunicaciones electrónicas objeto regulación ex conformidad Directiva CE Parlamento Europeo Consejo relativa marco regulador común redes servicios comunicaciones electrónicas DO
-
 Conviene conferir competencias Comisión adopte medidas ejecución objeto adaptar evolución tecnología mercado condiciones acceso servicios radio televisión digital enumerados anexo caso refiere lista mínima puntos anexo II hacerse públicos cumplir requisito transparencia
 Conviene conferir competencias Comisión adopte medidas ejecución objeto adaptar evolución tecnología mercado condiciones acceso servicios radio televisión digital enumerados anexo Directiva VR Directiva Acceso
 caso refiere lista mínima puntos anexo II Directiva VR Directiva Acceso hacerse públicos cumplir requisito transparencia
@@ -1921,7 +1917,6 @@ casos justificados medida necesario obligaciones empresas controlen acceso usuar
 página artículo apartado letra letra artículo apartado
 concedan acceso terceros elementos recursos específicos redes incluido acceso elementos redes activos acceso desagregado bucle local permitir ejemplo selección preselección operador oferta reventa línea abonado
 concedan acceso terceros elementos recursos específicos redes incluido acceso elementos redes activos acceso desagregado bucle local permitir ejemplo selección preselección operador ofertas reventa línea abonado
-
 página artículo apartado letra artículo bis
 partes interesadas incluido particular impacto previsto competencia infraestructuras efecto negativo potencial consumidores
 partes interesadas incluido particular impacto previsto competencia infraestructuras efecto consiguiente potencial consumidores
@@ -3034,7 +3029,6 @@ sección anexo Reglamento CE queda modificada
 NACE sustituye NACE Rev texto
 punto sustituye texto
 resultados estadísticas actividad económica NACE Rev desglosarse siguientes divisiones grupos clases agregados NACE Rev
-
 ANEXO IV
 anexo Reglamento CE queda modificado
 sección sustituye texto
@@ -3154,7 +3148,6 @@ Clase
 Comercio chatarra productos desecho
 Residuos generados hogares
 categoría NACE
-
 Reglamento CE NACE Rev sustituye NACE Rev revisión sustituye revisión nota pie página anexo
 Reglamento CE Comisión
 junio
@@ -4379,7 +4372,6 @@ Método analítico determinación Lselenometionina aditivos piensos cromatograf�
 determinar cantidad selenio aditivo piensos espectrometría masas plasma acoplado inductivamente EMPAI espectrometría emisión atómica plasma acoplado inductivamente ICPAES
 determinar cantidad selenio premezclas piensos compuestos materias primas piensos espectrometría absorción atómica generación hidruros EAAGH digestión microondas
 especies
-
 aditivo incorporará pienso forma premezcla
 seguridad usuarios manipulación deberá utilizarse protección respiratoria gafas seguridad guantes
 aditivos tecnológicos materias primas piensos incluidos preparación aditivo deberán garantizar capacidad polvorización mg selenio aire

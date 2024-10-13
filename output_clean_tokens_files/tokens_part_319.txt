@@ -247,7 +247,6 @@ Fecha cancelación inscripción registro
 Fecha declaración medioambiental
 Fecha declaración medioambiental actualizada
 Solicitud excepción arreglo artículo
-
 Código NACE actividades
 Número empleados
 Volumen negocios balance general anual
@@ -261,7 +260,6 @@ Nombre apellidos verificador medioambiental
 Número registro acreditación autorización
 Ámbito acreditación autorización códigos NACE
 Organismos acreditación autorización
-
 Firma representante organización
 ANEXO VII
 DECLARACIÓN VERIFICADOR MEDIOAMBIENTAL ACTIVIDADES VERIFICACIÓN VALIDACIÓN
@@ -281,7 +279,6 @@ reflejan imagen fiable convincente correcta actividades organización centro Tá
 presente documento equivale registro EMAS
 registro EMAS otorgado organismo competente virtud Reglamento CE
 presente documento servirá comunicación pública independiente
-
 Firma
 Táchese proceda
 ANEXO VIII
@@ -629,7 +626,6 @@ contraprestación asigna créditospremio
 asignarse
 reconocerse ingreso
 suministra premios valorarse ingreso
-
 entidad aplicará párrafo NIC contabilizará créditospremio separado componente identificable transacciones venta concedan venta inicial
 valor razonable contraprestación recibida recibir venta inicial deberá distribuirse créditospremio componentes venta
 contraprestación asignada créditospremio deberá valorarse tomando referencia valor razonable importe créditospremio venderse separado
@@ -1687,9 +1683,6 @@ márgenes subcotización precios reflejan presión ejercida importaciones proced
 márgenes subcotización país afectado siguientes
 País
 Margen subcotización
-
-
-
 Situación económica industria Unión
 Observaciones preliminares
 conformidad artículo apartado Reglamento base examen impacto importaciones objeto dumping industria Unión incluyó evaluación indicadores económicos pertinentes calcular industria Unión período investigación
@@ -4122,13 +4115,11 @@ Decisión modificada Decisión CE DO
 DO
 ANEXO
 ANEXO
-
 Zona establecida conformidad artículo apartado
 Código ISO país
 Fecha aplicable
 artículo apartado letra inciso iii
 Código
-
 Nombre
 HUNGRÍA
 distrito Csongrád municipios
@@ -4139,7 +4130,6 @@ Zona vigilancia
 SZENTES külterület parcialmente
 SZEGVÁR külterület parcialmente
 SZÉKKUTAS külterület parcialmente
-
 Zona establecida conformidad artículo apartado
 TÖMÖRKÉNY
 miembro
@@ -4972,9 +4962,7 @@ Artículo
 Corrección errores Directiva UE Parlamento Europeo Consejo diciembre modifica respecta farmacovigilancia Directiva CE establece código comunitario medicamentos humano
 Diario Oficial Unión Europea diciembre
 página artículo apartado párrafo artículo
-
 autorización comercialización suspendida revocada modificada datos presentados arreglo artículos
-
 autorización comercialización suspendida revocada modificada datos presentados arreglo artículos bis ter quater
 Decisión Comité Mixto EEE
 diciembre

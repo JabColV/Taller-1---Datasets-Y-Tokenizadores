@@ -55,7 +55,6 @@ frenos servicio ensayarán condiciones indicadas cuadro
 Ensayo tipo motor desembragado
 Ensayo tipo motor embragado
 vmáx kmh
-
 velocidad ensayo kmh
 distancia frenado metros
 deceleración media estabilizada
@@ -593,7 +592,6 @@ Sistema rango variable
 Rango funcionamiento típico captores
 Errores registro máximos recomendados
 Fuerza ejercida pedal
-
 Temperatura frenos
 Presión frenos
 apéndice presente anexo contiene información detallada tratamiento digital analógico datos relativos procedimientos ensayo BAS
@@ -1951,7 +1949,6 @@ ESPECIFICACIONES
 Dimensiones neumáticos
 Anchura sección neumático
 anchura sección calculará fórmula
-
 anchura sección expresada milímetros medida llanta medición
 anchura nominal sección expresada milímetros indica flanco neumático designación neumático exigida
 anchura expresada milímetros llanta medición indique fabricante nota descriptiva
@@ -2089,7 +2086,6 @@ montarse cámara interior TUBELESS
 fabricado semana año
 inflado kPa ensayos resistencia carga velocidad cuyo símbolo PSI
 caso particular neumáticos código configuración montaje neumático llanta inscripción adoptará forma ejemplo
-
 anchura nominal sección expresada mm
 diámetro exterior expresado mm
 indicación estructura neumático véase punto presente Reglamento
@@ -2107,7 +2103,6 @@ Lista símbolos índices capacidad carga
 Masa máxima correspondiente transportable kg
 ANEXO
 Designación dimensiones neumáticos
-
 NEUMÁTICOS EUROPEOS
 Cuadro
 Designación tamaño neumático
@@ -2264,7 +2259,6 @@ Departamento
 Firma
 mm min
 Dimensiones codificadas neumáticos montados llantas inclinadas llantas planas estructura radial diagonal
-
 min
 max
 procedimientos relativos conformidad producción deberán ajustarse enunciados apéndice ECEE ECE TRANS Rev teniendo requisitos siguientes
@@ -3317,7 +3311,6 @@ Período abarca excepción
 transmisión
 variables partidas
 Datos históricos anteriores
-
 transmitirán datos
 Años
 variables partidas
@@ -3376,7 +3369,6 @@ Años
 Sueldos salarios brutos sector trimestral
 Adquisiciones cesiones activos financieros producidos
 Años
-
 Desglose formación bruta capital fijo sector anual
 Desglose equipos oficina hardware AN equipos radio televisión comunicaciones AN
 variaciones volumen consolidadas consolidadas partidas
@@ -3746,7 +3738,6 @@ logotipo tonalidad clara mantiene posición horizontal oscura gira
 utilizarán siguientes logotipos Austria BG Bulgaria BNL países Benelux CY Chipre CZE República Checa Alemania DK Dinamarca España EST Estonia Francia Finlandia GR Grecia Hungría HR Croacia Italia IRL Irlanda LT Lituania LVA Letonia Malta Portugal PL Polonia ROU Rumanía Suecia SK Eslovaquia SVN Eslovenia UK Reino Unido
 anexo II Reglamento CE punto suprime texto
 Croacia
-
 anexo II Decisión Comité ejecutivo SCH Comex rev texto correspondiente FRANCIA añade texto
 Tel
 Fax
@@ -4124,7 +4115,6 @@ arreglo definición Resolución consolidada construcción vehículos RE anexo do
 Alemania Francia Italia Países Bajos Suecia Bélgica Hungría República Checa España Serbia Montenegro Reino Unido Austria Luxemburgo Suiza asignar Noruega Finlandia Dinamarca Rumanía Polonia Portugal Federación Rusia Grecia Irlanda Croacia Eslovenia Eslovaquia Belarús Estonia asignar Bosnia Herzegovina Letonia asignar Bulgaria asignar Lituania Turquía asignar Azerbaiyán Antigua República Yugoslava Macedonia asignar Comunidad Europea miembros conceden homologaciones utilizando símbolo CEPE respectivo Japón asignar Australia Ucrania Sudáfrica Zelanda Chipre Malta República Corea
 números subsiguientes asignarán países orden cronológico conforme ratifiquen adhieran adopción prescripciones técnicas uniformes aplicables vehículos ruedas equipos piezas puedan montarse utilizarse condiciones reconocimiento recíproco homologaciones concedidas conforme dichas prescripciones números asignados comunicados Secretario General Naciones Unidas Partes contratantes
 ANEXO
-
 Apéndice
 MODELO FICHA CARACTERÍSTICAS
 tipo vehículo arreglo apartado Reglamento relativo homologación tipo CEPE sistema calefacción vehículo concierne sistema calefacción
@@ -4168,7 +4158,6 @@ CALEFACTOR COMBUSTIÓN CASO
 identificación tipo marcado sistema calefacción
 Presión ensayo caso calefactor combustión alimentado gas licuado petróleo GLP similar presión aplicada racor entrada gas
 Descripción detallada planos esquemáticos descripción instalación calefactor combustión componentes
-
 Formato máximo mm mm
 COMUNICACIÓN
 expedida
@@ -4654,7 +4643,6 @@ título versión listas confianza legible personas deberá configurarse concaten
 carácter facultativo imagen bandera nacional miembro
 espacio blanco
 denominación usual país lengua lenguas origen figura columna cuadro capítulo II
-
 denominación usual país inglés figura columna cuadro capítulo II paréntesis
 cierre paréntesis separación
 Lista confianza

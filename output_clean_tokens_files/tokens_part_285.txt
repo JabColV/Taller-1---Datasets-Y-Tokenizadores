@@ -342,7 +342,6 @@ líneas crédito minorista considerarse anulables incondicionalmente condiciones
 partidas comporten riesgo comuniquen Comisión
 ANEXO III
 TRATAMIENTO RIESGO CRÉDITO CONTRAPARTE INSTRUMENTOS DERIVADOS OPERACIONES RECOMPRA OPERACIONES PRÉSTAMO VALORES MATERIAS PRIMAS OPERACIONES LIQUIDACIÓN DIFERIDA OPERACIONES FINANCIACIÓN GARANTÍAS
-
 Definiciones
 efectos presente anexo aplicarán siguientes definiciones
 Términos generales
@@ -389,7 +388,6 @@ exposición adicional generada operaciones futuras incluye cálculo EPE
 riesgo general correlación errónea surge probabilidad impago contrapartes positivamente correlacionada factores generales riesgo mercado
 riesgo específico correlación errónea surge exposición contraparte concreta positivamente correlacionada probabilidad impago contraparte naturaleza operaciones contraparte
 considerará entidad crédito expuesta riesgo específico correlación errónea espera exposición futura contraparte específica elevada probabilidad impago contraparte elevada
-
 Elección método
 arreglo puntos entidades crédito determinarán valor exposición contratos figuran anexo IV métodos establecidos partes
 entidades crédito puedan acogerse trato establecido apartado artículo Directiva CE utilizar método establecido
@@ -412,7 +410,6 @@ exposiciones resultantes operaciones liquidación diferida determinarse utilizan
 calcular requisitos capital operaciones pago aplazado entidades crédito utilicen planteamiento establecido artículos asignar ponderaciones riesgo arreglo planteamiento establecido artículos forma permanente independencia importancia relativa tales posiciones
 métodos establecidos partes autoridades competentes deberán garantizar importe teórico deba tomarse constituya medida adecuada riesgo inherente contrato
 ejemplo contrato prevea multiplicación flujos tesorería importe teórico ajustarse efectos multiplicación estructura riesgos contrato
-
 Método valoración precios mercado
 Fase Atribuyendo contratos precio mercado valoración precios mercado obtendrá coste reposición contratos valor positivo
 Fase obtener importe riesgo crédito potencial futuro caso permutas financieras tipos interés variable variable divisa calculará coste reposición multiplicará importe teórico principal valores subyacentes porcentajes recogidos cuadro Cuadro
@@ -432,7 +429,6 @@ Metales corrientes
 Productos agrícolas perecederos
 inclusión productos energéticos
 Fase suma coste reposición importe riesgo crédito potencial futuro corresponde valor exposición
-
 Método riesgo original
 Fase importes teóricos principal instrumento multiplicarán porcentajes expresan cuadro Cuadro
 Vencimiento original
@@ -441,15 +437,12 @@ Contratos tipos cambio oro
 año
 Incremento año subsiguiente
 Fase riesgos iniciales obtenidos corresponden valor exposición
-
 Método estándar
 utilizar instrumentos derivados negociados mercados organizados operaciones liquidación diferida
 valor exposición
-
 CMV valor actual mercado cartera operaciones conjunto operaciones compensables contraparte
 CMVi valor actual mercado operación
 CMC valor actual mercado garantías reales asignadas conjunto operaciones
-
 CMCl valor actual mercado garantía
 índice designa operación
 índice designa garantía
@@ -534,7 +527,6 @@ Alternativamente autoridades competentes exigir utilización método establecido
 reconocerá compensación valor exposición determinará existiera conjunto operaciones comprenda operación cuestión
 entidades crédito deberán contar procedimientos internos verificar incluir operación conjunto posiciones compensables operación esté cubierta contrato compensación legalmente exigible cumpla criterios establecidos
 entidades crédito hagan garantía real atenuar RCC contarán procedimientos internos verificar reconocer efecto garantía real cálculos cumpla oportunas normas certeza legal establecido anexo VIII
-
 Método modelos internos
 Supeditado aprobación autoridades competentes entidades crédito utilizar Método modelos internos MMI calcular valor exposición operaciones inciso punto operaciones incisos ii iii iv punto operaciones incisos iv punto
 casos incluirse igualmente operaciones inciso punto
@@ -687,7 +679,6 @@ intervalos regulares entidades crédito realizarán pruebas retrospectivas serie
 carteras representativas elegirán basándose sensibilidad correlaciones factores riesgo importantes expuesta entidad crédito
 prueba retrospectiva indica modelo suficientemente exacto autoridades competentes revocarán aprobación modelo impondrán medidas apropiadas asegurar mejore demora modelo
 exigir mantengan fondos adicionales arreglo artículo
-
 Compensación contractual contratos novación acuerdos compensación
 Tipos compensación reconocer autoridades competentes
 efectos dispuesto presente entenderá contraparte entidad incluidas personas físicas facultada celebrar compensación contractual compensación contractual productos bilateral escrito celebrado entidad crédito contraparte cree obligación jurídica única afecte acuerdos marco bilaterales transacciones relativos categorías productos
@@ -2035,7 +2026,6 @@ valor ajustado volatilidad exposición deberá tomarse consideración calculará
 EVA caso operaciones derivados negociados mercados regulados EVA
 valor plenamente ajustado exposición tomando consideración volatilidad efectos reducción riesgo garantía real calculará
 max EVA CVAM
-
 valor exposición determinaría conforme artículos artículos proceda exposición estuviera garantizada
 efectos entidades riesgo calculen exposición riesgo conforme artículos valor exposición partidas balance enumeradas anexo II valor lugar porcentajes señalados apartado artículo entidades crédito calculen importes exposiciones ponderadas riesgo conforme artículos valor exposición partidas enumeradas puntos anexo VII calcularán utilizando factor conversión lugar factores conversión porcentajes indicados dichos puntos
 EVA exposición ajustada volatilidad
@@ -2064,7 +2054,6 @@ Periodo liquidación
 año
 años
 años
-
 Grado calidad crediticia asocia evaluación crediticia título deuda corto plazo
 Ajustes volatilidad valores deuda emitidos entidades contempladas letra punto evaluaciones crediticias corto plazo
 Ajustes volatilidad valores deuda emitidos entidades contempladas letras punto evaluaciones crediticias corto plazo Periodo liquidación Periodo liquidación Periodo liquidación
@@ -2895,7 +2884,6 @@ entidades crédito calculen exposiciones ponderadas riesgo conformidad artículo
 tipo exposición renta variable requisito aplica métodos indicados puntos anexo VII
 entidades crédito utilicen método establecido artículo cálculo exigencias fondos riesgo operacional ofrecerán descripción seguro efectos atenuación riesgo
 ANEXO XIII
-
 Directivas derogadas modificaciones sucesivas contempladas artículo
 Directiva CE Parlamento Europeo Consejo marzo relativa acceso actividad entidades crédito ejercicio
 Directiva CE Parlamento Europeo Consejo septiembre modifica Directiva CE relativa acceso actividad entidades crédito ejercicio
@@ -2908,7 +2896,6 @@ Directiva CE Parlamento Europeo Consejo marzo modifican Directivas Consejo CEE C
 Únicamente artículo
 MODIFICACIONES DEROGADAS
 Acta adhesión
-
 Plazos transposición contemplados artículo
 Directiva
 Fecha límite transposición
@@ -3161,7 +3148,6 @@ Periodo liquidación
 SLT
 Multiplicador RCC MRCC
 condiciones incluirán importes nocionales contractuales vencimiento activos referencia acuerdos constitución márgenes acuerdos compensación etc condiciones especificaciones conservarán base datos sujeta auditoría formal periódica
-
 GCC
 GCC
 GCC
@@ -3706,7 +3692,6 @@ Cantidades totales productos cubiertos Directiva CE
 Inspecciones previstas
 Fabricantes
 Importadores
-
 Indíquese utilizan autoridades competentes métodos medición referencia citados anexo III Directiva CE efectos comprobar cumplimiento normativa
 aplicación Directiva CE colaboran autoridades véase punto indíquense medidas tomadas garantizar aplicación uniforme Directiva territorio
 Expóngase normas penalizaciones aplican caso infracción disposiciones nacionales adoptadas artículo Directiva CE
@@ -4038,7 +4023,6 @@ Directiva CEE Consejo diciembre relativa cuentas anuales cuentas consolidadas ba
 Directiva CEE Consejo diciembre relativa cuentas anuales cuentas consolidadas empresas seguros DO
 Directiva CE Parlamento Europeo Consejo diciembre establece marco comunitario firma electrónica DO
 ANEXO
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -4057,7 +4041,6 @@ DO
 Directiva CE Consejo
 DO
 Únicamente punto anexo
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -4229,10 +4212,8 @@ Odietilaminometilpirimidinil
 Odimetilfosforotioato
 octubre
 septiembre
-
 autorizar usos insecticida almacenamiento cosecha
 autorizarán aplicaciones equipos portátiles
-
 evaluación solicitudes autorización productos fitosanitarios contengan pirimifósmetilo usos distintos aplicaciones sistemas automatizados almacenes cereales vacíos miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión pirimifósmetilo particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal marzo
 seguridad operarios condiciones autorizadas deberán exigir utilización equipos protección individual adecuados incluido equipo protección respiratoria medidas reducción riesgo reducir exposición

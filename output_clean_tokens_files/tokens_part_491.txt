@@ -1210,7 +1210,6 @@ Contacto extranjero
 procede representado
 Detalles persona lesionada dicha persona solicitante
 Número teléfono prefijo
-
 Fecha
 Firma sello
 Lista documentos justificativos adjuntos
@@ -1231,7 +1230,6 @@ Lengua decisión
 Decisión transmitida
 Detalles autoridad decisión autoridad transmisión
 Detalles autoridad asistencia autoridad recepción
-
 Datos solicitante
 Nombre solicitante
 Representante legal proceda
@@ -1842,7 +1840,6 @@ Quesos conservables franceses
 denominación origen protegida tipos Beaufort Comté
 Emmental grand cru etiqueta roja
 clase tipos Emmental Gruyère
-
 junio septiembre
 octubre marzo
 Quesos conservables alemanes
@@ -1902,11 +1899,9 @@ Reglamento modificado lugar Reglamento CE Comisión DO
 ANEXO
 ANEXO II
 LISTA PAÍSES TERRITORIOS
-
 IE Irlanda
 Suecia
 UK Reino Unido
-
 Sección
 DK Dinamarca incluidas GL Groenlandia FO Islas Feroe
 España incluidas Islas Baleares Islas Canarias Ceuta Melilla
@@ -1918,7 +1913,6 @@ IS Islandia
 MC Mónaco
 Noruega
 Ciudad Vaticano
-
 AC Isla Ascensión
 AE Emiratos Árabes Unidos
 AG Antigua Barbuda
@@ -2090,7 +2084,6 @@ DOCUMENTO COMÚN ENTRADA DCE
 Orientaciones DCE
 Generalidades Cumpliméntese documento común entrada mayúsculas
 notas figuran frente número casilla correspondiente
-
 indique cosa deberá cumplimentarla explotador empresa alimentaria piensos representante
 Casilla
 Expedidor nombre dirección completa persona física jurídica explotador empresa alimentaria piensos envía partida
@@ -2492,7 +2485,6 @@ Cantidades indemnizables
 artículo apartado guión
 Cantidades indemnizables totales
 artículo apartado guiones
-
 Reglamento CE Parlamento Europeo Consejo
 diciembre
 relativo transmisión datos estadísticos desembarques productos pesca miembros deroga Reglamento CEE Consejo
@@ -2646,10 +2638,8 @@ Suecia
 Reino Unido
 Islandia
 Noruega
-
 ANEXO III
 LISTA CÓDIGOS PRESENTACIÓN
-
 Lista
 Fresco especificado
 Fresco entero
@@ -2689,7 +2679,6 @@ Entero especificado
 Pinzas
 Huevos
 Presentación desconocida
-
 Notas
 Filetes tiras carne cortadas paralelo espina central pescado izquierdo derecho hayan quitado cabeza vísceras aletas dorsales anales caudales ventrales pectorales espinas vértebras espina dorsal ventrales costales bronquiales estribos etc lados estén unidos lomo vientre ejemplo
 Pescado entero pescado eviscerado
@@ -3305,16 +3294,13 @@ Reglamento modificado lugar Reglamento CE DO
 ANEXO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES PORCINO ESLOVENIA
-
 ZWEIPUNKT DM ZP
 clasificación canales porcino llevará cabo método denominado ZweiPunkt DM ZP
 contenido carne magra canal calculará aplicando fórmula
-
 porcentaje estimado carne magra canal
 espesor mínimo grasa dorsal incluida piel visible línea media canal milímetros recubre músculo lumbar Musculus glutaeus medius
 espesor visible músculo lumbar línea media canal milímetros medido distancia corta extremo craneal músculo lumbar borde superior dorsal canal raquídeo
 fórmula válida canales cuyo peso oscile kilogramos
-
 clasificación canales porcino efectuará aparato denominado Hennessy Grading Probe HGP
 aparato llevará incorporada sonda diámetro milímetros milímetros hoja situada superior sonda provista fotodiodo Siemens LED tipo LYU EO fotodetector tipo MR distancia operativa milímetros
 resultados mediciones convertirán contenido estimado carne magra sonda HGP ordenador conectado
@@ -3638,7 +3624,6 @@ Nota
 necesario medir absorbancia gama longitudes onda
 EXPRESIÓN RESULTADOS
 registran extinciones específicas coeficientes extinción diversas longitudes onda calculadas
-
 Κλ extinción específica longitud onda
 Ελ extinción medida longitud onda
 concentración solución ml
@@ -3659,7 +3644,6 @@ Monopalmitato glicerilo
 Estigmasta dieno mg kg
 Diferencia
 ECN HPLC ECN cálculo teórico
-
 Evaluación organoléptica Mediana defecto Md
 Evaluación organoléptica Mediana frutado Mf
 Aceite oliva virgen extra
@@ -3971,7 +3955,6 @@ Condiciones almacenamiento
 Información errónea
 Legibilidad
 Parámetros límite
-
 caso afirmativo indique
 Mediana deldefecto
 Mediana delfrutado
@@ -4542,7 +4525,6 @@ DO
 DO DO DO
 DO
 ANEXO
-
 Bienes tecnología refieren artículo apartado letra artículo apartado artículo artículo apartado letra artículo apartado letra
 presente anexo comprende bienes tecnología enumerados anexo Reglamento CE definen excepción siguientes
 Epígrafe anexo Reglamento CE
@@ -4622,7 +4604,6 @@ Factorización números enteros bits ej RSA
 Cómputo logaritmos discretos grupo multiplicativo campo finito tamaño superior bits ej DiffieHellman pZ
 Logaritmos discretos grupo mencionado subartículo Aab bits ej DiffieHellman elipse
 Diseñados modificados funciones criptoanalíticas
-
 Diseñados especialmente modificados reducir emanaciones comprometedoras señales portadoras información dispuesto normas salud seguridad interferencia electromagnética
 Diseñados modificados utilizar técnicas criptográficas objeto generar código ensanchamiento sistemas espectro ensanchado distintos sometidos control subartículo Aa incluido código salto sistemas salto frecuencia
 Diseñados modificados emplear técnicas criptográficas objeto generar códigos canalización embrollo códigos identificación red sistemas usen técnicas modulación banda ultraancha tengan características siguientes
@@ -4716,7 +4697,6 @@ Tecnología Nota general tecnología desarrollo producción dispositivos circuit
 Conmutación corriente circuitos digitales utilizando puertas superconductoras producto tiempo retardo puerta expresado segundos disipación energía puerta expresada vatios inferior
 Selección frecuencia frecuencias utilizando circuitos resonantes valores superiores
 Tecnología Nota general tecnología desarrollo producción utilización equipos especificados artículos equipo lógicosoftware especificado subartículos Dc
-
 artículo aplicable siguientes bienes
 Reactores nucleares equipos componentes diseñados especialmente preparados indica
 Reactores nucleares

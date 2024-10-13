@@ -351,15 +351,11 @@ Combustible referencia GR
 Composición
 Metano
 Etano
-
 mol
 Contenido azufre
 Combustible referencia
-
 Combustible referencia
-
 Combustible referencia
-
 Índice Wobbe neto
 anexo modifica
 punto sustituye texto
@@ -613,7 +609,6 @@ disponibilidad reactivo aplicación medidas contempladas anexo sección Reglamen
 puntos sustituyen texto
 diésel ralentí
 diésel calentamiento
-
 punto sustituye texto
 HCT
 HCNM
@@ -1408,46 +1403,28 @@ Dimensión mínima recinto
 Superficie suelo animal
 Altura mínima recinto
 reserva procedimientos
-
-
-
 Cría
 pareja monógama consanguínea consanguínea trío consanguíneo
 hembra suplementaria camada deberían añadirse cm
 Reserva criaderos Dimensión recinto
-
 Dimensión recinto
 Cuadro
 Ratas dimensiones mínimas recintos espacio mínimo disponible
 Altura mínima recinto cm
 reserva procedimientos
-
-
-
-
 Madre camada
 animal adulto suplementario introducido forma permanente recinto deberían añadirse cm
 Reserva criaderos
-
-
-
 Dimensión recinto cm
 Cuadro
 Jerbos dimensiones mínimas recintos espacio mínimo disponible
-
 Pareja mónogama trío camada
 Cuadro
 Hámsteres dimensiones mínimas recintos espacio mínimo disponible
-
-
 Madre pareja monógama camada
 reserva criaderos
-
 Cuadro
 Cobayas dimensiones mínimas recintos espacio mínimo disponible
-
-
-
 Pareja camada
 hembra reproductora suplementaria deberían añadirse cm
 Suelos
@@ -1495,9 +1472,6 @@ Conejos semanas dimensiones mínimas recintos espacio mínimo disponible
 Peso corporal kg
 Superficie mínima suelo animales socialmente armoniosos
 Altura mínima
-
-
-
 cuadro refiere jaulas cercados
 jaulas conviene prever superficie elevada véase cuadro
 cercados deberían incluir estructuras subdividan espacio animales puedan entablar contactos sociales evitarlos
@@ -1525,8 +1499,6 @@ Edad semanas
 Peso corporal
 Dimensión óptima
 Altura óptima suelo recinto cm
-
-
 superficie elevada conjunto recinto puedan utilizarse correctamente dimensión altura indicadas superficie elevada óptimas mínimo máximo margen dimensión óptima
 razones científicas veterinarias utilizar superficie elevada superficie suelo debería conejo conejos facilitar actividad locomotora aumentar posibilidades alejamiento animal dominante
 prevea superficie elevada conejos semanas dimensión óptima dicha superficie cm altura debería suficiente animales utilizaran
@@ -1660,7 +1632,6 @@ Perros dimensiones mínimas recintos espacio mínimo disponible
 Peso
 Superficie mínima suelo animales
 animal adicional añadir mínimo
-
 perros alojados parejas grupo confinados mitad espacio proporcionado perro kg kg estén sometidos procedimientos definidos Directiva CEE separación esencial fines científicos
 período confinamiento perro reducirse mínimo caso exceder horas
 disposición objeto fomentar alojamiento parejas especialmente estudios toxicológicos tiempo necesidad supervisar consumo alimentos observaciones administración sustancias estudiadas
@@ -1674,9 +1645,6 @@ Cuadro
 Perros dimensiones mínimas recintos espacio disponible destete
 Peso perro
 Superficie mínima suelo animal
-
-
-
 suelo idóneo alojamientos perros suelo compacto continuo superficie lisa resbaladiza
 proporcionar perros área descanso sólida confortable ejemplo utilizando muebles camas elevadas plataformas
 utilizarse perros sistemas suelos abiertos rejillas mallas
@@ -2261,10 +2229,6 @@ Cuadro
 Ganado bovino dimensiones mínimas recintos espacio mínimo disponible
 Espacio comedero alimentación ad libitum bovinos descornados animal
 Espacio comedero alimentación restringida bovinos descornados animal
-
-
-
-
 ganado esté estabulado proporcionará zona cama animales puedan tumbarse tiempo
 proporcionen compartimentos zona normalmente superficie mínima suelo indicada cuadro
 resto recinto mantenerse sustrato utilizarse alimentación ejercicio animales
@@ -2306,10 +2270,6 @@ Ovinos caprinos dimensiones mínimas recintos espacio mínimo disponible
 Altura mínima separaciones recintos
 Espacio comedero alimentación ad libitum animal
 Espacio comedero alimentación restringida animal
-
-
-
-
 recinto totalidad debería suelo compacto recubierto cama adecuada
 recomienda recintos situados interior abrevadero veinte ovinos caprinos
 teñido lana pelaje marcadores agrarios reconocidos tóxicos realizarse experimentos corta duración razas ovinos lana corta caprinos
@@ -2357,12 +2317,6 @@ Cerdos cerdos enanos dimensiones mínimas recintos espacio mínimo disponible
 Peso vivo kg
 Dimensión mínima recinto
 Zona reposo mínima animal condiciones térmicamente neutras
-
-
-
-
-
-
 Verracos adultos convencionales
 cerdos viven alojamientos individuales pequeños grupos espacio animal grupos
 conviene atar cerdos momento confinarlos compartimentos jaulas breves períodos tiempo necesarios alimentarlos inseminarlos fines veterinarios experimentales
@@ -2387,13 +2341,6 @@ Cerdos cerdos enanos espacio mínimo disponible comederos
 Espacio mínimo comederos cm
 alimentación ad libitum restringida
 Espacio mínimo comederos animal alimentación ad libitum
-
-
-
-
-
-
-
 cerdos especialmente sensibles falta agua viven grupo convendría instalaciones hubiera bebederos unidad bebedero pudiera beber cerdo evitar animales dominantes impidieran acceso bebedero
 recomienda ajustarse valores siguientes
 Cuadro
@@ -2442,8 +2389,6 @@ Altura cruz
 animal alojamiento individual grupos animales máximo
 animal alojamiento grupos animales
 Caballeriza cría yegua potro
-
-
 recomienda corto mida mínimo altura cruz animal
 altura recintos interiores debería animales pudieran ponerse pie patas traseras salvaguardar bienestar
 conviene utilizar suelos listones équidos
@@ -2499,12 +2444,6 @@ Edad
 bombilla oC
 Temperatura ambiente local oC
 Humedad relativa
-
-
-
-
-
-
 recomienda utilizar comportamiento pollos indicador hora fijar temperatura bombilla
 térmicamente cómodos pollos especies distribuyen forma homogénea recinto ruido moderado pollos silenciosos calor pían fuerza angustia frío
 caso aves domésticas adultas sanas recomienda mantener humedad relativa gama comprendida
@@ -2607,12 +2546,6 @@ Peso corporal
 Superficie mínima ave
 Altura mínima cm
 Longitud mínima comedero ave cm
-
-
-
-
-
-
 razones científicas pudieran respetarse dimensiones mínimas experimentador debería justificar duración confinamiento debería determinarse consulta técnico animales persona competente encargada asesorar bienestar animal
 circunstancias aves alojarse recintos pequeños convenientemente enriquecidos superficie mínima suelo
 recintos utilizarse alojar gallinas ponedoras pequeños grupos aves espacio mínimo disponible indicado
@@ -2635,13 +2568,6 @@ Cuadro
 Pavo doméstico dimensiones mínimas recintos espacio mínimo disponible
 Masa corporal kg
 Superficie mínima ave
-
-
-
-
-
-
-
 lados recinto deberían medir
 razones científicas pudieran respetarse dimensiones mínimas experimentador debería justificar duración confinamiento debería determinarse consulta técnico animales persona competente encargada asesorar bienestar animal
 circunstancias aves alojarse recintos pequeños convenientemente enriquecidos superficie mínima suelo altura mínima cm caso aves kg cm caso aves kg cm caso aves kg
@@ -2690,12 +2616,7 @@ Cuadro
 Patos ocas dimensiones mínimas recintos espacio mínimo disponible
 Superficie ave
 Patos
-
-
-
 Ocas
-
-
 razones científicas pudieran respetarse dimensiones mínimas experimentador debería justificar duración confinamiento debería determinarse consulta técnico animales persona competente encargada asesorar bienestar animal
 recintos utilizarse alojar pequeños grupos aves espacio mínimo disponible indicado
 cree distintas razas palomas domésticas descienden paloma bravía Columba livia
@@ -2717,7 +2638,6 @@ Palomas dimensiones mínimas recintos espacio mínimo disponible
 Tamaño grupo
 Longitud mínima comedero ave cm
 Longitud mínima percha ave cm
-
 ave suplementaria allá
 recintos deberían largos estrechos ejemplo cuadrados aves pudieran vuelos breves
 diamante mandarín Taeniopygia guttata Australia
@@ -2851,10 +2771,6 @@ Superficie mínima agua animal suplementario alojado grupo cm
 Profundidad mínima agua cm
 Cuadro
 Longitud corporal cm
-
-
-
-
 Recintos anfibios semiacuáticos semiterrestres
 anfibios semiacuáticos semiterrestres alojan recintos compuestos zona tierra agua
 animales deberían sumergirse zona acuática terrario
@@ -2868,8 +2784,6 @@ Dimensión mínima recinto cm
 Superficie mínima animal suplementario alojado grupo cm
 Altura mínima recinto cm
 Profundidad mínima agua
-
-
 Cuadro
 Anuros semiterrestres ejemplo Bufo marinus dimensiones mínimas recintos espacio mínimo disponible
 Longitud corporal cm
@@ -2885,7 +2799,6 @@ Anuros arborícolas ejemplo Hyla cinerea dimensiones mínimas recintos espacio m
 Longitud corporal cm
 Dimensión mínima recinto cm
 Altura mínima recinto cm
-
 mayoría anfibios carnívoros alimentan principalmente pequeños invertebrados vivos larvas insectos gusanos etc
 cautividad deberían recibir comida idéntica comparable consumen natural
 obstante anfibios acuáticos cautividad alimentarse trozos filetes pescado pedazos hígado corazón congelados
@@ -2918,7 +2831,6 @@ Especie
 Trachemys scripta elegans tortuga Florida
 Sistema fluvial Misisipí aguas mansas lecho fangoso
 oC
-
 Terrestre
 Thamnophis sirtalis serpiente jarretera culebra rayada
 América norte bosques zonas húmedas
@@ -2978,10 +2890,6 @@ Serpientes terrestres ejemplo Thamnophis spp dimensiones mínimas recintos espac
 Longitud corporal cm
 Superficie mínima suelo
 Altura mínima recinto cm
-
-
-
-
 recomienda proporcionar reptiles cautividad alimentos consumen natural alimentos disponibles comercio aproximan dieta natural
 reptiles carnívoros serpientes cocodrilos mayoría lagartos tortugas vegetarianos omnívoros
 especies hábitos alimentarios restrictivos específicos
@@ -3174,14 +3082,7 @@ Deberían diseñarse construirse eviten causarles heridas
 desechables convendría fabricaran materiales resistentes técnicas limpieza descontaminación
 Convendría alojar especies gregarias grupos estables armoniosos
 grupos formarse ratones machos hámsteres adultos jerbos resulte difícil producirse agresiones graves congéneres
-
-
-
-
-
-
 conejos jóvenes hembras deberían alojados grupos sociales armoniosos
-
 restricciones deberían revisadas científicos zootécnicos personas competentes encargadas asesorar bienestar animales
 espacio actividad mantiene primates humanos grupos lugar parejas
 vitamina componente esencial dieta primates
@@ -3191,19 +3092,8 @@ espectro luminoso parecerse luz intensidad luz tanta sol
 monos Viejo Mundo figuran especies propensas tuberculosis elevado porcentaje macacos asiáticos libertad portadores sanos herpes
 macacos monos verdes alojados grupos sociales
 fomentarse formación grupos tamaño viable
-
-
-
 intentado seleccionar razas gallinas comportamiento picaje plumas agresividad acusado
 proyecto debería averiguarse tales razas adquirirlas
-
-
-
-
-
-
-
-
 especies tolerar amplia gama grados salinidad
 tolerancia salinidad depende etapa ciclo vida
 peces especialmente especies marinas mantenerse recintos flotantes
@@ -3513,7 +3403,6 @@ Margen dumping
 Margen eliminación perjuicio
 Derecho compensatorio
 Derecho antidumping
-
 exportador cooperó alegó puesto presente reconsideración provisional parcial limitaba nivel subvenciones derechos antidumping debían modificarse
 recuerda anuncio inicio presente reconsideración empresas sujetas medidas antidumping medidas compensatorias medida antidumping ajustarse consecuencia producirse cambio medida compensatoria
 modificación derechos antidumping resultado conclusiones relación nivel dumping consecuencia automática ajuste márgenes dumping originales adecuarlos nivel hallado subvenciones exportación revisado

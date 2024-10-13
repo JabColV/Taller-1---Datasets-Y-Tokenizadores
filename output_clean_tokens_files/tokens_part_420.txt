@@ -312,9 +312,7 @@ Lugar nacimiento Libia
 Corrección errores Reglamento CE Consejo diciembre establecen posibilidades pesca condiciones correspondientes determinadas poblaciones grupos poblaciones peces aplicables aguas comunitarias caso buques comunitarios aguas necesario establecer limitaciones capturas
 página anexo IVa cuadro Formato datos columna Definición comentarios
 nombre zona Zona
-
 Indíquese buque pescando zona presente anexo
-
 Indíquese buque pescando zona refiere punto presente anexo
 nombre zona Duración período gestión
 Indicación duración período gestión atribuido buque
@@ -386,7 +384,6 @@ DO
 DO
 ANEXO
 anexo Reglamento CE sustituye texto
-
 Lista terceros países territorios zonas compartimentos
 Código ISO nombre tercer país territorio
 Código tercer país territorio zona compartimento
@@ -402,7 +399,6 @@ Fecha conclusión
 Fecha inicio
 país
 BR Brasil
-
 Rio do Sul Santa Catarina Paraná São Paulo Mato Grosso do Sul
 Mato Grosso Paraná Rio do Sul Santa Catarina São Paulo
 Distrito Federal
@@ -422,7 +418,6 @@ oeste
 carretera
 sur
 carretera conecta carretera
-
 valla seguridad carretera
 norte
 carretera cruce carretera
@@ -913,7 +908,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón mano Buda Citrus medica var sarcodactylis
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos tangor Citrus reticulata sinensis
-
 Frutos cáscara
 Almendras
 Nueces Brasil
@@ -1200,7 +1194,6 @@ definición residuo difiere siguientes combinaciones plaguicidanúmero código
 código Nóxido propamocarb códigos propamocarb Ndemetilado
 Autoridad Europea Seguridad Alimentaria faltaba información métodos analíticos estudio nutrición
 Autoridad Europea Seguridad Alimentaria faltaba información métodos analíticos estudio nutrición gallinas
-
 Grupos tipos productos individuales aplican contenidos máximos residuos
 encabezamiento columna correspondiente bifenazato sustituye
 Bifenazato suma bifenazato bifenazatodiazeno expresada bifenazato
@@ -2100,7 +2093,6 @@ Norma aplicable apartado
 aplica frase apartado norma ISO
 efectos presente Directiva norma aplica tractores dotados toma fuerza cuya potencia exceda kW medida arreglo norma ISO
 recurra posibilidad reducir dimensiones abertura escudo protección tomas fuerza tipo adaptarlo elementos acoplamiento utilizarán manual instrucciones deberá contener indicaciones siguientes advertencia consecuencias riesgos entraña escudo protección menor tamaño instrucciones advertencias específicas acoplamiento desacoplamiento tomas fuerza instrucciones advertencias específicas herramientas máquinas acopladas toma fuerza trasera
-
 FICHA CARACTERÍSTICAS
 virtud anexo Directiva CE relación homologación tipo CE tractor respecta tomas fuerza
 necesaria información indicada continuación deberá presentarse triplicado acompañada índice contenidos
@@ -2116,9 +2108,7 @@ Nombre dirección fabricante
 Nombre dirección plantas montaje
 Tomas fuerza régimen rotación relación motor número tipo situación
 Tomas fuerza principales
-
 Protección tomas fuerza descripción dimensiones dibujos fotos
-
 DOCUMENTACIÓN RELATIVA HOMOLOGACIÓN TIPO
 MODELO
 formato máximo mm
@@ -2665,7 +2655,6 @@ Grupo
 Cantidad aproximada
 Año cosecha
 Tipo arroz
-
 GR Athènes Tel
 cantidad arroz cáscara almacenada actualmente organismo intervención griego importante período almacenamiento resulta conveniente convocar licitación permanente reventa mercado interior cerca toneladas arroz cáscara posesión organismo
 Reglamento Ejecución UE Comisión
@@ -3773,7 +3762,6 @@ Señal frenado emergencia señal indica usuarios vía circulan aplicado vehícul
 Color luz emitida dispositivo
 Blanco coordenadas cromáticas luz emitida comprendidas zonas cromaticidad definidas límites
 límite verde
-
 límite verde amarillento
 límite amarillo
 límite violeta rojizo
@@ -3795,7 +3783,6 @@ Blanco coordenadas cromáticas Publicación CIE Colorimetría observador colorim
 luz emitida comprendidas zonas cromaticidad definidas límites
 límite violeta
 Amarillo coordenadas cromáticas Publicación CIE Colorimetría observador colorimétrico estándar CIE
-
 línea violeta
 Color diurno luz reflejada dispositivo
 límite violeta
@@ -4015,7 +4002,6 @@ Visibilidad geométrica
 visibilidad superficie iluminante incluida visibilidad zonas parezcan iluminadas dirección observación considerada deberá garantizarse espacio divergente delimitado generatrices apoyan perímetro superficie iluminante forman ángulo mínimo eje referencia faro
 origen ángulos visibilidad geométrica perímetro proyección zona luminosa plano transversal tangente lente faro
 Orientación
-
 luz carretera vehículo girar producir iluminación curva
 Conexiones eléctricas
 utilicen emitir señales luminosas intermitentes advertencia intervalos cortos luces carretera encenderse interruptor general alumbrado esté posición encendido función automática existan condiciones encendido automático haz cruce
@@ -4047,7 +4033,6 @@ abajo
 exterior interior
 valores fotométricos exigidos faros cruce cubren campo geométrico visión exigirá fines homologación valor mínimo cd espacio restante
 presencia divisiones artículos equipamiento cerca faro deberá lugar efectos secundarios causen molestias usuarios vía
-
 Orientación vertical
 inclinación inicial descendente línea corte haz cruce vehículo vacío persona asiento conductor especificada fabricante vehículo precisión indicará forma clara legible indeleble vehículo lugar cercano faros placa fabricante vehículo símbolo figura anexo
 valor inclinación descendente indicada definirá conforme punto
@@ -4100,7 +4085,6 @@ utilizarse faros cruce Reglamentos producir iluminación curva
 casos iluminación curva produzca movimiento horizontal haz codo línea corte activarse únicamente vehículo desplace aplicará iluminación curva produce caso giro derecha conducción derecha giro izquierda caso conducción izquierda
 Luz antiniebla delantera Reglamento
 Opcional vehículos motor
-
 requisito particular
 anchura punto superficie aparente dirección eje referencia alejado plano longitudinal vehículo deberá hallarse mm borde exterior extremo vehículo
 altura
@@ -4113,7 +4097,6 @@ Definida ángulos especifica punto
 abajo
 valores fotométricos exigidos luces antiniebla delanteras incluyen campo geométrico visión exigirá fines homologación valor mínimo cd espacio restante
 presencia divisiones artículos equipamiento cerca luz antiniebla delantera deberá lugar efectos secundarios causen molestias usuarios carretera
-
 Orientación vertical
 caso luces antiniebla delanteras clase inclinación vertical línea corte haz vehículo vacío persona asiento conductor inferior tipos vehículos cumplan disposición seguir recibiendo homologación meses vigor suplemento serie enmiendas
 caso luces antiniebla delanteras clase
@@ -4161,7 +4144,6 @@ dispositivos activarán desactivarán manualmente interruptor separado
 estén activados permanecer iluminados desengrane marcha atrás
 dispositivos apagarán automáticamente velocidad vehículo exceda kmh independientemente posición interruptor separado caso permanecerán apagados enciendan deliberadamente
 Testigo opcional
-
 Luz indicadora dirección Reglamento
 Presencia véase figura abajo
 Obligatoria
@@ -4171,9 +4153,7 @@ esquema aplica únicamente remolques
 esquema montaje
 Disposición véase figura abajo
 luces indicadoras dirección delanteras categorías siguientes
-
 distancia borde superficie aparente dirección eje referencia luz superficie aparente dirección eje referencia luz cruce luz antiniebla delantera mm mínimo
-
 distancia borde superficie aparente dirección eje referencia luz superficie aparente dirección eje referencia luz cruce luz antiniebla delantera superior mm inferior mm
 distancia borde superficie aparente dirección eje referencia luz superficie aparente dirección eje referencia luz cruce luz antiniebla delantera inferior mm
 indicadores dirección traseros categoría
@@ -4328,7 +4308,6 @@ vehículos categorías alternativa punto determine fabricante representante debi
 Ángulo horizontal exterior interior
 borde inferior superficie aparente luces mm suelo valor ángulo interior reducirse plano horizontal contiene eje referencia luz
 considerarse visible luz deberá proporcionar visión despejada superficie aparente cm
-
 luz posición delantera recíprocamente incorporada indicador dirección conexión eléctrica luz posición delantera correspondiente vehículo recíprocamente incorporada permanezca apagada período completo activación ciclo encendido apagado luz indicadora dirección
 testigo intermitente obligatorio iluminación salpicadero encenderse tiempo luces posición delanteras
 instalado generadores radiación infrarroja luz posición delantera activarse encienda faro vehículo desplace
@@ -4349,7 +4328,6 @@ luz posición trasera recíprocamente incorporada indicador dirección conexión
 Deberá combinado luces posición delanteras
 Luz antiniebla trasera Reglamento
 Dispositivos categorías Obligatoria
-
 anchura única luz antiniebla trasera situada plano longitudinal vehículo opuesto sentido circulación prescrito país matriculación centro referencia situado plano longitudinal vehículo
 altura distancia suelo mm mínimo mm máximo
 vehículos categoría terreno altura máxima aumentarse mm
@@ -4451,7 +4429,6 @@ vehículos motor cuya longitud supere suficiente tengan catadióptrico lateral i
 vehículos categoría cuya longitud supere inferior bastará catadióptrico lateral instalado delantera tercio posterior longitud vehículo
 Ángulo horizontal atrás
 Ángulo vertical horizontal
-
 superficie iluminante catadióptricos laterales partes común superficie aparente luz lateral
 Luces posición laterales Reglamento
 Obligatorias vehículos cuya longitud supere cabinas bastidor
@@ -4580,7 +4557,6 @@ instalen placas identificación traseras conformes serie enmiendas Reglamento co
 emplazamientos vehículo reservados marcas visibilidad permitirán instalación marcas mm ancho
 Sistema iluminación frontal adaptable AFS Reglamento
 indique contrario requisitos relativos luces carretera punto luces cruce punto presente Reglamento aplicables partes correspondientes AFS
-
 requisito particular
 siguientes ensayos AFS pondrá neutro
 anchura altura
@@ -4817,7 +4793,6 @@ Fecha informe ensayo
 Número informe ensayo
 descripción
 Dispositivos alumbrado señalización luminosa vehículo
-
 Luces cruce
 Luces antiniebla delanteras
 Luces marcha atrás
@@ -4902,17 +4877,13 @@ Dirección visibilidad
 Guía luz
 Lente exterior
 Fuente luminosa
-
 Superficie iluminante luz dispositivo señalización luminosa distinto catadióptrico
 Pantallas darse posiciones
 Superficie iluminante resultante posiciones pantallas posibles ejemplo determinar zona máxima mínima
-
 Ejemplos superficie aparente basada superficie iluminante direcciones visibilidad geométrica
 Superficie aparente basada superficie iluminante
-
 Ejemplos superficie aparente basada superficie salida luz direcciones visibilidad geométrica
 Superficie aparente basada superficie salida luz
-
 Ejemplo superficie iluminante comparada superficie salida luz caso luz simple véanse puntos presente Reglamento
 Ejemplos fuente luz reflector óptico lente exterior
 Ejemplo
@@ -4935,14 +4906,11 @@ Ejemplo
 caso lente exterior texturizada esté excluida superficie aparente arreglo apartado transparente
 Ejemplo fuente luz reflector óptico combinación zona forma función lente exterior
 Ejemplo
-
 Ejemplos determinación superficie salida luz comparación superficie iluminante véanse puntos presente Reglamento
 Nota luz reflejada contribuir determinación superficie salida luz
 Ejemplo
 Superficie emisora luz declarada arreglo punto
 bordes
-
-
 Ejemplo
 Ejemplo
 Ejemplo determinación superficie iluminante combinación zona forma función
@@ -4953,7 +4921,6 @@ Ejemplo
 Ejemplo determinación superficie aparente combinación zona forma función lente exterior texturizada arreglo punto
 Superficie salida luz declarada arreglo punto ejemplo
 c’d e’f
-
 Ejemplos permiten tomar decisión acerca incorporación recíproca funciones
 caso lente exterior texturizada pared
 recíprocamente incorporadas

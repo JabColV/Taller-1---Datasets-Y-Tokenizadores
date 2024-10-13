@@ -1830,9 +1830,7 @@ Subdivisión lotes sublotes productos comercializan partidas granel
 Peso lote toneladas
 Peso sublotes número sublotes
 toneladas
-
 sublotes
-
 toneladas
 Cuadro
 Subdivisión lotes sublotes productos
@@ -3849,7 +3847,6 @@ descripción índice compuesto emisor
 índice compuesto emisor obtenerse información índice
 subyacente tipo interés
 Descripción tipo interés
-
 subyacente categorías enumeradas anteriormente nota valores contener información equivalente
 subyacente cesta subyacentes
 Información proporción subyacente cesta
@@ -4012,7 +4009,6 @@ Introducción advertencias
 Anexos
 Elemento
 Obligaciones información
-
 Advertencia
 nota síntesis leerse introducción folleto
 decisión invertir valores basada consideración inversor folleto conjunto
@@ -4040,7 +4036,6 @@ Utilícese párrafo añádase
 declaración habido cambio adverso importante perspectivas emisor fecha financieros auditados publicados descripción cambio adverso importante
 descripción cambios significativos situación financiera comercial período cubierto información financiera histórica
 Descripción acontecimiento reciente relativo emisor importante evaluar solvencia
-
 emisor depende entidades grupo declararse claridad
 Descripción actividades principales emisor
 Utilícese párrafo
@@ -4085,7 +4080,6 @@ Descripción prestadores servicios solicitante incluidos honorarios máximos pag
 Identidad situación legal gestor inversiones asesor inversiones depositario apoderado fiduciario incluidos acuerdos custodia delegada
 Descripción frecuencia determinará valor neto activos institución inversión colectiva comunicará inversores valor neto activos
 caso institución inversión colectiva paraguas declaración responsabilidad cruzada darse clases inversiones instituciones inversión colectiva
-
 institución inversión colectiva comenzado operaciones financiero fecha documento registro declaración efecto
 Descripción cartera institución inversión colectiva
 Indicación valor neto reciente activos valor procede
@@ -4111,17 +4105,14 @@ Descripción derechos vinculados valores
 Descripción restricción libre transmisibilidad valores
 Indicación valores ofertados objeto solicitud admisión cotización mercado regulado indicación mercados regulados valores cotizados
 Descripción política dividendos
-
 incluida prelación
 incluidas limitaciones tales derechos
-
 tipo interés nominal
 fecha devengo vencimiento intereses
 tipo fijo descripción subyacente basa
 fecha vencimiento acuerdos amortización préstamo incluidos procedimientos reembolso
 indicación rendimiento
 nombre representante tenedores obligaciones
-
 valor contiene componente derivado pago intereses incluir explicación clara completa ayude comprender inversores medida valor inversión resulta afectado valor instrumento instrumentos subyacentes circunstancias riesgos evidentes
 Información acciones subyacentes
 Información certificados depósito
@@ -4143,7 +4134,6 @@ Riesgos
 Información fundamental principales riesgos específicos emisor sector actividad
 Información fundamental principales riesgos específicos emisor
 Información fundamental principales riesgos específicos valores
-
 deberá incluir advertencia riesgo inversores puedan perder valor inversión caso caso responsabilidad inversor esté limitada valor inversión declaración descripción circunstancias surge responsabilidad adicional repercusión financiera
 Sección
 Oferta
@@ -4948,12 +4938,9 @@ autoriza Presidente Consejo efectuar notificación prevista apartado artículo
 Bruselas marzo
 Consejo
 Presidente
-
 Comunidad Europea Reino Marruecos determinados aspectos servicios aéreos
 COMUNIDAD EUROPEA
-
 REINO MARRUECOS
-
 sucesivo denominados Partes
 HABIENDO CONSTATADO celebrado acuerdos bilaterales servicios aéreos miembros Comunidad Europea Reino Marruecos incluyen disposiciones contrarias legislación comunitaria
 TENIENDO Comunidad Europea competencias exclusivas aspectos incluirse acuerdos bilaterales servicios aéreos miembros Comunidad Europea terceros países

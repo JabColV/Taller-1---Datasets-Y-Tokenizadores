@@ -128,7 +128,6 @@ Sec
 INDUSTRIAS EXTRACTIVAS
 INDUSTRIAS EXTRACTIVAS
 Sec
-
 Extracción petróleo gas Div
 INDUSTRIA MANUFACTURERA
 Sec
@@ -248,7 +247,6 @@ divisiones
 Agregados
 Alta tecnología
 Tecnología mediaalta
-
 Tecnología mediabaja
 Baja tecnología
 Producción distribución energía eléctrica gas agua
@@ -2052,9 +2050,7 @@ mercurio mg kg
 expresadas tomando base variante anhidra
 septiembre
 agosto
-
 autorizar usos herbicida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión modificado correspondiente sulfato hierro SANCO particular apéndices II adoptado junio Comité Permanente Cadena Alimentaria Sanidad Animal
 evaluación general miembros prestarán atención particular
 riesgo operador
@@ -2747,10 +2743,6 @@ Granos cacao productos derivados
 μg kg grasa
 Aceite coco destinado consumo humano directo usado ingrediente productos alimenticios
 Carnes ahumadas productos cárnicos ahumados
-
-
-
-
 Carne pescado ahumado productos pesqueros ahumados excluidos productos pesqueros enumerados puntos
 contenido máximo crustáceos ahumados aplica carne apéndices abdomen
 caso cangrejos ahumados crustáceos similares ahumados Brachyura Anomura aplica carne apéndices
@@ -3816,7 +3808,6 @@ Fecha análisis
 ddmmaaaa
 Resultado
 CCalfa método confirmación
-
 Decisión rechazado reexpedido destruido comercializado
 Decisión Comisión
 diciembre
@@ -3866,7 +3857,6 @@ GRUPO
 Unidad administrativa
 ANEXO II
 ANEXO III
-
 ADNS Código Sistema notificación enfermedades animales Decisión CE
 carne bovino
 carne ovino caprino
@@ -4516,7 +4506,6 @@ Requisitos relativos zona control motores fase IV
 Zona control motor
 zona control véase figura define
 Rango regímenes régimen régimen superior
-
 régimen régimen inferior régimen superiorrégimen inferior
 régimen superior régimen inferior definen anexo III fabricante arreglo sección anexo III opta utilizar procedimiento anexo Reglamento CEPE serie enmiendas utilizará definición puntos Reglamento
 régimen medido presenta desviación superior régimen motor declarado fabricante utilizarán regímenes motor declarados

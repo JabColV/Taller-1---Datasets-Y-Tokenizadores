@@ -89,7 +89,6 @@ Peso nominal
 Error negativo máximo tolerable
 Canales
 Cortes
-
 comprobar contenido real envase muestra calculará contenido mínimo tolerable restando error negativo tolerable correspondiente contenido trate peso nominal envase
 Número unidades defectuosas
 Criterio aceptación
@@ -695,8 +694,6 @@ Anexo XII
 Anexo XIII
 envase contener
 canal ave corral
-
-
 envases muestra cuyo contenido real inferior contenido mínimo tolerable considerarán defectuosos
 lote envases controlado aceptará número unidades defectuosas encontradas muestra inferior criterio aceptación figura cuadro rechazará superior criterio rechazo
 DO
@@ -1739,7 +1736,6 @@ DO
 Reglamento CE Parlamento Europeo Consejo julio normas comunes ámbito aviación civil crea Agencia Europea Seguridad Aérea DO
 PROYECTO
 DECISIÓN COMITÉ MIXTO EEE
-
 modifica anexo XIII Transportes EEE
 COMITÉ MIXTO EEE
 Visto Espacio Económico Europeo redacción dada Protocolo adapta Espacio Económico Europeo sucesivo denominado particular artículo
@@ -1848,7 +1844,6 @@ Finlandia
 Suecia
 Reino Unido
 asignado
-
 prórroga créditos
 Datos gastos liquidación cuentas
 Importe máximo subvencionable aplicación artículo apartado letra Reglamento CE
@@ -2004,7 +1999,6 @@ sustituirá recuadro
 RECUADRO
 Emisión certificados deuda BCE
 importe emisión PT
-
 importe nominal certificado deuda BCE
 tipo interés porcentaje
 plazo vencimiento certificado deuda BCE
@@ -2082,7 +2076,6 @@ Operaciones temporales
 Operaciones simples
 conformidad convenciones mercado activos garantía
 Swaps divisas
-
 Depósitos plazo fijo
 sección párrafo sustituirá
 operaciones mercado abierto basadas subastas estándar operaciones principales financiación operaciones financiación plazo operaciones estructurales liquidan normalmente posterior fecha contratación TARGET sistemas liquidación valores SLV pertinentes estén operativos
@@ -3061,7 +3054,6 @@ DO
 ANEXO
 anexo Reglamento CE queda modificado
 sustituye texto
-
 Lista terceros países territorios zonas compartimentos
 Código ISO nombre tercer país territorio
 Código tercer país territorio zona compartimento
@@ -3077,7 +3069,6 @@ Fecha conclusión
 Fecha inicio
 país
 BR Brasil
-
 Rio do Sul Santa Catarina Paraná São Paulo Mato Grosso do Sul
 Mato Grosso Paraná Rio do Sul Santa Catarina São Paulo
 Distrito Federal
@@ -3143,7 +3134,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -3166,16 +3156,12 @@ Declaración zoosanitaria
 veterinario oficial abajo firmante certifica presente pollitos descritos certificado
 cumplen disposiciones Directiva CE
 nacido
-
 territorio código
 compartimentos
 manadas proceden huevos incubar importadas previamente país territorio zona compartimento origen importación condiciones veterinarias estrictas requisitos pertinentes Directiva CE posibles decisiones subsidiarias
 proceden
-
 momento expedirse presente certificado libres enfermedad Newcastle Reglamento CE
 cabo programa vigilancia influenza aviar Reglamento CE
-
-
 momento expedirse presente certificado libres influenza aviar alta patogenicidad influenza aviar baja patogenicidad Reglamento CE
 momento expedirse presente certificado libres influenza aviar alta patogenicidad Reglamento CE
 manadas origen mantenido establecimiento llevado cabo vigilancia influenza aviar resultados negativos previos momento recogida huevos nacieron
@@ -3201,7 +3187,6 @@ conformidad capítulo III anexo II Directiva CE comprobándose infectadas razone
 vacunadas enfermedad Newcastle
 vacunadas enfermedad Newcastle
 nombre tipo atenuada inactivada cepa vírica enfermedad Newcastle empleada vacunas semanas edad
-
 vacunadas vacunas oficialmente autorizadas
 repetir necesario
 nacido huevos
@@ -3212,7 +3197,6 @@ Garantías sanitarias adicionales
 aplicado manada origen programa control salmonela mencionado artículo Reglamento CE requisitos específicos utilización antimicrobianos vacunas Reglamento CE dicha manada origen sometida pruebas detección serotipos salmonela importancia sanitaria
 Fecha muestreo manada origen cuyas pruebas conoce resultado dd mm aaaa
 Resultado pruebas efectuadas manada origen
-
 positivo
 negativo
 aplicado pollitos requisitos específicos utilización antimicrobianos vacunas Reglamento CE
@@ -3244,7 +3228,6 @@ nombre país territorio zona compartimento expedición especie aves corral núme
 cerradas siguiendo instrucciones autoridad competente imposible sustituir contenido
 contenedores vehículos transportado cajas mencionadas limpiado desinfectado carga siguiendo instrucciones autoridad competente
 Notas
-
 Casilla indicar código zona compartimento origen necesario código columna anexo Reglamento CE
 Casilla nombre dirección número autorización incubadorasnacedoras establecimiento reproducción
 Casilla indicar matrícula vagones camiones nombre buques conoce número vuelo aviones
@@ -3537,7 +3520,6 @@ Entorno nivel hogar
 Presencia basuras vecindario
 frecuencia
 frecuencia
-
 Raramente
 Mobiliario urbano deteriorado paradas autobús farolas aceras etc inmediaciones
 Accesibilidad transporte público
@@ -3564,11 +3546,6 @@ Sustitución ropa vieja ropa mano
 pares calzado talla apropiada incluido par época año
 Necesidades satisfechas nivel individual
 Visita médicos generales especialistas exclusión visitas dentistas oftalmólogos meses
-
-
-
-
-
 Ocio actividades sociales nivel individual
 Queda amistades familiares tomar comer cenar mes
 Participa regularmente actividad ocio ejemplo practica deporte cine conciertos
@@ -3594,7 +3571,6 @@ vecindario zonas aire libre niños jugar seguridad
 vacaciones semana año
 Necesidad consulta médico general especialista satisfecha
 ocasión
-
 Razón principal pudiera satisfacerse necesidad consulta médico general especialista
 podían permitírselo caro
 Lista espera
@@ -3713,7 +3689,6 @@ número canales medias canales unidades envío tomarse muestras simples aleatori
 Envío número unidades embalaje
 Número unidades embalaje tomarse muestras
 Cifra número unidades embalaje máximo
-
 Cuartos cortes piezas pequeñas contempladas sección apartado carne picada contemplada sección apartado
 número unidades embalaje envío tomarse muestras simples aleatorias
 Dependiendo peso unidades embalaje número unidades tomarse muestras reducirse utilizando siguientes factores multiplicación
@@ -3784,7 +3759,6 @@ controles señalados Reglamento Comisión efectuado resultado negativo presente 
 carne vacuno porcino incluida carne picada destinada establecimiento pasteurización esterilización tratamiento efecto similar
 carne incluida carne picada procede establecimiento sujeto programa control considerado equivalente aprobado Suecia Finlandia
 Firma
-
 lugar
 fecha
 firma persona responsable expedidor
@@ -3823,7 +3797,6 @@ Centro semen
 Establecimiento
 Instalaciones
 comerciante Explot autorizada acuicultura
-
 Fecha hora salida
 Especies animales Productos
 Código producto Código NC
@@ -3860,7 +3833,6 @@ Unidad veterinaria local Unidad veterinaria local relacionada
 Fecha Firma
 Sello
 II Certificación
-
 Dirección Código postal
 Lugar carga
 Código postal
@@ -4159,7 +4131,6 @@ Intermediarios piensos
 Medios transporte
 Explotaciones rumiantes
 Explotaciones rumiantes
-
 Toma muestras examen materias primas piensos piensos compuestos vistas detección proteínas animales transformadas
 Número muestras oficiales sometidas prueba vistas detectar presencia proteínas animales transformadas
 Número muestras conformes

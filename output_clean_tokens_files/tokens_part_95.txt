@@ -1409,12 +1409,9 @@ Volumen contingentario
 toneladas
 Derechos contingentarios
 Pavos gallipavos vivos peso superior
-
 unidades
 Exención
-
 unidades
-
 unidades
 período posterior
 unidades
@@ -1425,20 +1422,15 @@ unidades
 unidades
 Follaje hojas ramas partes plantas flores capullos hierbas ramos adornos blanqueados teñidos impregnados preparados forma
 Patatas papas tempranas frescas refrigeradas
-
-
-
 período posterior
 hortalizas mezclas hortalizas preparadas conservadas vinagre ácido acético congeladas distintas productos partida apionabo zanahorias
 jugos fruto hortaliza individual valor Brix inferior valor inferior EUR kg peso neto contenido azúcar añadido inferior peso jugo pera jugos frutos tropicales
 líneas contingentes arancelarios números orden sustituirán respectivamente líneas siguientes
 Flores capullos frescos cortados ramos adornos
-
 aumento toneladas peso neto
 Pimientos dulces frescos refrigerados
 aumento toneladas peso neto
 Maíz dulce fresco refrigerado
-
 Zanahorias secas enteras cortadas rodajas trituradas pulverizadas preparación
 aumento toneladas peso neto
 hortalizas mezclas hortalizas secas enteras cortadas rodajas trituradas pulverizadas preparación
@@ -1447,11 +1439,7 @@ Hojas laurel
 Mezclas tipos especias trituradas pulverizadas
 especias trituradas pulverizadas
 melones frescos
-
 aumento toneladas peso neto
-
-
-
 período posterior
 Mezclas jugos agrios cítricos jugos tropicales mezclas jugos agrios cítricos valor Brix inferior valor superior EUR kg peso neto azúcar añadido
 aumento toneladas peso neto
@@ -2523,7 +2511,6 @@ cuotas mercado mercado productos dependen respectivas ventas producto año indep
 cuota mercado mercado productos año años siguientes
 cuota mercado mercado productos año años siguientes
 competidores cuota mercado combinada mercado tecnológico mercado productos umbral beneficie salvaguardia regulatoria
-
 cuota mercado combinada mercado tecnológico mercado productos año
 objeto evaluación individual
 Restricciones competencia especialmente graves conformidad Reglamento exención categorías
@@ -4221,7 +4208,6 @@ DO
 DO
 ANEXO
 PRINCIPIOS GENERALES CÁLCULO ELECTRICIDAD COGENERACIÓN
-
 Principios generales
 valores utilizados calcular electricidad cogeneración determinarán base funcionamiento previsto real unidad condiciones normales utilización
 caso unidades microcogeneración cálculo basarse valores certificados
@@ -4230,7 +4216,6 @@ unidades cogeneración tipo refiere II eficiencia global anual establecida miemb
 unidades cogeneración tipos refiere II eficiencia global anual establecida miembros nivel
 refiere unidades cogeneración cuya eficiencia global anual inferior valor refiere letra inciso unidades tipos refiere II inferior valor refiere letra inciso ii unidades cogeneración tipos refiere II cogeneración calculará aplicando fórmula
 ECHP HCHPC
-
 ECHP cantidad electricidad producida cogeneración
 relación electricidad calor
 HCHP cantidad calor útil procedente cogeneración calculada producción calor cantidad calor producida calderas separadas extracción tensión vapor vivo procedente generador vapor paso turbina
@@ -4265,7 +4250,6 @@ producción cogeneración unidades cogeneración deberá aportar ahorro energía
 producción unidades cogeneración pequeña escala microcogeneración aporten ahorro energía primaria considerarse cogeneración alta eficiencia
 Cálculo ahorro energía primaria
 ahorro energía primaria aportado producción cogeneración definida conformidad anexo calculará fórmula
-
 PES ahorro energía primaria
 CHP Hη eficiencia térmica producción cogeneración definida producción anual calor útil dividida cantidad combustible utilizada generar suma producción calor útil electricidad cogeneración
 Ref Hη valor referencia eficiencia producción separada calor
@@ -4445,7 +4429,6 @@ estimación energía primaria ahorrarse
 medida adecuada evaluación completa compuesta conjunto planes estrategias regionales locales
 ANEXO IX
 ANÁLISIS COSTES BENEFICIOS
-
 Principios generales análisis costes beneficios
 finalidad realización análisis costes beneficios relación medidas destinadas promover eficiencia sistemas calefacción refrigeración contemplan artículo apartado establecer base decisión definen forma cualificada prioridades recursos limitados nivel social
 análisis costes beneficios consistir evaluación proyecto instalación individual grupo proyectos ámbito amplio local regional nacional establecer opción rentable ventajosa calefacción refrigeración zona geográfica dada efectos planificación sistema calefacción
@@ -4490,7 +4473,6 @@ incluirá análisis sensibilidad evaluar costes beneficios proyecto grupo proyec
 miembros designarán autoridades competentes encargadas análisis costes beneficios arreglo artículo
 exigir autoridades competentes locales regionales nacionales gestores instalaciones particulares realicen análisis económicos financieros
 Facilitarán metodologías hipótesis detalladas arreglo presente anexo establecerán harán públicos procedimientos análisis económico
-
 Principios efectos artículo apartados
 análisis costes beneficios proporcionarán información efectos medidas previstas artículo apartados
 proyecte instalación generación electricidad únicamente instalación recuperación calor deberá comparación instalaciones proyectadas renovación proyectada instalación equivalente genere cantidad electricidad calor proceso recupere calor residual suministre calor cogeneración alta eficiencia redes urbanas calefacción refrigeración
@@ -4950,7 +4932,6 @@ subasta ofertará capacidad máximo quince años siguientes
 subastas anuales capacidad anual darán comienzo lunes marzo año especifique fecha calendario subastas
 subasta anual capacidad anual usuarios red participar subastas concurrentes punto interconexión solicitar productos capacidad normalizados
 capacidad ofertarse subasta anual capacidad anual
-
 capacidad técnica gestor red transporte productos capacidad normalizados
 subastas anuales oferte capacidad anual siguientes años cantidad capacidad técnica reservada artículo apartado letra subastas anuales oferte capacidad anual años cantidad capacidad técnica reservada artículo apartado
 capacidad técnica previamente vendida ajustada función capacidad vuelve ofrecer conforme procedimientos gestión congestión aplicables

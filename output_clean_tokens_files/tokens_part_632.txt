@@ -295,8 +295,6 @@ monitor consumo energía desactivado superior vatio
 contexto inicia instrucción apagar monitor
 monitores deberán exceder requisitos Energy Star versión correspondientes Tier consumo energía máximo activo
 monitores deberán cumplir siguientes fórmulas adecuada
-
-
 número megapíxeles consumo energía vatios
 solicitante deberá presentar organismo competente informe certifique medición consumo energía modos desactivado espera activo efectuado arreglo procedimiento previsto Requisitos monitores ordenador programa Energy Star versión
 informe indicará consumo energía registrado modos
@@ -392,7 +390,6 @@ autoriza Presidente Comisión Miembro Comisión responsable Energía firmar adop
 Bruselas mayo
 Comisión
 Miembro Comisión
-
 Comunidad Europea Energía Atómica Organización Desarrollo Energético Península Coreana
 COMUNIDAD EUROPEA ENERGÍA ATÓMICA
 sucesivo denominada Comunidad
@@ -496,7 +493,6 @@ Presidente
 DO
 PROYECTO
 DECISIÓN COMITÉ MIXTO
-
 relativa adopción reglamento interno
 COMITÉ MIXTO
 Visto Unión Europea República Moldavia relativo protección indicaciones geográficas productos agrícolas alimenticios particular artículo
@@ -1081,7 +1077,6 @@ participaciones entidades dependientes asociadas negocios conjuntos contabilicen
 obstante entidades aplicarán dispuesto Norma participaciones dependientes asociadas negocios conjuntos NIC deban contabilizar Norma
 entidades aplicarán Norma derivados participaciones dependientes asociadas negocios conjuntos derivado cumpla definición instrumento patrimonio entidad recogida NIC
 Derechos obligaciones surgidos contratos arrendamiento aplicación NIC Arrendamientos
-
 partidas cobrar derivadas arrendamiento reconocidas arrendador estarán sujetas requisitos baja cuentas deterioro valor activos fijados Norma véanse párrafos Norma párrafos GA GA GA GA Apéndice
 partidas pagar arrendamiento financiero reconocidas arrendatario estarán sujetas requerimientos baja cuentas contenidos Norma véanse párrafos Norma párrafos GA GA Apéndice
 derivados implícitos arrendamiento estarán sujetos requerimientos derivados implícitos contenidos Norma véanse párrafos Norma párrafos GA GA Apéndice
@@ -1830,8 +1825,6 @@ um importe libros retenida um
 entidad reconoce implicación continua resulta subordinación participación retenida pérdidas crediticias consiguiente reconoce activo um
 importe máximo flujos efectivo recibiría subordinación pasivo asociado um importe máximo flujos efectivo recibiría subordinación um valor razonable subordinación um
 entidad utiliza información mencionada contabilizar transacción
-
-
 Activo original
 Activo reconocido subordinación participación residual
 Activo contraprestación recibida forma diferencial restante
@@ -3286,7 +3279,6 @@ RSNbenzylα αtetrafluoromtolyoxybutyramide
 NbutylmethylphenylsulfonylaminophenylthiooxotrichlorophenyldihydroHpyrazolylaminochlorophenyltetradecanamide
 ANEXO III
 tablas suprimen entradas siguientes números clasificación
-
 ANEXO IV
 Denominación Química Internacional
 Límites concentración
@@ -3365,8 +3357,6 @@ Diario Oficial Comunidades Europeas octubre
 página anexo punto
 proteínas hidrolizadas mezclas polipéptidos péptidos aminoácidos obtenidos hidrólisis colágeno
 proteínas hidrolizadas polipéptidos péptidos aminoácidos mezclas obtenidos hidrólisis subproductos animales
-
-
 Decisión Consejo
 noviembre
 nombra miembro Consejo Administración Agencia Europea Sustancias Mezclas Químicas

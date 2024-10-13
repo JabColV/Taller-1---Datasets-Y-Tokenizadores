@@ -1074,7 +1074,6 @@ Coste EUR
 Ayuda comunitaria
 Recogida muestras
 horas
-
 Examen histológico
 análisis
 Genotipado PrP
@@ -1091,7 +1090,6 @@ Coordinación evaluación datos
 horas
 Gastos viaje alojamiento experto LCR
 viaje
-
 EUR máximo
 CAPÍTULO
 Información técnica financiera
@@ -1101,7 +1099,6 @@ Determinación genotipo PrP secuenciación ADN
 muestras aminoácido codón
 Ácido aspártico
 Serina
-
 Histológicamente sospechosas EET pruebas rápidas
 Histológicamente sospechosas EET pruebas rápidas
 Histológicamente sospechosas EET pruebas rápidas
@@ -1631,7 +1628,6 @@ requisitos mínimos nominales rendimiento energético motores figuran cuadros Cu
 Rendimientos nominales mínimos nivel rendimiento IE Hz
 Potencia nominal
 Número polos
-
 Cuadro
 Rendimientos nominales mínimos nivel rendimiento IE Hz
 REQUISITOS INFORMACIÓN PRODUCTO APLICABLES MOTORES
@@ -1941,7 +1937,6 @@ DISPONIBILIDAD
 probabilidad servicio red esté disponible tiempo
 ANEXO II
 SERVICIOS LOCALIZACIÓN
-
 Criterios búsqueda
 cumplir conjunto mínimo criterios búsqueda establecidos artículo apartado Directiva CE servicios localización permitirán búsquedas elementos metadatos Inspire enumerados cuadro presente anexo
 Cuadro
@@ -1981,7 +1976,6 @@ Denominación operador
 Propiedad
 Intersección Intersects
 Requiere elemento metadatos Inspire rectángulo geográfico envolvente Geographic Bounding Box intersección área definida interés
-
 Operaciones
 LISTA OPERACIONES
 cumplir dispuesto artículo apartado Directiva CE servicio localización garantizará operaciones enumeradas cuadro presente anexo
@@ -2437,7 +2431,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -3427,7 +3420,6 @@ DO
 ANEXO
 obstante normas interpretación Nomenclatura Combinada deberá considerar redacción designación productos valor indicativo determinándose aplicabilidad régimen preferencial contexto presente anexo alcance códigos NC
 indican códigos ex NC régimen preferencial determinará aplicación código NC correspondiente descripción considerados conjuntamente
-
 Contingentes gestionados principio orden llegada
 Número orden
 Código NC
@@ -3439,11 +3431,9 @@ euros tonelada
 Solomillo fresco refrigerado congelado
 Carne porcino fresca refrigerada congelada
 Embutidos secos untar cocer
-
 preparaciones conservas carne despojos sangre
 Canales medias canales frescas refrigeradas congeladas
 Trozos carne animales especie porcina fresca refrigerada congelada deshuesados deshuesar solomillo presentados separadamente
-
 Contingentes gestionados método examen simultáneo
 Chuleteros piernas deshuesados frescos refrigerados congelados
 Chuleteros piernas deshuesados frescos refrigerados congelados originarios Unidos América
@@ -4483,7 +4473,6 @@ DO
 Directiva modificada Reglamento CE Parlamento Europeo Consejo DO
 ANEXO
 ANEXO
-
 CUESTIONARIO APLICACIÓN DIRECTIVA CE
 Datos institución presenta informe
 Nombre persona contacto
@@ -4555,7 +4544,6 @@ medidas tomado garantizar titulares cumplan requisitos exigidos permisos emisió
 Nota multas sanciones pudieran imponerse caso infracción deberán notificarse punto
 siguientes medidas aplican país Añada explicación caso necesario
 bloqueará caso irregularidades
-
 prohibirá venta caso irregularidades
 Retirada permiso suspensión instalación
 Controles inspecciones puntuales rutinarios administración
@@ -4861,7 +4849,6 @@ observaciones
 emprendido país estudios públicos aplicación desarrollo régimen europeo comercio derechos emisión
 caso afirmativo indique documento referencia dirección Internet reseña estudio
 aspectos concretos relacionados aplicación susciten preocupación país
-
 Cuadro
 miembro
 Período referencia
@@ -4916,8 +4903,6 @@ Método original aprobado
 Método provisional aplicado
 Motivos modificación temporal
 Período suspensión temporal restauración método niveles adecuado
-
-
 Mes año
 Cuadro
 Número instalaciones aplican medición continua emisiones

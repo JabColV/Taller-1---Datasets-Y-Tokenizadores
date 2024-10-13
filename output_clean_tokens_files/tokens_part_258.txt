@@ -402,7 +402,6 @@ distrito Spin Boldak provincia Kandahar Afganistán zona limítrofe distrito Cha
 Miembro Consejo Supremo Talibán junio lugarteniente Mullah Mohammed Omar marzo miembro Comisión Supervisión Talibanes mediados implicado narcotráfico cree zona fronteriza Afganistán Pakistán pertenece tribu achekzai
 Sayed Mohammad Azim Agha alias Sayed Mohammad Azim Agha Agha Saheb
 Director Departamento Pasaportes Visados Ministerio Interior régimen talibán
-
 manda frente mahaz talibán ejerce miembro comisión militar talibanes mediados cree zona fronteriza Afganistán Pakistán
 Sayed Mohammad Azim Agha trabajó empleado Departamento Pasaportes Visados dependiente Ministerio Interior régimen talibán
 alcalde Kandahar régimen talibán ministro Sanidad Pública régimen talibán
@@ -487,45 +486,18 @@ detenido autoridades Afganistán Saleh Mohammad Kakar dirigía zona BandeTimor p
 Kakar contacto altos dirigentes talibanes cobrado nombre dinero narcotraficantes administrado escondido dinero perteneciente miembros destacados talibanes
 responsable facilitar pago impuestos talibanes nombre narcotraficantes
 Kakar propietario negocio compra venta automóviles Kandahar proporcionado vehículos talibanes realización atentados suicidas
-
 aldea Zardalu Darra distrito Kalafgan provincia Takhar Afganistán Nacionalidad
 reconcilió caída régimen talibán ocupó cargos Administración nivel distrito provincia Kunduz confirmado asesinato talibanes noviembre
-
-
 Tarjeta identificación nacional afgana tazkira
 implicado narcotráfico pertenece etnia tayika
-
-
-
-
 encarcelado Unidos América
-
-
 Ocultó Usama bin Laden red AlQaida años anteriores atentado septiembre Unidos
 dirigiendo talibanes Gobierno afgano aliados Afganistán
-
-
-
-
-
-
 encarcelado Unidos América mediados
-
-
-
 distrito Panjwai provincia Kandahar Afganistán
-
-
-
 enero
-
-
-
 diciembre Gul Agha Ishakzai facilitó traslado personas bienes campamentos adiestramiento talibanes finales viajó extranjero objeto obtener piezas armas
-
 localidad Shinkalai distrito NadeAli provincia Helmand Afganistán provincia Zabul Afganistán
-
-
 Abdul Raqib Takhari
 localidad Turshut distrito Wursaj provincia Takhar Afganistán Nacionalidad
 Said Ahmed Shahidkhel
@@ -799,8 +771,6 @@ DO
 ANEXO
 Requisitos información producto aplicables productos usos especiales
 coordenadas cromáticas lámpara sitúan gama
-
-
 coordenadas cromáticas consignarán documentación técnica constituya fines evaluación conformidad prevista artículo Directiva CE indicará coordenadas convierten producto producto usos especiales
 caso productos usos especiales previsto consignará formas información facilite producto acompañado advertencia destinado usado aplicaciones
 documentación técnica elabore fines evaluación conformidad prevista artículo Directiva CE contendrá lista parámetros técnicos diseño producto específico declarado
@@ -846,7 +816,6 @@ ANEXO III
 REQUISITOS EFICIENCIA ENERGÉTICA
 Requisitos eficiencia energética lámparas direccionales
 índice eficiencia energética IEE lámpara calcula fórmula redondea decimal
-
 Pcor potencia asignada Prated medida tensión entrada nominal corregida caso cuadro
 factores corrección hubiera acumulativos
 Cuadro
@@ -901,26 +870,16 @@ indicación contrario
 Factor supervivencia lámpara
 marzo
 Mantenimiento flujo luminoso
-
-
-
 Número ciclos conmutación producirse fallo
 mitad vida útil lámpara expresada horas
 tiempo encendido lámpara
 vida útil lámpara expresada horas
 tiempo encendido lámpara
 Tiempo encendido
-
-
 Tiempo calentamiento lámpara
 lámparas contengan mercurio forma amalgama
 Porcentaje fallos prematuros
-
-
 Factor potencia lámpara lámparas mecanismo control integrado
-
-
-
 Rendimiento color Ra
 lámpara destinada exteriores aplicaciones industriales punto presente anexo
 etapa lámparas casquillo tipo estándar utilice lámparas filamento deberán cumplir requisitos avanzados materia compatibilidad equipos estén diseñados instalación red eléctrica suministro lámparas filamento
@@ -933,8 +892,6 @@ lámparas baja tensión
 vida útil media asignada
 Número ciclos conmutación
 vida útil asignada lámpara expresada horas
-
-
 Potencia
 Potencia
 Requisitos funcionalidad lámparas LED direccionales direccionales
@@ -3884,7 +3841,6 @@ caso período cuarentena previsto letra comenzar fecha recogida muestras
 ANEXO II
 ANEXO II
 Modelos certificados veterinarios importaciones
-
 ESPERMA ANIMALES DOMÉSTICOS ESPECIE BOVINA DESTINADO IMPORTACIÓN RECOGIDO CONFORMIDAD DIRECTIVA CEE CONSEJO MODIFICADA DIRECTIVA CE
 modelo certificado aplicable importaciones esperma recogido conformidad Directiva CEE Consejo modificada Directiva CE
 PAÍS Certificado veterinario UE
@@ -3968,7 +3924,6 @@ Nombre mayúsculas
 Fecha
 Sello
 Cargo título Firma
-
 ESPERMA ANIMALES DOMÉSTICOS ESPECIE BOVINA RECOGIDO TRATADO ALMACENADO DICIEMBRE DESTINADO IMPORTACIÓN ENERO CONFORMIDAD ARTÍCULO APARTADO DIRECTIVA CE CONSEJO
 modelo certificado aplicable enero importaciones esperma recogido tratado almacenado diciembre conforme condiciones anteriormente previstas Directiva CEE Consejo importado posterioridad dicha fecha conformidad artículo apartado Directiva CE
 PAÍS Esperma bovinos domésticos recogido tratado almacenado diciembre
@@ -4039,13 +3994,9 @@ Volumen contingentario
 toneladas peso neto especifique cosa
 Derecho contingentario
 Grasas aceites animales marinos aceite aceite esperma ballena envases capacidad neta kg
-
 Coliflores
-
 Cerezas frescas
-
 Ciruelas frescas septiembre octubre
-
 suprimen líneas correspondientes números orden
 añaden líneas siguientes
 Frambuesas frescas
@@ -4330,7 +4281,6 @@ Islandia
 Noruega
 Suiza incluido Liechtenstein
 países europeos
-
 Rusia
 Turquía
 Ucrania

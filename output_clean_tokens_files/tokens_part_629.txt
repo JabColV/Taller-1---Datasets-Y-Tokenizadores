@@ -243,10 +243,7 @@ semillas cáñamo destinadas siembra clasificadas código NC importadas importad
 cáñamo bruto clasificado código NC reúne condiciones previstas artículo Reglamento CE
 Expedido
 Duración validez prorrogada inclusive
-
-
 Firma sello organismo emisor certificado
-
 Firma sello organismo emisor certificado
 cumplimentará figuren firma sello casilla
 Masa neta unidad medida indicación unidad
@@ -1794,7 +1791,6 @@ Nombre Número autorización
 Dirección Nombre Número autorización
 Dirección
 Lugar destino Explotación Cuarentena Organismo autorizado
-
 Dirección Código postal
 Lugar carga Dirección Número autorización
 Fecha hora salida Fecha hora esperadas llegada
@@ -2120,7 +2116,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Documento
 PIF entrada UE
@@ -2201,7 +2196,6 @@ momento sacrificio despiece almacenamiento transporte contacto ratites carne cum
 Declaración bienestar animales
 veterinario oficial abajo firmante certifica presente carne fresca descrita presente certificado proviene animales tratados matadero disposiciones pertinentes legislación Unión sacrificio matanza momento cumplido requisitos equivalentes establecidos capítulos II III Reglamento CE Consejo DO
 Notas
-
 Casilla indicar código zona compartimento origen necesario código columna anexo Reglamento CE
 Casilla indicar nombre dirección número autorización establecimiento expedición
 Casilla indicar matrícula vagones camiones nombre buques conoce número vuelo aviones
@@ -2229,8 +2223,6 @@ Firma
 Sello
 abril producido brotes IAAP virus subtipo HN explotaciones ratites situadas zona Sudáfrica alta densidad explotaciones
 consecuencia Reglamento CE modificado Reglamento Ejecución UE Comisión restringe actualmente importaciones determinadas mercancías derivadas ratites incluida carne ratites granja
-
-
 BPR BBP DOC DOR HEP HER SRP
 Reglamento CE Comisión dispone mercancías importarse Unión transitar proceden terceros países territorios zonas compartimentos figuren cuadro anexo establece requisitos certificación veterinaria tales mercancías
 Reglamento CE Comisión
@@ -2773,7 +2765,6 @@ Reglamento UE Comisión junio modifica anexos Reglamento CE Parlamento Europeo C
 ANEXO
 anexos III IV Decisión UE quedan modificados
 anexo III sustituye texto
-
 Modelo certificado sanitario IIIA comercio Unión partidas esperma animales especies ovina caprina recogido conformidad Directiva CEE Consejo agosto expedido centro recogida autorizado origen
 Información partida presentada
 UNIÓN EUROPEA
@@ -2803,7 +2794,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Descripción mercancía
 Código mercancía código NC
@@ -2847,7 +2837,6 @@ II recogido ovinos genotipo ARR ARR proteína priónica
 enviado lugar carga recipiente precintado conformidad capítulo III sección punto anexo Directiva CEE número indicado casilla
 II añadido esperma antibióticos mezclas antibióticos
 Notas
-
 Casilla lugar origen corresponderá centro recogida esperma procede esperma cuestión
 Casilla lugar destino corresponderá centro recogida almacenamiento esperma explotación destinado esperma
 Casilla Indíquense identificación recipiente número precinto
@@ -3001,7 +2990,6 @@ capítulo Manual pruebas diagnóstico vacunas animales terrestres OIE recoge nor
 color firma sello deberá caracteres impresos
 Veterinario oficial
 anexo IV sustituye texto
-
 Modelo certificado sanitario importaciones partidas óvulos embriones animales especies ovina caprina
 Fecha congelación
 Óvulos embriones especies ovina caprina
@@ -3093,7 +3081,6 @@ página anexo bis II columna
 Vidrio partidas curvado biselado grabado taladrado
 Vidrio partidas curvado biselado grabado taladrado esmaltado trabajado enmarcar combinar materias
 página anexo bis II columna
-
 ex ex ex ex
 página anexo ter columna
 Chocolate preparaciones alimenticias contengan cacao distintas polvo cacao

@@ -187,7 +187,6 @@ DETERMINACIÓN CRITERIOS COMPORTAMIENTO
 CRITERIO COMPORTAMIENTO CABEZA HPC ACELERACIÓN CABEZA ms
 satisface criterio comportamiento cabeza HPC ensayo produce contacto cabeza componente vehículo
 ensayo cabeza entra contacto componente vehículo procederá cálculo valor HPC base aceleración medida conforme punto anexo fórmula
-
 aceleración resultante medida conforme punto anexo unidades gravedad
 comienzo contacto cabeza determinarse satisfactoria constituyen instantes expresados segundos definen intervalo tiempo comienzo contacto cabeza registro valor HPC máximo
 comienzo contacto cabeza determinarse satisfactoria constituyen instantes expresados segundos definen intervalo tiempo comienzo registro valor HPC máximo
@@ -205,7 +204,6 @@ criterio vendrá determinado carga compresión expresada kN ejerce axialmente f�
 CRITERIO FUERZA COMPRESIÓN TIBIA TCFC ÍNDICE TIBIA
 criterio fuerza compresión tibia vendrá determinado fuerza compresión Fz expresada kN ejerce axialmente tibia maniquí medida conforme punto anexo
 índice tibia calculará tomando base momentos flexión Mx My medidos conforme punto fórmula
-
 momento flexión torno eje
 momento flexión torno eje
 momento crítico flexión tomará valor Nm
@@ -859,7 +857,6 @@ DO
 DO
 PROYECTO
 DECISIÓN COMITÉ MIXTO EEE
-
 modifica anexo II Reglamentaciones técnicas normas ensayos certificación EEE
 COMITÉ MIXTO EEE
 Visto Espacio Económico Europeo EEE particular artículo
@@ -1101,7 +1098,6 @@ Contaminantes gaseosos
 ensayo tipo
 combustibles
 gasolina
-
 Masa partículas número partículas
 gasolina
 Emisiones ralentí
@@ -1133,7 +1129,6 @@ anexo III queda modificado
 punto sustituye texto
 punto añade texto
 etanol
-
 cuadro punto sustituye texto
 Combustible
 Gas natural biometano
@@ -1374,7 +1369,6 @@ Matriculaciones UE
 año civil ensayos emisiones escape
 vehículos familia OBD IUPR período muestreo
 Número lotes muestras
-
 IUPR número lotes muestras tomarse describe cuadro punto basa número vehículos familia OBD homologados IUPR objeto muestreo
 período muestreo familia OBD considerarán objeto muestreo tipos vehículo familia estén homologados IUPR
 períodos muestreo siguientes considerarán objeto muestreo tipos vehículo hayan sometidos previamente ensayo cuenten homologaciones emisiones hayan ampliadas período muestreo
@@ -1547,7 +1541,6 @@ Máximo
 fijar valor mínimo diferencia mínima cero
 combustible diseñado motor gasolina diésel gas natural GLP etc vehículos bicombustible agruparse combustible específico combustibles común
 identificación vehículos incluidos programa sometidos ensayos dicha identificación incluirá
-
 GLP
 Mínimo
 establecer valores límite aplicado términos norma ISO Productos petrolíferos Determinación aplicación datos precisión relación métodos ensayo
@@ -2113,11 +2106,7 @@ notas explicativas NC guión párrafo códigos
 nota explicativa NC punto párrafo códigos NC
 CEE DO
 cuadro figura anexo
-
-
 CEE DO
-
-
 CEE DO
 punto cuadro figura anexo
 CEE DO
@@ -2179,9 +2168,7 @@ punto cuadro figura anexo columna
 nota capítulo
 nota capítulo
 CE DO
-
 señal analógica considerarse grabación sentido partida puesto utilidad posterior proceso fabricación
-
 señal analógica considerarse grabación sentido presente subpartida puesto utilidad posterior proceso fabricación
 CE DO
 CE DO
@@ -2555,9 +2542,7 @@ Impurezas
 Tolueno kg máximo
 junio
 mayo
-
 autorizar usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión dietofencarb particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención riesgo organismos acuáticos artrópodos diana asegurarán condiciones incluye aplicación medidas adecuadas reducción riesgo
 miembros afectados pedirán presente información confirmatoria
@@ -2839,7 +2824,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil

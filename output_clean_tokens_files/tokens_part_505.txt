@@ -912,7 +912,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -966,7 +965,6 @@ prueba identificación agente efectuada laboratorio autorizado muestras sangre t
 esperma destinado exportación recogió fecha autorización centro autoridades nacionales competentes país exportador
 esperma destinado exportación trató almacenó transportó condiciones ajustan dispuesto Directiva CEE
 Notas
-
 Casilla Persona responsable envío UE casilla rellenarse únicamente certificado mercancía tránsito
 Casilla lugar origen centro recogida esperma procede esperma cuestión autorizado arreglo artículo apartado Directiva CEE figura listas publicadas sitio web Comisión
 httpeceuropaeufoodanimalsemenovabovineindexenhtm
@@ -1046,7 +1044,6 @@ DO
 ANEXO
 anexos III Reglamento CE modifican
 anexo añade
-
 REQUISITOS PROCESOS SOPORTE SERVICIOS ENLACE DATOS
 ENVÍO DATOS IDENTIFICACIÓN LOGON FORWARD
 Informaciones vuelo pertinentes
@@ -2416,7 +2413,6 @@ expediente multicepas entiende expediente contiene datos pertinentes evaluación
 Agencia publicará directrices científicas presentación evaluación expediente multicepas
 procedimiento presentación evaluación expediente multicepas ajustará orientación publicada Comisión Normas aplicables medicamentos Unión Europea volumen Nota solicitantes
 sección establecen disposiciones específicas aplicación título partes medicamentos veterinarios homeopáticos definen artículo apartado
-
 dispuesto aplicará documentos presentados conformidad artículo registro simplificado medicamentos veterinarios homeopáticos mencionado artículo apartado documentos autorización medicamentos veterinarios homeopáticos referencia artículo apartado modificaciones exponen continuación
 Terminología
 denominación latina cepa homeopática descrita expediente solicitud autorización comercialización deberá acorde denominación latina Farmacopea Europea ausencia farmacopea oficial miembro
@@ -2437,7 +2433,6 @@ Estudios estabilidad
 demostrarse estabilidad producto terminado
 datos estabilidad cepas homeopáticas generalmente transferibles diluciones potenciaciones
 identificación determinación cuantitativa principio activo grado dilución considerarse datos estabilidad forma farmacéutica
-
 dispuesto aplicará registro simplificado medicamentos veterinarios homeopáticos mencionado artículo apartado presente Directiva especificación perjuicio dispuesto Reglamento CEE sustancias incluidas cepas homeopáticas vayan administrarse especies animales destinadas producción alimentos
 justificará ausencia dato ejemplo demuestra grado aceptable seguridad pese ausencia determinados estudios
 DO
@@ -3464,13 +3459,9 @@ Triazóxido
 Triflumurón
 sustituye entrada compuestos mercurio
 Compuestos mercurio incluidos compuestos inorgánicos mercurio compuestos alquílicos mercurio compuestos alcoxialquílicos arílicos mercurio excluidos compuestos mercurio anexo
-
-
 Véase circular PIC wwwpicint
 sustituye entrada polibromobifenilos
 Polibromobifenilos PBB hexabromobifenilo
-
-
 suprime entrada
 Clordecona
 Éter pentabromodifenilo
@@ -3985,7 +3976,6 @@ conformidad decreto interministerial ELGA abonaría compensaciones cuestión red
 autoridades griegas estiman efecto tales ayudas cumplían condiciones fijadas artículo Reglamento exención
 indemnizaciones concedidas ascendieron EUR Comisión observa financiaron contribuciones especiales obligatorias ascendían EUR Tales indemnizaciones figuraban Orden ministerial enero calidad cobertura excepcional seguro pérdidas sufridas producción vegetal formaban indemnizaciones ELGA debía abonar productores compensar daños virtud régimen seguro obligatorio
 consiguiente argumento autoridades griegas indemnizaciones deberían considerarse compensaciones genuinas aceptado Comisión
-
 caso ayudas concepto corrección errores administrativos involuntarios informes evaluación pérdidas producción vegetal capital animal Grecia únicamente informado monto EUR
 información complementaria enviada Comisión autoridades griegas precisado cambio importe medidas corrección referentes ayudas destinadas compensar pérdidas producción vegetal capital animal ocasionadas osos véanse considerandos
 estima compatibles ayudas estatales otorgadas productores ELGA valor EUR compensar pérdidas producción vegetal representó EUR correspondía ayudas pérdidas posteriores producción vegetal Comisión ayudas cumplían disposiciones pertinentes Directrices Reglamento exención consideradas ayudas estatales compatibles mercado interior conformidad artículo apartado letra Tratado
@@ -4707,9 +4697,7 @@ DO Versión corregida DO
 Reglamento modificado Reglamento CE DO
 Corrección errores Directiva CEE Consejo diciembre relativa aproximación legislaciones Miembros determinados elementos características tractores agrícolas forestales ruedas Diario Oficial Comunidades Europeas marzo
 página anexo IV apéndice tercer guión
-
 letras ST ensayo sometido enlace ensayo dinámico ensayo estático ST rectángulo encierra letra“e
-
 letras ensayo sometido enlace ensayo dinámico ensayo estático rectángulo encierra letra
 Decisión Ejecución Consejo
 enero
@@ -4944,7 +4932,6 @@ Método calcular Índice Eficiencia Energética Índice Eficiencia Lavado consum
 CÁLCULO ÍNDICE EFICIENCIA ENERGÉTICA
 calcular Índice Eficiencia Energética IEE modelo lavadora doméstica compara consumo energía anual ponderado lavadora doméstica programa normal algodón °C carga completa carga parcial programa normal algodón °C carga parcial consumo energía anual normalizado
 Índice Eficiencia Energética IEE calcula arreglo fórmula redondea decimal
-
 consumo energía anual ponderado lavadora doméstica
 consumo energía anual normalizado lavadora doméstica
 consumo energía anual normalizado SAEC calcula kWh año arreglo fórmula redondea decimal

@@ -549,7 +549,6 @@ ref
 CAS
 Nombre sustancia
 aditivo auxiliar polimerización
-
 monómero sustancia partida macromolécula obtenida fermentación microbiana
 FRF aplicable
 LME
@@ -1692,7 +1691,6 @@ Cereales derivados cereales productos pastelería galletería bollería panader�
 Cereales natural inflados copos incluidas palomitas maíz copos maíz similares
 Harinas cereales sémolas
 Alimentos secos
-
 Productos confitería
 forma sólida
 grasas superficie
@@ -1724,7 +1722,6 @@ Enteros corteza comestible
 Quesos naturales corteza corteza comestible gouda camembert similares quesos fundidos
 Alimentos fritos asados
 Salsas
-
 Alimentos congelados ultracongelados
 Cacao
 Café tostado descafeinado soluble sucedáneos café granulados polvo
@@ -1789,19 +1786,10 @@ Tiempo contacto
 Tiempo contacto peores condiciones previsibles
 min
 hora
-
 hora
-
 horas
-
 horas
-
 horas
-
-
-
-
-
 Véanse condiciones específicas
 Temperatura contacto
 Contacto peores condiciones previsibles
@@ -1970,14 +1958,12 @@ Temperatura ensayo
 Exp
 Aguas sidras zumos frutas hortalizas claros simples concentrados néctares frutas limonadas jarabes bíter infusiones café té cervezas bebidas alcohol bebidas energéticas similares aguas aromatizada extracto café líquido
 Bebidas alcohólicas grado alcohólico superior licores cremosos
-
 Frutas purés conservas pastas jugo almíbar mermeladas compotas similares
 alcohólico
 Líquidos cocidos
 Leche polvo incluidos preparados lactantes base leche entera polvo
 Quesos transformados queso fresco queso cottage similares
 tipo graso
-
 Pasta cacao
 ensayo migración global OM efectuarse horas °C simulante alimentario temperatura reflujo simulantes hora °C
 Decisión PESC Consejo
@@ -2345,7 +2331,6 @@ Apellidos
 Apellidos soltera
 Nombres
 Utiliza utilizado solicitante nombres
-
 Fecha nacimiento
 Lugar nacimiento
 Distrito región
@@ -2378,9 +2363,7 @@ Apellidos nombres sexo fecha nacimiento lugar nacimiento lugar residencia indíq
 Fecha lugar presentación solicitud protección internacional país residencia
 Procedimientos asilo anteriores
 pedido solicitante anterioridad protección internacional reconocimiento condición refugiado estatuto protección subsidiaria país residencia
-
 tomó decisión solicitud
-
 solicitud denegada
 adoptó decisión
 Documentos identidad
@@ -2395,8 +2378,6 @@ precísese podían contenido visado permiso residencia válido caso afirmativo m
 documentos
 Documentos perdidos
 Documentos sustraídos
-
-
 motivos
 Especifíquese
 Documentos residencia visados
@@ -2406,7 +2387,6 @@ Permiso residencia
 Visado entrada
 Visado tránsito
 Posee solicitante documento residencia visado miembro UE
-
 Itinerario
 País inició viaje
 país origen procedencia
@@ -2423,11 +2403,8 @@ Entró solicitante cruzando miembro Unión Europea
 miembro UE entró
 Cruzó frontera paso fronterizo autorizado
 Eludiendo controles fronterizos
-
 Residencia miembro
 Residencia miembros UE abandonar país inició viaje país origen procedencia
-
-
 Lugar dirección exacta
 residencia
 Autorizada
@@ -2613,7 +2590,6 @@ decisión
 visado
 expulsión
 solicitud protección internacional
-
 Datos
 ANEXO VI
 FORMULARIO TIPO TRANSMISIÓN DATOS TRASLADO CONFORMIDAD ARTÍCULO APARTADO REGLAMENTO UE
@@ -2670,7 +2646,6 @@ persona negó consentir transmisión datos relativos salud
 información pertinente persona personas trasladarse
 ANEXO VII
 FORMULARIO TIPO INTERCAMBIO INFORMACIÓN HIJOS HERMANOS PADRES CARGO SOLICITANTE CONFORMIDAD ARTÍCULO APARTADO REGLAMENTO UE
-
 DATOS CUMPLIMENTAR MIEMBRO REQUIRENTE
 Número referencia
 miembro requirente
@@ -2701,7 +2676,6 @@ enfermedad grave
 discapacidad grave
 edad avanzada
 observaciones
-
 DATOS CUMPLIMENTAR MIEMBRO REQUERIDO
 Información solicitada
 respecta presencia persona territorio miembro requerido especifíquese
@@ -2823,12 +2797,10 @@ agente seguridad
 acompañar
 persona acompañada facilítense datos personal acompañante
 Intervención asistencia médica necesaria traslado
-
 persona recibe medicación influir alterarlo traslado
 Necesidades especiales traslado
 Aspectos tenerse llegada
 falta asistencia médica necesidades especiales llegada
-
 Consentimiento expreso persona trasladada representante efectos transmisión información sanitaria
 persona interesada
 representante persona interesada

@@ -2246,11 +2246,8 @@ Tejidos yute fibras textiles líber
 Tejidos lino peso lino
 Tejidos calada cáñamo puro ramio fibras textiles vegetales hilados papel lino yute fibras textiles líber
 Tejidos calada algodón fabricados hilados diversos colores peso prendas vestir
-
 Tejidos calada algodón fabricados hilados diversos colores peso ropa hogar textiles domésticos
-
 Tejidos calada algodón fabricados hilados diversos colores peso usos técnicos industriales tejido gasa vuelta gasa apósitos
-
 Tejidos calada algodón peso gasas apósitos vendas compresas
 Tejidos calada algodón fabricados hilados diversos colores peso camisas blusas
 Tejidos calada algodón fabricados hilados diversos colores peso prendas vestir
@@ -3806,7 +3803,6 @@ Vasos beber vasos pie beber productos vitrocerámica cristal plomo vidrio templa
 vasos beber
 Objetos servicio mesa cocina artículos beber cristal plomo hechos mano
 Objetos servicio mesa cocina artículos beber cristal plomo fabricación mecánica
-
 Objetos vitrocerámica servicio mesa cocina
 Objetos vitrocerámica servicio mesa cocina artículos beber
 Ampollas vidrio termos recipientes isotérmicos aislados vacío
@@ -3977,7 +3973,6 @@ Lingotes formas primarias productos largos intermedios incluidas piezas bruto ac
 Productos planos intermedios desbastes planos acero inoxidable
 Lingotes formas primarias productos intermedios largos tubos soldadura acero inoxidable
 lingotes formas primarias productos largos intermedios acero inoxidable
-
 Productos planos intermedios acero aleado excluido acero inoxidable
 Lingotes formas primarias productos largos intermedios tubos soldadura acero aleado excluido acero inoxidable
 lingotes formas primarias productos largos intermedios acero aleado distinto acero inoxidable
@@ -4455,7 +4450,6 @@ Puntas trefilería hierro acero batería bandas rollos
 Puntas trefilería acero templado contenido carbono peso
 Puntas clavos trefilería hierro acero galvanizados
 puntas clavos trefilería hierro acero galvanizados batería bandas rollos etc
-
 Puntas clavos chinchetas grapas apuntadas artículos similares cobre
 Puntas clavos grapas apuntadas tornillos pernos tuercas escarpias roscadas remaches pasadores clavijas chavetas arandelas artículos similares aluminio
 Electrodos recubiertos soldadura arco metales comunes
@@ -4474,7 +4468,6 @@ tornillos hueco caras
 Tornillos cabeza hexagonal acero inoxidable
 Tornillos cabeza hexagonal aceros resistencia tracción MPa
 Tornillos cabeza hexagonal aceros resistencia tracción MPa
-
 Tirafondos roscados fundición hierro acero
 tornillos madera fundición hierro acero
 Escarpias armellas roscadas acero inoxidable
@@ -4524,7 +4517,6 @@ artículos servicio mesa hierro acero
 artículos pintados barnizados
 Artículos doméstico partes estropajos guantes artículos similares fregar lustrar usos análogos cobre
 Artículos doméstico partes estropajos guantes artículos similares fregar lustrar usos análogos aluminio colados moldeados
-
 Aparatos mecánicos accionados mano kg tipo utilizados preparar acondicionar servir alimentos bebidas
 Lana hierro acero estropajos guantes artículos similares fregar lustrar usos análogos
 Cajas caudales metales comunes
@@ -4552,7 +4544,6 @@ Contraventanas aireación mecánica canalones ganchos manufacturas utilizadas in
 Rejillas chapa artículos similares filtrar agua entrada alcantarillas
 manufacturas forjadas hierro acero
 manufacturas estampadas hierro acero
-
 Telas metálicas enrejados
 manufacturas aluminio coladas moldeadas
 manufacturas aluminio ncop

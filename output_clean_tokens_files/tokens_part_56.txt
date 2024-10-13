@@ -201,7 +201,6 @@ Destilación
 Punto ebullición
 Punto ignición
 Hidrocarburos aromáticos policíclicos
-
 Contenido azufre
 clase
 Estabilidad oxidación
@@ -697,7 +696,6 @@ flujo gas escape diluido determinará arreglo apartado apéndice anexo presente 
 aplicará corrección fondo arreglo apartado apéndice anexo presente Reglamento
 Cálculo emisiones específicas freno
 emisiones específicas freno eCO kWh calcularán
-
 mass masa CO modalidad
 Pm potencia medida modalidad kW
 PAE potencia elementos auxiliares modalidad kW
@@ -1696,7 +1694,6 @@ importe subvenciones sujetas derechos compensatorios determinadas conforme dispo
 nivel general cooperación India elevado exportaciones producto afectado India Comunidad margen residual subvención correspondiente empresas fijó nivel empresa margen individual elevado
 Tipo subvención
 EPCG
-
 INDUSTRIA COMUNIDAD
 PRODUCCIÓN COMUNITARIA
 Comunidad producto similar fabricado SGL AG SGL filiales UCAR SA UCAR UCAR SNC UCAR Electrodos Ibérica SL Graftech SpA cuyo nombre presentó denuncia
@@ -2484,7 +2481,6 @@ importes asignarse método asignación preciso establecer normas basándose crit
 conveniente presente Reglamento aplique enero
 medidas previstas presente Reglamento ajustan dictamen Comité Gestión Organización Común Mercados Agrícolas Comité Gestión Pagos Directos
 ADOPTADO PRESENTE REGLAMENTO
-
 DISPOSICIONES GENERALES
 TÍTULO
 ÁMBITO APLICACIÓN DEFINICIONES

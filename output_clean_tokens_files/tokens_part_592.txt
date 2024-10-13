@@ -191,7 +191,6 @@ anexo II Orientaciones DCE sustituyen texto
 Orientaciones DCE
 Generalidades Cumpliméntese documento común entrada mayúsculas
 notas refieren número casilla correspondiente
-
 explotador empresa alimentaria piensos representante completará indicación contrario
 recomienda indicar números teléfono fax correo electrónico
 recomienda indicar números teléfono fax correo electrónico
@@ -1248,7 +1247,6 @@ Artículo
 Acuerdos
 objeto ejecutar tareas determinadas artículo apartado presente Reglamento empresa común celebrar acuerdos específicos miembros
 función contribución Eurocontrol definirán empresa común
-
 establecerá acuerdos detallados transferencia utilización resultados fase definición empresa común
 describirá funciones responsabilidades Eurocontrol aplicación Plan maestro ATM autoridad empresa común tales
 organización actividades investigación desarrollo validación conforme programa trabajo empresa común
@@ -1675,7 +1673,6 @@ Unidos
 Sudáfrica
 Antigua República Yugoslava Macedonia código provisional afecta denominación definitiva atribuya país finalicen negociaciones curso Naciones Unidas
 ANEXO II
-
 Modelos certificados sanitarios
 leche cruda procedente terceros países territorios incluidos columna anexo destinada centro recogida estandarización establecimiento tratamiento transformación
 productos lácteos base leche cruda procedentes terceros países territorios incluidos columna anexo
@@ -1695,7 +1692,6 @@ autoridades competentes país exportador garantizarán cumplimiento principios c
 color tinta firma tinta impresión
 norma aplicará sellos distintos troquelados filigrana
 original certificado deberá acompañar envío puesto inspección fronterizo UE
-
 Modelo MilkRM
 Remitente nombre dirección completos
 CERTIFICADO SANITARIO
@@ -1741,7 +1737,6 @@ transportada caso cisternas describen apartado artículo Directiva CEE
 cumple normas contenido gérmenes células somáticas establecidas capítulo IV anexo Directiva CEE
 recogida estandarizada caso conformidad condiciones higiénicas establecidas capítulos III IV anexo Directiva CEE
 conoce disposiciones Directiva CEE anexos III Reglamento CEE anexo II Directiva CEE Reglamento CEE
-
 Sello
 firma inspector oficial
 Nombre apellidos mayúsculas cualificación cargo
@@ -1813,7 +1808,6 @@ conoce condiciones zoosanitarias establecidas Directiva CEE
 leche sometida tratamiento térmicolos productos lácteos sometidos tratamiento térmicolos productos lácteos base leche sometida tratamiento térmico describen
 fabricaron base leche cruda
 sometidos importación territorio Comunidad
-
 proceso esterilización dé lugar valor superior
 tratamiento UHT °C
 tratamiento pasteurización temperatura elevada HTST segundos efecto equivalente pasteurización produzca reacción negativa prueba fosfatasa aplicado leche pH superior
@@ -1821,7 +1815,6 @@ tratamiento HTST leche pH inferior
 disminución pH hora
 calentamiento oC combinado desecación
 transportados caso cisternas describen apartado artículo Directiva CEE
-
 Modelo MilkT
 CERTIFICADO VETERINARIO
 leche productos lácteos destinados tránsito almacenamiento Comunidad Europea
@@ -2878,16 +2871,9 @@ Fase
 Anchura nominal sección
 Límite dBA
 inferior
-
-
-
-
 límites anteriores aumentarán dBA caso neumáticos reforzados carga extra dBA trate neumáticos especial
 Fase
 inferior
-
-
-
 límites anteriores aumentarán dBA caso neumáticos nieve neumáticos reforzados carga extra combinación clasificaciones
 valor emisión ruido rodadura neumáticos clase categoría utilización véase punto superará valores correspondientes fase trate figuran continuación
 Categoría utilización
@@ -2922,7 +2908,6 @@ continuación figura valor mínimo índice prestaciones nieve calculado procedim
 Clase neumático
 Índice prestaciones nieve método frenado nieve
 Índice prestaciones nieve método tracción giro
-
 clasifique neumático tracción neumático cumplir condiciones punto
 neumático dibujo banda rodadura mínimo nervaduras circunferenciales elementos similares bloque separados ranuras láminas cuya profundidad mínima mitad profundidad banda rodadura
 aplicarse opciones ensayo físico fase ulterior Reglamento objeto modificación incluya referencia métodos ensayo adecuados valores límite
@@ -3184,7 +3169,6 @@ kmh neumáticos clases
 kmh neumáticos clase
 Análisis regresión mediciones ruido rodadura
 nivel ruido rodadura LR dBA determinará análisis regresión aplicando fórmula
-
 valor niveles ruido rodadura Li medidos dBA
 número mediciones
 valor velocidades logarítmicas Vi
@@ -3399,7 +3383,6 @@ caso neumático efectuarán ensayos acondicionarlo
 Dichos ensayos aprovecharse comprobar funcionamiento equipo registro resultados evaluación prestaciones
 evaluación prestaciones neumático SRTT realizará ensayo frenado punto carril pista ensayo
 orden ensayo
-
 ensayo SRTT ensayo SRTT ensayo neumático candidato evaluado
 repetir ensayo SRTT someterse ensayo máximo neumáticos candidatos ejemplo
 valor coeficiente fuerza máxima frenado pbfc calculará mínimo resultados válidos
@@ -3499,9 +3482,7 @@ valor obtenido velocidad tambor correspondiente especifica cuadro
 Velocidades ensayo
 kmh
 Clase neumático
-
 Índice carga
-
 Símbolo velocidad
 kmh inferior neumáticos símbolo velocidad
 kmh superior
@@ -3629,13 +3610,11 @@ carga ensayo kN
 evitar efectuar mediciones temperaturas distintas °C aceptables temperaturas comprendidas °C °C realizará corrección temperatura ecuación
 resistencia rodadura °C newtons
 temperatura ambiente grados Celsius
-
 neumáticos clase
 neumáticos clase
 neumáticos clase
 Corrección diámetro tambor
 resultados obtenidos distintos diámetros tambor compararán fórmula
-
 radio tambor metros
 radio tambor metros
 mitad diámetro nominal neumático diseño metros

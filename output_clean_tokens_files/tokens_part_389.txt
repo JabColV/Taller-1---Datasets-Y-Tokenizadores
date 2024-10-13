@@ -539,7 +539,6 @@ Desviación típica relativa calculada resultados obtenidos condiciones repetibi
 Reproducibilidad valor esperarse sitúe diferencia absoluta resultados ensayos particulares obtenidos condiciones reproducibilidad material idéntico obtenido operarios distintos laboratorios utilizando método ensayo normalizado límites probabilidad específica principio sR
 Desviación típica calculada resultados obtenidos condiciones reproducibilidad
 Desviación típica relativa calculada resultados obtenidos condiciones reproducibilidad sR
-
 representa media resultados laboratorios muestras
 RSDr observada dividida valor RSDr estimado ecuación Horwitz referencia utilizando hipótesis
 valor RSDR observado dividido valor RSDR calculado ecuación Horwitz
@@ -566,7 +565,6 @@ Especificidad
 Libre interferencias matriz espectro verificación detección positiva
 Criterios aptitud Enfoque función incertidumbre
 formas emplear enfoque incertidumbre evaluar adecuación método análisis utilizar laboratorio
-
 incertidumbre estándar máxima
 LOD límite detección método
 concentración interés
@@ -685,7 +683,6 @@ Noruega
 Groenlandia
 Feroe
 Turquía
-
 Islandia
 carne cabrito
 carne caprino cabrito
@@ -1893,7 +1890,6 @@ originarios prefecturas Chiba Fukushima Gunma Ibaraki Kanagawa Miyagi Saitama Sh
 fecha
 nombre laboratorio determinar nivel radionúclidos cesio cesio
 adjunta informe análisis
-
 Sello firma representante autorizado refiere artículo apartados
 cumplimentar autoridad competente puesto inspección fronterizo punto entrada designado
 envío aceptado presentación autoridades aduaneras vistas despacho libre práctica Unión
@@ -3291,7 +3287,6 @@ Indicador presentación diferida
 presentación eAD circulación iniciado amparo documento soporte papel mencionado artículo apartado
 Posibles valores
 falso
-
 valor falso defecto
 dato aparecer eAD asignado ARC documento soporte papel mencionado artículo apartado
 circulación productos sujetos impuestos especiales eAD
@@ -3313,7 +3308,6 @@ Identificar persona responsable organizar transporte siguientes valores
 Expedidor
 Destinatario
 Propietario productos
-
 facilitarán autoridades competentes miembro expedición validación borrador eAD
 Véase lista códigos anexo II
 Fecha hora validación eAD
@@ -3420,7 +3414,6 @@ Véase código tipo garante lista códigos anexo II
 Identificar transportista propietario productos constituyen garantía
 Indicar número registro SEED válido NIF IVA transportista propietario productos sujetos impuestos especiales
 NIF IVA
-
 indica número impuesto especial operador
 Transporte
 Código transporte
@@ -3518,7 +3511,6 @@ Vino DOP IGP
 Vino varietal DOP IGP
 Vino DOP IGP
 Vino importado
-
 Código zona vitícola
 productos vitivinícolas granel volumen nominal superior litros
 Indicar zona vitícola origen producto transportado conformidad anexo IX Reglamento CE
@@ -3663,7 +3655,6 @@ código conclusión global recepción véase casilla
 Indicar cantidad partida rechazan productos sujetos impuestos especiales expresada unidad medida asociada código producto Véase anexo II cuadros
 Motivo rechazo
 partida aplique código conclusión global recepción véase casilla
-
 Exceso
 Defecto
 Productos dañados
@@ -3772,9 +3763,7 @@ Impurezas
 Tolueno máximo kg
 junio
 mayo
-
 autorizar usos herbicida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión cletodim particular apéndices II adoptó Comité permanente cadena alimentaria sanidad animal diciembre
 evaluación general miembros deberán atender especialmente protección organismos acuáticos aves mamíferos asegurándose condiciones imponen medidas adecuadas reducción riesgo
 miembros afectados pedirán presente información confirmatoria base conocimientos científicos recientes

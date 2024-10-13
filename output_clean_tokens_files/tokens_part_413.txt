@@ -2543,7 +2543,6 @@ DO
 DO
 ANEXO
 PROGRAMA DESGLOSE PRESUPUESTARIO INDICATIVO
-
 Programa
 programa constará subprogramas
 Subprograma interdepartamental
@@ -2554,7 +2553,6 @@ Medida redes vigilancia plagas enfermedades
 Subprograma departamento Guadalupe
 Medida redes vigilancia mosca fruta
 Medida gestión riesgo introducción organismos nocivos actividades turísticas
-
 Desglose presupuestario indicativo detallando resultados previstos
 euros
 Subprogramas
@@ -2689,7 +2687,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -2703,7 +2700,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -2717,7 +2713,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -3088,7 +3083,6 @@ DO
 Véase página presente Diario Oficial
 DO
 ANEXO
-
 Artículos
 Opciones
 Warrants cubiertos
@@ -3102,7 +3096,6 @@ Productos preempaquetados inversión minorista profesional
 Derivados complejos
 Certificados vinculados acciones
 Certificados globales depositarios
-
 Certificados vinculados deuda soberana
 ANEXO II
 Modelo ajustado delta aplicable acciones

@@ -166,7 +166,6 @@ Reestructuración créditos concepto tasas utilización ambiente intereses corre
 Reestructuración créditos concepto cuotas seguridad social ZUS intereses tasas prórroga
 Reestructuración créditos concepto cuotas favor Fondo Nacional Rehabilitación Minusválidos PFRON intereses
 Reestructuración créditos concepto impuesto bienes inmuebles septiembre junio favor Ayuntamiento Stalowa Wola
-
 Cuadro
 Ayuda concedida abril
 Supuesta fecha desembolso fondos
@@ -678,7 +677,6 @@ Decisión modificada lugar Decisión CE DO
 ANEXO
 anexo Decisión CE sustituye
 ANEXO
-
 Zona contemplada artículo apartado
 Código país ISO
 miembro
@@ -688,7 +686,6 @@ Código
 Nombre
 DINAMARCA
 municipios
-
 Zona contemplada artículo apartado
 Zona
 condado
@@ -778,7 +775,6 @@ anexo Decisión CE queda modificado
 entrada correspondiente Brasil sustituye texto
 Brasil
 país
-
 Rio do Sul Santa Catarina Paraná São Paulo Mato Grosso do Sul Goiás Minas Gerais Rio Janeiro Espírito Santo Rondônia Mato Grosso
 entrada correspondiente Mauricio sustituye texto
 Mauricio
@@ -1326,10 +1322,8 @@ Valor mecado
 Pérdidas previstas base
 Pérdida previstas tensión
 millones USD
-
 RMBS standards
 wrap
-
 cartera constituida principalmente títulos US RMBS estándares máximo concretamente títulos Subprime cartera AltA cartera
 menor medida cartera expuesta títulos US Agency RMBS cartera títulos mejorados aseguradoras monolínea
 valor nominal cartera millones USD enero valor mercado fecha valor nominal equivale millones USD
@@ -1385,7 +1379,6 @@ experto independiente comprobará meses RAROC refleje costes división banca pú
 tardar junio Dexia reducirá cero importe financiaciones actualmente puestas disposición filial turca DenizBank concederá financiación intragrupal diciembre
 junio Dexia establecerá División gestión cartera histórica
 activos destinados División gestionarán vistas liquidación cedidos
-
 carteras Credit Spread Portfolio CSP Public Sector Portfolio PSP importe calculado millones EUR diciembre
 cartera Financial Products activos FSAM conservados Dexia importe calculado millones EUR diciembre
 cartera noncore PWB loans importe calculado millones EUR diciembre
@@ -1464,7 +1457,6 @@ miles millones EUR
 Balance grupo
 Core Division
 APLICACIÓN COMPROMISOS
-
 informe transmitirá tardar mes presentación cuentas semestrales aprobación cuentas anuales caso octubre abril año
 informe presentado octubre año experto detecta riesgos año curso alcancen objetivos anuales previstos plan reestructuración autoridades miembros afectados presentarán Comisión mes entrega informe medidas prevean adoptar Dexia alcanzar dichos objetivos medios convenientes finalice año
 informe presentado abril año experto independiente constata alcanzado objetivos anuales previstos plan reestructuración autoridades miembros afectados presentarán Comisión mes entrega informe medidas prevén adoptar Dexia alcanzar dichos objetivos medios convenientes junio año curso
@@ -2087,7 +2079,6 @@ activos core
 Tamaño balance consolidado grupo
 Definición RAROC apartado letra compromisos
 RAROC calcula fórmula
-
 Revenues productos EC capital económico
 pérdidas previstas
 Costs costes destinados transacción marco negocio Taxes impuestos
@@ -2433,7 +2424,6 @@ Dichos procedimientos incluir disposiciones votación decisiones relacionadas so
 Comité examinará funcionamiento eficacia artículo años
 Artículo VI
 Información sistema contratación
-
 publicará prontamente leyes reglamentos decisiones judiciales resoluciones administrativas aplicación general cláusulas contractuales modelo obligatorias virtud ley reglamento incorporen referencia anuncios pliegos condiciones procedimientos relativos contrataciones cubiertas modificaciones electrónico impreso designado oficialmente goce amplia difusión fácil acceso público
 proporcionará explicación dichas disposiciones solicite
 indicará
@@ -2605,7 +2595,6 @@ término negociaciones concederán participantes hayan eliminados plazo máximo 
 Artículo XIII
 Licitación restringida
 utilice presente disposición evitar competencia proveedores discrimine proveedores proteja proveedores nacionales entidad contratante utilizar método licitación restringida optar aplicar artículos VII IX párrafos XI XII XIV XV únicamente siguientes circunstancias
-
 hayan presentado ofertas proveedor solicitado participar
 hayan presentado ofertas cumplan requisitos esenciales pliego condiciones
 proveedor reúna condiciones participación
@@ -3982,7 +3971,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Rug fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -4558,7 +4546,6 @@ Preparados semisólidos oleosos
 Preparados base etanol acuoso
 Aceite esencial pomada nasal
 Posología especificada
-
 contraindicada administración niños menores años véase apartado Contraindicaciones
 recomienda administración niños años véase apartado Advertencias especiales precauciones
 Vía administración

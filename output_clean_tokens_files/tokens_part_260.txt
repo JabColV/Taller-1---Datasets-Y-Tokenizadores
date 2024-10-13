@@ -131,13 +131,11 @@ calculen costes valor actual neto medidas eficiencia energética ciclo vida úti
 calcular costes medidas eficiencia energética ciclo vida útil previsto miembros evaluarán costeefectividad niveles requisitos mínimos eficiencia energética
 permitirá determinación niveles óptimos rentabilidad requisitos eficiencia energética
 ANEXO IV
-
 Directiva derogada modificación
 refiere artículo
 Directiva CE Parlamento Europeo Consejo DO
 Reglamento CE Parlamento Europeo Consejo DO
 únicamente punto anexo
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -864,7 +862,6 @@ Operaciones préstamos
 Operaciones acciones participaciones
 Privatizaciones
 Aportaciones capital
-
 Operaciones activos financieros
 impuestos devengados ingresos fiscales efectivo
 Operaciones pasivos consolidadas
@@ -1699,9 +1696,7 @@ ctetrametiltetroxocano
 acetaldehído máx kg
 junio
 mayo
-
 autorizarse usos molusquicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión metaldehído particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros prestarán atención particular
 riesgo operadores trabajadores
@@ -1758,7 +1753,6 @@ Importes ingresados relativos pérdidas transporte pasajeros
 Ascienden cantidad redondeada GRD EUR GRD EUR refieren período comprendido septiembre GRD EUR corresponden pérdidas sufridas espacio aéreo Atlántico norte saldo GRD EUR corresponde resto red compañía esencialmente red interior europea Oriente África Australia Asia
 cantidad GRD EUR corresponde pérdidas sufridas septiembre red Atlántico norte
 ingresos perdidos costes soportados
-
 pérdidas ingresos transporte mercancías GRD EUR
 costes derivados destrucción productos GRD EUR
 distintos costes derivados controles seguridad complementarios GRD EUR
@@ -1911,28 +1905,16 @@ conjunto precisiones aportadas Grecia carta diciembre objeto justificar compensa
 Corrección errores Reglamento CE Consejo enero establecen disposiciones comunes aplicables regímenes ayuda directa agricultores marco política agrícola común instauran determinados regímenes ayuda agricultores modifican Reglamentos CE CE CE deroga Reglamento CE
 Diario Oficial Unión Europea enero
 páginas artículo apartado letra inciso ii párrafos cuarto convierten párrafos apartado artículo forma figura continuación introduce cambio subrayado
-
 calcular importe referencia guión presente inciso contabilizarán pagos directos nacionales componentes correspondientes pagos directos comunitarios componentes hubieran contabilizados calcular límite máximo efectivo miembro considerado artículo artículo apartado
 pago directo considerado miembro elegir aplicar letras presente párrafo
 ayudas directas totales agricultor percibir miembros marco pagos directos aplicables adhesión incluidos pagos directos nacionales complementarios superarán nivel ayudas directas agricultor hubiera derecho percibir virtud pagos directos correspondieran momento considerado miembros distintos miembros teniendo aplicación artículo conjunción artículo
-
 ayudas directas totales agricultor percibir miembros marco pagos directos aplicables adhesión incluidos pagos directos nacionales complementarios superarán nivel ayudas directas agricultor hubiera derecho percibir virtud pagos directos correspondieran momento considerado miembros distintos miembros teniendo aplicación artículo conjunción artículo
 página anexo XV columna cuadro
 séptima fila España
-
-
 novena fila Irlanda
-
-
 decimoséptima fila Portugal
-
-
 vigésimo fila Finlandia
-
-
 vigésimo fila Reino Unido
-
-
 Decisión Comisión
 diciembre
 modifica Decisión CE relativa medidas zoosanitarias protección enfermedad vesicular porcina Italia
@@ -2050,11 +2032,8 @@ Creación contactos redes similares país anfitrión países vecinos
 especificar
 reunido funcionarios enlace inmigración período cubierto informe
 subraye respuesta adecuada
-
-
 mensualmente
 trimestralmente
-
 Comentarios
 invitó organizaciones autoridades participar reuniones
 facilite datos detallados
@@ -3341,7 +3320,6 @@ Clasificación categorías vehículos
 fabricante responsable clasificación tipo vehículo categoría específica
 cumplirán criterios pertinentes descritos presente anexo
 autoridad homologación pedir fabricante información adicional pertinente demostrar tipo vehículo clasificarse vehículo especial grupo especial código GE
-
 Criterios categorización vehículos
 Categorías vehículos
 efectos homologación tipo europea nacional homologación individual clasificarán vehículos arreglo siguientes categorías
@@ -3397,9 +3375,6 @@ caso vehículos
 caso vehículos
 vehículos presentarán capacidad transporte mercancías superior capacidad transporte personas expresada kg
 tales efectos satisfarán ecuaciones siguientes configuraciones particular plazas asiento estén ocupadas
-
-
-
 letras significan
 número plazas asiento excluida conductor
 masa equipos instalados vehículo colocar mercancías ejemplo cisterna carrocería manipular mercancías ejemplo grúa elevadora sujetar mercancías ejemplo dispositivos sujeción carga incluida
@@ -3515,7 +3490,6 @@ remolques convertidores definidos sección presente anexo
 remolques barra tracción rígida definidos sección presente anexo
 remolques transportarse viajeros carretera
 punto entenderá perjuicio dispuesto artículo homologación tipo nacional series cortas
-
 Criterios tipos variantes versiones vehículos
 Categoría
 Tipo vehículo
@@ -3631,7 +3605,6 @@ código versión
 código alfanumérico completo TVV caracteres
 utilice TVV conjunto dejará espacio tipo variante versión
 Ejemplo TVV AF espacio espacioKBE
-
 Definiciones tipos carrocería
 Generalidades
 tipo carrocería mencionado sección anexo anexo III código carrocería mencionado punto anexo IX indicarán códigos
@@ -3787,7 +3760,6 @@ título anexo IV sustituye texto REQUISITOS HOMOLOGACIÓN TIPO CE VEHÍCULOS
 punto anexo IV sustituye texto
 Sistemas antiproyección
 Directiva CEE
-
 título apéndice anexo IV sustituye texto Requisitos homologación tipo vehículos categoría fabricados series cortas arreglo artículo
 ANEXO III
 anexo IX Directiva CE queda modificado
@@ -3854,14 +3826,12 @@ Acoplamientos
 Directiva CE
 Reglamento general seguridad
 Reglamento CE
-
 Significado letras modifica
 punto sustituye texto
 Aplicable únicamente asientos destinados normal vehículo circula calzada
 exigen mínimo anclajes cinturones abdominales plazas asiento traseras
 asientos concebidos utilizarse vehículo circula calzada claramente identificados usuarios pictograma letrero texto adecuado
 punto inserta punto
-
 acto reglamentario aplicable parcialmente
 ámbito aplicación preciso establece medidas aplicación Reglamento CE
 punto inserta punto
@@ -3956,9 +3926,7 @@ CICAP
 Dimetilα trifluoromtolilurea
 junio
 mayo
-
 autorizar usos herbicida algodón
-
 aplicación principios uniformes anexo VI conclusiones informe revisión fluometurón particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros
 prestarán atención particular seguridad operadores trabajadores velarán condiciones incluyan proceda empleo equipo protección personal adecuado
@@ -4871,7 +4839,6 @@ ESPAÑA
 FRANCIA
 Superficie básica maíz
 Superficie básica regada
-
 ESLOVENIA
 Incluidas hectáreas maíz regadas
 conformidad anexo IX ter Reglamento CE

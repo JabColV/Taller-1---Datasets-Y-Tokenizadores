@@ -666,7 +666,6 @@ mecanismo propulsión
 Diámetro interior manguera
 Radio doblado
 Distancia centros mm
-
 circunferencia ruedas ranurada servir guía manguera
 radio ruedas medido fondo ranura indicado apartado
 planos medios longitudinales ambas ruedas estarán plano vertical distancia centros ruedas indicada apartado
@@ -895,7 +894,6 @@ apéndice presente anexo
 revestimiento cumple requisitos apartado
 apéndice lote inspeccionará retirar botellas defectos similares
 Figura
-
 máquina ensayo figura constará marco acero provisto ruedas madera anchura borde aproximada mm
 Figura
 máquina ensayo figura constará marco acero provisto ruedas madera anchura borde aproximada mm

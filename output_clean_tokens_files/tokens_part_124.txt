@@ -752,7 +752,6 @@ DO
 ANEXO
 anexo Directiva CEE queda modificado
 sustituye texto
-
 Certificado sanitario intercambios comerciales animales procedentes explotaciones ungulados aves lagomorfos perros gatos hurones
 Detalles relativos partida presentada
 COMUNIDAD EUROPEA
@@ -781,7 +780,6 @@ Establecimiento
 Organismo autorizado
 Centro semen
 Equipo embriones
-
 Lugar carga
 Fecha hora salida
 transporte
@@ -825,7 +823,6 @@ PAÍS
 EI Animales procedentes explotaciones ungulados aves lagomorfos perros gatos hurones
 Información sanitaria
 abajo firmante veterinario oficial veterinario responsable establecimiento origen autorizado autoridad competente certifica
-
 momento inspección animales mencionados condiciones transportados trayecto previsto conformidad disposiciones Reglamento CE Consejo
 momento inspección perros gatos hurones compañía condiciones viajar
 cumplen condiciones artículo Directiva CEE Consejo
@@ -849,7 +846,6 @@ garantías adicionales relación enfermedades enumeradas anexo Directiva CEE sig
 Enfermedad
 Decisión
 Notas
-
 Casilla
 aplicable desplazamientos fines comerciales animales compañía perros gatos hurones número superior
 Casilla
@@ -869,14 +865,12 @@ Fecha
 Firma
 Sello
 sustituye texto
-
 Certificado sanitario intercambios comerciales abejas abejorros
 Detalles relativos partida presentada
 Trashumancia
 Número lote
 EII Abejas Apis mellifera abejorros Bombus spp
 abajo firmante certifica
-
 abejas abejorros proceden zona sometida orden prohibición vinculada aparición loque americana prohibición mantenido mínimo treinta siguientes caso registrado fecha colmenas situadas radio km examinadas autoridad competente colmenas infectadas quemadas tratadas inspeccionadas satisfacción dicha autoridad competente
 abejorros proceden estructura aislada entorno reconocida autoridad competente miembro cuestión supervisión libre loque americana inspeccionada inmediatamente expedición abejorros población reproductora muestran signos clínicos enfermedad indicios hagan sospechar existencia
 abejas abejorros proceden zona radio km sometida restricción relacionada sospecha presencia presencia confirmada pequeño escarabajo colmena Aethina tumida ácaro Tropilaelaps Tropilaelaps spp tales infestaciones
@@ -1450,7 +1444,6 @@ DO
 ANEXO
 ANEXO
 ANIMALES VIVOS
-
 Lista terceros países partes terceros países
 País
 Código territorio
@@ -1534,7 +1527,6 @@ TRATAMIENTOSHan sometidos tratamiento antiparásitos interno externo período cu
 vacuna antirrábica solicita dd mm aa vacuna tipo prodcutor lote resultado prueba
 Sello oficial firmaHecho elFirma veterinario oficialSellonombre apellidos cargo titulación mayúsculasNotes d’orientation Animales vivos familia camélidos Certificado zoosanitario animales domésticos distintos suidos enviados Comunidad Europea modelo RUM conformidad disposiciones anexo Decisión CEE Consejo Fecha entró centro cuarentena animal determinado grupo Pruebas realizadas conformidad métodos descritos punto capítulo anexo Decisión CEE Consejo resultados originales pruebas realizadas adjuntarse presente certificado Borrar procede NB procedimientos muestreo prueba agruparse medida tiempo respetan intervalos tiempo evitar esceso manejo manipulación animales
 ANEXO IV
-
 Orden
 Familia
 Género especie
@@ -3591,7 +3583,6 @@ utilización método extracción homogeneización
 Contar número células fluorescentes típicas campo visión
 Calcular número células fluorescentes típicas pocillo portaobjetos microscopio
 sd
-
 superficie pocillo portaobjetos múltiple
 superficie campo objetivo
 coeficiente campo varía dependiendo tipo ocular
@@ -3881,7 +3872,6 @@ Figura Preparación portaobjetos arreglo puntos ii ii
 vacío
 Colocar µl suspensiones fijadas portaobjetos múltiple limpio muestra figura
 Aplicar muestras portaobjetos diluir utilizar µl dilución tampón fosfato concentración
-
 Muestra pocillo pocillo pocillo pocillo pocillo Muestra Muestra
 pocillo
 pocillo
@@ -4493,7 +4483,6 @@ Harina maíz boniatos camotes raíces tubérculos similares ricos fécula inulin
 íz
 Harina cebada
 Harina avena
-
 Grañones sémola pellets cereales grañones sémola trigo subpartida arroz subpartida pellets arroz subpartida
 Granos cereales trabajados ejemplo mondados aplastados copos perlados troceados quebrantados excepción arroz partida copos arroz subpartida germen cereales entero aplastado copos molido
 Harina sémola polvo sagú raíces tubérculos partida
@@ -4507,7 +4496,6 @@ almidones féculas
 Gluten trigo seco
 azúcares incluidas lactosa maltosa glucosa fructosa levulosa químicamente puras sólido jarabe azúcar adición aromatizante colorante sucedáneos miel mezclados miel natural azúcar melaza caramelizados
 Glucosa jarabe glucosa fructosa contenido fructosa producto seco inferior peso sucedáneos miel mezclados miel natural azúcar melaza caramelizados
-
 polvo cristalino blanco aglomerado
 Glucosa jarabe glucosa contenido fructosa producto seco superior inferior peso excepción azúcar invertido intervertido za caramelizados
 incluido azúcar invertido intervertido azúcares jarabes azúcar contenido fructosa producto seco peso ertido intervertido
@@ -4515,7 +4503,6 @@ Maltodextrina jarabe maltodextrina
 Azúcar melaza caramelizados
 polvo aglomerado
 Preparaciones alimenticias expresadas comprendidas
-
 Jarabes azúcar aromatizados colorantes añadidos
 glucosa maltodextrina
 Salvados moyuelos residuos cernido molienda tratamientos cereales leguminosas pellets
@@ -4611,7 +4598,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Descripción mercancía
 Código producto Código NC
 Número Cantidad
@@ -4648,7 +4634,6 @@ vacunados fiebre aftosa período meses recogida
 vacunados fiebre aftosa período meses recogida sometido prueba aislamiento virus fiebre aftosa resultados negativos laboratorio situado miembro destino designado
 esperma descrito almacenado condiciones autorizadas período mínimo inmediatamente posteriores recogida
 Notas
-
 Casilla lugar origen coincidirá centro recogida esperma definido artículo letra guión Directiva CEE origen
 Casilla lugar destino coincidirá centro recogida almacenamiento definidos artículo letra Directiva CEE explotación destino esperma
 Casilla indicar identificación contenedor número precinto
@@ -4728,7 +4713,6 @@ Unidos
 DO
 Anexo modificado lugar Reglamento CE DO
 Modelos certificados veterinarios importaciones tránsito esperma animales domésticos especie bovina caso importaciones recogido arreglo dispuesto Directiva CEE Consejo modificada Directiva EC
-
 Modelo certificado aplicable importaciones tránsito esperma recogido conformidad Directiva CEE Consejo modificada Directiva CE enviado centro almacenamiento esperma autorizado
 Detalles relativos partida expedida
 PAÍS
@@ -4769,7 +4753,6 @@ datos oficiales libre enfermedad Akabane enfermedad Aino
 sometidos ocasiones intervalo superior meses resultados negativos prueba seroneutralización detección virus Akabane virus Aino efectuada laboratorio autorizado muestras sangre tomadas recogida esperma mínimo
 esperma destinado exportación recogió posterioridad fecha centro autorizado autoridades nacionales competentes país exportador
 esperma destinado exportación trató almacenó transportó condiciones ajustan dispuesto Directiva CEE
-
 Casilla persona responsable envío UE casilla rellenarse únicamente certificado mercancía tránsito
 Casilla lugar destino casilla rellenarse únicamente certificado mercancía tránsito
 Casilla indicar identificación contenedor número precinto
@@ -4782,7 +4765,6 @@ capítulo dedicado lengua azul Manual pruebas diagnóstico vacunas animales terr
 color firma sello deberá caracteres impresos
 Veterinario oficial
 Lugar
-
 Modelo certificado aplicable enero importaciones tránsito existencias esperma recogido tratado almacenado diciembre conforme disposiciones previstas Directiva CEE Consejo aplicables julio importado diciembre conformidad artículo apartado Directiva CE enviado centro recogida esperma autorizado
 indemne peste bovina fiebre aftosa meses inmediatamente anteriores recogida esperma destinado exportación fecha envío llevado cabo vacunación enfermedades período tiempo
 esperma descrito anteriormente recogió diciembre centro recogida esperma
@@ -4818,7 +4800,6 @@ Australia Canadá Unidos
 Australia Unidos
 Canadá
 Australia
-
 Modelo certificado aplicable importaciones tránsito esperma enviado centro almacenamiento esperma centro recogida esperma autorizados
 recogido tratado conformidad disposiciones Directiva CEE Consejo modificada Directiva CE
 recogido tratado almacenado diciembre conforme disposiciones previstas Directiva CEE Consejo aplicables julio importado fecha conformidad artículo apartado Directiva CE

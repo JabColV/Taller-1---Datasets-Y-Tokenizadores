@@ -1442,7 +1442,6 @@ Cultivos invernadero tipo abrigo accesible
 Hortalizas frescas melones fresas
 Flores plantas ornamentales excluidas vivero
 Ganado bovino
-
 cabezas
 Ganado porcino
 cabezas
@@ -1464,7 +1463,6 @@ Longitud aproximación inferior minutos arco
 Personalidad jurídica explotación
 asume responsabilidad jurídica económica explotación
 persona física único titular explotación independiente
-
 caso afirmativo persona titular jefe explotación
 caso negativo pertenece jefe explotación familia titular
 caso afirmativo jefe explotación cónyuge titular
@@ -2407,7 +2405,6 @@ formación negocio conjunto define NIC Participaciones negocios conjuntos evalua
 Mejoras NIIF emitidas abril modificó párrafo
 Modificación Interpretación CINIIF Coberturas inversión neta negocio extranjero
 modifican párrafos
-
 mantenerse instrumento cobertura
 instrumento financiero derivado instrumento financiero derivado combinación instrumentos derivados derivados designarse instrumento cobertura cobertura inversión neta negocio extranjero
 instrumentos cobertura mantenerse entidad entidades grupo cumplan requerimientos designación documentación eficacia párrafo NIC referencia cobertura inversión neta
@@ -2829,7 +2826,6 @@ evaluación severidad llevada cabo conformidad anexo II Reglamento CE determine 
 puesta práctica cambios exija introducción estándares aviación
 autoridad nacional supervisión determine necesaria revisión casos distintos contemplados letras notificará organización intención cabo revisión seguridad cambio notificado
 revisión llevará cabo proporcionada nivel riesgo planteen sistema funcional cambio sistemas funcionales existentes
-
 utilizará procedimientos documentados
 objetivos seguridad requisitos seguridad condiciones relacionadas seguridad guarden relación cambio considerado hayan descrito
 declaraciones CE verificación sistemas
@@ -3347,7 +3343,6 @@ Observaciones
 Autorizaciones miembros visitados
 Validez autorización
 Sello autoridad fecha
-
 EVROPSKÝ PRŮKAZ STŘELNÝCH ZBRANÍ
 Decisión Consejo
 septiembre

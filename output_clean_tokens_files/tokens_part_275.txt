@@ -1197,7 +1197,6 @@ Calcio
 Sodio
 Fósforo
 minerales pertinentes
-
 Almidón
 Azúcar expresado sacarosa
 ANEXO VI
@@ -1847,7 +1846,6 @@ método manual ZP métodos valoración correspondientes descritos VI anexo
 Artículo
 obstante presentación tipo prevista anexo sección III párrafo Reglamento CE canales cerdo Italia presentadas retirado diafragma manteca pesadas clasificadas
 dicha presentación peso registrado canal caliente ajustará fórmula
-
 peso canal define Reglamento CE
 peso caliente canal manteca diafragma
 suma manteca diafragma
@@ -1877,7 +1875,6 @@ Reglamento CE Comisión diciembre establecen disposiciones aplicación relativas
 Decisión CE Comisión junio aprueban métodos clasificación canales cerdo autorizados Italia DO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES CERDO ITALIA
-
 disposiciones previstas aplicables utilice aparato denominado FatOMeater FOM clasificación canales cerdo
 aparato irá equipado sonda diámetro mm provista fotodiodo tipo Siemens SFH fotodetector tipo Siemens SFH alcance operativo mm ordenador traducirá resultados medición contenido estimado carne magra
 contenido carne magra canal calculará fórmulas siguientes
@@ -1909,7 +1906,6 @@ porcentaje estimado carne magra canal
 RP media ponderada medidas mínimas grasa milímetros
 RP evaluación inicial tamaño canal piel espesor mínimo grasa medido cm línea media nivel costilla
 RP espesor máximo músculo
-
 disposiciones previstas aplicables utilice aparato denominado CSB ImageMeater clasificación canales cerdo
 aparato CSB ImageMeater consta concretamente cámara vídeo ordenador provisto tarjeta análisis imágenes pantalla impresora mecanismo mando mecanismo cálculo interfaces
 variables ImageMeater miden hendidura central zona jamón músculo glúteo
@@ -1988,9 +1984,7 @@ DO
 Corrección errores Directiva CE Parlamento Europeo Consejo septiembre relativa contaminación procedente buques introducción sanciones infracciones
 Diario Oficial Unión Europea septiembre
 página artículo párrafo
-
 miembros pondrán vigor disposiciones legales reglamentarias administrativas necesarias cumplir presente Directiva tardar marzo informarán inmediatamente Comisión
-
 miembros pondrán vigor disposiciones legales reglamentarias administrativas necesarias cumplir presente Directiva tardar abril informarán inmediatamente Comisión
 Reglamento CE Comisión
 agosto
@@ -4732,7 +4726,6 @@ miembro negociando tercer país compromete notificar prontitud cambio significat
 miembro introducido medidas garantizar gente mar presente reconocimiento títulos ejercer funciones gestión posea conocimiento suficiente legislación marítima miembro relación funciones estén autorizados
 miembro desee complementar evaluación cumplimiento normativa tercer país evaluando centros formación náutica procederá arreglo dispuesto sección AI Código STCW
 ANEXO III
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CE Parlamento Europeo Consejo
@@ -4747,7 +4740,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 artículo
-
 Lista plazos incorporación Derecho interno
 Directiva
 Fecha límite incorporación

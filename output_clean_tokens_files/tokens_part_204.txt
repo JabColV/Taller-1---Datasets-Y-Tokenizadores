@@ -2105,12 +2105,10 @@ garantizarán operadores aeronaves efectúen vuelos espacio aéreo informados ob
 garantizarán proporcione formación adecuada miembros tripulación utilicen radios capacidad separación canales kHz espacio aéreo obligatorio bordo radios capacidad separación canales kHz arreglo dispuesto artículo apartado
 efectuarán evaluación local seguridad previa conversión tráfico cruzar espacio aéreo posibles problemas puedan surgir sistema comunicaciones orales funcionamiento espacio aéreo
 ANEXO IV
-
 Requisitos evaluación conformidad idoneidad componentes contemplados artículo
 actividades verificación demostrarán conformidad componentes idoneidad prestaciones establecidas presente Reglamento dichos componentes operen entorno prueba
 aplicación fabricante módulo descrito considerará procedimiento evaluación conformidad adecuado garantizar declarar conformidad componentes
 autorizan procedimientos equivalentes estrictos
-
 Módulo control interno producción
 presente módulo describe procedimiento fabricante representante autorizado establecido Unión asume obligaciones establecidas punto garantiza declara componentes satisfacen prescrito presente Reglamento
 fabricante representante autorizado establecido Unión deberá preparar declaración escrita conformidad idoneidad arreglo anexo III punto Reglamento CE
@@ -2122,7 +2120,6 @@ persona personas informarán miembros lugar forma documentación técnica dispon
 documentación técnica deberá demostrar conformidad componentes prescrito presente Reglamento
 Deberá comprender diseño fabricación funcionamiento componentes relevante evaluación dicha conformidad
 fabricante representante autorizado conservará copia declaración conformidad idoneidad documentación técnica
-
 Requisitos verificación sistemas contemplados artículo apartado
 verificación sistemas identificados artículo apartado demostrará conformidad requisitos interoperabilidad prestaciones seguridad presente Reglamento entorno evaluación refleje contexto operacional dichos sistemas
 particular
@@ -2143,7 +2140,6 @@ inspecciones ensayos indica plan ensayo
 redactar informe presenten resultados inspecciones pruebas
 proveedor servicios navegación aérea garantizará sistemas identificados artículo apartado operados entorno operacional simulado cumplen requisitos interoperabilidad prestaciones seguridad presente Reglamento
 concluida satisfactoriamente verificación cumplimiento requisitos proveedores servicios navegación aérea prepararán declaración CE verificación sistema presentarán autoridad nacional supervisión acompañada expediente técnico dispone artículo Reglamento CE
-
 Requisitos verificación sistemas contemplados artículo apartado
 proveedores servicios navegación aérea determinarán entorno adecuado evaluación técnica operacional refleje entorno operacional confiarán organismo notificado realización actividades verificación
 organismo notificado efectuará actividades verificación procediendo particular
@@ -3579,7 +3575,6 @@ volumen crítico dilución VCDtoxicidad crónica calcula sustancia entrante apli
 VDCtcrónica
 Σpesoi
 FTcrónicai
-
 peso peso sustancia entrante dosis recomendada
 FD factor degradación
 FT factor toxicidad crónica sustancia indica lista DID
@@ -3722,7 +3717,6 @@ Agua dura
 polvo
 Líquido
 CPU calculará envase primario incluidos cierres tapones bombas manuales dispositivos nebulización caso sistemas componentes hará cálculo producto aplicando fórmula
-
 peso material reciclado virgen componente envase proporción material reciclado componente envase Ui Wi
 Téngase cálculo CPU utilizarse dosis elevada recomendada grado dureza agua
 Excepciones
@@ -4486,7 +4480,6 @@ condiciones transporte recomendadas ejemplo manténgase frío manténgase posici
 instrucciones seguridad método refrigeración proceda
 ANEXO III
 NOTIFICACIÓN REACCIONES ADVERSAS GRAVES
-
 Notificación rápida presuntas reacciones adversas graves
 Establecimiento tejidos
 Identificación informe
@@ -4497,7 +4490,6 @@ Número único identificación donación
 Fecha presunta reacción adversa grave año mes
 Tipo tejidos células implicados presunta reacción adversa grave
 Tipo presunta reacción adversa grave
-
 Conclusiones investigación reacciones adversas graves
 Fecha confirmación año mes
 Fecha reacción adversa grave año mes

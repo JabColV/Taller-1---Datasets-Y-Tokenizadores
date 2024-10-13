@@ -87,7 +87,6 @@ Ciclo combustión
 tiempos
 tiempos
 Motor rotativo
-
 Configuración cilindros
 Posición cilindros bloque
 línea
@@ -240,7 +239,6 @@ Emisiones regeneración er
 Emisiones medias muestreo
 Emisiones ponderadas muestreo regeneración ew Número ciclos
 ew nr er nr kr ew
-
 aceite lubricación especificará fabricante representativo aceite lubricación disponible mercado especificaciones aceite lubricación utilizado ensayo registrarán presentarán resultados ensayo
 Especificaciones combustible referencia
 combustible referencia especificado apéndice presente anexo motores encendido compresión anexos motores GNC GLP
@@ -345,7 +343,6 @@ Determinación ciclo ensayo referencia
 Desnormalización régimen motor
 régimen desnormalizará ecuación
 Régimen real nnorm nlo npref nhi nidle nidle
-
 régimen potencia alcanza potencia máxima
 régimen integral máxima par alcanza integral completa
 régimen alto potencia alcanza potencia máxima
@@ -533,7 +530,6 @@ concentración base húmeda ppm vol
 concentración base seca ppm vol
 factor corrección base seca base húmeda
 Gas escape bruto
-
 kf wALF wDEL wEPS
 humedad aire admisión gramos agua kg aire seco
 caudal másico instantáneo combustible kg
@@ -554,7 +550,6 @@ Aire dilución
 Corrección NOx función humedad
 emisión NOx depende condiciones aire ambiente concentración NOx corregirá función humedad factores indicados puntos
 humedad aire admisión derivarse medición humedad relativa punto condensación presión vapor termómetro seco húmedo utilizando ecuación comúnmente aceptada
-
 Dilución flujo parcial PFS medición componentes gaseosos brutos
 señales concentración instantánea componentes gaseosos utilizan cálculo emisiones másicas multiplicándolas caudal másico instantáneo gas escape
 caudal másico gas escape medirse directamente calcularse utilizando métodos medición caudal aire admisión combustible método gas trazador medición aire admisión relación aire combustible
@@ -1176,7 +1171,6 @@ hará pasar analizador HCLD gas patrón concentración fondo escala intervalo fu
 concentración vapor agua mezcla calculará
 pb
 registrará concentración gas patrón diluido vapor agua espera alcanzar calculará
-
 registrará
 gas escape motor diésel estimará concentración máxima vapor agua gas escape espera obtener ensayo suponiendo relación combustible concentración máxima CO gas escape
 Hm
@@ -1391,7 +1385,6 @@ Punto inflamación
 Punto obstrucción filtro frío
 Viscosidad oC
 Hidrocarburos aromáticos policíclicos
-
 Contenido azufre
 Corrosión cobre
 Residuo carbono Conradson residuo destilado
@@ -1406,7 +1399,6 @@ Mínimo
 Máximo
 Índice cetano
 punto ebullición
-
 Contenido azufre
 clase
 Estabilidad oxidación
@@ -1436,12 +1428,9 @@ Unidades
 Base
 Límites
 Composición
-
 mol
 Combustible referencia
-
 Combustible referencia
-
 DATOS TÉCNICOS COMBUSTIBLES REFERENCIA GLP
 Datos técnicos combustibles referencia glp utilizados realización ensayos vehículos límites emisión figuran fila cuadros punto
 Combustible
@@ -1458,7 +1447,6 @@ exento
 inspección visual
 Contenido azufre
 Sulfuro hidrógeno
-
 Corrosión lámina cobre
 clasificación
 clase
@@ -1533,12 +1521,10 @@ Cálculo caudal másico anexo apéndice punto
 caudales GEDFW fases multiplican respectivos factores ponderación indicados anexo apéndice punto suman obtener GEDF ciclo
 índice muestreo MSAM obtiene sumando índices muestreo fase
 supondrá masa partículas filtros mg
-
 Corrección fondo opcional
 supondrá medición fondo valores siguientes
 procedimiento cálculo factor dilución DF idéntico describe punto presente anexo explica
 Suma DF
-
 Cálculo emisión específica anexo apéndice punto
 kWh
 efectuado corrección fondo
@@ -2847,7 +2833,6 @@ dispositivo adicional sujeto requisitos presente anexo
 Reiniciable valor especificado sección pertinente presente anexo
 circunstancias influir superan umbrales sistema OBD figuran ejemplo edad sistema motor realización ensayo componente viejo
 punto extenderá posteriormente monitores distintos relativo límite emisiones
-
 máx
 etiquetas fijarán pieza motor necesaria funcionamiento normal normalmente deba sustituida vida motor
 etiquetas colocarán fácilmente visibles persona normal motor esté completo accesorios necesarios funcionamiento
@@ -2862,7 +2847,6 @@ recomienda ensayo ETC inmediatamente ensayo regeneración inmediatamente ensayo 
 Tiempo respuesta tiempo transcurrido cambio componente medirse punto referencia sonda muestreo respuesta sistema valor leído cambio componente medido equivalga mínimo fondo escala FS produzca segundos
 tiempo respuesta sistema equivale tiempo retraso sistema tiempo subida sistema
 Ciclo ensayo WHSC
-
 min
 min
 min
@@ -2871,7 +2855,6 @@ máx min
 contenido hidrógeno combustible masa
 procedimiento descrito punto directo puesto utiliza valores tabulados relación densidad componente gas escape
 procedimiento descrito punto preciso calidades combustible desvían especificaciones apéndice requiere análisis elemental composición combustible
-
 mPM mfrs
 med QSSV
 med QSSV Δti
@@ -2951,7 +2934,6 @@ cgas
 GNC
 GLP
 ugas
-
 qmad
 qmedf
 rd
@@ -4600,7 +4582,6 @@ Zelanda
 Papúa Guinea
 Islas Salomón
 Wallis Futuna
-
 Información clasificable arreglo fronteras actuales optativo
 Checoslovaquia optativo
 Unión Soviética optativo
@@ -4968,7 +4949,6 @@ desagregación viviendas tipo edificio sirve desglosar viviendas convencionales 
 Tema Viviendas periodo construcción
 tema viviendas periodo construcción refiere año finalizó construcción edificio ubica vivienda
 Viviendas periodo construcción
-
 posterior
 desagregación viviendas periodo construcción sirve desglosar viviendas convencionales subtotal
 códigos xx xxx corresponden clasificación NUTS código xxxx clasificación LAU vigentes miembro enero

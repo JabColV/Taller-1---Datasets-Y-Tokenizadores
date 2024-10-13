@@ -166,7 +166,6 @@ alimentos
 especifíquese
 Código
 importe
-
 Lugar
 Consejo establece proceso monitorio europeo
 Número asunto rellenar órgano jurisdiccional
@@ -1613,7 +1612,6 @@ objetivo presente Reglamento reforzar cohesión económica social territorial al
 conformidad principio proporcionalidad establecido artículo presente Reglamento excede necesario alcanzar objetivo
 permitir rápida aplicación medidas establecidas presente Reglamento entrar vigor publicación Diario Oficial Unión Europea
 ADOPTADO PRESENTE REGLAMENTO
-
 OBJETO DEFINICIONES
 Artículo
 Objeto
@@ -1677,7 +1675,6 @@ deficiencia grave funcionamiento efectivo sistemas gestión control efectos apli
 Artículo
 Cálculo decisiones Comisión
 aplicación artículo apartados artículo apartado artículo apartado artículo apartado artículo apartado artículo apartado establezca plazo Comisión adopte modifique decisión acto ejecución plazo incluirá período inicia fecha Comisión envía observaciones miembro finaliza miembro responde observaciones
-
 DISPOSICIONES COMUNES APLICABLES FONDOS EIE
 TÍTULO
 PRINCIPIOS AYUDA UNIÓN RELATIVOS FONDOS EIE
@@ -2792,7 +2789,6 @@ junio miembro deberá presentar Comisión plan financiero revisado conste ejerci
 presentarse plan financiero revisado Comisión revisará plan financiero deduciendo contribución Fondos EIE correspondiente ejercicio financiero cuestión
 deducción asignará proporcionalmente prioridad
 Comisión actos ejecución modificará decisión adopte programa septiembre
-
 DISPOSICIONES GENERALES APLICABLES FEDER FSE FONDO COHESIÓN
 OBJETIVOS MARCO FINANCIERO
 Misión objetivos ámbito geográfico ayuda
@@ -4041,7 +4037,6 @@ corrección financiera determinará aplicando índice corrección financiera con
 diferencia nivel referencia asociación nivel alcanzado expresado porcentaje nivel referencia asociación inferior hará corrección financiera
 corrección financiera excederá asignación Fondos miembro cuestión regiones desarrolladas período programación
 ANEXO XI
-
 Condiciones ex temáticas
 Prioridades inversión
 Condiciones ex

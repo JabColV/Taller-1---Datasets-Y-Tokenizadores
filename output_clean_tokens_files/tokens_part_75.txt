@@ -115,7 +115,6 @@ DO
 DO
 ANEXO
 CARNE LEPÓRIDOS SILVESTRES DETERMINADOS MAMÍFEROS TERRESTRES SILVESTRES CONEJO GRANJA
-
 Lista terceros países partes garantías adicionales
 MC Modelo certificado veterinario
 AG Garantías adicionales
@@ -130,15 +129,12 @@ Groenlandia
 Zelanda
 Rusia
 tercer país enumerados columnas cuadro anexo II Decisión CEE
-
 Modelos certificados veterinarios
 Modelos
 Modelo certificado veterinario carne lepóridos silvestres conejos liebres
 Modelo certificado veterinario carne mamíferos terrestres silvestres excepción ungulados lepóridos
 Modelo certificado veterinario carne conejo granja
-
 Garantías adicionales
-
 Notas certificación veterinaria
 tercer país exportador expedirá certificados veterinarios basen modelos presente anexo sigan formato correspondiente mercancía trate
 Contendrán orden modelo certificaciones necesarias tercer país caso requisitos zoosanitarios adicionales correspondientes tercer país territorio
@@ -186,7 +182,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -243,7 +238,6 @@ GARANTÍAS ADICIONALES
 veterinario oficial abajo firmante certifica
 Garantías adicionales exigidas caso anexo indica anexo Reglamento CE
 Notas
-
 Referencia casilla nombre país origen coincidir país exportador
 Referencia casilla Indíquese código territorio origen caso figura columna cuadro anexo Reglamento CE
 Referencia casilla Nombre dirección número autorización establecimiento expedición
@@ -1914,7 +1908,6 @@ ESPAÑA sustituye texto
 ESPAÑA
 Banco Popular Madrid
 FINLANDIA
-
 anexo queda modificado
 punto letra sustituye texto
 período referencia mes civil duración relaciones
@@ -2522,7 +2515,6 @@ Capítulo
 Minerales metalíferos escorias cenizas
 Capítulo
 Combustibles minerales aceites minerales productos destilación materias bituminosas ceras minerales
-
 ex carburantes especiales
 Capítulo
 Productos químicos inorgánicos compuestos inorgánicos orgánicos metal precioso elementos radiactivos metales tierras raras isótopos
@@ -3253,7 +3245,6 @@ Comisión
 Miembro Comisión
 ANEXO
 Establecimientos cárnicos leche pescado situación transitoria
-
 Número autorización veterinaria
 Nombre dirección establecimiento
 Sector carne
@@ -3293,7 +3284,6 @@ UAB Ketonas Šilutės pl
 UAB Olvic Savanorių pr Vilniaus
 UAB Šaldytuvų ūkis Kirtimų Vilniaus
 ŽŪK Mikoliškio paukštynas Mykoliškio Pasvalio Panevėžio aps
-
 Sector leche
 Leche productos lácteos
 ABKelmės pieninė Raseinių Kelmės Šiaulių
@@ -3301,7 +3291,6 @@ ABKelmės pieninė Raseinių Kelmės Šiaulių
 AB Ignalinos pieninė Taikos Ignalinos Utenos aps
 AB Varėnos pieninė Basanavičiaus Varėnos raj Alyatus aps
 UABBelvederio sūrinė Belvederio km Jurbarko Tauragės
-
 Sector productos pesca
 Pescado productos base pescado
 UAB Myxum Klemiškės II Sendvario sen Klaipėdos Klaipėdos aps
@@ -3717,7 +3706,6 @@ Naranjas
 Limones
 Limas
 Mandarinas
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -4523,7 +4511,6 @@ apéndices Reglamento CE modificarán
 apéndice sustituirá
 Apéndice
 Estratificación geográfica organizaciones regionales pesca
-
 Nivel
 Zona
 Zona FAO
@@ -4569,7 +4556,6 @@ Oeste Galicia
 Norte Portugal Cabo Espichel
 Suroeste Portugal Alentejo
 Sur Portugal Algarve
-
 apéndice III sustituirá
 Apéndice III letra
 Segmentación básica buques capacidad programa mínimo
@@ -4889,7 +4875,6 @@ Período
 Objetivos principales especies etc
 Intensidad estudio
 Prioridad
-
 lances
 Zona III CIEM incluido Mar Báltico
 BITS ero trimestres
@@ -4989,7 +4974,6 @@ PELÁGICOS
 Distribución abundancia atunes mielgas
 Septiembre octubre
 Distribución abundancia biomasa reclutamiento bacalao especie principal especies
-
 Gádidos arenque caballa
 Septiembre años
 Abundancia especies aguas profundas

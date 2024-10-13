@@ -171,11 +171,6 @@ definidas Reglamento CE Skagerrak
 zona delimitada oeste línea trazada faro Hanstholm Lindesnes sur línea trazada faro Skagen Tistlarna punto costa sueca
 Kattegat zona delimitada norte línea trazada faro Skagen Tistlarna punto costa sueca sur líneas trazadas Hasenøre Gnibens Spids Korshage Spodsbjerg Gilbjerg Hoved Kullen VII Porcupine Bank
 Unidad zona delimitada líneas loxodrómicas unen sucesivamente siguientes posiciones
-
-
-
-
-
 Golfo Cádiz
 división CIEM IXa meridiano longitud
 zonas CPACO Atlántico Centro Oriental caladero principal FAO definidas Reglamento CE zonas NAFO Organización Pesquerías Atlántico Noroeste
@@ -264,19 +259,6 @@ efectos presente artículo zona Porcupine Bank delimitada líneas loxodrómicas 
 Punto
 Latitud
 Longitud
-
-
-
-
-
-
-
-
-
-
-
-
-
 obstante dispuesto apartado presente artículo permitirá arreglo artículo apartados Reglamento CE tránsito zona Porcupine Bank buques lleven bordo especies mencionadas apartado
 Artículo
 Transmisión datos
@@ -643,7 +625,6 @@ YEL
 Limanda ferruginea
 HKW
 Urophycis tenuis
-
 Lamna nasus
 LIN
 Molva molva
@@ -659,7 +640,6 @@ DGS
 Squalus acanthias
 RJB
 Dipturus batis
-
 Lepidonotothen squamifrons
 BOR
 Caproidae
@@ -810,7 +790,6 @@ Número máximo año buque presente zona arte pesca
 Condiciones especiales
 Arte regulado
 Redes arrastre redes cerco danesas redes arrastre similares malla mm redes enmalle malla mm palangres fondo
-
 Ilimitado
 INTERCAMBIO ASIGNACIONES ESFUERZO PESQUERO
 Transferencia buques enarbolen pabellón miembro
@@ -846,7 +825,6 @@ tipos artes siguientes
 TR redes arrastre redes cerco danesas redes similares mm
 GN redes enmalle mm
 LL palangres fondo
-
 Cantidad acumulada esfuerzo pesquero expresada kilovatiosdía desplegada enero diciembre año trate
 Cuadro IV
 Formato notificación información relativa buques
@@ -1009,7 +987,6 @@ Buques polivalentes equipados diversas artes palangre caña curricán
 buques palangreros
 ANEXO
 ZONA CONVENCIÓN CCRVMA
-
 PROHIBICIÓN PESCA DIRIGIDA ZONA CONVENCIÓN CCRVMA
 Especie objeto pesca
 Zona
@@ -1022,7 +999,6 @@ Peces aleta
 año
 diciembre noviembre
 especies Champsocephalus gunnari Dissostichus eleginoides
-
 LÍMITES CAPTURAS CAPTURAS ACCESORIAS PESQUERÍAS EXPLORATORIAS ZONA CONVENCIÓN CCRVMA
 Subzona división
 Región
@@ -1059,7 +1035,6 @@ UIPE
 UIPE
 UIPE
 UIPE
-
 NOTIFICACIÓN INTENCIÓN PARTICIPAR PESQUERÍA EUPHAUSIA SUPERBA
 contratante
 Campaña pesca
@@ -1081,7 +1056,6 @@ Ago
 Márquese casillas zona periodo probable desarrolle actividad
 establecen límites capturas cautelares consideran pesquerías exploratorias
 Nótese datos facilitados presente documento únicamente fines informativos impiden faene zonas periodos hayan indicado
-
 CONFIGURACIÓN REDES EMPLEO TÉCNICAS PESCA
 Circunferencia abertura boca red
 Abertura vertical
@@ -1514,7 +1488,6 @@ DO
 DO
 ANEXO
 PROGRAMA DESGLOSE PRESUPUESTARIO INDICATIVO
-
 Programa
 programa oficial constará subprogramas
 Subprograma interdepartamental
@@ -1525,7 +1498,6 @@ Medida estudios fitosanitarios formación viveristas producción flores
 Subprograma departamento Guadalupe
 Medida gestión red vigilancia mosca fruta
 Medida gestión riesgo introducción organismos nocivos actividades turísticas
-
 Desglose presupuestario indicativo detallando diversas medidas previstas
 EUR
 Subprogramas
@@ -2167,7 +2139,6 @@ productos originarios Ceuta Melilla
 productos enteramente obtenidos Ceuta Melilla
 productos obtenidos Ceuta Melilla cuya fabricación hayan utilizado productos distintos mencionados letra
 productos hayan suficientemente elaborados transformados sentido artículo
-
 productos originarios Turquía Comunidad hayan objeto elaboraciones transformaciones vayan allá operaciones contempladas artículo
 productos originarios Turquía
 productos enteramente obtenidos Turquía
@@ -2396,14 +2367,12 @@ DO
 DO
 DO
 ANEXO
-
 Zona establecida conformidad artículo apartado
 Código país ISO
 miembro
 Zona
 Fecha aplicable artículo apartado letra inciso iii
 Código
-
 Nombre
 ALEMANIA
 zona km establecida brote municipio Großwoltersdorf incluye siguientes municipios
@@ -2438,7 +2407,6 @@ Municipio Płoskinia
 RUMANÍA
 Zona protección
 Zona vigilancia
-
 Zona establecida conformidad artículo apartado
 Zona
 municipios
@@ -2818,7 +2786,6 @@ DO
 ANEXO
 Propuesta
 DECISIÓN COMITÉ MIXTO AGRICULTURA CREADO COMUNIDAD EUROPEA CONFEDERACIÓN SUIZA COMERCIO PRODUCTOS AGRÍCOLAS
-
 relativa modificaciones anexo
 COMITÉ MIXTO AGRICULTURA
 Visto Comunidad Europea Confederación Suiza comercio productos agrícolas particular artículo
@@ -3219,7 +3186,6 @@ DO
 ANEXO
 anexo Reglamento CE queda modificado
 Información general sustituye texto
-
 INFORMACIÓN GENERAL
 NATURALEZA NOTIFICACIÓN
 información transmitida impreso refiere
@@ -3354,12 +3320,6 @@ pequeñas empresas
 microempresas
 siguientes beneficiarios
 Número estimado beneficiarios
-
-
-
-
-
-
 NACE Rev Nomenclatura Estadística Actividades Económicas Comunidad Europea
 Véase Reglamento CE Parlamento Europeo Consejo establece nomenclatura estadística actividades económicas NACE Revisión DO
 revisión NACE entra vigor enero
@@ -3384,14 +3344,12 @@ Desgravación fiscal
 Reducción base imponible
 Reducción tipo impositivo
 Aplazamiento fiscal
-
 Reducción cotizaciones Seguridad Social
 Financiación capital riesgo
 formas intervención capital
 Especifíquese
 Condonación deuda
 Garantía facilítese información cosas crédito transacción financiera avalada garantía explíquese cubierta garantía prima aplica
-
 Descríbanse forma precisa normas condiciones aplicables instrumento ayuda indicando particular porcentaje concesión tratamiento fiscal ayuda concede automáticamente cumplen determinados criterios objetivos cuyo caso deberá indicarse criterios contrario autoridades conceden gozan facultades discrecionales
 datos proporcionarse moneda nacional
 Especifíquese financiación ayuda ayuda financia cargo presupuesto general región municipio explíquese financia
@@ -3629,7 +3587,6 @@ ayuda proyecto ID concede forma medida fiscal facilite estudios evaluación perm
 caso afirmativo especifíquese calculan intensidades ayuda
 base proyecto individual
 forma ratio desgravación fiscal global suma costes subvencionables incurrido período superior ejercicios fiscales consecutivos
-
 favor proporcione detalles método cálculo aplicado
 Ayudas estudios viabilidad técnica
 Condiciones generales
@@ -4230,7 +4187,6 @@ Véase sección DCR
 Véase sección DCR
 definición véase sección letra DCR
 incentivos fiscales fondos inversión administradores inversores inversión capital
-
 volumen presupuesto medida fondo volumen
 medida contará cofinanciación fondos comunitarios Fondo Social Europeo Fondo Europeo Desarrollo Regional
 duración medida fondo tiempo compromete fondo invertir
@@ -4819,7 +4775,6 @@ LIQUIDACIÓN CUENTAS ORGANISMOS PAGADORES
 EJERCICIO GASTO FEAGA DESARROLLO RURAL MIEMBROS
 CANTIDAD RECUPERARSE MIEMBRO ABONÁRSELE
 Gasto organismos pagadores cuyas cuentas
-
 Reducciones
 Pagos intermedios reembolsados miembro ejercicio financiero
 Cantidad recuperarse miembro abonársele

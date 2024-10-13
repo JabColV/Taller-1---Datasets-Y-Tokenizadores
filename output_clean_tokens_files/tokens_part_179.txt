@@ -172,7 +172,6 @@ Grupos
 Cantidad aproximada
 Años cosecha
 Tipos arroz
-
 Decisión Ejecución Comisión
 diciembre
 conformidad Directiva CE Parlamento Europeo Consejo relativa protección adecuada datos personales Zelanda
@@ -291,7 +290,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -305,7 +303,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -319,7 +316,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -1465,7 +1461,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -1593,17 +1588,14 @@ DO
 ANEXO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES PORCINO POLONIA
-
 disposiciones previstas aplicables emplee aparato denominado Capteur Gras Maigre Sydel CGM clasificación canales cerdo
 aparato irá equipado sonda Sydel alta definición milímetros ancho diodo infrarrojo emisor luz Honeywell sensores luz Honeywell
 alcance operativo situará milímetros CGM traducirá resultados mediciones contenido estimado carne magra
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor músculo dorsal milímetros medido cuarta costillas centímetros línea mediana dorsal paralelamente línea media canal
 espesor grasa dorsal piel milímetros medido tiempo lugar forma
 fórmula válida canales cuyo peso oscile kilogramos
-
 disposiciones previstas aplicables utilice aparato denominado Ultra FOM clasificación canales cerdo
 aparato irá equipado serie transductores ultrasónicos MHz USystems
 aparato UltraFOM traducirá resultados mediciones contenido estimado carne magra
@@ -1611,7 +1603,6 @@ espesor músculo dorsal milímetros medido costilla centímetros línea media do
 espesor músculo dorsal milímetros medido cuarta costillas centímetros línea media dorsal perpendicularmente músculo
 espesor grasa dorsal piel milímetros medido tiempo lugar forma
 espesor grasa dorsal piel milímetros medido tiempo lugar forma
-
 disposiciones previstas aplicables emplee aparato denominado Autofom Fully automatic ultrasonic carcass grading clasificación canales cerdo
 aparato irá equipado transductores ultrasónicos MHz GE Inspection Technologies
 datos ultrasónicos incluirán mediciones espesor grasa dorsal espesor muscular
@@ -1620,19 +1611,16 @@ porcentaje estimado carne magra canal
 AFIP AFIP AFIP AFIP variables medidas Autofom
 descripciones puntos medición método estadístico figuran II protocolo Polonia presentó Comisión arreglo dispuesto artículo apartado Reglamento CE Comisión
 fórmula válida canales cuyo peso oscile kilogramos
-
 disposiciones previstas aplicables emplee aparato denominado IM clasificación canales cerdo
 aparato irá equipado sonda óptica aguja Single Line Scanner SLS milímetros diámetro
 sonda contendrá hilera sensores imágenes contacto SIC diodos emisores luz verde
 alcance operativo situará milímetros
-
 disposiciones previstas aplicables utilice aparato denominado Autofom III clasificación canales cerdo
 aparato equipado transductores ultrasónicos funcionen MHz Carometec distancia operativa transductores milímetros datos ultrasónicos incluirán mediciones espesor tocino dorsal profundidad músculo parámetros conexos
 ordenador convertirá resultados mediciones porcentaje estimado carne magra
 contenido carne magra canal calculará base variables fórmula
 RP RP RP RP variables medidas Autofom III
 descripciones puntos medición figuran II protocolo Polonia presentó Comisión arreglo dispuesto artículo apartado Reglamento CE
-
 CSB IMAGE MEATER CSB
 disposiciones previstas aplicables utilice aparato denominado CSB ImageMeater clasificación canales cerdo
 CSB ImageMeater consiste concretamente cámara vídeo ordenador provisto tarjeta análisis imágenes pantalla impresora mecanismo mando mecanismo activación interfaces
@@ -1641,7 +1629,6 @@ contenido carne magra canal calculará fórmula
 MS espesor tocino músculo glúteo mm
 MF espesor músculos lumbar glúteo mm
 VaF VcF VdF espesor músculo craneal dorsolumbares seleccionados mm
-
 disposiciones previstas aplicables emplee aparato denominado FatOMeater II clasificación canales cerdo
 aparato versión sistema medición FatOMeater
 FOM II consta sonda sonda óptica cuchilla dispositivo medición espesor milímetros profundidad panel recogida análisis datos Carometec Touch Panel computer Ingress Protection IP
@@ -1650,7 +1637,6 @@ terminal forma FOM II plenamente integrado
 ordenador traducirá resultados medición contenido estimado carne magra
 contenido carne magra canal calculará fórmula
 espesor músculo dorsal milímetros medido cuarta costillas centímetros línea media dorsal perpendicularmente músculo
-
 MÉTODO MANUAL ZP
 disposiciones previstas aplicables utilice método manual ZP medición regleta clasificación canales cerdo
 aplicar método utilizarse regleta cuyas cotas determinan función ecuación predicción
@@ -1659,7 +1645,6 @@ espesor grasa recubre músculo glúteo visible hendidura delgada mm
 espesor músculo lumbar visible hendidura distancia corta craneal músculo glúteo borde superior dorsal canal raquídeo mm
 DO
 AFRP AFRP AFRP AFRP AFRP AFRP AFRP AFRP AFRP AFRP
-
 Decisión adoptada Común Representantes Gobiernos Miembros
 junio
 relativa sede Instituto Europeo Innovación Tecnología EIT
@@ -2371,7 +2356,6 @@ Empresa
 Margen dumping
 Derecho provisional
 Resto productores exportadores
-
 DISPOSICIÓN
 citadas conclusiones provisionales comunicarán partes interesadas oportunidad observaciones escrito solicitar audiencia
 observaciones analizarán tomarán consideración procede establecer conclusión definitiva
@@ -3878,9 +3862,7 @@ autoridades chinas discreparon afirmado apartado documento divulgación definiti
 realidad autoridades chinas malinterpretan hechos cuestión
 Comisión insistió obtener respuesta inmediata Comisión Regulación Bancaria China negó considerar cuestión pretexto pregunta formulado escrito antelación
 razón falta tiempo preparar respuesta autoridades chinas podían haberla presentado inspección correo electrónico cuyo caso Comisión habría podido verificarla documentos
-
 autoridades chinas alegaron proporcionaron documentos relativos establecimiento mandato Comisión Regulación Bancaria China Comisión solicitaba cuestionario puesto Comisión planteó cuestión carta deficiencias incluyó documentos lista documentos presentarse comience inspección figura anexo dicha carta sintieron obligadas proporcionar documento
-
 Comisión pidió documentos constituyeron base establecimiento mandato Comisión Regulación Bancaria China autoridades chinas aportaron
 Comisión supo declarado funcionario Comisión Regulación Bancaria China existían documentos relacionados
 respuesta autoridades chinas contenida cuestionario incompleta engañosa autoridades chinas Comisión Regulación Bancaria China conocían obviamente existencia documentos admitió Comisión Regulación Bancaria China inspección in situ

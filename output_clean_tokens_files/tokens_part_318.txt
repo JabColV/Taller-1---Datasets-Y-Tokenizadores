@@ -361,9 +361,7 @@ Corrección errores Directiva CE Parlamento Europeo Consejo abril disposiciones 
 Diario Oficial Unión Europea abril
 Versión corregida Diario Oficial Unión Europea mayo
 lugar firma queda corregido
-
 Estrasburgo abril
-
 Bruselas abril
 Corrección errores Directiva CE Parlamento Europeo Consejo abril seguridad ferrocarriles comunitarios modifican Directiva CE Consejo concesión licencias empresas ferroviarias Directiva CE relativa adjudicación capacidad infraestructura ferroviaria aplicación cánones utilización certificación seguridad Directiva seguridad ferroviaria
 Diario Oficial Unión Europea abril
@@ -2656,19 +2654,16 @@ DO
 ANEXO
 anexo Decisión CE sustituye anexo presente Decisión
 ANEXO
-
 Zona establecida conformidad artículo apartado
 Código país ISO
 miembro
 Zona
 Fecha aplicable artículo apartado letra
 Código
-
 Nombre
 HUNGRÍA
 distrito BácsKiskun municipios
 distrito Csongrád municipios
-
 Zona establecida conformidad artículo apartado
 Zona
 distritos
@@ -3195,7 +3190,6 @@ Aguas UE aguas internacionales zonas VI VII
 España
 Francia
 Irlanda
-
 Noruega
 rúbrica correspondiente especie brosmio aguas Noruega zona IV sustituye
 Aguas Noruega zona IV
@@ -4588,7 +4582,6 @@ caso controversia informe supervisión transmitirá Foro organismos acreditació
 Artículo
 Condiciones realización verificación validación
 verificador medioambiental actuará ámbito acreditación autorización base escrito organización
-
 especificará ámbito actividad
 especificará condiciones dirigidas permitir verificador medioambiental actuar forma profesional independiente
 comprometerá organización proporcionar colaboración necesaria

@@ -2,42 +2,26 @@ Rosas
 Claveles
 Gladiolos
 Crisantemos
-
-
 período
 Fresas frescas
-
 Exención
 líneas contingentes arancelarios números orden sustituirán respectivamente líneas siguientes
 Tomates frescos refrigerados
-
 Exención
-
-
-
-
-
-
 período
-
-
-
 período
 Pepinos frescos refrigerados
 aumento toneladas peso neto
 Exención
 período
 Naranjas frescas
-
 aumento toneladas peso neto
 Exención
 período
 Clementinas frescas
-
 Exención
 período
 añadirá
-
 Cantidades referencia
 Número orden
 Código NC
@@ -46,11 +30,8 @@ Período cantidad referencia
 Cantidad referencia peso neto toneladas
 Derecho cantidad referencia
 Lechugas Lactuca sativa frescas refrigeradas repolladas
-
 Endibias Cichorium spp frescas refrigeradas endivia witloof
 Zanahorias nabos remolachas ensalada salsifíes apionabos rábanos raíces comestibles similares frescos refrigerados
-
-
 período
 volumen contingente reducirá alcanzar toneladas peso neto volumen tomates originarios Marruecos despachados libre práctica Comunidad período comprendido octubre mayo supera volumen toneladas peso neto
 volumen contingente reducirá alcanzar toneladas peso neto volumen tomates originarios Marruecos despachados libre práctica Comunidad período comprendido octubre mayo supera suma volúmenes contingentes arancelarios mensuales número orden aplicables período comprendido octubre mayo volumen contingente arancelario adicional número orden aplicable período comprendido noviembre mayo
@@ -136,7 +117,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -150,7 +130,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -164,7 +143,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -708,7 +686,6 @@ hongos pienso alimento compuesto contiene productos originarios prefectura Yaman
 piensos alimentos incluidos anexo IV Reglamento Ejecución UE pienso alimento compuesto contiene productos originarios prefecturas Fukushima Gunma Ibaraki Tochigi Miyagi Saitama Tokyo Chiba Kanagawa Iwate sometidos muestreo fecha objeto análisis laboratorio fecha nombre laboratorio determinar nivel radionúclidos cesio cesio
 piensos alimentos origen desconocido contienen ingredientes origen desconocido sometido muestreo fecha objeto análisis laboratorio fecha nombre laboratorio determinar nivel radionúclidos cesio cesio
 adjunta informe análisis
-
 Sello firma representante autorizado refiere artículo apartados Reglamento Ejecución UE
 cumplimentar autoridad competente puesto inspección fronterizo punto entrada designado
 envío aceptado presentación autoridades aduaneras vistas despacho libre práctica Unión
@@ -1100,7 +1077,6 @@ niveles elevados tritio indicar presencia radionucleidos artificiales deberían 
 Cálculo DI
 DI calculará concentraciones radionucleidos hayan medido coeficientes dosis recogidos anexo III tabla Directiva Euratom información reciente reconocida autoridades competentes miembro basándose ingestión anual agua adultos
 satisface fórmula indica continuación miembros considerar DI inferior valor paramétrico mSv deberán investigación adicional
-
 concentración observada radionucleido
 concentración derivada radionucleido
 número radionucleidos detectados
@@ -1329,13 +1305,7 @@ razones confidencialidad Cuadro contiene datos precisos productores exportadores
 Cuadro
 Volumen importaciones país afectado toneladas
 Cuota mercado importaciones país afectado
-
-
-
 Precio importaciones país afectado EUR tonelada
-
-
-
 Situación económica industria Unión
 conformidad artículo apartado Reglamento base Comisión examinó índices factores económicos pertinentes relación situación industria Unión
 Producción
@@ -1995,9 +1965,7 @@ indicado preceptos constitucionales
 Corrección errores Directiva UE Parlamento Europeo Consejo julio normas calidad seguridad órganos humanos destinados trasplante
 Diario Oficial Unión Europea agosto
 sumario título Directiva
-
 Directiva UE Parlamento Europeo Consejo julio
-
 Directiva UE Parlamento Europeo Consejo julio
 página título Directiva
 DIRECTIVA UE PARLAMENTO EUROPEO CONSEJO julio
@@ -3575,7 +3543,6 @@ alúmina suele consistir material desecado preparado justo reacción sulfato clo
 formada laca producto filtra lava agua seca
 producto terminado presente fracción alúmina reaccionado
 Materias insolubles HCl
-
 Materias extraíbles éter
 condiciones neutras
 criterios específicos pureza aplicables colorantes correspondientes
@@ -3639,7 +3606,6 @@ Rotación específica
 Pérdida desecación
 desecación °C
 Cenizas sulfatadas
-
 Aminas aromáticas primarias
 mg kg expresadas anilina
 ii RIBOFLAVINA′FOSFATO
@@ -3657,7 +3623,6 @@ relación
 relación
 αD solución HCl
 °C horas vacío PO forma dihidratada
-
 Fosfatos inorgánicos
 expresados PO materia anhidra
 Colorantes secundarios
@@ -3675,8 +3640,6 @@ Polvo gránulos color naranja solución amarilla agua
 Máximo agua nm
 Solución amarilla agua
 Materias insolubles agua
-
-
 Compuestos orgánicos distintos colorantes
 ácido hidrazinobencenosulfónico
 ácidoaminobencenosulfónico
@@ -3700,13 +3663,11 @@ consistirá quinolilindanodionatrisulfonato trisódico
 componente principal nm solución acuosa ácido acético
 Polvo gránulos amarillos
 Máximo solución acuosa ácido acético pH nm
-
 metilquinolina
 ácido metilquinolinasulfónico
 ácido ftálico
 dimetilquinolina
 ácido dimetilquinolinasulfónico
-
 quinolilindanodiona
 mg kg
 Aminas aromáticas primarias sulfonadas
@@ -3719,7 +3680,6 @@ nm solución acuosa pH
 Polvo gránulos color rojo anaranjado solución naranja agua
 Máximo agua nm pH
 Solución naranja agua
-
 fenilazonaftalenol Sudan
 mg kg
 ácido hidroxinaftalenodisulfónico
@@ -3753,7 +3713,6 @@ nm solución acuosa
 Polvo gránulos color rojo castaño
 Máximo agua nm
 Solución roja agua
-
 ácido aminonaftalenosulfónico
 ácido hidroxinaftalenosulfónico
 AMARANTO
@@ -3763,7 +3722,6 @@ hidroxisulfonatonaftilazonaftalenodisulfonato trisódico
 nm solución acuosa
 Polvo gránulos color marrón rojizo
 Máximo agua nm
-
 ácido hidroxinaftalenotrisulfónico
 PUNZÓ ROJO COCHINILLA
 punzó consiste fundamentalmente hidroxisulfonatonaftilazonaftalenodisulfónato trisódico colorantes secundarios cloruro sódico sulfato sódico principales componentes incoloros
@@ -3807,7 +3765,6 @@ nm solución acuosa pH
 Polvo gránulos color rojo oscuro
 Maximo agua nm
 sal sódica ácido hidroxinaftaleno sulfónico
-
 ácido aminometoximetilbencenosulfónico
 sal disódica ácido oxibis naftalenosulfónico
 solución pH
@@ -3845,9 +3802,7 @@ Triarilmetano
 nm solución acuosa
 Polvo gránulos color azul rojizo
 Máximo agua nm
-
 conjunto ácidos formilbencenosulfónico
-
 ácido etilsulfofenilaminometilbenceno sulfónico
 pH
 CLOROFILAS
@@ -3947,12 +3902,8 @@ nm solución acuosa
 Polvo gránulos color azul oscuro verde oscuro
 Máximo agua nm
 Solución azul verde agua
-
-
 alcohol ′bis dimetilamino benzhidrílico
-
 ′bis dimetilamino benzofenona
-
 expresadas anilina
 condiciones neutras
 CARAMELO NATURAL
@@ -3960,7 +3911,6 @@ caramelo natural prepara tratamiento térmico controlado hidratos carbono edulco
 activar caramelización emplearse ácidos álcalis sales compuestos amónicos sulfitos
 Líquidos sólidos color castaño oscuro negro
 Colorante ligado celulosa DEAE
-
 Colorante ligado fosforilcelulosa
 Intensidad color
 Nitrógeno
@@ -3968,15 +3918,10 @@ Azufre
 mg kg
 CARMELO SULFITO CÁUSTICO
 caramelo sulfito cáustico prepara tratamiento térmico controlado hidratos carbono edulcorantes nutritivos calidad alimentaria disponibles comercio monómeros glucosa fructosa polímeros ejemplo jarabes glucosa sacarosa jarabe invertido glucosa ácidos álcalis presencia compuestos sulfíticos ácido sulfuroso sulfito potásico bisulfito potásico sulfito sódico bisulfito sódico utilicen compuestos amónicos
-
-
 Dióxido azufre
-
 Azufre ligado celulosa DEAE
-
 Relación absorbencia colorante ligado celulosa DEAE
 Relación absorbencia
-
 CARAMELO AMÓNICO
 caramelo amónico prepara tratamiento térmico controlado hidratos carbono edulcorantes nutritivos calidad alimentaria disponibles comercio monómeros glucosa fructosa polímeros ejemplo jarabes glucosa sacarosa jarabe invertido glucosa ácidos álcalis presencia compuestos amónicos hidróxido amónico carbonato amónico carbonato ácido amónico fosfato amónico utilicen compuestos sulfíticos
 Nitrógeno amoniacal
@@ -3987,10 +3932,8 @@ mg kg
 Relación absorbencia colorante ligado fosforilcelulosa
 CARAMELO SULFITO AMÓNICO
 caramelo sulfito amónico prepara tratamiento térmico controlado hidratos carbono edulcorantes nutritivos calidad alimentaria disponibles comercio monómeros glucosa fructosa polímeros ejemplo jarabes glucosa sacarosa jarabe invertido glucosa ácidos álcalis presencia compuestos sulfíticos amónicos ácido sulfuroso sulfito potásico bisulfito potásico sulfito sódico bisulfito sódico hidróxido amónico carbonato amónico carbonato ácido amónico fosfato amónico sulfato amónico sulfito amónico sulfito ácido amónico
-
 Relación nitrógeno azufre precipitado alcohólico
 Relación absorbencia precipitado alcohólico
-
 NEGRO BRILLANTE BN NEGRO PN
 negro brillante BN consiste fundamentalmente acetamidohidroxisulfonatosulfonatofenilazonaftilazonaftalenodisulfonato tetrasódico colorantes secundarios cloruro sódico sulfato sódico principales componentes incoloros
 azul negro brillante BN describe sal sódica
@@ -4002,7 +3945,6 @@ Solución color negro azulado agua
 expresado contenido colorante
 ácido acetamidohidroxinaftalenodisulfónico
 ácido ′diazoaminodibencenosulfónico
-
 CARBÓN VEGETAL
 Negro vegetal
 carbón vegetal produce carbonización materiales vegetales madera residuos celulosa turba coco cáscaras
@@ -4040,10 +3982,7 @@ Contenido inferior colorantes totales
 proporciones componentes colorantes totales superarán siguientes
 Polvo gránulos color rojomarrón
 Solución color naranja rojizo
-
-
 mfenilenodiamina metilmfenilenodiamina
-
 Aminas aromáticas primarias sulfonadas distintas mfenilenodiamina metilmfenilenodiamina
 expresadas anilina
 solución pH
@@ -4083,7 +4022,6 @@ Contenido carotenos calculado betacaroteno inferior
 nm ciclohexano
 Máximo ciclohexano nm nm
 Tocoferoles naturales aceite comestible
-
 ii BETACAROTENO
 especificaciones aplican predominantemente isómeros trans betacaroteno pequeñas cantidades carotenoides
 preparados diluidos estabilizados presentar distintas proporciones isómeros transcis
@@ -4106,7 +4044,6 @@ Tricoteceno
 Cearalenona
 Microbiología
 Mohos
-
 Levaduras
 Ausencia
 Ausencia
@@ -4273,7 +4210,6 @@ disuelve efervescencia ácido acético diluido ácido clorhídrico diluido ácid
 °C horas
 Sustancias insolubles ácidos
 Sales alcalinas magnesio
-
 Fluoruro
 mg kg
 Antimonio Sb
@@ -4293,11 +4229,9 @@ disuelve lentamente ácido fluorhídrico ácido sulfúrico concentrado caliente
 Pérdida ignición
 materia exenta sustancias volátiles °C
 Óxido aluminio dióxido silicio
-
 Materias solubles HCl
 materia exenta óxido aluminio sílice caso productos contengan óxido aluminio sílice producto comercializa
 Materias solubles agua
-
 Antimonio
 mg kg disolución
 mg kg disolución
@@ -4353,9 +4287,7 @@ ORO
 Oro
 Contenido inferior Au
 Polvo láminas delgadas color dorado
-
 previa disolución completa
-
 LITOLRUBINA
 litolrubina BK consiste fundamentalmente hidroximetilsulfonatofenilazonaftalenocarboxilato calcio colorantes secundarios agua cloruro calcio sulfato calcio principales componentes incoloros
 hidroximetilsulfonatofenilazonaftalenocarboxilato calcio
@@ -4365,14 +4297,12 @@ Polvo rojo
 Máximo dimetilformamida nm
 Sal cálcica ácido aminometilbencenosulfónico
 Sal cálcica ácido hidroxinaftalenocarboxílico
-
 expresadas anilina
 intensidad color define absorbencia solución caramelo sólido agua cubeta cm nm
 Expresado base equivalente colorante términos producto intensidad color unidades absorbencia
 relación absorbencia precipitado alcohólico define absorbencia precipitado nm dividida absorbencia nm cubeta cm
 benceno
 ANEXO II
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CE Comisión
@@ -4385,7 +4315,6 @@ Directiva CE Comisión
 DO
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Fecha transposición
@@ -4681,7 +4610,6 @@ DO
 DO
 DO
 Secretaría General Consejo encargará publicar Diario Oficial Unión Europea fecha entrada vigor
-
 Comunidad Europea Confederación Suiza relativo establecimiento medidas equivalentes previstas Directiva CE Consejo materia fiscalidad rendimientos ahorro forma pago intereses
 COMUNIDAD EUROPEA denominada sucesivo Comunidad
 CONFEDERACIÓN SUIZA denominada sucesivo Suiza

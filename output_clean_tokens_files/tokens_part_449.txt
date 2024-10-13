@@ -863,7 +863,6 @@ Variación deudas Comisión
 Amortización ejercicio
 Variación anticipos proveedores
 Provisiones
-
 Resultado ajustes económicos ejercicio
 Aprueba cierre cuentas Agencia Europea Seguridad Marítima ejercicio
 Encarga Presidente transmita presente Decisión Director ejecutivo Agencia Europea Seguridad Marítima Consejo Comisión Tribunal Cuentas disponga publicación Diario Oficial Unión Europea serie
@@ -1269,7 +1268,6 @@ aparato utilizado registrar velocidad refiere punto margen precisión
 RESULTADOS
 objeto determinar desplazamiento atrás mando dirección registrará colisión variación distancia medida horizontal paralelamente eje longitudinal vehículo verticalmente sentido perpendicular eje superior columna dirección eje punto vehículo afectado colisión
 lados derecha izquierda
-
 abajo
 zona dañada habitáculo ocupantes
 FACTORES CORRECCIÓN
@@ -1279,8 +1277,6 @@ Masa prototipo condiciones definidas punto anexo
 Masa prototipo incluidos aparatos ensayo
 Variación distancia registrada colisión define punto anexo
 Variación distancia utilizada determinar resultados ensayo
-
-
 variación corregida utilizada comprobar conformidad prototipo requisitos presente Reglamento calculará utilizando fórmula
 exigirá ensayo colisión frontal barrera caso vehículo idéntico prototipo considerado refiere características especificadas punto Reglamento cuya masa superior superior variación corregida obtenida variación fórmula mD demuestre vehículo cumpliendo requisitos punto presente Reglamento
 PROCEDIMIENTOS EQUIVALENTES
@@ -1578,7 +1574,6 @@ Motivo rechazo
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO III
 Licitación permanente exportación trigo blando organismo intervención austriaco
 Reglamento CE
@@ -3647,7 +3642,6 @@ informe refiere artículo apartado concluya habido incumplimiento normas segurid
 considere peligro inmediato grave seguridad billetes euros componentes fabricante logrado probar inspección seguridad producido pérdida robo publicación elementos seguridad euro
 indique equipo inspección seguridad incumplimiento llevó BCE adoptar decisión prevista artículo corregido plazo fijado decisión BCE
 clase incumplimiento emitido decisión apercibimiento virtud artículo
-
 fabricante niegue equipo inspección seguridad acceso inmediato lugar fabricación
 infringido artículo apartados
 causa razonable BCE considere comportamiento fabricante peligro integridad billetes euros pago

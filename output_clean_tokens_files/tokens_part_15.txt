@@ -177,7 +177,6 @@ valor Dc define valor teórico referencia fuerza horizontal vehículo tractor re
 dispositivos componentes mecánicos acoplamiento estén diseñados soportar cargas verticales aplicadas valor
 dispositivos componentes mecánicos acoplamiento adecuados remolques eje central definidos punto valor
 acoplamientos quinta rueda Clase pivotes acoplamiento quinta rueda Clase placas soporte Clase definidos punto valor
-
 masa máxima técnicamente autorizada toneladas remolque provisto barra tracción desplace libremente plano vertical semirremolque
 remolques eje central Categoría masa máxima técnicamente autorizada declarada fabricante vehículo tractorg aceleración causada gravedad
 define punto
@@ -593,8 +592,6 @@ o±o
 borde biselado
 minimum ±o
 oo
-
-
 Figura Tolerancia orificios montaje placas soporte Clase acoplamientos quinta rueda véase punto presente anexo
 Eje longitudinal vehículo
 Pivote acoplamiento
@@ -777,7 +774,6 @@ dirección ángulo ensayo determinará función posición vertical relativa lín
 línea punto fijación sitúa línea referencia horizontal ensayo realizará ángulo sitúa ángulo véase figura
 puntos fijación determinar ángulo ensayo declarados fabricante vehículo transmitan principales fuerzas tracción estructura vehículo tractor
 ángulo emplea carga vertical estática dinámica aplicación carga vertical estática autorizada supere
-
 carga vertical estática supere calculada ángulo incrementará ambas condiciones
 ensayo dinámico realizará fuerza ensayo
 procedimiento ensayo aplicable tipos dispositivos acoplamiento véase punto presente anexo
@@ -848,7 +844,6 @@ Amplitud kN
 Fuerza horizontal
 ±Dc véase nota
 Fuerza vertical
-
 ±V véase nota
 Nota caso acoplamientos específicos Clase valores reducirán ±Dc ±V
 componentes vertical horizontal forma sinusoidal aplicarán asíncrona diferencia frecuencias
@@ -1051,10 +1046,8 @@ masa toneladas transmitida suelo eje ejes remolque eje central definido punto ac
 definición incluye anexo Resolución consolidada construcción vehículos RE documento TRANS WP Rev
 Enmienda
 Valores alternativos
-
 min
 max
-
 caso bolas desmontables acoplen elementos fijación distintos tornillos ejemplo pinzas muelle componente enganche mecánico disposición verifique ensayo dinámico conjunto someterá ensayo estático aplicado bola enganche mecánico dirección apropiada
 mm
 definición incluye anexo Resolución consolidada construcción vehículos RE documento TRANS WP Rev
@@ -1168,7 +1161,6 @@ Composición aditivo
 Monensina granulada producto fermentación seco equivalente actividad monensina
 Aceite mineral
 Piedra caliza granulada Cáscara arroz piedra caliza granulada csp
-
 Monensina granulada producto fermentación seco equivalente actividad monensina
 Aceite mineral Cáscara arroz piedra caliza granulada csp
 Pollos engorde
@@ -1217,7 +1209,6 @@ DO
 DO
 DO
 ANEXO
-
 CUESTIONARIO APLICACIÓN DIRECTIVA CE
 Datos institución presenta informe
 Nombre persona contacto
@@ -1351,7 +1342,6 @@ ponen disposición público decisiones asignación permisos emisión informació
 información pertinente acceso información arreglo artículo país
 Observaciones generales
 aspectos concretos relacionados aplicación susciten preocupación país
-
 Cuadro
 Número instalaciones actividad anexo
 miembro
@@ -1413,7 +1403,6 @@ Método provisional aplicado
 Motivos modificación provisional
 Período suspensión provisional restauración método límites apropiado
 Principio
-
 mes año
 Cuadro
 Número instalaciones recurren medición continua emisiones
@@ -1781,7 +1770,6 @@ punto Reglamento CE Comisión
 Protocolo aplicación normas competencia relativas empresas
 artículo apartado punto Reglamento CE Comisión
 ANEXO II
-
 LISTA MENCIONADA ARTÍCULO APARTADO DECISIÓN
 inserta guión mencionado artículo apartado siguientes puntos anexos protocolos EEE
 punto Reglamento CE Consejo
@@ -2779,10 +2767,8 @@ Dc
 Phone Myat Soe
 Dd
 Wei Wei Lay
-
 Df
 San Thida Soe
-
 Dh
 Coronel Thein Nyunt
 Progreso Zonas Fronterizas Razas Nacionales Asuntos Desarrollo Alcalde Naypidaw
@@ -2823,7 +2809,6 @@ Energía Eléctrica ministerio
 Esposa General División Khin Maung Mint
 Empleo Trabajo nombrado Ministro Relaciones encargado relaciones Aung San Suu Kyi
 Esposa Aung Kyi
-
 Kyaw Thu
 Esposa Kyaw Thu
 VICEMINISTROS
@@ -3233,7 +3218,6 @@ Jd
 Je
 Jf
 Zar Chi Htay
-
 Khin Htay Lin
 Shwe Thanlwin Trading Co distribuidores exclusivos neumáticos Thaton control Ministerio Industria
 Nan Mauk Loung Sai Nang Mauk Lao Hsai
@@ -3437,7 +3421,6 @@ Ministerio Comercio
 Kaba Aye Pagoda Road Mayangone Township Yangón Myanmar
 Ministerio Industria Director Gerente Oo Zune
 Ministerio Cooperativas Director Gerente Hla Moe
-
 Htoo Furniture denominada Htoo Wood Products denominada Htoo Wood based Industry denominada Htoo Wood
 Shwe Taung Gyar Street Bahan Township Yangón
 Shwe Taung Gyar Street Bahan Township Yangón

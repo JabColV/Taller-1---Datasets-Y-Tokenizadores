@@ -2,7 +2,6 @@ Fecha AAAAMMDD
 Autorización válida
 Fecha inclusive
 Suspensión autorización
-
 ARQUITECTURA
 Vínculos registros
 marco régimen reglamentario UE creando distintos registros matriculación
@@ -25,7 +24,6 @@ COTIF ATMF
 Autoridades competentes EF AI OI OR Poseedor Propietario Sec
 OTIF esperar creación registros implementar RMN
 especificación RMN permitir interfaz posterior registros
-
 RMR referencia RMN mencionarse entidad responsable RMR
 clave vincular registros apartado
 BDRMR incluye datos administrativos RMN
@@ -134,7 +132,6 @@ Entidad matriculadora ANS EM XX
 datos
 EMT ANS
 entidades matriculadoras ANS
-
 Agencia Ferroviaria Europea
 Poseedores
 Poseedor vehículos
@@ -236,7 +233,6 @@ arreglo dispuesto proyecto Protocolo Convenio intereses internacionales equipo m
 vehículos pongan servicio AAE BLS FNME GySEV ROeEE deberán recibir código país normalizado
 Texto
 ETI PEED TAF
-
 EMT ANS
 Correo electrónico
 RMN
@@ -1170,7 +1166,6 @@ incluirá mecanismo riesgo compartido BEI proyectos financiados Mecanismo financ
 superar situación Mecanismo financiación capital natural incluirá mecanismo riesgo compartido forma fondos UE absorberán primeras pérdidas caso proyecto fracase
 mecanismo implantación preciso establecerá delegación Comisión BEI asimismo definirá criterios concretos exclusión selección proyectos garantizando integración prioridades correctas proceso selección cobertura sectorial geográfica suficiente
 intereses económicos participantes mecanismo estarán consonancia objetivos generales instrumento financiero participantes incluidos BEI Unión Europea comprometen fondos mecanismo
-
 facilitarán comisiones rendimiento BEI base indicadores específicos diseñados garantizar gestión mecanismo conforme objetivos señalados
 asignación fondos válida complete totalmente transacciones previstas programa
 Habida duración normal préstamos años cabría esperar fase durase años años estarían previstos retraso reembolso término ejemplo fase fondos inversión mecanismo hubiese invertido
@@ -2116,7 +2111,6 @@ competencia virtud legislación nacional tareas ejecución presupuesto acreditar
 encuentran situaciones enumeradas artículos Reglamento CE Euratom
 aceptan auditadas Tribunal Cuentas
 Artículo
-
 Comisión celebrará organismos competentes conformidad artículo Reglamento CE Euratom artículos Reglamento CE Euratom
 Artículo
 Cometidos organismos competentes
@@ -2749,7 +2743,6 @@ Humedad suelo
 Potencial mátrico suelo
 Contenido hídrico suelo
 Precipitaciones rodal precipitaciones directas escurrimiento fuste
-
 especificarse informe explicativo datos
 miembros enviarán Comisión información parcela ajustándose modelos formularios capítulo
 CAPÍTULO
@@ -3152,7 +3145,6 @@ Chipre
 número único asignado parcela permanente fase selección establecimiento
 Fecha observación fecha evaluación fecha análisis
 fechas indicarán orden mes año ejemplo
-
 Mes
 Año
 Coordenadas geográficas latitud longitud
@@ -3168,9 +3160,7 @@ Insuficiente
 Suficiente
 Excesiva
 Turba
-
 Bruto Roh
-
 Plano
 Edad media piso dominante años
 Rodales irregulares
@@ -3314,7 +3304,6 @@ Escurrimiento fuste
 Niebla
 Escarcha
 Concentración atmosférica
-
 anexo documento información general especificarán características equipo utilizado
 Cantidad muestra
 cantidad muestra muestras tomadas dividirá zonas captación colectores comunicará milímetros
@@ -3459,7 +3448,6 @@ Caída hojas acículas
 Síntomas significativos daños hojas copa ejemplo hojas comidas partes desnudas copa
 daños ramas rotas árboles desarraigados
 Frecuencia circunstancias fenómenos
-
 observen síntomas significativos daños hojas copa código daños código efectuará evaluación complementaria conforme submanual copas directrices evaluación causas daños
 copa observada
 Cima copa
@@ -3584,7 +3572,6 @@ Contaminantes atmosféricos
 factores
 Investigados identificados
 Animales caza silvestre pastoreo
-
 Grupo agentes Animales caza silvestre pastoreo
 Tipo
 Corzo
@@ -3822,18 +3809,15 @@ Puntuación eliminatoria
 Evaluación
 CRITERIOS evaluación
 Coherencia proyecto
-
 explicados cumplidamente objetivos proyecto
 finalidad proyecto ligada seguimiento contemplado Reglamento CE
 explican resultados esperados
 proporciona explicación clara detallada actuación necesaria
 Programación
-
 realista programación
 Viabilidad financiera
 realista estimación presupuestaria
 Duración
-
 concluido proyecto actuación resultados efectos duraderos
 Calidad general presentación
 proyecto presentado forma lógica argumentada
@@ -3883,7 +3867,6 @@ Ficha Actividades
 Actividad
 Solicitud individual
 Modificación programa nacional
-
 Gastos subvencionables totales
 Ayuda solicitada
 moneda local euros conforme indicado formulario
@@ -3926,7 +3909,6 @@ datos bancaria
 Nombre banco
 Dirección sucursal código
 Teléfono fax télex dirección correo electrónico
-
 Titular
 fecha
 nombre organismo competente
@@ -3946,7 +3928,6 @@ gastos efectivos subvencionables organismo competente ascienden
 gastos indicados dividen distintos tipos medidas arreglo indicado tabla adjunta
 comprobado in situ trabajos realizados ajustan indicados informe adjunto solicitud ayuda basó decisión Comisión
 importe recuperable impuesto valor añadido incluido gastos declarados asciende
-
 Dña caracteres imprenta
 ANEXO VIII
 Tabla

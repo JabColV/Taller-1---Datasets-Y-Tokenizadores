@@ -2678,7 +2678,6 @@ Ejemplo renovación alojamiento pasajeros cubierta
 indicación títulos reglas presente Anexo referencia reglas Convenio versión revisada basan reglas establecidas presente Anexo
 CAPÍTULO II
 CONSTRUCCIÓN COMPARTIMENTADO ESTABILIDAD MAQUINARIA INSTALACIONES ELÉCTRICAS
-
 GENERALIDADES
 Definiciones relacionadas
 BUQUES CLASES BUQUES EXISTENTES CLASE
@@ -2725,7 +2724,6 @@ caldera instalación combustible líquido
 Sistema accionador motor equipo hidráulico provisto suministrar energía girar mecha timón comprende servomotores aparato gobierno correspondientes tuberías accesorios accionador timón
 sistemas tipo compartir componentes mecánicos comunes tales caña sector mecha timón componentes desempeñen función piezas
 Puestos control espacios hallan aparatos radiocomunicaciones principales aparatos navegación equipo electrogenerador emergencia centralizado equipo detector extintor incendios
-
 ESTABILIDAD AVERÍA COMPARTIMENTADO ESTABILIDAD AVERÍA
 Estabilidad avería Resolución
 BUQUES CLASES ESLORA SUPERIOR METROS
@@ -2862,15 +2860,10 @@ Estabilidad buques pasaje transbordo rodado avería
 BUQUES PASAJE TRANSBORDO RODADO EXISTENTES CLASE
 Valor Amax
 Fecha cumplimiento
-
 octubre
-
 octubre
-
 octubre
-
 octubre
-
 octubre
 Prescripciones especiales buques pasaje transbordo rodado transporten pasajeros
 BUQUES CLASES BUQUESDE PASAJE TRANSBORDO RODADO EXISTENTES CLASE
@@ -2880,10 +2873,7 @@ buque pasaje transbordo rodado existente autorizado transportar personas cumplir
 Valor Amax
 octubre
 Número personas permitido transportar
-
-
 octubre
-
 octubre
 octubre
 Edad buque años
@@ -3182,7 +3172,6 @@ Barandas
 BUQUES CLASES CONSTRUIDOS ENERO POSTERIORMENTE
 cubiertas exteriores esté permitido acceso pasaje amurada suficiente altura irán provistas barandas altura mínimo mm cubierta diseñadas construidas forma impidan pasajero subirse caer accidentalmente cubierta
 escaleras rellanos cubiertas exteriores irán provistas barandas construcción equivalente
-
 MÁQUINAS
 Generalidades
 máquinas calderas recipientes presión correspondientes sistemas tuberías accesorios responderán proyecto construcción adecuados servicio estén destinados irán instalados protegidos reduzca mínimo peligro personas bordo considerándose sentido proceda piezas móviles superficies calientes riesgos
@@ -3235,7 +3224,6 @@ tuberías aspiración sentinas punto conexión bombas independientes tuberías
 diámetro colectores achique principal secundarios calculará utilizando fórmulas dadas continuación
 obstante diámetro interior real dichos colectores redondearse tamaño normalizado Administración abanderamiento juzgue aceptable colector achique principal
 colectores achique secundarios depósitos puntos succión
-
 diámetro interno colector achique principal milímetros
 eslora manga buque metros
 longitud compartimiento
@@ -3368,7 +3356,6 @@ ascensores personas carga cumplirán respecta dimensiones diseño número pasaje
 planos instrucciones mantenimiento instalación incluidas disposiciones regulen inspecciones periódicas deberán aprobados Administración abanderamiento inspeccionará aprobará instalación
 aprobadas Administración abanderamiento expedirá certificado deberá conservarse bordo
 Administración abanderamiento permitir inspecciones periódicas efectuadas experto autorizado Administración organización reconocida
-
 INSTALACIONES ELÉCTRICAS
 Generalidades
 instalaciones eléctricas tales queden garantizados
@@ -3446,7 +3433,6 @@ baterías acumuladores irán adecuadamente alojadas compartimientos destinados p
 compartimientos permitida instalación equipos eléctricos índole puedan constituir fuente ignición vapores inflamables
 sistemas distribución estarán dispuestos incendio declarado zona vertical principal definen zonas regla II entorpezca servicios esenciales mantener seguridad zona principal
 considerará satisfecha prescripción cables alimentación principales emergencia atraviesen cualquiera zonas hallan separados vertical horizontalmente medida
-
 PRESCRIPCIONES COMPLEMENTARIAS RELATIVAS ESPACIOS MÁQUINAS DOTACIÓN PERMANENTE
 buques clases buques existentes clase considerados especial Administración abanderamiento posibilidad espacios máquinas dotación permanente caso afirmativo necesarias prescripciones adicionales estipuladas presentes reglas alcanzar nivel seguridad equivalente ofrecido espacios máquinas cuentan dotación permanente
 Generalidades
@@ -3657,7 +3643,6 @@ Diámetro presión colectores contraincendios
 diámetro colector tuberías contraincendios suficiente distribución eficaz caudal máximo agua prescrito bombas contraincendios funcionando simultáneamente
 bombas descarguen simultáneamente lanzas manguera especificadas punto suficientes bocas contraincendios suministrar caudal agua especificado punto mantendrán siguientes presiones bocas contraincendios
 Buques clase autorizados transportar
-
 Existentes
 pasajeros
 pasajeros máximo

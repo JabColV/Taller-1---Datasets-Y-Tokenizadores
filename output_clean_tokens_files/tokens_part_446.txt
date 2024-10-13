@@ -3355,9 +3355,7 @@ Máximo agua nm pH
 Solución naranja agua
 Pureza
 Materias insolubles agua
-
 Colorantes secundarios
-
 fenilazonaftalenol Sudan
 mg kg
 Compuestos orgánicos distintos colorantes
@@ -3367,7 +3365,6 @@ Compuestos orgánicos distintos colorantes
 ácido hidroxinaftalenodisulfónico
 ácido ′diazoaminodibencenosulfónico
 ácido ′oxidinaftalenosulfónico
-
 Aminas aromáticas primarias sulfonadas
 expresadas anilina
 Materias extraíbles éter
@@ -3395,11 +3392,9 @@ oC horas
 Pérdida ignición
 materia exenta sustancias volátiles °C
 Óxido aluminio dióxido silicio
-
 Materias solubles HCl
 materia exenta óxido aluminio sílice caso productos contengan óxido aluminio sílice producto comercializa
 Materias solubles agua
-
 Antimonio
 mg kg disolución
 mg kg disolución
@@ -4672,23 +4667,14 @@ Clase
 Clase
 cc
 cc
-
-
-
 Línea
-
 Línea
-
 cono
 Línea
 cono
 Línea
-
-
-
 Zona
 Zona
-
 Zona
 Leyenda
 significa línea HH
@@ -4700,9 +4686,7 @@ indicación contrario permitida tolerancia independientemente punto ensayo fotom
 Texto carácter general
 Homologación tipo CEPE flujo luminoso referencia conforme Reglamento flujo luminoso objetivo fuentes luz descarga gas conforme Reglamento
 Objetivo nominal fotometría
-
 Tolerancias permitidas fotometría
-
 LR
 caso faros clase luz distribuirá uniformemente zonas
 Disposiciones acerca carretera

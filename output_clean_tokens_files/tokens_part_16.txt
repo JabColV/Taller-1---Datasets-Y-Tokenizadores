@@ -684,7 +684,6 @@ Directiva CE Consejo septiembre relativa medidas comunitarias lucha fiebre aftos
 Directiva CE Parlamento Europeo Consejo noviembre vigilancia zoonosis agentes zoonóticos DO
 Directiva CE Consejo noviembre relativa condiciones policía sanitaria regulan movimientos équidos importaciones équidos procedentes terceros países DO
 ANEXO
-
 LEGISLACIÓN MATERIA SEGURIDAD ALIMENTARIA
 lista artículo apartado letra Directiva CEE añade texto
 croata
@@ -716,7 +715,6 @@ lengua finesa säteilytetty käsitelty ionisoivalla säteilyllä
 lengua sueca bestrålad behandlad med joniserande strålning
 lista artículo apartado texto relativo Francia inserta texto
 lengua croata upotrijebiti do
-
 LEGISLACIÓN VETERINARIA
 lista artículo apartado letra Directiva CEE añade texto
 Croacia Zupanija
@@ -1365,7 +1363,6 @@ apartado provisto sonda ultrasónica MHz Krautkrämer MB
 señal ultrasónica digitalizada almacenada procesada microprocesador tipo Intel
 UltraFOM traducirá resultados medición contenido estimado carne magra
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor grasa dorsal piel milímetros medido punto situado cm línea media canal cuarta vértebra lumbar
 espesor grasa dorsal piel milímetros medido punto situado cm línea media canal cuarta costilla contando costilla
@@ -1738,7 +1735,6 @@ DO
 DO
 DO
 ANEXO
-
 Importes máximos contribución Unión apoyar retiradas mercado contempladas artículo apartado
 Productos referencia artículo apartado
 Importe máximo EUR kg
@@ -1746,7 +1742,6 @@ Lechugas escarolas hoja rizada escarolas hoja lisa
 Pepinos
 Pimiento
 Calabacín
-
 Importes máximos ayuda adicional Unión retiradas mercado contempladas artículo apartado
 Tomate
 ANEXO II
@@ -2032,7 +2027,6 @@ Capacidad calefacción kW
 Producción calor consumo electricidad
 Eficiencia estacional año
 suministrar agua caliente sanitaria
-
 Calefacción auxiliar
 Tipo
 Refrigeración caso necesario
@@ -4249,7 +4243,6 @@ Partes contratantes prohibir frecuencia potencia permitir frecuencias potencias 
 luces utilicen avisadores ópticos estén incluidas sistema estándar alumbrado vehículo cumplir parámetros funcionamiento punto estarán sujetas ensayos punto
 arreglo definición anexo Reglamento CEPE versión modificada
 ANEXO
-
 FICHA CARACTERÍSTICAS
 conformidad apartados proceda Reglamento relativa homologación tipo CEPE sistemas tipo vehículo respecta dispositivos utilización autorizada
 sistema alarma
@@ -4266,7 +4259,6 @@ Direcciones plantas montaje
 CONSTITUCIÓN GENERAL VEHÍCULO
 Fotografías dibujos vehículo representativo
 Posición volante izquierda derecha Táchese proceda casos necesario tachar aplicable opción
-
 Dispositivos utilización autorizada vehículo
 Dispositivo protección
 Descripción detallada tipo vehículo disposición diseño mando unidad actúa dispositivo protección
@@ -4284,7 +4276,6 @@ descripción detallada tipo vehículo disposición SAV instalado ilustrada fotog
 caso sistemas alarma homologados
 Descripción detallada sistema alarma piezas vehículo relacionadas sistema alarma instalado
 Lista principales componentes constituyen sistema alarma
-
 conformidad apartado Reglamento relativa homologación tipo CEPE componentes unidades técnicas independientes sistema alarma
 identificación tipo marcado dispositivo
 Nombre dirección fabricante
@@ -4300,7 +4291,6 @@ Descripción método instalación ilustrado fotografías dibujos ambas cosas
 Instrucciones utilización
 Instrucciones mantenimiento haberlas
 Lista puntos presente Reglamento aplicación virtud condiciones instalación SAV cuyo tipo homologado unidad técnica independiente destinado instalado sitios concretos vehículos específicos
-
 conformidad apartado Reglamento relativa homologación tipo CEPE componentes unidades técnicas independientes sistema inmovilizador
 identificación tipo marcado dispositivo
 Sistemas vehículo actúa inmovilizador
@@ -4430,16 +4420,12 @@ apellidos nombre
 certifica sistema alarma vehículos inmovilizador
 Marca
 plenamente conforme tipo homologado
-
-
 lugar homologación
 fecha
 describe formulario comunicación homologación
 Identificación principales componentes
 Componente
 Marcado
-
-
 Dirección completa sello fabricante
 indíquese cargo
 Táchese proceda

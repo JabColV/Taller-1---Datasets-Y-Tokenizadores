@@ -413,7 +413,6 @@ Beneficios reinvertidos beneficios distribuidos
 Rentas procedentes deuda intereses
 Intereses BPM ajustados SIFMI
 Rentas atribuidas titular póliza seguro
-
 Partidas informativas rentas
 Rentas inversión intereses SNA ajustados SIFMI
 Valor SIFMI
@@ -865,7 +864,6 @@ Alemania especial beneficiarios argumentan evaluación adicional necesidad ayuda
 asume evidentemente evalúa necesidad ayuda
 Comisión aceptar argumento pasa claramente alto caso ayudas millón EUR criterio necesidad presupone cumplen criterios mencionado Reglamento
 Cuarto Alemania afirma Comisión aparta postura anteriores casos evaluó existencia efecto incentivador
-
 Comisión manifestado cambiado proceder enfoque económico preciso
 cambio produjo marco exhaustiva evaluación ayudas Ford Genk GM Antwerp advirtió enfoque
 Alemania argumenta práctica Comisión coherente incoación procedimiento formal investigación asunto Ford Genk casos concretamente BMW Österreich asunto Webasto asunto emitió decisión correspondiente evaluación base evaluación
@@ -1750,7 +1748,6 @@ resumen técnico informaciones transmitidas basado rúbricas
 resumen eventuales dificultades lagunas técnicas falta conocimientos encontrados promotor hora recoger informaciones requeridas
 descripción debería incluir efectos directos eventualmente efectos indirectos secundarios acumulativos corto plazo permanentes temporales positivos negativos proyecto
 ANEXO
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -1763,7 +1760,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 Únicamente artículo
-
 Lista plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -3620,7 +3616,6 @@ DO
 DO
 ANEXO
 NORMAS COMERCIALIZACIÓN REFERENCIA ARTÍCULO
-
 Norma comercialización general
 Requisitos mínimos calidad
 Sujetos tolerancias permitidas productos deberán
@@ -3644,7 +3639,6 @@ Marcado origen producto
 Nombre completo país origen
 caso productos originarios miembro dicha indicación aparecerá lengua país origen lengua comprensible consumidores país destino
 caso productos dicha indicación aparecerá lengua comprensible consumidores país destino
-
 Normas comercialización específicas
 NORMA COMERCIALIZACIÓN MANZANAS
 DEFINICIÓN PRODUCTO
@@ -3867,8 +3861,6 @@ diferencia diámetros limitada caso frutos mm
 apliquen códigos calibre deberán respetarse códigos intervalos figuran tablas siguientes
 Calibre
 Satsumas clementinas variedades híbridos mandarinas
-
-
 homogeneidad calibre corresponderá escalas calibre indicadas casos mencionan continuación
 caso frutos presenten granel cajas capacidad presenten envases venta peso neto máximo kg diferencia máxima deberá sobrepasar intervalo resulte agrupación calibres consecutivos escala calibre
 Tratándose cítricos calibrados número frutos diferencia calibre deberá coherente dispuesto letra
@@ -4458,17 +4450,10 @@ muestra global incluirá siguientes cantidades mínimas lote declarado insatisfa
 Productos envasados
 Número bultos consta lote
 Número bultos tomarse muestras elementales
-
-
-
-
 Productos granel
 carga directa vehículo transporte compartimento
 Cantidad lote kg número unidades lote
 Cantidad muestras elementales kg número unidades
-
-
-
 trate frutas hortalizas voluminosas kilogramos unidad muestras elementales compuestas mínimo unidades
 trate lotes compuestos bultos peso inferior kilogramos controlará totalidad lote
 término control inspector llega conclusión condiciones tomar decisión llevará cabo control físico resultado global expresará media controles

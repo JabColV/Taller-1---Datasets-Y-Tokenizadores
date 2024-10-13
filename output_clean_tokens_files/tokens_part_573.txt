@@ -1269,7 +1269,6 @@ quince meses entrada vigor normas técnicas regulación refiere artículo aparta
 quince meses entrada vigor normas técnicas regulación refiere artículo apartado párrafo in fine Reglamento UE adopte decisión arreglo artículo Reglamento reconocimiento ECC establecida tercer país fecha entidad considerar ECC ECCC
 Comisión adoptar acto ejecución artículo Reglamento UE prorrogue meses disposiciones transitorias apartados presente artículo circunstancias excepcionales resulte necesario proporcionado evitar perturbaciones mercados financieros internacionales
 concluyan plazos definidos apartados prórroga apartado proceda ECC posea fondo impagos celebrado acuerdos vinculantes miembros compensadores permitan utilizar totalidad margen inicial recibido dichos miembros fueran contribuciones prefinanciadas entidad sustituirá fórmula adecuada cálculo requisito fondos Ki previsto artículo apartado fórmula
-
 margen inicial aportado ECC miembro compensador
 IM cuantía margen inicial comunicado entidad ECC
 Artículo
@@ -3676,7 +3675,6 @@ procederá multiplicar posiciones netas ponderación cuarta columna cuadro corre
 continuación entidad procederá efectuar banda vencimientos suma posiciones largas ponderadas suma posiciones cortas ponderadas
 importe posiciones largas ponderadas contrapartida banda vencimientos posiciones cortas ponderadas constituirá posición ponderada compensada dicha banda posición larga corta residual posición ponderada compensada banda
 entidad procederá calcular posiciones ponderadas compensadas bandas
-
 Criterios generales aplicables OIC
 OIC utilizar métodos expuestos artículo cumplan condiciones siguientes
 folleto documento equivalente OIC figuren informaciones siguientes
@@ -3871,7 +3869,6 @@ DO
 DO
 DO
 EE exposición esperada frente contraparte momento revaluación define artículo punto suman exposiciones conjuntos operaciones compensables dicha contraparte vencimiento conjunto operaciones compensables viene vencimiento contractual conjunto
-
 exposiciones incluidas participaciones tipo tenencia asumidas entidad frente empresa matriz filiales empresa matriz filiales dichas empresas objeto supervisión base consolidada esté sometida entidad conformidad presente Reglamento Directiva CE normas equivalentes vigentes tercer país exposiciones cumplan criterios estén exentas artículo apartado presente Reglamento considerarán exposiciones frente terceros
 exposiciones derivadas contratos operaciones enumerados artículo apartado letras Reglamento UE calculará método amplio garantías reales naturaleza financiera especificado artículo Reglamento método supervisor ajuste volatilidad especificado artículos aplica excepción contemplada artículo apartado letra Reglamento
 ABE elaborará proyectos normas técnicas regulación den precisiones divulgación valor balance categoría exposición calidad activos importe valor balance libre cargas teniendo presente Recomendación JERS reserva ABE estime informe divulgación complementaria aporta información fiable útil
@@ -4698,9 +4695,7 @@ introducirse dosis residual máxima mg kg Cured tongue
 Productos cárnicos tradicionales curados seco
 dosis residual máxima mg kg alinearse Dry cured bacon
 páginas aplica página anexo punto modificaciones anexo III Directiva CE títulos columnas Cantidad máxima añadirse fabricación Dosis residual máxima
-
 expresada NaNO
-
 expresada NaNO
 página anexo punto modificaciones anexo III Directiva CE cuadro
 dosis residual máxima mg kg alinearse Dry cured bacon Dry cured ham

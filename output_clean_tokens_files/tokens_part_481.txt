@@ -576,9 +576,6 @@ siguientes tendencias cantidades precios basan datos Eurostat
 Cuadro
 Importaciones procedentes China
 Volumen importaciones procedentes país afectado toneladas
-
-
-
 Índice
 Cuota mercado importaciones país afectado
 Precio importaciones país afectado EUR tonelada
@@ -1823,7 +1820,6 @@ Ministro Energía Eléctrica
 Ministro Finanzas Ingresos
 Antiguo Ministro Finanzas Ingresos FN LN Yangón
 Esposa Hla Tun
-
 Thein Nyunt
 Gabinete Presidente
 Kyin Khaing Kyin Khine
@@ -2244,7 +2240,6 @@ Hermano Htay Myint FN Director Yuzana Co
 Hermano Htay Myint FN Director Yuzana Co
 Jf
 Zar Chi Htay
-
 Khin Htay Lin
 Shwe Thanlwin Trading Co anexo III IV distribuidores exclusivos neumáticos Thaton control Ministerio Industria
 Información identificativa indicación empresa
@@ -3561,7 +3556,6 @@ período utilización silenciador deberá garantizar permanencia lugar materiale
 materiales absorbentes fibra deberán resistir temperatura superior temperatura funcionamiento grados alcanzar lugar silenciador encuentren materiales absorbentes fibra
 conjunto tractor comprende remolque paso línea BB
 ANEXO VII
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -3579,7 +3573,6 @@ DO
 Directiva CE Comisión
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -4841,7 +4834,6 @@ Aparato bidireccional ondas métricas portátil embarcación supervivencia Reg
 OMI Res OMI MSC
 OMI MSC
 ETSI
-
 Aparato bidireccional ondas métricas fijo embarcación supervivencia Reg
 ETSI
 Estación terrena buque Inmarsat

@@ -1207,8 +1207,6 @@ activación sistema frenado servicio conductor deberá generar señal servirá i
 Requisitos aplicables vehículos provistos sistemas frenado resistencia
 caso vehículos emiten señales electrónicas controlar aplicación inicial frenos aplicará
 Umbrales desaceleración
-
-
 generar señal
 Deberá generar señal
 caso vehículos sistema frenado características indicadas punto funcionamiento sistema frenado resistencia generar señal independencia desaceleración producida
@@ -1466,7 +1464,6 @@ Batalla vehículo ensayado
 Diferencial accionamiento caso bogie
 Remolque homologado siguiendo procedimiento anexo
 caso afirmativo deberá rellenarse apéndice presente anexo
-
 Vehículo presentado homologación
 Servicio técnico encargado ensayos homologación
 Fecha acta levantada servicio
@@ -1510,7 +1507,6 @@ rendimiento prescrito sistemas frenado basado distancia frenado desaceleración 
 rendimiento sistema frenado deberá determinarse midiendo ensayo distancia frenado relación velocidad inicial vehículo desaceleración media estabilizada ambas cosas
 distancia frenado distancia recorrida vehículo momento conductor empiece accionar mando sistema frenado momento vehículo detenga velocidad inicial velocidad momento conductor comience accionar mando sistema frenado velocidad inicial deberá inferior velocidad prescrita ensayo cuestión
 desaceleración media estabilizada dm calculará media desaceleración relación distancia intervalo vb ve conforme fórmula
-
 velocidad inicial vehículo kmh
 velocidad vehículo vo kmh
 velocidad vehículo vo kmh
@@ -2077,7 +2073,6 @@ REQUISITOS APLICABLES REMOLQUES COMPLETOS REMOLQUES EJE CENTRAL
 Remolques completos dotados sistemas frenado aire comprimido
 remolques completos ejes aplicarán siguientes requisitos
 valores
-
 carga vehículo curva utilización adherencia eje trasero deberá situada eje delantero coeficientes frenado
 condición satisfecha coeficientes frenado curvas utilización adherencia correspondientes eje sitúan líneas paralelas línea utilización ideal adherencia dadas ecuaciones muestra diagrama presente anexo curva utilización adherencia correspondiente eje trasero ajusta coeficientes frenado relación
 verificar requisitos puntos conviene seguir procedimiento expuesto punto
@@ -2140,7 +2135,6 @@ kN
 kN
 puntos siguientes cifras paréntesis únicamente refieren vehículo utilizado ilustrar método empleo diagrama
 Cálculo razones
-
 carga
 carga
 carga
@@ -2629,7 +2623,6 @@ velocidad rotación inicial dinamómetro inercia deberá corresponder velocidad 
 forros freno deberán asentados rebasado °C temperatura procedimiento asentamiento solicita fabricante vehículo asentarse siguiendo recomendaciones
 utilizarse aire refrigeración debiendo circular corriente sentido perpendicular eje rotación freno
 velocidad aire refrigeración freno deberá
-
 velocidad ensayo vehículo inicio frenado
 aire refrigeración deberá temperatura ambiente
 PROCEDIMIENTO ENSAYO
@@ -3211,7 +3204,6 @@ trate vehículos motor bordo conductor persona sentada asiento delantero encarga
 tiempo respuesta tomarse consideración efectos ensayo correspondiente tiempo accionamiento tiempo respuesta extraerse gráfico interpolación
 vehículos motor autorizados arrastrar remolque deberá obturarse conducto alimentación acoplar conducto control depósito energía capacidad ensayo punto nivel vacío suministrado conducto control deberá caer equivalente mitad cifra obtenida frenar
 Ps Pso
-
 Velocidad máxima ensayo
 Superficie alta adherencia
 ruedas controladas directamente deberán bloquearse ejerza súbitamente dispositivo mando fuerza entiende fuerza fuerza máxima establecida anexo categoría vehículos trate utilizarse fuerza preciso activar sistema antibloqueo
@@ -3219,7 +3211,6 @@ ruedas controladas directamente deberán bloquearse dispositivo mando vehículo 
 relación disposición remolques ejes agrupados separados distancia inferior considerarán igualmente remolques eje
 deberán respetarse límites señalados apéndice presente anexo
 sT lT
-
 GB GBo
 velocidades superiores kmh ruedas controladas directamente sistema antibloqueo deberán bloquearse dispositivo mando vehículo tractor ejerza súbitamente fuerza entiende fuerza fuerza máxima establecida anexo categoría vehículos trate utilizarse fuerza preciso activar sistema antibloqueo
 descripción tipo vehículo respecta elementos mencionados punto deberán especificarse números símbolos identificativos tipo vehículo caso vehículos motor tipo motor
@@ -3876,7 +3867,6 @@ dispositivo iluminante apropiado placa posterior matrícula requiere iluminació
 ESPECIFICACIONES PARTICULARES
 LUCES CARRETERA
 NÚMERO
-
 DISPOSICIÓN
 especificación particular
 UBICACIÓN
@@ -3888,7 +3878,6 @@ cerca frontal tractor caso luz emitida deberá causar molestias conductor direct
 VISIBILIDAD GEOMÉTRICA
 visibilidad superficie iluminante incluida visibilidad zonas parezcan iluminadas dirección observación considerada deberá garantizarse espacio divergente delimitado generatrices apoyan perímetro superficie iluminante forman ángulo mínimo eje referencia faro
 ALINEACIÓN
-
 dispositivos necesarios mantener regulación correcta pares luces carretera constituido faros funcionen únicamente luz carretera moverse ángulo giro dirección torno eje vertical
 AGRUPADA
 luces cruce luces delanteras
@@ -3932,7 +3921,6 @@ Opcional
 requisitos punto aplicables luces cruce
 prohibidos faros haz cruce fuentes luminosas produzcan haz cruce principal define Reglamento tengan flujo luminoso objetivo exceda lúmenes
 LUCES ANTINIEBLA DELANTERAS
-
 mm suelo mínimo
 punto superficie iluminante hallará punto alto superficie iluminante luz cruce
 Definida ángulos especifica punto
@@ -3944,7 +3932,6 @@ luces carretera muevan ángulo giro dirección existan luces carretera
 luces posición laterales delanteras luz estacionamiento
 Deberá encender apagar luces antiniebla independientemente luces carretera luces cruce viceversa
 LUZ MARCHA ATRÁS
-
 UBICACIÓN
 mm mínimo mm máximo suelo
 abajo
@@ -4047,7 +4034,6 @@ tractores cuya anchura sobrepase mm ángulo reducirse forma carrocería impide a
 Ángulo vertical
 horizontal
 ángulo vertical horizontal reducirse luz mm suelo altura inferior mm
-
 luz delantera
 luz delantera
 intermitente
@@ -4622,7 +4608,6 @@ Compra venta firme
 Entrega venta vista prueba consignación mediación agente comisionado
 Trueque compensación especie
 Arrendamiento financiero alquilercompra
-
 Devolución sustitución gratuita mercancías registro transacción original
 Devolución mercancías
 Sustitución mercancías devueltas

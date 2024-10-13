@@ -1146,7 +1146,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -3689,7 +3688,6 @@ Fabricación valor materias partida utilizadas exceda precio franco fábrica pro
 Jugos extractos vegetales materias pécticas pectinatos pectatos agaragar mucílagos espesativos derivados vegetales modificados
 Mucílagos espesativos derivados vegetales modificados
 Fabricación mucílagos espesativos modificados
-
 Fabricación valor materias utilizadas exceda precio franco fábrica producto
 capítulo
 Materias trenzables productos origen vegetal expresados comprendidos
@@ -4017,7 +4015,6 @@ Fabricación valor materias partida producto utilizadas exceda precio franco fá
 Semimanufacturas manufacturas plástico pertenecientes partidas ex ex ex ex cuyas normas indican
 Productos planos trabajados distinto superficie cortados forma distinta cuadrada rectangular productos trabajados superficie
 Fabricación valor materias capítulo utilizadas exceda precio franco fábrica producto
-
 límite indicado valor materias capítulo utilizadas exceda precio franco fábrica producto
 ex ex
 Perfiles tubos
@@ -4492,7 +4489,6 @@ Diodos transistores dispositivos semiconductores similares exclusión discos cor
 Circuitos electrónicos integrados
 Circuitos integrados monolíticos
 multichips partes máquinas aparatos expresadas comprendidas capítulo
-
 Hilos cables incluidos coaxiales conductores aislados electricidad estén laqueados anodizados provistos piezas conexión cables fibras ópticas constituidos fibras enfundadas individualmente conductores eléctricos provistos piezas conexión
 Electrodos escobillas carbón carbón lámparas pilas artículos grafito carbonos metal usos eléctricos
 Aisladores eléctricos materia
@@ -4792,7 +4788,6 @@ DO
 DO
 DO
 ANEXO
-
 anexo Reglamento UE modifica
 modifica
 inserta entrada cuadro tabla correspondencias denominaciones científicas nombres comunes entrada correspondiente Mallotus villosus
@@ -4801,7 +4796,6 @@ Manta
 inserta entrada cuadro tabla comparativa nombres comunes denominaciones científicas entrada correspondiente locha blanca
 Manta
 Manta birostris
-
 entrada correspondiente bacalao Kattegat sustituye texto
 Especie
 Bacalao
@@ -4836,7 +4830,6 @@ Zone VI VII aguas UE internacionales zona Vb aguas internacionales zonas XII XIV
 entrada correspondiente solla europea zonas VIId VIIe sustituye texto
 Solla europea
 Zona VIId VIIe
-
 cuadro apéndice anexo IIA Reglamento UE columna relativa Reino Unido UK sustituye texto
 anexo IIC Reglamento UE punto sustituye texto
 buques faenen redes fijas malla superior mm cuyos registros capturas inferiores kg peso vivo lenguado año años anteriores cuaderno diario pesca quedarán exentos cumplimiento presente anexo
@@ -4882,7 +4875,6 @@ Zona Aguas UE aguas internacionales zonas Vb VI VII
 aplicable artículo presente Reglamento
 Lituania
 Polonia
-
 entrada correspondiente maruca aguas UE aguas internacionales zonas VI VII VIII IX XII XIV sustituye texto
 Maruca
 Zona Aguas UE aguas internacionales zonas VI VII VIII IX XII XIV

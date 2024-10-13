@@ -855,7 +855,6 @@ Pescado capturado silvestre
 Carne
 Leche
 Huevos
-
 muestras
 Bélgica
 Dinamarca
@@ -1152,7 +1151,6 @@ Hora límite pagos clientes pagos cuyo pagador beneficiario participante directo
 Hora límite pagos interbancarios pagos clientes
 Procesamiento cierre
 Hora límite general utilización facilidades permanentes
-
 datos actualización sistemas contables ponen disposición bancos centrales
 Inicio procesamiento hábil
 Provisión liquidez módulo pagos
@@ -1652,7 +1650,6 @@ Acetato triptorelina
 procede
 especies destinadas producción alimentos
 exige LMR
-
 Agentes activos aparato reproductor
 Reglamento Ejecución UE Comisión
 octubre
@@ -2228,7 +2225,6 @@ consecuencia rechazó alegación
 Basándose precios productores exportadores cooperaron márgenes subcotización precios expresados país forma porcentaje precios industria comunitaria siguientes
 País
 Subcotización precios
-
 atañe Rusia margen subcotización precios corresponde productor exportador relación constató margen dumping
 porcentaje refiere productor exportador cooperó
 Situación industria comunitaria
@@ -3101,12 +3097,10 @@ DO
 indicado preceptos constitucionales
 Corrección errores Reglamento CE Consejo diciembre relativo competencia ley aplicable reconocimiento ejecución resoluciones cooperación materia obligaciones alimentos
 página artículo apartados
-
 disposiciones presente Reglamento aplicarán procedimientos incoados transacciones judiciales aprobadas celebradas documentos públicos fuerza ejecutiva formalizados registrados tales posterioridad fecha aplicación perjuicio apartados
 secciones capítulo IV aplicarán
 resoluciones dictadas miembros fecha aplicación presente Reglamento soliciten dicha fecha reconocimiento declaración demuestre fuerza ejecutiva
 resoluciones dictadas fecha aplicación presente Reglamento procedimientos iniciados dicha fecha
-
 disposiciones presente Reglamento aplicarán procedimientos incoados transacciones judiciales aprobadas celebradas documentos públicos fuerza ejecutiva formalizados registrados tales fecha aplicación perjuicio apartados
 resoluciones dictadas miembros fecha aplicación presente Reglamento soliciten dicha fecha reconocimiento declaración demuestre fuerza ejecutiva
 resoluciones dictadas fecha aplicación presente Reglamento procedimientos iniciados dicha fecha
@@ -4678,7 +4672,6 @@ velocidades cargará alternador carga máxima
 calcular eficiencia distribución tiempo rpm respectivamente véase enfoque VDA presentado punto anexo orientaciones técnicas
 conduce fórmula
 ηΑ rpm ·IN
-
 ηΑ eficiencia alternador
 rpm ·IN eficiencia alternador velocidad rpm carga
 rpm ·IN eficiencia alternador velocidad rpm carga
@@ -4704,7 +4697,6 @@ par velocidad medirse torsiómetro
 alternador produce energía vencer carga conectada
 cantidad energía tensión alternador multiplicada intensidad corriente alternador
 eficiencia alternador quedará definida potencia eléctrica producción alternador dividida potencia mecánica producción torsiómetro
-
 ηΑ Eficiencia alternador
 Tensión
 Intensidad corriente
@@ -4802,7 +4794,6 @@ referencia ISO
 fórmula derivarse ley propagación errores explicada directrices técnicas punto
 solicitante presentado metodología completa comprobar reducción emisiones CO
 Incluye fórmulas ajustan descritas orientaciones técnicas enfoque simplificado alternadores eficientes
-
 Eficiencia alternador alta eficiencia
 Vehículos carretera Alternadores reguladores Requisitos generales métodos ensayo
 Fórmula ηΑ

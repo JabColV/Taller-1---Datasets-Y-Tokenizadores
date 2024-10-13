@@ -842,7 +842,6 @@ ANEXO
 Desglose miembro ayuda comunitaria desarrollo rural
 precios corrientes EUR
 Ayuda mínima incluida regiones subvencionables virtud objetivo convergencia
-
 Bélgica
 República Checa
 Dinamarca
@@ -1456,7 +1455,6 @@ Directiva modificada lugar Directiva CE DO
 Véase anexo
 DO
 ANEXO
-
 Directiva derogada modificaciones
 Directiva CEE Consejo
 DO
@@ -1464,7 +1462,6 @@ Directiva CEE Consejo
 DO
 Directiva CE Consejo
 DO
-
 Plazos transposición Derecho nacional
 contemplados artículo
 Directivas
@@ -2774,7 +2771,6 @@ refiere ayuda únicamente inversiones medioambientales punto Directrices
 caso afirmativo utilícese FIC ayudas inversión sector agrario
 Aspira ayuda medioambiental lograr objetivos tales servicios formación asesoría ayudar productores agrícolas punto IVK Directrices
 caso afirmativo utilícese FIC punto IVK Directrices
-
 Facilítese descripción completa medida medidas
 adjunta notificación documentación demuestre ayuda estatal encaja plan desarrollo rural pertinente coherente
 caso negativo tenerse presente documentación solicita conformidad punto Directrices agrarias
@@ -2924,7 +2920,6 @@ Cuantía máxima permisible
 concede ayuda instalación forma
 EUR
 especifíquese importe
-
 bonificación intereses
 valor capitalizado máximo EUR
 caso afirmativo descríbanse condiciones préstamo tipo interés duración período gracia etc
@@ -4328,7 +4323,6 @@ Toronjas pomelos Pamplemusa pomelo pomelit tangelo minneola ugli híbridos
 Limones Cidro limón mano Buda Citrus medica var sarcodactylis
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos tangor Citrus reticulata sinensis
-
 Frutos cáscara
 Almendras
 Nueces Brasil
@@ -4632,7 +4626,6 @@ revisar LMR Comisión información presenta tardar octubre presentarse plazo aus
 siguientes LMR aplicables setas silvestres secas mg kg boletus mg kg setas silvestres secas distintas boletus
 revaluación datos aparejada modificación LMR
 Silvestres Rebozuelo trufa múrgula boleto
-
 Grupos tipos productos individuales aplican contenidos máximos residuos
 Ciproconazol
 Pentiopirad

@@ -220,14 +220,12 @@ Concentración inferior deteriorar sabor moluscos
 Examen gustativo moluscos presuma presencia substancia índole
 Saxitoxina producida diloflagelados
 ANEXO II
-
 Directiva derogada modificación
 Directiva CEE Consejo
 DO
 Directiva CEE Consejo
 DO
 Únicamente punto Anexo
-
 Plazos transposición Derecho interno
 contemplados artículo
 Directiva
@@ -273,12 +271,10 @@ Anexo II
 Anexo III
 autoridad competente compruebe calidad aguas declaradas sensiblemente superior obtendría aplicación valores fijados arreglo artículo observaciones columnas Anexo frecuencia muestreos reducir
 hubiere contaminación tipo riesgo deterioro calidad aguas autoridad competente decidir necesarios muestreos
-
 Método dilución fermentación substratos líquidos tubos diluciones
 Resiembra tubos positivos confirmación
 Recuento NMP número probable
 saturación
-
 Reglamento CE Comisión
 octubre
 adapta Reglamento CE Parlamento Europeo Consejo relativo registro evaluación autorización restricción sustancias preparados químicos REACH anexos IV
@@ -1413,9 +1409,7 @@ símbolo negro proporcional tamaño tipo caracteres texto estándar triángulo m
 Corrección errores Decisión Ejecución UE Consejo mayo relativa concesión ayuda financiera Unión Portugal
 Diario Oficial Unión Europea junio
 título sumario título página
-
 Decisión Ejecución Consejo mayo relativa concesión ayuda financiera Unión Portugal
-
 Decisión Ejecución Consejo mayo relativa concesión ayuda financiera Unión Portugal
 página lugar fecha firma
 Bruselas mayo
@@ -2070,7 +2064,6 @@ Tabla Datos regionales
 variables indicadas continuación deberá facilitarse tabla tablas
 letra indica suministrarse obligatoriamente letra facultativo
 códigos transmisión correspondientes categorías variables cualitativas clases tamaño variables cuantitativas establece Eurostat documento aplicación
-
 Número asalariados
 Número asalariados
 Asalariados tiempo completo excluyendo aprendices
@@ -2237,7 +2230,6 @@ promedio anual jornada reducida conflictos laborales asalariado tiempo completo
 promedio anual trabajados asalariado tiempo completo ejemplo permisos especiales reconocimientos médicos nacimientos bodas funerales mudanzas permisos consecutivos accidentes etc
 anual horas trabajadas asalariados tiempo completo correcciones realmente trabajados equivale
 sustrae anual horas realmente trabajadas equivalente obtiene anual horas trabajo efectivas asalariados tiempo completo
-
 Horas trabajo efectivas anuales asalariados tiempo completo aprendices
 utilizarse modelos similares calcular horas trabajadas asalariados tiempo parcial aprendices
 Horas trabajo pagadas anuales asalariados tiempo completo
@@ -2451,7 +2443,6 @@ Eurostat facilitará documentación detallada relación normas aprobadas proporc
 registro individual indicador confidencialidad Eurostat adopta medidas apropiadas proteger confidencialidad datos presentados tablas
 subconjunto variables indicadas anexo necesaria tabla variables señaladas anexo
 Identificación registro
-
 pagos especie
 Reglamento UE Comisión
 septiembre
@@ -4307,7 +4298,6 @@ presente Decisión publicará Diario Oficial Unión Europea
 Bruselas noviembre
 Consejo
 Presidente
-
 Comunidad Europea República San Marino relativo establecimiento medidas equivalentes previstas Directiva CE Consejo materia fiscalidad rendimientos ahorro forma pago intereses
 COMUNIDAD EUROPEA denominada sucesivo Comunidad
 REPÚBLICA SAN MARINO denominada sucesivo San Marino
@@ -4883,7 +4873,6 @@ Región destino
 Lugar origen
 Explotación
 Centro concentración
-
 Número autorización
 Lugar destino
 Establecimiento
@@ -4924,10 +4913,8 @@ Número referencia local
 abajo firmante certifica équidos designados reúnen siguientes requisitos
 examinados presentan signo clínico enfermedad
 eliminados marco programa erradicación enfermedad contagiosa aplicado miembro
-
 proceden territorio territorio miembro sujeto medidas restrictivas motivos peste equina
 proceden territorio territorio miembro sujeto medidas restrictivas motivos peste equina permanecido envío lugar cuarentena protegido vectores sometidos prueba detección anticuerpos virus peste equina describe anexo IV Directiva CE realizada simultáneamente muestras sangre tomadas ocasiones intervalo comprendido indicar fecha anteriores envío indicar fecha
-
 resultado negativo caso vacunados peste equina
 aumento anticuerpos vacunados peste equina
 vacunados peste equina
@@ -4945,7 +4932,6 @@ II Certificación
 siguientes caso carbunco bacteridiano
 momento inspección condiciones viaje previsto arreglo dispuesto Reglamento CE
 Notas
-
 Casilla corresponde número permiso CITES caso équidos incluidos Convenio Washington especies amenazadas productos derivados
 Casilla Matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos
 Casilla utilizar código apropiado Sistema Armonizado SA Organización Mundial Aduanas
@@ -4989,7 +4975,6 @@ Método sueros dilución
 dilución suero problema solución salina bloqueo dispensar duplicado pocillos columna μl suero μl solución salina bloqueo
 Método titulación suero
 Preparar serie diluciones dobles muestra problema solución salina bloqueo pocillos columna
-
 Añadir μl antisuero cobaya previamente diluido solución salina bloqueo pocillos placa blanco operación pocillos contienen volumen μl
 Incubar hora °C agitador orbital
 Lavar placas secar papel

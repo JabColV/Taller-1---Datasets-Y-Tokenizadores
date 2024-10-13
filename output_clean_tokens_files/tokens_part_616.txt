@@ -170,7 +170,6 @@ organización OET adoptará documento evaluación europeo definitivo enviará co
 organización OET encargará documento evaluación europeo esté disponible medios electrónicos producto marcado CE
 ANEXO III
 DECLARACIÓN PRESTACIONES
-
 Código identificación única producto tipo
 Tipo lote número serie elemento permita identificación producto construcción establece artículo apartado
 usos previstos producto construcción arreglo especificación técnica armonizada aplicable establece fabricante
@@ -410,8 +409,6 @@ Caballa especie Scomber scombrus
 Caballa especie Scomber japonicus
 Anchoa Engraulis spp
 Solla Pleuronectes platessa
-
-
 Merluza especie Merluccius merluccius
 Gallo Lepidorhombus spp
 Limanda Limanda limanda
@@ -453,7 +450,6 @@ Precio producción Unión
 Rabil Thunnus albacares
 peso superior kg unidad
 Eviscerado branquias
-
 peso inferior kg unidad
 Albacora atún blanco Thunnus alalunga
 Listado Katsuwonus pelamis
@@ -872,7 +868,6 @@ proporcionan valores límite exposición densidad corriente campos variables tie
 Hz Mhz proporcionan valores límite exposición densidad corriente prevenir efectos funciones sistema nervioso central
 kHz GHz proporcionan valores límite exposición SAR prevenir fatiga calorífica cuerpo entero calentamiento local excesivo tejidos
 Gama frecuencias
-
 MHz GHz
 GHz
 Notas
@@ -930,11 +925,7 @@ SAR localizado extremidades kg Densidad potencia Hz
 Hz
 Hz
 Hz
-
-
 Hz
-
-
 medidas adoptadas empresario cumplir dispuesto presente Directiva superasen valores límite exposición empresario actuará inmediatamente situar exposición dichos valores límite determinará causas superado valores límite modificará consecuencia medidas protección prevención impedir vuelvan superar
 DO Directiva cuya modificación constituye Reglamento CE Parlamento Europeo Consejo DO
 tasa absorción específica energía SAR cuyo promedio calcula totalidad cuerpo partes define energía absorbida unidad masa tejido corporal expresa vatios kilogramo kg
@@ -2096,12 +2087,10 @@ Belarús Kirguistán Turquía
 Azerbaiyán Moldova Ucrania
 Columbia Británica
 Rusia
-
 Ecuador Perú
 Armenia Bahréin Iraq Mauritania Tayikistán
 Especímenes especies incluidas anexo Reglamento CE cuya introducción Comunidad queda suspendida
 Kazajstán Rusia
-
 especímenes censo registrado Argentina Secretaría confirme licencias miembro importador acepte
 productos obtenidos esquileo animales vivos conforme programa gestión aprobado debidamente marcados registrados
 exportaciones comerciales cantidades limitadas kg anuales lana pruebas industriales
@@ -2164,7 +2153,6 @@ Fiyi
 Filipinas
 Granja cría engorde
 Angola República Democrática Congo Costa Marfil Guinea Kenia Malí Togo
-
 Camerún Costa Marfil Congo Guinea
 Botsuana República Democrática Congo Costa Marfil Gambia Guinea Malí Namibia Nigeria Senegal Sudáfrica Suazilandia Togo Uganda
 Bangladesh Camboya
@@ -3222,9 +3210,7 @@ CIPAC
 EodimetilfenoximetilometoximinoNmetilfenilacetamida
 octubre
 septiembre
-
 autorizarán usos fungicida
-
 evaluación solicitudes autorización productos fitosanitarios contengan dimoxistrobina invernaderos miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión dimoxistrobina apéndices II aprobado Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros
@@ -4190,7 +4176,6 @@ significa garantizado QcStatements adecuadas QcCompliance QcSSCD OID QCP definid
 and IF Sie Qualifications Extension information is present then in addition to the above default usage interpretation rule those certificates that are identified through the use of this Sie Qualifications Extension information which is constructed on the principle of sequence of filters further identifying set of certificates must be considered according to the associated qualifiers providing some additional information regarding the qualified status the SSCD support and or Legal person as subject eg those certificates containing specific OID in the Certificate Policy extension and or having specific Key usage pattern and or filtered through the use of specific value to appear in one specific certificate field or extension etc
 Those qualifiers are part of the following set of Qualifiers used to compensate for the lack of information in the corresponding QC content and that are used respectively
 to indicate the qualified status QCStatement meaning the identified certificates isare qualified
-
 indicar naturaleza respaldo SSCD
 QCWithSSCD qualifier value meaning QC supported by an SSCD or
 QCNoSSCD qualifier value meaning QC not supported by an SSCD or
@@ -4622,9 +4607,7 @@ REPÚBLICA FINLANDIA
 REINO SUECIA
 REINO UNIDO BRETAÑA IRLANDA NORTE
 Partes contratantes Tratado constitutivo Comunidad Europea Tratado constitutivo Comunidad Europea Energía Atómica Tratado Unión Europea sucesivo denominados miembros
-
 REPÚBLICA SERBIA denominada sucesivo Serbia
-
 denominadas conjuntamente Partes
 CONSIDERANDO estrechos vínculos existentes Partes valores ambas comparten deseo reforzar vínculos establecer relaciones firmes duraderas basadas reciprocidad interés mutuo permitan Serbia ulterior consolidación ampliación relaciones Comunidad miembros
 CONSIDERANDO importancia presente contexto Proceso Estabilización Asociación países Sudeste Europa instaurar consolidar orden europeo estable basado cooperación Unión Europea constituye pilar principal marco Pacto Estabilidad

@@ -150,7 +150,6 @@ Especifíquese
 garantía cobertura pública inversores capital riesgo fondos capital especulación pérdidas inversión subyacentes potenciales superiores cantidad nominal inversión garantizada garantías dadas refiere préstamos inversores fondos inversión capital riesgo
 instrumentos financieros favor inversores capital riesgo fondos capital especulación proporcionar capital adicional inversión
 incentivos fiscales fondos inversión administradores inversores inversión capital riesgo
-
 volumen presupuesto medida caso fondo volumen fondo
 medida cofinanciada fondos públicos
 duración medida caso fondo plazo fondo comprometerse inversión tiempo fondo cabo inversiones
@@ -1324,8 +1323,6 @@ Código producto
 Trigo morcajo tranquillón
 trigo duro
 siembra
-
-
 escandas trigo blando morcajo tranquillón
 Trigo blando morcajo tranquillón siembra
 Centeno
@@ -1421,11 +1418,9 @@ Perlados
 contenido cenizas referido sustancia seca inferior peso talco
 categoría arreglo definición anexo Reglamento CE
 categoría arreglo definición anexo Reglamento CE
-
 trigo grano troceado triturado respondan consignada anexo Reglamento CE Comisión
 partidos
 Germen cereales entero aplastado copos molido
-
 Malta cebada cereales tostada
 tostar
 Harina
@@ -1446,7 +1441,6 @@ Gluten trigo seco contenido proteínas extracto seco superior peso
 azúcares incluidas lactosa maltosa glucosa fructosa levulosa químicamente puras sólido jarabe azúcar adición aromatizante colorante sucedáneos miel mezclados miel natural azúcar melaza caramelizados
 Glucosa jarabe glucosa fructosa contenido fructosa producto seco inferior peso
 polvo cristalino blanco aglomerado
-
 Glucosa jarabe glucosa contenido fructosa producto seco superior inferior peso azúcar invertido
 incluido azúcar invertido azúcares jarabes azúcar contenido fructosa producto seco peso
 Maltodextrina jarabe maltodextrina
@@ -1518,9 +1512,7 @@ preparaciones conservas carne despojos sangre
 especie bovina
 Corned beef envases herméticamente cerrados contenga carne animales especie bovina
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos cumplan condiciones establecidas Reglamento CE
-
 envases herméticamente cerrados
 contengan carne animales especie bovina
 Animales vivos especie porcina
@@ -1553,10 +1545,8 @@ Pancetas trozos corteza
 contenido global peso cartílagos inferior
 Prosciutto di Parma Prosciutto di San Daniele trozos
 Embutidos productos similares carne despojos sangre preparaciones alimenticias base productos
-
 Embutidos secos untar cocer
 contengan carne despojos aves corral
-
 especie porcina
 especie porcina doméstica
 Cocida contenido carne grasa superior peso
@@ -1566,7 +1556,6 @@ Paletas trozos paleta
 envases inmediatos contenido neto superior kg
 incluidas mezclas
 contenido carne despojos clase superior peso incluidos tocino grasa naturaleza origen
-
 contengan carne despojos aves corral
 contengan producto compuesto trozos claramente reconocibles carne muscular cuyo tamaño permita determinar obtenidos piernas paletas chuleteros espinazos pequeñas partículas grasa visible pequeñas cantidades depósitos gelatina
 Gallos gallinas patos gansos pavos gallipavos pintadas especies domésticas vivos
@@ -1636,7 +1625,6 @@ Superior
 Leche nata crema concentradas adición azúcar edulcorante ex polvo gránulos formas sólidas contenido materias grasas inferior peso
 adición azúcar edulcorante
 envases inmediatos contenido neto inferior kg
-
 polvo gránulos formas sólidas contenido materias grasas superior peso
 contenido materias grasas inferior peso
 envases inmediatos contenido neto inferior kg
@@ -3295,7 +3283,6 @@ explicación razón valorarse fiabilidad valor razonable
 información requerida párrafo entidad aplique modelo coste siguiendo párrafo revelará
 explicación razón valorarse fiabilidad valor razonable
 entidad habiendo aplicado anteriormente NIC decida clasificar contabilizar inversiones inmobiliarias derechos inmuebles mantenidos régimen arrendamiento operativo reconocerá efecto elección ajuste saldo inicial reservas ganancias acumuladas ejercicio elección
-
 entidad revelado públicamente financieros vía valor razonable derechos inmuebles ejercicios anteriores valorado base acorde definición valor razonable NIIF recomienda obliga
 párrafo modifica
 permite entidad aplique modificaciones inversiones inmobiliarias construcción fecha enero valores razonables dichas inversiones inmobiliarias construcción fueran valorados fechas
@@ -3388,7 +3375,6 @@ Interpretación aborda siguientes problemas
 reconocimiento costes desmonte fase producción activo
 valoración inicial activo derivado actividad desmonte
 valoración posterior activo derivado actividad desmonte
-
 Reconocimiento costes desmonte fase producción activo
 medida beneficio derivado actividad desmonte consiga forma existencias producidas entidad contabilizar costes dicha actividad desmonte arreglo principios NIC Existencias
 medida beneficio acceso minerales entidad reconocer dichos costes activo corriente cumplan criterios establecidos párrafo

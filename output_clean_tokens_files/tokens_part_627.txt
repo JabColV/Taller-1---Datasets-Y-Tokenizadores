@@ -1658,7 +1658,6 @@ OBJETIVOS
 código NUTS
 DETALLES ADICIONALES NOMBRE AGRUPACIÓN procede
 Nombre indíquese versión lingüística adecuada
-
 Nombre completo procede
 Nombre abreviado procede
 sección III utilizarse necesario
@@ -1701,15 +1700,12 @@ agentes Derecho privado público convertirse miembros AECT
 consiguiente contemplarse empresas públicas definición Directiva CE Parlamento Europeo Consejo empresas encomienda prestación servicios interés económico general ámbitos educación formación asistencia médica necesidades sociales relación asistencia sanitaria asistencia larga duración guarderías acceso mercado laboral reinserción viviendas sociales protección inclusión social grupos vulnerables
 establecerse motivos aprobación miembros participación futuros miembros convenio
 obstante decidir dicha aprobación tenerse Derecho nacional exija normas procedimientos distintos previstos Reglamento CE
-
 Correo electrónico
 requisitos publicación convenio estatutos cuentas AECT cuyos miembros tengan responsabilidad limitada deberán iguales exigidos entidades jurídicas responsabilidad limitada virtud legislación miembro AECT domicilio social
 caso AECT cuyos miembros tengan responsabilidad limitada miembro interesado exigir AECT suscriba póliza seguro adecuada esté avalada garantía prestada banco entidad financiera establecida miembro esté cubierta línea crédito ofrezca garantía organismo público miembro cubrir riesgos inherentes actividad AECT
 Corrección errores Decisión CE Consejo febrero relativa ensayos Sistema Información Schengen generación SIS II
 Diario Oficial Unión Europea marzo
 cubierta página
-
-
 JAI
 presente Decisión considerarse publicada rúbrica III título VI
 Reglamento Ejecución UE Comisión
@@ -2940,7 +2936,6 @@ Sistema neerlandés evaluación macrófitos KRW Maatlat
 Sistema británico evaluación macrófitos LEAFPACS
 Precipitación media anual mm oC
 Embalse profundo silíceo clima húmedo cuenca km
-
 Embalse profundo calcáreo cuenca km
 Tipo LM
 Grecia Francia Portugal España Rumanía
@@ -3052,7 +3047,6 @@ Mesomareales
 Media
 Expuestas protegidas
 Totalmente mezclados
-
 Mares cerrados semicerrados expuestos protegidos euhalinos profundos
 Mares cerrados semicerrados expuestos protegidos estratificación parcial
 Micromareal Mesomareal
@@ -3060,7 +3054,6 @@ Estratificación parcial
 semanas
 Costa escandinava expuestas protegidas profundas
 Micromareales
-
 Expuestas moderadamente expuestas
 Áreas afloramiento expuestas protegidas euhalinas profundas
 Polihalinas expuestas moderadamente expuestas tipo Mar Wadden
@@ -4737,7 +4730,6 @@ casos fuerza circunstancias excepcionales previstos artículo apartado Reglament
 Artículo
 Derogación referencias
 Quedan derogados Reglamentos CE CE CE CE
-
 disposiciones pertinentes establecidas Reglamentos CE CE seguirán aplicando hayan iniciado adoptado medidas admisibles amparo Reglamento CE agosto
 cuadro anexo Reglamento CE seguirá aplicando disposición contrario reglamento aplicación etiquetado presentación vinos adopte base artículo Reglamento CE
 anexo Reglamento CE seguirá vigente julio
@@ -4959,7 +4951,6 @@ Número botellas
 CERTIFICADO
 producto anteriormente designado destinado consumo humano directo responde definiciones categorías comunitarias productos vitivinícolas elaborado arreglo prácticas enológicas recomendadas publicadas OIV autorizadas Comunidad
 Nombre dirección completos organismo oficial
-
 Firma nombre cargo agente
 Sello
 INFORME ANÁLISIS indican características analíticas producto anteriormente designado

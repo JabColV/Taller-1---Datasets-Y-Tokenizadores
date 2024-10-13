@@ -436,7 +436,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicaciones contempladas artículo
 danés Blød hvede fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -644,7 +643,6 @@ DO
 DO
 ANEXO
 ANEXO
-
 Zona contemplada artículo apartado
 Código país ISO
 miembro
@@ -656,7 +654,6 @@ Francia
 municipios
 Zona protección
 Zona vigilancia
-
 Zona contemplada artículo apartado
 Zona
 SAINTSYMPHORIENDANCELLES
@@ -691,7 +688,6 @@ DO
 Decisión modificada lugar Decisión CE DO
 ANEXO
 ANEXO
-
 Zonas Alemania Francia contempladas artículos
 Alemania
 RenaniaPalatinado
@@ -1772,9 +1768,7 @@ Secretaría General Consejo encargará publicar Diario Oficial Unión Europea fe
 Protocolo
 Euromediterráneo crea asociación Comunidades Europeas miembros Reino Hachemita Jordania relativo marco Unión Europea Reino Hachemita Jordania principios generales participación Reino Hachemita Jordania programas Unión
 UNIÓN EUROPEA denominada sucesivo Unión
-
 REINO HACHEMITA JORDANIA denominado sucesivo Jordania
-
 denominadas sucesivo Partes
 CONSIDERANDO
 Reino Hachemita Jordania celebró Euromediterráneo crea asociación Comunidades Europeas miembros Reino Hachemita Jordania sucesivo entró vigor mayo
@@ -2166,7 +2160,6 @@ DO
 Véase anexo
 DO
 ANEXO
-
 Directivas derogadas lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -2186,7 +2179,6 @@ DO
 Directiva CE Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -2812,7 +2804,6 @@ Deducciones efectuadas
 Repercusión financiera presente decisión
 Ejercicio financiero
 Auditoría financiera
-
 Correcciones alzado Incumplimiento criterio aprobación previsto Reglamento CE
 alzado Incumplimiento criterio aprobación previsto Reglamento CE
 Restituciones exportación
@@ -3466,10 +3457,6 @@ márgenes subcotización precios reflejan presión ejercida importaciones proced
 márgenes subcotización país afectado siguientes
 Países
 Margen subcotización
-
-
-
-
 Situación económica industria Comunidad
 Producción capacidad utilización capacidad
 Producción kg
@@ -4350,9 +4337,7 @@ impureza
 cloroclorometoxipirimidinilhidrazinometoxipirimidina exceder kg material técnico
 agosto
 julio
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión relativo penoxsulam particular apéndices II aprobado Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención
 protección organismos acuáticos

@@ -552,9 +552,7 @@ CAS
 CICAP asignado
 septiembre
 agosto
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión ácido acético SANCO particular apéndices II adoptado Comité Permanente Cadena Alimentaria Sanidad Animal
 caso condiciones deberán incluir medidas reducción riesgo
 Sulfato aluminio amonio
@@ -847,7 +845,6 @@ CAS
 aplicación principios uniformes anexo VI conclusiones informe revisión hidrocloruro trimetilamina SANCO particular apéndices II adoptado Comité Permanente Cadena Alimentaria Sanidad Animal
 CAS
 CICAP
-
 autorizar usos atrayente fungicida
 aplicación principios uniformes anexo VI conclusiones informe revisión urea SANCO particular apéndices II adoptado Comité Permanente Cadena Alimentaria Sanidad Animal
 Acetato Zhexadeceninilo
@@ -1343,7 +1340,6 @@ Producción energía primaria
 UE
 UE UE
 Biomasa procedente silvicultura
-
 Suministro directo biomasa madera procedente bosques superficies forestales generación energía
 Optativo información disponible detallarse cantidad materias primas pertenezcan categoría
 productos talas
@@ -1430,7 +1426,6 @@ capacidad
 apoyo previsto
 tecnologías
 preferencia materia apoyo determinadas tecnologías
-
 Cuadro
 Previsión producción excedentaria deficitaria energía procedente fuentes renovables trayectoria indicativa transferirse destino origen miembros miembro
 Excedente previsto documento previsiones
@@ -3007,7 +3002,6 @@ resultados consultas celebradas arreglo presente anexo deberán tenidos debidame
 modalidades información público ejemplo colocación carteles radio determinado publicación avisos prensa local consulta público interesado ejemplo envío notificaciones escritas encuesta pública determinarán miembros
 establecerán plazos razonables distintas fases concedan tiempo suficiente informar público público interesado prepare participe efectivamente proceso toma decisiones ambiente arreglo dispuesto presente anexo
 ANEXO VI
-
 Directiva derogada modificaciones sucesivas contempladas artículo
 Directiva CE Consejo
 DO
@@ -3023,7 +3017,6 @@ DO
 Reglamento CE Parlamento Europeo Consejo
 DO
 Únicamente artículo apartado
-
 Plazos transposición Derecho nacional contemplados artículo
 Directiva
 Plazo transposición
@@ -3304,9 +3297,7 @@ importes fijados presente anexo aplicables febrero conformidad Decisión CE Cons
 importe base aplicable producto define anexo punto Reglamento CEE Comisión DO
 Corrección errores Reglamento UE Consejo junio modifica Reglamento CE relativo valores nominales especificaciones técnicas monedas euros destinadas circulación
 Diario Oficial Unión Europea junio
-
 miembros emisores actualizarán caras nacionales monedas normales pleno cumplimiento dispuesto presente Reglamento tardar julio
-
 artículos quater quinquies sexies artículo nonies apartado
 aplicarán monedas destinadas circulación emitidas fabricadas junio
 artículos quater quinquies sexies artículo nonies apartado
@@ -3347,7 +3338,6 @@ efectos apartados entenderá precio franco fábrica precio adquiere producto emp
 miembros garantizarán precio notificado representativo situación mercado momento
 precio notificado basará fuente información disponible adecuada especialmente
 ventas facturadas período referencia
-
 contratos celebrados período referencia entregas meses
 artículo apartado letras sustituyen texto
 cantidades desglosadas código nomenclatura productos lácteos restituciones exportación código destino fecha presentación solicitud hayan anulado solicitudes certificado amparo artículo apartado párrafo Reglamento CE

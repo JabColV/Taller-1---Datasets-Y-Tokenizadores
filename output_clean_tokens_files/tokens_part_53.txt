@@ -600,7 +600,6 @@ Temperatura nominal IEE °C
 diseño
 número
 Tipos compartimento
-
 Conservación vinos
 Bodega
 Conservación alimentos frescos
@@ -652,7 +651,6 @@ Compartimento sección estrellas
 CÁLCULO VOLUMEN EQUIVALENTE
 volumen equivalente aparato refrigeración doméstico suma volúmenes equivalentes compartimentos
 calcula litros redondea número entero fórmula
-
 número compartimentos
 Vc volumen útil compartimento compartimentos
 Tc temperatura nominal compartimento compartimentos indicada cuadro
@@ -2126,7 +2124,6 @@ Esposa General Brigada San Tun
 General Brigada Hla Myint
 Noreste
 Esposa General Brigada Hla Myint
-
 General Brigada Myo Hla
 Sureste
 Esposa General Brigada Myo Hla
@@ -2620,7 +2617,6 @@ Je
 Hijo Khin Maung Thein nacido
 Jf
 Hija Khin Maung Thein nacida
-
 Hija Khin Maung Thein nacida
 Jh
 Director Gerente Kambawza Bank
@@ -3473,7 +3469,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -3525,7 +3520,6 @@ Declaración transporte animales
 veterinario oficial abajo firmante certifica animales descritos tratados carga conformidad disposiciones pertinentes Reglamento CE Consejo particular respecta suministro agua comida condiciones transporte previsto
 Notas
 certificado destinado tránsito Unión Europea ganado bovino doméstico incluidas especies géneros Bubalus Bison cruces destinado cría producción procedente región Kaliningrado destino partes Rusia
-
 Casilla indicar código territorio figura anexo Reglamento UE Comisión
 Casilla centro concentración animales caso animales hayan permanecido deberá cumplir condiciones establecidas autorización figuran anexo Reglamento UE Comisión
 Casilla indicar número registro vehículo carretera

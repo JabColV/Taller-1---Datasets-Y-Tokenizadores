@@ -645,7 +645,6 @@ Vicepresidente
 DO
 DO
 ANEXO
-
 Métodos control autorizados
 normas desarrollo adopten arreglo artículo apartado Reglamento CE permitir siguientes métodos control separado conjunción primario secundario condiciones definidas
 control personas
@@ -668,7 +667,6 @@ control equipaje bodega carga correo correo materiales compañía aérea deban c
 equipo detección trazas explosivos ETD
 cámara simulación
 evaluar métodos control utilicen tecnologías previstas momento adopte presente Reglamento normas desarrollo adopten virtud artículo apartado Reglamento CE permitir empleo métodos prueba período limitado condición tales pruebas vayan detrimento niveles generales seguridad
-
 Categorías artículos prohibirse
 normas desarrollo adopten virtud artículo apartado Reglamento CE prohibir condiciones definidas introducción siguientes categorías artículos zonas restringidas seguridad bordo aeronaves
 armas fuego dispositivos descarguen proyectiles dispositivos puedan utilizarse parezca utilizarse causar heridas graves descarga proyectil
@@ -677,7 +675,6 @@ objetos punta afilada borde cortante objetos punta aguda borde cortante puedan u
 herramientas trabajo herramientas puedan utilizarse causar heridas graves amenazar seguridad aeronave
 instrumentos romos objetos puedan utilizarse causar heridas graves utilicen golpear
 sustancias dispositivos explosivos incendiarios sustancias dispositivos explosivos incendiarios puedan utilizarse parezca utilizarse causar heridas graves amenazar seguridad aeronave
-
 Control acceso criterios conceder acceso zonas operaciones zonas restringidas seguridad
 conceder acceso zonas operaciones zonas restringidas seguridad aplicarán siguientes criterios
 acceso zonas operaciones concederse personas vehículos trate motivo legítimo encontrarse
@@ -686,11 +683,9 @@ concederse acceso zonas operaciones vehículos ostenten autorización
 acceso zonas restringidas seguridad concederse personas vehículos trate motivo legítimo encontrarse
 concederse acceso zonas restringidas seguridad personas porten acreditación
 concederse acceso zonas restringidas seguridad vehículos ostenten autorización
-
 Métodos autorizados inspección vehículos comprobaciones seguridad aeronaves registros seguridad aeronaves
 normas desarrollo adopten arreglo artículo apartado Reglamento CE permitir siguientes métodos inspección vehículos controles seguridad aeronaves registros seguridad aeronaves separado conjunción primario secundario condiciones definidas
 evaluar métodos inspección utilicen tecnologías previstas momento adopte presente Reglamento normas desarrollo adopten virtud artículo apartado Reglamento CE permitir empleo métodos título ensayo período limitado condición tales ensayos vayan detrimento niveles generales seguridad
-
 Criterios reconocimiento equivalencia normas seguridad terceros países
 Comisión reconocerá equivalencia normas seguridad terceros países arreglo siguientes criterios
 tercer país historial cooperación Comunidad miembros
@@ -700,7 +695,6 @@ refiere pasajeros equipaje mano aplican medidas seguridad equivalentes estableci
 refiere equipaje bodega aplican medidas seguridad equivalentes establecidas secciones anexo Reglamento CE legislación desarrolla
 refiere carga correo aplican medidas seguridad equivalentes establecidas secciones anexo Reglamento CE legislación desarrolla
 refiere seguridad aeronave aplican medidas seguridad equivalentes establecidas secciones puntos anexo Reglamento CE legislación desarrolla
-
 Carga correo
 Carga correo Condiciones efectuar controles detección artículos prohibidos tipo control seguridad
 carga correo deba embarcarse aeronave sometidos control
@@ -717,11 +711,9 @@ aprobados expedidores conocidos solicitantes aportarán información normas segu
 alternativa aprobación autoridad competente permitir expedidor conocido designado agente acreditado fecha establecida normas desarrollo adoptarse virtud artículo apartado Reglamento CE
 expedidores clientes designados agente acreditado
 designar expedidor cliente agente acreditado asegurará aporta información normas seguridad aviación civil llevará cabo validación
-
 Correo material compañía aérea Condiciones efectuar controles detección artículos prohibidos tipo control seguridad
 correo material compañías aéreas deba cargarse bodega aeronave controlado equipaje bodega sujeto controles seguridad carga correo
 correo material compañías aéreas deba cargarse aeronave distinta bodega controlado equipaje mano
-
 Provisiones bordo suministros aeropuerto
 Provisiones bordo suministros aeropuerto Condiciones efectuar controles detección artículos prohibidos tipo control seguridad
 provisiones bordo deban embarcarse aeronave sometidas control
@@ -736,10 +728,8 @@ proveedores conocidos provisiones bordo designados entidad operador suministren
 designar proveedor conocido provisiones bordo entidad operador suministre asegurará candidato proveedor conocido aporta información normas seguridad aviación efectuará validación
 proveedores conocidos suministros aeropuerto designados operador aeropuerto
 designar proveedor conocido provisiones bordo operador aeropuerto asegurará candidato proveedor conocido aporta información normas seguridad aviación efectuará validación
-
 Criterios definición zonas críticas zonas restringidas seguridad
 zonas críticas zonas restringidas seguridad definirán contaminación pasajeros espera embarcar controlados vuelos iniciales pasajeros transferencia equipaje mano equipaje bodega vuelos salida controlado equipaje vuelos iniciales equipaje transferencia
-
 Contratación personal métodos formación
 Criterios contratación personal
 contratación personas apliquen control artículos prohibidos control acceso controles seguridad responsables aplicación instructores aplicarán siguientes criterios
@@ -751,7 +741,6 @@ personas apliquen control detección artículos prohibidos control acceso contro
 instructores
 personas expida tarjeta identificación personal aeropuerto miembros tripulación
 reciban formación teórica práctica puesto trabajo
-
 Condiciones aplicarse procedimientos seguridad especiales exenciones controles seguridad
 normas desarrollo adopten virtud artículo apartado Reglamento CE permitir apliquen procedimientos seguridad especiales exenciones controles seguridad condición
 procedimiento exención establecido Comisión autoridad competente
@@ -1348,7 +1337,6 @@ DO
 DO
 ANEXO
 Documentos administrativos homologación CE tipo vehículos motor dispositivos remolque
-
 Ficha características
 MODELO
 Ficha características relativa homologación CE tipo vehículo motor dispositivos remolque
@@ -1371,13 +1359,11 @@ Fotografías dibujos vehículo representativo
 MASAS DIMENSIONES
 Masa máxima carga técnicamente admisible declarada fabricante
 vehículo adecuado remolcar cargas
-
 Dispositivos remolque
 delantera gancho anilla Táchese proceda
 trasera gancho anilla Táchese proceda
 Dibujo fotografía bastidor zona carrocería vehículo muestre posición construcción montaje dispositivos remolque
 Notas explicativas
-
 Certificado homologación CE tipo
 Formato mm
 CERTIFICADO HOMOLOGACIÓN CE TIPO
@@ -1453,11 +1439,9 @@ Reglamento modificado lugar Reglamento CE Comisión DO
 ANEXO
 ANEXO II
 LISTA PAÍSES TERRITORIOS
-
 IE Irlanda
 Suecia
 UK Reino Unido
-
 Sección
 DK Dinamarca incluidas GL Groenlandia FO Islas Feroe
 España continental Islas Baleares Canarias Ceuta Melilla
@@ -1471,7 +1455,6 @@ IS Islandia
 MC Mónaco
 Noruega
 Santa Sede
-
 AC Isla Ascensión
 AE Emiratos Árabes Unidos
 AG Antigua Barbuda
@@ -2365,7 +2348,6 @@ Decisión UE Parlamento Europeo Consejo julio orientaciones Unión desarrollo re
 Reglamento UE Euratom Parlamento Europeo Consejo septiembre relativo investigaciones efectuadas Oficina Europea Lucha Fraude OLAF deroga Reglamento CE Parlamento Europeo Consejo Reglamento Euratom Consejo DO
 Reglamento Euratom CE Consejo noviembre relativo controles verificaciones in situ realiza Comisión protección intereses financieros Comunidades Europeas fraudes irregularidades DO
 ANEXO
-
 LISTA PRELIMINAR PROYECTOS RED BÁSICA SECTOR TRANSPORTE
 Prioridades horizontales
 Gestión servicios innovadores
@@ -2809,7 +2791,6 @@ eliminar cuellos botella mejorar interoperabilidad transporte construir enlaces 
 garantizar sistemas transporte sostenibles eficientes plazo objeto prepararse futuros flujos transporte previstos descarbonización modos transporte transición tecnologías hipocarbónicas innovadoras eficientes energía tiempo optimiza seguridad
 optimizar integración interconexión modos transporte potenciar interoperabilidad servicios transporte tiempo garantiza accesibilidad infraestructuras transporte teniendo límite máximo componentes bordo sistemas SESAR SIF VTMIS STI sector viario refiere artículo apartado letra inciso vi
 importe EUR transferidos Fondo Cohesión gastarán totalmente proyectos den aplicación red básica proyectos prioridades horizontales definidos presente anexo
-
 LISTA ORIENTACIONES GENERALES TENERSE FIJAR CRITERIOS CONCESIÓN
 fijar criterios concesión artículo apartado mínimo siguientes orientaciones generales
 madurez acción desarrollo proyecto
@@ -4818,7 +4799,6 @@ Maxr Max
 alcance mínimo Míni
 Mini Max
 Min Min
-
 número campos parciales pesaje
 número campos parciales pesaje
 alcances entienden referidos carga neta independientemente valor tara utilizada

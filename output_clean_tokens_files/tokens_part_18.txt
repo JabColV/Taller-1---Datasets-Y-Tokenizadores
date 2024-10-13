@@ -1283,7 +1283,6 @@ Superior inferior peso
 EUR kg
 Superior peso
 EUR kg
-
 polvo gránulos formas sólidas contenido materias grasas leche
 contenido materias grasas leche
 Inferior peso
@@ -1291,7 +1290,6 @@ Mantequilla manteca materias grasas leche pastas lácteas untar
 Pastas lácteas untar
 contenido materias grasas superior inferior peso
 Esponjas naturales origen animal
-
 Hortalizas silvestres estén cocidas agua vapor congeladas
 Maíz dulce
 Hortalizas silvestres conservadas provisionalmente ejemplo gas sulfuroso agua salada sulfurosa adicionada sustancias asegurar dicha conservación impropias consumo inmediato
@@ -1307,7 +1305,6 @@ Grasa lana bruto suarda suintina
 Margarina mezclas preparaciones alimenticias grasas aceites animales vegetales fracciones grasas aceites capítulo grasas aceites alimenticios fracciones partida
 Margarina margarina líquida
 contenido grasas leche superior inferior peso
-
 Mezclas preparaciones culinarias desmoldeo
 Grasas aceites animales vegetales fracciones cocidos oxidados deshidratados sulfurados soplados polimerizados calor vacío atmósfera inerte estandolizados modificados químicamente forma partida mezclas preparaciones alimenticias grasas aceites animales vegetales fracciones grasas aceites capítulo expresadas comprendidas
 Grasas aceites animales vegetales fracciones cocidos oxidados deshidratados sulfurados soplados polimerizados calor vacío atmósfera inerte estandolizados modificados químicamente forma partida
@@ -1354,7 +1351,6 @@ cereales nueces frutos
 Chocolate artículos chocolate
 Bombones rellenos
 alcohol
-
 rellenar
 Artículos confitería sucedáneos fabricados productos sustitutivos azúcar contengan cacao
 Pastas untar contengan cacao
@@ -1474,7 +1470,6 @@ grado alcohólico adquirido inferior vol
 tabacos sucedáneos tabaco elaborados tabaco homogeneizado reconstituido extractos jugos tabaco
 Tabaco fumar sucedáneos tabaco proporción
 envases inmediatos contenido neto inferior
-
 Tabaco homogeneizado reconstituido
 Tabaco mascar rapé
 Aceites esenciales desterpenados incluidos concretos absolutos resinoides oleorresinas extracción disoluciones concentradas aceites esenciales grasas aceites fijos ceras materias análogas obtenidas enflorado maceración subproductos terpénicos residuales desterpenación aceites esenciales destilados acuosos aromáticos disoluciones acuosas aceites esenciales
@@ -1489,7 +1484,6 @@ Continuará aplicándose disposición comercial establecida Protocolo n°
 ANEXO II
 Derechos aplicables importaciones Bulgaria mercancías originarias Comunidad
 Derechos
-
 Suero mantequilla manteca leche nata crema cuajadas yogur kéfir leches natas cremas fermentadas acidificadas concentrados adición azúcar edulcorante aromatizados frutas frutos cacao
 Aromatizados frutas frutos cacao
 contenido materias grasas leche
@@ -1552,7 +1546,6 @@ Extractos esencias concentrados té yerba mate preparaciones base extractos esen
 Achicoria tostada sucedáneos café tostados extractos esencias concentrados
 Levaduras panificación
 Secas
-
 Levaduras muertas microorganismos monocelulares muertos
 Harina mostaza
 Chutney mango líquido
@@ -1706,7 +1699,6 @@ preparaciones bloques barras peso superior kg forma líquida pastosa polvo grán
 pastas alimenticias
 Productos base cereales obtenidos inflado tostado ejemplo hojuelas copos maíz cereales maíz grano forma copos grano trabajado harina grañones sémola precocidos preparados expresados comprendidos
 preparaciones base copos cereales tostar tipo Müsli
-
 Productos panadería pastelería galletería adición cacao hostias sellos vacíos tipo usados medicamentos obleas sellar pastas secas harina almidón fécula hojas productos similares
 hortalizas silvestres preparadas conservadas vinagre ácido acético congeladas productos partida
 forma harinas sémolas copos
@@ -1716,9 +1708,6 @@ grado alcohólico volumétrico inferior vol recipientes contenido
 grado alcohólico volumétrico superior vol recipientes contenido
 cantidades mercancías benefician contingentes arancelarios números orden abiertos arreglo Reglamento CE Comisión agosto relativo suspensión apertura contingentes arancelarios aplicables importación Comunidad determinados productos agrícolas transformados originarios Bulgaria modifica Reglamento CE despachadas libre práctica enero septiembre imputarán íntegramente cantidades previstas correspondientes contingentes arancelarios establecidos anexo III
 cantidades mercancías benefician contingentes arancelarios Bulgaria despachados libre práctica octubre imputarán íntegramente cantidades previstas contingentes arancelarios establecidos anexo IV
-
-
-
 excl
 MÍN EUR hl
 EUR kg
@@ -2791,7 +2780,6 @@ Butera Ruanda Ngoma Butare Ruanda
 Presidente FDLR ejerce influencia política mantiene mando control actividades FDLR grupos milicias armados referencia párrafo RCSNU implicado tráfico armas contravención armamento
 Residente Alemania
 diciembre reconoce Presidente rama política FDLRFOCA
-
 Mugambazi Kigali Ruanda
 Pasaporte ruandés caducado
 dirigente FDLR grupo armado extranjero actúa RDC Musoni impide desarme repatriación reasentamiento voluntarios combatientes pertenecen grupos contravención RCSNU
@@ -3357,9 +3345,7 @@ Seguimiento explotaciones sometidas medidas control erradicación EET
 animales dieciocho meses edad muerte destrucción conformidad disposiciones capítulo punto punto letras anexo VII realizarán pruebas EET arreglo métodos protocolos figuran capítulo punto letra anexo seleccionando muestra aleatoria simple tamaño indicado cuadro
 Número animales dieciocho meses edad muerte destrucción rebaño
 Tamaño mínimo muestra
-
 animales seleccionables
-
 anexo VII sustituye texto
 ANEXO VII
 CONTROL ERRADICACIÓN ENCEFALOPATÍAS ESPONGIFORMES TRANSMISIBLES
@@ -3488,7 +3474,6 @@ prohibido pasto común ovinos caprinos explotación explotaciones período paric
 período parición pasto común sometido restricciones determine miembro teniendo razonadamente factores epidemiológicos
 CAPÍTULO
 Requisitos mínimos programa cría ovinos resistentes eet arreglo artículo bis
-
 Requisitos generales
 programa cría concentrará rebaños valor genético define punto anexo Decisión CE Comisión
 obstante miembros cuentan programa cría autorizar muestreo genotipado machos reproductores manadas participan programa cría
@@ -3505,7 +3490,6 @@ establecerán programas cría raza teniendo
 frecuencias distintos alelos raza
 rareza raza
 eviten endogamia deriva genética
-
 Normas específicas rebaños participantes
 programa cría objetivo aumentar frecuencia alelo ARR rebaño reducir prevalencia alelos conocidos contribuir sensibilidad EET
 requisitos mínimos rebaños participantes siguientes
@@ -3516,11 +3500,9 @@ hembras portadoras alelo VRQ saldrán explotación sacrificio
 usarán reproducción rebaño machos distintos certificados programa cría incluidos donantes esperma inseminación artificial
 miembros conceder excepciones requisitos establecidos punto letras efectos protección razas características producción
 miembros comunicarán Comisión excepciones concedan arreglo punto criterios utilizados
-
 Normas específicas machos reproductores muestreados rebaños participan programa cría
 machos muestrear identificarán individualmente segura
 macho confirmado portador alelo VRQ saldrá explotación sacrificio
-
 Marco reconocimiento calificación rebaños ovinos resistentes EET
 marco reconocerá calificación resistentes EET rebaños ovinos resultas participación programa cría establecido artículo bis cumplan criterios exigidos programa
 reconocimiento concederá mínimo niveles siguientes
@@ -3530,7 +3512,6 @@ miembros reconocer niveles función requisitos nacionales
 realizarán muestreos regulares aleatorios ovinos rebaños resistentes EET
 explotación matadero verificar genotipo
 caso rebaños nivel ovinos mayores dieciocho meses matadero someterlos pruebas EET conformidad anexo III
-
 Informes miembros presentar Comisión
 miembros introduzcan programas cría seleccionar ovinos resistentes EET
 notificarán Comisión requisitos dichos programas
@@ -4179,7 +4160,6 @@ toneladas
 Brasil
 Trimestral
 Tailandia
-
 Anual
 Preparados base carne aves corral excepción pavo
 País
@@ -4978,9 +4958,7 @@ Reglamento modificado lugar Reglamento CE DO
 Corrección errores Reglamento UE Consejo marzo relativo medidas restrictivas Irán deroga Reglamento UE
 Diario Oficial Unión Europea marzo
 página considerando página artículo apartado letra página anexo VIII título punto página anexo IX entrada cuarta columna entrada cuarta columna II título entrada columna página anexo IX II entrada columna página anexo IX II entrada cuarta columna
-
 Cuerpo Guardia Revolucionaria Islámica
-
 Cuerpo Guardia Revolucionaria Iraní
 página artículo apartado letra
 importación compra transporte productos petroquímicos hubieran exportados Irán enero exportación arreglo letra anterioridad mayo fecha

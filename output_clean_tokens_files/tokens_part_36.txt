@@ -2033,7 +2033,6 @@ Legumbres hortalizas mezclas ncop
 platos preparados congeladas
 Frutos preparados conservados ncop
 excl Muesli
-
 Glándulas órganos sustancias usos terapéuticos profilácticos ncop
 exc sangre extractos glándulas órganos
 Alambre cobre refinado sección transversal mm
@@ -2092,8 +2091,6 @@ Hilado simple filamento rayón viscosa monofilamento tex navp
 hilo coser hilado alta tenacidad
 Hilado simple filamento acetato celulosa monofilamento tex navp
 hilado simple filamento artificial monofilamento artificial tex navp
-
-
 Muebles envolturas emisores receptores radio televisión cámaras televisión etc partes destinadas exclusiva principalmente cámaras televisión receptores radio televisión pantallas proyectores ncop
 Cables coaxiales control transmisión datos piezas conexión tensión
 Recogedoraspicadoras tractor
@@ -3690,18 +3687,10 @@ Capacidad envase
 Dimensiones etiqueta milímetros información requerida artículo
 Dimensiones pictograma milímetros
 litros
-
 menor
-
 litros litros
-
-
 litros litros
-
-
 Superior litros
-
-
 frase introductoria sección sustituye
 pictograma palabra advertencia indicación peligro consejo prudencia correspondientes categorías peligro enumeradas continuación omitirse elementos figurar etiqueta conforme dispuesto artículo
 sección letra sustituye texto
@@ -4241,7 +4230,6 @@ detalles método describen sección
 mezclas compuestas combinación componentes clasificados agudo crónico datos ensayos toxicidad
 disponga datos adecuados toxicidad componente mezcla toxicidad combinada componentes calculará usando fórmulas aditivas siguientes naturaleza datos toxicidad
 Toxicidad acuática aguda
-
 concentración componente porcentaje peso
 CE mg componente
 número componentes
@@ -4462,7 +4450,6 @@ Toxicidad específica determinados órganos exposición única irritación vías
 Toxicidad específica determinados órganos exposición única efectos narcóticos sección
 código sustituye
 prendas trabajo contaminadas sacarse lugar trabajo
-
 código sustituye
 guantes prendas gafas máscara protección
 Explosivos sección
@@ -4530,16 +4517,12 @@ Lavar agua jabón abundantes
 código sustituye
 Lavar prendas contaminadas volverlas utilizar
 código sustituye
-
 CASO CONTACTO PIEL Lavar agua jabón abundantes
 código sustituye
-
 CASO INHALACIÓN víctima respira dificultad transportarla exterior mantenerla reposo posición cómoda respirar
 código sustituye
-
 caso irritación erupción cutánea consultar médico
 código sustituye
-
 caso síntomas respiratorios llamar CENTRO INFORMACIÓN TOXICOLÓGICA médico
 código columna fila palabras Peligro acuático crónico sección sustituyen Toxicidad acuática plazo sección
 tabla sustituye
@@ -4583,7 +4566,6 @@ ANEXO VI
 anexo VI Reglamento CE modifica
 tabla modifica
 código categoría Sens cut
-
 clase peligro Peligroso capa ozono código categoría Ozono sustituye Ozono
 sección párrafo sustituye
 caso armonizado factor sustancias clasificadas peligrosas ambiente acuático categorías toxicidad acuática aguda acuática crónica factor facilita tabla columna límites concentración específicos
@@ -4622,9 +4604,6 @@ CEL
 Sensibilización cutánea categorías
 Sensibilización respiratoria categorías
 Skader folkesundheden og miljøet ved at ødelægge ozon den øvre atmosfære
-
-
-
 conocidos mecanismos sustancias provocan síntomas asma
 razones prevención sustancias consideran sensibilizantes respiratorios
 ENSAYO Ensayo termoestabilidad sustancia mezcla termoestable

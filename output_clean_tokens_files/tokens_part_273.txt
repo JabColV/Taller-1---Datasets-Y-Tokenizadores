@@ -350,7 +350,6 @@ determinar número longitudes cable ensayo utilizarán siguientes fórmulas
 Cables diámetro superior mm
 número cables viene
 ecuación
-
 dc diámetro cable mm redondeado mm
 función int entera resultado valor redondeado baja
 Cables diámetro superior mm inferior mm
@@ -520,7 +519,6 @@ Luxemburgo octubre
 Consejo
 Presidente
 JE Enestam
-
 forma Canje Notas Comunidad Europea Uruguay relativo modificación concesiones listas República Checa República Estonia República Chipre República Letonia República Lituania República Hungría República Malta República Polonia República Eslovenia República Eslovaca contexto adhesión Comunidad Europea
 Nota Comunidad Europea
 Ginebra
@@ -1860,7 +1858,6 @@ organismo intervención facilitará información necesaria características alco
 interesado obtener dirigiéndose organismo intervención trate muestras alcohol puesto venta tomadas representante organismo intervención
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos ocasionen controles contemplados apartado correrán empresas venda alcohol
@@ -3523,7 +3520,6 @@ Arte
 PNC SV
 Descripción
 Adopción medidas
-
 Descripción medidas
 Situación actual caso
 Duración prevista investigación
@@ -3612,7 +3608,6 @@ Capítulo
 ingresos
 Intereses
 Producto impuesto sueldos personal Europol
-
 Capítulo
 Cobertura financiera procedente terceros
 Financiación proyectos Comisión Europea partes implicadas
@@ -3838,11 +3833,8 @@ Artículos confitería cacao incluido chocolate blanco
 Chicles gomas mascar recubiertos azúcar procedentes Turquía
 contenido sacarosa inferior peso incluido azúcar invertido calculado sacarosa
 tiras
-
 contenido sacarosa superior peso incluido azúcar invertido calculado sacarosa
-
 Preparación llamada chocolate blanco
-
 Pastas masas incluido mazapán envases inmediatos contenido neto superior kg
 Pastillas garganta caramelos tos
 Grageas peladillas dulces recubrimiento similar
@@ -4202,7 +4194,6 @@ examen clínico general particular tórax
 pruebas función respiratoria espirometría curva flujovolumen
 médico autoridad responsable vigilancia salud deberá decidir luz conocimientos recientes ámbito medicina trabajo conveniencia exámenes citologías esputos radiografías tórax tomodensitometría
 ANEXO II
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -4217,7 +4208,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 Únicamente artículo apartado
-
 Plazos transposición Derecho interno
 Directiva
 Plazo transposición

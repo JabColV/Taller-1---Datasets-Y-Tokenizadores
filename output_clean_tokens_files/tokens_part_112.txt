@@ -225,11 +225,9 @@ Pensiones abonadas
 Compensación compensación excesiva
 Contribuciones anuales
 Ventaja TF
-
 Compensación enero
 Interés
 Compensación diciembre
-
 estimación
 Capitalizada tipo descuento toma consideración compensación debería compensar trimestre reducción cargas anuales benefició France Télécom aplicación reforma
 quedaría cantidad devolver presupuesto reasignar forma contempla Ley Presupuestos aplicable
@@ -1330,7 +1328,6 @@ Emisiones atmósfera
 Compuestos orgánicos volátiles COV
 Deberá cumplirse criterio
 CCOV RCOVCpapel kg toneladas
-
 COV
 cantidad anual kilogramos COV contenida productos químicos comprados utilicen producción anual productos impresos
 COV
@@ -1388,7 +1385,6 @@ Impresión digital
 Impresión offset
 Flexografía cartón ondulado
 Serigrafía
-
 cantidad anual toneladas papel residual producido impresión incluidos procesos acabado producto papel impreso etiqueta ecológica dividida cantidad anual toneladas papel adquirido utilizado producción producto
 imprenta realiza procesos acabado imprenta cálculo incluirá cantidad papel residual producido procesos
 procesos acabado externalizan empresas calculará cantidad papel residual resultante trabajo externalizado integrará cálculo
@@ -1695,7 +1691,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -1749,7 +1744,6 @@ contenedor utilizado transporte embarcación vivero limpiado desinfectado anteri
 envío identificado etiqueta legible exterior contenedor transporta embarcación vivero manifiesto marítimo información pertinente contemplada casillas presente certificado declaración
 Peces Crustáceos destinados consumo humano Unión
 Notas
-
 Casilla Región origen respecta moluscos bivalvos congelados transformados indíquese zona producción
 Casilla Lugar origen nombre dirección establecimiento expedición
 Casilla Número registro vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos
@@ -1841,7 +1835,6 @@ Código provisional excluye nomenclatura definitiva país acordará concluyan ne
 Aplicable únicamente peces ornamentales especies sensibles cualquiera enfermedades enumeradas II anexo IV Directiva CE moluscos crustáceos ornamentales destinados instalaciones ornamentales cerradas
 efectos presente Reglamento Unidos incluyen Puerto Rico Islas Vírgenes Unidos Samoa Americana Guam Islas Marianas Norte
 anexo IV partes sustituyen texto
-
 Modelo certificado zoosanitario importación Unión Europea animales acuicultura destinados cría reinstalación pesquerías suelta captura instalaciones ornamentales abiertas
 Código postal
 Región destino
@@ -1915,7 +1908,6 @@ II presente certificado aplicable partidas destinadas miembro considere libre en
 II aplicable partidas peces especie originarios aguas especies figuran anexo II especies sensibles infección Gyrodactylus salaris dichas partidas destinen miembro figure anexo Decisión UE libre Gyrodactylus salaris
 partidas animales acuáticos silvestres aplicables requisitos relacionados VPC NPI renibacteriosis importarse independencia requisitos II presente certificado destinan instalación cuarentena cumpla requisitos establecidos Decisión CE
 Firma
-
 Modelo certificado zoosanitario importación Unión Europea animales acuáticos ornamentales destinados instalaciones ornamentales cerradas
 Animales acuáticos ornamentales destinados instalaciones ornamentales cerradas
 inspector oficial abajo firmante certifica animales acuáticos ornamentales referencia presente certificado
@@ -2376,7 +2368,6 @@ Referencia Diario Oficial
 Aplicabilidad
 Sistema hidrógeno
 Reglamento CE
-
 apéndice anexo IV añade cuadro línea
 apéndice anexo VI añade cuadro línea
 Referencia acto regulador
@@ -2384,7 +2375,6 @@ Modificado
 Aplicable versiones
 Reglamento CE
 anexo XI apéndice añade cuadro línea
-
 anexo XI apéndice añade cuadro línea
 anexo XI apéndice añade cuadro línea
 anexo XI apéndice añade cuadro línea
@@ -2608,7 +2598,6 @@ Encendido chispa
 Encendido compresión
 Raíl común
 Carburadores
-
 Alimentación combustible gaseoso
 Gaseoso
 Líquido
@@ -2692,7 +2681,6 @@ Trabajo ciclo motor
 cálculo trabajo ciclo efectivo trabajo ciclo referencia véanse puntos basará potencia motor conforme punto
 caso Pf Pr ecuación iguales cero Pm
 accesorios equipos instalados arreglo puntos potencia absorban utilizará corregir valor instantáneo Pm potencia ciclo indica continuación
-
 potencia motor medida expresada kW
 potencia absorbida accesorios equipos instalarse medida kW
 potencia absorbida accesorios equipos retirarse medida kW
@@ -2753,10 +2741,8 @@ regeneración dura ciclo WHTC arranque caliente realizarán sucesivamente ensayo
 regeneración finaliza ciclo ensayo WHTC arranque caliente ciclo continuará
 Previo organismo homologación tipo aplicarse factores ajuste regeneración tipo multiplicativo aditivo basándose análisis técnicos solventes
 factores ajuste multiplicativos calcularán
-
 abajo
 factores ajuste aditivos calcularán
-
 cálculos emisiones específicas punto aplicarán factores ajuste regeneración indica continuación
 caso ensayo regeneración kr respectivamente multiplicado valor emisión específica ecuaciones añadido valor
 caso ensayo regeneración kr respectivamente multiplicado valor emisión específica ecuaciones sustraído valor
@@ -2830,12 +2816,10 @@ cuadro muestra ciclo ensayo WHSC
 comienza inicio aumento
 Cuadro
 Ciclo ensayo WHSC
-
 Régimen normalizado
 Par normalizado
 Duración
 incl aumento
-
 Generalidades secuencia ensayo
 diagrama figura continuación muestra camino debería seguirse ensayo
 detalles paso describen puntos correspondientes
@@ -3151,7 +3135,6 @@ emisiones miden base seca calcularán base húmeda fórmula indicada continuaci�
 concentración base seca ppm vol
 factor corrección base seca base húmeda kw kw kw dependiendo ecuación utilice
 Gas escape bruto
-
 humedad aire admisión gramos agua kg aire seco
 contenido hidrógeno combustible masa
 caudal másico instantáneo combustible kg
@@ -3800,7 +3783,6 @@ tiempo necesario estabilización incluir tiempo purgar conducto transferencia ti
 analizadores miden concentración muestra registrarán datos calcularán medias aritméticas correspondientes analizadores
 valor CLD restará valor NDUV
 diferencia multiplicará cociente concentración media esperada HC concentración HC medida verificación arreglo ecuación
-
 concentración NOx medida CLD ppm
 concentración NOx medida NDUV ppm
 concentración máxima esperada HC ppm
@@ -4066,7 +4048,6 @@ Punto inflamación
 Punto obstrucción filtro frío
 Viscosidad cinemática °C
 Hidrocarburos aromáticos policíclicos
-
 Residuo carbono Conradson residuo destilado
 Contenido cenizas
 Contenido agua
@@ -4077,7 +4058,6 @@ Corrosión cobre °C
 Lubricidad HFRR °C
 Número neutralización
 Estabilidad oxidación °C
-
 valores indicados especificación valores reales
 determinar valores límite recurrido norma ISO Productos petrolíferos Determinación aplicación datos precisión relación métodos ensayo
 fijar valor mínimo diferencia mínima cero determinar valor máximo valor mínimo diferencia mínima reproducibilidad medida necesaria razones estadísticas fabricante combustible procurar obtener valor cero valor máximo establecido obtener valor indiquen límites máximo mínimo
@@ -4290,7 +4270,6 @@ véanse detalles figura
 sistema doble dilución
 utiliza EFC
 opcional
-
 ventilación
 Elementos figura
 longitud tubo escape salida colector escape motor turbocompresor dispositivo postratamiento túnel dilución deberá superior longitud sistema superior deberá aislarse longitud tubo exceda medidor humo línea utiliza
@@ -4795,7 +4774,6 @@ límites emisiones WNTE aplicarán
 presiones atmosféricas superiores iguales kPa
 temperaturas inferiores iguales temperatura determinada ecuación presión atmosférica especificada
 pb
-
 temperatura aire ambiente
 presión atmosférica kPa
 temperatura refrigerante motor superior °C
@@ -4973,7 +4951,6 @@ máx
 máx
 máx
 máx
-
 COSFP
 punto letra versión inglesa corrige mission emission afecta versión española
 presente punto aplica casos funcionamiento seleccionando ensayo demostración sistema OBD supervise emisiones tubo escape supervisión límite emisiones véase punto requiera fabricante demuestre ensayo emisiones validez componente deteriorado añade punto
@@ -4991,7 +4968,6 @@ calidad proporcionalidad verificará análisis regresión muestra caudal gas esc
 qmf
 qmedf
 ensayo
-
 ugas
 Valores gas escape diluido densidades componentes
 ρde

@@ -1005,7 +1005,6 @@ remuneración agente función número controles efectúe resultados dichos contr
 organismo control autorizado deberá suscribir seguro responsabilidad civil responsabilidad esté cubierta arreglo legislación nacional controles efectuados directamente miembro
 personal organismo control autorizado sujeto secreto profesional conozca ejercicio funciones autoridades administrativas competentes miembro ejerza actividades marco presente Directiva disposición Derecho interno desarrolle
 ANEXO IV
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -1015,7 +1014,6 @@ DO
 Directiva CEE Consejo
 DO
 Únicamente artículo punto artículo
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -1323,8 +1321,6 @@ mandato REUE basará objetivos políticos Unión Kosovo incluyen desempeñar pap
 Corrección errores Unión Europea Montenegro procedimientos seguridad intercambio protección información clasificada
 Diario Oficial Unión Europea octubre
 página altera orden firma
-
-
 Decisión Comisión
 junio
 fija ayuda financiera Comunidad gastos realizados contexto medidas emergencia tomadas peste porcina clásica Alemania
@@ -1613,11 +1609,9 @@ caso puntos medición disten mm puntos
 ANEXO
 CAMPO MÍNIMO VISIBILIDAD SUPERFICIE DESTINADA ILUMINADA
 Sección vertica
-
 Campo visibilidad
 Superficie destinada iluminada
 Sección horizontal
-
 ángulos campo visibilidad indicados refieren únicamente posiciones relativas dispositivo alumbrado emplazamiento destinado placa matrícula
 campo visibilidad placa matrícula montada vehículo queda sometido normativa nacional aplicable
 ángulos indicados ocultación parcial provocada dispositivo alumbrado
@@ -1678,7 +1672,6 @@ Muestra
 dispositivo
 dispositivo
 dispositivos
-
 pasar muestra
 Muestra
 dispositivos
@@ -1847,11 +1840,9 @@ Directiva CEE Consejo julio relativa comercialización productos fitosanitarios 
 Reglamento Ejecución UE Comisión mayo establecen disposiciones aplicación Reglamento CE Parlamento Europeo Consejo respecta lista sustancias activas aprobadas DO
 ANEXO
 columna Disposiciones específicas fila correspondiente etoprofos figura anexo Reglamento Ejecución UE sustituye texto
-
 autorizar usos nematicida insecticida aplicación suelo
 autorizará aplicación temporada cantidades superen kg sustancia activa hectárea
 autorizaciones limitarán usuarios profesionales
-
 evaluación solicitudes autorización productos fitosanitarios contengan etoprofos usos distintos patatas cultivadas consumo humano animal miembros prestarán especial atención criterios mencionados artículo apartado Reglamento CE velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión etoprofos particular apéndices II adoptó Comité Permanente Cadena Alimentaria Sanidad Animal marzo
 evaluación general miembros prestarán atención particular
@@ -4069,8 +4060,6 @@ Código producto
 Trigo morcajo tranquillón
 trigo duro
 siembra
-
-
 siembra
 Trigo blando morcajo tranquillón
 Centeno
@@ -4171,7 +4160,6 @@ categoría arreglo definición anexo Reglamento CE
 trigo grano troceado triturado respondan consignada anexo Reglamento CE Comisión
 partidos
 Germen cereales entero aplastado copos molido
-
 Malta cebada cereales tostada
 tostar
 Harina
@@ -4192,7 +4180,6 @@ Gluten trigo seco contenido proteínas extracto seco superior peso
 azúcares incluidas lactosa maltosa glucosa fructosa levulosa químicamente puras sólido jarabe azúcar adición aromatizante colorante sucedáneos miel mezclados miel natural azúcar melaza caramelizados
 Glucosa jarabe glucosa fructosa contenido fructosa producto seco inferior peso
 polvo cristalino blanco aglomerado
-
 Glucosa jarabe glucosa contenido fructosa producto seco superior inferior peso azúcar invertido
 incluido azúcar invertido azúcares jarabes azúcar contenido fructosa producto seco peso
 Maltodextrina jarabe maltodextrina
@@ -4266,9 +4253,7 @@ preparaciones conservas carne despojos sangre
 especie bovina
 Corned beef envases herméticamente cerrados contenga carne animales especie bovina
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos cumplan condiciones establecidas Reglamento CE
-
 envases herméticamente cerrados
 contengan carne animales especie bovina
 Animales vivos especie porcina
@@ -4302,10 +4287,8 @@ Pancetas trozos corteza
 contenido global peso cartílagos inferior
 Prosciutto di Parma Prosciutto di San Daniele trozos
 Embutidos productos similares carne despojos sangre preparaciones alimenticias base productos
-
 Embutidos secos untar cocer
 contengan carne despojos aves corral
-
 especie porcina
 especie porcina doméstica
 Cocida contenido carne grasa superior peso
@@ -4315,7 +4298,6 @@ Paletas trozos paleta
 envases inmediatos contenido neto superior kg
 incluidas mezclas
 contenido carne despojos clase superior peso incluidos tocino grasa naturaleza origen
-
 contengan carne despojos aves corral
 contengan producto compuesto trozos claramente reconocibles carne muscular cuyo tamaño permita determinar obtenidos piernas paletas chuleteros espinazos pequeñas partículas grasa visible pequeñas cantidades depósitos gelatina
 Gallos gallinas patos gansos pavos gallipavos pintadas especies domésticas vivos
@@ -4391,7 +4373,6 @@ Leche nata crema concentradas adición azúcar edulcorante
 polvo gránulos formas sólidas contenido materias grasas inferior peso
 adición azúcar edulcorante
 envases inmediatos contenido neto inferior kg
-
 polvo gránulos formas sólidas contenido materias grasas superior peso
 contenido materias grasas inferior peso
 envases inmediatos contenido neto inferior kg

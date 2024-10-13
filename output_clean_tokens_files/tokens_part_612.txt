@@ -635,7 +635,6 @@ Pistolas aerográficas aparatos similares
 Máquinas aparatos chorro arena vapor aparatos chorro similares
 Aparatos limpieza agua motor incorporado
 dispositivos calentamiento
-
 aire comprimido
 agricultura horticultura
 Aparatos riego
@@ -1779,7 +1778,6 @@ cilindrada inferior cm
 motor émbolo pistón encendido chispa
 cilindrada superior cm
 cilindrada inferior cm
-
 Automóviles turismo vehículos automóviles concebidos principalmente transporte personas partida incluidos tipo familiar break station wagon carreras
 Vehículos especialmente concebidos desplazarse nieve vehículos especiales transporte personas campos golf vehículos similares
 Vehículos especialmente concebidos desplazarse nieve motor émbolo pistón encendido compresión diésel semidiésel motor émbolo pistón encendido chispa
@@ -1894,7 +1892,6 @@ Mecanismos pedal
 Manillares
 Portaequipajes
 Cambios marcha
-
 Coches sillas vehículos similares transporte niños partes
 Coches sillas vehículos similares
 Remolques semirremolques vehículo vehículos automóviles partes
@@ -2658,7 +2655,6 @@ códigos mercancía deberán compuestos
 primeras cifras
 quinta sexta cifras corresponderán capítulo NC pertenezcan mercancías componente
 séptima octava cifras
-
 ANEXOS ARANCELARIOS
 ANEXOS AGRÍCOLAS
 ANEXO

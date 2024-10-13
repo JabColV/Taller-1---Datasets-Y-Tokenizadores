@@ -2304,10 +2304,6 @@ Dichos valores aplicarán neumáticos categorías utilización normal nieve refi
 Anchura nominal sección
 Límite dBA
 inferior
-
-
-
-
 caso neumáticos Reinforced Extra Load Reforzados Carga Extra véase apartado aumentarán dBA límites apartado
 caso neumáticos clase clasificados categoría utilización Special Especial véase apartado aumentarán dBA límites apartado
 valor emisión ruido rodadura neumáticos clase categoría utilización véase apartado superará
@@ -2527,14 +2523,12 @@ kmh neumáticos clases
 kmh neumáticos clase
 Análisis regresión mediciones ruido rodadura
 nivel ruido rodadura LR dBA determinará análisis regresión aplicando fórmula
-
 valor niveles ruido rodadura Li medidos dBA
 número mediciones
 valor velocidades logarítmicas Vi
 pendiente línea regresión dBA
 Corrección temperatura
 neumáticos clases resultado normalizará temperatura referencia superficie calzada θref aplicando fórmula corrección temperatura
-
 temperatura medida superficie calzada
 neumáticos clase coeficiente dbA °C θref dBA °C θref
 neumáticos clase coeficiente dBA °C
@@ -3049,7 +3043,6 @@ Hirtshals
 HCTCH
 entrada correspondiente aeropuerto Billund sustituye texto
 Billund
-
 añadirse entrada puesto inspección fronterizo puerto Kalundborg
 Kalundborg
 NHCNT

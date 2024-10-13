@@ -773,9 +773,7 @@ RSEZetoxiiminobutilhidroxiRStianilciclohexenona
 kg
 junio
 mayo
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión cicloxidim particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal noviembre
 evaluación global miembros deberán atender especialmente riesgo plantas diana
 proceda condiciones deberán incluir medidas reducción riesgo
@@ -998,7 +996,6 @@ lavado
 Agente aclarado
 lavado
 volumen crítico dilucióntoxicidad VCDcrónico calcula ingrediente aplicando ecuación
-
 peso peso ingrediente dosis recomendada
 FD factor degradación
 FT factor toxicidad crónica sustancia indica lista DID
@@ -1574,13 +1571,11 @@ CATEGORÍAS ESTADÍSTICAS GANADERAS
 Bovino
 bovinos año
 terneros bovinos jóvenes abasto
-
 machos
 hembras
 bovinos años excepción hembras hayan parido
 hembras novillas animales hayan parido
 animales abasto
-
 bovinos años
 hembras
 novillas
@@ -1589,7 +1584,6 @@ vacas bovinos hayan parido incluidos tengan años
 vacas lecheras
 búfalos
 hembras reproductoras
-
 Porcino
 lechones peso vivo inferior kg
 cerdos peso vivo superior kg inferior kg
@@ -1630,7 +1624,6 @@ toros
 bueyes
 desglosan
 corderos
-
 Aves corral
 pollos
 pavos
@@ -1929,7 +1922,6 @@ DO
 DO
 DO
 ANEXO
-
 DIRECTIVA DEROGADA MODIFICACIONES SUCESIVAS
 contemplados artículo
 Directiva CEE Comisión
@@ -1942,7 +1934,6 @@ Directiva CE Comisión
 DO
 Directiva CE Comisión
 DO
-
 PLAZOS TRANSPOSICIÓN DERECHO NACIONAL
 Directiva
 Plazo transposición
@@ -3300,10 +3291,8 @@ territorio federado Renania NorteWestfalia Alemania
 Corrección errores Decisión Consejo julio relativa adopción medidas restrictivas Irán deroga Posición Común PESC
 Diario Oficial Unión Europea julio
 título Decisión sumario página cubierta
-
 PESC
 Decisión Consejo julio relativa adopción medidas restrictivas Irán deroga Posición Común PESC
-
 Decisión PESC Consejo julio relativa adopción medidas restrictivas Irán deroga Posición Común PESC
 página
 DECISIÓN CONSEJO julio relativa adopción medidas restrictivas Irán deroga Posición Común PESC
@@ -3679,7 +3668,6 @@ Apéndice
 DENOMINACIONES PROTEGIDAS BEBIDAS ESPIRITUOSAS ORIGINARIAS SUIZA
 Aguardiente genciana
 Licores
-
 Apéndice
 LISTA ACTOS MENCIONADOS ARTÍCULO REFERENTES BEBIDAS ESPIRITUOSAS VINOS AROMATIZADOS BEBIDAS AROMATIZADAS
 Bebidas espirituosas correspondientes partida Convenio Internacional Sistema Armonizado Designación Codificación Mercancías
@@ -4201,7 +4189,6 @@ ANEXO III
 Solicitud contribución indemnización coste animales sacrificados obligatoriamente huevos obligatoriamente destruidos
 foco
 Contacto foco
-
 Número identificación explotación
 Ganadero
 Situación explotación
@@ -4235,7 +4222,6 @@ Vacas
 especifíquense
 Corderos
 Cabras
-
 Ovejas
 Carneros
 Corderos
@@ -4243,7 +4229,6 @@ Machos cabríos
 Chivos
 Gallinas
 Aves corral
-
 Ponedoras
 carne
 Reproductoras

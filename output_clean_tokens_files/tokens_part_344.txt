@@ -47,7 +47,6 @@ Valor recomendado
 Concentración
 Blancos campo
 Inferior LOD
-
 μg kg materia seca
 μg kg materia seca
 Cuadro
@@ -59,14 +58,12 @@ Libre interferencias matriz espectro verificación detección positiva
 Adecuación fines
 exista número limitado métodos análisis plenamente validados evaluarse alternativamente idoneidad método análisis función adecuación fines perseguidos
 métodos adecuados control oficial arrojar resultados incertidumbre estándar medida inferior incertidumbre estándar máxima medida calculada fórmula
-
 Uf incertidumbre estándar máxima medida μg kg
 LOD límite detección método μg kg
 concentración interés μg kg
 factor numérico utilizarse valor valores utilizarse presentan cuadro
 Cuadro
 Valores numéricos darse constante fórmula establecida presente punto dependiendo concentración interés
-
 COMUNICACIÓN INTERPRETACIÓN RESULTADOS
 COMUNICACIÓN
 Expresión resultados
@@ -1197,11 +1194,9 @@ DO
 DO
 ANEXO
 Especies animales compañía
-
 Perros Canis lupus familiaris
 Gatos Felis silvestris catus
 Hurones Mustela putorius furo
-
 Invertebrados abejas abejorros contemplados artículo Directiva CEE moluscos crustáceos refieren artículo apartado letra incisos ii iii respectivamente Directiva CE
 Animales acuáticos ornamentales definidos artículo letra Directiva CE excluidos ámbito aplicación dicha Directiva artículo apartado letra
 Anfibios
@@ -1615,7 +1610,6 @@ DO
 DO
 DO
 ANEXO
-
 Lista terceros países partes terceros países Certificados conformes Comunidad Europea Confederación Suiza comercio productos agrícolas DO
 establece certificado prohíben importaciones carne fresca especies indicadas línea correspondiente país
 Restricciones categoría
@@ -1643,7 +1637,6 @@ BA Bosnia Herzegovina
 BH Bahréin
 BR Brasil
 Minas Gerais Espíritu Santo Goias Mato Grosso Rio do Sul Mato Grosso do Sul zona designada alta vigilancia km fronteras exteriores municipios Porto Mutinho Caracol Bela Vista Antônio João Ponta Porã Aral Moreira Coronel Sapucaia Paranhos Sete Quedas Japora Mundo Novo zona designada alta vigilancia municipios Corumbá Ladário
-
 diciembre
 Santa Catarina
 enero
@@ -2559,7 +2552,6 @@ Reproducción permitida Espacio Económico Europeo
 derechos reservados EEE excepción derecho reproducción personal finalidad lícita
 obtenerse información IASB wwwiasborg
 MEJORAS NORMAS INTERPRETACIONES
-
 Modificaciones Norma Internacional Información Financiera
 Activos corrientes mantenidos venta actividades interrumpidas
 añaden párrafos
@@ -3229,7 +3221,6 @@ Cuestiones
 cuestiones tratadas Interpretación
 interpreta requisito figura párrafo NIC establecida términos unidad medida corriente fecha balance entidad aplique Norma
 debería entidad contabilizar partidas iniciales impuestos diferidos financieros reexpresados
-
 ejercicio entidad identifique existencia hiperinflación economía moneda funcional dicha economía hubiese hiperinflacionaria ejercicio entidad aplicará requerimientos NIC economía hubiese hiperinflacionaria
 relación partidas monetarias valoradas coste histórico balance apertura entidad principio ejercicio antiguo presentado financieros reexpresará forma refleje efecto inflación fecha activos adquiridos incurrió pasivos asumidos fecha balance ejercicio informa
 partidas monetarias registradas balance apertura importes corrientes fechas distintas adquisición asunción reexpresión reflejará efecto inflación fechas importes libros determinados fecha cierre ejercicio informa
@@ -3662,7 +3653,6 @@ artículo apartado sustituye texto
 dispondrán puertas mamparos separen cámaras máquinas espacios pasajeros destinados alojamiento tripulación personal bordo
 artículo queda modificado
 momento escora resultante presión viento MW calculará fórmula
-
 presión específica viento kN
 distancia centro gravedad plano lateral Aw plano calado conforme condiciones carga contempladas
 hora calcular plano lateral cierre previsto cubierta toldos instalaciones móviles similares
@@ -3918,7 +3908,6 @@ REQUISITOS TRANSITORIOS RECINTOS CONSTRUIDOS TOLDOS INSTALACIONES MÓVILES SIMIL
 recintos construidos toldos instalaciones móviles similares causar problemas estabilidad buque puesto tamaño suficiente influyen momento escora resultante presión viento
 caso buques pasajeros expidió certificado buque enero invoca artículo apartado frase construcción recinto toldos instalaciones móviles similares efectuarse cálculo estabilidad arreglo presente Directiva medida plano lateral Awz supere plano lateral Aw tenerse caso
 instrucción administrativa sustituye
-
 Anclas especiales autorizadas
 cuadro enumeran anclas especiales masa reducida autorizadas autoridades competentes arreglo artículo apartado
 ancla
@@ -4469,7 +4458,6 @@ presente certifica instalaciones navegación radar indicadores giro embarcación
 Empresa especializada reconocida servicio técnico autoridad competente
 Sello Lugar Fecha
 Firma
-
 Registro autoridades competentes homologación instalaciones navegación radar indicadores giro
 consta autoridad país cuestión especificado autoridad competente
 País
@@ -4486,7 +4474,6 @@ Titular homologación
 Registro empresas especializadas reconocidas instalación sustitución instalaciones navegación radar indicadores giro
 consta empresa reconocida concedido reconocimiento empresa país
 Registro establecimientos ensayo especificados ensayo tipo equipos navegación radar indicadores giro
-
 VI
 Equipos equivalentes
 Instalaciones navegación radar Homologaciones basadas Resolución II Comisión Central Navegación Rin mayo modificada lugar Resolución II noviembre

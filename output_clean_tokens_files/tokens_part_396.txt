@@ -215,7 +215,6 @@ Clase tipo dispositivo dispositivos acoplamiento instalados instalar
 Características dispositivo dispositivos acoplamiento instalados características mínimas dispositivo dispositivos acoplamiento instalar
 Instrucciones montaje tipo acoplamiento vehículo fotografías planos puntos fijación vehículo previstos fabricante información suplementaria tipo acoplamiento utiliza determinadas variantes versiones tipo vehículo
 Información instalación brazos arrastre placas soporte especiales
-
 Avisadores acústicos
 Localización método fijación colocación orientación avisador avisadores dimensiones
 Número avisadores
@@ -377,7 +376,6 @@ ANEXO II
 ANEXO III
 FICHA CARACTERÍSTICAS HOMOLOGACIÓN TIPO CE VEHÍCULOS
 notas explicativas figuran página anexo
-
 planos caso entregarán escala adecuada suficientemente detallados tamaño doblados forma ajusten tamaño
 Categorías
 identificación tipo vehículo marcado
@@ -489,7 +487,6 @@ caracteres sección objetivo cumplir requisitos sección norma ISO indicarán di
 II
 Cuadro muestra combinaciones puntos versiones variantes tipo vehiculo
 Epígrafe
-
 Versión
 Versión
 Versión
@@ -519,7 +516,6 @@ caso especificará columna acto legislativo aplicado
 ANEXO III
 ANEXO IV
 LISTA ACTOS REGLAMENTARIOS FIJAN REQUISITOS HOMOLOGACIÓN TIPO CE VEHÍCULOS
-
 Lista actos reglamentarios homologación tipo CE vehículos fabricados series ilimitadas
 Acto legislativo aplicable véase información acto
 Epígrafe
@@ -528,178 +524,117 @@ Referencia Diario Oficial
 Aplicable
 Nivel sonoro admisible
 Directiva CEE
-
 Emisiones
 Directiva CEE
-
 Emisiones Euro vehículos ligeros acceso información
 Reglamento CE
-
 Depósitos combustible dispositivos protección trasera
 Directiva CEE
-
 Emplazamiento placa matrícula posterior
 Directiva CEE
-
 Mecanismos dirección
 Directiva CEE
-
 Cerraduras bisagras puertas
 Directiva CEE
-
 Avisador acústico
 Directiva CEE
-
 Dispositivos visión indirecta
 Directiva CE
-
 Frenado
 Directiva CEE
-
 Parásitos radioeléctricos compatibilidad electromagnética
 Directiva CEE
-
 Humos diésel
 Directiva CEE
-
 Acondicionamiento interior
 Directiva CEE
-
 Antirrobo inmovilizador
 Directiva CEE
-
 Comportamiento dispositivo conducción caso colisión
 Directiva CEE
-
 Resistencia asientos
 Directiva CEE
-
 Salientes exteriores
 Directiva CEE
-
 Velocímetro marcha atrás
 Directiva CEE
-
 Placas reglamentarias
 Directiva CEE
-
 Anclajes cinturones seguridad
 Directiva CEE
-
 Anclajes cinturones seguridad
 Directiva CEE
-
 Catadióptricos
 Directiva CEE
-
 Luces gálibo posición delanteras traseras frenado laterales posición circulación diurna
 Directiva CEE
-
 Directiva CEE
-
 Dispositivo alumbrado placa matrícula posterior
 Directiva CEE
-
 Proyectores incluidas lámparas
 Directiva CEE
-
 Directiva CEE
-
 Dispositivos remolque
 Directiva CEE
-
 Luces antiniebla traseras
 Directiva CEE
-
 Luces marcha atrás
 Directiva CEE
-
 Directiva CEE
-
 Cinturones seguridad sistemas retención
 Directiva CEE
-
 Campo visión delantera
 Directiva CEE
-
 Identificación mandos luces testigo indicadores
 Directiva CEE
-
 Dispositivos antihielo antivaho
 Directiva CEE
-
 Lava limpiaparabrisas
 Directiva CEE
-
 Sistemas calefacción
 Directiva CE
-
 Directiva CEE
-
 Directiva CEE
-
 Emisiones CO consumo combustible
 Directiva CEE
-
 Potencia motor
 Directiva CEE
-
 Emisiones Euro vehículos pesados
 Directiva CE
-
 Directiva CEE
-
 Sistemas antiproyección
 Directiva CEE
-
 Masas dimensiones automóviles
 Directiva CEE
-
 Cristales seguridad
 Directiva CEE
-
 Neumáticos
 Directiva CEE
-
 Directiva CEE
-
 Masas dimensiones vehículos punto
 Directiva CE
-
 Salientes exteriores cabinas
 Directiva CEE
-
 Dispositivos acoplamiento
 Directiva CE
-
 Inflamabilidad
 Directiva CE
-
 Autobuses autocares
 Directiva CE
-
 Colisión frontal
 Directiva CE
-
 Colisión lateral
 Directiva CE
-
 vacío
 Vehículos destinados transporte mercancías peligrosas
 Directiva CE
-
 Directiva CE
-
 Directiva CE
-
 Reciclado
 Directiva CE
-
 Directiva CE
-
 Sistemas aire acondicionado
 Directiva CE
-
 Apéndice
 Lista actos reglamentarios homologación tipo vehículos categoría fabricados series cortas arreglo artículo
 Leyenda
@@ -711,66 +646,15 @@ cumplirán prescripciones técnicas acto reglamentario
 ensayos establecidos acto reglamentario realizarán totalidad previo autoridad homologación fabricante fabricante recibir autorización expedir informe técnico necesario expedir certificado homologación tipo homologación tipo obligatoria
 fabricante demostrará satisfactoria autoridad homologación cumplen requisitos generales acto reglamentario
 acto reglamentario aplicable requisito
-
 Emisiones excepción conjunto requisitos relativos sistemas diagnóstico bordo OBD
-
 Emisiones Euro excepción conjunto requisitos relativos sistemas diagnóstico bordo OBD acceso información
-
 Depósitos combustible dispositivos protección trasera
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Luces gálibo posición delanteras traseras frenado laterales posición circulación diurna
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Sistemas calefacción
-
-
 Emisiones CO consumo combustible
-
-
 Emisiones Euro vehículos pesados excepción conjunto requisitos relativos sistemas diagnóstico bordo OBD
-
-
-
-
-
-
-
-
-
 Sistema protección delantera
-
 Sistema aire acondicionado
-
 Subconjunto electrónic
 Componente
 Vehículo
@@ -1211,12 +1095,10 @@ base mol
 gases inertes etc base mol
 mínima
 Kmáxima
-
 Sistema alimentación bomba inyección admisión mezcla combustible etc Tache proceda casos necesario tachar aplicable opción
 necesario información acerca componentes esté incluida certificado homologación relativo prescripciones instalación
 numeración elementos presente cuadro referencia numeración utilizada cuadro
 concede deniega retira Táchese proceda homologación
-
 Instalación dispositivos alumbrado señalización luminosa Directiva CEE
 conversión puntos anclaje cinturones seguridad deban desplazarse tolerancias previstas anexo punto Directiva CEE servicio técnico comprobará alteración constituye caso deberá realizarse ensayo previsto anexo VII Directiva CEE
 Reglamento CE Comisión
@@ -1873,7 +1755,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -2889,7 +2770,6 @@ DECLARA PRESENTE
 adhiere Convenio
 Adjunta presente Instrumento traducción Convenio lengua oficial Rumanía
 Acepta recomendaciones decisiones Comisión mixta CEAELC simplificación formalidades intercambios mercancías adoptar octubre fecha haga efectiva adhesión Rumanía conformidad dispuesto artículo bis Convenio
-
 Rumanía
 Directiva UE Comisión
 marzo
@@ -2975,9 +2855,7 @@ Netilmetilpropiloxazolildimetoxibenzamida
 Tolueno kg
 junio
 mayo
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión isoxabeno particular apéndices II ultimaron Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención riesgo organismos acuáticos riesgo plantas terrestres destinatarias producto filtración metabolitos aguas subterráneas
 proceda condiciones deberán incluir medidas reducción riesgo
@@ -3787,7 +3665,6 @@ EUR unidad
 Taiwán
 Indizado
 Tailandia
-
 Evolución consumo
 indica considerando PIR consumo disminuyó
 industria Unión mantuvo aumentó ligeramentesu cuota mercado véase considerando
@@ -4714,7 +4591,6 @@ Contaminantes gaseosos
 ensayo tipo
 combustibles
 combustibles
-
 Masa partículas número partículas
 gasolina
 Emisiones ralentí
@@ -4814,7 +4690,6 @@ ecuaciones
 concentración CO gases escape diluidos contenidos bolsa muestreo expresada porcentaje volumen
 concentración HC gases escape diluidos contenidos bolsa muestreo expresada ppm equivalente carbono
 concentración CO gases escape diluidos contenidos bolsa muestreo expresada ppm
-
 concentración HO gases escape diluidos contenidos bolsa muestreo expresada porcentaje volumen
 HDA
 concentración HO aire dilución expresada porcentaje volumen

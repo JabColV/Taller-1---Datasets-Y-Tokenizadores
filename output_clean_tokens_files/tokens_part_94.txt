@@ -548,7 +548,6 @@ residuo obtenido aceites alquitrán hulla baja temperatura lavado alcalino hidr�
 Ácidos alquitrán hulla crudos
 fenoles crudos
 producto reacción obtenido neutralización extracto alcalino aceite alquitrán hulla solución ácida ácido sulfúrico acuoso dióxido carbono gaseoso obtener ácidos libres compuesto principalmente ácidos alquitrán fenol cresoles xilenoles
-
 entradas sustituyen siguientes
 Dicromato sodio
 Dinitrotolueno
@@ -577,7 +576,6 @@ Aceite creosota destilado punto ebullición
 fracción destilación punto ebullición obtenida carbonización elevada temperatura hulla bituminosa refina separar exceso sales cristalinas compuesta principalmente aceite creosota separado sales aromáticas polinucleares normales componentes destilado alquitrán hulla libre cristales °C
 Fibras cerámicas refractarias fibras usos especiales especificadas partes presente anexo
 fibras vítreas artificiales silicato orientación aleatoria cuyo contenido ponderado óxido alcalino óxido tierra alcalina NaO KO CaO MgO BaO inferior peso
-
 apéndice cuadro modifica
 suprime entrada
 insertan siguientes entradas orden entradas incluidas apéndice anexo XVII Reglamento CE
@@ -1575,7 +1573,6 @@ texto correspondiente Irlanda sustituye
 IRLANDA
 texto correspondiente Francia sustituye
 FRANCIA
-
 ProvenceAlpesCôte dAzur
 Francia
 texto correspondiente Hungría sustituye
@@ -2079,7 +2076,6 @@ Artículo
 miembros aplicar excepciones contempladas artículo vegetales importados Comunidad siguientes períodos
 Vegetales
 Período
-
 Artículo
 destinatarios presente Decisión miembros
 Bruselas junio
@@ -2145,9 +2141,7 @@ REPÚBLICA FINLANDIA
 REINO SUECIA
 REINO UNIDO BRETAÑA IRLANDA NORTE
 Partes contratantes Tratado Unión Europea Tratado Funcionamiento Unión Europea denominados sucesivo miembros
-
 REPÚBLICA COREA
-
 denominados sucesivo conjuntamente Partes
 TENIENDO tradicionales lazos amistad vínculos históricos políticos económicos unen
 RECORDANDO Marco Comercio Cooperación Comunidad Europea miembros República Corea firmado Luxemburgo octubre entró vigor abril
@@ -2887,10 +2881,8 @@ cuadro fila correspondiente número orden entrada cuarta columna Cantidad tonela
 Corrección errores Reglamento CE Consejo octubre modifica Reglamento CE establece organización común mercados sector azúcar
 Diario Oficial Unión Europea octubre
 página anexo
-
 ANEXO IX
 CÁLCULO PORCENTAJE APLICABLE EMPRESAS ARREGLO DISPUESTO ARTÍCULO APARTADO PÁRRAFO
-
 CÁLCULO PORCENTAJE APLICABLE EMPRESAS ARREGLO DISPUESTO ARTÍCULO APARTADO PÁRRAFO
 Reglamento UE Comisión
 enero
@@ -4342,7 +4334,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4356,7 +4347,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4370,7 +4360,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri

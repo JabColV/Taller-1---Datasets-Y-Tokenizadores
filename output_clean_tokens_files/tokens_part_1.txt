@@ -359,13 +359,9 @@ determinada fuente radiación óptica corresponder valores exposición correspon
 letras refieren filas tabla
 Heff pertinente únicamente intervalo longitud onda nm
 HUVA pertinente únicamente intervalo longitud onda nm
-
 LB pertinente únicamente intervalo longitud onda nm
-
 EB pertinente únicamente intervalo longitud onda nm
-
 véase tabla valores adecuados
-
 EIR pertinente únicamente intervalo longitud onda nm
 Hpiel
 Hpiel pertinente únicamente intervalo longitud onda nm
@@ -423,33 +419,27 @@ piel
 cáncer piel
 ojos cristalino
 luz azul véase nota
-
 LBW sr
 segundos
 mrad
 ojos retina
 luz azul
 véase nota
-
 mrad
 véase nota
 visible IRA
-
 Cα
 Cα
 Cα
 quemadura retina
 μs
 μs
-
 Cα
 tamaño campo visual mrad
 μs
 IRA IRB
 EIR
-
 quemadura córnea
-
 IRB
 Hpiel
 segundos piel quemadura
@@ -475,7 +465,6 @@ Longitud ondaa nm
 Apertura
 Duración
 mm
-
 Véase nota
 véase nota
 véase nota
@@ -489,7 +478,6 @@ véase nota
 véase nota
 véase nota
 véase nota
-
 Visible IRA
 CE CE
 CE CE
@@ -500,7 +488,6 @@ CC CE
 IRB IRC
 Véase nota
 Véase nota
-
 Véase nota
 Véase nota
 aparecen límites longitud onda láser aplicará restrictivo
@@ -520,7 +507,6 @@ mrad CA CC
 mrad CA CC CE
 mrad CA CC CE deberá exceder
 verc
-
 aparecen límites longitud onda característica láser aplicará restrictivo
 caso fuentes pequeñas subtiendan ángulo inferior mrad límites radiación visible nm nm reducen límites térmicos s≤t límites fotoquímicos exposiciones mayores
 véase tabla
@@ -544,7 +530,6 @@ Factores corrección parámetros cálculo aplicados
 Parámetro utiliza ICNIRP
 Intervalo espectral válido nm
 Valor
-
 Válido efecto biológico
 efectos térmicos
 Intervalo ángulos válidos mrad
@@ -573,10 +558,6 @@ cataratas
 Eritema
 fotorretinitis
 Epiel
-
-
-
-
 CA
 base datos terminología comunitaria figuran siguientes traducciones término penalty lenguas
 checo sankce español sanciones danés sanktioner alemán Sanktionen estonio sanktsioonid francés sanctions griego κυρώσεις húngaro jogkövetkezmények italiano sanzioni letón sankcijas lituano sankcijos maltés penali neerlandés sancties polaco sankcje portugués sanções esloveno kazni eslovaco sankcie finés seuraamukset sueco sanktioner
@@ -586,7 +567,6 @@ irradiancia efectiva rango radiaciones UV irradiancia calculada intervalo longit
 eff
 irradiancia UVA irradiancia calculada intervalo longitudes onda UVA nm expresada vatios metro cuadrado m‐ UVA
 Tabla
-
 fórmulas utilizarse dependen longitud onda duración radiación emitida fuente resultados compararse correspondientes valores límite exposición indicados tablas
 dP potencia expresada vatios superficie expresada metros cuadrados
 irradiancia densidad potencia potencia radiante unidad área incide superficie expresada general vatios metro cuadrado
@@ -600,14 +580,9 @@ CA CE
 CA CE
 CC CE
 CC CE
-
-
-
 CB
 CB
-
 CA
-
 Decisión Atalanta Comité Político Seguridad
 marzo
 nombra Comandante Fuerza UE Operación Militar Unión Europea destinada contribuir disuasión prevención represión actos piratería robo mano armada frente costas Somalia Atalanta deroga Decisión Atalanta
@@ -1878,7 +1853,6 @@ aplican niveles residuales máximos mg kg mg kg mg kg distintos grupos dichos pr
 establecido dosis residuales máximas relación productos controlar cantidad añadida sales curado absorbidas carne naturaleza proceso fabricación
 Directiva describe proceso producción productos específicos permitir identificación productos similares aclarar productos aplican distintos niveles máximos
 cuadro contiene niveles máximos establece Directiva CE
-
 Nombre
 Producto alimenticio
 Cantidad máxima añadirse fabricación
@@ -4510,11 +4484,9 @@ DO
 ANEXO
 ANEXO II
 LISTA PAÍSES TERRITORIOS
-
 IE Irlanda
 Suecia
 UK Reino Unido
-
 Sección
 DK Dinamarca incluidas GL Groenlandia FO Islas Feroe
 España continental Islas Baleares Islas Canarias Ceuta Melilla
@@ -4526,7 +4498,6 @@ IS Islandia
 MC Mónaco
 Noruega
 Vaticano
-
 AC Isla Ascensión
 AE Emiratos Árabes Unidos
 AG Antigua Barbuda
@@ -4587,7 +4558,6 @@ Grupos
 Cantidad aproximada
 Años cosecha
 Tipos arroz
-
 redondo
 Acharnon Street
 cantidad arroz cáscara almacenada actualmente organismo intervención griego importante período almacenamiento resulta conveniente convocar licitación permanente reventa mercado interior cerca toneladas arroz cáscara posesión organismo
@@ -4805,7 +4775,6 @@ Véase página presente Diario Oficial
 ANEXO
 perjuicio reglas interpretación nomenclatura combinada considerarse designación productos valor meramente indicativo contexto presente anexo concesiones determinadas ámbito cubierto códigos NC vigentes momento adoptarse presente Reglamento
 indican códigos ex NC concesiones determinarse aplicación código NC designación correspondiente considerados conjunto
-
 Anexos arancelarios
 Código NC
 Designación mercancía
@@ -4821,7 +4790,6 @@ Carne pavo gallipavo fresca refrigerada congelada
 Trozos pavo congelados
 Deshuesados
 Mitades cuartos
-
 Leche desnatada polvo
 Aplicado Reglamento CE Consejo DO
 Vinos uvas frescas distintos vinos espumosos vinos calidad producidos regiones determinadas grado alcohólico volumétrico adquirido rebase vol recipientes contenido superior litros
@@ -4909,7 +4877,6 @@ informe ensayo deberá indicarse montaje ensayo
 Decisión
 marzo
 relativa sustitución supresión modelos formularios necesarios aplicación Reglamentos CEE CEE Consejo
-
 Texto pertinente efectos EEE UE Suiza
 COMISIÓN ADMINISTRATIVA SEGURIDAD SOCIAL TRABAJADORES MIGRANTES
 Vista letra artículo Reglamento CEE Consejo junio relativo aplicación regímenes Seguridad Social trabajadores ajena trabajadores miembros familias desplazan Comunidad virtud encargada resolver cuestión administrativa derivada disposiciones Reglamento CEE Reglamentos ulteriores

@@ -927,7 +927,6 @@ Grupo fresco congelado
 toneladas EPE
 Noruega
 Islas Feroe
-
 ANEXO II
 LISTA PAÍSES DESARROLLO
 refiere artículo
@@ -1628,27 +1627,22 @@ DO
 Reglamento modifícado Reglamento CE DO
 ANEXO
 Métodos clasificación canales cerdo República Checa
-
 clasificación canales cerdo llevará cabo método denominado ZweiPunkteMessverfahren ZP
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 ZP espesor tocino incluida corteza medido regla cálculo punto músculo glúteo mgm convexo mm
 ZP espesor músculo medido regla cálculo nivel distancia corta extremo craneal músculo glúteo borde dorsal canal raquídeo
 fórmula válida canales peso comprendido kilogramos
-
 clasificación canales cerdo llevará cabo aparato denominado FatOMeater FOM
 aparato irá equipado sonda diámetro mm fotodiodo tipo Siemens SFH alcance operativo mm
 ordenador traducirá resultados medición contenido estimado carne magra
 FOM Espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal penúltima antepenúltima costilla
 FOM espesor músculo milímetros medido tiempo lugar FOM
-
 clasificación canales cerdo llevará cabo aparato denominado Hennessy Grading Probe HGP
 aparato irá equipado sonda diámetro mm mm lámina situada extremo dicha sonda fotodiodo LED Siemens tipo LYU EO fotodetector tipo MR alcance operativo mm
 HGP ordenador conectado traducirán resultados medición contenido estimado carne magra
 HGP Espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal penúltima antepenúltima costilla
 HGP espesor músculo milímetros medido tiempo lugar HGP
-
 clasificación canales cerdo llevará cabo aparato denominado UltraFOM
 aparato irá equipado sonda ultrasónica MHz
 señal ultrasónica digitalizada almacenada procesada microprocesador
@@ -2593,9 +2587,7 @@ apéndice modifica
 suprimen puntos cuadro
 suprime punto cuadro
 añade fila cuadro
-
 leyenda añade texto
-
 Reglamento aplicable parcialmente
 ámbito aplicación preciso establece medidas aplicación Reglamento
 apéndice anexo VI cuadro modifica
@@ -2651,7 +2643,6 @@ Fechas aplicación vehículos
 julio
 noviembre
 julio
-
 Reglamento UE Comisión
 septiembre
 prohíbe pesca anchoa zonas IX aguas UE CPACO buques enarbolan pabellón España
@@ -2782,7 +2773,6 @@ DO
 Sustituido Reglamento UE Parlamento Europeo Consejo noviembre regímenes calidad productos agrícolas alimenticios DO
 espacio inferior líneas reproduce inscripción AMARENE BRUSCHE DI MODENA IGP
 logotipo adaptar función diversas posibilidades
-
 accediendo directamente página inicio sitio web Ministerio Política Agrícola Alimentaria Forestal httpwwwpoliticheagricoleit pulsando Qualità sicurezza calidad seguridad derecha pantalla Disciplinari di Produzione all’esame dell’UE pliegos condiciones sometidos examen UE
 Frutas hortalizas cereales frescos transformados
 zona producción mermelada Amarene Brusche di Modena IGP caracteriza presencia suelos profundos generalmente fértiles estructurados porosidad permeabilidad conformación principal suelo tipo francolimoso escasa presencia arcilla posee elevada aptitud cultivo planta cerezo ácido necesita terrenos permeables drenados frescos
@@ -4794,7 +4784,6 @@ reacción fuego
 Sistema certificación conformidad
 Chimeneas prefabricadas elementos piso altura revestimientos conductos elementos bloques chimenea multitubular elementos bloques bloques chimenea pared chimeneas independientes adosadas piezas extremos chimeneas
 usos sujetos normas reacción fuego
-
 Productos materiales etapa claramente identificable proceso producción supone mejora clasificación reacción fuego ejemplo adición retardadores ignición limitación material orgánico
 Productos materiales cubiertos nota
 Productos materiales necesitan someterse ensayo reacción fuego ejemplo productos materiales clase arreglo Decisión CE Comisión DO

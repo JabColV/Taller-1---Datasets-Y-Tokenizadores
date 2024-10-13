@@ -30,7 +30,6 @@ máximo °C
 Cuadro
 Temporada calefacción referencia europea condiciones climáticas medias aparatos calefacción bomba calor calefactores combinados bomba calor
 Hj año
-
 horas
 Cuadro
 Aire escape ventilación máximo disponible humedad
@@ -451,7 +450,6 @@ DO
 DO
 Táchese proceda
 ANEXO
-
 Alemania
 RenaniaPalatinado
 distrito Ahrweiler municipios Adenau Altenahr
@@ -743,7 +741,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -3764,7 +3761,6 @@ levadura inactivada selenizada
 Caracterización aditivo
 Contenido selenio orgánico principalmente seleniometionina comprendido mg kg selenio orgánico
 Caracterización sustancia activa
-
 aditivo incorporará pienso forma premezcla
 seguridad usuarios utilizar protección respiratoria gafas seguridad guantes manipulación
 octubre
@@ -3974,7 +3970,6 @@ origen producto documentado punto vista histórico refiere zona origen materia p
 Referencia publicación pliego condiciones artículo apartado Reglamento CE
 presente administración inició procedimiento nacional oposición contemplado artículo apartado Reglamento CE publicando solicitud modificación denominación origen protegida Prosciutto di Parma Gazzetta Ufficiale della Repubblica Italiana
 texto consolidado pliego condiciones consultarse dirección internet
-
 entrando directamente página web inicio Ministerio Política Agrícola Alimentaria Forestal wwwpoliticheagricoleit pulsando Qualità sicurezza derecha pantalla Disciplinari di Produzione all’esame dell’UE
 modificación motivada elementos figuran continuación
 versión pliego condiciones objeto solicitud modificación prevé colocación obligatoria etiqueta embalaje producto nombre productor empresa envasado dejando posibilidad prevista normativa nacional UE indicar simplemente nombre persona distribuye comercializa producto

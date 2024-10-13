@@ -665,7 +665,6 @@ ensayos animales sustituidos completamente método alternativo anexo VIII mencio
 Métodos alternativos validados
 Naturaleza sustitución parcial
 ANEXO IX
-
 Directiva derogada sucesivas modificaciones
 contemplados artículo
 Directiva CEE Consejo julio
@@ -794,7 +793,6 @@ Directiva CE Comisión febrero
 DO
 Directiva CE Comisión abril
 DO
-
 Lista plazos transposición Derecho nacional fechas aplicación
 Directiva
 Plazos transposición
@@ -3025,7 +3023,6 @@ Copolímeros cristales líquidos termoplásticos tengan temperatura termodeforma
 Ácido hidroxi naftóico
 Ácido hidroxibenzoico
 Cetonas poliarileno éter indica
-
 Poliéter cetona cetona PEKK
 Poliéter cetona PEK
 Poliéter cetona éter cetona cetona PEKEKK
@@ -4126,7 +4123,6 @@ Ordenadores ópticos
 Ordenadores analógicos ordenadores digitales analizadores diferenciales digitales distintos incluidos subartículo Aa condiciones severas ruggedized diseñados modificados emplearlos lanzaderas espaciales incluidas artículo cohetes sondeo incluidos artículo
 Ordenadores híbridos diseñados especialmente modelización simulación integración diseño lanzaderas espaciales incluidas artículo cohetes sondeo incluidos artículo
 Nota control aplica equipo suministra equipo lógico software especificado artículos
-
 Equipo lógico software posea características realice funciones sobrepasen límites especificados Categoría Seguridad información
 Nota subartículo Dc somete control equipo lógico software disposición usuario personal
 Tecnología Nota General Tecnología desarrollo producción utilización equipos equipo lógico software incluidos artículos
@@ -4221,9 +4217,7 @@ Nota valores CTP agregados CEs múltiples diseñadas especialmente mejorar resul
 aplicaciones aplican conjuntos electrónicos descritos subartículo Ac
 CEs operando simultáneamente compartiendo memoria
 Nota CTP calculado método exceda Mtops fórmula usada calcular Ci
-
 número CEs grupos CEs comparten acceso
-
 TPi CE grupo CEs excedan Mtops
 CE grupos CEs compartan acceso memoria principal excluida memoria oculta cache canal único
 CE grupo CEs canal instante determinado
@@ -4273,7 +4267,6 @@ combinaciones múltiples memoria procesador funcionamiento simultáneo utilicen 
 Nota entiende procesador vectorial procesador instrucciones incorporadas realice simultáneamente cálculos múltiples vectores coma flotante órdenes unidimensionales bits disponga unidades funcionales vectoriales registros vectoriales elementos
 CATEGORÍA
 TELECOMUNICACIONES SEGURIDAD INFORMACIÓN
-
 TELECOMUNICACIONES
 Nota Categoría define régimen control componentes láseres equipos produccióny prueba equipo lógico software diseñados especialmente equipos sistemas telecomunicaciones
 Diseñado especialmente funcionar gama temperaturas °C °C

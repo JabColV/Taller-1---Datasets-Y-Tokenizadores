@@ -2627,7 +2627,6 @@ LIQUIDACIÓN CUENTAS ORGANISMOS PAGADORES
 Ejercicio Gasto FEAGA desarrollo rural miembros
 Cantidad abonarse miembro reclamársele
 Gasto organismos pagadores cuyas cuentas
-
 Reducciones
 Pagos intermedios reembolsados miembro ejercicio
 Cantidad recuperarse miembro abonársele
@@ -4518,18 +4517,15 @@ DO
 Reglamento modificado Reglamento CE DO
 ANEXO
 anexo Decisión CE añade
-
 clasificación canales porcino llevará cabo aparato denominado IM
 aparato irá equipado sonda óptica aguja Single Line Scanner SLS milímetros diámetro
 sonda contendrá línea sensores imagen contacto SIC diodos emisores luz verde
 alcance operativo situará milímetros
 contenido carne magra canal calculará aplicando fórmula
-
 porcentaje estimado carne magra canal
 espesor grasa dorsal incluida piel milímetros medido centímetros línea media canal cuarta costilla
 espesor muscular milímetros medido tiempo lugar
 fórmula válida canales peso comprendido kilogramos
-
 Recomendación Consejo
 febrero
 aprueba ejecución Comisión operaciones Fondo Europeo Desarrollo octavo FED ejercicio
@@ -4611,7 +4607,6 @@ DO
 DO
 Reglamento modificado lugar Reglamento CE DO
 ANEXO
-
 Cereales productos base cereales destinados alimentación animal humana oleaginosas proteaginosas forrajes desecados
 Plan previsiones abastecimiento ayuda comunitaria abastecimiento productos comunitarios año civil
 Departamento
@@ -4626,17 +4621,14 @@ Guayana
 Trigo blando cebada maíz productos destinados alimentación animal malta
 Martinica
 Trigo blando cebada maíz grañones sémola trigo duro avena malta
-
 Productos transformados base frutas hortalizas
 Purés frutas obtenidos cocción adición azúcar edulcorantes destinados transformación
-
 Pulpas frutas preparadas conservadas adición azúcar edulcorantes alcohol expresadas comprendidas destinadas transformación
 Jugos concentrados frutas incluidos mostos uvas fermentar adición alcohol adición azúcar edulcorantes destinados transformación
 Tomates preparados conservados vinagre ácido acético
 importe restitución correspondiente productos código NC concedida aplicación artículo Reglamento CE Comisión DO
 importe restitución correspondiente productos código NC concedida aplicación artículo Reglamento CE Consejo DO
 ANEXO II
-
 Sector carne vacuno
 Código
 Ayuda EUR tonelada
@@ -4646,7 +4638,6 @@ códigos productos notas pie página definen Reglamento CEE Comisión DO modific
 importe restitución correspondiente productos código NC concedida aplicación artículo Reglamento CE
 restituciones concedidas aplicación artículo Reglamento CE distintas importe ayuda importe restitución concedida productos código nomenclatura restituciones exportación destino vigor momento solicitud ayuda
 ANEXO III
-
 Productos transformados base frutas hortalizas
 Confituras jaleas mermeladas purés pastas frutas obtenidos cocción adición azúcar edulcorantes
 preparaciones homogeneizar base frutas agrios
@@ -4659,8 +4650,6 @@ melocotones
 fresas
 incluidas mezclas código NC
 mezclas luidas mezclas código NC
-
-
 Leche productos lácteos
 Cantidad toneladas
 Leche nata concentradas azucaradas edulcoradas
@@ -4688,9 +4677,7 @@ Reunión
 Corrección errores Reglamento CE Consejo octubre modifica Reglamento CE establece derecho antidumping definitivo importaciones equipos cámaras televisión originarios Japón
 Diario Oficial Unión Europea octubre
 página considerando
-
 visor VFP
-
 visor VFPE
 página anexo columna Visor apartado correspondiente empresa JVC
 VFP

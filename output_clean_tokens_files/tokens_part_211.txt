@@ -4747,7 +4747,6 @@ Intermediarios piensos
 Medios transporte
 Explotaciones crían rumiantes
 Explotaciones crían rumiantes
-
 Toma muestras examen materias primas piensos piensos compuestos vistas detección proteínas animales transformadas
 Número muestras oficiales sometidas prueba vistas detectar presencia proteínas animales transformadas
 Número muestras conformes

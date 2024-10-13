@@ -245,7 +245,6 @@ Significa enviado Comisión solicitud certificado
 orden
 Coeficiente asignación aplicable solicitudes certificados importación presentadas subperíodo comprendido abril junio
 Cantidad disponible subperíodo comprendido julio septiembre
-
 solicitudes certificados importación presentadas mes marzo subperíodo comprendido abril junio superiores cantidades disponibles conviene determinar fijación coeficiente asignación aplique cantidades solicitadas medida expedirse certificados importación
 Reglamento CE Comisión
 octubre
@@ -506,9 +505,6 @@ DO
 DO
 DO
 ANEXO
-
-
-
 Reglamento CE Comisión
 julio
 establecen determinados productos agrícolas exportados forma mercancías incluidas anexo Tratado medidas excepcionales relativas certificados restitución concesión restituciones exportación
@@ -3624,7 +3620,6 @@ Margen eliminación perjuicio
 Margen dumping
 Derecho compensatorio provisional
 Derecho antidumping propuesto
-
 DISPOSICIÓN
 aras correcta administración procede establecer período partes interesadas plazo especificado anuncio apertura procedimiento puedan comunicar escrito observaciones solicitar oídas
 indica conclusiones referentes imposición derechos formuladas efectos presente Reglamento provisionales reconsiderarse efectos derecho definitivo
@@ -4427,7 +4422,6 @@ NCYC levadura inactivada selenizada
 Caracterización aditivo
 Contenido selenio orgánico principalmente seleniometionina comprendido mg kg selenio orgánico
 Método analítico Espectrometría absorción atómica AAS horno grafito efecto Zeeman AAS hídrida
-
 aditivo incorporará piensos compuestos premezcla
 seguridad usuarios utilizar protección respiratoria gafas seguridad guantes manipulación
 dirección laboratorio comunitario referencia obtenerse información métodos analíticos wwwirmmjrcbehtmlcrlfaa
@@ -4956,7 +4950,6 @@ anexo Reglamento UE modifica
 partes II sustituyen texto
 II
 Criterios mínimos calidad contemplados
-
 Análisis requerido límite específico cuyo contenido tenerse límites máximos fijados puntos tabla
 aplicable análisis necesario
 Trigo duro
@@ -4970,7 +4963,6 @@ Granos partidos
 Impurezas constituidas granos
 Impurezas distintas granos atizonados
 granos asurados
-
 cereales
 granos dañados plagas
 granos germen coloreado
@@ -4978,10 +4970,8 @@ granos recalentados secado
 Granos atizonados
 Granos germinados
 Impurezas diversas
-
 granos extraños
 nocivos
-
 granos dañados
 granos dañados calentamiento espontáneo calor excesivo secado
 granos atacados Fusarium

@@ -812,10 +812,8 @@ Códigos indicaciones peligro suplementarias
 ANEXO II
 Denominación Química Internacional
 Límites concentración
-
 ANEXO III
 ANEXO IV
-
 Decisión Comité Mixto transporte aéreo Comunidad Suiza instituido Comunidad Europea Confederación Suiza transporte aéreo
 abril
 sustituye anexo Comunidad Europea Confederación Suiza transporte aéreo
@@ -913,7 +911,6 @@ artículo añade párrafo
 Suiza participará plenamente Consejo administración derechos obligaciones miembros Unión Europea derecho voto
 artículo añade apartado
 Suiza participará contribución financiera prevista apartado letra arreglo fórmula
-
 presupuesto Agencia cubierta tasas ingresos mencionados apartado letras
 número asociados
 número miembros UE
@@ -970,7 +967,6 @@ Reglamento UE Comisión diciembre fijan criterios permitan miembros aplicar norm
 Reglamento UE Comisión enero modifica Reglamento CE Parlamento Europeo Consejo refiere especificaciones programas nacionales control calidad campo seguridad aviación civil
 Reglamento UE Comisión enero fijan procedimientos inspecciones realice Comisión ámbito seguridad aviación
 Reglamento UE Comisión marzo establecen medidas detalladas aplicación normas básicas comunes seguridad aérea
-
 Decisión Comisión abril establecen medidas detalladas aplicación normas básicas comunes seguridad aérea contienen información refiere artículo letra Reglamento CE
 Gestión tránsito aéreo
 Reglamento Parlamento Europeo Consejo marzo fija marco creación cielo único europeo Reglamento marco
@@ -1029,7 +1025,6 @@ Reglamento CE Parlamento Europeo Consejo
 Reglamento Parlamento Europeo Consejo febrero establecen normas comunes compensación asistencia pasajeros aéreos caso denegación embarque cancelación retraso vuelos deroga Reglamento CEE
 Artículos
 Reglamento Parlamento Europeo Consejo julio derechos personas discapacidad movilidad reducida transporte aéreo
-
 Directiva Consejo octubre reestructura régimen comunitario imposición productos energéticos electricidad
 Artículo apartado letra apartado
 Anexos
@@ -1584,7 +1579,6 @@ gramos envase litro solución lista agua lavado
 Productos listos utilizar productos utilicen necesidad dilución
 gramos envase litro solución lista agua lavado
 CPU calculará envase primario incluidos cierres tapones bombas manuales dispositivos nebulización aplicando fórmula
-
 peso envase primario incluida caso etiqueta
 peso material reciclado virgen envase primario
 proporción material reciclado envase primario Ui Pi
@@ -1659,7 +1653,6 @@ CPU Pi
 ΣVCDi
 FDi
 peso peso sustancia gramos contiene dosis recomendada fabricante litro agua lavado caso productos limpieza general diluyen agua utilización gramos producto caso productos limpieza general limpiacristales productos limpieza cocinas baños utilizan dilución FD factor degradación FT crónica factor toxicidad sustancia miligramos litro
-
 Reglamento CE Comisión
 febrero
 relativo expedición certificados importación carnes vacuno alta calidad frescas refrigeradas congeladas
@@ -2004,7 +1997,6 @@ Ingresos
 AVAS Acreedor
 Ministerio Economía accionista
 Participación
-
 importe compararse rentabilidad esperada capitalizar crédito AVAS seguido privatización empresa
 Valor crédito AVAS conversión deuda privatización informe resultado conversión deuda privatización calculó base método valor empresa sistemas fundamentales medición utilizado valorar negocios
 refiere método Comisión señala principio métodos estimar valor fondos empresa
@@ -3217,7 +3209,6 @@ Artículo Apoyo aplicación régimen tránsito especial
 IV Disposiciones finales
 Artículo Destinatarios
 ANEXOS
-
 INTRODUCCIÓN
 CAPÍTULO
 Objeto definiciones
@@ -3770,7 +3761,6 @@ denominación producto objeto imitación falsificación excepcionales caracterí
 Referencia publicación pliego condiciones
 administración competente incoó procedimiento nacional oposición publicando propuesta reconocimiento IGP Cipolla Rossa di Tropea Calabria Gazzetta Ufficiale della Repubblica Italiana agosto
 texto consolidado pliego condiciones consultarse dirección Internet
-
 accediendo directamente página inicio sitio web Ministerio Política Agrícola Alimentaria Forestal wwwpoliticheagricoleit pulsando Qualità sicurezza calidad seguridad derecha pantalla Disciplinari di Produzione all’esame dell’UE pliegos condiciones sometidos examen UE
 Sustituido Reglamento UE Parlamento Europeo Consejo noviembre regímenes calidad productos agrícolas alimenticios
 Reglamento UE entró vigor enero

@@ -168,8 +168,6 @@ magulladuras ligeras
 pequeño ombligo presente formación acorchada
 cicatrices acorchadas forma umbilical punto pistilar cuya superficie exceda cm
 permite tolerancia número peso tomates cumplan requisitos categoría categoría tolerancia frutos máximo consistir productos cumplan requisitos calidad categoría II
-
-
 Variación número productores frutas hortalizas miembros activos OP AOP trate número Variación superficie dedicada producción frutas hortalizas cultivada miembros OP AOP trate
 fuente asesora servicio asesoría organización productores servicio externo cuestión concreta refiera asesoramiento
 Atenas
@@ -350,7 +348,6 @@ Medios transporte
 Avión
 Buque
 Vagón ferrocarril
-
 Referencia documental
 PIF entrada UE
 Descripción mercancía
@@ -421,7 +418,6 @@ previos sacrificio estuvieron contacto aves corral cumpliesen condiciones letras
 Declaración bienestar animales
 veterinario oficial abajo firmante certifica presente leído comprendido Directiva CE carne figura certificado proviene aves corral tratadas matadero disposiciones pertinentes citada Directiva sacrificio matanza momento
 Notas
-
 Casilla indicar código zona compartimento origen necesario código columna anexo Reglamento CE
 Casilla indicar nombre dirección número autorización establecimiento expedición
 Casilla indicar matrícula vagones camiones nombre buques conoce número vuelo aviones
@@ -1085,9 +1081,7 @@ Extracto kg piretrinas
 Extracto kg piretrinas
 septiembre
 agosto
-
 autorizarse usos insecticida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión piretrinas SANCO particular apéndices II adoptado Comité Permanente Cadena Alimentaria Sanidad Animal
 evaluación general miembros prestarán atención particular
 riesgo operadores trabajadores
@@ -2706,7 +2700,6 @@ DO
 ANEXO
 Requisitos lingüísticos formato configuración declaraciones
 referencia artículo apartado letra artículo apartado artículo apartado letra Reglamento UE
-
 Formato configuración declaraciones referencia artículo apartado letra artículo apartado Reglamento UE
 DECLARATIÓN
 abajo firmante
@@ -2718,11 +2711,9 @@ Lugar fecha
 Firma
 Rellénese letras mayúsculas
 Táchese proceda
-
 Formato configuración declaraciones referencia artículo apartado letra Reglamento UE
 declara tránsito terceros países territorios distintos figuran lista anexo II Reglamento Ejecución UE Comisión siguientes animales compañía contacto animales especies sensibles rabia permanecido confinados transporte recinto aeropuerto internacional
 Número certificado zoosanitario
-
 Requisitos lingüísticos declaraciones referencia artículo apartado letra artículo apartado artículo apartado letra Reglamento UE
 declaraciones deberán redactadas lenguas oficiales miembro destino entrada inglés
 ANEXO II
@@ -2868,7 +2859,6 @@ animal presenta signo enfermedad condiciones transportado trayecto previsto
 LEGALIZACIÓN
 ORGANISMO LEGALIZADOR
 SELLO FIRMA
-
 Requisitos complementarios relativos pasaportes expedidos miembros
 Formato pasaporte
 pasaporte dimensiones mm
@@ -2900,7 +2890,6 @@ Sección VI cumplimentarse caso animal regrese Unión desplazamiento determinado
 Sección VII cumplimentarse desplazamiento determinados miembros conformidad legislación zoosanitaria UE
 Sexo
 Fecha colocación lectura tatuaje
-
 Requisitos complementarios relativos pasaportes expedidos terceros países territorios figuran anexo II presente Reglamento
 Color PANTONE monocromo emblema nacional recuadro superior
 inferior figurará impreso código ISO tercer país territorio expedidor seguido código alfanumérico único indicado número modelo pasaporte establecido
@@ -2980,7 +2969,6 @@ caso transporte marítimo plazo ampliará plazo complementario corresponda durac
 efectos desplazamientos miembros presente certificado válido fecha controles documentales identidad meses fecha expiración validez vacuna antirrábica dejen aplicarse condiciones relativas animales semanas contempladas punto II fechas
 ruega miembros comunicado autorizan desplazamiento territorio animales semanas referencia punto II
 disponer información consultarse dirección httpeceuropaeufoodanimalliveanimalspetsindexenhtm
-
 Casilla Destinatario indicar miembro destino
 caso tatuaje seleccionar fecha colocación lectura
 tatuaje deberá claramente legible haberse colocado julio
@@ -3042,7 +3030,6 @@ Requisitos complementarios declaración
 declaración irá redactada lenguas oficiales miembro entrada inglés deberá cumplimentarse letras mayúsculas
 Casilla Sistema identificación seleccionar transpondedor tatuaje
 caso transpondedor seleccionar fecha colocación lectura
-
 opción sujeta condición propietario persona física referencia punto II presente petición autoridades competentes responsables controles contemplados letra declaración conste animales contacto animales especies sensibles rabia permanecido confinados transporte recinto aeropuerto internacional tránsito terceros países territorios distintos figuran lista anexo II Reglamento Ejecución UE declaración deberá cumplir requisitos lingüísticos formato configuración establecidos partes anexo Reglamento Ejecución UE
 Reglamento CE Comisión
 junio

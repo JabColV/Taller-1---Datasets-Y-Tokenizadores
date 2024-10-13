@@ -411,7 +411,6 @@ Marca identificación embriones
 Número embriones
 Embriones producidos producidos fertilización in vitro sometidos penetración zona pelúcida
 Fecha recogida producción
-
 INFORMACIÓN SANITARIA
 equipo recogida producción embriones indicado anteriormente
 autorizado conformidad dispuesto anexo capítulo Directiva CEE Consejo
@@ -1029,7 +1028,6 @@ lista archivos entregados servicio administrativo concedido homologación obtene
 Número distintivo país concedido extendido denegado retirado homologación véanse disposiciones Reglamento relativas homologación
 Táchese proceda
 ANEXO
-
 Documento informativo conformidad proceda Reglamento relación homologación tipo CEPE tipo componente unidad técnica independiente sistemas alarma vehículos
 Marca nombre comercial fabricante
 Tipo
@@ -1053,7 +1051,6 @@ Descripción método instalación ilustrado fotografías dibujos
 Instrucciones
 Instrucciones mantenimiento caso
 caso tipo sistema alarma vehículos homologado unidad técnica independiente destinado instalado lugares específicos vehículos específicos arreglo condiciones instalación descripción apartados presente Reglamento aplican
-
 Documento informativo conformidad II Reglamento relación homologación tipo CEPE tipo vehículo sistema alarma inmovilizador
 sistema alarma
 inmovilizador Táchese proceda opción aplicable casos necesario tachar
@@ -1063,7 +1060,6 @@ Nombre dirección fabricante
 Características generales fabricación vehículo
 Fotografías dibujos vehículo representativo
 Volante izquierda volante derecha Táchese proceda opción aplicable casos necesario tachar
-
 Dispositivos evitar autorizado vehículo
 Inmovilizador vehículo
 Número homologación tipo caso
@@ -1073,7 +1069,6 @@ Sistema sistemas actúa inmovilizador vehículo
 Sistema alarma caso
 Descripción detallada tipo vehículo disposición sistema alarma vehículos instalado ilustrado fotografías dibujos tipo sistema alarma vehículos homologado unidad técnica independiente hacerse referencia descripción punto documento informativo fabricante sistema alarma vehículos
 relación sistemas alarma homologados
-
 Documento informativo conformidad III proceda Reglamento relación homologación tipo CEPE tipo componente unidad técnica independiente inmovilizador
 identificación tipo indica dispositivo
 Lista principales componentes dispositivo caso marcas referencia
@@ -1126,16 +1121,12 @@ apellidos nombre
 certifica sistema alarma vehículos inmovilizador
 Marca
 conforme aspectos tipo homologado
-
 lugar homologación
-
 fecha
 arreglo descripción formulario comunicación homologación
 Identificación principales componentes
 Componente
 Marca
-
-
 Dirección completa sello fabricante
 Firma indíquese cargo
 ANEXO
@@ -1449,7 +1440,6 @@ liquidadas
 disociadas
 gastos ingresos afectados declarados declaración anual
 gastos ingresos afectados totales declarados declaraciones mensuales
-
 Gasto
 Ingresos afectados
 Fondo azúcar
@@ -1460,8 +1450,6 @@ reducciones suspensiones sistema anticipos añaden concretamente correcciones in
 calcular importe recuperarse miembro abonarse importe declaración annual gasto liquidado columna declaraciones mensuales gasto disociado columna
 correspondiente ingresos afectados beneficia miembro declararse
 correspondiente ingresos afectados Fondo azúcar beneficia miembro declararse
-
-
 Reglamento CE Comisión
 octubre
 modifican tipos restituciones aplicables determinados productos sector azúcar exportados forma mercancías incluidas anexo Tratado
@@ -1598,9 +1586,7 @@ CICAP
 kg expresado clodinafoppropargil
 febrero
 enero
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión clodinafop particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal enero
 CAS
 CICAP
@@ -2110,19 +2096,14 @@ situación laboral empleo ajena incluidos colaboradores familiares optativo trab
 optativo sector económico empleo
 Secciones NACE rev
 Agricultura ganadería silvicultura pesca
-
 Industrias extractivas manufactureras
 Construcción
-
 Comercio menor transporte hostelería
 Información comunicación
 Actividades financieras seguros
 Actividades inmobiliarias
-
 Servicios empresariales
-
 Administración pública defensa educación actividades sanitarias servicios sociales
-
 servicios
 situación laboral desempleo estudiantes incluidos población activa personas incluidas población activa optativo personas incluidas población activa jubilación jubilación anticipada cese actividad discapacidad permanente servicio militar obligatorio civil sustitutorio tareas domésticas persona inactiva tipo
 ocupación conforme Clasificación Internacional Uniforme Ocupaciones CIUO trabajadores manuales trabajadores manuales trabajadores TIC trabajadores optativo ocupaciones conforme CIUO dígitos
@@ -4005,7 +3986,6 @@ Desglose tipo personalidad jurídica
 Sociedades anónimas
 Mutuas
 Sucursales empresas seguros cuya central situada país perteneciente Espacio Económico Europeo
-
 Estadísticas anuales desglosadas país residencia empresa matriz empresas servicios seguros contempladas anexo sección punto Reglamento CE Parlamento Europeo Consejo relativo estadísticas estructurales empresas
 Serie
 Número empresas clasificadas residencia empresa matriz
@@ -4019,12 +3999,10 @@ Estadísticas anuales desglosadas clases tamaño primas brutas devengadas empres
 Serie
 Número empresas clasificadas volumen primas brutas devengadas
 Primas brutas devengadas millones euros
-
 Estadísticas anuales desglosadas clases tamaño provisiones técnicas brutas empresas servicios seguros contempladas anexo sección punto Reglamento CE Parlamento Europeo Consejo relativo estadísticas estructurales empresas
 Serie
 Número empresas clasificadas volumen provisiones técnicas brutas
 Provisiones técnicas brutas millones euros
-
 Estadísticas anuales desglosadas productos empresas servicios seguros contempladas anexo sección puntos Reglamento CE Parlamento Europeo Consejo relativo estadísticas estructurales empresas
 Serie
 Estadísticas anuales desglosadas productos empresas servicios seguros
@@ -4387,7 +4365,6 @@ Serie
 Nivel desglose lugar residencia cliente
 Residente definición SEC punto
 residente
-
 UE
 UE
 Estadísticas bienales empresas actividades NACE Rev grupos desglosadas tipo producto contempladas anexo VIII sección punto Reglamento CE Parlamento Europeo Consejo relativo estadísticas estructurales empresas

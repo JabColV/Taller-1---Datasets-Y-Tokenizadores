@@ -345,7 +345,6 @@ DO
 DO
 ANEXO
 anexo III sustituye
-
 Datos IFM saldos
 Cuadro
 Obligaciones información estadística mensuales trimestrales IFM concedido exención contemplada artículo apartado Reglamento CE BCE
@@ -2313,7 +2312,6 @@ eje referencia interior campos angulares definidos esquemas anexo presente Regla
 direcciones correspondientes puntos cuadro distribución intensidad luminosa anexo presente Reglamento mínimo valor indicado cuadro dirección cuestión expresado porcentaje mínimo especificado punto
 superar máximo figura punto dirección espacio observarse luz cuestión
 caso luces estacionamiento orientadas atrás estén incorporadas luces frenado véase punto admisible intensidad luminosa cd plano forme ángulo abajo plano horizontal
-
 campos definidos anexo intensidad luz emitida inferior cd
 cumplirán requisitos punto anexo variaciones localizadas intensidad
 anexo presente Reglamento refiere punto indica detalles métodos medición deberán utilizarse
@@ -2394,7 +2392,6 @@ descripción
 Color luz emitida rojo blanco ámbar
 Número categorías lámparas incandescencia
 Módulo fuente luminosa
-
 Código identificación específico módulo fuente luminosa
 Condiciones geométricas instalación variaciones relacionadas
 caso
@@ -2497,7 +2494,6 @@ ciento
 luz
 ciento
 ambas luces
-
 muestra
 Muestra
 ambas luces
@@ -2527,7 +2523,6 @@ Figura
 toma muestras
 dispositivos seleccionados aleatoriamente divididos muestras
 dispositivos
-
 muestra
 pide fabricante ajuste productos requisitos
 Repetición toma muestras
@@ -2764,9 +2759,7 @@ Reglamento modificado Reglamento CE DO
 Corrección errores Reglamento CE Consejo julio relativo Estatuto sociedad cooperativa europea SCE
 Diario Oficial Unión Europea agosto
 página artículo apartado frase
-
 renuncia dará derecho reembolso participaciones condiciones previstas apartado artículo artículo
-
 renuncia dará derecho reembolso participaciones condiciones previstas artículo apartado artículo
 página artículo apartado frase
 Deberá adoptarse conformidad apartado artículo
@@ -3271,7 +3264,6 @@ anexo II Decisión CE queda modificado
 entrada correspondiente Rusia sustituye texto
 Rusia
 Rusia
-
 XXX
 entrada correspondiente tratamiento carne añade entrada correspondiente tratamiento
 Cocción completa carne previamente deshuesada desgrasada tratamiento térmico garantice temperatura central mínima °C mantenida minutos
@@ -4112,7 +4104,6 @@ CAPÍTULO Remanentes FED anteriores
 CAPÍTULO Disposiciones aplicables ejecución FED anteriores
 CAPÍTULO Período transitorio
 TÍTULO II DISPOSICIONES FINALES
-
 DISPOSICIONES PRINCIPALES
 TÍTULO
 OBJETO ÁMBITO APLICACIÓN

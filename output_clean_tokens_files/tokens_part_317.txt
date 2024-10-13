@@ -275,11 +275,6 @@ Descripción mercancías
 Período contingentario
 Volumen contingente anual toneladas peso neto especifique cosa
 Pantalones largos pantalones peto pantalones cortos calzones shorts mujeres niñas algodón
-
-
-
-
-
 período posterior
 Camisas punto hombres niños fibras sintéticas artificiales
 Pantalones largos pantalones peto pantalones cortos calzones shorts hombres niños algodón
@@ -1789,12 +1784,10 @@ DO
 DO
 ANEXO
 anexo Decisión CE añade
-
 disposiciones previstas aplicables emplee aparato denominado AutoFOM III clasificación canales cerdo
 aparato equipado transductores ultrasónicos funcionen MHz Carometec distancia operativa transductores mm datos ultrasónicos incluirán mediciones espesor grasa dorsal espesor muscular parámetros conexos
 ordenador convertirá resultados mediciones porcentaje estimado carne magra
 contenido carne magra canal calculará aplicando fórmula
-
 porcentaje estimado carne magra canal
 RP RP RP RP RP RP RP RP variables medidas AutoFOM III
 puntos medición describen II protocolo presentado Dinamarca Comisión conformidad artículo apartado Reglamento CE Comisión
@@ -2645,9 +2638,7 @@ metanol máx ppm
 cianuro hidrógeno máx ppm
 septiembre
 agosto
-
 autorizar usos fumigante
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión dióxido carbono SANCO particular apéndices II ultimó Comité Permanente Cadena Alimentaria Sanidad Animal mayo
 caso condiciones deberán incluir medidas reducción riesgo
 Reglamento CE Comisión
@@ -3225,7 +3216,6 @@ Fichas información complementaria tipo ayuda
 impreso rellenarse correctamente caso contrario notificación devuelta considerarse incompleta
 impreso rellenado transmitido papel Órgano misión unidad coordinación EEE AELC concernido
 AELC utiliza procedimiento específico establecido normas aplicables ayuda estatal copia notificación enviada Director Dirección Competencia Ayuda Estatal Órgano
-
 INFORMACIÓN GENERAL
 NATURALEZA NOTIFICACIÓN
 información transmitida impreso refiere
@@ -3280,10 +3270,8 @@ Conservación patrimonio
 Cultura
 Sistema Ayuda individual
 refiere notificación régimen ayudas
-
 caso afirmativo modifica régimen régimen ayudas existente
 caso afirmativo cumplen condiciones establecidas procedimiento notificación simplificado conformidad artículo apartado Decisión COL Órgano Vigilancia
-
 caso afirmativo utilícese impreso notificación simplificada facilítese información solicita véase Anexo II
 caso negativo sígase cumplimentando impreso especifíquese notificó Órgano régimen objeto modificación
 caso afirmativo especifíquense
@@ -3367,12 +3355,6 @@ Pequeñas empresas
 Microempresas
 siguientes beneficiarios
 Número estimado beneficiarios
-
-
-
-
-
-
 Importe ayuda gasto anual
 ayuda individual indíquese importe medida
 régimen ayudas indíquese importe anual presupuesto previsto importe moneda nacional
@@ -4152,7 +4134,6 @@ caso afirmativo comprometerse respetar intensidades ayuda máximas establecidas 
 Ayuda saneamiento instalaciones industriales contaminadas
 instalación cuestión descríbase naturaleza contaminación
 naturaleza grado contaminación peligro supone salud humana ambiente evaluados experto independiente
-
 Adjúntese copia informes
 caso ayuda específica contesten siguientes preguntas
 instalación actualmente propiedad pública privada
@@ -4430,7 +4411,6 @@ construcción infraestructuras vinculadas transporte combinado
 caso afirmativo descríbase medida
 concesión subvenciones reembolsables reducir costes acceso servicios transporte combinado
 caso afirmativo facilítese estudio justifique medida
-
 subvencionables contenedores marítimos ISO virtud régimen
 subvencionables vagones locomotoras virtud régimen
 caso afirmativo especifíquense beneficiarios
@@ -4619,9 +4599,7 @@ informes facilitarán soporte informático deberán incluir
 Corrección errores Decisión CE Consejo febrero relativa firma nombre Comunidad aplicación provisional Comunidad Europea República Islandia Reino Noruega modalidades participación Agencia Europea Gestión Cooperación Operativa Fronteras Exteriores miembros Unión Europea
 Diario Oficial Unión Europea julio
 título página cubierta página fórmula página
-
 febrero
-
 octubre
 Recomendación Consejo
 marzo

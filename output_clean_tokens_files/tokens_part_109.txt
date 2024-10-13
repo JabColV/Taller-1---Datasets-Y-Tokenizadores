@@ -58,26 +58,16 @@ Posición horizontal
 Intensidad luminosa
 Requisito
 Línea
-
 línea
 Zona
-
-
 cd mín
 zona
 Zona
-
-
 Zona
-
 Zona
-
-
 cd mín
 punto línea vertical
 Zona
-
-
 cd mín
 iluminación medirá luz blanca luz amarilla selectiva prescriba fabricante luz antiniebla delantera servicio normal
 permitidas variaciones vayan detrimento visibilidad satisfactoria zona zona
@@ -120,7 +110,6 @@ luz antiniebla delantera deberá ajustarse corte pantalla esté línea requisito
 Requisitos fotométricos
 ajustada luz antiniebla delantera deberá cumplir requisitos fotométricos cuadro véase anexo punto presente Reglamento
 Posición vertical
-
 Posición horizontal izq
 derecha
 cd
@@ -131,28 +120,20 @@ Punto
 Punto
 Punto
 Línea
-
 Línea
 Línea
 Línea
 Línea
-
 Línea
-
 mín
 Línea
 máximo línea
 Línea
-
-
 mín
 puntos
 Línea
-
-
 mín
 Zona
-
 iluminación medirá luz blanca luz coloreada prescriba fabricante luz antiniebla servicio normal
 permiten variaciones vayan detrimento visibilidad satisfactoria zona línea izquierda derecha
 petición solicitante ensayarse separado luces antiniebla delanteras constituyan pareja correspondiente punto
@@ -223,7 +204,6 @@ vehículos matriculados sesenta meses fecha entrada vigor mencionada punto
 Transcurrido plazo sesenta meses fecha entrada vigor serie enmiendas Partes contratantes apliquen presente Reglamento denegarán extensión homologaciones luces antiniebla delanteras cumplen requisitos clase presente Reglamento versión modificada serie enmiendas
 Partes contratantes apliquen presente Reglamento seguirán expidiendo homologaciones luces antiniebla delanteras base series enmiendas presente Reglamento trate piezas recambio vayan instalarse vehículos
 caso luces antiniebla delanteras clase
-
 disposición presente Reglamento impedirá aplique Reglamento prohibir combinación luz antiniebla delantera provista lente plástica homologada arreglo presente Reglamento dispositivo limpiafaros mecánico escobillas
 arreglo definición figura anexo Resolución consolidada construcción vehículos RE documento TRANS WP Rev Amend modificado lugar enmienda
 separar lente cuerpo principal luz antiniebla delantera bastará único espacio lente cuerpo
@@ -314,14 +294,11 @@ Línea
 mín
 mín
 Línea
-
 mín
 mín
 Línea
-
 mín
 mín
-
 máx
 registros periódicos mediciones fotométricas vistas verificación conformidad deberán proporcionar mínimo datos correspondientes puntos valor máximo líneas valor mínimo líneas especifica punto presente Reglamento
 punto corresponde coordenadas horizontal oU vertical
@@ -358,7 +335,6 @@ luz indicadora dirección delantera categoría homologada conforme serie enmiend
 Luz recíprocamente incorporada faro
 Figura
 ejemplo figura corresponde marcado lente material plástico tipos faros concretamente
-
 faro haz cruce diseñado circulación derecha izquierda haz carretera intensidad máxima comprendida candelas homologado Suecia requisitos Reglamento versión modificada serie enmiendas recíprocamente incorporado luz antiniebla delantera homologada conforme serie enmiendas Reglamento
 faro haz cruce diseñado circulación derecha izquierda haz carretera homologado Suecia requisitos Reglamento versión modificada serie enmiendas recíprocamente incorporado luz antiniebla delantera mencionada anteriormente
 cualquiera faros anteriormente mencionados homologado luz única
@@ -659,9 +635,7 @@ cuestiona conformidad
 procedimiento muestreo figura presente anexo conformidad luces antiniebla delanteras fabricadas serie cuestionará desviación valores luces medidos direcciones desfavorables
 Muestra
 luz antiniebla delantera
-
 ambas luces antiniebla delanteras
-
 pasar muestra
 Muestra
 cuestiona conformidad
@@ -677,7 +651,6 @@ pasar muestra
 Muestra
 caso
 cuestionará conformidad aplicará apartado siguiendo procedimiento muestreo figura presente anexo desviaciones valores medidos luces antiniebla delanteras
-
 CAMBIO POSICIÓN VERTICAL LÍNEA CORTE
 verificar cambio posición vertical línea corte efecto calor deberá seguirse procedimiento
 luces antiniebla muestra procedimiento muestreo figura presente anexo sometida ensayo conforme procedimiento descrito punto anexo consecutivas ciclo descrito punto anexo
@@ -686,7 +659,6 @@ obstante respeta valor mrad muestra luces antiniebla delanteras muestra someter�
 dispositivos
 toma muestras
 dispositivos seleccionados azar distribuidos muestras
-
 pase muestra
 Cumplimiento
 fabricante productos cumplan requisitos
@@ -743,7 +715,6 @@ luz antiniebla delantera
 grupos faros luces antiniebla delanteras figuran continuación símbolos marcado ofrecen ejemplo ánimo exhaustividad
 significa ciclo quince minutos apagado minutos encendido
 HC HR
-
 Horas
 PF HC
 PF HC HC
@@ -827,7 +798,6 @@ Transcurrido fuente luminosa deberá emitir flujo luminoso objetivo
 Rendimiento color
 Contenido rojo
 mediciones descritas apartado presente Reglamento contenido mínimo rojo luz módulo LED generador luz deberá
-
 Ee unidad distribución espectral irradiación
 Vλ unidad eficiencia luminosa espectral
 unidad nm longitud onda
@@ -859,7 +829,6 @@ titular homologación deja completo fabricar luz antiniebla delantera homologada
 caso fuentes luminosas incandescencia recambiables funcionen directamente condiciones sistema tensión vehículo ensayo realizará proceda solicitante indique muestra ensayo utilizarse tensión cuyo caso ensayo efectuará funcionar fuente luminosa incandescencia máxima tensión
 trece partes peso agua destilada conductividad µS
 peso tensioactivo
-
 cd máx
 cd máx
 cd máx
@@ -1179,14 +1148,12 @@ Fecha
 Firma
 Táchese proceda
 ANEXO III
-
 Directiva derogada modificación
 contemplados artículo
 Directiva CEE Consejo
 DO
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -1265,7 +1232,6 @@ preciso miembros garanticen organismos pagadores contemplados artículo Reglamen
 evitar problemas contabilidad darse año civil tuviesen aplicarse procedimientos control presente Reglamento aplicarse enero
 medidas previstas presente Reglamento ajustan dictamen Comité Desarrollo Rural
 ADOPTADO PRESENTE REGLAMENTO
-
 ÁMBITO APLICACIÓN DISPOSICIONES GENERALES
 Artículo
 Ámbito aplicación
@@ -1746,7 +1712,6 @@ Significa enviado Comisión solicitud certificado
 orden
 Coeficiente asignación aplicable solicitudes certificados importación presentadas subperíodo comprendido enero marzo
 Cantidad disponible subperíodo comprendido abril junio
-
 solicitudes certificados importación presentadas mes enero subperíodo comprendido enero marzo superiores cantidades disponibles conviene determinar fijación coeficiente asignación aplique cantidades solicitadas medida expedirse certificados importación
 Directiva CE Comisión
 enero
@@ -1811,7 +1776,6 @@ Bebidas contengan ácido glicirricínico sal amónica adición sustancia sustanc
 DO
 nivel aplicará productos presenten listos consumo reconstituidos instrucciones fabricante
 ANEXO II
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CE Comisión
@@ -1820,7 +1784,6 @@ Directiva CE Consejo
 DO
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -2012,11 +1975,9 @@ Miembro Comisión
 ANEXO
 ANEXO II
 LISTA PAÍSES TERRITORIOS
-
 IE Irlanda
 Suecia
 UK Reino Unido
-
 Sección
 DK Dinamarca incluidas GL Groenlandia FO Islas Feroe
 España continental Islas Baleares Islas Canarias Ceuta Melilla
@@ -2030,7 +1991,6 @@ IS Islandia
 MC Mónaco
 Noruega
 Vaticano
-
 AC Isla Ascensión
 AE Emiratos Árabes Unidos
 AG Antigua Barbuda
@@ -2168,7 +2128,6 @@ Miembro Comisión
 DO
 Directiva modificada lugar Directiva CE DO
 ANEXO
-
 Laboratorios nacionales autorizados manipular virus vivos fiebre aftosa
 miembro laboratorio
 Laboratorio
@@ -2709,7 +2668,6 @@ ToneladasKm
 contenedores carga
 ANEXO
 Trimestre
-
 Nacionalidad barco
 contenedores carga
 ANEXO
@@ -2775,10 +2733,8 @@ vía navegable interior superficie agua forma mar navegar carga normal barcos cu
 Corrección errores Decisión PESC Consejo abril operación militar Unión Europea apoyo operaciones asistencia humanitaria respuesta situación crisis existente Libia EUFOR Libia
 Diario Oficial Unión Europea abril
 página considerando
-
 conformidad artículo Protocolo posición Dinamarca anejo Tratado Unión Europea Tratado Funcionamiento Unión Europea Dinamarca participa elaboración aplicación decisiones acciones Unión implicaciones ámbito defensa
 Dinamarca participará financiación operación
-
 Dinamarca participa aplicación presente Decisión participa financiación presente operación
 Reglamento CE Comisión
 noviembre
@@ -3925,7 +3881,6 @@ Fila
 Cantidad derechos emisión aviación asignados forma gratuita
 virtud artículo sexies Directiva CE
 virtud artículo septies Directiva CE
-
 Código identificación operador aeronaves
 Cantidad asignarse operador aeronaves
 Código identificación operador aeronaves

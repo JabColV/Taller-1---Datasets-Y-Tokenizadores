@@ -862,7 +862,6 @@ subartículos MLb MLd aplican
 ácido cianhídrico CAS
 cloro CAS
 difosgeno triclorometil cloroformato CAS
-
 bromuro xililo orto CAS meta CAS CAS
 bromuro bencilo CAS
 yoduro bencilo CAS
@@ -1057,7 +1056,6 @@ tetraazadecalino CAS véase subartículo MLa
 triclorobenceno CAS véase subartículo MLa
 trihidroxibutano butanotriol CAS véase subartículo MLe
 Nota
-
 Nota
 artículo ML aplica sustancias siguientes estén compuestas mezcladas materiales energéticos mencionados subartículo MLa polvos metal mencionados subartículo MLc
 picrato amonio CAS
@@ -1122,7 +1120,6 @@ propulsión independiente aire AIP permite funcione sistema propulsión submarin
 efectos subcapítulo MLb AIP incluyen energía nuclear
 aparatos detección subacuática diseñados especialmente militar controles
 redes antisubmarinos antitorpedos diseñadas especialmente militar
-
 obturadores casco conectores diseñados especialmente militar permitan interacción equipos exteriores buque componentes diseñados especialmente militar
 subartículo MLf incluye conectores navales tipo conductor simple multiconductor coaxiales guías ondas obturadores casco buques capaces estanqueidad conservar características requeridas profundidades submarinas conectores fibra óptica obturadores casco ópticos diseñados especialmente transmisión haz láser cualquiera profundidad
 subcapítulo MLf aplica obturadores casco ordinarios árbol propulsión vástago mando hidrodinámico
@@ -2576,7 +2573,6 @@ artículo añade párrafo
 Suiza participará plenamente consejo administración derechos obligaciones miembros Unión Europea derecho voto
 artículo añade apartado
 Suiza participará contribución financiera prevista apartado letra arreglo fórmula
-
 presupuesto Agencia cubierta tasas ingresos mencionados apartado letras
 número asociados
 número miembros UE
@@ -2733,7 +2729,6 @@ Reglamento CE Parlamento Europeo Consejo
 Reglamento Parlamento Europeo Consejo febrero establecen normas comunes compensación asistencia pasajeros aéreos caso denegación embarque cancelación retraso vuelos deroga Reglamento CEE
 Artículos
 Reglamento Parlamento Europeo Consejo julio derechos personas discapacidad movilidad reducida transporte aéreo
-
 Directiva Consejo octubre reestructura régimen comunitario imposición productos energéticos electricidad
 Anexos
 Protocolo privilegios inmunidades Comunidades Europeas
@@ -4069,9 +4064,7 @@ cloronitrofenoxianilina
 impureza fenol importancia toxicológica establece contenido máximo kg
 agosto
 julio
-
 autorizar usos herbicida
-
 evaluación solicitudes autorización productos fitosanitarios contengan aclonifen usos distintos relacionados girasol miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos necesarios información pertinente conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión aclonifen particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal septiembre
 evaluación general miembros deberán prestar especial atención
@@ -4144,7 +4137,6 @@ destinatario presente Decisión República Letonia
 Bruselas febrero
 DO
 ANEXO
-
 Zonas cubiertas plan erradicación
 novads Alūksnes pagasti Pededzes Liepnas
 novads Rēzeknes pagasti Pušas Mākoņkalna Kaunatas
@@ -4160,7 +4152,6 @@ novads Zilupes pagasti Zaļesjes Lauderu Pasienes
 novads Dagdas pagasti Andzeļu Ezernieku Šķaunes Svariņu Bērziņu Ķepovas Asūnes Dagdas Konstantinovas Andrupenes
 novads Aglonas pagasti Kastuļinas Grāveru Šķeltovas Aglonas
 novads Krāslavas pagasti Aulejas Kombuļu Skaistas Robežnieku Indras Piedrujas Kalniešu Krāslavas Kaplavas Ūdrīšu Izvaltas
-
 Zonas cubiertas plan vacunación urgencia
 Reglamento CE Comisión
 diciembre

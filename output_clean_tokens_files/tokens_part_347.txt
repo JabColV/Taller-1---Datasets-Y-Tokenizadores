@@ -502,7 +502,6 @@ lugar fecha expedición
 nombre cargo firma
 fabricante asignar carácter optativo número declaración conformidad
 ANEXO IV
-
 Directiva derogada modificación correspondiente
 mencionados artículo
 Directiva CE Parlamento Europeo Consejo
@@ -510,7 +509,6 @@ DO
 Reglamento UE Parlamento Europeo Consejo
 DO
 Únicamente artículo apartado letra
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -1919,7 +1917,6 @@ acta ensayo deberá ofrecerse explicación completa
 datos medios desviacióntiempo deberán combinarse datos fuerzatiempo células carga pared obtener resultado fuerzadesviación bloque
 Cálculo energía
 energía absorbida bloque barrera deformable móvil deberá calcularse punto máximo desviación barrera
-
 momento contacto
 tiempo carro inmoviliza
 desviación elemento deformable carro calculada arreglo punto
@@ -2057,7 +2054,6 @@ Construcción maniquí colisión lateral
 Vista cenital
 Cuadro
 Componentes maniquí colisión lateral véase figura
-
 Descripción
 Número maniquí
 Unión cabeza cuello
@@ -2669,7 +2665,6 @@ DO
 Reglamento modificado lugar Reglamento CE DO
 ANEXO
 PROGRAMA DESGLOSE PRESUPUESTARIO INDICATIVO
-
 Programa
 programa constará subprogramas
 Subprograma interDOM
@@ -2684,7 +2679,6 @@ medida creación red vigilancia mosca fruta
 medida gestión riesgo introducción organismos nocivos actividades turísticas
 medida estudio control integrado hormiga mandioca
 medida creación grupo competencias control roedores zonas rurales urbanas
-
 Desglose presupuestario indicativo EUR indicación diversas medidas prevén
 Subprogramas
 Naturaleza medida realizarse
@@ -3269,9 +3263,7 @@ ometoato máximo kg
 isodimetoato máximo kg
 octubre
 septiembre
-
 autorizarse usos insecticida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión dimetoato particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal noviembre
 evaluación general miembros
 prestarán especial atención exposición alimentaria consumidores
@@ -4013,7 +4005,6 @@ transmisión sujeta desfase señalado artículo apartado
 BCE
 BCN presentarán BCE trimestre natural datos activos financieros pasivos especifican anexo datos ajustarán principios definiciones SEC anexo establezca cosa desestacionalizarán ajustarán laborables
 LU
-
 Decisión Comisión
 abril
 relativa retirada mercado maíz Bt SYNEV productos derivados
@@ -4730,7 +4721,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados azucarados edulcorados
@@ -4960,7 +4950,6 @@ Empresario jefe explotación código
 Jefe explotación empresario código
 Número personas
 Cónyuges empresarios
-
 Mano obra asalariada ocasional
 Mano obra asalariada ocupada regularmente
 Jefe explotación

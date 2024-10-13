@@ -844,7 +844,6 @@ Método pendiente
 titular utilizará siguientes ecuaciones determinación emisiones PFC
 Emisiones CF AEM SEFCF× PrAl
 Emisiones CF emisiones CF FCF
-
 AEM minutos efecto ánodo celdadía
 factor emisión pendiente kg CF producidominutos efecto ánodo celdadía
 caso utilizar distintos tipos celda aplicarán distintos SEF procede
@@ -1528,7 +1527,6 @@ titular actividad almacenamiento geológico deberá incluir mínimo siguientes f
 Cuantificación emisiones CO
 emitido CO CO CO CO CO
 inic
-
 notificado CO CO cuantificado CO Incertidumbre sistema
 CO notificado
 CO cuantificado
@@ -2067,7 +2065,6 @@ Fécula patata
 Amoniaco
 Abonos orgánicos
 Derechos ayuda arreglo régimen pago único opcional
-
 COLUMNAS CUADRO
 Cuotas derechos columna
 Rúbrica cuota derecho
@@ -2154,7 +2151,6 @@ Pagos directos carne vacuno aplicación Reglamentos CE CE
 importe pagos directos carne vacuno deberá indicar cuadro código
 cuadro figuran rúbricas correspondientes tipos pagos directos carne vacuno conformidad Reglamentos CE CE indicación datos Número unidades base efectos pago Importe ayudas facultativa
 refiere Pagos adicionales comunitarios establecidos Reglamento CE importante evitar doble contabilización
-
 suplemento prima vaca nodriza deberá indicarse rúbrica caso incluido rúbrica
 suplemento prima sacrificio ganado meses deberá indicarse rúbrica caso incluido rúbrica
 pagos adicionales bovinos machos deberán indicarse rúbrica caso hayan incluidos rúbricas
@@ -2289,9 +2285,7 @@ CICAP
 ácido clorootoliloxiacético
 mayo
 abril
-
 autorizarán usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión MCPA particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal abril
 miembros deberán prestar especial atención riesgo contaminación aguas subterráneas sustancia activa aplique regiones características edáficas vulnerables condiciones climáticas delicadas
 condiciones autorización deberán incluir caso medidas reducción riesgo
@@ -3425,7 +3419,6 @@ obligación indicar datos contacto fabricante sustituye facilitar datos contacto
 independencia indicaciones reglamentarias aplicables quesos prohíbe calificativo indicación denominación origen etiquetado publicidad facturas documentos comerciales excepción marcas comerciales fábrica específicas
 Requisitos nacionales
 Requisitos nacionales considerado útil indicar principales elementos inspección valores referencia métodos evaluación
-
 indican datos estructuras intervienen control condiciones producción particular datos organismo certificador elegido agrupación organismo control
 Institut National l’Origine et Qualité aparece rúbrica
 ANEXO II
@@ -3846,7 +3839,6 @@ Nombre máquina
 Identificación versiones sistema detección software Número
 Máquinas auxiliares cajeros
 Distribuidores efectivo
-
 datos toman datos correspondientes facilitados dirección BCE internet
 Apéndice
 Nombre entidad maneja efectivo

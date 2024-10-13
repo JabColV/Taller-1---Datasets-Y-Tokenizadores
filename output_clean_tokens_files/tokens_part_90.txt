@@ -50,7 +50,6 @@ Planta tratamiento
 especifíquense
 ovinos
 caprinos
-
 oveja
 carnero
 cordero
@@ -673,7 +672,6 @@ Países Bajos
 Polonia
 Reino Unido
 miembros
-
 excepción tamaños mínimos muestra indicados cuadro Chipre decidir someter prueba mínimo ovinos destinados sacrificio consumo humano rebaño registrado caso EET
 Caprinos
 miembros realizarán pruebas caprinos sanos momento sacrificio conforme tamaños mínimos muestra indicados cuadro punto normas muestreo establecidas punto
@@ -689,8 +687,6 @@ hayan sacrificados consumo humano
 Cuadro
 Población ovejas corderas cubiertas miembros
 Tamaño mínimo muestra animales ovinos muertos
-
-
 Cuadro
 Población cabras cubiertas cabras hayan parido miembros
 Tamaño mínimo muestra animales caprinos muertos
@@ -2120,7 +2116,6 @@ Prueba PCR
 medidas
 Especifíquense acciones realizadas
 Toma muestras
-
 Táchese proceda
 cifras expresarán moneda nacional excluido IVA Lugar fecha
 Especifíquese prueba utilizada Firma
@@ -2272,9 +2267,7 @@ RSβaliloxidiclorofenetilimidazol
 alilRSdiclorofenilimidazoliletil éter
 agosto
 julio
-
 autorizarán usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión imazalilo particular apéndices II aprobado Comité permanente cadena alimentaria sanidad animal julio
 evaluación general miembros deberán prestar especial atención aspectos siguientes
 situación exposición alimentaria aguda consumidores vista futuras revisiones límites máximos residuos
@@ -3128,7 +3121,6 @@ Madera incluidos postes telégrafo traviesas vías férreas
 Duración máxima almacenamiento año
 almacenamiento realizarse superficie impermeable
 Artículo
-
 Capacidad máxima almacenamiento recipiente máximo recipientes locales
 residuos almacenar recipientes seguros distancia mínima masa agua interior costera pozo perforación obra similar llegue subsuelo efectos suministro agua tipo
 Recogida selectiva baterías clasificadas clasificar baterías contienen sustancias peligrosas
@@ -3190,7 +3182,6 @@ Reglamento modificación autorización gestión residuos Escocia
 Tipo actividad
 requisitos
 Artículo ii
-
 Quema combustible
 requiere autorización concedida arreglo Ley autorización concedida Reglamento conformidad Reglamento relativo incineración residuos Escocia
 Artículo
@@ -3846,7 +3837,6 @@ heces mezclarse análisis mínimo muestras compuestas
 Número sitios deberán tomarse muestras heces separadas elaborar muestra compuesta
 Número aves manada
 Número muestras heces tomarse manada
-
 Muestras calzas polvo
 calzas utilizadas deberán permitir absorción suficiente humedad
 efecto aceptables medias gasa tubular
@@ -4137,7 +4127,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -4190,7 +4179,6 @@ razones identificación componentes envío datos indican punto adjuntan hojas ad
 certificado incluidos documentos justificativos adicionales contemplados nota hoja deberá numerada número página número páginas inferior llevará superior número referencia certificado asignado autoridad competente
 certificado validez fecha expedición veterinario oficial excepción introducción Unión ánimo comercial perros gatos hurones cuyo caso certificado mantiene validez efectos desplazamientos Unión meses fecha expedición fecha expiración validez vacuna antirrábica fecha
 autoridades competentes tercer país territorio tercer país exportador garantizarán cumplimiento normas principios certificación equivalentes establecidos Directiva CE
-
 Casilla lugar origen nombre dirección establecimiento expedidor
 Indicar número registro autorización
 Casilla sistema identificaciónseleccionar tatuaje microchip
@@ -4235,7 +4223,6 @@ adjuntan hojas adicionales documentos justificativos certificado considerarán i
 certificado incluidas hojas adicionales contempladas nota hoja deberá numerada número página número páginas inferior llevará superior número referencia certificado asignado autoridad competente
 certificado validez fecha expedición veterinario oficial fecha controles punto entrada viajeros UE efectos desplazamientos Unión meses fecha expedición fecha expiración validez vacuna antirrábica fecha
 obra declaración escrita firmada propietario persona física responsable animales nombre propietario consta
-
 Reglamento Ejecución UE Comisión
 septiembre
 modifica anexo VIII Reglamento CE Consejo establecen disposiciones comunes aplicables regímenes ayuda directa agricultores marco política agrícola común
@@ -4448,8 +4435,6 @@ DO
 DO
 ANEXO
 ANEXO II
-
-
 AT Österreich BE Belgique België BG България CY Κύπρος CZ Česká republika Deutschland DK Danmark EE Eesti España FI Suomi Finland FR France Ελλάδα HU Magyarország IE Ireland IT Italia LT Lietuva LU Luxembourg LV Latvija MT Malta NL Nederland PL Polska PT Portugal RO România Sverige Slovenija SK Slovensko UK United Kingdom
 miembros autorizar arreglo artículo apartado caza especies enumeradas
 ANEXO III
@@ -4663,9 +4648,7 @@ Impureza relevante
 tbutil hidrazina kg
 junio
 mayo
-
 autorizarse usos insecticida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión tebufenozida particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros
 prestarán atención particular seguridad operadores trabajadores velarán condiciones autorización exijan equipo protección personal adecuado

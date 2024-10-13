@@ -2152,7 +2152,6 @@ Notificación certificados importación expedidos Reglamento CE
 miembro
 Aplicación artículo Reglamento CE
 Cantidades productos expedido certificados importación
-
 orden
 Categoría categoría productos
 Cantidad
@@ -2358,7 +2357,6 @@ vacuna inactivada utilizarse deberá formulada adecuadamente efectiva virus grip
 utilizará conformidad instrucciones fabricante autoridades veterinarias
 ANEXO III
 Lista planes vacunación preventiva aprobados aves encuentren parques zoológicos organismos institutos centros oficialmente autorizados
-
 Planes vacunación preventiva aprobados presente Decisión referencia artículo apartado
 Código
 miembro
@@ -3736,7 +3734,6 @@ método cálculo eficiencia energética ventilador específico basa relación po
 presión estática suma presión estática presión dinámica función categoría medición eficiencia
 ventilador presenta forma ensamblaje medir potencia gas potencia eléctrica entrada ventilador punto eficiencia energética óptima
 ventilador incluye mando regulación velocidad calcular eficiencia global utilizando ecuación
-
 ηe eficiencia global
 Pus potencia gas ventilador determinada conformidad punto funcionamiento punto eficiencia energética óptima
 Pe potencia medida terminales entrada alimentación eléctrica motor ventilador funcionamiento punto eficiencia energética óptima
@@ -3808,8 +3805,6 @@ consumo electricidad ventiladores motor potencia eléctrica entrada comprendida 
 potencial mejora relación coste eficiencia gracias diseño TWh año corresponde Mt emisiones CO
 fabricantes facilitar manual instrucciones información precauciones específicas adoptarse montaje instalación mantenimiento ventiladores
 punto requisitos información producto indica instalarse ventilador mando regulación velocidad fabricantes facilitarán información detallada características garantizar utilización óptima montaje
-
-
 Reglamento CE Comisión
 noviembre
 abre licitación determinación restitución exportación arroz blanqueado vaporizado grano destino determinados terceros países
@@ -4084,7 +4079,6 @@ Intermediarios piensos
 Medios transporte
 Explotaciones animales rumiantes
 Explotaciones animales rumiantes
-
 Toma muestras examen materias primas piensos piensos compuestos vistas detección proteínas animales transformadas
 Número muestras oficiales sometidas prueba vistas detectar presencia proteínas animales transformadas
 Número muestras conformes
@@ -4364,17 +4358,14 @@ DO
 Reglamento modificado lugar Reglamento CE DO
 ANEXO
 Métodos clasificación canales porcino Rumanía
-
 clasificación canales porcino llevará cabo aparato conocido FatOMeat’er FOM
 aparato irá equipado sonda diámetro milímetros dotada fotodiodo tipo Siemens SFH alcance operativo milímetros
 ordenador traducirá resultados medición contenido estimado carne magra
 contenido carne magra canal calculará aplicando fórmula
-
 porcentaje estimado carne magra canal
 espesor tocino incluida corteza milímetros medido cm hendidura central
 espesor músculo milímetros medido cm hendidura central costillas cuarta contadas costilla
 fórmula válida canales cuyo peso oscile kilogramos
-
 clasificación canales porcino llevará cabo aparato denominado OptiGradePro OGP
 aparato irá equipado cánula óptica diámetro milímetros fotodiodo infrarrojos Siemens fototransistor Siemens
 alcance operativo mm ordenador traducirá resultados medición contenido estimado carne magra

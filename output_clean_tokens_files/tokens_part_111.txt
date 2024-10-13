@@ -178,7 +178,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados azucarados edulcorados
@@ -4125,7 +4124,6 @@ Métodos recomendados precauciones relación manipulación almacenamiento transp
 Medidas caso accidente
 Procedimientos destrucción descontaminación biocida envases
 Incineración controlada
-
 Envasado compatibilidad biocida materiales propuestos envasado
 Plan seguimiento aplicable microorganismo activo microorganismos contenidos biocida incluyendo manipulación almacenamiento transporte utilización
 Indicación necesidad biocida lleve señal peligro biológico especificada anexo II Directiva CE

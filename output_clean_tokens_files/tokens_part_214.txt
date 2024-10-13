@@ -360,7 +360,6 @@ CONSCIENTES responsabilidad generaciones presente futuras conservación diversid
 RECONOCIENDO ejercicio derechos soberanos recursos fitogenéticos alimentación agricultura beneficiarse mutuamente creación sistema multilateral eficaz facilitación acceso selección negociada recursos distribución justa equitativa beneficios deriven utilización
 DESEANDO concluir internacional marco Organización Naciones Unidas Agricultura Alimentación denominada FAO virtud artículo XIV Constitución FAO
 ACORDADO
-
 INTRODUCCIÓN
 Objetivos
 objetivos presente Tratado conservación utilización sostenible recursos fitogenéticos alimentación agricultura distribución justa equitativa beneficios derivados utilización armonía Convenio Diversidad Biológica agricultura sostenible seguridad alimentaria
@@ -484,7 +483,6 @@ Partes Contratantes acuerdan beneficios deriven utilización recursos fitogenét
 reunión órgano rector examinará políticas criterios pertinentes prestar asistencia específica marco estrategia financiación convenida establecida virtud artículo conservación recursos fitogenéticos alimentación agricultura países desarrollo países economía transición cuya contribución diversidad recursos fitogenéticos alimentación agricultura comprendidos sistema multilateral significativa tengan necesidades específicas
 Partes Contratantes reconocen capacidad aplicar plenamente plan acción mundial particular países desarrollo países economía transición dependerá medida aplicación eficaz artículo estrategia financiación estipulada artículo
 Partes Contratantes examinarán modalidades estrategia contribuciones voluntarias distribución beneficios virtud industrias elaboradoras alimentos benefician recursos fitogenéticos alimentación agricultura contribuyan sistema multilateral
-
 COMPONENTES APOYO
 Artículo
 Plan acción mundial
@@ -707,7 +705,6 @@ Leguminosas forrajeras
 Gramíneas forrajeras
 forrajes
 ANEXO II
-
 ARBITRAJE
 demandante notificará Secretario partes controversia someten arbitraje conformidad dispuesto artículo
 notificación expondrá cuestión objeto arbitraje hará referencia especial artículos presente Tratado cuya interpretación aplicación trate
@@ -741,7 +738,6 @@ decisión definitiva tribunal arbitral limitará objeto controversia motivada
 decisión definitiva figurarán nombres miembros adoptaron fecha adoptó
 miembro tribunal adjuntar decisión definitiva opinión separada discrepante
 controversia surja partes interpretación forma ejecución decisión definitiva sometida cualesquiera partes controversia tribunal arbitral adoptó decisión definitiva
-
 CONCILIACIÓN
 creará comisión conciliación solicitud partes controversia
 comisión partes controversia acuerden cosa integrada miembros nombrados interesada Presidente elegido conjuntamente miembros
@@ -891,7 +887,6 @@ Cantidades indemnizables totales
 artículo apartado guiones
 toneladas Listao
 Euthynnus Katsuwonus pelamos
-
 Reglamento CE Comisión
 enero
 modifica septuagésima cuarta Reglamento CE Consejo imponen determinadas medidas restrictivas específicas dirigidas determinadas personas entidades asociadas Usamah bin Ladin red AlQaida talibanes deroga Reglamento CE Consejo
@@ -1097,7 +1092,6 @@ Declaración relativa artículo
 miembros comprometen imponer vertidos emisarios aguas residuales alta mar exigencias severas previstas presente Directiva
 determinadas sustancias incluidas lista II tengan cancerígeno incluirán categoría presente lista
 ANEXO II
-
 DIRECTIVA DEROGADA MODIFICACIONES SUCESIVAS
 contemplados artículo
 Directiva CEE Consejo DO
@@ -1105,7 +1099,6 @@ Directiva CEE Consejo DO
 Únicamente anexo letra
 Directiva CE Parlamento Europeo Consejo DO
 Únicamente relativo referencia hecha artículo apartado cuarto guión artículo Directiva CEE
-
 PLAZOS TRANSPOSICIÓN DERECHO NACIONAL
 Directiva
 Plazo transposición
@@ -1302,7 +1295,6 @@ DO
 DO
 DO
 ANEXO
-
 Lista productos origen animal contemplados artículo apartado letra
 Código NC
 Designación mercancía
@@ -1311,7 +1303,6 @@ ex capítulo
 Carne despojos comestibles
 excluyen ancas rana código NC
 Productos lácteos
-
 Tripas vejigas estómagos animales pescado enteros trozos frescos refrigerados congelados salados salmuera secos ahumados
 tripas artificiales
 Grasa cerdo incluida manteca cerdo grasa ave partidas
@@ -1332,7 +1323,6 @@ Preparaciones sopas potajes caldos sopas potajes caldos preparados preparaciones
 Helados cacao
 preparaciones contengan leche
 Preparaciones alimenticias expresadas comprendidas
-
 Lista productos origen animal contemplados artículo apartado letra
 Productos origen animal expresados comprendidos animales muertos capítulos impropios alimentación humana
 Preparaciones tipo utilizadas alimentación animales
@@ -1850,7 +1840,6 @@ Decisión CE queda modificada
 artículo añade letra
 relación enfermedades animales mencionadas anexo mínimo información establecida anexo IV
 anexo añade
-
 Enfermedad refiere artículo letra
 Influenza aviar
 añade anexo IV texto recoge anexo III presente Decisión
@@ -1915,7 +1904,6 @@ Cuadro
 Número explotaciones objeto muestreo categoría aves corral explotaciones pavos patos gansos
 Número explotaciones categoría aves corral miembro
 Número explotaciones figurar muestra
-
 Cuadro
 Número explotaciones pavos patos gansos objeto muestreo
 Número explotaciones miembro
@@ -2142,7 +2130,6 @@ Prueba aislamiento virus
 medidas previstas
 Especifíquense actuaciones concretas
 Muestreo
-
 Especifíquense pruebas laboratorio utilizarse
 Especifíquese número pruebas subtipo virus
 Vigilancia aves silvestres
@@ -2150,8 +2137,6 @@ Medidas vigilancia aves silvestres cofinanciadas
 Número pruebas realizarse método
 Cribado serológico previo
 Prueba inhibición hemaglutinación
-
-
 Alauda Galerida spp
 Miliaria Emberiza spp
 Prueba RCP
@@ -2971,7 +2956,6 @@ kg ropa lavada
 kg ropa lavada
 volumen crítico dilucióntoxicidad VCDcrónico calcula ingrediente aplicando ecuación
 FTcrónico
-
 peso peso ingrediente dosis recomendada
 FD factor degradación
 FT factor toxicidad crónica sustancia indica lista DID
@@ -3096,8 +3080,6 @@ kg ropa lavada
 líquidos geles comprimidos cápsulas
 kg ropa lavada
 CPU calculará envase primario incluidos cierres tapones bombas manuales dispositivos nebulización aplicando fórmula
-
-
 número unidades funcionales contenidas componente envase unidad funcional dosis kg ropa lavada
 Excepciones
 envases plástico papel cartón contengan material reciclado cumplir requisito
@@ -3194,7 +3176,6 @@ FDi
 criterios revisados adaptarlos avances tecnológicos concluido necesario modificar definición categoría productos incluya subcategoría establecer criterios
 peso componente envase incluida etiqueta procede
 peso material reciclado virgen componente envase proporción material reciclado componente envase Ui Wi
-
 número reciclados número componente envase utiliza sistema devolución relleno valor defecto establece reutilización solicitante documentar componente envase reutiliza emplearse cálculo valor alto
 Decisión Comisión
 julio
@@ -3414,7 +3395,6 @@ CUANTIFICACIÓN NIVEL INSTALACIÓN
 emisiones calculan balance masas completo posibles emisiones CO procesos pertinentes emisión instalación cantidad CO capturado transferido red transporte
 emisiones instalación calcularán utilizando fórmula
 Einstalación captura Tentrada Esin captura Tpara almacenamiento
-
 instalación captura
 emisiones gases efecto invernadero instalación captura
 entrada
@@ -3516,7 +3496,6 @@ emisiones combustión debidas actividades superficie determinan anexo II
 EMISIONES VENTILACIÓN FUGITIVAS DERIVADAS INYECCIÓN
 emisiones determinan
 emitido tCO CO tCO CO tCO
-
 cantidad CO liberado ventilación
 cantidad CO derivado emisiones fugitivas
 CO determina SMCE conformidad anexo XII presentes directrices
@@ -3562,7 +3541,6 @@ Tsalida
 entrada
 salida
 inicio
-
 transfiere CO arreglo punto presente anexo identificación instalaciones recepción transferencia caso instalaciones titulares autorización emisión gases efecto invernadero tratará código identificación instalación define Reglamento artículo Directiva CE
 Validación resultados cálculo emisiones fugitivas debidas fugas
 CO transferido red transporte objeto caso seguimiento razones comerciales titular red transporte utilizar método validar resultados método año

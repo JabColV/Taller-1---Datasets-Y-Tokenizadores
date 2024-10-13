@@ -1361,7 +1361,6 @@ DO
 ANEXO
 ANEXO II
 Lista Unión aditivos alimentarios autorizados utilización alimentos condiciones utilización
-
 Introducción
 presente lista Unión incluye
 nombre aditivo alimentario número
@@ -1425,7 +1424,6 @@ Vinagre vino figura anexo XII Reglamento CE
 Alimentos lactantes niños corta edad contemplados Directiva CE incluidos destinados usos médicos especiales
 Miel define Directiva CE
 Malta productos malta
-
 LISTA ADITIVOS
 Colorantes
 Número
@@ -1749,7 +1747,6 @@ Triacetato glicerilo triacetina
 Alcohol bencílico
 Propanodiol propilenglicol
 Polietilenglicol
-
 DEFINICIONES GRUPOS ADITIVOS
 Grupo
 Dosis máxima específica
@@ -1801,7 +1798,6 @@ sulfatos aluminio
 dióxido silicio silicatos
 ácido glutámico glutamatos
 ribonucleótidos
-
 CATEGORÍAS ALIMENTOS
 Número
 categorías alimentos
@@ -1935,7 +1931,6 @@ Néctares fruta definen Directiva CE néctares productos similares
 Bebidas aromatizadas
 Café tostado té infusiones plantas frutos achicoria extractos té infusiones plantas frutos achicoria preparados té plantas frutos achicoria infusión mezclas mezclas instantáneas dichos productos
 Café extractos café
-
 Bebidas alcohólicas homólogas alcohol bajas alcohol
 Cerveza bebidas base malta
 Vino productos definidos Reglamento CE homólogos alcohol
@@ -1957,7 +1952,6 @@ Complementos alimenticios sólidos cápsulas comprimidos similares masticables
 Complementos alimenticios líquidos
 Complementos alimenticios forma jarabes masticables
 Alimentos elaborados incluidos categorías alimentos lactantes niños corta edad
-
 ADITIVOS ALIMENTARIOS AUTORIZADOS CONDICIONES UTILIZACIÓN CATEGORÍAS ALIMENTOS
 Número categoría
 Dosis máxima mg mg kg
@@ -2880,7 +2874,6 @@ organizaciones responsables mantenimiento productos componentes equipos demostra
 hayan aceptado dichas capacidades medios deberán reconocidas expedición aprobación organización
 facultades concedidas organización aprobada alcance aprobación deberán especificarse cláusulas
 organizaciones encargadas diseño fabricación productos componentes equipos demostrarán capacidad medios cumplir obligaciones asociadas facultades
-
 requerirse personal responsable visto producto componente equipo intervención mantenimiento posea certificado efecto certificado personal
 capacidad centros formación materia mantenimiento cumplir obligaciones asociadas facultades relación expedición certificados mencionados letra reconocida expedición aprobación
 aeronaves refiere artículo apartado letra productos componentes equipos montados cumplirán dispuesto apartado letras presente artículo
@@ -3105,7 +3098,6 @@ documentos reflejarán reciente técnica mejores prácticas materia actualizará
 Artículo
 Certificación aeronavegabilidad certificación medioambiental
 productos componentes equipos indicados artículo apartado letras Agencia desempeñará corresponda especifique Convenio Chicago anexos nombre miembros funciones cometidos diseño fabricación matrícula relación aprobación diseño
-
 producto solicite certificado tipo modificación establecerá notificará bases certificación tipo
 bases constarán código aeronavegabilidad aplicable disposiciones aceptado grado seguridad equivalente especificaciones técnicas detalladas necesarias características diseño producto concreto experiencia adquirida servicio disposiciones código aeronavegabilidad resulten inadecuadas insuficientes garantizar conformidad requisitos esenciales
 producto solicite certificado aeronavegabilidad restringido establecerá notificará especificaciones aeronavegabilidad específicas
@@ -4225,9 +4217,6 @@ DO
 Corrección errores Reglamento CE Consejo diciembre establece plan plazo poblaciones bacalao pesquerías explotan deroga Reglamento CE
 Diario Oficial Unión Europea diciembre
 página artículo apartado
-
-
-
 caso bacalao desembarque puerto designado arreglo artículo
 caso bacalao desembarque puerto designado arreglo artículo
 página artículo
@@ -4499,8 +4488,6 @@ obstante pequeña subida confirmó período investigación industria Comunidad a
 Rentabilidad flujo caja
 rentabilidad flujo caja procedentes venta dióxidos manganeso electrolíticos industria Comunidad negativos
 Margen beneficio explotación producto cuestión intervalo
-
-
 Margen beneficio explotación producto cuestión índice
 rentabilidad deterioró significativamente período considerado
 Alcanzó nivel momento caída brusca precios importación

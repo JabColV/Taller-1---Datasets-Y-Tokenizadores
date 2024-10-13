@@ -747,7 +747,6 @@ Wales sustituida Rhondda Cynon Taf
 Wales sustituida Swansea
 Wales sustituida The Vale of Glamorgan
 Wales sustituida Wrexham
-
 Bélgica
 Chipre
 República Checa
@@ -770,15 +769,11 @@ España
 Suecia
 Países Bajos
 Reino Unido
-
 AloxeCorton Alsace Vin d’Alsace Anjou Barsac BatardMontrachet Beaujolais Beaujolais Villages Beaune Bonnes Mares Bordeaux Bordeaux Blanc Bordeaux Rouge Bourgogne Brouilly Chambertin ChambolleMusigny CharmesChambertin ChassagneMontrachet Château Lafite Château Margaux Château Yquem ChâteauneufduPape Chenas ChevalierMontrachet Chiroubles Clos Roche Clos Vougeot Corton CortonCharlemagne Côte Beaune Côte BeauneVillages Côte Brouilly Côte Nuits Côte NuitsVillages Côte Rotie Coteaux du Layon Côtes du Rhône Échezeaux EntreDeuxMers Fleurie GevreyChambertin Grands Échezeaux Graves Haut Médoc Hermitage Tache Loire Macon Margaux Médoc Mercurey Meursault Montrachet Morgon MoulinàVent Muscadet Musigny Nuits NuitsSaintGeorges Pauillac Pomérol Pommard PouillyFuissé Pouilly Fumé PulignyMontrachet Rhône Richebourg RomanéeConti Romanée SaintVivant Rosé d’Anjou SaintAmour SaintÉmilion SaintÉstèphe SaintJulien Sancerre Santenay Saumur Savigny SavignylesBeaunes Tavel Touraine Volnay VosneRomanée Vouvray
 Notas explicativas
 Términos aplican únicamente disposiciones artículo artículo palabras figuran cursiva incluidos nombres origen califican nombres origen únicamente título informativo explicativo aplican disposiciones artículo apartados claridad Partes desean señalar Unidos exige nombres origen presenten caracteres romanos presentaciones suplementarias caracteres romanos optativas aplican requisitos legales estadounidenses deberá interpretarse disposiciones artículo presente anexo exigen cosa
 texto anexo sustituye
 ANEXO
-
-
-
 Vernon County Upper Mississippi River Valley
 texto anexo VI sustituye
 ANEXO VI
@@ -844,9 +839,7 @@ código ZZ significa orígenes
 Corrección errores Decisión marco JAI Consejo diciembre simplificación intercambio información inteligencia servicios seguridad miembros Unión Europea
 Diario Oficial Unión Europea diciembre
 página artículo apartado
-
 diciembre
-
 diciembre
 página artículo apartado
 frase
@@ -1175,11 +1168,6 @@ Período contingentario
 Volumen contingente anual
 toneladas peso neto especifique cosa
 Conjuntos hombres niños algodón
-
-
-
-
-
 período posterior
 Conjuntos mujeres niñas algodón
 Camisas blusas blusas camiseras punto mujeres niñas algodón
@@ -1812,7 +1800,6 @@ Agrario explotaciones
 agrario
 Silvicultura
 Trabajo forestal utiliza mano obra agrícola máquinas instalaciones explotación utilizadas generalmente fines agrícolas
-
 actividades lucrativas relacionadas directamente explotación incluidas epígrafes
 Importancia actividades lucrativas relacionadas directamente explotación
 Porcentaje producción explotación
@@ -2280,7 +2267,6 @@ Capacidad necesidad neta financiación
 Administraciones públicas
 administraciones públicas datos facultativos subsectores
 ingresos
-
 Impuestos producción importaciones
 Impuestos renta riqueza etc
 Impuestos capital
@@ -2329,7 +2315,6 @@ ingresos
 pm Presión fiscal
 Objetivo gastos totales
 cuadro
-
 Prestaciones desempleo
 Formación bruta capital fijo
 gastos
@@ -2564,7 +2549,6 @@ Material interno
 Material externo
 Toneladas
 Media
-
 material interno compuesto ganado muerto residuos mataderos
 ZT ocupa recogida procesamiento sucesivo denominados conjunto eliminación
 sufragar costes tareas ZT aplica tasas

@@ -134,7 +134,6 @@ Objetivos emisiones específicas
 año natural empieza enero años naturales siguientes fabricante vehículos comerciales ligeros garantizará emisiones medias específicas CO superan objetivo emisiones específicas determinado arreglo anexo fabricante disfruta excepción virtud artículo arreglo excepción
 conozcan emisiones específicas vehículo completado fabricante vehículo base partirá emisiones específicas determinar emisiones medias específicas CO
 determinación emisiones medias específicas CO fabricante utilizarán siguientes porcentajes vehículos comerciales ligeros fabricante matriculados año correspondiente
-
 Artículo
 Supercréditos
 cálculo emisiones medias específicas CO vehículo comercial ligero emisiones específicas CO CO km equivaldrá
@@ -191,7 +190,6 @@ Artículo
 Prima exceso emisiones
 período enero diciembre continuación año natural Comisión impondrá prima exceso emisiones fabricante gerente agrupación convenga emisiones medias específicas CO fabricante superan objetivo emisiones específicas
 prima exceso emisiones prevista apartado calculará fórmula
-
 exceso emisiones CO km
 Exceso emisiones CO km EUR EUR número vehículos comerciales ligeros
 exceso emisiones CO km CO km
@@ -200,7 +198,6 @@ exceso emisiones CO km CO km
 Exceso emisiones CO km EUR EUR número vehículos comerciales ligeros
 exceso emisiones CO km
 Exceso emisiones EUR número vehículos comerciales ligeros
-
 Exceso emisiones EUR número vehículos comerciales ligeros
 efectos presente artículo aplican definiciones siguientes exceso emisiones
 número positivo gramos kilómetro emisiones medias específicas CO fabricante teniendo reducciones emisiones CO derivadas tecnologías innovadoras aprobadas arreglo artículo superan objetivo emisiones específicas año natural año natural aplique obligación prevista artículo redondeado tercer decimal número vehículos comerciales ligeros
@@ -309,11 +306,8 @@ DO
 ANEXO
 OBJETIVOS EMISIONES ESPECÍFICAS CO
 emisiones específicas indicativas CO vehículo comercial ligero medidas gramos kilómetro determinarán aplicando fórmulas siguientes
-
 Emisiones específicas indicativas CO
-
 masa vehículo kilogramos kg
-
 Emisiones específicas indicativas CO
 valor adoptado arreglo artículo apartado
 objetivo emisiones específicas relación fabricante año natural calculará media emisiones específicas indicativas CO vehículo comercial ligero fabricante matriculado año natural
@@ -698,7 +692,6 @@ finés Lihotettaviksi tarkoitettuja eläviä urospuolisia nautaeläimiä elopain
 sueco Levande handjur av nötkreatur som väger högst kg för gödning förordning EG nr
 checo Živí býci živou váhou nepřevyšující kg na kus na výkrm Nařízení
 eslovaco Živé mladé býčky ktorých živá hmotnosť nepresahuje kg na kus určené na výkrm nariadenie
-
 Correo electrónico AGRIIMPBOVINEceceuint
 Correo electrónico
 Reglamento UE Comisión
@@ -736,7 +729,6 @@ Productos destinados alimentación animal
 Contenido máximo mg kg ppm piensos calculado base contenido humedad
 Melamina
 Alimentos animales
-
 alimentos enlatados animales compañía
 siguientes aditivos alimentación animal
 ácido guanidinoacético
@@ -3371,7 +3363,6 @@ efectos dispuesto artículo apartado letra inciso iii establecer media anual añ
 efectos dispuesto artículo apartado letra inciso iv establecer media anual años consecutivos estén disponibles septiembre
 artículo modifica
 apartado letra añade inciso ii
-
 tardar octubre conceda régimen especial estímulo enero
 tardar abril conceda régimen especial estímulo julio
 apartado modifica
@@ -3536,7 +3527,6 @@ artículo añade párrafo
 Suiza participará plenamente Consejo administración derechos obligaciones miembros UE derecho voto
 artículo añade apartado
 Suiza participará contribución financiera mencionada apartado letra arreglo fórmula
-
 presupuesto Agencia cubierto tasas ingresos indicados apartado letras
 número asociados
 número miembros UE
@@ -3631,7 +3621,6 @@ Reglamento CEE Consejo julio establece código conducta sistemas informatizados 
 Reglamento CEE octubre
 Reglamento CE febrero
 Reglamento CE Parlamento Europeo Consejo febrero establecen normas comunes compensación asistencia pasajeros aéreos caso denegación embarque cancelación retraso vuelos deroga Reglamento
-
 Directiva Consejo octubre reestructura régimen comunitario imposición productos energéticos electricidad
 Artículo apartado letra apartado
 Anexos
@@ -3639,7 +3628,6 @@ Protocolo privilegios inmunidades Comunidades Europeas
 Disposiciones relativas control financiero ejercido Comunidad Suiza relación participantes actividades AESA
 Declaración Consejo participación Suiza Comités
 DO
-
 Decisión Comisión
 diciembre
 modifica Decisión CE establece lista terceros países miembros autorizan importación productos cárnicos
@@ -3824,7 +3812,6 @@ reacción fuego
 Sistema certificación conformidad
 Productos selladores usos estructurales juntas edificios sendas peatonales
 Usos sujetos normativa reacción fuego
-
 Productos materiales etapa claramente identificable proceso producción supone mejora clasificación relativa reacción fuego ejemplo incorporación retardadores ignición limitación material orgánico
 Productos materiales cubiertos nota pie página
 Productos materiales necesitan someterse ensayo reacción fuego ejemplo productos materiales clases Decisión CE Comisión
@@ -4701,7 +4688,6 @@ DO
 ANEXO
 anexo Reglamento UE modifica
 partes sustituyen texto
-
 Código territorio
 Descripción terceros países territorios partes terceros países territorios
 Certificado veterinario
@@ -4741,7 +4727,6 @@ territorio reconocido oficialmente indemne tuberculosis efectos exportación Uni
 territorio reconocido oficialmente indemne brucelosis efectos exportación Unión animales vivos certificados conformidad modelo certificado RUM
 territorio reconocido oficialmente indemne enfermedad Aujeszky efectos exportación Unión animales vivos certificados conformidad modelo certificado PORX
 tránsito Lituania bovinos cría producción región Kaliningrado regiones Rusia
-
 Modelos certificados veterinarios
 Modelos
 modelo certificado veterinario ganado bovino doméstico incluidas especies géneros Bubalus Bison cruces destinado cría producción importación
@@ -4789,7 +4774,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -4838,7 +4822,6 @@ Declaración transporte animales
 veterinario oficial abajo firmante certifica animales descritos tratados carga conformidad disposiciones pertinentes Reglamento CE Consejo particular respecta suministro agua comida condiciones transporte previsto
 Notas
 certificado destinado tránsito Unión Europea ganado bovino doméstico incluidas especies géneros Bubalus Bison cruces destinado cría producción procedente región Kaliningrado destino partes Rusia
-
 Casilla indicar código territorio figura anexo Reglamento UE Comisión
 Casilla caso animales hayan permanecido centro concentración animales deberá cumplir condiciones establecidas autorización figuran anexo Reglamento UE Comisión
 Casilla indicar número registro vehículo carretera

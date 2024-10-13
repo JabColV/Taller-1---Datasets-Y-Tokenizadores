@@ -96,11 +96,6 @@ GV definido PrEN SR mm
 Cuadro
 Valores límite conicidad equivalente
 requiere evaluación
-
-
-
-
-
 vías tengan características proyecto indicadas sección considerará cumplen condición
 obstante vía colocarse características
 caso administrador infraestructura deberá demostrar compatibilidad proyecto conicidad equivalente
@@ -108,9 +103,6 @@ Valores mínimos ancho vía
 establecido proyecto inicial sistema vía parámetro importante control conicidad equivalente ancho vía
 administrador infraestructura asegurará ancho vía vías rectas curvas radio mantiene límite fijado cuadro continuación
 Valor mínimo ancho vía mm km servicio vías rectas curvas radio
-
-
-
 Medidas tomarse caso inestabilidad marcha
 constata inestabilidad marcha vía respete requisito sección material rodante ejes montados conformes requisitos conicidad equivalente establecidos ETI material rodante ferrocarril alta velocidad empresa ferroviaria administrador infraestructura llevarán cabo investigación conjunta
 calidad geométrica vía límites defectos aislados parámetros importantes infraestructura necesarios definición interfaz vehículovía
@@ -502,11 +494,6 @@ Procedimientos
 Carril
 Sujeciones
 Traviesas soportes vía
-
-
-
-
-
 caso componentes interoperabilidad novedosos comprobación características intrínsecas idoneidad componente evaluado ajustan requisitos correspondientes capítulo describe funciones prestar componente subsistema correrá cargo organismo notificado nombrado fabricante mandatario establecido Comunidad organismo evaluará rendimiento producto condiciones servicio
 propiedades especificaciones componente contribuyan requisitos especificados subsistema interfaces deberán describirse íntegramente expediente técnico componente interoperabilidad verificación inicial permitir evaluación posterior componente subsistema
 evaluación conformidad componentes interoperabilidad establecidos innovadores deberá referirse fases características indicadas cuadros anexo
@@ -634,7 +621,6 @@ Casos
 Rampas pendientes máximas
 línea alta velocidad ColoniaFrankfurt RinMeno rampas pendientes máximas fijado
 Casos
-
 Longitud mínima andenes
 longitud mínima andenes reduce
 Longitud mínima andenes viajeros vías apartadero estacionamiento
@@ -649,7 +635,6 @@ gálibo mínimo infraestructura permitir circulación trenes construidos arreglo
 valores mínimos gálibos medios
 Intervalo velocidad
 Valor mínimo gálibo
-
 separaciones caras activas usarse cálculos sección mm mm
 Paso rueda libre aparatos vía
 valor máximo paso rueda libre aparatos vía mm
@@ -701,7 +686,6 @@ valor calcula vehículo parado
 Considérese vehículo centros bogie semiseparación eje bogie ao separación real eje ao
 desplazamiento geométrico interior punto Ui centro vehículo
 desplazamiento geométrico exterior punto Uo centro vehículo
-
 Obsérvese hacerse cálculos obtener desplazamientos geométricos verticales inscripción curva
 Distancia ejes vías sección
 sección presente ETI exige velocidad máxima permitida kmh fase proyecto distancia mínima ejes vías principales líneas acondicionadas alta velocidad determine basándose perfil referencia cinemático sección
@@ -1328,7 +1312,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -1774,7 +1757,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Blød hvede fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -2525,9 +2507,7 @@ Chile Tel
 Corrección errores Decisión Ejecución PESC Consejo octubre aplica Decisión PESC relativa medidas restrictivas determinadas personas grupos empresas entidades habida situación Afganistán
 Diario Oficial Unión Europea octubre
 página anexo punto
-
 Fecha nacimiento
-
 Fecha nacimiento
 Corrección errores Reglamento Ejecución UE Consejo octubre aplica artículo apartado Reglamento UE relativo imposición medidas restrictivas determinadas personas grupos empresas entidades habida situación Afganistán
 página anexo punto
@@ -2672,11 +2652,9 @@ Densidad media máxima pire
 Densidad máxima cresta pire
 diciembre
 diciembre
-
 Técnicas mitigación apropiadas
 autoriza densidad media máxima pire dBm MHz bandas frecuencias comprendidas GHz aplique restricción ciclo trabajo reducido lowdutycycle suma señales transmitidas inferior tiempo inferior tiempo hora señales transmitidas supere milisegundos
 equipos utilizan tecnología banda ultraancha autorizados utilizar espectro radioeléctrico límites pire distintos fijados cuadro punto apliquen técnicas mitigación apropiadas distintas indicadas párrafo resultado equipos logren nivel protección equivalente obtenido arreglo límites cuadro punto
-
 Decisión Comisión
 febrero
 modifica Decisión CE establecen disposiciones especiales importación productos pesca Polinesia Francesa referente designación autoridad competente modelo certificado sanitario
@@ -3267,7 +3245,6 @@ harina pescado
 País Islandia
 País Noruega
 Aeroporto Keflavík
-
 Reglamento CE Comisión
 marzo
 registran denominaciones Registro denominaciones origen protegidas indicaciones geográficas protegidas Štramberské uši IGP Aceite Monterrubio DOP Alfajor Medina Sidonia IGP
@@ -4746,7 +4723,6 @@ DO
 Reglamento CE Parlamento Europeo Consejo abril coordinación sistemas seguridad social DO Reglamento CE Parlamento Europeo Consejo septiembre adoptan normas aplicación Reglamento CE DO Reglamento UE Parlamento Europeo Consejo noviembre amplía aplicación Reglamento CE Reglamento CE nacionales terceros países únicamente nacionalidad estén cubiertos DO
 PROYECTO
 DECISIÓN CONSEJO ASOCIACIÓN UETURQUÍA
-
 adopción disposiciones coordinación sistemas seguridad social
 CONSEJO ASOCIACIÓN
 Visto crea asociación Comunidad Económica Europea Turquía particular artículo apartado
@@ -4767,7 +4743,6 @@ presente Decisión derecho recibir prestaciones familiares miembros familia trab
 necesario prever disposiciones específicas respondan características legislación turca facilitar aplicación normas coordinación
 garantizar coordinación sistemas seguridad social miembros Turquía necesario establecer disposiciones específicas cooperación miembros Turquía interesado institución competente
 adoptarse disposiciones transitorias destinadas proteger personas aplica presente Decisión garantizar pierdan derechos entrada vigor
-
 DISPOSICIONES GENERALES
 Definiciones
 efectos presente Decisión entenderá
@@ -4877,7 +4852,6 @@ Queda derogada Decisión fecha entrada vigor presente Decisión
 Artículo
 Entrada vigor
 presente Decisión entrará vigor publicación Diario Oficial Unión Europea
-
 DO
 DO
 DO

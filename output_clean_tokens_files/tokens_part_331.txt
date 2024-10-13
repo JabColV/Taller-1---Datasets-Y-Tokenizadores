@@ -127,7 +127,6 @@ Reglamento modificado lugar Reglamento CE DO
 DO
 Reglamento modificado lugar Reglamento CE DO
 ANEXO
-
 Aceite vegetal
 Plan previsiones abastecimiento ayuda comunitaria abastecimiento productos comunitarios año civil
 Designación mercancía
@@ -140,7 +139,6 @@ aceite vegetal
 Aceite oliva
 aceite oliva virgen
 aceite oliva
-
 Sector carne porcino
 Código NC
 Carne animales especie porcina doméstica fresca refrigerada congelada
@@ -151,7 +149,6 @@ Partes delanteras trozos partes delanteras
 Chuleteros trozos chuletero
 Panceta trozos panceta
 deshuesar
-
 importe ayuda restitución correspondiente productos código NC concedida aplicación artículo apartado Reglamento CEE
 importe ayuda restitución correspondiente productos código NC concedida aplicación artículo apartado Reglamento CEE
 códigos productos notas definen Reglamento CEE Comisión DO
@@ -553,7 +550,6 @@ Zona Aguas UE aguas internacionales zonas Vb VI VII
 aplica artículo presente Reglamento
 Lituania
 Polonia
-
 rúbrica correspondiente maruca aguas UE aguas internacionales zonas VI VII VIII IX XII XIV sustituye texto
 Maruca
 Zona Aguas UE aguas internacionales zonas VI VII VIII IX XII XIV
@@ -2332,7 +2328,6 @@ País declarante
 Nomenclatura ISO alfa UK Reino Unido
 Texto
 Identificación serie datos
-
 Año serie datos
 dígitos
 Período referencia
@@ -2352,7 +2347,6 @@ País descarga
 Tipo envío
 envío tren completo
 envío vagón completo
-
 desconocido
 Tipo unidad transporte
 contenedores cajas móviles
@@ -2380,12 +2374,10 @@ asterisco indica campo clave
 combinación valores campos clave registro deberá constituir valor clave único archivo
 valor clave duplicado archivo cargará correctamente
 Serie datos anexo Estadísticas anuales transporte mercancías informe simplificado
-
 Movimientos trenes mercancías km
 archivo ordinario contiene datos anexo registro consta campos
 cuadro muestra gris campos deberán preverse cuadros anexo casillas blancas corresponden campos blanco registro
 Serie datos anexo Estadísticas anuales transporte pasajeros informe detallado
-
 País embarque
 País desembarque
 Transporte pasajeros
@@ -2398,29 +2390,23 @@ cuadro muestra gris campos deberán preverse distintos cuadros anexo casillas bl
 Deberán enviarse datos provisionales cuadros datos consolidados finales cuadros distintos momentos arreglo estructura
 Número campo
 Serie datos anexo Estadísticas anuales transporte pasajeros informe simplificado
-
 Movimientos trenes pasajeros km
 archivo ordinario contiene datos anexo registro consta campos
 cuadro muestra gris campos deberán preverse cuadros anexo casillas blancas corresponden campos blanco registro
 Serie datos anexo Estadísticas trimestrales transporte mercancías pasajeros
-
-
 archivo ordinario contiene datos anexo registro consta campos
 cuadro muestra gris campos deberán preverse cuadros anexo casillas blancas corresponden campos blanco registro
 Serie datos anexo Estadísticas accidentes
-
 Tipo accidente
 Colisiones
 Descarrilamientos
 Accidentes pasos nivel
 Accidentes personas causados material rodante movimiento
 Incendios material rodante
-
 Desconocida
 Categoría persona
 Pasajeros
 Empleados
-
 Usuarios pasos nivel
 Personas autorizadas encuentran recinto ferroviario
 Número accidentes significativos
@@ -2896,7 +2882,6 @@ DO
 Directiva modificada lugar Directiva CE DO
 Véase anexo II
 ANEXO
-
 Disposiciones generales
 columna figure grupo características nutritivas objetivo nutrición indicará conjunciones fabricante opción grupos características esenciales alternativamente forma combinada lograr objetivo nutrición específico definido columna
 declaraciones constar etiqueta caso especifican columna
@@ -2909,7 +2894,6 @@ período utilización recomendado indica columna ofrece margen tiempo condicione
 fabricantes indicar períodos precisos límites establecidos
 alimento animales destine objetivo nutrición específico deberá ajustarse entradas correspondientes
 trate alimentos complementarios animales objetivos nutrición específicos empleo etiqueta constarán orientaciones equilibrio ración diaria
-
 Lista usos previstos
 Objetivo nutrición específico
 Características nutritivas esenciales
@@ -2961,7 +2945,6 @@ Inicialmente año
 Reducción intolerancia ingredientes nutrientes
 Fuentes proteínas seleccionadas
 semanas signos intolerancia desaparecen alimento utilizarse indefinidamente
-
 Fuentes seleccionadas hidratos carbono
 Fuentes hidratos carbono
 Reducción trastornos agudos absorción intestinal
@@ -3063,7 +3046,6 @@ Especialmente indicado animales jóvenes cebados intensivamente
 Reducción reacciones debidas estrés
 Alto contenido magnesio
 Cerdos
-
 Precisar situaciones utilización alimento adecuada
 Ingredientes digestibles
 Estabilización digestión fisiológica
@@ -3106,7 +3088,6 @@ semanas
 Precisar situaciones precisas utilización alimento adecuada
 Compensación pérdida electrolitos transpiración intensa
 Glucosa
-
 Precisar situaciones utilización alimento adecuada
 alimento constituya importante ración diaria indicar peligros presentarse cambios bruscos naturaleza alimento
 Indíquese empleo
@@ -4122,7 +4103,6 @@ ANEXO
 Directiva CE queda modificada
 anexo IV queda modificado
 sustituye texto
-
 Actos reglamentarios homologación tipo CE vehículos fabricados series ilimitadas
 Notas explicativas
 Acto legislativo aplicable

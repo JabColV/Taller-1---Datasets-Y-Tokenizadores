@@ -1537,8 +1537,6 @@ Comisión
 Miembro Comisión
 DO Directiva cuya modificación constituye Directiva CE Comisión DO
 Corrección errores Reglamento CE Euratom Consejo junio aprueba Reglamento financiero aplicable presupuesto general Comunidades Europeas
-
-
 Diario Oficial Comunidades Europeas septiembre
 página artículo apartado
 refiere créditos compromiso créditos disociados
@@ -2625,7 +2623,6 @@ Grupo
 Grupo
 Noruega
 Islas Feroe
-
 Reglamento CE Comisión
 agosto
 fijan restituciones aplicables exportación piensos compuestos base cereales
@@ -3618,7 +3615,6 @@ Aeronave
 Buque
 Ferrocarril
 Vehículo carretera
-
 Identificación
 Documento
 PIF entrada UE
@@ -3696,7 +3692,6 @@ caso importaciones país región riesgo insignificante EEB lista anexo Decisión
 país región clasificados país región riesgo insignificante EEB artículo apartado Reglamento CE
 animales obtuvieron productos origen bovino ovino caprino nacieron criaron continuada sacrificaron país riesgo insignificante EEB pasaron inspecciones mortem post mortem
 país región habido casos autóctonos EEB
-
 tlos animales nacieron fecha impuesto prohibición alimentar rumiantes harina carne hueso chicharrones derivados rumiantes
 productos origen bovino ovino caprino contienen material especificado riesgo obtenido define anexo Reglamento CE contienen carne separada mecánicamente huesos bovinos ovinos caprinos
 caso importaciones país región riesgo controlado EEB lista anexo Decisión CE modificada
@@ -3717,7 +3712,6 @@ tejido nervioso tejido linfático expuestos proceso deshuesado
 carne separada mecánicamente huesos bovino ovino caprino
 país región clasificados país región riesgo indeterminado EEB artículo apartado Reglamento CE
 Notas
-
 Casilla Región caso figura anexo II Decisión CE modificación
 Casilla Lugar origen nombre dirección establecimiento expedidor
 Casilla Número registro vagones contenedores camiones número vuelo aeronaves nombre buques
@@ -3817,7 +3811,6 @@ Naranjas
 Limones
 Limas
 Mandarinas
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -4150,7 +4143,6 @@ Suplemento versión original Reglamento Fecha entrada vigor agosto
 REGLAMENTO
 Ámbito aplicación
 Definición clasificación componentes
-
 Solicitud homologación
 Marcas
 Homologación

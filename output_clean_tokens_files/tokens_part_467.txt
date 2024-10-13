@@ -512,7 +512,6 @@ propulsión independiente aire permite funcione sistema propulsión submarino su
 incluye energía nuclear
 Aparatos detección subacuática diseñados especialmente militar controles
 Redes antisubmarinos antitorpedos
-
 Obturadores casco conectores diseñados especialmente militar permitan interacción equipos exteriores buque
 Nota subartículo MLf incluye conectores navales tipo conductor simple multiconductor coaxiales guías ondas obturadores casco buques capaces estanqueidad conservar características requeridas profundidades submarinas conectores fibra óptica obturadores casco ópticos diseñados especialmente transmisión haz láser cualquiera profundidad
 incluye obturadores casco ordinarios árbol propulsión vástago mando hidrodinámico
@@ -988,7 +987,6 @@ ANEXO II
 Tabla correspondencias
 Reglamento CEE
 Presente Reglamento
-
 Capítulo
 Título
 Sección
@@ -1004,11 +1002,9 @@ Sección
 Artículo apartado
 Título III
 Sección
-
 Capítulo II
 Título IV
 Sección
-
 Capítulo III
 Cuarta
 Capítulo IV
@@ -1100,7 +1096,6 @@ Reino Unido
 clorpromazina Bc Bd Ba Bb Bc Bd Be
 nitrofuranos miel nitromidazoles Bb nicarbazina Bf
 República Checa
-
 Chipre
 Hungría
 Letonia
@@ -2972,7 +2967,6 @@ masas técnicamente admisibles MT MR indicará fabricante toneladas
 punto sustituye texto
 Fuerzas ensayo
 punto vista geométrico fuerza ensayo compone componentes ensayo vertical horizontal indican continuación
-
 caso fuerza alterna
 caso fuerza progresión continua tracción presión
 valor expresado kN
@@ -4081,7 +4075,6 @@ Deberá aplicarse fuerza centro barra transversal frontal inferior SFAD ajustar 
 Deberán aplicarse fuerzas oblicuas dispositivo aplicación fuerza estática SFAD conformidad cuadro
 Cuadro
 Direcciones fuerzas ensayo
-
 kN kN
 Oblicua
 lados dirección configuración lados asimétricos
@@ -4352,7 +4345,6 @@ Asientos orientados sentido marcha
 sentido contrario
 Lateral
 Central
-
 anclajes inferiores anclaje superior permitan instalación cinturón seguridad puntos tipo exija apéndice anexo Resolución consolidada construcción vehículos RE tipo Ar Ar ArNm
 Remite punto toleran anclajes asiento contiguo zona paso
 Remite punto toleran anclajes parabrisas zona referencia
@@ -4712,9 +4704,7 @@ kg sedaxane
 kg isómeros trans mezcla enantiómeros kg isómeros cis mezcla enantiómeros
 febrero
 enero
-
 autorizarse usos tratamiento semillas
-
 relación aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión sedaxane particular apéndices II adoptó finalmente Comité Permanente Cadena Alimentaria Sanidad Animal julio
 evaluación general miembros prestarán atención particular
 protección aguas subterráneas sustancia aplique regiones suelos vulnerables condiciones climáticas desfavorables

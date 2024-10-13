@@ -2,7 +2,6 @@ Actividad establecimiento
 Carne fresca sacrificio despiece
 Productos cárnicos
 Almacén frigorífico
-
 Sector lácteo
 Sector leche productos lácteos
 DO Directiva cuya modificación constituye Reglamento CE DO
@@ -363,8 +362,6 @@ DO
 Corrección errores Directiva UE Parlamento Europeo Consejo diciembre relativa lucha abusos sexuales explotación sexual menores pornografía infantil sustituye Decisión marco JAI Consejo
 Diario Oficial Unión Europea diciembre
 página cubierta sumario página título
-
-
 Decisión Comisión
 noviembre
 relativa inclusión naled anexo Directiva CEE Consejo retirada autorizaciones productos fitosanitarios contengan sustancia
@@ -533,7 +530,6 @@ Koidula
 HC NHCNT NHCTFR
 entrada correspondiente carretera Luhamaa sustituye texto
 Luhamaa
-
 relativa Italia entrada correspondiente puerto LivornoPisa sustituye texto
 Livorno–Pisa
 Sintermar
@@ -551,7 +547,6 @@ HC NHC NT
 relativa Reino Unido queda modificada
 añade entrada aeropuerto Manston
 Manston
-
 entrada correspondiente puerto Southampton sustituye texto
 Southampton
 NHC
@@ -742,9 +737,7 @@ superficie suelo libre deberá disponer cerda joven cubrición cerda críen grup
 Corrección errores Directiva CE Consejo diciembre relativa normas mínimas protección cerdos versión codificada
 Diario Oficial Unión Europea febrero
 página artículo apartado letra
-
 superficie suelo libre deberá disponer cerda cerda joven cubrición críen grupo
-
 Reglamento CE Comisión
 junio
 modifica Reglamento CE establecen disposiciones específicas conformidad Reglamento CE Consejo respecta requisitos concesión restituciones exportación relación bienestar animales vivos especie bovina transporte
@@ -1149,7 +1142,6 @@ DO
 DO
 DO
 ANEXO
-
 Zona establece artículo apartado Decisión CE
 Código ISO país
 miembro
@@ -1159,7 +1151,6 @@ Código
 caso
 Nombre
 ALEMANIA
-
 Zona establece artículo apartado Decisión CE
 Zona
 Decisión Ejecución Comisión
@@ -1189,7 +1180,6 @@ DO
 DO
 DO
 ANEXO
-
 Cuestionario aplicación Directiva CE relativa prevención control integrados contaminación
 Observaciones generales
 quinto cuestionario elaborado arreglo Directiva CE refiere años
@@ -1260,7 +1250,6 @@ Observaciones generales
 aspectos concretos relacionados aplicación susciten preocupación miembro
 caso afirmativo especifique
 información específica relación aplicación Directiva UE miembro pertinente interpretar información suministrada cuestionario
-
 Modelo responder pregunta
 TIPO INSTALACIÓN
 INSTALACIONES
@@ -2455,7 +2444,6 @@ subartículos MLb MLd aplican
 Ácido cianhídrico CAS
 Cloro CAS
 Difosgeno triclorometil cloroformato CAS
-
 Bromuro xililo orto CAS meta CAS CAS
 Bromuro bencilo CAS
 Yoduro bencilo CAS
@@ -2525,7 +2513,6 @@ ADNT aminodinitrotriazol
 BDNTA bisdinitrotriazol amina
 DBT ′dinitrobitriazol CAS
 DNBT dinitrobistriazol CAS
-
 NTDNT Nnitrotriazolodinitrotriazol
 PDNT picrildinitrotriazol
 TACOT tetranitrobenzotriazolobenzotriazol CAS
@@ -2655,7 +2642,6 @@ TAT tetraacetil tetraaza ciclooctano CAS véase subartículo MLa
 tetraazadecalino CAS véase subartículo MLa
 triclorobenceno CAS véase subartículo MLa
 trihidroxibutano butanotriol CAS véase subartículo MLe
-
 Nota
 artículo ML aplica sustancias siguientes estén compuestas mezcladas materiales energéticos especificados subartículo MLa polvos metal especificados subartículo MLc
 Picrato amonio CAS
@@ -2723,7 +2709,6 @@ propulsión independiente aire permite submarino sumergido opere sistema propuls
 efectos subcapítulo MLb incluyen energía nuclear
 Aparatos detección subacuática diseñados especialmente militar controles componentes diseñados especialmente militar
 Redes antisubmarinos antitorpedos diseñadas especialmente militar
-
 Obturadores casco conectores diseñados especialmente militar permitan interacción equipos externos buque componentes diseñados especialmente militar
 subartículo MLf incluye conectores navales tipo conductor simple multiconductor coaxiales guías ondas obturadores casco buques capaces estanqueidad conservar características necesarias profundidades submarinas conectores fibra óptica obturadores casco ópticos diseñados especialmente transmisión haz láser cualquiera profundidad
 subcapítulo MLf aplica obturadores casco ordinarios árbol propulsión vástago mando hidrodinámico
@@ -2733,7 +2718,6 @@ Controles activos supresión firma
 Controles supresión vibración
 Aeronaves vehículos ligeros aire vehículos aéreos tripulados motores aviación equipo aeronaves equipos asociados componentes indica diseñados especialmente modificados militar
 Aeronaves vehículos ligeros aire tripulados componentes diseñados especialmente
-
 Aeronaves tripuladas equipo relacionado indica componentes diseñados especialmente
 Vehículos aéreos tripulados vehículos aéreos teledirigidos vehículos autónomos programables vehículos ligeros aire tripulados
 Lanzadores equipo recuperación equipo apoyo tierra
@@ -3767,7 +3751,6 @@ vapor
 combustión interna
 turbinas gas
 ciclo combinado
-
 especificarse contenido partida
 Punta carga
 Capacidad disponible momento punta
@@ -4648,7 +4631,6 @@ Motivo rechazo
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO III
 Licitación permanente exportación trigo blando organismo intervención polaco
 Reglamento CE

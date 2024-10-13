@@ -690,7 +690,6 @@ mantenimiento secreto profesional personal
 contratación seguro responsabilidad civil dicha responsabilidad encuentre cubierta Derecho nacional
 autoridades competentes miembros organismos designados comprobarán periódicamente cumplimiento condiciones guiones
 ANEXO VI
-
 Directiva derogada modificación
 contemplados artículo
 Directiva CEE Consejo
@@ -698,7 +697,6 @@ DO
 Directiva CEE Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho interno aplicación
 Directiva
 Plazo transposición
@@ -2152,7 +2150,6 @@ Circunscripción
 código
 municipio subcircunscripción
 Zona desfavorecida
-
 zona montaña
 Superficies agrícolas restricciones medioambientales
 Persona jurídica gestión explotación encuesta
@@ -2190,7 +2187,6 @@ Maíz grano
 Arroz
 cereales producción grano
 Cultivos proteicos producción grano incluidas semillas mezclas legumbres cereales
-
 guisantes habas haboncillos altramuces dulces
 lentejas garbanzos vezas
 cultivos proteicos recolectados secos
@@ -2301,9 +2297,6 @@ Tractores motocultores máquinas instalaciones
 encuesta pertenecientes exclusivamente explotación
 Tractores ruedas tractores oruga portaherramientas potencia kW
 número
-
-
-
 Motocultores motoazadas motofresadoras motosegadoras
 Cosechadoras
 cosechadoras totalmente mecanizadas
@@ -2365,7 +2358,6 @@ transformación madera aserrado etc
 acuicultura
 producción energías renovables energía eólica quema paja etc
 trabajo contrato utilizando equipo explotación
-
 Nota lector numeración características consecuencia larga historia encuestas estructurales agrícolas cambiar repercuta comparabilidad encuestas
 indica código municipio explotaciones información relativa zona desfavorecida zona montaña opcional
 indica código municipio explotación información relativa zona desfavorecida zona montaña obligatoria
@@ -3218,7 +3210,6 @@ Miembro Comisión
 DO
 ANEXO
 NORMAS APLICACIÓN METADATOS
-
 Interpretación
 aplicarán siguientes definiciones
 cadena caracteres dominio valores elementos metadatos expresado conjunto caracteres tratados unidad
@@ -3234,7 +3225,6 @@ intervalo espacio tiempo pertinente datos
 datos verificados norma medida rendimiento
 grado idoneidad datos previsto
 caso validez legal conjunto datos espaciales
-
 Elementos metadatos
 IDENTIFICACIÓN
 Deberán aportarse siguientes elementos metadatos
@@ -3352,7 +3342,6 @@ fecha expresará norma ISO
 Lengua metadatos
 elemento lengua expresan elementos metadatos
 dominio valores elemento metadatos limita lenguas oficiales Comunidad expresadas conforme dispuesto norma ISO
-
 Instrucciones multiplicidad condiciones elementos metadatos
 metadatos describan recurso comprenderán refiere conjuntos datos espaciales series conjuntos datos espaciales elementos metadatos grupos elementos metadatos indicados cuadro refiere servicios conjuntos datos espaciales elementos metadatos grupos elementos metadatos indicados cuadro
 elementos metadatos grupos elementos metadatos ajustarán multiplicidad prevista condiciones conexas especificadas cuadros
@@ -3384,7 +3373,6 @@ Obligatorio dispone enlace servicio
 Obligatorio dispone enlace conjuntos datos opera servicio
 Obligatorio servicios extensión geográfica explícita
 Obligatorio restricción resolución espacial servicio
-
 Dominios valores
 especifique descripción elementos metadatos dominios valores descritos utilizarán multiplicidad expresada cuadros
 relación dominio determinado valor viene definido
@@ -3939,7 +3927,6 @@ automáticamente cumplan condiciones régimen
 forma discrecional siguiendo decisión autoridades
 caso ayuda conceda carácter discrecional describa brevemente criterios seguidos adjunte copia disposiciones administrativas aplicables concesión ayuda
 Respeta ayuda límites ayuda regional establecidos mapa ayudas regionales vigor momento concesión incluidos derivan disposiciones aplicables ayudas proyectos inversión sección Directrices
-
 Incluye régimen ayudas referencia mapa ayudas regionales vigor
 Directrices ayudas finalidad regional período DO
 Ayuda inversión inicial
@@ -3986,7 +3973,6 @@ Participaciones públicas
 Indique régimen implica ayuda forma participaciones públicas
 medida participación pública aparta principio inversor economía mercado
 Facilite información pertinente calcular ayuda participación pública
-
 excluida medida inversión sustitución
 respuesta negativa ruega autoridades rellenen sección presente impreso relativa ayuda funcionamiento
 excluida régimen ayuda empresas crisis reestructuración financiera empresas crisis
@@ -4993,7 +4979,6 @@ Comisión
 Miembro Comisión
 ANEXO
 Establecimientos transformación leche establecimientos transformación carne aplica período transitorio
-
 Número autorización veterinaria
 Nombre dirección establecimiento
 Sector cárnico

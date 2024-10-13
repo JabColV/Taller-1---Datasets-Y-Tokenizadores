@@ -134,7 +134,6 @@ Capítulo
 ingresos
 Intereses
 Producto impuesto sueldos personal Europol
-
 Capítulo
 Cobertura financiera procedente terceros
 Financiación proyectos Comisión Europea partes implicadas
@@ -305,7 +304,6 @@ Importe inicial reclamar
 columna anexo
 columna anexo
 anexo
-
 cantidad reclamarán momento EUR dispuesto artículo apartado Reglamento financiero cantidad reclamará únicamente previa decisión unánime Consejo
 cantidad reclamarán momento EUR Véase artículo anexo
 cantidad reclamarán momento EUR Véase artículo anexo
@@ -1400,7 +1398,6 @@ Zona
 Aguas CE aguas sometidas soberanía jurisdicción terceros países zonas VI VII
 Fecha
 junio
-
 Reglamento Ejecución UE Comisión
 febrero
 aprueba modificación menor importancia pliego condiciones denominación inscrita Registro Denominaciones Origen Protegidas Indicaciones Geográficas Protegidas SellessurCher DOP
@@ -1533,7 +1530,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -2223,7 +2219,6 @@ Bovinos
 Porcinos
 Ovinos caprinos
 Aves
-
 Tasa kg canal
 efectos financiación servicios recogida transporte transformación eliminación MER artículo apartado Decreto Ley prevé cobre específica únicamente mataderos tasa fija EUR kilogramo MER
 tasas pagan procedimiento autoliquidación organismo público INGA Instituto Nacional Intervenção Garantia Agricola
@@ -3223,9 +3218,7 @@ aparato diseñado equipado tarjeta SIM Subscriber Identity Module equipado tarje
 Corrección errores Reglamento CE Consejo julio establece derecho antidumping definitivo percibe definitivamente derecho provisional establecido importaciones carbonato bario originario República Popular China
 Diario Oficial Unión Europea julio
 páginas considerando considerando artículo apartado
-
 Zaozhuang Yongli Chemical Co
-
 Zaozhuang Yongli Chemical Co Ltd
 Decisión Ejecución Comisión
 octubre
@@ -3301,7 +3294,6 @@ DO
 DO
 DO
 ANEXO
-
 Modelo certificado zoosanitario importaciones Unión perros gatos hurones
 Datos partida expedida
 PAÍS
@@ -3329,7 +3321,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -3339,7 +3330,6 @@ Cantidad
 Número bultos
 Número precinto recipiente
 Mercancías certificadas
-
 Animales compañía
 Organismos autorizados
 importación admisión UE
@@ -3379,7 +3369,6 @@ Notas
 certificado perros Canis lupus familiaris gatos Felis silvestris catus hurones Mustela putorius furo
 certificado validez fecha expedición veterinario oficial
 caso transporte mar período ampliará tantos dure travesía mar
-
 Casilla Lugar origen nombre dirección establecimiento expedición
 Indicar número registro autorización
 Casilla Lugar destino obligatorio animales estén destinados organismo instituto centro autorizado conformidad anexo Directiva CEE Consejo
@@ -3409,7 +3398,6 @@ Cualificación cargo
 Fecha
 Firma
 Sello
-
 Notas explicativas cumplimentar certificados zoosanitarios
 casos modelo certificado indique tache corresponda veterinario oficial tachar añadiendo rúbrica sello declaraciones procedan suprimirse completo certificado
 original certificado constará única hoja papel necesita añadir texto hará hojas formen integrado indivisible
@@ -3422,7 +3410,6 @@ autoridad competente territorio tercer país exportador garantizará cumplimient
 color firma deberá texto impreso
 norma aplica sellos distintos gofrados filigrana
 número referencia certificado indicarse casillas IIa asignado autoridad competente territorio tercer país exportador
-
 Reglamento CE Parlamento Europeo Consejo
 abril
 responsabilidad transportistas pasajeros mar caso accidente
@@ -3765,7 +3752,6 @@ Expedido refrendado Gobierno
 Nombre completo
 fórmula utilizará acoja dispuesto artículo bis apartado
 certificado expedido autorización Gobierno nombre completo nombre institución organización
-
 Lugar Fecha
 Firma título funcionario expida refrende certificado
 Notas explicativas
@@ -3927,7 +3913,6 @@ organizaciones productores asociaciones organizaciones productores ajusten
 formato estructura figuran presente Recomendación respecta planes producción comercialización sucesivo planes contemplados artículo apartado Reglamento UE
 condiciones figuran presente Recomendación plazos procedimiento aplicables informe anual sucesivo informe anual contemplado artículo apartado Reglamento UE
 referencias presente Recomendación organizaciones productores entenderán hechas asimismo asociaciones organizaciones productores
-
 FORMATO ESTRUCTURA PLANES PRODUCCIÓN COMERCIALIZACIÓN
 planes presentados autoridades nacionales organizaciones productores sector pesca acuicultura incluir información indica continuación
 Información general organización productores
@@ -4112,7 +4097,6 @@ volumen valor especies recolectadas comercializadas
 evolución per cápita valoración producción recolectada
 evolución proporción piensos procedentes recursos sostenibles renovables utilizados especies cultivadas
 evolución cantidades efluentes contaminados
-
 PRESENTACIÓN CONTENIDO INFORME ANUAL
 organizaciones productores deberán presentar informe anual finalización planes
 caso planes plurianuales deberá presentarse informe año
@@ -4195,7 +4179,6 @@ DO
 Directiva modificada lugar Directiva CE DO
 ANEXO
 ANEXO
-
 Alemania
 RenaniaPalatinado
 distrito Ahrweiler municipios Adenau Altenahr

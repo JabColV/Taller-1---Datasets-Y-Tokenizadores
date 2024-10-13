@@ -136,7 +136,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -193,7 +192,6 @@ contenedores
 vehículos contenedores granel desinfectados proceder carga producto autorizado autoridad competente
 contenedores marcada naturaleza leche productos lácteos llevan etiquetas consta producto categoría destinado consumo humano
 Notas
-
 Casilla Persona responsable carga UE casilla rellenarse únicamente certificado mercancía tránsito
 Casilla Lugar destino casilla rellenarse únicamente certificado mercancía tránsito
 Casilla indíquese número registro vagones contenedores ferrocarril camiones número vuelo aviones nombre buque transporte
@@ -326,7 +324,6 @@ Lista terceros países miembros autorizar importación subproductos animales des
 inclusión tercer país listas siguientes condición necesaria suficiente importación productos pertinentes tercer país cuestión
 productos importados deberán cumplir condiciones aplicables materia salud pública salud animal
 descripciones siguientes referencia territorios partes territorios permitidas importaciones determinados subproductos animales figuran correspondiente certificado sanitario declaración establece anexo
-
 Lista terceros países miembros autorizar importación leche productos lácteos certificado sanitario capítulo
 terceros países autorizados figuran anexo Decisión CEPARTE II
 Lista terceros países miembros autorizar importación proteínas animales transformadas harina pescado certificado sanitario capítulo
@@ -334,7 +331,6 @@ terceros países figuran anexo II Reglamento UE Comisión III
 Lista terceros países miembros autorizar importación harina aceite pescado certificados sanitarios capítulos
 terceros países figuran anexo II Decisión CE Comisión IV
 terceros países figuran anexo II Reglamento UE
-
 Hemoderivados ungulados
 terceros países partes terceros países figuran anexo II Reglamento UE autorizada importación categorías carne fresca respectivas especies
 Hemoderivados especies
@@ -378,7 +374,6 @@ caso estiércol transformado productos base estiércol transformado terceros pa�
 anexo II Reglamento UE
 anexo Decisión CE Comisión
 anexo Reglamento CE
-
 terceros países figuran anexo II Reglamento UE terceros países siguientes
 JP Japón
 TW Taiwán
@@ -493,7 +488,6 @@ Zelanda
 Unidos
 certificado utilizarse importaciones Suiza figura anexo Directiva CEE adaptaciones establecidas anexo apéndice capítulo VIII sección punto Comunidad Europea Confederación Suiza comercio productos agrícolas aprobado Decisión CE Euratom
 ANEXO II
-
 Modelo certificado zoosanitario importación esperma animales domésticos especie porcina
 Datos partida expedida
 PAÍS
@@ -520,7 +514,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -615,7 +608,6 @@ esperma presente partida
 envío almacenado arreglo dispuesto capítulo punto letra capítulo II punto letras anexo Directiva CEE
 transportado país destino frascos limpiados desinfectados esterilizados utilización precintados salir local almacenamiento autorizado
 Notas
-
 Casilla Persona responsable partida UE casilla rellenarse únicamente certificado mercancía tránsito
 Casilla Indicar código tercer país figura anexo Decisión Ejecución XXXX UE
 Casilla lugar origen centro recogida envía esperma recogido lista correspondiente arreglo artículo apartado Directiva CEE
@@ -638,7 +630,6 @@ Cualificación cargo
 Fecha
 Firma
 Sello
-
 Notas explicativas certificado
 certificado zoosanitario expedido autoridad competente tercer país exportador arreglo modelo anexo II
 miembro destino impone requisitos adicionales certificación incorporarán original certificado sanitario declaraciones certifiquen cumplimiento tales requisitos
@@ -1543,7 +1534,6 @@ Largehead hairtail Pez cinto
 Peces sable sables ncop
 Silver scabbardfish Sable negro
 Hairtails cutlassfishes nei Pez cinto
-
 Scomber japonicus
 Chub mackerel Caballa India
 Rastrelliger kanagurta Indian mackerel
@@ -1803,7 +1793,6 @@ Pescadilla real
 Macrodon ancylodon King weakfish
 Corvinón negro
 Sargo breams nei Cachucho
-
 Dentex macrophthalmus
 KBR
 Argyrops spinifer
@@ -2117,7 +2106,6 @@ Tristan Cunha rock lobster Langosta Natal
 Natal spiny lobster Cigarros
 South coast spiny lobster Langostas ncop
 Spiny lobsters nei Cigarros
-
 Scyllaridae
 Langostino índico
 Indian Ocean lobsterette
@@ -2253,7 +2241,6 @@ Cangrejo fango australiano
 Cangrejos rojos ncop
 GER
 Geryon spp
-
 Scyllaridae Slipper lobsters
 Andaman lobster Langostino tigre gigante
 Penaeus monodon Giant tiger prawn
@@ -2756,7 +2743,6 @@ Polynemidae
 Macarelas SDX
 Gnathanodon speciosus
 Panga HAS
-
 BIS
 TRY
 CGX
@@ -2770,7 +2756,6 @@ STO
 Stolephorus spp
 ANX
 Engraulidae
-
 Peto WAH
 Acanthocybium solandri Wahoo
 STS
@@ -2877,7 +2862,6 @@ SCK
 RJC
 JDP
 Dasyatis pastinaca
-
 SCL
 Scyliorhinus spp
 SDV

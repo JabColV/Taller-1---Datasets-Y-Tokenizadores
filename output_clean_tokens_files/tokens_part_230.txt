@@ -1096,7 +1096,6 @@ DO
 DO
 ANEXO
 Modelos normalizados ficha características certificado homologación tipo CE
-
 Ficha características
 MODELO
 Ficha características relativa homologación tipo CE vehículo sistemas advertencia abandono carril
@@ -1158,7 +1157,6 @@ Velocidad diseño máxima vehículo kmh
 DISPOSICIONES ESPECIALES AUTOBUSES AUTOCARES
 Clase vehículo Clase III Clase Tachar proceda casos necesario tachar aplicable opción
 Notas explicativas
-
 CERTIFICADO HOMOLOGACIÓN TIPO CE
 Sello autoridad homologación tipo
 Comunicación relativa
@@ -1879,9 +1877,7 @@ Cloruro metilo kg máximo
 Tolueno kg máximo
 enero
 diciembre
-
 autorizarse usos fungicida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión cresoximmetilo particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal junio
 miembros deberán atender especialmente protección aguas subterráneas situaciones vulnerabilidad velar condiciones autorización incluyan corresponda medidas reducción riesgo
 solicitante presentará información confirmatoria
@@ -4022,7 +4018,6 @@ ANEXO IV
 COEFICIENTES CONTEMPLADOS ARTÍCULO APARTADO
 Fórmula
 Coeficiente
-
 media precios medios mercado registrados miembro región miembro trate semanas siguientes decisión licitación
 precio mercado registrado miembro región miembro trate contemplado artículo apartado aplicable licitación trate
 Fórmula
@@ -4306,7 +4301,6 @@ Sección II Control producción comercialización
 Producción sustancias figuran anexos II Reglamento CE denominados sucesivo anexos II
 Año informe
 producido miembro sustancias químicas figuran anexos II período abarca informe
-
 respuesta pregunta sírvase indicar nombre sustancia sustancias volumen volúmenes correspondientes producidos kg
 Comercialización sustancias figuran anexos II
 comercializado miembro exportado sustancias químicas figuran anexos II período abarca informe

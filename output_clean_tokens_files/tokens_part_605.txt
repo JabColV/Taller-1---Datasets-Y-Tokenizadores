@@ -53,7 +53,6 @@ CIEM considere tamaño clase anual lanzón Mar Norte sitúa millones individuos 
 obstante autorizará actividad pesquera limitada controlar poblaciones lanzón Mar Norte Skagerrak examinar efectos veda
 miembros interesados elaborarán colaboración Comisión plan control pesca
 ANEXO VI
-
 LÍMITES CUANTITATIVOS APLICABLES LICENCIAS PERMISOS PESCA BUQUES COMUNITARIOS FAENEN AGUAS TERCEROS PAÍSES
 Zona pesca
 Pesquería
@@ -121,7 +120,6 @@ kg camarones enteros
 Camarones enteros
 Pargos Lutjanidae
 Tiburones
-
 distribución válida pesquerías cerco arrastre
 seleccionarán licencias pesquería caballa red cerco jareta sur ′N
 Actas consensuadas cifras pesca dirigida bacalao eglefino incluyen correspondientes pesca arrastre buques pies máximo zona comprendida millas líneas base Islas Feroe
@@ -239,7 +237,6 @@ Gamba nórdica Pandalus borealis
 Cigala Nephrops norvegicus
 Faneca noruega Trisopterus esmarkii
 Reloj anaranjado Hoplostethus atlanticus
-
 Solla europea Pleuronectes platessa
 Abadejo Pollachius pollachius
 Marrajo Lamma nasus
@@ -461,7 +458,6 @@ Puerto matrícula
 Tipos arte utilizados distinto registro tipos arte
 Tipo arte
 Fecha
-
 mes
 año
 Posición
@@ -3015,7 +3011,6 @@ Tabla plano equipo control parásitos radioeléctricos
 Información valor nominal resistencias corriente continua caso cables ignífugos resistencia nominal metro
 DISPOSITIVOS ALUMBRADO SEÑALIZACIÓN LUMINOSA
 descripción componentes eléctricos electrónicos lámparas hubiera
-
 Dispositivos protección utilización autorizada vehículo
 Cuadro instalación transmisores RF vehículos caso véase apartado presente Reglamento
 bandas frecuencia Hz
@@ -4635,10 +4630,8 @@ copia certificado examen CE tipo descripción medios fabricante garantiza confor
 ANEXO
 ADVERTENCIAS
 refiere artículo
-
 ADVERTENCIAS GENERALES
 restricciones usuario contempladas artículo apartado incluirán edad mínima máxima usuarios juguetes caso capacidad peso máximo mínimo necesidad asegurarse juguete utilice únicamente supervisión adultos
-
 ADVERTENCIAS ESPECÍFICAS INDICACIONES PRECAUCIONES ADOPTARSE UTILIZAR CATEGORÍAS JUGUETES
 Juguetes destinados niños menores treinta meses
 juguetes puedan resultar peligrosos niños menores treinta meses llevarán advertencia ejemplo conviene niños menores meses conviene niños menores años advertencia pictograma
@@ -4755,7 +4748,6 @@ Toronjas Pamplemusa pomelo pomelit tangelo minneola ugli híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil

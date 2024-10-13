@@ -525,7 +525,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -849,7 +848,6 @@ Decisión modificada lugar Decisión CE Comisión DO
 ANEXO
 ANEXO
 ANIMALES VIVOS
-
 LISTA TERCEROS PAÍSES PARTES TERCEROS PAÍSES Condiciones específicas véanse notas pie página certificado
 Territorio presencia EEB población nativa bovinos considerado altamente improbable efectos exportación Comunidad Europea animales certificados conformidad modelos certificado BOVX BOVY
 Territorio reconocido oficialmente indemne tuberculosis efectos exportación Comunidad Europea animales certificados conformidad modelo certificado BOVX
@@ -1114,7 +1112,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -1735,7 +1732,6 @@ Carne despojos pavo elaborados conserva embutido preparaciones hígado platos pr
 Carne aves corral elaborada conserva embutido preparaciones hígado platos preparados
 Carne cerdo elaborada conserva jamón lonchas platos preparados
 Carne cerdo elaborada conserva paletas lonchas platos preparados
-
 Carne elaborada conserva despojos mezclas cerdo doméstico carne despojos grasas clase embutido productos similares preparaciones homogeneizadas preparaciones hígado platos preparados
 Carne despojos mezclas cerdo elaborados conservados embutido productos similares preparaciones homogeneizadas preparaciones hígado platos preparados
 Carne despojos bovino elaborados conserva embutido productos similares preparaciones homogeneizadas preparaciones hígado platos preparados
@@ -4045,7 +4041,6 @@ Vasos beber exc vasos pie beber productos vitrocerámica cristal plomo vidrio te
 vasos beber
 Objetos servicio mesa cocina artículos beber cristal plomo hechos mano
 Objetos servicio mesa cocina artículos beber cristal plomo fabricación mecánica
-
 Objetos vitrocerámica servicio mesa cocina
 Objetos vitrocerámica servicio mesa cocina artículos beber
 Ampollas vidrio termos recipientes isotérmicos aislados vacío
@@ -4916,7 +4911,6 @@ tornillos hueco caras
 Tornillos cabeza hexagonal acero inoxidable
 Tornillos cabeza hexagonal aceros resistencia tracción MPa
 Tornillos cabeza hexagonal aceros resistencia tracción MPa
-
 Tornillos madera hierro acero
 Escarpias armellas roscadas acero inoxidable
 Tornillos taladradores acero inoxidable
@@ -4950,7 +4944,6 @@ artículos servicio mesa hierro acero
 artículos pintados barnizados
 Artículos doméstico partes estropajos guantes artículos similares fregar lustrar usos análogos cobre
 Artículos doméstico partes estropajos guantes artículos similares fregar lustrar usos análogos aluminio colados moldeados
-
 Aparatos mecánicos accionados mano kg tipo utilizados preparar acondicionar servir alimentos bebidas
 Lana hierro acero estropajos guantes artículos similares fregar lustrar usos análogos
 CPA Cajas caudales puertas blindadas compartimientos cámaras acorazadas cofres cajas seguridad artículos similares metales comunes

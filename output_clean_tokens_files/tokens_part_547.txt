@@ -154,7 +154,6 @@ probabilidad servicio red esté disponible tiempo
 ANEXO II
 ANEXO IV
 SERVICIOS DESCARGA
-
 Operaciones descarga
 LISTA OPERACIONES
 cumplir dispuesto artículo apartado letra Directiva CE servicio descarga proporcionará mínimo operaciones enumeradas cuadro presente anexo
@@ -218,7 +217,6 @@ operación conectar servicio descarga permite disponibilidad servicio descarga a
 Petición conectar servicio descarga Link Download Service request
 Parámetro petición conectar servicio descarga
 parámetro petición conectar servicio descarga proporcionará información servicio descarga autoridad pública ajusta presente Reglamento permitiendo servicio descarga miembro facilitar acceso conjuntos datos espaciales resulte practicable objetos espaciales servicio descarga autoridad pública
-
 Operaciones descarga acceso directo
 servicio descarga ofrezca acceso directo conjuntos datos espaciales deberá proporcionar operaciones enumeradas cuadro enumeradas cuadro presente anexo
 Cuadro
@@ -256,7 +254,6 @@ proporciona parámetro entenderá seleccionado tipos objeto espacial
 Respuesta petición describir tipo objeto espacial Describe Spatial Object Type response
 Parámetro respuesta describir tipo objeto espacial
 parámetro respuesta describir tipo objeto espacial descripción tipo objeto espacial conformidad Reglamento UE
-
 Criterios búsqueda operación obtener objeto espacial
 efectos operación obtener objeto espacial servicio descarga implementarán siguientes criterios búsqueda
 Identificador Único Recurso URI conjunto datos espaciales
@@ -799,7 +796,6 @@ DO
 Véase página presente Diario Oficial
 ANEXO
 LISTA UNIÓN AROMAS MATERIALES BASE
-
 Lista unión sustancias aromatizantes
 SECCIÓN
 Contenido lista
@@ -3385,15 +3381,10 @@ glicina
 ácido aminobutírico
 SalilLcisteína
 Lmetionilglicina
-
 Preparaciones aromatizantes
-
 Aromas obtenidos tratamiento térmico
-
 Precursores aromas
-
 aromas
-
 Materiales base
 DO
 dictamen adoptado mayo EFSA examinó ácido glicirrícico forma amónica
@@ -4144,9 +4135,7 @@ Designación mercancías
 Período
 Cantidad toneladas
 Pescado congelado filetes carne pescado partida
-
 anuales
-
 Filetes pescado congelados
 anuales
 Calamar congelado especie Loligo Patagonica Loligo gahi

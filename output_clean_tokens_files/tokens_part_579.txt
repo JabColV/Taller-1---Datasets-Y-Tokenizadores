@@ -238,7 +238,6 @@ DO
 ANEXO
 Personas entidades refiere artículo
 PERSONAS
-
 ENTIDADES
 Reglamento UE Comisión
 diciembre
@@ -320,18 +319,15 @@ ANEXO
 anexo II Decisión CE modifica
 punto Intrascope Optical Probe sustituye texto
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor tocino dorsal incluida corteza milímetros medido punto situado cm línea media canal nivel costilla medida llamada
 fórmula válida canales peso comprendido kg
 punto Mark II Ulster Probe sustituye texto
 sustituye texto
-
 clasificación canales cerdo llevará cabo aparato denominado Hennessy Grading Probe HGP
 aparato provisto sonda diámetro mm mm lámina situada extremo sonda fotodiodo LED Siemens tipo LYU EO fotodetector tipo MR alcance operativo mm
 HGP ordenador conectado traducirán resultados medición contenido estimado carne magra
 añade
-
 clasificación canales cerdo llevará cabo aparato denominado Autofom Fully automatic ultrasonic carcass grading
 aparato provisto transductores ultrasonidos operan MHz tecnología Krautkrämer SFK NP distancia operativa transductores mm
 datos ultrasónicos incluirán mediciones espesor tocino dorsal espesor músculo
@@ -1463,16 +1459,12 @@ Período curación
 FDM atmósfera protectora
 FDM vacío
 meses
-
-
-meses
-meses
-
 meses
 meses
 meses
 meses
-
+meses
+meses
 capítulo documento artículo apartado queda modificado
 envases Prosciutto di Parma independientemente forma dimensión peso presentar común superficie superior envase constituida triángulo colocado esquina superior izquierda fondo negro marca consorcio menciones legales Prosciutto di Parma denominazione di origine protetta ai sensi della legge febbraio regolamento CE confezionato sotto il controllo dellIstituto Parma Qualità
 presentación gráfica envase corresponde reproducción gráfica adjunta anexo presente Directiva anexo forma integrante
@@ -1666,7 +1658,6 @@ Explotaciones afectadas
 Restricción traslados animales individuales
 Restricción traslados animales explotación
 Destrucción animales
-
 dato referencia nacional estadísticas animales
 DO
 Reglamento CE Comisión
@@ -3559,7 +3550,6 @@ fósforo
 Piensos completos
 piensos completos bovinos ovinos caprinos krill
 lactantes
-
 piensos completos cerdos ovinos caprinos
 piensos completos aves corral caprinos
 piensos completos pollitos rral
@@ -3677,9 +3667,7 @@ diclorofenildimetilurea
 kg
 octubre
 septiembre
-
 autorizar usos herbicida cantidades superiores kg media área
-
 aplicación principios uniformes anexo VI conclusiones informe revisión diurón particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal julio
 evaluación general miembros deberán prestar especial atención
 seguridad operario condiciones utilización exijan caso equipos protección individual
@@ -4493,7 +4481,6 @@ ejemplo prospección petróleo gas Mar Norte requiere inversiones cuantiosas pro
 evaluar cuota mercado operadores económicos presentes sector vienen aplicando normalmente parámetros porcentaje reservas conocidas producción prevista
 diciembre reservas conocidas petróleo gas mundo ascendían información disponible millones metros cúbicos estándar equivalente petróleo sucesivo Sm ep
 diciembre reservas conocidas petróleo gas Dinamarca tomadas conjunto ligeramente superiores millones Sm ep
-
 porcentaje cantidad corresponde entidades adjudicadoras operan Dinamarca evidentemente reducido
 información disponible correlación directa reservas conocidas petróleo gas producción futura prevista
 información disponible indica cuota mercado entidades adjudicadoras operan país variaría sustancialmente midiera términos producción prevista lugar función porcentaje reservas conocidas
@@ -4795,9 +4782,7 @@ arreglo artículo Decisión Tribunal General septiembre presentación notificaci
 Corrección errores Decisión Atalanta Comité Político Seguridad PESC mayo nombra Comandante Operación Unión Europea Operación Militar Unión Europea destinada contribuir disuasión prevención represión actos piratería robo mano armada frente costas Somalia Atalanta
 Diario Oficial Unión Europea junio
 página considerando
-
 Reino Unido propuesto General División Buster HOWE releve
-
 Reino Unido propuesto General División Buster HOWES releve
 página artículo
 nombra General División Buster HOWE Comandante

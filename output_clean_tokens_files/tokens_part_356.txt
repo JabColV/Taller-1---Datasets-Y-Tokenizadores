@@ -15,7 +15,6 @@ Factor corrección seco húmedo gas escape diluir
 Porcentaje par relación par máximo prueba
 Longitud efectiva camino óptico
 Pendiente función calibrado PDP
-
 Subíndice indica caudal másico emisiones
 Masa muestra aire dilución filtros muestreo partículas
 Masa muestra partículas contenida aire dilución captado
@@ -547,7 +546,6 @@ Olefinas
 Residuo evaporación
 Contenido azufre
 Sulfuro hidrógeno
-
 Corrosión lámina cobre
 Clasificación
 Clase
@@ -701,10 +699,8 @@ ciclo completo inyecta muestra inyecta efectuarse determinar contenido NMHC rest
 figura muestra GC típico montado determinación rutinaria CH
 utilizarse métodos GC basados práctica
 Figura
-
 entrada carburante
 entrada aire
-
 Componentes figura
 PC Columna Porapak
 utilizará columna Porapak μm malla dimensiones mm long mm diámetro interior
@@ -1247,7 +1243,6 @@ frecuencia muestreo Hz
 Paso Tiempo respuesta preceptivo filtro Bessel tF
 Paso Estimación frecuencia corte cálculo constantes Bessel iteración
 obtiene algoritmo Bessel
-
 representa valores señal entrada escalonada Yi representa valores filtrados señal salida
 Paso Aplicación filtro Bessel entrada escalonada
 tiempo respuesta filtro Bessel tF define tiempo subida señal salida filtrada señal entrada escalonada
@@ -1346,7 +1341,6 @@ Supongamos emplea carburante referencia metano composición CH
 NMHC concentración fondo diferencia HCconcd CH concd
 FACTOR DESPLAZAMIENTO Sλ
 Cálculo factor Sλ desplazamiento
-
 factor desplazamiento
 inerte volumen gases inertes carburante CO etc
 volumen oxígeno original carburante
@@ -1371,14 +1365,12 @@ caso motores diésel alimentados etanol siguientes modificaciones específicas c
 APÉNDICE ANEXO III
 Corrección seco húmedo
 Corrección NOx humedad temperatura
-
 GFUEL GAIRD
 GFUEL GAIRD
 temperatura aire
 humedad aire admisión gramos agua kg aire seco
 Cálculo caudal másico emisiones
 caudal másico emisiones fase calculará suponiendo gas escape densidad kg °C kPa
-
 NOx conc COconc HCconc concentraciones medias ppm gas escape diluir indica punto
 caso optado determinar emisiones gases sistema dilución reducción caudal aplicarán siguientes fórmulas
 NOx conc COconc HCconc Calculado equivalente
@@ -1392,7 +1384,6 @@ Cálculo caudal másico emisiones
 Sistemas caudal másico constante
 sistemas intercambiador calor masa contaminantes prueba determinará ecuaciones siguientes
 motores alimentados etanol
-
 concentraciones medias corrección fondo ciclo obtenidas integración obligatorio NOx HC medición bolsas ppm
 masa gas escape diluido ciclo indica punto kg
 Determinación concentraciones corrección fondo
@@ -1426,21 +1417,14 @@ Calculado equivalente
 ANEXO IX
 PLAZOS LÍMITE INCORPORACIÓN DIRECTIVAS DEROGADAS RESPECTIVOS ORDENAMIENTOS JURÍDICOS NACIONALES
 contemplados artículo
-
 Directivas derogadas
 Directivas
 Diario Oficial
 Directiva CEE
-
 Directiva CEE
-
 Directiva CE
-
 Directiva CE
-
 Directiva CE
-
-
 Plazos límite incorporación ordenamiento jurídico nacional
 Directiva
 Plazos límite incorporación
@@ -3254,7 +3238,6 @@ CU cantidad enzima libera micromoles azúcares reductores equivalentes glucosa m
 EPU cantidad enzima libera micromoles azúcares reductores equivalentes xilosa minuto xilano cascarilla avena pH temperatura °C
 ANEXO
 CE
-
 Preparado endobetaglucanasa endobetaxilanasa producidas Penicillium funiculosum IMI SD actividad mínima
 Forma polvo
 Endobetaglucanasa
@@ -3271,7 +3254,6 @@ Indicado empleo piensos compuestos ricos polisacáridos amiláceos principalment
 cantidad enzima libera micromoles azúcares reductores equivalentes maltosa minuto betaglucano cebada pH °C
 cantidad enzima libera micromoles azúcares reductores equivalentes maltosa minuto xilano madera abedul pH °C
 DO Directiva cuya modificación constituye Reglamento CE Comisión DO
-
 Reglamento CE Comisión
 octubre
 modifica anexo IX Reglamento CE Parlamento Europeo Consejo establecen disposiciones prevención control erradicación determinadas encefalopatías espongiformes transmisibles
@@ -3415,7 +3397,6 @@ variable proporcional carga trabajo correspondiente expresará horas multiplicad
 importe costes específicos operación certificación íntegramente recuperados arreglo coste real
 Artículo
 niveles tasas establecerán
-
 producto anual tasas percibidas Agencia
 gastos anuales consignados presupuesto Agencia
 porcentaje gastos anuales directa indirectamente imputables operaciones certificación
@@ -3626,19 +3607,6 @@ EUR
 Categorías tasas valor actividades objeto aprobación EUR
 Coeficiente aplicable tasa fija
 inferior
-
-
-
-
-
-
-
-
-
-
-
-
-
 superior
 Demostración capacidad diseño procedimientos alternativos contemplada subparte apartado anexo Reglamento CE
 certificación capacidad diseño procedimientos alternativos devengará pago tasa horaria cuyo importe indica cuadro
@@ -3651,20 +3619,6 @@ solicitudes aprobación organización producción devengarán pago tasa fija fig
 organización producción aprobada deberá abonar tasa concepto vigilancia equivalente tasa fija multiplicada coeficiente indicado categoría tasas correspondiente organización cuestión
 tasa abonarse años pagos anuales cuantía
 Tasa fija
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 superior
 Producción aprobación contemplada subparte anexo Reglamento CE
 certificación producción aprobación devengará pago tasa horaria cuyo importe indica cuadro
@@ -3695,7 +3649,6 @@ solicitudes aprobación organización formación mantenimiento devengarán pago 
 ámbito aprobaciones vigilancia aplicarán tasas horarias cuyo importe indica cuadro solicitudes cuya investigación detecte incidencias nivel incidencias nivel año conforme indicado apartado anexo IV Reglamento CE
 organización formación mantenimiento aprobada deberá abonar tasa concepto vigilancia equivalente tasa fija multiplicada coeficiente indicado categoría tasas correspondiente organización cuestión
 Tasa fija
-
 superior
 recaudarán tasas gestión recursos interpuestos conforme establecido artículo Reglamento CE
 solicitud recurso devengará pago tasa fija figura cuadro multiplicada coeficiente indicado categoría tasas correspondiente persona organización cuestión
@@ -3706,12 +3659,6 @@ EUR
 Tasas aplicable personas físicas
 Categorías tasas aplicables organizaciones cifra negocios recurrente EUR
 inferior
-
-
-
-
-
-
 superior
 Reglamento CE Comisión septiembre establecen disposiciones aplicación certificación aeronavegabilidad medioambiental aeronaves productos componentes equipos relacionados certificación organizaciones diseño producción DO
 trate versión carga aeronave aplicará coeficiente tasa corresponda versión pasajeros equivalente
@@ -4078,7 +4025,6 @@ ESPECIFICACIONES
 neumáticos recauchutados arreglo presente Reglamento deberán presentar dimensiones siguientes
 Anchura sección
 anchura sección obtiene fórmula
-
 anchura efectiva sección expresada milímetros medida llanta ensayo
 anchura teórica sección llanta medición figura norma internacional neumáticos indicada recauchutador dimensiones neumático
 anchura expresada milímetros llanta ensayo
@@ -4183,7 +4129,6 @@ dígitos número hacerse constar letra orientarse sentido
 evitará utilizar números romanos número homologación excluir confusión códigos
 ANEXO
 ESQUEMA MARCAS NEUMÁTICOS RECAUCHUTADOS
-
 ALTURA MÍNIMA INSCRIPCIONES mm
 Neumáticos diámetro llanta
 código
@@ -4407,7 +4352,6 @@ recauchutado dimensiones neumático medidas conformidad dispuesto anexo presente
 tolerancia excentricidad radial neumático recauchutado deberá sobrepasar mm tolerancia medición mm
 desequilibrio estático máximo neumático recauchutado medido diámetro llanta deberá sobrepasar masa neumático
 indicadores desgaste deberán ajustarse prescripciones punto
-
 número convencional definido punto expresado milímetros
 altura nominal sección expresada milímetros Sn multiplicada Ra
 obstante tipos neumáticos cuya designación dimensional figura columna cuadros anexo Reglamento CEPE diámetro exterior figura dichos cuadros
@@ -4416,7 +4360,6 @@ caso neumáticos estructura diagonal estructura diagonal cinturada
 neumático comprende cordón especial protección valores correspondientes aplicación tolerancias indicadas puntos sobrepasarse mm máximo
 Dmáx
 dimensiones figuran punto
-
 formalidades relativas conformidad producción deberán ajustarse enunciadas apéndice ECEE ECE TRANS Rev teniendo siguientes prescripciones
 producción anual caso cifra resultante menor obligatoriamente
 unidad producción autoridad competente deberá tomar muestras aleatorias año producción número neumáticos representativo gama curso producción deberá verificado controlado arreglo prescripciones presente Reglamento
@@ -4470,7 +4413,6 @@ Neumáticos diagonales biasply
 Neumáticos diagonales cinturados
 Número lonas plyrating
 Reforzado
-
 Previa justificación fabricante solicitar presión inflado ensayo figura punto
 caso neumático inflado dicha presión
 Acondicionar conjunto neumático rueda temperatura ambiente local ensayos horas
@@ -4565,10 +4507,8 @@ CICAP
 consta
 septiembre
 agosto
-
 autorizar usos repelente
 harina sangre cumplir disposiciones Reglamento CE Reglamento UE
-
 evaluación solicitudes autorización productos fitosanitarios contengan harina sangre usos distintos aplicación directa localizada plantas individuales miembros prestarán especial atención criterios mencionados artículo apartado Reglamento CE velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión harina sangre SANCO particular apéndices II adoptado marzo Comité Permanente Cadena Alimentaria Sanidad Animal
 caso condiciones deberán incluir medidas reducción riesgo

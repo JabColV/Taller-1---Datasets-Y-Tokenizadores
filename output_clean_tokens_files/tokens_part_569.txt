@@ -116,7 +116,6 @@ suelos empleados estudios degradación adsorción desorción movilidad deberán 
 suelos deberán cumplir siguientes condiciones
 deberán abarcar gama contenidos carbono orgánico distribución granulométrica valores pHpreferiblemente CaCl
 datos espere degradación movilidad dependan pH ejemplo índices solubilidad hidrólisis véanse puntos deberán abarcar siguientes intervalos pHpreferiblemente CaCl
-
 deberán utilizarse muestras suelo recién extraídas
 inevitable suelos almacenados almacenamiento deberá lugar tiempo limitado sumo meses condiciones definidas consignadas adecuadas mantener viabilidad microbiana suelo
 suelos hayan permanecido almacenados períodos largos utilizarse estudios adsorción desorción
@@ -517,7 +516,6 @@ pictogramas
 palabras advertencia
 indicaciones peligro
 consejos prudencia
-
 MICROORGANISMOS INCLUIDOS VIRUS
 IDENTIFIDAD MICROORGANISMO
 Nombre descripción especie caracterización cepa
@@ -4278,7 +4276,6 @@ Determinación matemática efectos ocultación visión binocular
 comprobarse matemáticamente aceptabilidad efectos ocultación lugar procedimiento verificación mencionado apartado
 importancia distribución número efectos ocultación deberán regirse apartados
 visión binocular distancia ocular mm efecto ocultación expresado mm calcularse fórmula
-
 distancia mm elemento oculta visión punto referencia medida línea visión une punto referencia centro elemento perímetro semicírculo visión
 anchura mm elemento oculta visión medida horizontal perpendicularmente línea visión
 procedimientos control previstos apartado sustituidos demuestren valor idéntico
@@ -4554,7 +4551,6 @@ Zona
 VIIIc IX aguas UE CPACO
 Fecha
 marzo
-
 Reglamento CE Comisión
 agosto
 establecen valores importación alzado determinación precio entrada determinadas frutas hortalizas

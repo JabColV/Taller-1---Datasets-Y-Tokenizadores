@@ -165,7 +165,6 @@ residuos proceso incluyen residuos mantenimiento residuos orgánicos urbanos pro
 DO
 DO
 deberá existir sistema cerrado recuperación aguas residuales evitar dispersión residuos cortado serrado ambiente alimentar circuito reciclado agua contendrá cerca lugar utilizarse operaciones extracción piedra posteriormente transportará tuberías cerradas instalaciones transformación correspondientes
-
 declaración conformidad Directiva CEE Consejo hábitats Directiva CEE Consejo aves zonas situadas Comunidad requiere informe técnico similar demuestre cumplimiento Convenio Naciones Unidas diversidad biológica proporcione información estrategia plan actuación nacionales materia biodiversidad existan
 solicitantes deberán proporcionar documentación apropiada procedimientos adoptados reciclado subproductos generados proceso informe contenga información
 Decisión Comisión
@@ -260,7 +259,6 @@ Comparación proyectos AW AW
 Versión civil AW
 Versión militar AW
 Diámetro rotor principal
-
 Diámetro rotor cola
 Dimensión cabina control
 Anchura cm
@@ -698,7 +696,6 @@ Región destino
 Lugar origen lugar captura
 Establecimiento
 Lugar destino
-
 Número autorización
 Lugar carga
 Fecha hora salida
@@ -707,7 +704,6 @@ Transportista
 Aeronave
 Buque
 Vagón ferrocarril
-
 Identificación
 miembro
 Descripción mercancía
@@ -760,7 +756,6 @@ pieles tratadas conformidad notas casilla Tipo tratamiento presente documento
 envío contacto producto origen animal animales vivos presenten riesgo propagación enfermedad transmisible grave
 subproductos animales productos transformados almacenados adecuadamente carga envío
 tomado precauciones evitar contaminación subproductos animales productos transformados agentes patógenos contaminación cruzada categorías
-
 Casillas procede
 Casilla completar
 Expedidor
@@ -784,7 +779,6 @@ Táchese proceda
 DO
 firma deberá color distinto texto impreso
 Firma
-
 fecha
 lugar
 firma persona responsable expedidor
@@ -845,7 +839,6 @@ letra punto frase introductoria sustituye texto
 productos apicultura destinados exclusivamente utilizarse apicultura
 miembros deberán autorizar importación productos apicultura cera forma panal destinados utilizados apicultura
 proceden terceros países figuran lista establecida XII anexo XI
-
 tratados temperatura °C inferior horas
 caso cera refinada fundida importación
 acompañados certificado sanitario conforme modelo establecido capítulo anexo
@@ -932,7 +925,6 @@ Casilla Persona responsable envío UE casilla rellenarse únicamente certificado
 Casilla indique número registro vagones contenedores camiones número vuelo nombre buque mercancía descarga vuelve cargarse informar
 Casilla indique código SA apropiado
 Casillas rellénelas trate certificado tránsito importación
-
 número muestras someterán ensayo
 valor umbral número bacterias resultados consideran satisfactorios número bacterias muestras supera
 valor máximo número bacterias resultado insatisfactorio número bacterias muestras superior
@@ -1011,7 +1003,6 @@ proceden terceros países partes terceros países figuran columna anexo Decisió
 pH reducido valor inferior proceden terceros países partes terceros países figuran columna anexo Decisión CE sometidos tratamiento pasteurización suficiente producir reacción negativa prueba fosfatasa
 proceden terceros países partes terceros países figuran columna anexo Decisión CE sometidos tratamiento esterilización tratamiento térmico doble tratamientos suficiente producir reacción negativa prueba fosfatasa
 proceden terceros países partes terceros países figuran columna anexo Decisión CE producido brote fiebre aftosa meses llevado cabo vacunación fiebre aftosa meses sometido
-
 proceso esterilización permitido alcanzar valor Fc superior
 tratamiento térmico inicial efecto calentamiento mínimo °C segundos suficiente producir reacción negativa prueba fosfatasa seguido
 tratamiento térmico efecto calentamiento alcanzado suficiente producir reacción negativa prueba fosfatasa seguido caso leche polvo productos lácteos polvo procedimiento desecado
@@ -1111,7 +1102,6 @@ obtenido animales
 proceden explotaciones
 casos brotes peste bovina enfermedad vesicular porcina enfermedad Newcastle influenza aviar altamente patógena previos peste porcina clásica africana previos animales sensibles enfermedades cumplido condiciones explotaciones situadas radio kilómetros previos
 caso brote fiebre aftosa previos cumplido condiciones explotaciones situadas radio kilómetros previos
-
 sacrificados erradicar epizootias
 permanecido explotaciones origen previos marcha transportados directamente matadero contacto animales cumplían condiciones sanitarias
 sometidos inspección sanitaria mortem matadero horas previas sacrificio presentaban signo enfermedades citadas anteriormente sensibles animales cuestión
@@ -1259,7 +1249,6 @@ Pieles tratadas rumiantes équidos mantenido aisladas transportarán ininterrump
 Declaración
 abajo firmante declara pieles descritas
 obtenido animales
-
 contacto productos origen animal animales vivos supongan riesgo propagación enfermedad transmisible grave
 II aisladas previos envío supervisión oficial tratamiento descrito punto II
 II declaración transportista prevé transporte dure
@@ -1444,7 +1433,6 @@ loque americana Paenibacillus larvae larvae
 acariosis Acarapis woodi Rennie
 pequeño escarabajo colmena Aethina tumida
 ácaro Tropilaelaps Tropilaelaps spp
-
 sometidos temperatura °C inferior mínimo horas
 caso cera refinada derretida
 Casilla indique código SA apropiado especifique mercancía indicado casilla
@@ -1503,7 +1491,6 @@ pezuñas productos base pezuñas harina pezuña
 dichos productos destinarán momento alimentación humana animal abonos orgánicos enmiendas suelo transportarán directamente establecimiento transformados
 Nombre Dirección
 Importador
-
 Firma
 Número referencia indicado Documento Veterinario Común Entrada DVCE previsto anexo III Reglamento CE Comisión
 Sello oficial puesto inspección fronterizo entrada CE
@@ -1684,9 +1671,7 @@ CICAP
 Proporción enantiómeros
 febrero
 enero
-
 autorizar usos tratar tubérculos patata siembra plantación limitados aplicación años campo
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión penflufén particular apéndices II ultimó Comité Permanente Cadena Alimentaria Sanidad Animal marzo
 evaluación general miembros prestarán atención particular
 protección operarios
@@ -2128,7 +2113,6 @@ embalados marcados almacenados transportados conformidad capítulos VI VII VIII 
 proceden especies tóxicas contengan biotoxinas
 superado satisfactoriamente pruebas organolépticas parasitológicas químicas microbiológicas establecidas categorías productos pesqueros Directiva CEE Decisiones aplicación
 inspector oficial abajo firmante declara conocimiento disposiciones contenidas Directivas CEE CEE Decisión CE
-
 lugar fecha
 Sello oficial
 Firma inspector oficial
@@ -3306,7 +3290,6 @@ Gastos relacionados objetos arte colección antigüedades
 Gastos suntuarios ocio representación fines publicitarios
 Gastos suntuarios ocio representación distintos especificados
 Código
-
 Herramientas
 Reparaciones período garantía
 Servicios relacionados educación
@@ -3344,7 +3327,6 @@ ANEXO IV
 Modelo comunicación datos miembros Comisión establece artículo apartado Reglamento UE
 miembro
 Año
-
 Estadísticas miembro
 Artículos
 Artículo
@@ -3364,7 +3346,6 @@ Solicitudes información retorno salientes
 Información retorno recibida
 Solicitudes notificación administrativa recibidas
 Solicitudes notificación administrativa enviadas
-
 estadísticas globales
 Estadísticas operadores
 Número operadores declarado adquisiciones intracomunitarias año natural
@@ -3878,10 +3859,8 @@ Fecha
 Corrección errores Reglamento CE Consejo febrero establece derecho antidumping definitivo importaciones determinado politereftalato etileno originario India Indonesia Malasia República Corea Tailandia Taiwán consecuencia reconsideración expiración reconsideración transitoria parcial virtud artículo apartados Reglamento CE
 Diario Oficial Unión Europea febrero
 página artículo apartado lista empresas mención República Corea
-
 KP Chemicals Group
 KP Chemicals Corp
-
 KP Chemical Group
 KP Chemical Corp
 Reglamento CE Comisión
@@ -4330,7 +4309,6 @@ Actividades mar adentro
 Perforación exploración Abastecimiento mar adentro
 Remolcadores
 Remolcadores Empujadores
-
 Dragas Investigación exploración buques embarcaciones ncop
 Desconocido
 Tipo buque desconocido

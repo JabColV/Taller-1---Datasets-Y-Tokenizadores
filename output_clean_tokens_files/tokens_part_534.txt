@@ -492,7 +492,6 @@ resina previamente utilizarla
 Filtrar alícuota filtro membrana véase observación punto
 caso emplea titulador automático pehachímetro
 Añadir ml solución patrón madre aminoácidos ml solución patrón madre ácido cisteico metionina sulfona ml solución patrón madre patrón interno utiliza
-
 vitamina degradarse determina premezclas niveles superiores mg kg
 consiguiente recomienda confirmar resultados CLAR incluya digestión enzimática formulación vitamina fase saponificación alcalina
 Mezclar remover tambor minutos
@@ -1251,7 +1250,6 @@ convocatorias licitaciones realizaron mayoría casos nivel departamental regiona
 Habida condiciones adjudicación contratos públicos normativa aplicable requisición autoridades francesas descartan pagos realizados hayan podido incidencia posibles actividades comerciales empresas beneficiarias
 autoridades francesas indican conforme dispuesto artículo Código rural desprende Decreto diciembre relativo servicio público recogida eliminación residuos animales modifica Código rural modificado Decreto octubre servicio público recogida eliminación residuos animales sujeto procedimientos adjudicación contratos públicos
 artículo Código rural establece
-
 departamento prestación servicio público recogida eliminación residuos animales competencia prefecto adjudicará conformidad procedimientos definidos Código contratos públicos contratos necesarios responsable artículo Código
 naturaleza operaciones justifique adjudicarse contratos empresa totalidad prestaciones departamentos
 autoridades francesas explican aplicación artículo Código rural dichos contratos incluyen particular pliego condiciones administrativas define naturaleza prestaciones objeto contrato remuneración operaciones cuya ejecución confía adjudicatario excluye remuneración obtenida usuarios servicio público informaciones permiten evaluar calidad servicio pliego condiciones técnicas definen requisitos técnicos recogida transporte transformación procede destrucción animales muertos residuos matadero respetando garantías sanitarias exigidas
@@ -1714,7 +1712,6 @@ Bruselas diciembre
 Comisión
 Miembro Comisión
 DO
-
 Véase nota
 Ayuda estatal carta autoridades francesas
 Journal officiel République française
@@ -1833,7 +1830,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -1847,7 +1843,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -1861,7 +1856,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -2520,7 +2514,6 @@ Entradas
 Posiciones agregadas cortas largas contratos plazo futuros financieros moneda extranjera moneda local incluido tramo plazo swaps divisas
 Posiciones cortas
 Posiciones largas
-
 Drenajes relacionados repos
 Drenajes relacionados adquisiciones temporales
 Créditos comerciales
@@ -4511,7 +4504,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -4572,7 +4564,6 @@ embalaje exterior contenedores llevan etiquetas indicación DESTINADO CONSUMO HU
 producto almacenado almacenamiento cerrado
 sometido producto precauciones evitar contaminación agentes patógenos transporte
 Notas
-
 Casilla persona responsable envío Comunidad Europea casilla rellenarse únicamente certificado mercancía tránsito rellenarse certificado destina mercancía importada
 Casilla lugar destino casilla rellenarse únicamente certificado mercancía tránsito
 productos tránsito almacenarse zonas francas depósitos francos depósitos aduaneros
@@ -4659,7 +4650,6 @@ miembro
 Zona
 Fecha aplicable artículo apartado letra inciso iii
 Código
-
 Nombre
 REPÚBLICA CHECA
 Zona protección

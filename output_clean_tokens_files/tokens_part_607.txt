@@ -565,7 +565,6 @@ autoridades francesas propusieron demostración justifica tramitación pequeños
 Aclaran argumento vista análisis costes basado datos cuadro año referencia
 Tipo pedidos
 Pequeños pedidos
-
 Volumen negocios
 describe detalladamente anexo III tramitación pedido requiere realización tareas
 recepción orden pedido librero
@@ -757,7 +756,6 @@ Véase considerando
 Véase considerando
 Boletín CE
 DO
-
 Véanse considerandos siguientes
 Página informe comunicado SIDE
 SIDE referencia comentarios escritos ayudas exportación libros
@@ -881,7 +879,6 @@ ayuda reunía condiciones fijadas excepción prevista letra apartado artículo T
 SIDE alegó política acrecentar distorsión competencia SIDE condiciones antiguos clientes CELF pequeñas cuentasacuden SIDE
 SIDE evidente clientes interesantes volumen pedidos
 Comisión destaca afirmaciones SIDE tomadas conjuntamente parecer contradictorias tales siguientes clientes interesantes volumen pedidos tramitación pequeños pedidos conjunto rentable pedidos importantes
-
 número clientes Comisión recuerda comparaciones punto podido obtener datos SIDE
 Magreb
 Comisión precisa programa permite conceder descuentos libreros precios públicos CELF participa programa operadores caso comisión exportación
@@ -992,7 +989,6 @@ DO
 DO
 ANEXO
 Establecimientos sector cárnico sector lácteo sector pesquero sujetos disposiciones transitorias
-
 Número autorización veterinaria
 Nombre dirección establecimiento
 Sector Cárnico
@@ -1092,7 +1088,6 @@ PPH Szendera Szendera Mysłowice ul
 Almacén frigorífico
 Przedsiębiorstwo Przemysłu Chłodniczego FRIGOPOL SA
 Zakład Przetwórstwa Spożywczego MAKÓW Sp oo Chłodnia Składowa Maków ul
-
 Sector Lácteo
 Leche productos lácteos
 Spółdzielnia Mleczarska Michowianka Michów
@@ -1109,7 +1104,6 @@ Okręgowa Spółdzielnia Mleczarska Białogard ul
 Okręgowa Spółdzielnia Mleczarska Białogard
 Spółdzielnia Mleczarska Kurów Kurów ul
 Rolnicza Spółdzielnia Mleczarska Rolmlecz Radomiu Zakład Mleczarski Zwoleniu ul
-
 Sector Pesquero
 Pescado productos pesqueros
 Firma Produkcyjno Handlowa HELENA
@@ -1584,7 +1578,6 @@ Descripción
 Importe millones EUR
 Préstamos concedidos CGD nacionalización
 Transferencia activos SPV valor millones EUR procedimiento licitación
-
 Inyección capital febrero
 Líneas tesorería concedidas CGD BPN diciembre
 Cubiertas garantía estatal explícita
@@ -1689,7 +1682,6 @@ juicio Comisión toma consideración actual situación económica reducción sub
 añadidura hubiera mantener préstamos vencimiento tendría frente costes financiación correr riesgo crédito vencimiento
 consiguiente Comisión aceptar previsión baja valor reducción haircut comunicada Portugal reducción haircut
 tenedores obligaciones subordinadas Comisión cree montante millones EUR corresponde suma importes emisiones
-
 Portugal comunicó análisis jurídico condiciones emisiones
 cuadro proporciona visión conjunto previsión entradas salidas base hipótesis revisadas mencionadas considerandos
 previsión costes marginales asociados hipótesis costes contraídos basa datos balance BPN momento venta BIC
@@ -3046,7 +3038,6 @@ Notificación certificados importación expedidos Reglamento CE
 miembro
 Aplicación artículo Reglamento CE
 Cantidades productos expedido certificados importación
-
 orden
 Categoría categorías producto
 Cantidad
@@ -4195,7 +4186,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil

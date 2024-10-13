@@ -807,7 +807,6 @@ Cantidades toneladas peso producto julio
 Chuleteros jamones deshuesados frescos refrigerados congelados
 Filet mignon refrigerado congelado
 Embutidos secos untar cocer
-
 preparaciones conservas carne despojos sangre
 Canales medias canales frescas refrigeradas congeladas
 Trozos frescos refrigerados congelados deshuesados deshuesar filet mignon
@@ -1000,7 +999,6 @@ DO
 DO
 PROYECTO
 DECISIÓN COMITÉ MIXTO EEE
-
 modifica anexo IV Energía EEE
 COMITÉ MIXTO EEE
 Visto Espacio Económico Europeo redacción dada Protocolo adapta Espacio Económico Europeo sucesivo denominado particular artículo
@@ -1259,7 +1257,6 @@ organismo intervención facilitará información necesaria características alco
 interesado obtener dirigiéndose organismo intervención trate muestras alcohol puesto venta tomadas representante organismo intervención
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos ocasionen controles contemplados apartado correrán empresas venda alcohol
@@ -2371,7 +2368,6 @@ Material ruedas ferromagnético
 Producción máxima enarenado
 Número Número
 Posibilidad impedir utilización enarenado
-
 Masa metálica vehículo
 Impedancia máxima ruedas opuestas eje montado
 Número
@@ -2396,7 +2392,6 @@ Campo
 Campo
 Campo
 Campo
-
 campo dígitos asigna categoría subcategoría tipo vehículo cuadro
 Código
 Locomotora
@@ -2410,7 +2405,6 @@ Furgón
 Vagón portaautomóviles
 Vehículo servicios ejemplo cocina
 Rama fija vagones
-
 Vagones mercancías remolcados
 Vagón mercancías
 Rama fija vagones mercancías
@@ -2518,10 +2512,8 @@ DO
 Corrección errores Directiva CE Parlamento Europeo Consejo noviembre modifican Directiva CE relativa servicio universal derechos usuarios relación redes servicios comunicaciones electrónicas Directiva CE relativa tratamiento datos personales protección intimidad sector comunicaciones electrónicas Reglamento CE cooperación materia protección consumidores
 Diario Oficial Unión Europea diciembre
 página artículo punto letra
-
 añade letra
 violación datos personales
-
 violación datos personales
 Decisión Comisión
 marzo
@@ -2585,7 +2577,6 @@ Quesos conservables franceses
 denominación origen protegida tipos Beaufort Comté
 Emmental grand cru etiqueta roja
 clase tipos Emmental Gruyère
-
 junio septiembre
 octubre marzo
 Quesos conservables alemanes
@@ -2705,7 +2696,6 @@ Número embriones
 Embriones producidos
 Derivados fertilización in vitro
 Sujetos penetración zona pellucida
-
 INFORMACIÓN VETERINARIA
 abajo firmante veterinario oficial Gobierno
 Introdúzcase nombre país exportador
@@ -2741,7 +2731,6 @@ embriones destinados exportación concibieron resultado inseminación artificial
 recogió donantes hallan centro recogida esperma autorizado autoridad competente recogida tratamiento almacenamiento esperma conformidad Directiva CEE
 procede centros recogida almacenamiento esperma situados miembro Comunidad Europea tercer país autorizados arreglo artículo apartado artículo apartado respectivamente Directiva CEE
 VALIDEZ
-
 Nombre cualificación veterinario oficial
 Firma sello veterinario oficial
 Notas
@@ -2759,7 +2748,6 @@ Embriones animales domésticos especie bovina destinados importación recogidos 
 Certificado sanitario
 Fecha recogida producción
 Sujetos penetración zona pellucida
-
 equipo recogida producción embriones indicado anteriormente
 llevó cabo recogida tratamiento producción almacenamiento transporte embriones descritos conformidad dispuesto anexo capítulo II Directiva CEE
 permanecido indemne lengua azul enfermedad hemorrágica epizoótica EHE meses inmediatamente anteriores recogida producción embriones destinados exportación llevado cabo vacunación dichas enfermedades período
@@ -3320,7 +3308,6 @@ rúbrica
 PAÍSES BAJOS añade letra
 Wet werk inkomen naar arbeidsvermogen WIA Ley trabajo ingresos función capacidad laboral noviembre
 queda modificada
-
 rúbrica
 AUSTRIA texto sustituye
 solicitudes prestaciones arreglo Allgemeines Sozialversicherungsgesetz ASVG Ley Seguridad Social General septiembre Gewerbliches Sozialversicherungsgesetz GSVG Ley Seguridad Social personas empleadas industria octubre Bauern Sozialversicherungsgesetz BSVG Ley Seguridad Social agricultores octubre medida apliquen artículos ter quater Reglamento
@@ -3398,7 +3385,6 @@ Zona
 Fecha aplicable
 artículo apartado letra inciso iii
 Código
-
 Nombre
 Stygajny
 texto sustituye entrada correspondiente Polonia
@@ -4392,9 +4378,7 @@ Eslovaquia
 Corrección errores Directiva UE Parlamento Europeo Consejo noviembre modifican Directivas CE CE CE CE CE CE CE CE CE CE CE relación facultades Autoridad Europea Supervisión Autoridad Bancaria Europea Autoridad Europea Supervisión Autoridad Europea Seguros Pensiones Jubilación Autoridad Europea Supervisión Autoridad Europea Valores Mercados
 Diario Oficial Unión Europea diciembre
 página artículo modificaciones Directiva CE punto apartado artículo bis
-
 asegurar armonización coherente presente artículo AEVM elaborará proyectos normas técnicas regulación establecer lista exhaustiva información mencionada apartado adquirentes propuestos deberán incluir notificación perjuicio dispuesto apartado
-
 asegurar armonización coherente presente artículo AEVM elaborará proyectos normas técnicas regulación establecer lista exhaustiva información mencionada artículo ter apartado adquirentes propuestos deberán incluir notificación perjuicio dispuesto apartado
 Reglamento CE Comisión
 noviembre

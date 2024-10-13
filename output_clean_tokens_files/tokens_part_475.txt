@@ -623,9 +623,7 @@ valores numéricos contenga perfil deberán convertirse automáticamente exporta
 proporcionan alelos loci aceptará alelos restantes convertirse automáticamente exportación comodín compararse
 proporcionan valores comodines alelos ambas permutaciones valor numérico loci compararán ejemplo compararse
 microvariantes pentanucleótidos Penta Penta CD compararán
-
 microvariantes tetranucleótidos resto loci tetranucleótidos compararán
-
 comparación perfiles ADN hará base loci disponga alelos perfiles ADN
 loci completamente determinados exclusión amelogenina coincidir perfiles ADN dé respuesta positiva
 coincidencia calidad define coincidencia valores alelos loci comparados contenidos normalmente perfiles ADN solicitantes solicitados
@@ -1101,7 +1099,6 @@ Campo Campo mensaje error Status Error Message ERM
 Mensajes error valores comprendidos
 mensajes error relacionados validación registros ANSI NIST definen
 códigoerror IDC númeroidc FIELD idcampo
-
 códigoerror código vinculado único motivo específico véase cuadro
 idcampo número campo ANSI NIST campo incorrecto ejemplo formato tiporegistroidcampoidsubcampo
 texto dinámico descripción dinámica detallada error
@@ -2192,7 +2189,6 @@ Finlandia
 Suecia
 Reino Unido
 ANEXO II
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -2215,7 +2211,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -2542,19 +2537,13 @@ Corrección errores Directiva CE Parlamento Europeo Consejo noviembre reaseguro 
 Diario Oficial Unión Europea diciembre
 página artículo relativo modificaciones Directiva CEE
 punto frase introductoria
-
 artículo apartados sustituyen texto
-
 artículo apartados bis sustituyen texto
 punto cuarto guión artículo apartado
-
 marco procedimientos jurisdiccionales entablados virtud artículo disposiciones especiales previstas presente Directiva directivas adoptadas ámbito empresas seguros empresas reaseguros
-
 marco procedimientos jurisdiccionales entablados virtud artículo disposiciones especiales previstas presente Directiva directivas adoptadas ámbito empresas seguros empresas reaseguros
 página artículo relativo modificaciones Directiva CEE punto frase introductoria
-
 artículo apartado sustituye texto
-
 artículo apartado sustituye texto
 Reglamento CE Comisión
 agosto
@@ -3710,9 +3699,7 @@ REINO SUECIA
 REINO UNIDO BRETAÑA IRLANDA NORTE
 Partes Contratantes Tratado Unión Europea Tratado Funcionamiento Unión Europea sucesivo denominados miembros
 UNIÓN EUROPEA sucesivo denominada Unión
-
 REPÚBLICA IRAQ sucesivo denominada Iraq
-
 sucesivo denominadas conjuntamente Partes
 CONSIDERANDO vínculos Unión miembros Iraq valores comunes comparten
 RECONOCIENDO Unión miembros Iraq desean consolidar vínculos establecer comercio cooperación apoyados diálogo político
@@ -4094,7 +4081,6 @@ Normas origen
 efectos contratación cubierta Partes aplicarán normas origen bienes servicios importados suministrados normas origen aplica curso normal comercio importaciones suministros bienes servicios
 Artículo
 Publicación información procedimiento contratación
-
 publicará demora leyes reglamentos resoluciones judiciales resoluciones administrativas aplicación general cláusulas contractuales normalizadas exigidas ley reglamentos incorporadas referencia comunicaciones documentación relativos procedimientos contratación cubierta modificación comunicación oficial electrónico escrito amplia difusión fácilmente accesible público
 facilitará explicaciones petición
 incorporará apéndice II anexo presente lista medios comunicación electrónicos escritos publique información descrita letra
@@ -4178,7 +4164,6 @@ negociaciones hayan concluido ofrecerá proveedores plazo presentar ofertas revi
 Artículo
 Procedimiento licitación restringida
 entidad contratante utilizar procedimiento licitación restringida elegir aplicar artículos siguientes condiciones
-
 presentado oferta proveedor solicitado participar
 presentado oferta ajuste requisitos esenciales expediente licitación
 proveedor cumpla condiciones participación
@@ -4948,7 +4933,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -4983,7 +4967,6 @@ desviarán fase interior Comunidad utilizarlos materiales destinados alimentaci�
 Nombre
 Dirección
 importador
-
 lugar
 fecha
 Firma

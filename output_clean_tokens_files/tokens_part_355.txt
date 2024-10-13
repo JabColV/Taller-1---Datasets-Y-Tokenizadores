@@ -116,10 +116,8 @@ dimetoxipirimidinilmetilmetilHtetrazolilpirazolilsulfonilurea
 nivel máximo impureza fenol kg
 enero
 diciembre
-
 autorizarán usos herbicida
 autorizarán fumigaciones aéreas
-
 aplicación principios uniformes contemplados artículo apartado Reglamento CE conclusiones Informe revisión azimsulfurón particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros prestarán atención particular
 protección plantas destine producto
@@ -259,7 +257,6 @@ Columna
 Sustancia activa
 miembro
 Fechas
-
 Ciflutrina
 CE
 CAS
@@ -877,7 +874,6 @@ Incumplimiento edad mínima conductores
 Tiempos conducción
 Artículo
 Tiempo diario conducción superior ampliarlo
-
 Tiempo diario conducción superior ampliación
 Artículo
 Superación tiempo conducción semanal
@@ -891,9 +887,6 @@ Art
 Período insuficiente descanso diario período descanso diario reducido
 Período insuficiente descanso diario reducción
 Período insuficiente descanso diario partido
-
-
-
 Artículo
 Período insuficiente descanso diario caso conducción equipo
 Artículo
@@ -1843,7 +1836,6 @@ Microfilms libros álbumes libros estampas álbumes dibujar colorear niños libr
 Películas reproducción destinadas producción libros
 Álbumes libros estampas niños cuadernos infantiles dibujar colorear
 Manufacturas cartográficas clases incluidos mapas murales planos topográficos esferas impresos
-
 Mapas relacionados materias científicas tales geología zoología botánica mineralogía paleontología arqueología etnología meteorología climatología geofísica
 Planos dibujos arquitectura carácter industrial técnico reproducciones
 impresos incluidas estampas grabados fotografías
@@ -1882,7 +1874,6 @@ Murales destinados exclusivamente demostración enseñanza
 Discos cintas dispositivos almacenamiento permanente datos base semiconductores tarjetas inteligentes smart cards soportes grabar sonido grabaciones análogas grabados matrices moldes galvánicos fabricación discos productos capítulo
 Modelos maquetas murales carácter educativo científico cultural destinados exclusivamente demostración enseñanza
 Maquetas modelos visuales reducidos conceptos abstractos tales estructuras moleculares fórmulas matemáticas
-
 Hologramas proyección láser
 Juegos multimedia
 Material enseñanza programada incluido material forma equipo acompañado material impreso correspondiente
@@ -1902,7 +1893,6 @@ peso superior inferior
 peso superior
 papeles cartones contenido fibras obtenidas procedimiento mecánico químicomecánico superior peso contenido fibra
 bobinas rollos
-
 hojas inferior mm inferior mm medidos plegar
 papeles cartones estucar recubrir bobinas rollos hojas hayan sometidos trabajos complementarios tratamientos distintos especificados nota capítulo
 peso inferior
@@ -2209,9 +2199,7 @@ Comisión facultada adoptar actos delegados arreglo artículo condiciones establ
 artículo añade apartado
 bis caso Comité refiere apartado emita dictamen Comisión adoptará proyecto acto ejecución aplicará artículo apartado párrafo Reglamento UE
 anexo punto añade letra
-
 Emisiones específicas indicativas CO
-
 masa vehículo kilogramos kg
 valor adoptado arreglo artículo apartado
 Artículo
@@ -2793,7 +2781,6 @@ selección mantenimiento sucursales aplicarán requisitos establecidos presente 
 suma varianzas estrato definida hΣiehnxi xh–debe sustancialmente inferior varianza población informadora definida Σni lnxi x– indica estrato xi tipo interés institución x–hel tipo interés simple estrato número instituciones muestra x–la media simple tipos interés instituciones muestra
 ANEXO II
 PLAN INFORMACIÓN ESTADÍSTICAS TIPOS INTERÉS INSTITUCIONES FINANCIERAS MONETARIAS
-
 CLASE TIPO INTERÉS
 Tipo contratado anualizado
 Principio general
@@ -2802,7 +2789,6 @@ define tipo interés individualmente contratado agente informador hogar sociedad
 TCA incluirá pagos intereses depósitos préstamos pagos exigibles
 descuento entendido diferencia valor nominal préstamo importe recibido cliente considerará pago interés principio contrato tiempo reflejará TCA
 pagos intereses contratados agente informador hogar sociedad financiera capitalizan períodos regulares año ejemplo mes trimestre lugar anualmente tipo contratado anualizará fórmula obtener tipo contratado anualizado
-
 TCA
 tipo interés anual contratado agentes informadores hogar sociedad financiera depósito préstamo fechas capitalización intereses depósito pagos amortizaciones préstamo producen intervalos regulares año
 número períodos capitalización intereses depósito pagos amortizaciones préstamo año pagos anuales pagos semestrales pagos trimestrales pagos mensuales
@@ -2829,7 +2815,6 @@ coste componente tipo interés componente gastos conexos consultas administraci�
 contenido componente gastos variar país apliquen definiciones Directiva CE difieran sistemas financieros nacionales forma garantizar créditos distinta
 Convención
 agentes informadores tomarán año estándar compilar TCA prescindirán efecto adicional años bisiestos
-
 ACTIVIDAD COMPRENDIDA
 agentes informadores presentarán estadísticas tipos interés IFM saldos vivos operaciones
 Tipos interés saldos vivos
@@ -2863,7 +2848,6 @@ Normalmente hogares sociedades financieras obtienen comienzo contrato préstamos
 obstante disponer préstamo tramos tiempos etc lugar recibir totalidad comienzo contrato tiempo
 disposición préstamo tramos afectará estadísticas tipos interés IFM
 hogar sociedad financiera agente informador tiempo incluye tipo interés suma préstamo reflejará estadísticas tipos interés IFM operaciones
-
 PUNTO REFERENCIA TEMPORAL
 Punto referencia temporal tipos interés IFM saldos vivos
 BCN decidirán nivel nacional tipos interés IFM saldos vivos indicadores apéndice compilarán base observaciones período tipos implícitos referidos media período
@@ -3460,7 +3444,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil

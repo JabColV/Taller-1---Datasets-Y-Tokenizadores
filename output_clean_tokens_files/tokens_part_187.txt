@@ -2227,7 +2227,6 @@ Toronjas Pamplemusa pomelo pomelit tangelo minneola ugli híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -2301,7 +2300,6 @@ Ajos
 Cebollas Cebolla blanca pequeña
 Chalotes
 Cebolletas Cebollino inglés variedades similares
-
 Código
 Grupos tipos productos individuales aplican contenidos máximos residuos
 Ioxinil suma ioxinil sales ésteres expresada ioxinil
@@ -3843,7 +3841,6 @@ ENTIDAD EMISORA CERTIFICADO
 Entidad
 País
 INFORMACIÓN CERTIFICADO
-
 certificado
 Número identificación UE certificado
 certificado renovado
@@ -3928,11 +3925,9 @@ Fecha recepción solicitud
 ESPACIO RESERVADO ENTIDAD AUTORIDAD
 PORTADA ANEXOS FORMULARIO SOLICITUD
 DOCUMENTOS PRESENTADOS
-
 Resumen manual sistema gestión seguridad refieren artículo anexo III Directiva CE
 Copia licencia procede
 procede
-
 Copia certificado
 Copia seguro cobertura económica responsabilidad civil anexa licencia
 Lista normas ETI necesarias referencia procesos sistema gestión seguridad documentos aplican
@@ -4069,7 +4064,6 @@ Campo
 Campo
 CAMPO Código país letras
 códigos país publican actualizan oficialmente sitio web europeo Libro estilo interinstitucional basados normas ISO alfa
-
 Código
 Bélgica
 Chipre
@@ -4111,8 +4105,6 @@ Subtipo documento
 Licencias
 aplicable presente Reglamento
 Certificado seguridad
-
-
 Autorización seguridad
 Certificados talleres mantenimiento
 Certificados organismos notificados
@@ -4287,7 +4279,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4301,7 +4292,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4315,7 +4305,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -4599,7 +4588,6 @@ Difteria respiratoria clásica
 Enfermedad vías respiratorias superiores laringitis nasofaringitis amigdalitis
 membrana seudomembrana adherente
 Difteria respiratoria ligera
-
 membrana seudomembrana adherente
 Difteria cutánea
 Lesiones cutáneas

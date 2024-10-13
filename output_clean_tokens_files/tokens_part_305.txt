@@ -444,11 +444,9 @@ Bruselas diciembre
 DO
 ANEXO
 LISTA REQUISITOS CUMPLIR CANDIDATOS
-
 propuesta escrita contendrá
 descripción formación candidato experiencia laboral logros destacados pertinentes objetivos acción criterios reunir sitios
 opción área específica especialización acompañada explicación dicha opción
-
 propuesta contendrá declaración escrita
 presente declaro
 consciente deberes implica puesto condiciones dedicar adecuado número año trabajar Comité Europeo
@@ -728,7 +726,6 @@ Masa materia particulada
 Número partículas
 Categoría
 Clase
-
 aplica límite mg km emisión másica partículas vehículos recibido homologación tipo límites emisión cuadro protocolo medición masa partículas septiembre
 límites relativos masa número partículas correspondientes encendido chispa aplicarán únicamente vehículos equipados motores inyección directa
 años fechas indicadas artículo apartados homologaciones tipo vehículos respectivamente elección fabricante aplicará límite emisiones número partículas km vehículos Euro PI inyección directa
@@ -773,7 +770,6 @@ Fecha aplicación vehículos
 fecha matriculación
 clase
 satisfacen necesidades sociales específicas
-
 satisfacen necesidades sociales específicas
 clase II
 clase III
@@ -1076,7 +1072,6 @@ Véase solicitud apartado
 ejemplo cuarta hogares suecos conectados Internet
 porcentaje suecos pagan facturas Internet evalúa mitad inversa significa mitad población recurre sistema
 Véase asimismo conclusión sentido figura considerando Decisión CE Comisión agosto excluyen servicios sector postal Finlandia islas Åland aplicación Directiva CE Parlamento Europeo Consejo coordinación procedimientos adjudicación contratos sectores agua energía transportes servicios postales DO
-
 Informes Tribunal Justicia II
 hora adoptar Decisión CE mencionada densidad población fuese factor relevante caso Finlandia densidad población país enero habitantes km inferior Suecia fecha situaba habitantes km
 incluye publicidad directa destinatario pese Correos Suecia solicitud integrante mercado mensajes físicos destinatario habida cosas división servicios postales efectuada Directiva servicios públicos
@@ -1293,7 +1288,6 @@ DO
 DO
 ANEXO
 CRITERIOS REQUISITOS RELATIVOS COMPARTIMENTOS
-
 Descripción compartimento mencionada artículo apartado letra
 descripción compartimento mencionada artículo apartado letra basará mapa mapas compartimento muestren delimitaciones indiquen situación exacta componentes incluidas explotaciones instalaciones unidades funcionales relacionadas instalaciones transformación almacenamiento piensos instalaciones almacenamiento material
 solicitud deberá incluirse información suficiente facilitar descripción detallada compartimento particular
@@ -1309,7 +1303,6 @@ presencia explotaciones aves corral aves cautivas cerca compartimento incluida d
 factores riesgo medioambiental vías navegables lugares descanso contacto animales silvestres incluidas rutas migratorias aves silvestres presencia roedores presencia histórica agente gripe aviar entorno
 factores riesgo posibles vías entrada propagación gripe aviar compartimento conforme legislación comunitaria normas directrices Organización Mundial Sanidad Animal OIE
 sistema alerta rápida vigente informar autoridad competente caso constate cualquiera factores riesgo posibles vías mencionados letra
-
 Descripción sistema común gestión bioseguridad planes bioseguridad mencionados artículo apartado letra
 sistema común gestión bioseguridad incluirá elementos siguientes
 prácticas materia higiene animal
@@ -1342,7 +1335,6 @@ adaptarse nivel riesgo incluirá medidas descritas deberán tomarse caso aumente
 Medidas correctivas actualizaciones
 sistema común gestión bioseguridad planes bioseguridad describirán incumplimiento determinado considerarse menor importancia medidas correctivas tomarse
 planes bioseguridad actualizarán nivel riesgo particular caso sospeche oficialmente foco gripe aviar miembro región zona compartimento imponer restricciones relativas vehículos material desplazamientos animales personal aplicar procedimientos desinfección adicionales
-
 Protección vigilancia específicas gripe aviar
 Existirá sistema físico adecuado aislamiento aves evitar contacto aves silvestres contaminación piensos agua lechos
 entorno directo explotaciones deberá atraer aves silvestres
@@ -1740,7 +1732,6 @@ adquisición terrenos gratuitamente precio simbólico sujeta procedimiento estab
 garantizar coherencia disposiciones Reglamento Financiero necesario establecer disposiciones transitorias
 garantizar coherencia bases jurídicas sectoriales procede aplazar aplicación disposiciones modos gestión instrumentos financieros enero
 ADOPTADO PRESENTE REGLAMENTO
-
 DISPOSICIONES COMUNES
 TÍTULO
 OBJETO
@@ -4065,8 +4056,6 @@ Balance general contabilidad
 institución organismo refiere artículo Reglamento Financiero elaborará balance general cuentas habrán reflejarse cuentas contabilidad general incluidas cuentas saldadas ejercicio indicación siguientes datos
 número
 denominación
-
-
 saldo
 Artículo
 Reconciliación contable
@@ -4164,7 +4153,6 @@ inventarios permanentes bienes muebles constituyen patrimonio Unión mantendrán
 remitirá información periódica servicios centrales instrucciones aprobadas institución
 bienes muebles tránsito delegaciones Unión registrados lista provisional espera inclusión inventarios permanentes
 publicidad venta bienes muebles delegaciones Unión efectuará conformidad usos costumbres locales
-
 DISPOSICIONES PARTICULARES
 INVESTIGACIÓN
 Artículo
@@ -4518,7 +4506,6 @@ firmas electrónicas refiere párrafo letra efecto jurídico equivalente firmas 
 lista expertos objeto tareas publicará anualmente
 remuneración publicará superior EUR tarea realizada
 apartado aplicará publicación pudiera amenazar derechos libertades personas cuestión protegidos Carta Derechos Fundamentales Unión Europea perjudicar intereses comerciales expertos
-
 DISPOSICIONES TRANSITORIAS FINALES
 Artículo
 Disposiciones transitorias
@@ -4739,7 +4726,6 @@ Coeficientes conversión aplicables especies contempladas punto función formas 
 Formas presentación
 Enteros
 Vaciados branquias
-
 ANEXO II
 Reglamento derogado modificaciones sucesivas
 Reglamento CEE Comisión DO

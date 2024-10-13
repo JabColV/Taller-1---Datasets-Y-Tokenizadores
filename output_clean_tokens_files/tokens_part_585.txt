@@ -855,7 +855,6 @@ Nombre variable obligatoriedad
 Filtro
 NIVEL LOGRO EDUCATIVO
 Nivel educación alto concluido exitosamente define CINE codificación basada mapas CINE facilitarse Eurostat
-
 CAMPO NIVEL EDUCACIÓN ALTO CONCLUIDO EXITOSAMENTE
 HATLEVEL
 Nivel clasificación campos educación formación
@@ -1240,7 +1239,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -1533,12 +1531,9 @@ DO
 DO
 DO
 DO
-
 Unión Europea República Moldavia relativo protección indicaciones geográficas productos agrícolas alimenticios
 GOBIERNO REPÚBLICA MOLDAVIA
-
 UNIÓN EUROPEA
-
 denominadas Partes contratantes
 TENIENDO PRESENTES objetivos Colaboración Cooperación correspondiente Plan Acción garantizar nivel protección derechos propiedad intelectual semejante existente UE incluidos medios ejecución eficaces
 TENIENDO PRESENTES objetivos Asociación especialmente disposiciones futura zona libre comercio alcance amplio profundo garantizar nivel protección derechos propiedad intelectual semejante existente UE incluidos medios ejecución eficaces
@@ -1778,7 +1773,6 @@ Artículo Ejecución programas anuales
 IV Disposiciones finales
 Artículo Destinatarios
 ANEXOS
-
 INTRODUCCIÓN
 CAPÍTULO
 Objeto definiciones
@@ -3241,7 +3235,6 @@ Bruselas septiembre
 DO
 PROYECTO
 DECISIÓN COMITÉ MIXTO
-
 adopción reglamento interno
 COMITÉ MIXTO
 Visto Unión Europea Georgia protección indicaciones geográficas productos agrícolas alimenticios particular artículo
@@ -3529,7 +3522,6 @@ Método calcular Índice Eficiencia Energética Índice Eficiencia Lavado Índic
 CÁLCULO ÍNDICE EFICIENCIA ENERGÉTICA
 calcular Índice Eficiencia Energética IEE modelo lavavajillas doméstico Consumo Energía Anual lavavajillas doméstico compara Consumo Energía Anual Normalizado
 Índice Eficiencia Energética IEE calcula arreglo fórmula redondea decimal
-
 consumo energía anual lavavajillas doméstico
 consumo energía anual normalizado lavavajillas doméstico
 consumo energía anual AEc expresa kWh año redondea decimal

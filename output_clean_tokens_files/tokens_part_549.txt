@@ -9,7 +9,6 @@ Etiqueta
 Etiqueta opcional cuadro texto posibilidad utilización operador cuadro texto incluido indicarán criterios categoría productos pertinentes
 ambiente
 texto especificado criterios
-
 número registro etiqueta ecológica UE aparecerá producto
 Adoptará forma
 xxxx referencia país registro yyy categoría productos zzzzz número asignado organismo competente
@@ -175,14 +174,12 @@ DO
 Directiva modificada Directiva CEE DO
 Véase anexo Diario Oficial
 ANEXO
-
 Directiva derogada modificación
 Directiva CEE Consejo
 DO
 Directiva CEE Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional
 contemplados artículo
 Directiva
@@ -372,12 +369,6 @@ suprime punto
 punto sustituye
 Restricciones aplicables pesca bacalao Oeste Escocia
 diciembre prohibido ejercicio actividad pesca zona delimitada segmentos recta trazados sucesivamente coordenadas geográficas siguientes
-
-
-
-
-
-
 obstante dispuesto letra permitido ejercicio actividades pesca nasas
 lleve bordo arte pesca nasas
 mantengan bordo peces distintos moluscos crustáceos
@@ -387,7 +378,6 @@ mantengan bordo peces distintos arenque caballa jurel bacaladilla sardina alacha
 punto
 letra sustituye
 efectos presente punto entenderá zona protección bacalao divisiones CIEM IV incluida siguientes rectángulos CIEM millas líneas base costeras
-
 inserta letra
 miembro registrar capturas eglefino efectuadas período enero abril base pescadas zona definida letra
 añade punto
@@ -403,7 +393,6 @@ Categorías dimensión malla especies principales porcentajes capturas aplicable
 Especie
 Categorías dimensión malla milímetros
 Porcentaje mínimo especies principales
-
 Lanzones Ammodytidae
 Lanzones Ammodytidae
 Faneca noruega Trisopterus esmarkii
@@ -433,7 +422,6 @@ capturas conserven bordo consistirán mezcla bacalao eglefino merluza solla euro
 capturas conserven bordo consistirán mezcla bacalao eglefino merluza solla europea mendo falsa limanda rodaballo rémol platija arenque caballa gallo merlán limanda carbonero cigala bogavante
 capturas conserven bordo consistirán mezcla bacalao eglefino merluza solla europea mendo falsa limanda rodaballo rémol platija gallo limanda carbonero bogavante
 texto partes II anexo VII sustituye
-
 Límites cuantitativos aplicables licencias permisos pesca buques comunitarios faenen aguas terceros países
 Zona pesca
 Pesquería
@@ -969,7 +957,6 @@ Categorías freno rueda posterior
 categorías
 Rendimiento eficacia freno secundario socorro dispositivo independiente
 esfuerzo frenado inferior rendimiento freno servicio indicado punto masa máxima autorizada semirremolques suma cargas eje autorizadas
-
 Rendimiento eficacia freno estacionamiento
 Frenado inoperante caso prueba carretera vehículo desvía excesivamente línea recta
 obtiene vehículos relación frenado masa máxima autorizada caso vehículos motor masa combinada autorizada máxima vehículo ambas cifras
@@ -1088,7 +1075,6 @@ Luces marcha atrás
 Iluminación placa trasera matrícula
 lámpara proyecta haz luz directamente atrás
 Catadióptricos marcas visibilidad reflectantes placas reflectantes traseras
-
 Equipamiento reflectante defectuoso dañado
 Reflector sujeto
 Dispositivo color reflejado posición conforme requisitos
@@ -1423,7 +1409,6 @@ artículo sustituye
 Artículo
 Ajustes saldos internos Eurosistema
 efectos cálculo ingresos monetarios saldos internos Eurosistema BCN billetes euros circulación ajustarán importe compensación determinará fórmula
-
 importe compensación
 importe euros BCN resulta aplicar clave capital suscrito importe billetes circulación período referencia convirtiéndose euros importe billetes circulación denominados moneda nacional miembro adopta euro tipo cambio diario referencia período referencia
 importe euros BCN billetes circulación período referencia convertido euros tipo cambio diario referencia período referencia
@@ -2019,7 +2004,6 @@ Columbia Británica
 Rusia
 Azerbaiyán Moldova Ucrania
 Kazajstán
-
 Ecuador Perú
 Especímenes especies incluidas anexo Reglamento CE cuya introducción Comunidad queda suspendida
 República Centroafricana Gabón
@@ -2058,7 +2042,6 @@ Etiopía
 Hexaprotodon liberiensis sinónimo Choeropsis liberiensis
 Costa Marfil Guinea GuineaBissau Nigeria Sierra Leona
 República Democrática Congo Gambia Malawi Níger Nigeria Ruanda Sierra Leona Togo
-
 especímenes censo registrado Argentina Secretaría confirme licencias miembro importador acepte
 productos obtenidos esquileo animales vivos conforme programa gestión aprobado debidamente marcados registrados
 exportaciones comerciales cantidades limitadas kg anuales lana pruebas industriales
@@ -2560,7 +2543,6 @@ Contenido máximo humedad
 Porcentaje máximo elementos cereales base calidad irreprochable máximo
 Granos partidos
 Impurezas constituidas granos distintos punto
-
 granos asurados
 cereales
 granos atacados plagas
@@ -2572,7 +2554,6 @@ Granos germinados
 Impurezas Schwarzbesatz
 granos extraños
 nocivos
-
 granos dañados
 granos deteriorados calentamiento espontáneo secado excesivo
 impurezas propiamente dichas
@@ -2605,12 +2586,6 @@ CUADRO III
 Depreciaciones peso específico
 Peso específico kg hl
 Depreciación
-
-
-
-
-
-
 Corrección errores Corrección errores Reglamento CE Comisión abril establecen disposiciones aplicación Reglamento CE Consejo establecen disposiciones aplicación artículo Tratado CE
 Diario Oficial Unión Europea enero
 página
@@ -2841,7 +2816,6 @@ Código NC
 Designación mercancía
 Puntualizaciones aclaraciones
 Caballos asnos mulos burdéganos vivos
-
 Animales vivos especie bovina
 Animales vivos especie porcina
 Animales vivos especie ovina
@@ -3088,7 +3062,6 @@ Derivados grasas producidos métodos establecidos punto capítulo XI anexo XIII 
 requisitos específicos establecen filas grasas extraídas derivados grasas cuadro sección capítulo II anexo XIV Reglamento UE
 Mezclas preparaciones alimenticias grasas aceites animales grasas aceites animales vegetales fracciones
 preparaciones grasas aceites derivados animales
-
 contienen grasa animales
 Ceras abejas insectos bruto
 comprende ceras panales naturales cera abejas bruto apicultura usos técnicos
@@ -3134,7 +3107,6 @@ partida pastas alimenticias cocidas rellenas carne sustancias preparadas forma t
 partida comprende preparaciones culinarias cocidas precocidas contengan productos animales establece productos compuestos artículos Decisión CE
 preparaciones alimenticias contengan proporción superior peso embutidos carne despojos sangre pescado crustáceos moluscos invertebrados acuáticos mezcla productos capítulo productos rellenos partida
 Extracto malta preparaciones alimenticias harina grañones sémola almidón fécula extracto malta contengan cacao contenido cacao inferior peso calculado base totalmente desgrasada expresadas comprendidas preparaciones alimenticias productos partidas contengan cacao contenido cacao inferior peso calculado base totalmente desgrasada expresadas comprendidas
-
 preparaciones culinarias clasifican capítulos
 Pastas alimenticias cocer rellenar preparar forma contengan huevo
 Pastas alimenticias rellenas cocidas preparadas forma contenido pescados crustáceos moluscos invertebrados acuáticos superior peso
@@ -3234,7 +3206,6 @@ fracciones sangre productos inmunológicos modificados obtenidos procesos biotec
 Sangre animales preparada usos terapéuticos profilácticos diagnóstico
 Cultivos microorganismos
 Patógenos cultivos patógenos
-
 Desechos farmacéuticos
 Desechos farmacéuticos productos farmacéuticos aptos finalidad prevista originalmente
 CAPÍTULO
@@ -4989,12 +4960,10 @@ DO
 DO
 Directiva modificada Reglamento CE DO
 ANEXO
-
 CONTROLES CARRETERA
 aspectos habrán comprobarse general controles carretera siguientes
 tiempos diarios semanales conducción pausas períodos descanso diarios semanales hojas registro jornadas precedentes hallarse bordo vehículo conformidad artículo apartado Reglamento CEE datos almacenados correspondientes período tarjeta conductor memoria aparato control conformidad anexo II presente Directiva impresiones papel
 período mencionado artículo apartado Reglamento CEE casos excedido velocidad autorizada vehículo definidos períodos minuto velocidad vehículo exceda kmh categoría vehículos kmh categoría vehículos categorías definen anexo II Directiva CEE Consejo febrero relativa aproximación legislaciones miembros homologación vehículos motor remolques
 caso velocidades instantáneas vehículo registradas aparato control horas anteriores utilización vehículo
 correcto funcionamiento aparato control verificación posibles manipulaciones aparato tarjeta conductor hojas registro caso presencia documentos contemplados artículo apartado Reglamento CEE
-
 CONTROLES LOCALES EMPRESAS

@@ -145,7 +145,6 @@ Sección
 INDUSTRIAS EXTRACTIVAS
 INDUSTRIAS EXTRACTIVAS
 Sección
-
 Extracción crudos petróleo gas natural
 División
 INDUSTRIA MANUFACTURERA
@@ -715,7 +714,6 @@ PARTIDA PRESUPUESTARIA
 Liquidación cuentas Liquidación financiera
 Errores administrativos
 PUNTUAL
-
 PARTIDA PRESUPUESTARIA
 Ayuda disociada directa régimen pago único RPU
 Deficiencias SIPSIG controles administrativos funcionamiento controles terreno aplicación sanciones pagos
@@ -802,11 +800,9 @@ consigna interés cuadro anexo III ejercicio financiero
 consigna interés cuadro anexo III ejercicio financiero
 consigna interés cuadro anexo III ejercicio financiero
 Intereses aplicados importes recuperados ejercicios financieros
-
 PARTIDA PRESUPUESTARIA
 Reembolso sentencia asunto
 ayudas directas Productos vegetales POSEI
-
 PARTIDA PRESUPUESTARIA
 Desarrollo rural Feader Eje medidas relacionadas superficie
 Deficiencias SIPSIG funcionamiento controles terreno
@@ -817,7 +813,6 @@ Deficiencias verificación razonabilidad costes
 Incumplimiento artículo Reglamento CE
 Deficiencias sistema control condicionalidad Ejercicio solicitud
 Deficiencias sistema control condicionalidad Ejercicio solicitud
-
 Reglamento Ejecución UE Consejo
 enero
 aplica artículo apartado Reglamento CE medidas restrictivas específicas dirigidas determinadas personas entidades luchar terrorismo deroga Reglamento Ejecución UE
@@ -1008,9 +1003,7 @@ Reglamento modificado Reglamento CE DO
 Corrección errores Directiva CE Consejo noviembre adaptan Directivas CEE CEE CE ámbito ambiente motivo adhesión Bulgaria Rumanía
 Diario Oficial Unión Europea diciembre
 página cubierta página título
-
 Directiva CE Consejo noviembre adaptan Directivas CEE CEE CE ámbito ambiente motivo adhesión Bulgaria Rumanía
-
 Directiva CE Consejo noviembre adaptan Directivas CEE CEE CE CE CE ámbito ambiente motivo adhesión Bulgaria Rumanía
 Reglamento UE Comisión
 septiembre
@@ -1450,7 +1443,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -2423,7 +2415,6 @@ organismo intervención facilitará información necesaria características alco
 interesado obtener dirigiéndose organismo intervención trate muestras alcohol puesto venta tomadas representante organismo intervención
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos ocasionen controles contemplados apartado correrán empresas venda alcohol
@@ -2662,7 +2653,6 @@ Operaciones préstamos
 Operaciones acciones participaciones
 Privatización
 Aportaciones capital
-
 Operaciones activos financieros
 impuestos devengados ingresos fiscales efectivo
 Operaciones pasivos consolidadas
@@ -3345,7 +3335,6 @@ ANEXO
 PROYECTO
 DECISIÓN COMITÉ MIXTO
 establecido virtud Comunidad Europea miembros Confederación Suiza libre circulación personas
-
 sustituye anexo II relativo coordinación regímenes seguridad social
 COMITÉ MIXTO
 Visto Comunidad Europea miembros Confederación Suiza libre circulación personas sucesivo particular artículo
@@ -3358,7 +3347,6 @@ anexo II Comunidad Europea miembros Confederación Suiza libre circulación pers
 presente Decisión establece lenguas alemana búlgara checa danesa eslovaca eslovena española estonia finesa francesa griega húngara inglesa italiana letona lituana maltesa neerlandesa polaca portuguesa rumana sueca textos igualmente auténtico
 Artículo
 presente Decisión entrará vigor adopción
-
 DO
 DO
 DO
@@ -4646,7 +4634,6 @@ Bahréin
 país
 entrada correspondiente Brasil sustituye texto
 Brasil
-
 Artículo
 destinatarios presente Decisión miembros
 Bruselas junio

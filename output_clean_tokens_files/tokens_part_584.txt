@@ -547,7 +547,6 @@ Número incumplimientos descubiertos relación animales explotaciones puntos
 Sanciones impuestas
 Número animales afectados incumplimiento
 Número explotaciones afectadas incumplimiento
-
 dato referencia nacional estadísticas animales
 proceda conformidad establecido artículo apartado Reglamento CE
 Decisión Consejo Asociación UEEgipto
@@ -986,7 +985,6 @@ productos originarios Ceuta Melilla
 productos enteramente obtenidos Ceuta Melilla
 productos obtenidos Ceuta Melilla cuya fabricación hayan utilizado productos distintos mencionados letra
 productos hayan suficientemente elaborados transformados sentido artículo
-
 productos originarios Egipto Comunidad hayan objeto elaboraciones transformaciones vayan allá operaciones contempladas artículo
 productos originarios Egipto
 productos enteramente obtenidos Egipto
@@ -1091,9 +1089,6 @@ Valor neto activos
 Cuadro
 Evaluación criterios clave arreglo Normas Contabilidad Checas
 Pérdidas
-
-
-
 Valor neto activos
 volumen negocios disminuyó ligeramente periodo examinado flujo caja bajando considerablemente
 nivel deuda calculado suma pasivos corto plazo préstamos bancarios estable
@@ -1190,7 +1185,6 @@ Beneficios pérdidas millones CZK Normas Contabilidad Checas
 Ejercicio financiero
 Ingresos
 Beneficios pérdidas impuestos
-
 resultados ČSA propone siguientes acciones clave
 Optimizar modelo red redimensionar flota
 comienzo proceso reestructuración ČSA volaba destinos
@@ -1669,10 +1663,6 @@ preparación privatización prevista Gobierno checo decidió crear estructura em
 Aeropuerto Praga
 versión actualizada plan reestructuración enero pretende restablecer viabilidad plazo ČSA
 periodo reestructuración extiende agosto junio años
-
-
-
-
 suprimió vuelos York Canadá
 reducción esperada tráfico pasajeros medida ingresos pasajero km ingresos asiento kilómetro ofertado ASK espera aumenten
 ČSA introdujo sistema gestión ingresos optimizar tarificación disponibilidad incrementar ingresos ASK
@@ -1817,9 +1807,7 @@ CICAP
 Ácido diclorometoxibenzoico
 enero
 diciembre
-
 autorizar usos herbicida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión dicamba particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal septiembre
 evaluación global miembros deberán atender especialmente protección plantas diana
 procede condiciones deberán incluir medidas adecuadas reducción riesgo
@@ -1991,7 +1979,6 @@ Base datos línea
 Información bases datos línea acceso datos difundidos
 Acceso microdatos
 Información difusión microdatos
-
 Referencias difusión datos importante efectuada
 Accesibilidad documentación
 Documentación metodología
@@ -2737,8 +2724,6 @@ Código producto
 Trigo morcajo tranquillón
 trigo duro
 siembra
-
-
 escandas trigo blando morcajo tranquillón
 Trigo blando morcajo tranquillón siembra
 Centeno
@@ -2833,7 +2818,6 @@ Perlados
 contenido cenizas referido sustancia seca inferior peso talco
 categoría arreglo definición anexo Reglamento CEE
 categoría arreglo definición anexo Reglamento CEE
-
 trigo grano troceado triturado respondan consignada anexo Reglamento CEE Comisión
 partidos
 Germen cereales entero aplastado copos molido
@@ -2863,7 +2847,6 @@ azúcares incluidas lactosa maltosa glucosa fructosa levulosa químicamente pura
 Glucosa jarabe glucosa fructosa contenido fructosa producto seco inferior peso
 contenido glucosa seco superior peso
 polvo cristalino blanco aglomerado
-
 Glucosa jarabe glucosa contenido fructosa producto seco superior inferior peso azúcar invertido
 incluido azúcar invertido azúcares jarabes azúcar contenido fructosa producto seco peso
 Maltodextrina jarabe maltodextrina
@@ -2937,20 +2920,14 @@ cocer mezclas carnes despojos cocidos carne despojos cocer
 cocer contengan carne animales especie bovina
 contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
 Productos transformados régimen previsto artículo Reglamento CEE
-
 recipientes sellados herméticamente
 Cecina bovino Corned beef contengan carne animales especie bovina
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos cumplan condiciones establecidas Reglamento CEE
-
 contengan carne animales especie bovina
-
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos cumplan condiciones establecidas Reglamento CEE
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos transformados régimen previsto artículo Reglamento CEE
 Animales vivos especie porcina
 peso inferior kg
@@ -2982,10 +2959,8 @@ Pancetas trozos corteza
 contenido global peso cartílagos inferior
 Prosciutto di Parma Prosciutto di San Daniele
 Embutidos productos similares carne despojos sangre preparaciones alimenticias base productos
-
 Embutidos secos untar cocer
 contengan carne despojos aves corral
-
 especie porcina
 especie porcina doméstica
 Cocida contenido carne grasa superior peso
@@ -2995,7 +2970,6 @@ Paletas trozos paleta
 envases inmediatos contenido neto superior kg
 incluidas mezclas
 contenido carne despojos clase superior peso incluidos tocino grasa naturaleza origen
-
 contengan carne despojos aves corral
 contengan producto compuesto trozos claramente reconocibles carne muscular cuyo tamaño permita determinar obtenidos piernas paletas chuleteros espinazos pequeñas partículas grasa visible pequeñas cantidades depósitos gelatina
 Gallos gallinas patos gansos pavos gallipavos pintadas especies domésticas vivos
@@ -3065,7 +3039,6 @@ Leche nata concentradas azucaradas edulcoradas
 polvo gránulos formas sólidas contenido materias grasas inferior peso
 adición azúcar edulcorante
 envases inmediatos contenido neto inferior kg
-
 polvo gránulos formas sólidas contenido materias grasas superior peso
 contenido materias grasas inferior peso
 envases inmediatos contenido neto inferior kg
@@ -3647,7 +3620,6 @@ aplicaciones almacenadas microchip identificarán código exclusivo denominado I
 Aplicación permiso conducción UE
 datos obligatorios opcionales permiso conducción almacenarán aplicación específica permiso conducción UE
 IDA aplicación permiso conducción UE
-
 consistirá
 identificador aplicación registrada IAR Comisión Europea
 extensión identificador aplicación patentada EIP permiso conducción UE EDL
@@ -3725,7 +3697,6 @@ Fecha expedición
 Fecha caducidad
 Código
 Firma
-
 códigos relativos categoría vehículo presentarán definen artículo Directiva CE AM etc
 fecha expedición deberán presentarse formato DDMMAAAA dígitos seguido mes dígitos seguido año dígitos categoría vehículo
 fecha caducidad presentarse formato DDMMAAAA dígitos seguido mes dígitos seguido año dígitos categoría vehículo
@@ -4845,7 +4816,6 @@ Toronjas Pamplemusa pomelo pomelit tangelo minneola ugli híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil

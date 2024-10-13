@@ -685,7 +685,6 @@ análisis riesgo constará análisis cohorte partos estudios pertinentes demostr
 Criterios epidemiológicos
 aceptarán solicitudes revisión programa seguimiento EEB miembro demostrar establecido artículo apartado ter párrafo letras territorio cumplen criterios epidemiológicos siguientes
 mínimo años consecutivos fecha aplicación programa comunitario detección EEB mencionado artículo apartado ter párrafo letra
-
 descenso incidencia anual EEB población bovina adulta meses edad superior número animales afectados EEB nacidos aplicación prohibición comunitaria materia alimentación ganado mencionada artículo apartado ter párrafo letra excedió casos EEB confirmados
 incidencia anual EEB población bovina adulta meses edad mantuvo sistemáticamente
 alternativa miembro población bovina adulta meses edad inferior animales número cumulativo casos EEB confirmados inferior
@@ -1330,7 +1329,6 @@ incl Fig
 especificado
 Espacio libre metal torno ruedas
 Impedancia vehículo
-
 equipo enarenado
 zapatas freno material compuesto
 Corriente tracción
@@ -1534,9 +1532,6 @@ Interfaz conductormáquina ETCS
 CEM
 Interfaz datos
 Incluye vigilancia opcional integridad tren nivel
-
-
-
 Registrador información seguridad
 registro datos fines cumplimiento normativa
 ERTMS ETCS bordo
@@ -1546,7 +1541,6 @@ Condiciones ambientales
 Comunicación datos niveles nivel radio infill
 niveles nivel radio infill
 Plataforma seguridad bordo
-
 Sistema gestión claves
 Interfaz conductormáquina ETCS
 Herramienta descarga JRU
@@ -2206,7 +2200,6 @@ Obsérvese requisitos punto Responsabilidad fabricante equipos aplicables compon
 Cuadro
 Componentes interoperabilidad básicos conjunto controlmando instalado bordo tren
 Componente interoperabilidad CI
-
 excepción
 STM implementación interfaz opcional
 ERTMS GSMR bordo
@@ -2800,8 +2793,6 @@ Unidades kg
 Zona geográfica
 Talla mínima
 Espadín
-
-
 Región
 Decisión Comisión
 diciembre
@@ -2945,10 +2936,8 @@ Resultado explotación
 Ingresos financieros
 Intereses bancarios
 Beneficio cambio
-
 Cargas financieras
 Gastos bancarios
-
 Resultado financiero
 Resultado actividades ordinarias
 Productos extraordinarios
@@ -3042,8 +3031,6 @@ Código producto
 Trigo morcajo tranquillón
 trigo duro
 siembra
-
-
 escandas trigo blando morcajo tranquillón
 Trigo blando morcajo tranquillón siembra
 Centeno
@@ -3138,7 +3125,6 @@ Perlados
 contenido cenizas referido sustancia seca inferior peso talco
 categoría arreglo definición anexo Reglamento CEE
 categoría arreglo definición anexo Reglamento CEE Comisión
-
 trigo grano troceado triturado respondan consignada anexo Reglamento CEE Comisión
 partidos
 Germen cereales entero aplastado copos molido
@@ -3168,7 +3154,6 @@ azúcares incluidas lactosa maltosa glucosa fructosa levulosa químicamente pura
 Glucosa jarabe glucosa fructosa contenido fructosa producto seco inferior peso
 contenido glucosa seco superior peso
 polvo cristalino blanco aglomerado
-
 Glucosa jarabe glucosa contenido fructosa producto seco superior inferior peso azúcar invertido
 incluido azúcar invertido azúcares jarabes azúcar contenido fructosa producto seco peso
 Maltodextrina jarabe maltodextrina
@@ -3242,19 +3227,13 @@ cocer mezclas carnes despojos cocidos carne despojos cocer
 cocer contengan carne animales especie bovina
 contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
 Productos transformados régimen previsto artículo Reglamento CEE Consejo
-
 recipientes sellados herméticamente
 Cecina bovino corned beef contengan carne animales especie bovina
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos cumplan condiciones establecidas Reglamento CEE Comisión
-
 contengan carne animales especie bovina
-
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos transformados régimen previsto artículo Reglamento CEE
 Animales vivos especie porcina
 peso inferior kg
@@ -3286,10 +3265,8 @@ Pancetas trozos corteza
 contenido global peso cartílagos inferior
 Prosciutto di Parma Prosciutto di San Daniele trozos
 Embutidos productos similares carne despojos sangre preparaciones alimenticias base productos
-
 Embutidos secos untar cocer
 contengan carne despojos aves corral
-
 especie porcina
 especie porcina doméstica
 Cocida contenido carne grasa superior peso
@@ -3299,7 +3276,6 @@ Paletas trozos paleta
 envases inmediatos contenido neto superior kg
 incluidas mezclas
 contenido carne despojos clase superior peso incluidos tocino grasa naturaleza origen
-
 contengan carne despojos aves corral
 contengan producto compuesto trozos claramente reconocibles carne muscular cuyo tamaño permita determinar obtenidos piernas paletas chuleteros espinazos pequeñas partículas grasa visible pequeñas cantidades depósitos gelatina
 Gallos gallinas patos gansos pavos gallipavos pintadas especies domésticas vivos
@@ -3369,7 +3345,6 @@ Leche nata concentradas azucaradas edulcoradas
 polvo gránulos formas sólidas contenido materias grasas inferior peso
 adición azúcar edulcorante
 envases inmediatos contenido neto inferior kg
-
 polvo gránulos formas sólidas contenido materias grasas superior peso
 contenido materias grasas inferior peso
 envases inmediatos contenido neto inferior kg

@@ -216,7 +216,6 @@ garantía adicional establecida punto II certificado figura sección anexo II ob
 certificado utilizarse importaciones Canadá figura Decisión CE Comisión abril relativa certificados simplificados importación esperma animales especie bovina carne fresca porcino procedentes Canadá modifica Decisión CE únicamente esperma recogido Canadá establecida conformidad Comunidad Europea Gobierno Canadá medidas sanitarias proteger salud pública sanidad animal comercio animales vivos productos origen animal aprobada Decisión CE Consejo
 certificados utilizarse importaciones Suiza figuran anexo Directiva CEE adaptaciones establecidas apéndice capítulo VII sección punto anexo Comunidad Europea Confederación Suiza comercio productos agrícolas aprobados Decisión CE Euratom Consejo Comisión cooperación científica tecnológica abril celebración Acuerdos Confederación Suiza
 ANEXO II
-
 Modelo certificado zoosanitario importaciones tránsito esperma existencias esperma bovino doméstico
 SECCIÓN
 Modelo
@@ -249,7 +248,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -304,7 +302,6 @@ II sometidos ocasiones intervalo superior meses resultados negativos prueba sero
 esperma destinado exportación recogió centro contaba autorización previa autoridades nacionales competentes país exportador
 esperma destinado exportación trató almacenó transportó condiciones ajustan dispuesto Directiva CEE
 Notas
-
 Casilla persona responsable envío UE casilla rellenarse únicamente certificado mercancía tránsito
 Casilla lugar origen centro recogida esperma procede esperma cuestión autorizado arreglo artículo apartado Directiva CEE Consejo figura listas publicadas sitio web Comisión
 httpeceuropaeufoodanimalsemenovabovineindexenhtm
@@ -405,7 +402,6 @@ número autorización centro número autorización centro recogida esperma proce
 Únicamente centros recogida esperma autorizados conformidad artículo apartado artículo apartado Directiva CEE figuran listas publicadas sitio web Comisión
 Únicamente terceros países enumerados anexo Decisión UE miembros UE
 adjuntarse certificado original documentos certificados sanitarios copias compulsadas hayan adjuntado esperma centro autorizado recogida esperma procede centro autorizado almacenamiento esperma enviado indica casilla
-
 Notas explicativas certificado
 certificado zoosanitario expedido autoridad competente tercer país exportador arreglo modelo anexo II
 miembro destino impone requisitos adicionales certificación incorporarán original certificado sanitario declaraciones certifiquen cumplimiento tales requisitos
@@ -460,9 +456,7 @@ mayo
 Corrección errores Reglamento CE Consejo septiembre establece derecho antidumping definitivo importaciones determinadas bolsas bolsitas plástico originarias República Popular China Tailandia concluido procedimiento relativo importaciones determinadas bolsas bolsitas plástico originarias Malasia
 Diario Oficial Unión Europea septiembre
 página lista anexo columna izquierda
-
 CHUN YIP SHENZHEN PLASTICS LIMITED
-
 CHUN YIP PLASTICS SHENZHEN LIMITED
 página lista anexo columna izquierda
 WEIFANG YUJIE PLASTICS PRODUCTS CO LTD
@@ -913,7 +907,6 @@ Utilización materias residuales obtenidas cualquiera operaciones enumeradas
 Intercambio residuos someterlos cualquiera operaciones enumeradas
 Acumulación materiales someterlos cualquiera operaciones incluidas lista
 Tei
-
 Correo electrónico
 Decisión Comisión
 agosto
@@ -1017,7 +1010,6 @@ ANEXO
 Programa plurianual seguimiento eEurope difusión prácticas mejora seguridad redes información Modinis
 Desglose indicativo gasto
 Porcentajes presupuesto categoría año
-
 Acción Seguimiento comparación resultados
 Acción Difusión prácticas
 Acción Análisis debate estratégico
@@ -3720,7 +3712,6 @@ valores precisión sistema clasificación facilitarán nivel programas muestreo 
 intensidad muestreo proporcional esfuerzo relativo variabilidad capturas métier trate
 número mínimo mareas deban objeto muestreo inferior mareas trimestre
 efectuará supervisión descartes especies grupos definidos capítulo III sección Bf estimar peso trimestral descartes
-
 descartes objeto estimación trimestral distribuciones talla anualmente representen capturas totales peso capturas número especies grupos
 efectúen descartes categorías talla especies estén representadas desembarques deberá estimarse edad reglas fijadas apéndice VII
 proceda efectuarán estudios piloto referencia capítulo II
@@ -4083,7 +4074,6 @@ originarios proceden prefectura distinta Fukushima Gunma Ibaraki Tochigi Miyagi 
 proceden prefecturas Fukushima Gunma Ibaraki Tochigi Miyagi Yamagata Niigata Nagano Yamanashi Saitama Tokio Chiba Kanagawa originarios expuestos radiactividad tránsito
 originarios prefecturas Fukushima Gunma Ibaraki Tochigi Miyagi Yamagata Niigata Nagano Yamanashi Saitama Tokio Chiba Kanagawa sometidos muestreo fecha objeto análisis laboratorio fecha nombre laboratorio determinar nivel radionúclidos yodo cesio cesio resultados analíticos conformes tolerancias máximas mencionadas artículo apartado
 adjunta informe análisis
-
 Sello firma representante autorizado autoridad competente contemplada artículo apartado
 rellenarla autoridad competente PIF PED
 envío aceptado presentación cara despacho libre práctica autoridades competentes Unión Europea
@@ -4285,8 +4275,6 @@ respuesta nota difundida Secretaría Técnica OPAQ invitaba presentar solicitude
 Corrección errores Decisión UE Representantes Gobiernos miembros noviembre nombra juez Tribunal General
 Diario Oficial Unión Europea noviembre
 página firma
-
-
 Corrección errores Decisión UE Representantes Gobiernos miembros reunidos seno Consejo febrero fija sede Oficina Europea Apoyo Asilo
 Diario Oficial Unión Europea diciembre
 página firma
@@ -4910,7 +4898,6 @@ Período contingentario
 Volumen contingente anual
 toneladas peso neto especifique cosa
 Ron aguardientes procedentes destilación previa fermentación productos caña azúcar recipientes contenido superior litros
-
 hectolitros equivalente alcohol puro
 período posterior
 hectolitros equivalente alcohol puro

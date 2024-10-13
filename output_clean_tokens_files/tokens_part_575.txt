@@ -370,11 +370,8 @@ Velocidad kmh
 ciclo
 tiempo utilizado operación
 segundos
-
 continuación definen situaciones
 muestras DLV DALV hayan presentado homologación someterán situaciones arreglo cuadro
-
-
 Tercer
 Cuarto
 Situación
@@ -850,7 +847,6 @@ Residuos plásticos
 Residuos madera
 Residuos textiles
 Residuos contienen PCB
-
 Equipos desechados vehículos desechados residuos pilas acumuladores
 Vehículos desechados
 Residuos pilas acumuladores
@@ -1868,7 +1864,6 @@ Anchoas
 Salmónidos salmones
 Pescados género Euthynnus listados Euthynnus Katsuwonus pelamos
 Pescados especies Orcynopsis unicolor
-
 preparaciones conservas pescado
 Preparaciones surimi
 salmones
@@ -2072,12 +2067,10 @@ Licopeno trans porcentaje licopeno
 Carotenoides totales calculados licopeno
 carotenoides
 fitoeno fitoflueno βcaroteno
-
 Tocoferoles totales
 Materia saponificable
 Ácidos grasos totales
 Agua método Karl Fischer
-
 ANEXO II
 Lista alimentos añadir oleorresina licopeno tomates
 Categoría alimentos
@@ -2799,8 +2792,6 @@ PRINCIPIO
 fibras mencionadas número apartado eliminarán masa conocida mezcla seco disolución ácido sulfúrico concentrado ml
 residuo constituido clorofibra elastolefina recogerá lavado secado pesado masa corregida fuese necesario expresará porcentaje masa mezcla seco
 proporción constituyente obtendrá diferencia
-
-
 Decisión JAI Comisión
 septiembre
 establece fecha aplicación migración Sistema Información Schengen SIS Sistema Información Schengen generación SIS II
@@ -3100,7 +3091,6 @@ DO
 DO
 ANEXO
 INFORMACIÓN FACILITARSE
-
 Información general
 miembros considerados especificarán
 punto contacto bloque funcional espacio aéreo
@@ -3656,7 +3646,6 @@ división BankCo pagará comisiones ajustadas garantías depósitos minoristas i
 Cuadro
 Principales indicadores financieros BankCo división escenario base
 Ingresos intereses netos
-
 hipotecas
 Depósitos minoristas
 Depósitos interbancarios
@@ -3735,7 +3724,6 @@ comisión compromiso mensual pb comisión única utilización cantidad utilizada
 aprox
 comisión mensual millones GPB
 Mantenimiento ampliación línea liquidez BI HMT
-
 LIBOR mes pbs
 Recapitalización caso crisis permuta deuda capital
 Línea capital explotación favor AssetCo
@@ -4068,7 +4056,6 @@ titulares deuda subordinada NR seguirán AssetCo
 compensará importes recuperen activos AssetCo
 titulares deuda subordinada
 acreedor prioritario virtud préstamos línea liquidez BI HMT línea capital explotación concedido AssetCo
-
 Asimismo NR decidido recientemente posponer facultad pagos cupón pagos principal instrumentos acumulativos categoría instrumentos relacionados categoría
 Reino Unido asumido asimismo comprometido AssetCo seguirá posponiendo pagos división
 consiguiente riesgo moral queda adecuadamente cubierto aportación antiguos titulares capital banco

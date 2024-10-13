@@ -511,7 +511,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -525,7 +524,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -539,7 +537,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -1081,7 +1078,6 @@ Descripción producto
 Zona geográfica
 Vínculo
 Nombre dirección autoridad control
-
 Modificación
 Modificación pliego condiciones conlleva modificación especificaciones principales
 Modificación pliego condiciones conlleva modificación especificaciones principales
@@ -2930,8 +2926,6 @@ Hexaclorobenceno máximo kg
 Decaclorobifenilo máximo kg
 marzo
 febrero
-
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión clorotalonil sobretodo apéndices II ultimó Comité Permanente Cadena Alimentaria Sanidad Animal febrero
 evaluación general miembros deberán prestar especial atención protección
 organismos acuáticos

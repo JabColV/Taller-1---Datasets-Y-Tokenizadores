@@ -80,7 +80,6 @@ Reacción coloreada
 disuelven máximo muestra agitándolos ml hidróxido sodio añade ml solución ácida sulfato férrico
 minutos mezcla vuelve color rojo cereza finalmente convierte morado intenso
 pH suspensión
-
 °C horas
 Cenizas sulfatadas
 sustancia anhidra
@@ -138,9 +137,7 @@ Polvo fibroso granulado inodoro color blanco marrón amarillento
 Pruebas positivas propanodiol ácido algínico previa hidrólisis
 °C horas
 Contenido propanodiol
-
 Contenido propanodiol libre
-
 texto relativo carragenano sustituye texto
 CARRAGENANO
 productos comerciales venden diversos nombres
@@ -172,7 +169,6 @@ Materia insoluble ácido
 base seca insoluble ácido sulfúrico
 Carragenano peso molecular
 fracción peso molecular inferior kDa
-
 mg kg
 colonias gramo
 texto relativo alga Euchema procesada sustituye texto
@@ -204,9 +200,7 @@ Pruebas positivas galactosa manosa
 Soluble agua fría
 °C horas
 °C
-
 Proteínas
-
 Almidón
 detectable método solución muestra añaden gotas solución yodada forma coloración azul
 Peróxidos orgánicos
@@ -221,10 +215,7 @@ Masas blancas friables ligeras inodoras polvo blanco grueso
 Prácticamente insoluble agua etanol
 Pruebas positivas magnesio carbonato
 Materia insoluble ácido
-
 Materia soluble agua
-
-
 mg kg
 texto relativo hidróxido cálcico sustituye texto
 HIDRÓXIDO CÁLCICO
@@ -236,9 +227,7 @@ Ligeramente soluble agua
 Insoluble etanol
 Soluble glicerol
 Cenizas insolubles ácido
-
 Sales magnesio sales alcalinas
-
 Bario
 mg kg
 Fluoruro
@@ -253,7 +242,6 @@ Pruebas positivas álcali calcio
 humedecer muestra agua genera calor
 Pérdida combustión
 torno °C obtención peso constante
-
 mg kg
 texto relativo cera abejas sustituye texto
 CERA ABEJAS
@@ -265,15 +253,12 @@ Trozos láminas grano fino fractura cristalina color blanco amarillento tipo bla
 Intervalo fusión
 °C °C
 Peso específico
-
 Insoluble agua
 Escasamente soluble alcohol
 soluble cloroformo éter
 Índice acidez
-
 Índice saponificación
 Índice peróxido
-
 Glicerol polioles
 expresado glicerol
 Ceresina parafinas ceras
@@ -1137,8 +1122,6 @@ Allis and twaite shads
 DCX
 Clupeoidei
 Diadromous clupeoids nei Peces diádromos ncop
-
-
 Diadromous fishes nei Gallo Norte
 MEG
 Hippoglossus hippoglossus Atlantic halibut Solla PLE Pleuronectes platessa European plaice Fletán negro GHL
@@ -1211,7 +1194,6 @@ SBR
 Breca
 Common pandora
 Cachucho
-
 Largeeye dentex
 Dentones ncop
 DEX
@@ -1338,7 +1320,6 @@ Katsuwonus pelamis Skipjack tuna Patudo BET
 Thunnus obesus Bigeye tuna
 Peces tipo atún negro ncop TUX Scombroidei
 Tunalike fishes nei Estornino
-
 Scomber scombrus
 Atlantic mackerel Escóbridos ncop MAX Scombridae
 Mackerels nei Pez cinto
@@ -1419,7 +1400,6 @@ Hydrolagus spp
 HAR
 Harriotta spp
 Marine fishes nei Peces escama ncop
-
 ex Osteichthyes
 Finfishes nei Cangrejo comestible CRE Cancer pagurus Edible crab Cangrejo verde CRG
 Carcinus maenas Green crab Centollo SCR Maja squinado
@@ -2397,7 +2377,6 @@ aplican niveles residuales máximos mg kg mg kg mg kg distintos grupos dichos pr
 establecido dosis residuales máximas relación productos controlar cantidad añadida sales curado absorbidas carne naturaleza proceso fabricación
 Directiva describe proceso producción productos específicos permitir identificación productos similares aclarar productos aplican distintos niveles máximos
 cuadro contiene niveles máximos establece Directiva CE
-
 Denominación
 Producto alimenticio
 Cantidad máxima añadirse fabricación
@@ -2706,13 +2685,11 @@ DO
 DO
 ANEXO
 ANEXO
-
 Zona establecida conformidad artículo apartado
 Código ISO país
 Fecha aplicable
 artículo apartado letra inciso iii
 Código
-
 Nombre
 República Checa
 Zona protección
@@ -2729,7 +2706,6 @@ PODLESÍ parcialmente
 VLČKOV parcialmente
 Alemania
 municipios
-
 Zona establecida conformidad artículo apartado
 miembro
 Zona
@@ -4992,9 +4968,7 @@ Salud
 nerviosismo
 tiempo
 tiempo
-
 Rara
-
 Sentimiento desmoralización
 Sentimiento calma serenidad
 Sentimiento desánimo depresión

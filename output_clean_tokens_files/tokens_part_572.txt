@@ -1,6 +1,5 @@
 valoración activos partidas balance efectuará conformidad marco contable aplicable
 obstante dispuesto apartado autoridades competentes solicitar entidades realicen valoración activos partidas balance determinación fondos arreglo Normas Internacionales Contabilidad aplicables arreglo Reglamento CE
-
 FONDOS
 ELEMENTOS FONDOS
 Capital nivel
@@ -685,7 +684,6 @@ acciones empresas distintas refiere artículo apartado letras incluirán cálcul
 acciones poseen temporalmente operación asistencia financiera estipula artículo
 dichas acciones constituyen posición aseguramiento mantenida hábiles
 acciones poseen nombre entidad terceros
-
 REQUISITOS GENERALES VALORACIÓN COMUNICACIÓN
 Nivel fondos necesario
 Requisitos fondos entidades
@@ -1519,7 +1517,6 @@ respecta totalidad exposiciones frente entes sector financiero dimensiones coefi
 respecta totalidad exposiciones frente entes financieros regulados coeficientes correlación establecidos apartado inciso iii apartado medida pertinentes multiplicarán
 importe ponderado riesgo exposiciones cumpla requisitos fijados artículos ajustarse arreglo fórmula
 RW valor exposición PDpp
-
 PD proveedor protección
 RW calculará utilizando fórmula ponderación riesgo pertinente establecida punto exposición cubierta PD deudor LGD exposición directa comparable frente proveedor cobertura
 factor vencimiento calculará utilizando valor PD proveedor cobertura PD deudor
@@ -1605,7 +1602,6 @@ Artículo
 Exposiciones ponderadas riesgo correspondientes activos distintos obligaciones crediticias
 exposiciones ponderadas riesgo correspondientes activos distintos obligaciones crediticias calcularán aplicando fórmula
 valor exposición
-
 trate efectivo caja activos líquidos equivalentes oro lingotes mantenido cajas fuertes depositado custodia medida esté respaldado pasivos forma lingotes oro cuyo caso aplicará ponderación riesgo
 exposición valor residual propiedades arrendadas cuyo caso calculará
 valor exposición
@@ -2728,7 +2724,6 @@ Período liquidación
 año
 años
 años
-
 Nivel calidad crediticia corresponde evaluación crediticia título deuda corto plazo
 Ajustes volatilidad títulos deuda emitidos entidades contempladas artículo apartado letra evaluaciones crediticias corto plazo
 Ajustes volatilidad títulos deuda emitidos entidades contempladas artículo apartado letras evaluaciones crediticias corto plazo
@@ -3169,7 +3164,6 @@ Nivel
 Nivel
 Nivel
 Nivel
-
 Nivel niveles exceso margen inferiores nivel captura exceso margen inferiores nivel captura
 Nivel niveles exceso margen inferiores nivel captura exceso margen inferiores nivel captura
 Nivel niveles exceso margen inferiores nivel captura exceso margen inferiores nivel captura
@@ -3650,7 +3644,6 @@ entidades determinarán garantías ilíquidas derivados OTC sustituirse fácilme
 entidades examinarán transacciones valores tengan garantía concentran determinada contraparte contraparte abandonase repentinamente mercado entidad sustituir dichas transacciones valores
 entidad visto implicada litigios relativos ajustes márgenes respecta determinado conjunto operaciones compensables trimestres inmediatamente anteriores prolongado allá período riesgo margen aplicable virtud apartados entidad utilizará período riesgo margen mínimo período especificado apartados conjunto operaciones trimestres siguientes
 efectos reposición margen periodicidad período riesgo margen mínimo período especificado apartados
-
 Período riesgo margen
 modelo interno integra efecto constitución márgenes valor mercado conjunto operaciones compensables entidad modelizará garantías reales efectivo moneda exposición conjuntamente exposición cálculos valor exposición derivados OTC operaciones financiación valores
 entidad halle imposibilidad modelizar garantías reales conjuntamente exposición reconocerá cálculos valor exposición derivados OTC operaciones financiación valores efecto garantías reales distintas efectivo moneda exposición aplique ajustes volatilidad atengan criterios método amplio garantías reales naturaleza financiera relación estimaciones ajustes volatilidad ajustes supervisores estándar volatilidad conformidad capítulo
@@ -4356,7 +4349,6 @@ Ponderación
 Variación prevista tipos interés
 Cupón superior
 Cupón
-
 mes
 meses
 meses
@@ -4367,7 +4359,6 @@ años
 años
 años
 años
-
 años
 años
 años
@@ -4584,8 +4575,6 @@ factores multiplicación mc ms suma sumando comprendido establecido cuadro
 sumando dependerá número excesos hábiles pongan manifiesto pruebas retrospectivas entidad aplique cálculo valor riesgo previsto artículo apartado
 Número excesos
 sumando
-
-
 revisión mencionada apartado letra abarcará actividades unidades negociación unidad independiente control riesgos
 año entidad efectuará revisión proceso gestión global riesgos
 dicha revisión
@@ -4714,7 +4703,6 @@ operaciones instrumentos deuda valores renta variable divisas materias primas ex
 diferencia precio calculará diferencia precio liquidación acordado instrumentos deuda valores renta variable divisas materias primas trate valor actual mercado caso dicha diferencia entrañar pérdidas entidad crédito
 calcular requisito fondos entidad riesgo liquidación multiplicará diferencia precio factor pertinente columna derecha cuadro
 hábiles transcurridos fecha liquidación estipulada
-
 Artículo
 Operaciones incompletas
 entidades estarán obligadas disponer fondos establece cuadro siguientes casos
@@ -4961,11 +4949,6 @@ haberse producido exceso componentes seleccionados conformidad apartado consigna
 Columna Exceso límites
 base porcentaje capital admisible
 Columna Factores
-
-
-
-
-
 Artículo
 Procedimientos impedir entidades soslayen requisito fondos adicional
 entidades sustraerán deliberadamente requisitos fondos adicionales establecidos artículo deberían cumplir exposiciones superiores límite fijado artículo apartado mantenidas transferencias temporales exposiciones consideradas empresas pertenecientes grupo transacciones artificiales destinadas eliminar exposición período crear exposición

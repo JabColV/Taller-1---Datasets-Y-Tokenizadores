@@ -173,7 +173,6 @@ artículo añade párrafo
 Suiza participará plenamente Consejo administración derechos obligaciones miembros Unión Europea derecho voto
 artículo añade apartado
 Suiza participará contribución financiera prevista apartado letra arreglo fórmula
-
 presupuesto Agencia cubierta tasas ingresos mencionados apartado letras
 número asociados
 número miembros UE
@@ -318,7 +317,6 @@ Reglamento CE Parlamento Europeo Consejo
 Reglamento Parlamento Europeo Consejo febrero establecen normas comunes compensación asistencia pasajeros aéreos caso denegación embarque cancelación retraso vuelos deroga Reglamento CEE
 Artículos
 Reglamento Parlamento Europeo Consejo julio derechos personas discapacidad movilidad reducida transporte aéreo
-
 Directiva Consejo octubre reestructura régimen comunitario imposición productos energéticos electricidad
 Anexos
 Protocolo privilegios inmunidades Comunidades Europeas
@@ -697,7 +695,6 @@ DO
 ANEXO
 ANEXO
 NORMAS COMERCIALIZACIÓN REFERENCIA ARTÍCULO bis
-
 Norma general comercialización
 Requisitos mínimos calidad
 Sujetos tolerancias permitidas productos deberán
@@ -721,7 +718,6 @@ Marcado origen producto
 Nombre completo país origen
 caso productos originarios miembro dicha indicación aparecerá lengua país origen lengua comprensible consumidores país destino
 caso productos dicha indicación aparecerá lengua comprensible consumidores país destino
-
 NORMAS COMERCIALIZACIÓN ESPECÍFICAS
 NORMA COMERCIALIZACIÓN MANZANAS
 DEFINICIÓN PRODUCTO
@@ -950,8 +946,6 @@ Escalas calibre
 aplicarán escalas calibre siguientes
 Calibres
 Diámetro
-
-
 cítricos calibrarse número frutos
 caso reserva cumplan normas homogeneidad calibre previstas título III letra frutos envase situarse caballo calibres adyacentes
 homogeneidad calibre corresponderá escalas calibre indicadas casos indican continuación
@@ -1601,17 +1595,10 @@ muestra global incluirá siguientes cantidades mínimas lote declarado insatisfa
 Productos envasados
 Número bultos consta lote
 Número bultos tomarse muestras elementales
-
-
-
-
 Productos granel
 carga directa vehículo transporte compartimento
 Cantidad lote kg número unidades lote
 Cantidad muestras elementales kg número unidades
-
-
-
 trate frutas hortalizas frescas voluminosas kilogramos pieza granel muestras elementales compuestas mínimo piezas
 trate lotes compuestos bultos peso inferior kilogramos controlará totalidad lote
 término control inspector llega conclusión condiciones tomar decisión llevará cabo control físico resultado global expresará media controles
@@ -1639,9 +1626,6 @@ ligeros defectos epidermis
 magulladuras ligeras
 pequeño ombligo presente formación acorchada
 cicatrices acorchadas forma umbilical punto pistilar cuya superficie exceda cm
-
-
-
 mínimo
 mínimo
 evitar fraudes situaciones induzcan error consumidores información exigida normas disposición compra especial tratándose venta distancia experiencia revelado riesgos fraude elusión protección consumidores proporcionada normas
@@ -3619,7 +3603,6 @@ Justicia Libertad Seguridad
 Educación Cultura
 Ampliación
 Relaciones Exteriores
-
 Desconocida explicar DG directamente competente
 Transmito información conformidad artículo apartado Reglamento Financiero
 Retiro información transmitida
@@ -4157,12 +4140,10 @@ Certificado sanitarioEl inspector oficial abajo firmante certifica productos pes
 Corrección errores Reglamento CE Parlamento Europeo Consejo diciembre relativo registro evaluación autorización restricción sustancias preparados químicos REACH crea Agencia Europea Sustancias Preparados Químicos modifica Directiva CE derogan Reglamento CEE Consejo Reglamento CE Comisión Directiva CEE Consejo Directivas CEE CEE CE CE Comisión
 Diario Oficial Unión Europea diciembre Versión corregida DO mayo
 comercializada Comunidad países adhirieron Unión Europea enero mayo enero fabricante importador momento septiembre octubre inclusive considerarse notificada entrada vigor presente Reglamento conformidad artículo apartado guión Directiva CEE versión artículo apartado resultante modificación efectuada Directiva CEE corresponda definición polímero establecida presente Reglamento fabricante importador posea pruebas documentales
-
 comercializada Comunidad países adhirieron Unión Europea enero mayo enero fabricante importador entrada vigor presente Reglamento considerarse notificada conformidad artículo apartado guión Directiva CEE versión artículo apartado resultante modificación efectuada Directiva CEE corresponda definición polímero establecida presente Reglamento fabricante importador posea pruebas documentales incluida prueba sustancia comercializada fabricante importador cualquiera septiembre octubre inclusive
 referencia publicación DO mayo modificada Reglamento CE DO corregida corrección errores mayo artículo punto letra DO
 presente corrección errores deroga sustituye corrección errores publicada DO mayo
 página artículo punto letra
-
 Reglamento CE Comisión
 abril
 inicia reconsideración exportador Reglamento CE Consejo establece derecho antidumping definitivo importaciones tablas planchar originarias países República Popular China deroga derecho aplicable importaciones exportador país someten registro dichas importaciones
@@ -4702,7 +4683,6 @@ Quesos conservables franceses
 denominación origen controlada tipos beaufort comté
 etiqueta roja tipo emmental grand cru
 clase tipos emmental gruyère
-
 julio septiembre
 octubre marzo
 Quesos conservables alemanes

@@ -610,7 +610,6 @@ DO
 DO
 DO
 ANEXO
-
 anexos II III Directiva CEE sustituyen texto
 ANEXO II
 CONDICIONES DEBERÁN CUMPLIR SEMILLAS
@@ -697,7 +696,6 @@ Peso muestra recuentos establecidos columnas letra punto sección anexo II colum
 fruto
 semilla
 peso máximo lote deberá superarse
-
 anexos II III Directiva CEE sustituyen texto
 ANEXO
 CONDICIONES DEBERÁ CUMPLIR CULTIVO
@@ -826,7 +824,6 @@ presencia esclerocios fragmentos esclerocios muestra peso prescrito considerará
 Peso muestra recuentos establecidos columnas letra punto anexo II punto anexo II
 Zea mays semillas base líneas consanguíneas
 Zea mays semillas base líneas consanguíneas semillas certificadas
-
 anexos II III Directiva CE quedan modificados
 anexo II punto añade letra
 normas condiciones aplicables haga referencia cuadro letra
@@ -835,7 +832,6 @@ etiqueta oficial etiqueta proveedor proceda deberá figurar texto facultad germi
 anexo III punto letras sustituyen texto
 semillas Phaseolus coccineus Phaseolus vulgaris Pisum sativum Vicia faba toneladas
 semillas tamaño superior granos trigo Phaseolus coccineus Phaseolus vulgaris Pisum sativum Vicia faba toneladas
-
 anexos II III Directiva CE sustituyen texto
 cultivos previos campo producción habrán incompatibles producción semillas especie variedad cultivo trate campo producción suficientemente libre plantas crecidas espontáneamente derivadas cultivos anteriores
 caso híbridos Brassica napus cultivo crecerá terreno producción hayan transcurrido años cultivaron plantas Brassicaceae Cruciferae
@@ -1349,7 +1345,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -1363,7 +1358,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -1377,7 +1371,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -3001,9 +2994,7 @@ Evaluación verificación solicitante facilitará documentación adecuada demues
 Corrección errores Reglamento CE Parlamento Europeo Consejo diciembre relativo acceso ayuda exterior comunitaria
 Diario Oficial Unión Europea diciembre
 página visto
-
 Visto Tratado constitutivo Comunidad Europea particular artículos
-
 Visto Tratado constitutivo Comunidad Europea particular artículo
 Reglamento CE Comisión
 marzo
@@ -3113,9 +3104,7 @@ CAS
 CICAP
 junio
 mayo
-
 autorizar usos regulador crecimiento vegetal
-
 aplicación principios uniformes anexo VI conclusiones informe revisión decanol particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 riesgo residuos consumidores cultivos destinados alimentación humana animal
@@ -3252,7 +3241,6 @@ Motivo rechazo
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO III
 Licitación permanente exportación cebada organismo intervención alemán
 Reglamento CE
@@ -3660,7 +3648,6 @@ DO
 ANEXO
 anexos II III Decisión CEE quedan modificados
 anexo punto Condiciones específicas sustituye texto
-
 paso territorio animales destinados sacrificio directo bovinos engorde procedentes miembro destino miembro camiones precintados sello llevará número serie
 número sello deberá indicarse certificado sanitario ganado bovino porcino expedido conforme modelo establece anexo Directiva CEE Consejo junio relativa problemas policía sanitaria materia intercambios intracomunitarios animales especies bovina porcina certificado sanitario ganado ovino caprino conforme modelo anexo Directiva CEE Consejo enero relativa normas policía sanitaria regulan intercambios intracomunitarios animales especies ovina caprina
 sello deberá intacto llegada puesto inspección fronterizo designado entrada Comunidad registrarse Traces
@@ -3696,7 +3683,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -3750,7 +3736,6 @@ Declaración bienestar animales
 Notas
 certificado corresponde carne fresca excluida carne picada solípedo doméstico Equus caballus Equus asinus cruces
 carne fresca entienden partes animales aptas consumo humano frescas refrigeradas congeladas
-
 Casilla indicar código territorio figura anexo II Decisión CEE conforme modificación
 Casilla lugar origen nombre dirección establecimiento expedidor
 Casilla indicar matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos transporte
@@ -4157,7 +4142,6 @@ Contravención armamento cosas prestación ayuda grupos milicias armados mencion
 Lydia formaba APR
 Terminator
 Indicativo llamada Tango Romeo Tango
-
 Bigogwe Ruanda
 Nacido Ruanda trasladó niño Nyamitaba territorio Masisi Kivu Norte
 junio reside Goma posee granjas zona Ngungu territorio Masisi Kivu Norte
@@ -4965,7 +4949,6 @@ comprobó solicitante beneficiado programas período investigación reconsiderac
 Sistema exención derecho electricidad
 constató incentivos recibido insignificantes
 Programas locales subvenciones Maharashtra
-
 investigación reveló beneficio solicitante período investigación reconsideración relación materias primas energía compradas implicaría contribución económica GdI considerada subvención tenor artículo apartado letra inciso ii artículo apartado Reglamento base
 alegaciones industria Unión mencionadas letras considerando consideraron irrelevantes contexto presente reconsideración
 IMPORTE SUBVENCIONES SUJETAS MEDIDAS COMPENSATORIAS

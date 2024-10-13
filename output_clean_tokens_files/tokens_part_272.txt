@@ -1396,7 +1396,6 @@ medición radios principales curvatura efectuará puntos situados cerca tercio m
 obstante dimensiones superficie reflectante hicieran imposible obtención medidas direcciones establecidas punto presente Reglamento servicios técnicos encargados ensayos mediciones punto direcciones perpendiculares próximas anteriormente indicadas
 CÁLCULO RADIO CURVATURA
 expresado mm calcula fórmula
-
 radio curvatura punto medida
 radio curvatura punto medida
 radio curvatura tercer punto medida
@@ -1994,7 +1993,6 @@ sección añade punto
 impedir desensamblaje fortuito gancho tracción distancia punta gancho tracción anilla seguridad dispositivo bloqueo excederá mm carga máxima proyecto
 apéndice suprimen figura texto referido
 DO
-
 Decisión Comisión
 abril
 relativa determinadas medidas protección relación gripe aviar altamente patógena Israel deroga Decisión CE
@@ -2067,12 +2065,10 @@ Decisión modificada Decisión CE DO
 Táchese proceda
 ANEXO
 Partes Israel contempladas artículo letras
-
 Código ISO país
 Nombre país
 Descripción partes Israel
 territorio Israel
-
 Reglamento Ejecución UE Comisión
 septiembre
 modifica Reglamento Ejecución UE establecen límites máximos presupuestarios aplicables determinados regímenes ayuda directa previstos Reglamento CE Consejo
@@ -3100,7 +3096,6 @@ cuadro artículo bis apartado añaden entradas capítulo capítulo bis siguiente
 añaden apéndices VI VII siguientes
 Apéndice VI
 Índice
-
 Disposiciones adicionales
 Marcado depuradoras aguas residuales bordo
 Pruebas
@@ -3113,7 +3108,6 @@ Certificado homologación modelo
 Adenda Resultados pruebas homologación Modelo
 IV
 Sistema numeración homologaciones
-
 Resumen homologaciones tipos depuradora aguas residuales bordo
 VI
 Resumen depuradoras aguas residuales bordo fabricadas Modelo
@@ -3157,7 +3151,6 @@ depuradoras serie someterán medición muestra aleatoria
 calculará media aritmética
 resultados hayan obtenido muestra
 serie producida considerará conforme requisitos cumple condición
-
 factor estadístico depende cuadro
 xi resultado individual obtenido muestra aleatoria
 valor límite admisible establece cuadro artículo bis apartado contaminante analizado
@@ -3205,7 +3198,6 @@ Fabricante
 Número serie depuradora
 Método tratamiento biológico mecánico químico
 instalado depuradora tanque almacenamiento aguas residuales
-
 Criterios diseño dimensionamiento incluida instrucción especial instalación restricción
 Dimensionamiento depuradora aguas residuales bordo
 Caudal volumétrico diario máximo aguas residuales Cd
@@ -3437,10 +3429,8 @@ Concentración contaminantes
 Carga normal
 CDBO conforme punto
 Sobrecarga
-
 Subcarga
 espera
-
 Cd
 Cd
 fases carga especiales sobrecarga subcarga espera lugar sucesivamente interrupción fase carga normal dividirá partes
@@ -3481,7 +3471,6 @@ Número muestras aleatorias
 Fase carga
 Número muestras
 Especificación periodicidad muestreo
-
 Muestras compuestas
 Muestras aleatorias
 Muestreo intervalos regulares período
@@ -3550,7 +3539,6 @@ Ejemplos secuencias prueba
 Ejemplo
 Ejemplo
 Carga hidráulica Cd
-
 Notas determinación demanda bioquímica oxígeno DBO muestras compuestas
 normas internacionales ISO disponen determinación demanda bioquímica oxígeno muestras agua introducirse inmediatamente toma momento análisis botella llene borde cierre herméticamente mantenga temperatura °C
 determinación DBO iniciarse caso horas siguientes finalización toma muestras
@@ -3639,7 +3627,6 @@ Gasto
 Ingresos destino específico
 Fondo azúcar
 Artículo
-
 Gasto
 Ingresos destino específico
 reducciones suspensiones sistema anticipos añaden concretamente correcciones incumplimiento plazos pago constatado agosto septiembre octubre
@@ -3736,9 +3723,7 @@ Impureza pertinente
 tolueno máximo kg
 enero
 diciembre
-
 autorizar usos herbicida
-
 aplicar principios uniformes anexo VI conclusiones informe revisión napropamida particular apéndices II aprobado Comité permanente cadena alimentaria sanidad animal octubre
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 seguridad operarios condiciones deberán exigir utilización equipos protección individual adecuados necesario

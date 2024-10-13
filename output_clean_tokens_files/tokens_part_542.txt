@@ -1452,7 +1452,6 @@ Cuentas PK sistema consolidado registros europeos
 haberes
 Protocolo Kioto
 Administrador registro PK Registro Unión administrador central
-
 cancelación
 retirada
 depósito UCA RCDE
@@ -1661,7 +1660,6 @@ Emisiones CO
 Emisiones
 Emisiones PFC
 emisiones
-
 ANEXO
 Cuadro nacional asignación periodo artículo
 Fila
@@ -1686,7 +1684,6 @@ Cuadro nacional asignación aviación periodo artículo
 Cantidad derechos emisión aviación asignados forma gratuita
 virtud artículo sexies Directiva CE
 virtud artículo septies Directiva CE
-
 Código identificación operador aeronaves
 Cantidad asignarse
 filas repetirán operador aeronaves
@@ -3185,7 +3182,6 @@ Dimensión
 Territorio
 Código
 Importe
-
 Combinación códigos dimensiones
 Código Dimensión
 Código Dimensión
@@ -3405,7 +3401,6 @@ Comisión Europea Dirección General
 abajo firmante representante nombre organismo designado miembro examinado funcionamiento sistemas gestión control programa operativo nombre programa operativo número CCI período objeto emitir dictamen eficacia funcionamiento dichos sistemas ofrecer garantías razonables corrección declaraciones gastos presentadas Comisión consecuencia garantías razonables legalidad regularidad transacciones conexas
 ALCANCE EXAMEN
 examen llevó cabo conformidad estrategia auditoría presente programa período julio junio año comunicó informe anual control adjunto arreglo artículo apartado letra inciso Reglamento CE Consejo
-
 alcance examen ilimitado
 alcance examen vio limitado factores siguientes
 etc
@@ -3453,7 +3448,6 @@ Resumen resultados controles verificación precisión importes declarados relaci
 Resumen resultados examen informes organismos auditoría nacionales comunitarios especifíquense categoría informes recibidos examinados
 Resumen resultados examen información relativa seguimiento conclusiones auditoría irregularidades comunicadas
 Resumen resultados examen trabajo adicional autoridades gestión certificación emitir dictamen reservas
-
 LIMITACIONES ALCANCE EXAMEN AUTORIDAD AUDITORÍA
 comunicarse información factores limitado alcance examen autoridad auditoría
 declararse importes estimados gasto contribución comunitaria ven afectados
@@ -3581,7 +3575,6 @@ Comisión presentado dictamen motivado consecuencia incumplimiento tenor artícu
 pago Comisión destinado organismo designado miembro percibir pagos
 Organismo designado
 Entidad bancaria
-
 Titular coincida organismo designado Nombre mayúsculas sello cargo firma
 Fecha
 Nombre mayúsculas sello cargo firma
@@ -3933,7 +3926,6 @@ Recursos humanos
 Entorno productivo
 Industria
 Servicios
-
 caso miembros cuya moneda euro utilizará tipo cambio anual correspondiente
 caso miembros cuya adhesión lugar Rumanía Bulgaria
 ANEXO XX
@@ -3945,7 +3937,6 @@ Tipo datos
 Nombre proyecto
 Nombre empresa
 PYME
-
 Volumen negocio
 Número empleados
 Número
@@ -4230,9 +4221,7 @@ Pública nacional
 Privada nacional
 fuentes
 Préstamos BEI FEI
-
 especifíquense
-
 detalles Decisión Decisiones financiación pública nacional préstamos etc facilitarse sección
 financiación préstamos utilice atribuirá organismo responsable reembolso préstamo público nacional privado nacional
 Plan financiación anual contribución comunitaria
@@ -4381,7 +4370,6 @@ Enseñanza postsecundaria superior CINE
 Enseñanza superior CINE
 obligaciones gestión control miembros obligados comunicación seguimiento irregularidades
 Reglamento CE Comisión julio relativo irregularidades recuperación sumas indebidamente abonadas marco financiación políticas estructurales organización sistema información materia Reglamento CE Comisión julio relativo irregularidades recuperación sumas indebidamente abonadas marco financiación Fondo cohesión organización sistema información ámbito establecieron normas cumplir dicha obligación
-
 FEDER
 Formación
 IDT
@@ -4420,7 +4408,6 @@ Duración media puestos meses
 Desglose años gasto certificado subvencionable
 FSE
 general
-
 Fecha conclusión
 autoridad gestión determinará tamaño muestra ofrecer garantías razonables legalidad regularidad transacciones conexas teniendo nivel riesgo identificado tipo beneficiarios operaciones cuestión asimismo revisará método muestreo año
 años desglose mencionado presente cuadro corresponderá pagos realizados beneficiarios año cuestión

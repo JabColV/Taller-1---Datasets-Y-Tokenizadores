@@ -701,8 +701,6 @@ Vehículos motor encendido chispa incluidos vehículos híbridos
 Vehículos motor encendido compresión incluidos vehículos híbridos
 Gasolina
 Diésel
-
-
 Cuadro
 Requisitos
 Vehículos motor encendido chispa categorías incluidos vehículos híbridos arreglo definición figura anexo Resolución consolidada construcción vehículos RE documento TRANS WP Rev Enmienda modificado lugar Enmienda
@@ -916,14 +914,12 @@ Masa combinada hidrocarburos óxidos nitrógeno
 Masa partículas PM
 Categoría
 Clase
-
 obstante dispuesto punto relación contaminante combinación contaminantes masas obtenidas superar límite establecido media aritmética resultados inferior límite
 caso contaminante supere límites establecidos irrelevante ocurra ensayo ensayos
 ensayos realicen combustibles gaseosos masa emisiones gaseosas resultante inferior límites vehículos gasolina figuran cuadro
 número ensayos establecido punto reducirá condiciones continuación enumeran resultado ensayo ensayo contaminante emisión combinada contaminantes sujetos límites
 efectuará ensayo resultado obtenido contaminante emisión combinada contaminantes sujetos límites menor
 caso cumplan condiciones establecidas punto efectuarán ensayos contaminante emisión combinada contaminantes sujetos límites cumplen siguientes requisitos
-
 Ensayo tipo II ensayo emisiones monóxido carbono régimen ralentí
 ensayo realizará vehículos propulsados motor encendido chispa cuya masa máxima supere toneladas
 vehículos puedan alimentarse gasolina GLP gas natural someterán ensayo tipo II combustibles
@@ -965,7 +961,6 @@ caso único requisito ensayo consistirá media aritmética resultados inferior v
 número ensayos establecidos punto reducirse puntos
 efectuará ensayo resultado obtenido relación contaminante ensayo inferior
 caso cumpla requisito punto efectuarán únicamente ensayos relación contaminante resultado ensayo inferior suma resultados inferior resultado ensayo inferior
-
 Ensayo tipo durabilidad dispositivos anticontaminantes
 ensayo realizará vehículos contemplados apartado aplica ensayo especificado punto
 ensayo consiste prueba envejecimiento km efectuada programa descrito anexo pista ensayo carretera banco dinamométrico
@@ -989,7 +984,6 @@ registrará régimen motor ensayo incluida tolerancia
 ensayo realice régimen ralentí elevado min–
 registrará valor lambda
 calculará valor lambda ecuación Brettschneider simplificada forma
-
 Concentración porcentaje volumen
 Factor conversión medida analizador infrarrojos dispersivo medida detector ionización llama facilitado fabricante equipo medición
 Relación atómica hidrógeno carbono
@@ -1063,10 +1057,8 @@ tipo carcasa convertidor convertidores catalíticos
 emplazamiento convertidores catalíticos dimensión posición sistema escape deberán lugar variación temperatura superior entrada convertidor catalítico
 variación temperatura verificará condiciones estables velocidad kmh condiciones carga ensayo tipo
 Inyección aire
-
 tipo aire impulsado bombas aire etc
 Recirculación gases escape EGR
-
 Categoría inercia categorías inercia inmediatamente superiores categoría inercia inferior
 ensayo durabilidad realizarse utilizando vehículo cuya carrocería caja cambios automática manual tamaño ruedas neumáticos distintos tipo vehículo solicita homologación
 homologación concedida tipo vehículo sistema diagnóstico bordo extenderse tipos vehículos pertenecientes familia diagnóstico bordo arreglo descripción anexo apéndice
@@ -1294,7 +1286,6 @@ logaritmo natural medición vehículo muestra
 cálculo desviación estándar producción tomar logaritmo natural mediciones
 número muestra considerada
 Calcúlese muestra estadística ensayo cuantifica suma desviaciones estándar límite define
-
 estadística ensayo superior número correspondiente decisión aprobado tamaño muestra figura cuadro adoptará decisión aprobado contaminante
 estadística ensayo inferior número correspondiente decisión suspenso tamaño muestra figura cuadro adoptará decisión suspenso contaminante contrario someterá ensayo vehículo aplicará cálculo muestra aumentando tamaño unidad
 Cuadro
@@ -1307,7 +1298,6 @@ presente apéndice describe procedimiento seguirse verificar conformidad producc
 mediciones contaminantes figuran punto presente Reglamento presentan distribución logarítmica normal transformarán previamente tomando logaritmos naturales
 partirá base indican tamaño mínimo máximo muestra respectivamente indica número muestra considerada
 logaritmos naturales mediciones serie xi logaritmo natural valor límite contaminante definirán
-
 cuadro figuran valores números correspondientes decisiones aprobado An suspenso Bn número muestra considerada
 estadística ensayo relación d‾
 utilizará determinar serie superado ensayo
@@ -1471,7 +1461,6 @@ ensayo
 Exceden considerablemente valores límite
 ensayos
 Aplicación estadísticas ensayo
-
 Suspenso
 Muestra suspendida
 causa
@@ -1730,7 +1719,6 @@ Relaciones caja cambios
 Relaciones finales transmisión
 relaciones
 Máximo CVT
-
 Mínimo CVT
 Marcha atrás
 Vehículo eléctrico híbrido
@@ -2128,9 +2116,6 @@ GLP CH
 gas natural CH
 caso óxidos nitrógeno NOx
 masa partículas contaminantes emitidas vehículo ensayo determinará pesando masa partículas recogidas filtros filtro
-
-
-
 cancela ensayo
 apéndice presente anexo incluyen cálculos utilizados determinar emisiones másicas gases partículas contaminantes seguidos ejemplos
 Téngase tolerancia tiempo segundos incluye tiempo tarda cambiar marcha caso margen adaptarse ciclo
@@ -2187,7 +2172,6 @@ Número condición
 Velocidad vehículo kmh
 velocidad directa
 Potencia absorbida freno
-
 correspondiente configuración ensayo tipo kmh
 correspondiente condición multiplicada coeficiente
 MÉTODO ENSAYO
@@ -2278,7 +2262,6 @@ Temperatura ambiente °C
 Conducción preacondicionamiento
 Tipo partes
 Tinic °C
-
 Estabilización
 Temperatura ambiente °C
 Conducción ensayo tipo
@@ -2289,12 +2272,10 @@ Tipo
 Máx min
 Ensayo parada caliente
 Tmín °C
-
 °C °C horas
 Ensayo diurno
 Tmín ΔT
 Veinticuatro horas ensayos diurnos
-
 Notas
 Familias control emisiones evaporación aclaraciones
 emisiones escape medirse ciclo conducción ensayo tipo utilizarán fines legislativos
@@ -2549,7 +2530,6 @@ Método enfriamiento forzado
 Método enfriamiento ambiental
 hora
 Ensayo emisiones escape baja temperatura Punto
-
 Combustible ensayo
 combustible ensayo deberá cumplir especificaciones figuran apartado anexo
 PREACONDICIONAMIENTO VEHÍCULO
@@ -2702,7 +2682,6 @@ Presión vapor Reid
 Destilación
 punto ebullición inicial
 evaporado °C
-
 evaporado °C
 punto ebullición
 Residuo
@@ -2716,7 +2695,6 @@ Relación carbono hidrógeno
 informe
 Período inducción
 Contenido oxígeno
-
 Goma existente
 Contenido azufre
 Corrosión cobre clase
@@ -2842,7 +2820,6 @@ Masa monóxido carbono CO
 Masa hidrocarburos totales HCT
 Masa óxidos nitrógeno NOx
 Masa partículas MP
-
 Requisitos supervisión vehículos equipados motor encendido chispa
 cumplir requisitos punto sistema diagnóstico bordo deberá supervisar mínimo elementos figuran continuación
 reducción eficacia convertidor catalítico emisiones HC únicamente
@@ -3038,7 +3015,6 @@ valores emisiones regeneración Mri calcularán arreglo anexo apartado
 registrará número ciclos funcionamiento medidos regeneración completa
 Cálculo emisiones escape combinadas
 Mri
-
 contaminante considerado
 sij
 emisiones másicas contaminante km ciclo funcionamiento tipo ciclo equivalente banco ensayo motores regeneración rij
@@ -3066,8 +3042,6 @@ Carga vehículo
 Vehículos cargan
 Vehículos cargan
 Conmutador funcionamiento
-
-
 MÉTODOS ENSAYO TIPO
 Vehículos cargan exterior conmutador funcionamiento
 realizarán ensayos condiciones siguientes
@@ -3107,7 +3081,6 @@ dispositivo acumulación energía potencia eléctrica vehículo descargará cond
 vehículo alcanzar velocidad constante kmh ponga marcha motor combustible reducirá velocidad vehículo funcionar velocidad inferior constante motor combustible ponga marcha tiempo distancia establecidos servicio técnico fabricante
 compararán resultados ensayo límites establecidos punto presente Reglamento calculará promedio emisiones contaminante condición
 efectos comunicación valores ponderados calcularán
-
 emisión másica contaminante km
 promedio emisión másica contaminante km dispositivo acumulación energía potencia eléctrica completamente cargado calculado punto
 promedio emisión másica contaminante km dispositivo acumulación energía potencia eléctrica carga mínimo máxima descarga capacidad calculado punto
@@ -3236,7 +3209,6 @@ ensayo consistirá ciclos urbanos elementales conducción correspondientes ensay
 combustible diseñado motor gasolina gasóleo gas natural GLP etc vehículos bicombustible agruparse combustible específico combustibles común
 INICIO
 Inicio
-
 mínimo
 realizarse ensayo tipo III llevará cabo vehículos seleccionados ensayo conformidad producción tipo Deberán cumplirse condiciones establecidas punto
 hacerse demostrando acumulado mínimo km demostrarse empleará procedimiento descrito continuación
@@ -3935,7 +3907,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil

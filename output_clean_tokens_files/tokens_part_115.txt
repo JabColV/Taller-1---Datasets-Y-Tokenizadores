@@ -214,7 +214,6 @@ Quesos conservables franceses
 denominación origen controlada tipos beaufort comté
 etiqueta roja tipo emmental grand cru
 clase tipos emmental gruyère
-
 junio septiembre
 octubre marzo
 Quesos conservables alemanes
@@ -538,7 +537,6 @@ DO
 Reglamento modificado lugar Reglamento CE Comisión DO
 DO
 Reglamento modificado lugar Reglamento CE DO
-
 cooperación Gobierno República Sudáfrica Comunidad Europea Energía Atómica Euratom ámbito usos pacíficos energía nuclear
 Gobierno República Sudáfrica sucesivo denominada Sudáfrica Comunidad Europea Energía Atómica Euratom sucesivo denominada Comunidad sucesivo denominados conjuntamente Partes
 CONSIDERANDO relaciones amistosas cooperación existentes Partes
@@ -1048,8 +1046,6 @@ exención surtirá efecto relación partes fecha indica columna Fecha efecto
 Lista partes quedar exentas
 Exención arreglo Reglamento CE
 Artículo
-
-
 Firma Wielobranżowa Mexller Artur Nowak
 Artículo
 Quedan rechazadas solicitudes exención derecho antidumping ampliado presentadas arreglo artículo Reglamento CE partes citan cuadro
@@ -1213,7 +1209,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados azucarados edulcorados
@@ -1871,7 +1866,6 @@ Directiva CE Parlamento Europeo Consejo julio relativa cualificación inicial fo
 Directiva CE Parlamento Europeo Consejo diciembre establecen prescripciones técnicas embarcaciones navegación interior DO
 Directiva CE Parlamento Europeo Consejo diciembre permiso conducción DO
 ANEXO
-
 TRANSPORTE CARRETERA
 lista artículo apartado Directiva CEE texto relativo Francia inserta texto
 Croacia
@@ -1897,7 +1891,6 @@ lista letra texto página contendrá texto Ceadúas Tiomána inserta texto
 Vozačka dozvola
 letra texto página contendrá párrafo sustituye texto
 caso miembro desee redactar dichas inscripciones lengua nacional distinta lenguas siguientes alemán búlgaro castellano checo croata danés eslovaco esloveno estonio finés francés griego húngaro inglés italiano letón lituano maltés neerlandés polaco portugués rumano sueco elaborará versión bilingüe permiso utilizando lenguas mencionadas perjuicio restantes disposiciones presente anexo
-
 TRANSPORTE VÍA NAVEGABLE INTERIOR
 anexo Directiva CEE epígrafe GRUPO añade texto
 República Croacia
@@ -2624,7 +2617,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Blød hvede fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -2957,7 +2949,6 @@ ANEXO
 Código NC
 Designación mercancía
 Mucílagos espesativos algarroba semilla semillas guar modificados
-
 Jarabe untar jarabes transformar Rinse appelstroop
 Levaduras vivas ar jarabes transformar Rinse appelstroop
 Levaduras muertas
@@ -4787,7 +4778,6 @@ DO
 Reglamento modificado lugar Reglamento CE DO
 ANEXO
 Programa desglose presupuestario indicativo
-
 Programa
 programa oficial constará subprogramas
 subprograma departamento Martinica
@@ -4802,7 +4792,6 @@ medida vigilancia seguimiento amarillamiento letal cocotero
 medida gestión riesgo introducción organismos nocivos actividades turísticas
 medida establecimiento método biodescontaminación suelos contaminados clordecone HCH
 medida control específico hormiga mandioca
-
 Desglose presupuestario indicativo
 euros indicación diversas medidas prevén
 Subprogramas

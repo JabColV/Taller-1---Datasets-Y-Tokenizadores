@@ -820,7 +820,6 @@ Año
 Comisión intermediación anual
 Enfoque global
 Enfoque anual
-
 aplicable
 enfoque global aplica véase subsección
 constatarse compensación excesiva registrada finalizar año millones EUR inferior compensación millones EUR
@@ -1428,7 +1427,6 @@ excluye valor bienes servicios venden terceros comisión puesto agente recibe co
 referencia servicios reventa entiende producción actividades servicios derechos servicios predeterminados soportes físicos servicios
 valor compras bienes servicios reventa condiciones recibieron precio compra excluido IVA deducible impuestos deducibles ligados directamente volumen negocio
 Compras bienes servicios reventa condiciones recibieron aislarse contabilidad empresarial
-
 siguientes epígrafes contables método naturaleza gastos
 Materias primas bienes fungibles utilizados variación existencias bienes servicios
 siguientes epígrafes contables método función gastos
@@ -1839,7 +1837,6 @@ obstante tales activos reconocidos medida importe correspondiente activos relaci
 ejemplo fabricante productos químicos instalar procedimiento manipulación sustancias químicas cumplir requisitos producción almacenamiento sustancias químicas peligrosas mejoras realizadas reconocen activos medida recuperables empresa fabricar vender productos químicos
 inversiones protección ambiente suma variables
 gasto protección ambiente suma variables
-
 Inversión bruta bienes materiales
 Inversión maquinaria equipos vinculada tecnologías limpias tecnología integrada
 Gastos capital métodos tecnologías procesos equipos partes destinados evitar reducir cantidad contaminación generada fuente emisiones atmósfera efluentes residuos sólidos adaptación existentes reducir impacto medioambiental contaminantes actividades contaminantes
@@ -3339,7 +3336,6 @@ Sociedades anónimas
 Mutuas anexo VEmpresas cooperativas anexo VI
 Empresas públicas anexo VI
 Sucursales empresas cuya central situada país perteneciente EEE
-
 anexo IX
 Empresas título personal límite responsabilidad personal
 Sociedades anónimas privadas cotizadas bolsa responsabilidad limitada partícipes
@@ -3356,7 +3352,6 @@ Categoría entidades crédito
 Bancos autorizados
 Entidades crédito especializadas
 entidades crédito
-
 Residente
 residente
 residente UE
@@ -3442,7 +3437,6 @@ Número asalariados equivalentes tiempo completo
 Excepción parcial concedida
 Excepción parcial
 Ampliación requerida plazo transmisión
-
 Actividades pendientes
 NACE Rev grupo NACE Rev clase entidades crédito NACE Rev división
 ALEMANIA
@@ -3451,7 +3445,6 @@ NACE Rev sección
 NACE Rev clase grupo
 GRECIA
 Excepción concedida
-
 NACE Rev clase NACE Rev clase entidades crédito
 NACE Rev clase NACE Rev clase entidades crédito NACE Rev división
 FRANCIA
@@ -3500,21 +3493,13 @@ Sección IV Excepciones disposiciones anexo VIII
 Estadísticas anuales empresas relativas actividades NACE Rev división grupos división
 Estadísticas bienales empresas relativas actividades NACE Rev grupos
 Estadísticas bienales empresas relativas actividades NACE Rev grupos
-
-
-
-
 Desglose producto pendiente
-
 NACE Rev división grupos
-
 NACE Rev grupo
-
 NACE Rev clase
 NACE Rev división
 Desglose residencia cliente pendiente
 Excepción
-
 NACE Rev división grupos división
 NACE Rev grupos
 NACE Rev grupo
@@ -4960,8 +4945,6 @@ cuadro RT
 cálculo resistencia debida gradienteRG
 cuadro apéndice
 cálculo IIactualde fórmula apéndice
-
-
 Cálculo FPOR fórmula cuadro
 Cálculo sIIactual utilizando fórmula resultados
 Cálculo distancia fórmula
@@ -4979,7 +4962,6 @@ Verificación cumplimiento distancia parada admisible condiciones normales Sstan
 Conclusión excedido claramente valor límite admitir navegación corriente abajo limitación carga
 carga restringida determinarse conformidad punto continuación
 admisible navegación corriente abajo fórmula apéndice
-
 Consecuencia Puesto permitirse navegación corriente abajo desplazamiento
 peso muerto admisible perm
 Dwt formación

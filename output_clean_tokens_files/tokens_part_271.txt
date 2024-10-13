@@ -243,14 +243,6 @@ Cláusulas
 Apéndice
 referencia normas definición zonas sustancias
 Cláusulas
-
-
-
-
-
-
-
-
 ≤D
 MCS
 normas indicadas anteriormente anexo rigen condiciones visibilidad dirección circulación vía recta curvas radio superior normas aplican posición posiciones maquinista
@@ -275,7 +267,6 @@ Protección quitapiedras
 nd
 definirse formación tren evaluación unidad única
 materiales considerarse líneas corriente continua corriente alterna
-
 Decisión Consejo
 noviembre
 relativa celebración participación República Bulgaria Rumanía Espacio Económico Europeo Acuerdos conexos
@@ -811,7 +802,6 @@ Productos destinados alimentación animal
 Contenido máximo mg kg ppm piensos calculado base contenido humedad
 Mercurio
 Materias primas alimentación animal
-
 piensos producidos pescado transformación pescado animales acuáticos
 carbonato cálcico
 Piensos compuestos complementarios completos
@@ -983,7 +973,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -997,7 +986,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -1011,7 +999,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -1126,12 +1113,10 @@ DO
 Reglamento modificado lugar Reglamento CE DO
 ANEXO
 anexo Decisión CE añaden partes siguientes
-
 clasificación canales cerdo llevará cabo aparato denominado CSB ImageMeater
 CSB ImageMeater consiste concretamente cámara vídeo PC equipado tarjeta análisis imágenes pantalla impresora mecanismo mando mecanismo cálculo interfaces
 variables ImageMeater medirán línea divisoria valores medidos convertidos estimación porcentaje carne magra unidad central
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor tocino medido método ZP espesor mínimo milímetros incluida piel músculo glúteo
 MG espesor tocino milímetros músculo glúteo
@@ -1145,7 +1130,6 @@ VbV espesor músculo milímetros vértebra lumbar
 VcV espesor músculo milímetros vértebra lumbar
 VdV espesor músculo milímetros vértebra lumbar
 fórmula válida canales peso comprendido kilogramos
-
 clasificación canales cerdo llevará cabo aparato denominado VCS
 VCS basa análisis imágenes vídeo digitales
 principales componentes cámaras lámparas ordenador análisis imágenes PC servidor unidades posicionamiento
@@ -3162,7 +3146,6 @@ artículo añade párrafo
 Suiza participará plenamente consejo administración derechos obligaciones miembros Unión Europea derecho voto
 artículo añade apartado
 Suiza participará contribución financiera prevista apartado letra arreglo fórmula
-
 presupuesto Agencia cubierta tasas ingresos mencionados apartado letras
 número asociados
 número miembros UE
@@ -3350,7 +3333,6 @@ Reglamento CE
 Reglamento Parlamento Europeo Consejo febrero establecen normas comunes compensación asistencia pasajeros aéreos caso denegación embarque cancelación retraso vuelos deroga Reglamento CEE
 Artículos
 Reglamento Parlamento Europeo Consejo julio derechos personas discapacidad movilidad reducida transporte aéreo
-
 Directiva Consejo octubre reestructura régimen comunitario imposición productos energéticos electricidad
 Artículo apartado letra apartado
 Anexos
@@ -4716,7 +4698,6 @@ operadores
 Conclusiones relativas régimen control producción ecológica
 Retirada autorización
 Medidas adoptadas garantizar funcionamiento sistema control producción ecológica cumplimiento
-
 fecha
 Balance funcionamiento general régimen control producción ecológica
 Productores agrícolas incluye productores agrícolas productores transformadores productores importadores productores mixtos clasificados
@@ -4729,7 +4710,6 @@ Examen documentos pertinentes carácter general describen estructura funcionamie
 Auditoría administrativa organismo control particular comprobación expedientes operadores verificación tratamiento incumplimientos reclamaciones incluida frecuencia control mínima utilización enfoque basado riesgos visitas anunciadas seguimiento política muestreo intercambio información organismos autoridades control
 Auditoría revisión inspección operador autoridad competente verificar procedimientos seguidos conformes procedimientos operativos organismo control verificar eficacia
 Auditoría observación directa observación autoridad competente inspección realizada inspector organismo control
-
 Reglamento CE Comisión
 abril
 fija restituciones exportación sector carne aves corral
@@ -4807,10 +4787,8 @@ indicado preceptos constitucionales indicado preceptos constitucionales
 Corrección errores Reglamento CE Consejo noviembre mantiene congelación capitales relación Sr Milosevic personas entorno derogan Reglamentos CE artículo Reglamento CE
 Diario Oficial Comunidades Europeas noviembre
 página anexo entrada
-
 Mircic Miroslav
 Serbios Diáspora
-
 Ministro Serbios Diáspora
 página anexo entrada
 Mladenovic Slavoljub
@@ -4822,17 +4800,12 @@ Asistente Ministro Minería Energía
 Negovanovic Milojko
 Asistente Ministro Minería Energía
 página anexo entrada
-
 Uglesic Miladin
-
 Ugljesic Miladin Belgrado
-
 página anexo entrada
 Bozinovic Slavisa
 Jefe Regional SRS Partido Radical Serbio Majdanpek miembro Comité Central SPS Partido Socialista Serbia
 Jefe Regional SPS Partido Socialista Serbia Majdanpek miembro Comité Central SPS
-
-
 página anexo entrada
 Koprivica Miograd
 Miembro Dirección JUL Izquierda Unida Yugoslava
@@ -4847,7 +4820,6 @@ Presidente Srbijasuma
 Presidente Srbijasume
 Industrias Dunavski Nis
 página anexo entrada
-
 Arandjelovic Zoran
 Arandjelovic Zoran
 Duvanska Industrija Nis

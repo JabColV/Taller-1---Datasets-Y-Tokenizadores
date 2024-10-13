@@ -1512,7 +1512,6 @@ Secreto comercial
 Gesetz über die Regulierung der Telekommunikation und des Postwesens septiembre BGBl
 Verordnung zur Regelung der Pflichtleistungen der Deutschen Bundespost POSTDIENST enero BGBI
 PostUniversaldienstleistungsverordnung diciembre BGBl
-
 Bundesnetzagentur Duodécima investigación mercado septiembre
 ingresos totales Deutsche Post período ingresos totales período
 artículo PostG dispone envío mínimo cartas expiración derecho exclusivo sometido control precios ex ex post
@@ -1609,7 +1608,6 @@ Ingresos servicios regulados
 servicios regulados
 Ayuda incompatible mercado interior
 Diferencia tipos cotización
-
 Notas
 Líneas Datos tipos cotizaciones seguridad social
 líneas muestran tipos cotizaciones pagar empresas regímenes seguridad social desglosados cuota empresarial cuota trabajador
@@ -3400,7 +3398,6 @@ Uzbekistán
 Belarús Kirguistán Mongolia Tayikistán Turquía
 Canadá Columbia Británica Kazajstán
 Rusia
-
 Bahréin
 Especímenes especies incluidas anexo Reglamento CE cuya introducción Unión queda suspendida
 Hexaprotodon liberiensis sinónimo Choeropsis liberiensis
@@ -3885,7 +3882,6 @@ Queso pasta azul quesos veteado producido efecto Penicillium roqueforti
 Bergkäse appenzell
 Fromage fribourgeois vacherin mont d’or tête moine
 Queso oveja búfala
-
 Superior exceder
 Superior exceder
 Superior exceder
@@ -4995,6 +4991,5 @@ Código producto
 Destino
 Unidad medida
 Importe restitución
-
 Reglamento CE Comisión
 febrero

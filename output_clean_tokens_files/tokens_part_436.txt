@@ -1102,7 +1102,6 @@ valor expresarse decimales
 continuación calcularse valor energía utilizada suma valores dividida
 ahorro energía obtenido calcularse fórmula
 Fórmula ΔP
-
 ΔP ahorro energía
 energía tecnología referencia
 valor energía ecoinnovación utilizada
@@ -1648,9 +1647,7 @@ precio fijado calidad tipo mencionada artículo Reglamento CEE
 Corrección errores Reglamento CE Parlamento Europeo Consejo mayo modifica Reglamento CE Consejo normas medidas seguridad datos biométricos pasaportes documentos viaje expedidos miembros
 Diario Oficial Unión Europea junio
 sumario cubierta página título
-
 Reglamento CE Parlamento Europeo Consejo mayo
-
 Reglamento CE Parlamento Europeo Consejo mayo
 Reglamento CE Comisión
 mayo
@@ -2036,7 +2033,6 @@ denominación fibra seguida porcentaje peso
 denominación fibra seguida indicación mínimo
 composición porcentual completa producto
 producto textil compuesto fibras alcance peso designará denominación porcentaje peso fibras tengan porcentajes mayores seguida enumeración denominaciones fibras componen producto orden decreciente peso indicación porcentaje peso
-
 conjunto fibras separado supongan composición producto designarse expresión fibras seguida porcentaje global
 caso especificase denominación fibra composición producto mencionará composición porcentual completa producto
 productos contengan urdimbre algodón puro trama lino puro cuyo porcentaje lino inferior peso tela encolar designarse denominación mezclado completada obligatoriamente indicación composición urdimbre algodón purotrama lino puro
@@ -2373,7 +2369,6 @@ Amianto
 Hilo papel
 porcentaje convencional aplicará casos afirmar producto textil contiene lana pelo pertenece proceso peinado proceso cardado
 ANEXO VI
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CE Parlamento Europeo Consejo
@@ -2391,7 +2386,6 @@ DO
 Únicamente anexo punto
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -2699,19 +2693,14 @@ Nivel agregación NACE Rev
 Secciones NACE Rev
 Descripción
 Agricultura ganadería silvicultura pesca
-
 Industrias extractivas industria manufacturera suministro energía eléctrica gas vapor aire acondicionado suministro agua actividades saneamiento gestión residuos descontaminación
 Construcción
-
 Comercio menor reparación vehículos motor motocicletas transporte almacenamiento hostelería
 Información comunicaciones
 Actividades financieras seguros
 Actividades inmobiliarias
-
 Actividades profesionales científicas técnicas actividades administrativas servicios auxiliares
-
 Administración Pública defensa Seguridad Social obligatoria educación actividades sanitarias servicios sociales
-
 Actividades artísticas recreativas entretenimiento servicios
 ANEXO
 Modalidades estructura informes calidad presentar miembros
@@ -3159,9 +3148,7 @@ presente licencia autoriza
 efectuar transporte profesional transfronterizo carretera fondos euros trayectos partes trayectos realizados territorio Unión arreglo dispuesto Reglamento UE Parlamento Europeo Consejo noviembre relativo transporte profesional transfronterizo carretera fondos euros miembros zona euro Reglamento UE Consejo ampliación ámbito aplicación Reglamento UE Parlamento Europeo Consejo conformidad disposiciones generales presente licencia
 Observaciones particulares
 presente licencia válida período años
-
 Expedida
-
 signos distintivos miembros BE Bélgica BG Bulgaria CZ República Checa DK Dinamarca Alemania EE Estonia IE Irlanda Grecia España FR Francia IT Italia CY Chipre LV Letonia LT Lituania LU Luxemburgo HU Hungría MT Malta NL Países Bajos AT Austria PL Polonia PT Portugal RO Rumanía Eslovenia SK Eslovaquia FI Finlandia Suecia UK Reino Unido
 Nombre razón social dirección completa empresa transporte fondos
 DO
@@ -3968,7 +3955,6 @@ elemento engloba costes costes red costes energía suministro impuestos
 tipo costes deberán comunicarse separado
 consumidores industriales finales incluir consumidores residenciales
 ANEXO III
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -3987,7 +3973,6 @@ DO
 Artículo refiere Directiva CEE anexo punto letras
 Decisión CE Comisión
 DO
-
 Plazos incorporación Derecho interno
 Directivas
 Plazo incorporación
@@ -4071,18 +4056,15 @@ Excelente
 Cadera abultada
 cara interna pierna extiende ampliamente sínfisis symphisis pelvis
 Lomo ancho grueso altura paletilla
-
 Cadera abultada
 cara interna pierna extiende sínfisis symphisis pelvis
 Lomo ancho grueso altura paletilla
 rumsteak abultado
 Paletilla abultada
-
 Cadera desarrollada
 cara interna pierna rumsteak ligeramente abultados
 Lomo grueso ancho altura paletilla
 Paletilla desarrollo
-
 Cadera desarrollo
 Lomo grosor
 rumsteak rectilíneo
@@ -4589,12 +4571,10 @@ PRESUPUESTO PROGRAMAS APOYO
 contemplados artículo apartado
 miles EUR
 Ejercicio presupuestario
-
 límites máximos nacionales Italia contemplados anexo VIII Reglamento CE correspondientes años reducirán millones EUR incluido importes presupuesto destinados Italia ejercicios presupuestarios quedan establecidos cuadro
 ANEXO III
 DOTACIÓN PRESUPUESTARIA DESARROLLO RURAL
 artículo apartado
-
 Reglamento CE Comisión
 enero
 establecen valores globales importación determinación precio entrada determinadas frutas hortalizas
@@ -4878,7 +4858,6 @@ Gastos
 Ingresos asignados
 Fondo azúcar
 Artículo
-
 Gastos
 Ingresos asignados
 reducciones suspensiones contabilizadas sistema pagos correcciones incumplimiento plazos pago agosto septiembre octubre

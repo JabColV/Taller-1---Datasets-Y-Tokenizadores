@@ -576,7 +576,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -590,7 +589,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -604,7 +602,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -748,7 +745,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -799,7 +795,6 @@ estuvieron libres leucosis enzoótica bovina animal especie bovina mostrado sign
 animal especie bovina mostrado signos clínicos rinotraqueítis infecciosa bovina vulvovaginitis purulenta infecciosa meses anteriores
 embriones destinados exportación concebidos inseminación artificial utilizando esperma procedente centros recogida almacenamiento esperma autorizados recogida tratamiento almacenamiento esperma autoridad competente tercer país figura anexo Decisión Ejecución UE Comisión autoridad competente miembro
 Notas
-
 Casilla Persona responsable partida UE casilla rellenarse únicamente certificado mercancía tránsito
 Casilla Lugar origen corresponderá equipo recogida embriones autorizado enviados embriones Unión figura conformidad artículo apartado Directiva CEE sitio web Comisión httpeceuropaeufoodanimalsemenovabovineovaembryosenhtm
 Casilla Número bultos corresponderá número recipientes
@@ -928,11 +923,9 @@ Reglamento modificado lugar Reglamento CE DO
 Corrección errores Directiva CE Parlamento Europeo Consejo septiembre relativa servicios información fluvial SIF armonizados vías navegables interiores Comunidad
 Diario Oficial Unión Europea septiembre
 página artículo apartado letras
-
 establecimiento realizará arreglo calendario
 directrices SIF tardar junio
 especificaciones técnicas sistemas seguimiento ubicación tardar diciembre
-
 establecimiento realizará arreglo calendario
 directrices SIF tardar julio
 especificaciones técnicas sistemas seguimiento ubicación tardar enero
@@ -1402,7 +1395,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Blød hvede fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -2152,7 +2144,6 @@ dispositivo especial neumático deberá equipado depósito aire comprimido prote
 capacidad depósito aire comprimido deberá calculada forma efectuar giros completos tope presión depósito descienda mitad presión funcionamiento prueba deberá realizarse ruedas directrices estén apoyadas suelo
 DO
 ANEXO II
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -2167,7 +2158,6 @@ DO
 Únicamente respecta referencias hechas artículo guión Directiva CEE
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -3217,7 +3207,6 @@ productos importados producidos empresa mencionada específicamente dispositiva 
 márgenes dumping perjuicio establecidos siguientes
 Margen dumping
 Margen perjuicio
-
 Empresas cooperaron incluidas muestra
 empresas
 Teniendo velas importan forma composiciones incluyen asimismo candeleros portavelas artículos apropiado determinar derechos forma cantidades fijas base contenido combustible velas incluida mecha forma medida apropiada motivo producto afectado

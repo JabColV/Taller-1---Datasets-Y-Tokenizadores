@@ -2356,7 +2356,6 @@ envasados marcados almacenados transportados conformidad capítulos VI VII VIII 
 proceden especies tóxicas contengan biotoxinas
 superado satisfactoriamente pruebas organolépticas parasitológicas químicas microbiológicas establecidas categorías productos pesqueros Directiva CEE correspondientes decisiones aplicación
 inspector oficial abajo firmante declara conocimiento disposiciones Directivas CEE CEE Decisión CE
-
 lugar fecha
 Sello oficial
 Firma inspector oficial
@@ -2458,19 +2457,11 @@ Características químicas betaglucanos levadura Saccharomyces cerevisiae
 Forma soluble
 Forma insoluble
 Hidratos carbono totales
-
-
 Betaglucanos
 Cenizas
-
-
 Humedad
-
 Proteínas
-
-
 Grasas
-
 ANEXO II
 Categoría alimentos
 Dosis

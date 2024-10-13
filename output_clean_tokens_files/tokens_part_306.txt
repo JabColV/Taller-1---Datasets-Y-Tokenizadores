@@ -155,8 +155,6 @@ hoja cuaderno diario pesca
 Destino
 Puerto
 País
-
-
 Mes
 Hora
 Año
@@ -246,7 +244,6 @@ Peso kg
 Especies
 Tipo producto Vivo
 Nombre firma patrón buque pesquero titular almadraba titular granja
-
 Nombre firma patrón buque receptor remolcador buque factoría buque transporte
 autorización transferencia granja
 Decisión Parlamento Europeo
@@ -299,12 +296,9 @@ Insta Agencia mejore cooperación reguladores nacionales particular vistas garan
 Remite relación observaciones carácter horizontal acompañan decisión aprobación gestión Resolución abril rendimiento gestión financiera control Agencias
 Informe anual actividades ACER pp
 Textos aprobados PTA véase página presente Diario Oficial
-
 Unión Europea Gobierno Región Administrativa Especial Macao República Popular China determinados aspectos servicios aéreos
 UNIÓN EUROPEA sucesivo denominada Unión
-
 GOBIERNO REGIÓN ADMINISTRATIVA ESPECIAL MACAO REPÚBLICA POPULAR CHINA sucesivo denominada RAE Macao debidamente autorizado Gobierno popular central República Popular China celebrar presente
-
 sucesivo denominadas Partes
 OBSERVANDO celebrado acuerdos bilaterales servicios aéreos miembros Unión RAE Macao incluyen disposiciones contrarias legislación Unión
 OBSERVANDO Unión competencia exclusiva aspectos incluirse acuerdos bilaterales servicios aéreos miembros Unión terceras partes
@@ -1051,18 +1045,8 @@ Artículo
 Establecimiento zonas restricción pesca proteger hábitats sensibles aguas profundas
 Queda prohibida pesca rastras redes arrastre fondo zonas circunscritas líneas unen siguientes coordenadas
 Zona restringida pesca aguas profundas arrecifes Lophelia frente Capo Santa Maria di Leuca
-
-
-
-
 Zona restringida pesca aguas profundas filtraciones frías hidrocarburos zona delta Nilo
-
-
-
-
 Zona restringida pesca aguas profundas monte submarino Eratóstenes
-
-
 miembros adoptarán medidas necesarias protección hábitats sensibles aguas profundas zonas refiere apartado particular velarán protección zonas impactos actividad distinta pesquera ponga peligro conservación elementos caracterizan hábitats particulares
 Artículo
 Dimensiones mínimas malla redes arrastre desplegadas actividades locales estacionales pesca redes arrastre fondo
@@ -1327,59 +1311,19 @@ Zonas veda
 Queda prohibida actividad pesquera buques comunitarios relación especies contempladas Convenio SEAFO zonas definen continuación
 Subdivisión
 Monte submarino Dampier
-
-
-
-
 Monte submarino Malahit Guyot
-
-
-
-
 Subdivisión
 Monte submarino Molloy
-
-
-
-
 División
 Montes submarinos Schmidt Ott Erica
-
-
-
-
 Monte submarino Africana
-
-
-
-
 Monte submarino Panzarini
-
-
-
-
 Subdivisión
 Monte submarino Vema
-
-
-
-
 Monte submarino Wust
-
-
-
-
 División
 Montes submarinos Discovery Junoy Shannon
-
-
-
-
 Montes submarinos Schwabenland Herdman
-
-
-
-
 Artículo
 Reanudación pesca zona veda
 reanudará actividad pesquera zonas veda refiere artículo pabellón identificado cartografiado ecosistemas marinos vulnerables zona incluidos montes marinos fuentes hidrotermales corales aguas frías llevado cabo evaluación impacto eventual reanudación pesca ecosistemas marinos vulnerables
@@ -1798,7 +1742,6 @@ Merlangius merlangus
 Merluza
 HKE
 Merluccius merluccius
-
 Dissostichus eleginoides
 DGS
 Squalus acanthias
@@ -1806,7 +1749,6 @@ LIN
 Etmopterus spinax
 BLI
 Gobionotothen gibberifrons
-
 Lepidonotothen squamifrons
 HKE
 Notothenia rossii
@@ -1867,7 +1809,6 @@ Deania calcea
 ANEXO II
 ANEXO III
 MEDIDAS TÉCNICAS CONTROL TRANSITORIAS
-
 Atlántico norte incluido Mar Norte Skagerrak Kattegat
 Pesca arenque aguas CE zona CIEM IIa
 prohibido desembarcar conservar bordo arenque capturado aguas CE zona IIa períodos enero febrero mayo diciembre
@@ -1901,12 +1842,6 @@ obstante zonas definidas apartado coincidan zona definida apartado North West Ro
 Restricciones aplicables pesca bacalao zonas CIEM VI VII
 Zona CIEM VIa
 diciembre prohibida actividad pesquera zonas delimitadas líneas loxodrómicas unen siguientes posiciones calculadas sistema coordenadas WGS
-
-
-
-
-
-
 Zonas CIEM VII
 febrero marzo prohibida actividad pesquera siguientes rectángulos CIEM
 prohibición aplicará millas náuticas líneas base
@@ -1921,8 +1856,6 @@ febrero abril prohibido utilizar redes arrastre fondo redes tiro artes arrastre 
 costa oriental Irlanda costa oriental Irlanda Norte
 líneas rectas unen siguientes coordenadas geográficas
 punto situado costa oriental península Ards Irlanda Norte
-
-
 punto situado costa oriental Irlanda
 obstante dispuesto punto lugar período especifican
 autorizará redes arrastre demersal puertas condición lleve bordo tipo arte pesca tales redes
@@ -1930,22 +1863,10 @@ tengan dimensión malla mm mm mm mm
 pertenezcan categorías dimensión malla autorizadas
 contengan malla individual independientemente lugar red encuentre dimensión superior mm
 calen únicamente zona delimitada unir sucesivamente líneas loxodrómicas siguientes coordenadas
-
-
-
-
-
-
-
-
-
 autorizará redes arrastre seleccionadoras condición lleve bordo tipo arte pesca tales redes
 cumplan requisitos establecidos letra incisos iv
 características ajusten exigencias técnicas figuran anexo Reglamento CE Consejo febrero establecen medidas aplicables año vistas recuperación población bacalao Mar Irlanda división CIEM VIIa
 redes arrastre seleccionadoras utilizarse zona delimitada unir sucesivamente líneas loxodrómicas siguientes coordenadas
-
-
-
 aplicarán medidas técnicas conservación artículos Reglamento CE
 Utilización redes enmalle zonas CIEM IIIa IVa Vb VIa VIb VII XII
 efectos presente punto entenderá red enmalle red enredo arte compuesto paño red calada verticalmente agua
@@ -1991,105 +1912,18 @@ obstante prohibido capturar mantener bordo transbordar desembarcar cantidad agre
 Medidas provisionales protección hábitats vulnerables aguas profundas
 Estarán prohibidas pesca arrastre fondo pesca artes fijos incluidos redes enmalle fondo palangres fondo zonas delimitadas líneas loxodrómicas unen siguientes posiciones calculadas sistema coordenadas WGS Belgica Mound Provinceo
 montes submarinos Hecateo
-
-
-
-
 montes submarinos Faradayo
-
-
-
-
-
-
-
-
 cordillera submarina Reykjaneso
-
-
-
-
-
-
-
 montes submarinos Altairo
-
-
-
-
-
 montes submarinos Antialtairo
-
-
-
-
-
-
 Hatton Banko
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 North West Rockallo
-
-
-
-
-
-
-
-
-
-
-
-
 South West Rockall Empress of Britain Banko
-
-
-
-
 Logachev Moundo
-
-
-
-
-
-
 West Rockall Moundo
-
-
-
-
-
 Hovland Mound Provinceo
-
-
-
-
-
-
-
-
 NorthWest Porcupine Bank Zona IIo
-
-
-
 SouthWest Porcupine Banko
-
-
-
-
 buques pelágicos faenen zonas protegidas corales establecidas punto deberán figurar lista autorizada buques poseer licencia pesca especial deberá llevarse bordo
 Dichos permisos contendrán información requerida Reglamento CE deberán notificarse siguiendo normas definidas Reglamento CE establecen disposiciones aplicación Reglamento CE
 buques incluidos lista autorizada llevarán bordo artes pesca pelágicos exclusivamente
@@ -2101,7 +1935,6 @@ buques pelágicos hayan terminado faenar zona protegida corales establecida punt
 pesca especies pelágicas zona protegida corales establecida punto limitada bordo pescar redes tamaño malla comprendido mm mm mm mm
 Talla mínima almeja japonesa
 obstante dispuesto artículo Reglamento CE talla mínima almeja japonesa Ruditapes philippinarum mm
-
 Atlántico Centro Oriental
 Talla mínima pulpo
 talla mínima pulpo Octopus vulgaris aguas marítimas soberanía jurisdicción terceros países situadas zona CPACO Comité Pesca Atlántico Centro Oriental FAO eviscerado
@@ -2110,7 +1943,6 @@ Condición determinadas pesquerías nasas zona IXa Galicia Occidental
 obstante prohibición establecida artículo ter apartado Reglamento CE pesca nasas capturen cigalas permitida zonas geográficas período establecen artículo ter apartado letra Reglamento CE
 Condiciones pesca arenque zona VIa Butt of Lewis
 disposiciones establecidas artículo apartado letra Reglamento CE aplicarán
-
 Océano Pacífico oriental
 Redes cerco jareta zona regulación Comisión Interamericana Atún Tropical CIAT
 prohibirá pesca rabil Thunnus albacares patudo Thunnus obesus listado Katsuwonus pelamis cerqueros jareta agosto septiembre noviembre diciembre zona delimitada siguientes líneas
@@ -2122,7 +1954,6 @@ miembros interesados notificarán Comisión período veda elegido julio
 cerqueros jareta dichos miembros deberán interrumpir pesca redes cerco jareta período zona indicada
 cerqueros jareta pesquen atún zona regulación CIAT conservarán bordo posteriormente desembarcarán patudo rabil listado hayan capturado considere apto consumo humano razones distintas tamaño
 única excepción lance marea quede bodegas espacio suficiente acomodar atunes capturen
-
 Océano Pacífico oriental Océano Pacífico central occidental
 Medidas especiales Océano Pacífico oriental central occidental
 cerqueros jareta liberarán inmediatamente medida daño tortugas mar tiburones marlines rayas mahimahis especies principales capturadas Océano Pacífico oriental central occidental
@@ -2134,7 +1965,6 @@ caso suba bordo tortuga aplicarán medios adecuados recuperación devolverla agu
 buques atuneros verter mar bolsas sal tipo basura plástica
 liberarán tortugas marinas atrapadas dispositivos concentración peces DCP artes pesca
 asimismo fomentará recuperación dispositivos concentración peces DCP estén utilizados pesca
-
 Océano Atlántico nororiental
 Medidas especiales pesca gallineta nórdica aguas internacionales zonas CIEM II
 aplicarán siguientes medidas pesca gallineta nórdica Sebastes mentella aguas internacionales zonas CIEM II permitirá pesca dirigida gallineta nórdica período comprendido septiembre noviembre buques hayan practicado anteriormente pesca gallineta zona regulación Convenio Pesquerías Atlántico Nordeste CPANE
@@ -2152,7 +1982,6 @@ DO
 DO
 Reglamento cuya modificación constituye Reglamento CE DO
 ANEXO IV
-
 Límites cuantitativos aplicables licencias permisos pesca buques comunitarios faenen aguas determinados terceros países
 Zona pesca
 Pesquería
@@ -2453,7 +2282,6 @@ oficial exclusivamente Deberá completada puerto
 Nombre puerto
 Autorización concedida
 Sello
-
 IMPRESO CONTROL PUERTO PSC
 Número OMI
 Información capturas relativa buques cedentes
@@ -2547,7 +2375,6 @@ división
 división
 subzona
 división
-
 división
 división zonas jurisdicción nacional
 norte
@@ -2580,7 +2407,6 @@ Nótese datos facilitados presente documento únicamente fines informativos desc
 ANEXO XII
 Declaración transbordo SEAFO
 Número SEAFO
-
 Mes
 Hora
 Año
@@ -2695,9 +2521,6 @@ Débarquement
 Landed at
 in crew
 Date
-
-
-
 división
 Nombre buque indicativo llamada radio caso
 Identificación externa
@@ -2733,8 +2556,6 @@ buque dispondrá sistema informático gestión registrará potencia máxima util
 redes enmalle dimensión malla superior mm inferior mm calen aguas profundidad indicada cartas batimétricas inferior metros tengan máximo mallas profundidad coeficiente colgadura inferior estén provistas flotadores medios flotación equivalentes redes longitud máxima millas náuticas longitud redes caladas simultáneamente superior km buque tiempo inmersión máximo horas
 redes enredo dimensión malla superior mm calen aguas profundidad indicada cartas batimétricas inferior metros tengan máximo mallas profundidad coeficiente colgadura inferior estén provistas flotadores medios flotación redes longitud máxima km longitud redes caladas simultáneamente superior km buque tiempo inmersión máximo horas
 obstante excepción aplicará zona regulación CPANE
-
-
 NorthWest Porcupine Bank Zona Io
 Nombre apellidos capitán
 Nombre fois où engins ont été leau Number of times gear is shot
@@ -2924,7 +2745,6 @@ Turquía
 ACP
 Únicamente especie ovino doméstico ex ex ex
 Reducción derechos específicos
-
 carne cabrito
 carne caprino cabrito
 refiere caso orígenes incluidos ACP excluidos países mencionados cuadro
@@ -4140,7 +3960,6 @@ Reviste especial importancia Comisión lleve cabo consultas oportunas fase prepa
 preparar elaborar actos delegados Comisión garantizar documentos pertinentes transmitan Consejo oportuna adecuada
 virtud presente Decisión Consejo presentar respuesta innovadora factores mencionados coherente adaptada diversidad situaciones
 ADOPTADO PRESENTE DECISIÓN
-
 DISPOSICIONES GENERALES ASOCIACIÓN PAÍSES TERRITORIOS ULTRAMAR UNIÓN
 Capítulo
 Disposiciones generales
@@ -4246,7 +4065,6 @@ PTU miembros ligados Comisión crearán grupos trabajo funciones consultivas har
 Dichos grupos trabajo convocarse instancias Comisión miembro PTU
 Organizarán debates técnicos asuntos interesen particularmente PTU miembros vinculados completando trabajo haga Foro PTUUE consultas trilaterales
 Comisión presidirá Foro PTUUE consultas trilaterales grupos trabajo asumirá trabajo secretaría
-
 ÁREAS COOPERACIÓN DESARROLLO SOSTENIBLE ENMARCADAS ASOCIACIÓN
 ambiente cambio climático reducción riesgo catástrofes
 Artículo
@@ -4458,7 +4276,6 @@ contexto asociación cooperación materia turismo abarcar
 medidas destinadas definir adaptar desarrollar políticas turismo sostenible
 medidas acciones destinadas desarrollar mantener turismo sostenible
 medidas destinadas integrar turismo sostenible vida social cultural económica ciudadanos PTU
-
 COMERCIO COOPERACIÓN COMERCIAL
 TÍTULO
 DISPOSICIONES GENERALES

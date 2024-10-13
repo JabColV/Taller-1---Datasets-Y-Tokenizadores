@@ -35,7 +35,6 @@ Contribución UE
 Contribución terceros
 Ingresos totales
 punto anexo
-
 Referencia proyecto
 ACCIÓN
 ACCIÓN
@@ -108,7 +107,6 @@ pagos harán forma transacciones financieras efectivo amortización
 general gastos justificarán facturas oficiales
 gastos justificarán documentos contables documentos justificativos valor probatorio equivalente
 gastos identificables verificables
-
 inscribirán documentos contables beneficiario
 determinarán arreglo normas contables aplicables país esté establecido beneficiario prácticas contables habituales beneficiario materia costes
 declararán conformidad requisitos legislación social fiscal aplicable
@@ -582,7 +580,6 @@ Compuestos orgánicos volátiles COV
 productos acabados superarán siguientes valores emisión
 Sustancia
 Requisito
-
 Compuestos orgánicos totales gama retención
 COVT
 mg aire
@@ -2315,9 +2312,7 @@ Importe fijado contenido sacarosa
 Corrección errores Reglamento Ejecución UE Consejo agosto aplica Reglamento UE relativo medidas restrictivas Irán
 Diario Oficial Unión Europea agosto
 página anexo II quinta entrada Bank Tejarat columna Motivos
-
 Banco Tejarat banco facilitado directamente esfuerzos nucleares Irán ejemplo Banco Tejarat facilitó movimiento decenas millones dólares esfuerzo asistir persistente esfuerzo Organización Energía Atómica Irán designada Naciones Unidas adquirir mineral uranio concentrado OEAI principal organización iraní investigación desarrollo tecnología nuclear gestiona programas producción material fisible Banco Tejarat historial asistencia bancos iraníes designados participar actividades destinadas eludir sanciones internacionales ejemplo participando actividades empresariales compañías tapadera Grupo Industrial Shahid Hemmat
-
 Banco Tejarat banco
 facilitado directamente esfuerzos nucleares Irán
 ejemplo Banco Tejarat facilitó movimiento decenas millones dólares esfuerzo asistir persistente esfuerzo Organización Energía Atómica Irán OEAI designada Naciones Unidas adquirir mineral uranio concentrado
@@ -2648,7 +2643,6 @@ miembros circulación efectúa izquierda
 campo visión retrovisor exterior derecho deberá conductor atrás carretera plana horizonte situada derecha plano paralelo plano vertical longitudinal tangente extremo derecho anchura tractor conjunto tractorremolque
 DO
 ANEXO II
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -2661,7 +2655,6 @@ DO
 Únicamente respecta referencias hechas artículo guión Directiva CEE
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -3313,7 +3306,6 @@ Máxima solicitud
 Brasil
 Trimestral
 Tailandia
-
 Anual
 Preparados base carne aves corral excepción pavo
 País
@@ -3442,9 +3434,7 @@ prohexadiona cálcica
 expresados prohexadiona cálcica
 agosto
 julio
-
 autorizar usos regulador crecimiento vegetal
-
 aplicación principios uniformes anexo VI conclusiones informe revisión prohexadiona particular apéndices II aprobó Comité Permanente Cadena Alimentaria Sanidad Animal julio
 informe revisión incluyen datos identidad especificaciones sustancia activa
 inclusión prohexadiona denominada prohexadiona cálcica anexo Directiva CEE expira diciembre
@@ -3456,8 +3446,6 @@ perjuicio obligaciones virtud Directiva CEE derivan renovación inclusión susta
 Corrección errores Reglamento CE Comisión marzo fijan restituciones exportación sector leche productos lácteos
 Diario Oficial Unión Europea marzo
 página anexo tabla sexta línea cuarta columna Importe restituciones
-
-
 Corrección errores Decisión CE Parlamento Europeo Consejo octubre establece programa comunitario empleo solidaridad social Progress
 Diario Oficial Unión Europea noviembre
 página artículo apartado
@@ -3611,7 +3599,6 @@ Anexos solicitud
 Glosario abreviaturas
 Copias reimpresiones datos pertinentes publicados
 Informes estudio completos datos pertinentes publicados
-
 proceda citarse especificaciones adecuadas reconocidas escala internacional
 Reglamento Ejecución UE Comisión
 febrero

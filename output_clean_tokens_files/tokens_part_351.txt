@@ -201,7 +201,6 @@ curso correspondencia
 curso nocturno
 curso duración semanal inferior horas
 curso duración inferior año académico
-
 Importe matrícula
 persona mencionada recuadro beneficiaria beca estudios
 Cuantía beca
@@ -263,8 +262,6 @@ oficialmente reconocido
 corresponde programa oficialmente reconocido corresponde programa oficialmente reconocido
 Indicar períodos vacaciones
 vacaciones Navidad
-
-
 vacaciones Semana Santa
 vacaciones verano
 CERTIFICACIÓN APRENDIZAJE ESTUDIOS FORMACIÓN PROFESIONAL CONCESIÓN PRESTACIONES FAMILIARES
@@ -296,8 +293,6 @@ pensión completa
 media pensión
 propinas
 comidas
-
-
 recibe
 prestaciones
 Lugar trabajo
@@ -345,7 +340,6 @@ capaz ganarse vida
 incapaz ganarse vida continuar estudios formación profesional deficiencia física mental
 ama casa
 caso afirmativo
-
 condiciones labores hogar
 Observaciones
 Descripción persona examinada
@@ -424,7 +418,6 @@ conviviente
 Dirección
 Beneficiario prestaciones familiares
 Período solicita información
-
 Nombre dirección empleador
 Tipo actividad
 Institución afiliado anteriormente asegurado virtud actividad ajena
@@ -434,7 +427,6 @@ Dirección
 deberá cumplimentarla institución competente concesión prestaciones familiares afiliado asegurado anteriormente
 Certificamos asegurado cuyos datos figuran recuadro
 asegurado
-
 derecho prestaciones familiares
 derecho prestaciones familiares
 abonadas prestaciones familiares
@@ -467,12 +459,10 @@ separado
 conviviente
 Persona expide certificación
 Período refiere certificación
-
 Institución competente concesión prestaciones familiares
 Deberá cumplimentarla institución competente concesión prestaciones familiares afiliada anteriormente interesado
 Certificamos persona citada recuadro
 trabajador asalariado período
-
 persona citada recuadro
 ejerce actualmente actividad ajena dedica actividad laboral remunerada
 disfruta actualmente permiso parental
@@ -521,7 +511,6 @@ caso afirmativo especificar
 Autonomía
 niño sentarse ayuda
 Camina
-
 viste
 Come
 Escribe
@@ -551,7 +540,6 @@ inicio tratamiento
 accidente
 fecha accidente
 Discapacidades asociadas
-
 deficiencias
 observaciones
 Discapacidades familia
@@ -568,7 +556,6 @@ fecha
 Rehabilitación
 Inicio
 Frecuencia
-
 Logopedia
 Fisioterapia
 Terapia ocupacional
@@ -656,7 +643,6 @@ Letonia Valsts sociālās apdrošināšanas aģentūra Agencia estatal seguridad
 Polonia municipio distrito
 imparten
 Ingresos brutos personas enumeradas recuadros formulario período comprendido miembro distinto competente
-
 período
 programa estudios
 caso afirmativo porcentaje disminución
@@ -970,7 +956,6 @@ Notificación certificados importación expedidos
 miembro
 Aplicación artículo Reglamento CE
 Cantidades productos cuyos certificados importación utilizado
-
 Códigos producto
 Cantidad
 kilogramos peso producto número cabezas
@@ -1002,7 +987,6 @@ Lista contemplada artículo apartado
 Categoría
 Códigos productos
 ANEXO VII
-
 Indicaciones mencionadas artículo apartado
 búlgaro Сертификат валиден пет работни дни неизползваем за поставяне на обезкостено говеждо месо от възрастни мъжки животни от рода на едрия рогат добитък под режим митнически склад съгласно член от Регламент ЕО
 español Certificado válido hábiles utilizable colocar carne vacuno deshuesada bovinos machos pesados régimen depósito aduanero conformidad artículo Reglamento CE
@@ -1024,7 +1008,6 @@ rumano Licență valabilă timp cinci zile lucrătoare și care nu poate fi util
 esloveno Dovoljenje je veljavno pet delovnih dni in ne uporablja za dajanje odkoščenega mesa odraslega goveda moškega spola postopek carinskega skladiščenja skladu členom Uredbe št
 finés Todistus on voimassa viisi työpäivää
 sueco Licens giltig under fem arbetsdagar får inte användas för att låta urbenade styckningsdelar från fullvuxna handjur av nötkreatur omfattas av tullagerförfarandet enligt artikel förordning EG nr
-
 Indicaciones mencionadas artículo apartado
 búlgaro Прясно охладено или замразено говеждо или телешко месо Споразумение между ЕО САЩ
 español Vacuno fresco refrigerado congelado
@@ -1048,7 +1031,6 @@ eslovaco Čerstvé chladené alebo mrazené hovädzie mäso Dohoda medzi
 esloveno Sveže hlajeno in zamrznjeno goveje meso Sporazum med in ZDA
 finés Tuoretta jäähdytettyä tai jäädytettyä lihaa Euroopan yhteisön ja Yhdysvaltojen välinen sopimus
 sueco Färskt kylt eller fryst nötkött Avtal mellan EG och
-
 Indicaciones mencionadas artículo apartado
 búlgaro Прясно охладено или замразено говеждо или телешко месо Споразумение между ЕО Канада Валидно само страначленка издател
 checo Čerstvé chlazené nebo zmrazené hovězí maso Dohoda mezi Kanadou
@@ -1534,7 +1516,6 @@ visita in situ junio Comisión transmitido repetidas ocasiones autoridades Reino
 particular Comisión autoridades Reino Unido reunieron discutir asuntos julio audioconferencia julio
 septiembre celebraron audioconferencia participaron representantes laboratorio comunitario referencia residuos antibióticos
 autoridades Reino Unido informaron Comisión carta septiembre revisado posición pruebas realizadas indujo Comisión creer emprenderían actuación requerida
-
 septiembre OAV inspección locales Bowland comprobar procedimientos operativos puestos marcha inspección auditoría FSA
 inspectores OAV señalaron junio autoridades competentes Reino Unido comprobado in situ cumplieran condiciones operativas comunicadas Bowland
 encontrar deficiencias añadidas práctica antihigiénica reventar mecánicamente envases leche visita confirmó utilizándose leche cumple requisitos higiene establecidos legislación comunitaria
@@ -1625,10 +1606,8 @@ autoriza miembro Comisión responsable investigación representante designe firm
 Bruselas noviembre
 Comisión
 Miembro Comisión
-
 cooperación Comunidad Europea Energía Atómica Gobierno República Kazajstán ámbito fusión termonuclear controlada
 GOBIERNO REPÚBLICA KAZAJSTÁN sucesivo denominado Kazajstán
-
 COMUNIDAD EUROPEA ENERGÍA ATÓMICA sucesivo denominada Comunidad
 denominados general sucesivo Partes proceda
 CONSCIENTES Asociación Cooperación firmado enero Comunidades Europeas miembros Kazajstán Partes comprometieron fomentar cooperación mutua sector nuclear
@@ -2783,14 +2762,12 @@ solución acuosa
 Intervalo fusión
 °C °C
 NdimetilbutilLαaspartilLfenilalanina
-
 Plomo
 mg kg
 Autoridad Europea Seguridad Alimentaria evaluó información relativa seguridad neotamo edulcorante potenciador sabor emitió dictamen septiembre
 arreglo usos propuestos procede permitir utilización aditivo alimentario
 miembros pondrán vigor disposiciones legales reglamentarias administrativas necesarias cumplimiento establecido presente Directiva tardar marzo
 Comunicarán inmediatamente Comisión texto dichas disposiciones
-
 Reglamento UE Comisión
 agosto
 impone derecho antidumping provisional importaciones acetato vinilo originario Unidos América
@@ -2947,7 +2924,6 @@ cuadro refleja evolución importaciones procedentes terceros países
 Cuadro
 Volumen importaciones procedentes terceros países
 Arabia Saudí
-
 comienzo período considerado importaciones procedentes país afectado competían países Taiwán Ucrania Rusia
 período importaciones procedentes fuentes tradicionales reducido cero
 país exportador Arabia Saudí entró mercado Unión PI exportó torno PI
@@ -3384,9 +3360,7 @@ CICAP
 Rdiclorofenoxi ácido propanoico
 junio
 mayo
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión diclorpropP particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal mayo
 evaluación general miembros
 deberán atender especialmente protección aves mamíferos organismos acuáticos plantas destine producto

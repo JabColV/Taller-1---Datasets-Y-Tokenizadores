@@ -488,14 +488,9 @@ datos necesarios aplicación control seguridad
 información solicitada capítulos procede requerida tipos instalaciones mencionadas secciones presente anexo
 instalaciones inventario calculará suma existencias categoría materiales nucleares expresada porcentaje límites siguientes
 uranio empobrecido
-
-
 uranio natural
-
 uranio enriquecimiento
-
 uranio alto enriquecimiento
-
 ejemplo
 posesión gramos plutonio representa inventario porcentual
 posesión gramo uranio alto enriquecimiento gramos uranio natural representa inventario porcentual
@@ -761,7 +756,6 @@ Trióxido uranio UO
 Soluciones
 Nitrato
 Fluoruro
-
 Polvo
 Homogéneos
 Heterogéneo
@@ -773,7 +767,6 @@ Aleaciones
 Carburante
 Barras varillas
 Placas
-
 Elementos
 Fuentes selladas
 Pequeñas cantidades muestras
@@ -801,7 +794,6 @@ Contenedor transporte
 Botella
 Depósito contenedor
 MATERIAL STATE MATERIALES
-
 Materiales nucleares
 Materiales nucleares irradiados
 Residuos
@@ -1006,7 +998,6 @@ Lugar almacenamiento preparación materiales
 Fecha límite identificación materiales
 Fechas aproximadas envío
 Fechas previstas llegada
-
 Referencia contractual Agencia Abastecimiento
 Lugar fecha envío notificación
 Nombre cargo firmante
@@ -1165,10 +1156,6 @@ Período informe
 Código ZBM instalación receptora Nombre dirección instalación receptora
 Acondicionamiento
 Cantidad
-
-
-
-
 informe incluirá exportaciones envíos residuos descritos instalaciones territorios miembros período informe
 código ZBM deberá indicarse envíos instalaciones situadas territorio miembros nombre completo dirección deberán indicarse exportaciones instalaciones situadas territorio miembros desconozca código ZBM
 columna Acondicionamiento mostrará tipo envase residuos ejemplo vidrio cerámica cemento alquitrán
@@ -1218,7 +1205,6 @@ Bastará enviar escrito
 MBA ZBM
 código señala tipo isótopos fisionables deberá indicarse figure peso isótopos fisionables
 Deberá indicarse peso elemento refiere campo
-
 KMP PCM
 uranio enriquecimiento inferior superior producto peso kilogramos
 torio
@@ -1727,7 +1713,6 @@ obstante casos República Checa Estonia Chipre Letonia Lituania Hungría Malta P
 falta comunicación tipo interés deba aplicarse determinará base tipos interés referencia figuren anexo
 disponga tipos interés referencia correspondientes período referencia mencionado párrafo utilizarán tipos disponibles período referencia
 ejercicios tipo interés soportado miembro superior doble tipo interés uniforme fijado Comunidad cálculo tipo interés reembolsado presupuesto comunitario efectuará fórmula
-
 TR tipo interés reembolsado miembros
 TIU tipo interés uniforme
 TIC tipo interés comunicado miembro conforme dispuesto apartado párrafo tipo interés aplicable falta comunicación conforme dispuesto apartado párrafo
@@ -2791,9 +2776,7 @@ Corrección errores Decisión PESC Consejo abril relativa adhesión Unión Europ
 Diario Oficial Unión Europea junio
 página Instrumento Adhesión Tratado Amistad Cooperación Sudeste Asiático Unión Europea
 considerando
-
 CONSIDERANDO artículo apartado mencionado Tratado modificado artículo citado Tercer Protocolo establece organizaciones regionales cuyos miembros soberanos adherirse Tratado consentimiento Sudeste Asiático Brunéi Darussalam Reino Camboya República Indonesia República Democrática Popular Laos Malasia Unión Myanmar República Filipinas República Singapur Reino Tailandia República Socialista Vietnam
-
 CONSIDERANDO artículo apartado mencionado Tratado modificado artículo citado Tercer Protocolo establece Sudeste Asiático organizaciones regionales cuyos miembros soberanos adherirse Tratado consentimiento Sudeste Asiático Brunéi Darussalam Reino Camboya República Indonesia República Democrática Popular Laos Malasia República Unión Myanmar República Filipinas República Singapur Reino Tailandia República Socialista Vietnam
 suprime tercer considerando
 cuarto considerando
@@ -2923,7 +2906,6 @@ añade título
 TÍTULO IV ter
 Normas aplicables traslado domicilio social SCE
 Artículo ter
-
 SCE traslade domicilio social miembro
 relación traslado domicilio social miembro SCE residente miembro deje residente miembro pase serlo miembro
 traslado domicilio social término residencia dará lugar aplicación impuesto plusvalías calculadas arreglo artículo apartado miembro trasladado domicilio social derivados elementos activo pasivo SCE consecuencia queden efectivamente vinculados establecimiento permanente SCE situado miembro trasladado domicilio social contribuyan obtención resultados integrados base imponible impuestos
@@ -3601,9 +3583,7 @@ Reglamento modificado lugar Reglamento CE Euratom DO
 Corrección errores Reglamento UE Consejo julio modifican Reglamentos UE UE atañe protección Manta birostris determinadas posibilidades pesca
 Diario Oficial Unión Europea julio página artículo párrafo obstante dispuesto párrafo presente artículo artículo punto artículo puntos anexo punto anexo II punto aplicables febrero artículo punto aplicable marzo artículo punto artículo puntos anexo punto anexo II punto aplicables febrero artículo punto aplicable marzo
 página anexo II punto letra
-
 entrada correspondiente caballa zonas IIIa IV aguas UE zonas IIa IIIb IIIc subdivisiones sustituye texto
-
 entrada correspondiente caballa zonas IIIa IV aguas UE zonas IIa IIIb IIIc IIId sustituye texto
 página anexo II punto letra cifra correspondiente Unión
 entrada correspondiente locha blanca zona NAFO sustituye texto
@@ -4192,7 +4172,6 @@ investigación mostró coste producción papel fino estucado productores Unión 
 precio pulpa aumentó disminuyó considerablemente finales mes PI
 precio pulpa término inferior año
 ausencia dumping perjudicial esperarse precios adaptasen periódicamente reflejar evolución diversos componentes coste producción
-
 realidad productores Unión obligados mantener precios venta bajos precios pulpa aumentaron competir importaciones objeto dumping precio procedentes China trajo descenso significativo rentabilidad período
 PI situación mejoró anormal disminución precios pulpa precios papel fino estucado pudieron mantenerse estables tiempo
 período excepcional niveles beneficio bajos permitieron siquiera productores Unión cooperaron recuperarse efectos continuas prácticas dumping
@@ -4722,7 +4701,6 @@ aplica coeficiente reservas categorías pasivo siguientes definen Reglamento CE 
 aplica coeficiente reservas cesiones temporales pasivos vencimiento años incluidos base reservas
 pasivos frente BCE BCN entidades sujetas sistema reservas mínimas Eurosistema quedan excluidos base reservas
 sustituirá texto
-
 CUADRO
 FMM Saldos
 Series trimestrales
@@ -4752,7 +4730,6 @@ emitidos IFM
 emitidos instituciones distintas IFM
 suprimirá
 sustituirá texto
-
 Estadísticas intermediarios financieros fondos inversión sociedades instrumentales
 Sección
 Cuadros información

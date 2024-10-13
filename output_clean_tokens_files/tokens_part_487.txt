@@ -1579,7 +1579,6 @@ Riesgo financiero
 Garantía sólida
 Garantía moderada
 Garantía débil
-
 Moderado
 Alto
 margen interés préstamo concedido ADI Crist fijó
@@ -1684,7 +1683,6 @@ Márgenes créditos puntos básicos arreglo Comunicación tipos referencia
 Nivel colateralización
 Categoría calificación
 Alto
-
 Excelente AAAA
 BBB
 Satisfactoria BB
@@ -3022,7 +3020,6 @@ RVR Visibilidad despegue
 Instalaciones
 RVR Visibilidad
 Nota
-
 Luces borde pista marca eje pista
 Notas
 Luces borde pista eje pista
@@ -3134,7 +3131,6 @@ Intermedias
 Notas
 Básicas
 Notas
-
 Notas
 pies alturas superiores
 Operaciones piloto
@@ -3158,7 +3154,6 @@ Nota referencia Piloto automático acoplado DH cuadro significa utilización con
 requisitos aeronavegabilidad altura mínima conexión piloto automático afectar DH aplicable
 Nota utilizarse avión categoría esté efectuando aterrizaje automático
 Mínimos categoría II
-
 RVR Avión categorías
 RVR Avión categoría
 pies
@@ -3218,7 +3213,6 @@ operador garantizará utilice conversión visibilidad meteorológica RVR calcula
 Nota RVR notificado valor máximo fijado operador aeródromo ejemplo RVR superior considerará contexto RVR notificado utilizarse Tabla Conversión
 convierta visibilidad meteorológica RVR circunstancias punto operador garantizará utilice cuadro
 Cuadro
-
 Noche
 Iluminación intensidad aproximación pista
 luces
@@ -3767,8 +3761,6 @@ Alternativamente casos número asientos disponible aplicables valores masa adult
 efectos cuadro vuelo chárter vacaciones significa vuelo chárter prevé únicamente elemento paquete viaje vacaciones
 aplicarán valores masa chárter vacaciones asientos pasajeros instalados avión utilicen transporte gratuito categorías pasajeros
 Asientos pasajeros
-
-
 Hombres
 Mujeres
 adultos
@@ -3792,7 +3784,6 @@ Tipo vuelo
 Masa normalizada equipaje
 Nacional
 región europea
-
 operador desea utilizar valores normalizados masa distintos figuran cuadros anteriores deberá informar Autoridad motivos obtener aprobación previa
 deberá presentar aprobación plan detallado estudio pesaje aplicar método análisis estadístico incluye apéndice OPS
 verificación aprobación Autoridad resultados estudio pesaje valores normalizados masa revisados aplicables únicamente operador
@@ -3841,7 +3832,6 @@ Número aviones deberán pesarse obtener valores flota
 número aviones flota utilizan valores flota operador deberá mínimo período evaluaciones masa flota número determinado aviones define cuadro
 Número mínimo aviones flota
 Número mínimo pesajes
-
 elegir aviones pesarán deberían seleccionar aviones flota cuyo pesaje transcurrido período tiempo
 intervalo evaluaciones masa flota deberá exceder meses
 Procedimiento pesaje
@@ -4186,7 +4176,6 @@ Botiquines auxilios
 operador explotará avión esté equipado botiquines auxilios situados lugares accesibles arreglo baremo
 Número asientos pasajeros instalados
 Número botiquines auxilios necesarios
-
 operador garantizará botiquines auxilios
 inspeccionados periódicamente asegurarse medida contenido mantiene condiciones necesarias previsto
 reaprovisionados periódicamente instrucciones etiquetas justifiquen circunstancias
@@ -4258,7 +4247,6 @@ deberá disponer mínimo extintor portátil fácilmente accesible utilización c
 número extintores portátiles mínimo deberá convenientemente situado compartimentos pasajeros
 Configuración máxima aprobada asientos pasajeros
 Número extintores
-
 requieran extintores deberán distribuidos uniforme compartimento pasajeros
 mínimo extintores situados compartimento pasajeros aviones configuración máxima aprobada asientos pasajeros mínimo extintores situados compartimento pasajeros aviones configuración máxima aprobada asientos pasajeros deberán contener halón bromoclorodifluorometano CBrCIF equivalente agente extintor
 Hachas palancas pata cabra
@@ -4284,7 +4272,6 @@ operador explotará avión configuración máxima aprobada asientos pasajeros tr
 cabina pasajeros
 Configuración asientos pasajeros
 Número megáfonos requerido
-
 caso aviones cabina pasajeros configuración asientos pasajeros requerirá mínimo megáfono cabina
 Iluminación emergencia
 operador explotará avión transporte pasajeros configuración máxima aprobada asientos pasajeros disponga sistema iluminación emergencia dotado fuente alimentación independiente facilitar evacuación avión

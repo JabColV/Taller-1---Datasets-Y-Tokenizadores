@@ -67,7 +67,6 @@ Viviendas unifamiliares exentas
 Viviendas adosadas
 Bloques pisos
 Zona
-
 Terrenos urbanizar planificación urbana
 Terrenos reservados parques públicos
 precios estándar aplicaron propiedades inmobiliarias cartera terrenos KK momento transacción dividieron resultado precio compra acciones EUR
@@ -648,7 +647,6 @@ artículo párrafos agosto agosto sustituye agosto agosto
 tabla artículo sustituye
 Vegetales
 Período
-
 Artículo
 destinatarios presente Decisión miembros
 Bruselas diciembre
@@ -1287,12 +1285,7 @@ Volumen importaciones objeto dumping razones confidencialidad facilita índice
 Volumen importaciones objeto dumping razones confidencialidad facilita índice
 Importaciones totales millares unidades
 Cuota mercado importaciones objeto dumping
-
-
-
-
 Cuota mercado importaciones objeto dumping
-
 Precios medios importaciones objeto dumping
 EUR EUR
 EUR EUR
@@ -1314,20 +1307,14 @@ millones unidades
 milló unidades
 millones unidades
 Cuota mercado
-
-
 Precio importaciones
 EUR EUR
 Volumen importaciones procedentes Taiwán
 millones unidades
-
 EUR EUR
 Volumen importaciones procedentes resto mundo
 millones unidades
 millones unidades
-
-
-
 año período investigación reconsideración percibe ligero aumento importaciones originarias Malasia Taiwán
 conjunto importaciones terceros países podido aumentar cuota mercado importaciones originarias República Popular China penetrado éxito mercado comunitario
 comparan importaciones procedentes República Popular China papel importaciones procedentes terceros países relevante
@@ -1699,7 +1686,6 @@ Volumen inyección μl
 Procedimiento Inyectar solución cromatógrafo registrar cromatograma medir área pico αCD
 Calcular porcentaje αciclodextrina muestra ensayo
 αcyclodextrin materia seca AS AR WR WS
-
 As AR áreas picos debidos αciclodextrina solución muestra solución referencia respectivamente
 Ws WR pesos mg muestra ensayo αciclodextrina referencia respectivamente restado contenido agua
 Decisión Comité Mixto EEE
@@ -2728,7 +2714,6 @@ organismo intervención facilitará información necesaria características alco
 interesado obtener dirigiéndose organismo intervención trate muestras alcohol puesto venta tomadas representante organismo intervención
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos ocasionen controles contemplados apartado correrán empresas venda alcohol
@@ -3174,8 +3159,6 @@ Contribución UE
 Contribución terceros
 ingresos
 conforme punto anexo XI
-
-
 Referencia proyecto
 acción
 acción
@@ -3716,7 +3699,6 @@ Ahorro obligatorio pensión vejez
 Pensión basada ingresos pensión prima Ley
 Prestaciones proporcionales jubilación amparo secciones Ley nacional seguros National Insurance Act secciones Ley nacional seguros Irlanda Norte National Insurance Act Northern Ireland
 anexo IX queda modificado
-
 BÉLGICA
 DINAMARCA
 GRECIA
@@ -4104,7 +4086,6 @@ DO
 DO
 ANEXO
 PROGRAMA DESGLOSE PRESUPUESTARIO INDICATIVO
-
 Programa
 programa constará subprogramas
 subprograma interdepartamental
@@ -4117,7 +4098,6 @@ subprograma departamento Guadalupe
 medida gestión red vigilancia mosca fruta
 medida estudios fitosanitarios producción tomate
 medida gestión riesgo introducción organismos nocivos actividades turísticas
-
 Desglose presupuestario indicativo detallando diversas medidas prevén
 EUR
 Subprogramas

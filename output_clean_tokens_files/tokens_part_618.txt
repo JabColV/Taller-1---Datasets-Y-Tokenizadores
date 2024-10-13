@@ -296,9 +296,7 @@ Eslovaquia
 Corrección errores Reglamento UE Parlamento Europeo Consejo julio relativo competencia ley aplicable reconocimiento ejecución resoluciones aceptación ejecución documentos públicos materia sucesiones mortis causa creación certificado sucesorio europeo
 Diario Oficial Unión Europea julio
 página artículo apartado
-
 tardar enero miembros comunicarán Comisión
-
 tardar noviembre miembros comunicarán Comisión
 Reglamento Ejecución UE Comisión
 septiembre
@@ -604,7 +602,6 @@ coste público
 Importe gasto subvencionable certificado abonado beneficiarios
 Contribución pública correspondiente
 Porcentaje ejecución
-
 Eje prioritario
 Especifíquese Fondo
 gasto cargo FSE gasto cargo FEDER Gasto regiones perciben ayuda transitoria Gasto regiones perciben ayuda transitoria
@@ -614,7 +611,6 @@ gasto cargo FEDER
 Gasto regiones perciben ayuda transitoria
 Gasto regiones perciben ayuda transitoria
 Eje prioritario
-
 añadirá punto bis
 bis
 PROGRAMAS FEDER FONDO COHESIÓN PROYECTOS MEDIOAMBIENTALES INVERSIÓN SUPERIOR MILLONES EUROS INFERIOR MILLONES EUROS PROCEDE
@@ -638,7 +634,6 @@ Texto
 Nombre empresa
 disponible
 PYME
-
 Dimensión tema prioritario
 Códigos
 Dimensión tipo financiación
@@ -974,7 +969,6 @@ Publicidad
 Supervisión construcción
 Subtotal
 IVA
-
 costes subvencionables incluyen gastos período subvencionabilidad ii gastos subvencionables arreglo normas nacionales artículo apartado Reglamento CE iii gastos presentados cofinanciación
 NB fecha inicio subvencionabilidad gastos fecha recepción Comisión proyecto programa operativo enero
 reserva imprevistos exceder coste inversión neto dicha reserva
@@ -999,7 +993,6 @@ Fuentes cofinanciación
 Fuentes cofinanciación
 vista resultados cálculo déficit financiación proceda costes totales inversión proyecto cubrirán fuentes figuran continuación
 Fuente costes totales inversión
-
 información
 Ayuda Unión
 Pública nacional equivalente
@@ -2319,7 +2312,6 @@ equipo detección rastros explosivos ETD
 cámara simulación
 equipo detección metales
 continuación añadirá
-
 Líquidos aerosoles geles
 introducirse líquidos aerosoles geles zonas restringidas seguridad bordo aeronaves sometidos control estén exentos control conforme exigencias normas desarrollo adoptadas arreglo artículo apartado Reglamento CE
 tardar abril líquidos aerosoles geles obtenidos aeropuerto tercer país bordo aeronave transportista aéreo comunitario introducidos zonas restringidas seguridad bordo aeronave condición líquido transporte bolsa cumpla directrices materia control seguridad recomendadas Organización Aviación Civil Internacional líquidos geles aerosoles bolsa exhiba prueba satisfactoria compra realizada treinta horas previas zona operaciones aeropuerto bordo aeronave
@@ -2393,7 +2385,6 @@ mensualmente
 anualmente
 minutos
 horas
-
 Tiempo respuesta sistema segundos máximo
 caso sistema respete tiempo respuesta requerido miembro tomará medidas necesarias tiempo respuesta sistema vuelva normalidad
 Procedimiento mantenimiento miembro notificará miembros Comisión cualesquiera actividades mantenimiento herramienta Schedule Maintenance disponible portal web TACHOnet
@@ -2732,11 +2723,6 @@ Designación mercancía
 Período contingentario
 Volumen contingente anual artículos pares especifica cosa
 Pantalones largos pantalones peto pantalones cortos calzones shorts baño punto fibras sintéticas hombres niños
-
-
-
-
-
 período posterior
 Camisas punto algodón hombres niños
 Camisas punto materias textiles hombres niños
@@ -4335,7 +4321,6 @@ PRODUCTOS QUÍMICOS
 COOPERACIÓN ÁMBITOS JUSTICIA ASUNTOS INTERIOR
 COOPERACIÓN JUDICIAL MATERIA CIVIL MERCANTIL
 POLÍTICA VISADOS
-
 UNIÓN ADUANERA
 ADAPTACIONES TÉCNICAS CÓDIGO ADUANERO
 RELACIONES EXTERIORES
@@ -4435,7 +4420,6 @@ palabra correspondiente rúbrica
 Subsidio natalidad
 III anexo II Prestaciones especiales carácter contributivo refiere apartado ter artículo incluidas ámbito aplicación Reglamento queda modificada
 palabra correspondiente rúbrica
-
 anexo II bis Prestaciones especiales carácter contributivo artículo bis Reglamento queda modificado
 Pensión social vejez artículo Código Seguridad Social
 texto correspondiente rúbrica
@@ -4522,7 +4506,6 @@ Ejercicio actividad Finlandia actividad ajena miembro persona resida Finlandia
 Ejercicio actividad Eslovaquia actividad ajena miembro
 Ejercicio actividad Suecia actividad ajena miembro persona resida Suecia
 anexo VIII Artículo bis Reglamento Sistemas prevén subsidios familiares prestaciones suplementarias especiales huérfanos queda modificado
-
 Reglamento CEE Consejo marzo establecen modalidades aplicación Reglamento CEE relativo aplicación regímenes seguridad social trabajadores ajena trabajadores miembros familias desplazan Comunidad DO modificado actualizado
 Reglamento CE Consejo DO
 posteriormente modificado
@@ -4640,7 +4623,6 @@ BULGARIA ALEMANIA
 Artículos Administrativo aplicación Convenio Seguridad Social diciembre ámbito pensiones
 BULGARIA GRECIA
 BULGARIA ESPAÑA
-
 BULGARIA FRANCIA
 BULGARIA IRLANDA
 BULGARIA ITALIA

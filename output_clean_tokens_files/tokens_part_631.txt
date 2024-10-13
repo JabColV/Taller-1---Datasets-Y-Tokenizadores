@@ -401,7 +401,6 @@ ANEXO
 Modelo formulario informes anuales presentar miembros Comisión arreglo dispuesto artículos
 INFORME ANUAL
 inspecciones discriminatorias animales medios transporte documentos acompañamiento realizadas virtud artículo Reglamento CE
-
 miembro miembro
 Año autoridad competente inspecciones discriminatorias mencionadas presente informe anual aaaa
 Datos contacto autoridad competente responsable realización inspecciones discriminatorias mencionadas presente informe anual presentación informe
@@ -410,7 +409,6 @@ Autoridad competente
 Dirección
 Correo electrónico
 Número teléfono
-
 miembro
 aaaa
 Cuadro
@@ -445,7 +443,6 @@ Categoría número medidas adoptadas autoridad competente raíz constatación ca
 Categoría incumplimiento
 Sanciones impuestas
 Cumplimiento Reglamento intercambio información
-
 Análisis principales irregularidades constatadas inspecciones discriminatorias plan acción destinado corregirlas conformidad artículo apartado Reglamento CE
 ANÁLISIS PRINCIPALES IRREGULARIDADES CONSTATADAS INSPECCIONES DISCRIMINATORIAS
 efectos presente informe anual principales irregularidades constatadas siguientes
@@ -1951,7 +1948,6 @@ efectos aplicación presente artículo circunstancias deriven trabajo experto na
 Artículo
 Gastos viaje
 experto nacional cuyo lugar contratación esté situado km lugar destino comisión servicio derecho comienzo comisión servicio reembolso gastos viaje
-
 cónyuge hijos cargo vivan gastos traslado vayan reembolsados SGC
 viaje realice vía aérea reembolsará importe alzado limitará coste billete ferrocarril clase suplementos
 válido viaje efectúe automóvil
@@ -4156,7 +4152,6 @@ artículo modifica
 título Protección datos prevención blanqueo capitales cuestiones afines sustituirá Protección datos prevención blanqueo capitales medidas administrativas restrictivas cuestiones afines
 añade apartado
 participantes actúen proveedores servicios pago pagador beneficiario cumplirán obligaciones derivadas medidas administrativas restrictivas impongan virtud artículos Tratado Funcionamiento Unión Europea incluidas notificación obtención consentimiento autoridad competente procesamiento operaciones
-
 insértese nombre banco central proveedor servicios pago participante pagador
 participante efectuará notificación requerida obtendrá consentimiento nombre banco central principalmente obligado efectuar notificación obtener consentimiento facilitará insértese nombre banco central pruebas efectuado notificación obtenido consentimiento
 participante cursará orden transferencia TARGET recibido confirmación insértese nombre banco central efectuado notificación requerida obtenido consentimiento proveedor servicios pago beneficiario nombre
@@ -4635,9 +4630,7 @@ CICAP
 Ácido Hindolilbutírico
 junio
 mayo
-
 autorizar usos regulador crecimiento plantas ornamentales
-
 aplicación principios uniformes anexo VI conclusiones informe revisión ácido indolilbutírico particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención seguridad operarios trabajadores
 condiciones autorización deberán incluir utilización equipos protección individual adecuados aplicación medidas reducción riesgo limitar exposición
@@ -4717,7 +4710,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil

@@ -277,7 +277,6 @@ declaración gasto explotación
 declaración ingresos
 notas justificativas amplíen expliquen declaraciones proceda
 ANEXO IX
-
 DIRECTIVAS DEROGADAS LISTA MODIFICACIONES SUCESIVAS
 Información prevista artículo
 Directiva CEE Consejo
@@ -305,7 +304,6 @@ Decisión CE Comisión
 DO
 artículo
 artículo
-
 PLAZOS TRANSPOSICIÓN LEGISLACIÓN NACIONAL
 Directiva
 Fecha límite transposición
@@ -642,7 +640,6 @@ Magnesio
 semanas parto
 Indíquese empleo
 Suspender administración parto
-
 Baja relación cationes aniones
 Sodio
 Potasio
@@ -1778,7 +1775,6 @@ Alemania Francia Italia Países Bajos Suecia Bélgica Hungría República Checa 
 números subsiguientes asignarán países orden cronológico ratifiquen adopción prescripciones técnicas uniformes aplicables vehículos ruedas equipos piezas montarse utilizarse condiciones reconocimiento recíproco homologaciones concedidas conforme dichas prescripciones adhieran números asignados comunicados Secretario General Naciones Unidas Partes Contratantes
 ANEXO
 DOCUMENTACIÓN RELATIVA HOMOLOGACIÓN TIPO CEPE
-
 MODELO FICHA CARACTERÍSTICAS
 arreglo Reglamento homologación tipo cabina
 información figura continuación proceda presentarse triplicado acompañada índice
@@ -1814,7 +1810,6 @@ Dibujos cabina partes acondicionamiento interior influyan espacio residual
 Dirección
 Diagrama diagramas esquemáticos mando mandos dirección
 Margen método ajuste haberlo mando dirección
-
 COMUNICACIÓN
 formato máximo mm
 Número distintivo país concedido extendido denegado retirado homologación véanse disposiciones Reglamento relativas homologación
@@ -3594,7 +3589,6 @@ Participaciones públicas
 Indique régimen implica ayuda forma participaciones públicas
 medida participación pública aparta principio inversor economía mercado
 Facilite información pertinente calcular ayuda participación pública
-
 excluida medida inversión sustitución
 respuesta negativa ruega autoridades rellenen sección presente impreso relativa ayuda funcionamiento
 excluida régimen ayuda empresas crisis reestructuración financiera empresas crisis
@@ -4397,9 +4391,7 @@ CICAP
 cloropiridinilfenilurea
 abril
 marzo
-
 autorizar usos regulador crecimiento vegetal
-
 evaluación solicitudes autorización productos fitosanitarios contengan forclorfenurón usos correspondientes plantas kiwi miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión forclorfenurón apéndices II ultimó Comité permanente cadena alimentaria sanidad animal septiembre
 evaluación general miembros deberán atender especialmente posibilidad contaminación aguas subterráneas aplique sustancia activa regiones características edáficas vulnerables climáticas extremas

@@ -357,7 +357,6 @@ DO
 DO
 DO
 ANEXO
-
 Indicaciones referencia artículo apartado letra
 búlgaro Преференциална сурова тръстикова захар за рафиниране внесена съответствие член от Регламент за изпълнение ЕС
 español Azúcar caña bruto preferencial destine refinado importado conformidad artículo Reglamento Ejecución UE
@@ -382,7 +381,6 @@ esloveno Preferencialni uvoz surovega trsnega sladkorja za rafiniranje skladu č
 finés Puhdistettavaksi tarkoitettu etuuskohteluun oikeutettu raaka ruokosokeri tuotu täytäntöönpanoasetuksen EU artiklan mukaisesti
 sueco Förmånsrårörsocker för raffinering importerat enlighet med artikel genomförandeförordning EU nr
 croata Preferencijalni sirovi šećer od šećerne trske za rafiniranje uvezen skladu člankom
-
 Indicaciones referencia artículo apartado letra
 búlgaro Внос мито EUR на тон за сурова тръстикова захар за рафиниране със стандартно качество съответствие член от Регламент за изпълнение ЕС
 español Importación derecho EUR tonelada azúcar caña bruto calidad estándar destine refinado conformidad artículo Reglamento Ejecución UE
@@ -604,13 +602,10 @@ punto términos ISO DIS sustituyen términos ISO edición
 punto términos ISO DIS sustituyen términos ISO edición
 apéndice punto sustituye texto
 ISO Road vehicles Electrical disturbances by narrowband radiated electromagnetic energy Vehicle test methods Vehículos carretera Perturbaciones eléctricas radiación energía electromagnética banda estrecha Métodos ensayo vehículo
-
 Generalidades definiciones
 ISO edición
-
 Fuente radiación exterior vehículo
 ISO edición
-
 Método inyección corriente BCI
 ISO edición
 apéndice punto sustituye texto
@@ -618,11 +613,9 @@ ISO Road vehicles Electrical disturbances by narrowband radiated electromagnetic
 ISO edición
 Cámara revestida material absorbente
 ISO edición
-
 Célula electromagnético transversal TEM
 ISO edición
 ISO edición
-
 Línea TEM placas
 ISO edición
 anexo VI queda modificado
@@ -1745,7 +1738,6 @@ Código producto
 Destino
 Unidad medida
 Importe restitución
-
 Directiva CE Parlamento Europeo Consejo
 abril
 modifica Directiva CE disposiciones mínimas seguridad salud relativas exposición trabajadores riesgos derivados agentes físicos campos electromagnéticos decimoctava Directiva específica arreglo artículo apartado Directiva CEE
@@ -4518,7 +4510,6 @@ Carne animales especie porcina fresca refrigerada congelada
 Congelada
 canales medias canales
 Piernas paletas trozos deshuesar
-
 Carne animales especies ovina caprina fresca refrigerada congelada
 Despojos comestibles animales especies bovina porcina ovina caprina caballar asnal mular frescos refrigerados congelados
 especie bovina frescos refrigerados
@@ -4807,7 +4798,6 @@ anexo III Reglamento CE modifica
 casillas correspondientes República Checa añaden casillas siguientes
 BULGARIA
 Menciones específicas tradicionales previstas artículo
-
 Vino vcprd vino vecprd vino vacprd vino vlcprd
 Búlgaro
 Vlcprd

@@ -2,7 +2,6 @@ Ejemplo
 Benceno
 Tiempo retención lodo
 Agua residual sintética tiempo retención
-
 RBA
 deduce benceno adsorbido lodo
 Biological degradation of tertiary butyl alcohol Proc
@@ -1481,17 +1480,13 @@ obstante ecuaciones modelo emplearse precaución especialmente ensayo producen c
 EJEMPLOS CALENDARIOS ENSAYOS BIOACUMULACIÓN SUELO
 Ensayo gusanos tierra
 Fase absorción fechas muestreo cálculo cinética
-
 Actividad
 Acondicionamiento suelo preparado
 Adición solución sustancia problema fracción suelo evaporación eventuales disolventes mezcla componentes suelo distribución suelo recipientes ensayo equilibrado condiciones ensayo semanas caso adición metales suelo
-
 Separación organismos ensayo cultivo aclimatación preparación humidificación componentes suelo
 ón temperatura pH suelo toma muestras suelo recipientes tratamiento controles disolvente determinar concentración sustancia problema adición ración alimentaria pesada distribución aleatorizada gusanos recipientes ensayo conservación suficientes submuestras gusanos determinación valores analíticos fondo peso húmedo seco contenido lipídico pesada recipientes ensayo controlar humedad suelo control aporte aire utiliza sistema ensayo cerrado
 Control aporte aire registro comportamiento gusanos temperatura toma muestras suelo gusanos determinar concentración sustancia problema
-
 Control aporte aire comportamiento gusanos temperatura
-
 adición ración alimentaria control humedad suelo volviendo recipientes ensayo compensación agua evaporada
 medición temperatura pH suelo control humedad suelo volviendo recipientes ensayo fase absorción transferencia gusanos réplicas expuestas restantes recipientes contienen suelo limpio fase eliminación purga intestinal toma muestras suelo gusanos controles disolventes
 actividades previas exposición fase equilibrado programarse teniendo propiedades sustancia problema
@@ -1814,7 +1809,6 @@ CIT
 utilizarse sustancias problema marcado radiactivo
 Ca Cs desviación típica bandas caso adecuado puntos temporales muestreo Ca expresada kg peso húmedo seco cuerpo completo Cs expresada kg peso húmedo seco suelo necesita factor acumulación biotasuelo BSAF ejemplo efectos comparación resultados ensayos realizados animales contenido lipídico Ca expresarse kg contenido lipídico organismo Cs expresarse kg carbono orgánico suelo
 Bioakkumulation und Metabolismus von gHexachlorcyclohexan Lindan und Dichlorphenoxypropionsäure Dichlorprop beim Regenwurm Lumbricus rubellus Oligochaeta Lumbricidae
-
 temperatura óptima °C prefieren sustratos relativamente húmedos pH neutro elevado contenido materia orgánica
 Reglamento CE Comisión
 octubre
@@ -2159,7 +2153,6 @@ Esposa General Brigada San Tun
 General Brigada Hla Myint
 Noreste
 Esposa General Brigada Hla Myint
-
 General Brigada Myo Hla
 Sureste
 Esposa General Brigada Myo Hla
@@ -2681,7 +2674,6 @@ Je
 Hijo Khin Maung Thein nacido
 Jf
 Hija Khin Maung Thein nacida
-
 Hija Khin Maung Thein nacida
 Jh
 Director Gerente Kambawza Bank
@@ -3637,7 +3629,6 @@ DO
 DO
 DO
 ANEXO
-
 Territorios autoriza importación Comunidad Europea peces agua fría ornamentales
 País
 Territorio
@@ -3707,7 +3698,6 @@ originarios lugar enfermedades siguientes declaración obligatoria autoridad com
 originarios lugar conocido brote enfermedad afecte forma significativa población meses previos envío años caso NHE AIS
 Requisitos veterinarios específicos importación miembros partes libres SHV NHI
 inspector oficial abajo firmante certifica peces agua fría ornamentales mencionan casilla presente certificado originarios lugar ofrecer garantías indicadas punto presente certificado aprobado autoridad competente tercer país calificación sanitaria equivalente miembros zonas Comunidad calificación aprobada relación SHV NHI
-
 originarios lugar conoce presencia especies sensibles SHV NHI
 originarios lugar considerado libre SHV NHI arreglo legislación pertinente UE
 Requisitos veterinarios específicos importación miembros garantías complementarias relación VPC renibacteriosis NPI salaris

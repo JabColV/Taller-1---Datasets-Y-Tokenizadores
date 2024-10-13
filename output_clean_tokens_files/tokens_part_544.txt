@@ -111,31 +111,10 @@ Beneficio columna base precios reventa reales incrementados declarados
 productos fresas volumen negocios empresa
 Rentabilidad global empresa
 Empresa
-
-
-
-
-
 Empresa
-
-
-
-
-
 Empresa
-
-
 Empresa
-
-
-
-
-
 Empresa
-
-
-
-
 productores afectados incremento precios fresa productores preparados confituras fresa cooperaron
 fresas ingrediente principal preparación confituras fresa
 empresas cuestión disminución margen beneficio oscilaría puntos porcentuales ocasionaría pérdidas
@@ -295,7 +274,6 @@ DO
 DO
 PROYECTO
 DECISIÓN COMITÉ MIXTO AGRICULTURA
-
 relativa modificación adicional Comunidad Europea Confederación Suiza Principado Liechtenstein extensivo Principado Liechtenstein Comunidad Europea Confederación Suiza comercio productos agrícolas
 COMITÉ MIXTO AGRICULTURA
 Visto adicional Comunidad Europea Confederación Suiza Principado Liechtenstein extensivo Principado Liechtenstein Comunidad Europea Confederación Suiza comercio productos agrícolas particular artículo apartado
@@ -312,7 +290,6 @@ Denominaciones protegidas productos vitivinícolas originarios Liechtenstein efe
 indicación geográfica añade lista indicaciones geográficas suizas protegidas virtud anexo apéndice cuya zona geográfica engloba territorio Liechtenstein
 Werdenberger Sauerkäse Liechtensteiner Sauerkäse Bloderkäse DOP
 presente Decisión entrará vigor
-
 Comité Mixto Agricultura
 Jefe Delegación Unión Europea
 Jefe delegación suiza
@@ -612,38 +589,11 @@ CSETSOC valor equipo inferior EUR
 cuadro figura inciso vi sustituye
 Categorías tasas valor actividades objeto aprobación EUR
 Coeficiente
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 cuadro figura inciso sustituye
-
-
-
-
-
-
-
-
-
-
 texto título inciso xii queda modificado
 xii
 Tasas concepto aceptación aprobaciones equivalentes expedidas virtud conformidad acuerdos bilaterales vigentes
 cuadro figura inciso xiii sustituye
-
-
 caso versión mercancías aeronave aplica coeficiente tasa versión equivalente pasajeros
 tasas correrán cargo solicitante exigibles euros
 Reglamento Ejecución UE Comisión
@@ -898,9 +848,7 @@ comprobación faro tensión bornes lámpara incandescencia regulará obtengan ca
 Consumo vatios
 Flujo luz lúmenes
 Filamento cruce
-
 Filamento carretera
-
 considerará satisfactorio faro cumple requisitos presente punto lámparas incandescencia normalizadas referencia proporcionarse faro
 dimensiones determinan posición filamentos interior lámpara incandescencia normalizada figuran ficha técnica Reglamento
 ampolla lámpara incandescencia normalizada forma calidad óptica necesarias producir reflejos refracciones perjudiquen distribución luz
@@ -1248,13 +1196,11 @@ considerará cumplido punto vista mecánico geométrico requisitos diferencias s
 refiere rendimiento fotométrico pondrá duda conformidad faros fabricados serie comprobar rendimiento fotométrico faro elegido azar equipado lámpara incandescencia normalizada
 valores medidos desvía desfavorablemente exigidos presente Reglamento
 valores zona III desviación desfavorable máxima
-
 lux equivalente
 lux equivalente
 Zona III
 lux equivalente
 lux equivalente
-
 haz cruce cumple valores exigidos presente Reglamento HV tolerancia lux relación orientación punto área delimitada pantalla medición círculo cm radio puntos tolerancia lux zona IV esté cm línea
 caso haz carretera HV situado isolux Emax observa tolerancia valores máximos mínimos valores fotométricos cualquiera puntos medición especificados punto presente Reglamento
 resultados ensayos descritos anteriormente cumplen requisitos reglar faro eje haz desvíe lateralmente derecha izquierda
@@ -1390,7 +1336,6 @@ Muestra
 faro
 faro
 faros
-
 muestra
 Muestra
 mbos faros
@@ -1398,7 +1343,6 @@ reúnen condiciones punto referentes muestra
 pone duda conformidad
 procedimiento toma muestras figura presente anexo pondrá duda conformidad faros producidos serie pedirá fabricante tome medidas necesarias producción cumpla requisitos desviaciones valores medidos faros
 faro
-
 caso
 faro
 reúnen condiciones punto referentes muestra
@@ -1428,7 +1372,6 @@ obstante muestra respeta valor mrad faros muestra sometidos procedimiento valor 
 dispositivos
 toma muestras
 dispositivos seleccionados azar distribuidos muestras
-
 pase muestra
 Cumplimiento
 fabricante productos cumplan requisitos
@@ -1589,7 +1532,6 @@ Sodio
 Agua
 Materia orgánica CHNO
 Materia hidrosoluble
-
 Ácido nitrilotriacético
 ANEXO II
 Cantidades máximas EDTA férrico sódico expresado EDTA anhidro
@@ -2245,7 +2187,6 @@ Thida Aye
 Hija Vicealmirante Soe Thein FN actualmente EEUU
 Dd
 Aye Chan
-
 General Brigada Kyaw Hsan
 Información
 General Brigada Maung Maung Thein
@@ -2265,11 +2206,9 @@ Hijo Soe Tha FN actualmente Australia
 Dd
 Wei Wei Lay
 Esposa Kyaw Myat Soe FN actualmente Australia
-
 Phone Myat Soe
 Df
 San Thida Soe
-
 Dh
 Coronel Thein Nyunt
 Progreso Zonas Fronterizas Razas Nacionales Asuntos Desarrollo Alcalde Naypidaw
@@ -2309,7 +2248,6 @@ Esposo Wut Yi Oo
 Hijo General División Soe Naing
 Empleo Trabajo nombrado Ministro Relaciones encargado relaciones Aung San Suu Kyi
 Esposa Aung Kyi
-
 Kyaw Thu
 Esposa Kyaw Thu
 VICEMINISTROS
@@ -2729,7 +2667,6 @@ Hermano Htay Myint FN Director Yuzana Co
 Hermano Htay Myint FN Director Yuzana Co
 Jf
 Zar Chi Htay
-
 Khin Htay Lin
 Shwe Thanlwin Trading Co distribuidores exclusivos neumáticos Thaton control Ministerio Industria
 Nan Mauk Loung Sai Nang Mauk Lao Hsai
@@ -2939,7 +2876,6 @@ Kaba Aye Pagoda Road Mayangone Township Yangón Myanmar
 Ministerio Industria Director Gerente Oo Zune
 Ministerio Cooperativas
 Director Gerente Hla Moe
-
 Tay Za ref Ja anexo II
 Htoo Furniture Htoo Wood Products Htoo Wood based Industry Htoo Wood
 Treasure Hotels and Resorts inclusión Myanmar Treasure Resort Ngwe Saung Myanmar Treasure Resort Bagan Myanmar Treasure Resort Inle
@@ -4208,7 +4144,6 @@ abril renuncia reembolso gastos ocasionados control administrativo reconocimient
 rúbrica
 BULGARIA ESLOVAQUIA sustituye texto
 BULGARIA ESLOVAQUIA
-
 rúbrica
 DINAMARCA PAÍSES BAJOS sustituye texto
 DINAMARCA PAÍSES BAJOS
@@ -4723,7 +4658,6 @@ Secreto comercial
 Cartas Comisión octubre noviembre
 autoridades españolas régimen gestionado CDTI vigor adhesión España Comunidad Europea
 debería señalar ITP único fabricante español sector
-
 disposición similar figura punto Directrices ayudas estatales finalidad regional DO obliga miembros notificar beneficiario intención conceder ayuda carta intenciones
 DO
 Véase apartado decisión incoa procedimiento
@@ -4964,7 +4898,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -4994,7 +4927,6 @@ arreglo dispuesto Decisión CE Comisión autorizan controles previos exportació
 partida tomaron muestras análisis aflatoxinas fecha sometidas análisis laboratorio fecha nombre laboratorio adjuntan datos relativos muestreo métodos análisis utilizados resultados
 Notas
 presente certificado validez meses fecha expedición
-
 Casilla Número autorización proceda
 Casilla Utilícese código SA correspondiente OMA
 Casilla Indíquese peso bruto peso neto

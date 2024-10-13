@@ -192,7 +192,6 @@ disposiciones relativas etiquetado modifican introducir obligación fijación s�
 introducen complementos procedentes textos nacionales
 Requisitos nacionales
 requisitos nacionales completan cuadro principales aspectos objeto control método evaluación dispone normativa nacional
-
 actualizan datos contacto estructuras encargadas control denominación
 ANEXO II
 DOCUMENTO ÚNICO CONSOLIDADO
@@ -538,7 +537,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -861,7 +859,6 @@ Utilización residuos obtenidos cualquiera operaciones enumeradas
 Intercambio residuos someterlos cualquiera operaciones enumeradas
 Acumulación residuos someterlos cualquiera operaciones enumeradas exclusión almacenamiento temporal previo recogida lugar producción
 ANEXO III
-
 DIRECTIVA DEROGADA MODIFICACIONES SUCESIVAS
 contemplados artículo
 Directiva CEE Consejo DO
@@ -871,7 +868,6 @@ respecta referencia Directiva CEE anexo VI
 Decisión CE Comisión DO
 Reglamento CE Parlamento Europeo Consejo DO
 únicamente anexo III punto
-
 PLAZOS TRANSPOSICIÓN DERECHO INTERNO
 Directiva
 Plazo transposición
@@ -1343,7 +1339,6 @@ DO
 Véase anexo
 DO
 ANEXO
-
 Directivas derogadas modificaciones sucesivas
 contemplados artículo
 Directiva CEE Comisión
@@ -1354,7 +1349,6 @@ Directiva CEE Comisión
 DO
 Directiva CEE Comisión
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -3214,7 +3208,6 @@ combustible utilizado ascenso TOC inicio descenso TOD incluyendo ascenso descens
 combustible utilizado inicio descenso punto inicia aproximación teniendo procedimiento llegada previsto
 combustible aproximación aterrizaje aeródromo destino
 combustible contingencias dé previsto apartado Combustible contingencias reducido elevado valores indicados apartados siguen
-
 combustible previsto trayecto caso replanificación vuelo combustible trayecto resta vuelo
 reserva combustible inferior combustible trayecto previsto caso replanificación vuelo inferior combustible necesario resto vuelo condición disponible aeródromo alternativo ruta arreglo apéndice OPS
 cantidad combustible suficiente minutos vuelo basándose consumo trayecto previsto condición operador establecido programa supervisión consumo combustible avión utilice datos válidos determinados programa
@@ -3388,7 +3381,6 @@ RVR Visibilidad despegue
 Instalaciones
 RVR Visibilidad
 nota
-
 Luces borde pista marca eje pista
 Luces borde pista eje pista
 nota
@@ -3575,7 +3567,6 @@ operador garantizará utiliza conversión visibilidad meteorológica RVR calcula
 Nota RVR notificado valor máximo fijado operador aeródromo ejemplo RVR superior considerará contexto RVR notificado utilizarse Tabla Conversión
 convierta visibilidad meteorológica RVR circunstancias punto operador garantizará utilice cuadro
 Cuadro
-
 Noche
 Iluminación intensidad aproximación pista
 tipo iluminación distinto
@@ -3583,7 +3574,6 @@ iluminación
 aplicable
 Apéndice OPS
 Nota valor notificado RVR Visibilidad representativo inicial recorrido despegue sustituido criterio piloto
-
 mínimos despegue establecidos operador deberán basarse altura construir trayectoria neta despegue motor inoperativo
 Altura pista supone falla motor RVR Visibilidad
 RVR Visibilidad despegue
@@ -3611,7 +3601,6 @@ altura decisión publicada procedimiento aproximación proceda
 pies operaciones aproximación categoría
 mínimo sistema previsto cuadro
 altura mínima decisión especifique Manual vuelo avión establecido
-
 Altura mínima descenso MDH
 operador asegurará altura mínima descenso aproximación precisión inferior
 altura mínima descenso especifique Manual vuelo avión establecido
@@ -3656,7 +3645,6 @@ DH MDH
 Clase iluminación
 Véanse apartados RVR
 Metros
-
 Valor RVR CMV mínimo máximo aplicable véase cuadro aproximaciones instrumentos mínimos categoría límites absolutos inferior superior
 Instalación Condiciones
 Categoría avión
@@ -3785,7 +3773,6 @@ nota
 Avión categoría
 Avión categoría
 nota
-
 mínimos bajos utilizará operador operaciones categoría II distinta norma siguientes
 Cuadro
 RVR operaciones categoría II distinta norma sistema luces aproximación
@@ -4461,8 +4448,6 @@ Alternativamente casos número asientos disponible aplicables valores masa adult
 efectos cuadro vuelo chárter vacaciones significa vuelo chárter prevé únicamente elemento paquete viaje vacaciones
 aplicarán valores masa chárter vacaciones asientos pasajeros instalados avión utilicen transporte gratuito categorías pasajeros
 Asientos pasajeros
-
-
 Hombres
 Mujeres
 adultos
@@ -4484,7 +4469,6 @@ Tipo vuelo
 Masa normalizada equipaje
 Nacional
 región europea
-
 operador desea utilizar valores normalizados masa distintos figuran cuadros anteriores deberá informar Autoridad motivos obtener aprobación previa
 deberá presentar aprobación plan detallado estudio pesaje aplicar método análisis estadístico incluye apéndice OPS
 verificación aprobación Autoridad resultados estudio pesaje valores normalizados masa revisados aplicables únicamente operador
@@ -4533,7 +4517,6 @@ Número aviones deberán pesarse obtener valores flota
 número aviones flota utilizan valores flota operador deberá mínimo período evaluaciones masa flota número determinado aviones define cuadro
 Número mínimo aviones flota
 Número mínimo pesajes
-
 elegir aviones pesarán seleccionar aviones flota cuyo pesaje transcurrido período tiempo
 intervalo evaluaciones masa flota deberá exceder meses
 Procedimiento pesaje
@@ -4862,7 +4845,6 @@ Botiquines auxilios
 operador explotará avión esté equipado botiquines auxilios situados lugares accesibles arreglo baremo
 Número asientos pasajeros instalados
 Número botiquines auxilios necesarios
-
 operador garantizará botiquines auxilios
 inspeccionados periódicamente asegurarse medida contenido mantiene condiciones necesarias previsto
 reaprovisionados periódicamente instrucciones etiquetas justifiquen circunstancias
@@ -4930,7 +4912,6 @@ deberá disponer mínimo extintor portátil fácilmente accesible utilización c
 numero extintores portátiles mínimo deberá convenientemente situado compartimentos pasajeros
 Configuración máxima aprobada asientos pasajeros
 Número extintores
-
 requieran extintores deberán distribuidos uniforme compartimento pasajeros
 mínimo extintores situados compartimento pasajeros aviones configuración máxima aprobada asientos pasajeros mínimo extintores situados compartimento pasajeros aviones configuración máxima aprobada asientos pasajeros deberán contener halón bromoclorodifluorometano CBrClF equivalente agente extintor
 Hachas palancas pata cabra
@@ -4956,7 +4937,6 @@ operador explotará avión configuración máxima aprobada asientos pasajeros tr
 cabina pasajeros
 Configuración asientos pasajeros
 Número megáfonos requerido
-
 caso aviones cabina pasajeros configuración asientos pasajeros requerirá mínimo megáfono cabina
 Iluminación emergencia
 caso aviones configuración máxima aprobada asientos pasajeros

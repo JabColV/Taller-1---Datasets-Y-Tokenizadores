@@ -1011,9 +1011,7 @@ página considerando letra guión
 página considerando cuadro sexta fila
 página considerando cuadro sexta fila
 página artículo apartado cuadro columna Empresa sexta fila
-
 FIAC Air Compressors Jiangmen Co Ltd
-
 FIAC Air Compressors Jiangmen Ltd FIAC Air Compressors Jiangmen Ltd
 Reglamento CE Comisión
 diciembre
@@ -1239,7 +1237,6 @@ Derecho aplicable
 Cantidad toneladas peso producto
 Cortes carne porcino fresca refrigerada congelada deshuesada deshuesar solomillo presentado aparte
 ANEXO II
-
 Indicaciones contempladas artículo apartado letra
 búlgaro Регламент ЕО
 danés Forordning EF nr
@@ -1259,7 +1256,6 @@ portugués Regulamento CE
 esloveno Uredba št
 finés Asetus EY
 sueco Förordning EG nr
-
 Indicaciones contempladas artículo apartado
 búlgaro Мита по ОМТ намалени съгласно Регламент ЕО
 danés FTTtoldsats nedsat henhold til forordning EF nr
@@ -1466,7 +1462,6 @@ Turquía
 ACP
 Únicamente especie ovino doméstico ex ex ex
 Reducción derechos específicos
-
 carne cabrito
 carne caprino cabrito
 refiere caso orígenes incluidos ACP excluidos países mencionados cuadro
@@ -3659,7 +3654,6 @@ Visto informe Comisión Control Presupuestario
 Considerando conformidad artículo apartado Tratado Unión Europea Comisión ejecutará presupuesto gestionará programas hará conformidad artículo Tratado Funcionamiento Unión Europea colaboración miembros responsabilidad respetando principio gestión financiera
 Considerando informes especiales Tribunal Cuentas aportan información motivos preocupación utilización fondos resultan útiles Parlamento actúa autoridad aprobación gestión ejecución presupuesto
 Considerando observaciones informes especiales Tribunal Cuentas forman integrante mencionada Decisión Parlamento abril aprueba gestión ejecución presupuesto general Unión Europea ejercicio sección III Comisión
-
 Informe Especial Tribunal Cuentas titulado contribuido medidas UE adaptar capacidad flotas pesqueras posibilidades pesca existentes
 Acoge satisfacción informe Tribunal Cuentas toma nota medidas tomadas Comisión miembros
 Subraya política pesquera común PPC pretende promover pesca sostenible implica viabilidad plazo sector pesquero establecimiento equilibrio recursos pesqueros capacidad flota pesquera evitar sobreexplotación poblaciones peces
@@ -3839,7 +3833,6 @@ Pide Banco Europeo Reconstrucción Desarrollo BERD ponga disposición Parlamento
 Pide Comisión Tribunal Cuentas evalúen valor añadido cooperación BERD capacidad actuar administrador fondos habida Unión aporta financiación
 Pide Comisión elabore informe procesos desmantelamiento países
 pide Comisión elabore informe desmantelamiento central nuclear Greifswald miras determinar mejores prácticas técnicas organizativas estableciendo base referencia futuros proyectos desmantelamiento
-
 Informe Especial Tribunal Cuentas titulado Eficacia ayuda desarrollo Unión Europea seguridad alimentaria África subsahariana
 Acoge satisfacción informe Tribunal Cuentas conclusión general ayuda desarrollo Unión destinada seguridad alimentaria África subsahariana eficaz presta importante contribución logro seguridad alimentaria países socios sector agrícola sostenible seguro
 toma nota obstante Tribunal Cuentas margen mejoras significativas serie ámbitos
@@ -4099,7 +4092,6 @@ hincapié datos plenamente conformes criterios Comité Ayuda Desarrollo CAD
 Recuerda Comisión importancia cumplir normas relativas protección datos
 critica notificaciones Supervisor Protección Datos cubrieran explícitamente currículums adjuntos registros CRIS punto
 Pide Comisión aborde deficiencias recomendaciones presentadas Parlamento Tribunal Cuentas demora
-
 Informe Especial Tribunal Cuentas titulado ayuda Unión Europea comunidad turcochipriota
 Recuerda fiscalización planteó pregunta general gestionando Comisión eficaz instrumento ayuda económica Unión comunidad turcochipriota
 Pide Comisión Presupuestos Comisión Control Presupuestario tengan conclusiones presente Resolución negocien marco financiero plurianual perjuicio resultado presente recomendación Tribunal Cuentas garantizar planificación aplicación sostenibilidad consonancia Reglamento CE Consejo suponga territorio exterior
@@ -4777,9 +4769,7 @@ Impurezas
 Tolueno máx kg
 junio
 mayo
-
 autorizar usos insecticida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión fenoxicarb particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán atender especialmente
 riesgo abejas artrópodos destinatarios producto

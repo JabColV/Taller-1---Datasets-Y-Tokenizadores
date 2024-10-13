@@ -272,7 +272,6 @@ exportadores cooperantes grado cooperación margen residual dumping fijó nivel 
 márgenes dumping medios ponderados provisionales expresados porcentaje precio cif frontera Comunidad derechos pagados siguientes
 Nombre
 Margen dumping
-
 Productor exportador moldavo
 margen dumping productor moldavo calculó comparando precios exportación verificados precio interior país análogo
 Puesto productor moldavo exporta UE operador comercial vinculado cálculo margen dumping basa precio exportación calculado ventas cliente independiente UE arreglo artículo apartado Reglamento base
@@ -2256,11 +2255,8 @@ ALGODÓN
 Lino bruto trabajado hilar estopas desperdicios lino incluidos desperdicios hilados hilachas
 Cáñamo Cannabis sativa bruto trabajado hilar estopas desperdicios cáñamo incluidos desperdicios hilados hilachas
 página Anexo IIId Concesiones arancelarias Serbia productos agrícolas comunitarios refiere artículo apartado letra
-
 Aceite soja fracciones refinado modificar químicamente
 Aceite bruto desgomado
-
-
 Margarina mezclas preparaciones alimenticias grasas aceites animales vegetales fracciones grasas aceites capítulo grasas aceites alimenticios fracciones partida
 Margarina margarina líquida
 página Anexo IIIa Concesiones arancelarias Serbia productos agrícolas comunitarios refiere artículo apartado letra añaden siguientes códigos NC código NC
@@ -2981,9 +2977,7 @@ huevos frescos
 gallina especie Gallus domesticus
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
-
 aves corral distintos aves especie Gallus domesticus
-
 aves corral
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
 Yemas huevo
@@ -3153,7 +3147,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -4260,10 +4253,8 @@ Tapioca sucedáneos preparados fécula copos grumos granos perlados cerniduras f
 Productos base cereales obtenidos inflado tostado ejemplo hojuelas copos maíz cereales maíz grano forma copos grano trabajado harina sémola precocidos preparados expresados comprendidos
 Preparaciones alimenticias obtenidas copos cereales tostar mezclas copos cereales tostar copos cereales tostados cereales inflados
 Preparaciones base copos cereales tostar tipo Müsli
-
 base maíz
 base arroz
-
 Trigo bulgur
 Hortalizas frutas frutos partes comestibles plantas preparados conservados vinagre ácido acético
 Maíz dulce Zea mays var saccharata
@@ -4295,19 +4286,16 @@ polialcoholes
 Manitol
 disolución acuosa
 contengan Dmanitol proporción inferior peso calculada contenido Dglucitol
-
 Caseína caseinatos derivados caseína
 Caseína
 Preparaciones aglutinantes moldes núcleos fundición productos químicos preparaciones industria química industrias conexas incluidas mezclas productos naturales expresados comprendidos
 Sorbitol subpartida
 Dmanitol proporción inferior peso calculado contenido Dglucitol
-
 códigos NC corresponden vigentes enero
 ANEXO II
 Margarina mezclas preparaciones alimenticias grasas aceites animales vegetales fracciones grasas aceites capítulo grasas aceites alimenticios fracciones partida
 Margarina margarina líquida icias grasas aceites animales vegetales fracciones grasas aceites capítulo grasas aceites alimenticios fracciones partida
 contenido materias grasas leche superior inferior peso
-
 Glicerol bruto aguas lejías glicerinosas
 Artículos confitería cacao incluido chocolate blanco
 Chicles gomas mascar recubiertos azúcar
@@ -4410,7 +4398,6 @@ Cigarros puros despuntados cigarritos puritos cigarrillos tabaco sucedáneos tab
 Cigarros puros despuntados cigarritos puritos contengan tabaco vol recipientes contenido
 Cigarrillos contengan tabaco cigarritos puritos contengan tabaco
 contengan clavo
-
 Ácidos monocarboxílicos acíclicos saturados anhídridos halogenuros peróxidos peroxiácidos derivados halogenados sulfonados nitrados nitrosados
 enuros peróxidos peroxiácidos derivados halogenados sulfonados nitrados nitrosados
 Dextrina almidones féculas modificados ejemplo almidones féculas pregelatinizados esterificados colas base almidón fécula dextrina almidones féculas modificados
@@ -4894,7 +4881,6 @@ suprimirán filas correspondientes sustancias siguientes
 diclorovinildimetilciclopropanocarboxilato αcianofenoxibencilo cipermetrina
 filas correspondientes sustancias dtetrametrina dióxido azufre tetrametrina sulfito potasio disulfito dipotasio sustituirán texto
 sustituirá texto
-
 Sustancias activas existentes notificación aceptada tipos producto
 Tratándose sustancias activas contenidas tipos producto mencionados autoridad competente miembro informante recibir expedientes completos febrero julio
 Sustancias activas biocidas destinados higiene humana
@@ -4912,7 +4898,6 @@ Ntriclorometiltioftalimida folpet
 Sustancias activas protectores líquidos metalistería
 Benciloximetanol
 sustituirá texto
-
 Sustancias activas existentes notificación aceptada tipos producto
 Tratándose sustancias activas contenidas tipos producto mencionados autoridad competente miembro informante deberá recibir expedientes completos mayo octubre
 Sustancias activas conservantes películas

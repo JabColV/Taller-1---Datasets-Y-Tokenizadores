@@ -134,7 +134,6 @@ Unidos
 DO
 Certificados conformidad Comunidad Europea Confederación Suiza comercio productos agrícolas aprobado virtud Decisión CE Euratom Consejo Comisión cooperación científica tecnológica abril celebración Acuerdos Confederación Suiza DO
 ANEXO II
-
 Notas explicativas certificado
 certificado sanitario expedido autoridad competente tercer país exportador arreglo modelo anexo II
 miembro destino impone requisitos adicionales certificación incorporarán original certificado sanitario declaraciones certifiquen cumplimiento tales requisitos
@@ -150,7 +149,6 @@ color firma sello veterinario oficial deberá utilizado texto impreso certificad
 requisito aplicará sellos distintos troquelados filigrana
 original certificado sanitario deberá acompañar partida puesto inspección fronterizo introducción Unión Europea
 autoridad competente tercer país exportador deberá asignar número referencia certificado mencionado casillas IIa modelo certificado sanitario
-
 Modelos certificados sanitarios importaciones partidas esperma animales especies ovina caprina
 Sección
 MODELO Certificado sanitario esperma enviado centro autorizado recogida esperma origen
@@ -182,7 +180,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -274,7 +271,6 @@ añadieron antibióticos esperma
 II
 antibiótico combinación antibióticos obtener esperma previa disolución concentración inferior
 Notas
-
 Casilla lugar origen corresponderá centro autorizado recogida recogido esperma figura conformidad artículo apartado letra Directiva CEE sitio web Comisión httpeceuropaeufoodanimalsemenovaovineindexenhtm
 Casilla número bultos corresponderá número recipientes
 Casilla indicará identificación recipiente número precinto
@@ -879,7 +875,6 @@ Cantidades anuales
 toneladas
 Brasil
 Tailandia
-
 Preparaciones base carne pollo
 País
 Pavo
@@ -1237,7 +1232,6 @@ DGS
 Spiny picked dogfish
 DGX Squalidae
 Dogfishes nei Cailón
-
 Lamna nasus
 Large sharks nei Marrajo
 Shortfin mako shark Cazón ley
@@ -2163,7 +2157,6 @@ Préstamos
 Participaciones capital fondos inversión
 Privatizaciones netas
 Aportaciones capital netas
-
 Sistemas seguros pensiones garantías estandarizadas
 Derivados financieros opciones compra acciones asalariados
 activos financieros
@@ -2441,9 +2434,7 @@ BCN presentarán años BCE estadísticas finanzas públicas especifican anexo da
 Corrección errores Decisión PESC Consejo febrero relativa adopción medidas restrictivas vista situación existente Libia
 Diario Oficial Unión Europea marzo
 página anexo punto
-
 ALSENUSSI Coronel Abdullah
-
 ALSENUSSI Coronel Abdullah AlMegrahi
 Decisión Consejo asociación UEEgipto
 agosto
@@ -2905,7 +2896,6 @@ partida compuesta
 descripción envío producto número tipo envases peso bruto neto
 embarcada
 lugar embarque
-
 identificación transportista
 destino
 lugar país destino
@@ -2915,7 +2905,6 @@ producido clasificado manipulado procesado envasado transportado conforme práct
 partida tomaron muestras conformidad anexo II Decisión Ejecución XXXX UE fecha sometió análisis laboratorio fecha nombre laboratorio determinar ausencia arroz modificado genéticamente autorizado
 adjuntan detalles muestreo métodos análisis utilizados resultados
 certificado válido
-
 Sello firma representante autorizado autoridad competente contemplada artículo apartado Decisión Ejecución XXXX UE
 ANEXO IV
 MODELO INFORME ANALÍTICO
@@ -3069,7 +3058,6 @@ Canon producción
 Importes únicos cuotas adicionales azúcar cuotas suplementarias isoglucosa
 Importe excedentes
 COTIZACIONES AZÚCAR
-
 gastos percepción
 gastos percepción
 pagar CE
@@ -3329,8 +3317,6 @@ dicha solicitud curso instrucción
 persona mencionada cuadro
 derecho prestaciones desempleo
 derecho prestaciones desempleo prestaciones naturaleza
-
-
 importe bruto diario
 semanal
 mensual
@@ -3364,7 +3350,6 @@ mes cese funciones agente temporal contractual inscribirse solicitante empleo de
 someterse obligaciones previstas materia desempleo legislación miembro inscriba solicitante empleo desempleado
 presentar ejemplar formulario servicio nacional momento inscripción solicitante empleo desempleado posteriormente mes rellene servicio punto supra
 presentar formulario rellenado institución destinataria cuadro
-
 Reglamento Ejecución UE Comisión
 julio
 establecen valores importación alzado determinación precio entrada determinadas frutas hortalizas
@@ -4694,7 +4679,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4708,7 +4692,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4722,7 +4705,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri

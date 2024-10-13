@@ -573,7 +573,6 @@ lux equivalente
 lux equivalente
 Zona III lux equivalente
 lux equivalente
-
 haz cruce cumple valores exigidos presente Reglamento HV tolerancia lux relación orientación punto área delimitada pantalla medición círculo cm radio puntos tolerancia lux zona IV esté cm línea
 caso haz carretera HV situado isolux Emax observa tolerancia valores máximos mínimos valores fotométricos cualquiera puntos medición especificados punto presente Reglamento
 resultados ensayo descrito anteriormente cumplen requisitos reglar faro eje haz desvíe lateralmente derecha izquierda
@@ -705,10 +704,7 @@ pone duda conformidad
 procedimiento toma muestras figura presente anexo pondrá duda conformidad faros producidos serie desviaciones valores medidos faros direcciones desfavorables
 Muestra
 faro
-
 faros
-
-
 muestra
 Muestra
 reúnen condiciones punto referentes muestra
@@ -729,7 +725,6 @@ Muestra
 caso
 reúnen condiciones punto referentes muestra
 reúnen condiciones punto referentes muestra
-
 reúnen condiciones punto referentes muestras
 DESPLAZAMIENTO VERTICAL LÍNEA CORTE
 faros muestra procedimiento toma muestras figura presente anexo sometido ensayo prevé punto anexo sometido consecutivas ciclo descrito punto anexo
@@ -739,7 +734,6 @@ obstante muestra respeta valor mrad faros muestra sometidos procedimiento valor 
 dispositivos
 toma muestras
 dispositivos elegidos azar repartidos muestras
-
 muestra
 Ajuste
 Repetición toma muestras
@@ -761,7 +755,6 @@ luz antiniebla delantera
 ciclo minutos apagado encendido
 faros agrupados luces antiniebla delanteras símbolos marcado clase añadidos constituyen ejemplo carácter exhaustivo
 HC HR
-
 PD HCR PDD HCR HR
 PD HC PDD HC HR
 PF HC HC
@@ -974,7 +967,6 @@ Notificación certificados importación expedidos Reglamento CE
 miembro
 Aplicación artículo Reglamento CE
 Cantidades productos expedido certificados importación
-
 orden
 Categoría categorías producto
 Cantidades
@@ -992,7 +984,6 @@ Cantidad despachada libre práctica
 ANEXO II
 Notificación certificados importación expedidos Reglamento CE
 Aplicación artículo Reglamento CE
-
 País origen
 Brasil
 Zelanda
@@ -2061,7 +2052,6 @@ Clostridium perfringens ausente productos
 muestras material tomadas período almacenamiento
 Salmonella ausente
 Enterobacteriaceae
-
 número muestras ensayo
 valor umbral número bacterias resultado satisfactorio número bacterias muestras superior
 valor máximo número bacterias resultado insatisfactorio número bacterias muestras superior
@@ -2601,7 +2591,6 @@ Región destino
 Lugar origen
 Lugar destino
 Establecimiento
-
 Número autorización
 Lugar carga
 Fecha salida
@@ -2648,7 +2637,6 @@ Declaración expedidor
 abajo firmante declara
 información aportada correcta
 tomado precauciones evitar contaminación subproductos animales productos derivados agentes patógenos contaminación cruzada categorías
-
 Casilla procede
 Casilla número autorización registro
 Casilla complétese
@@ -2667,7 +2655,6 @@ materiales categoría productos derivados material categoría destinados piensos
 Número lote Indique número lote número marca auricular proceda
 firma deberá color distinto texto impreso
 Firma
-
 lugar
 fecha
 firma persona responsable expedidor
@@ -2841,7 +2828,6 @@ derivados grasas grasas extraídas categoría aceite pescado categoría deberán
 grasa extraída aceite pescado estén envasados deberán estarlo recipientes limpios desinfectados procede impedir contaminación deberán tomarse precauciones necesarias evitar recontaminación
 esté previsto transportar productos granel tubos bombas depósitos contenedor transporte granel camión cisterna utilizado transportar productos fábrica directamente buque depósitos costa directamente plantas deberán limpiados utilizados
 Condiciones específicas leche calostro productos derivados leche calostro
-
 utilizarse producción leche productos lácteos productos derivados leche leche prevista artículo letra Reglamento CE distinta lodos centrifugado separación leche prevista artículo letras Reglamento CE
 utilizarse calostro condición proceda animales vivos presente signo enfermedad transmisible personas animales calostro
 leche objeto tratamientos siguientes
@@ -3121,7 +3107,6 @@ tratamiento deberán objeto precauciones necesarias garantizar contaminan
 accesorios masticables perros deberán envasarse envases
 producción almacenamiento productos expedición deberán tomarse muestras aleatoria accesorios masticables perros alimentos transformados animales compañía distintos alimentos conserva alimentos transformados animales compañía hayan tratado conforme establecido punto letra inciso comprobar cumplen normas siguientes
 Salmonella ausencia
-
 valor umbral número bacterias resultado considerará satisfactorio número bacterias muestras superior
 valor máximo número bacterias resultado considerará insatisfactorio número bacterias muestras superior
 número muestras cuyo recuento bacterias situarse muestra considerándose aceptable recuento bacterias muestras inferior
@@ -4001,7 +3986,6 @@ proceden terceros países partes terceros países figuran columna anexo Reglamen
 pH reducido valor inferior proceden terceros países partes terceros países figuran columna anexo Reglamento UE sometidos tratamiento pasteurización suficiente producir reacción negativa prueba fosfatasa
 proceden terceros países partes terceros países figuran columna anexo Reglamento UE sometidos tratamiento esterilización tratamiento térmico doble tratamientos suficiente producir reacción negativa prueba fosfatasa
 proceden terceros países partes terceros países figuran columna anexo Reglamento UE producido brote fiebre aftosa meses llevado cabo vacunación fiebre aftosa meses sometido
-
 proceso esterilización permitido alcanzar valor Fc superior
 tratamiento térmico inicial efecto calentamiento mínimo °C segundos suficiente producir reacción negativa prueba fosfatasa seguido
 tratamiento térmico efecto calentamiento alcanzado suficiente producir reacción negativa prueba fosfatasa seguido caso leche polvo productos lácteos polvo procedimiento desecado
@@ -4107,7 +4091,6 @@ obtenido animales
 procedentes explotaciones
 casos brotes peste bovina enfermedad vesicular porcina enfermedad Newcastle influenza aviar altamente patógena previos peste porcina clásica africana previos animales sensibles enfermedades cumplido condiciones explotaciones situadas radio km previos
 caso brote fiebre aftosa previos cumplido condiciones explotaciones situadas radio km previos
-
 sacrificados erradicar epizootias
 permanecido explotaciones origen previos expedición transportados directamente matadero contacto animales cumplían condiciones sanitarias
 sometidos inspección sanitaria mórtem matadero horas previas sacrificio presentaban signo enfermedades citadas anteriormente sensibles animales cuestión
@@ -4300,7 +4283,6 @@ Declaración oficial
 pieles tratadas rumiantes équidos enviarán Unión Europea transitarán mantenido separadas veintiún transportarán ininterrumpidamente veintiún importación
 Pieles tratadas rumiantes équidos mantenido aisladas transportarán ininterrumpidamente importación
 veterinario oficial abajo firmante declara pieles descritas anteriormente
-
 secadas
 saladas seco salmuera catorce expedición
 saladas sal marina añadido carbonato sódico
@@ -4494,7 +4476,6 @@ Aloque americana Paenibacillus larvae larvae
 acariosis Acarapis woodi Rennie
 pequeño escarabajo colmena Aethina tumida
 ácaro Tropilaelaps Tropilaelaps spp
-
 sometidos temperatura °C inferior mínimo veinticuatro horas
 caso cera refinada transformada conformidad método transformación descrito anexo IV capítulo III Reglamento UE Comisión
 Casilla indíquese código SA apropiado especifíquese mercancía indicado casilla
@@ -4560,8 +4541,6 @@ Nombre
 Dirección
 Asimismo declara subproducto animal contiene obtenido material especificado riesgo define anexo Reglamento CE Parlamento Europeo Consejo carne separada mecánicamente obtenida huesos bovinos ovinos caprinos
 Importador
-
-
 Firma
 Número referencia indicado Documento Veterinario Común Entrada DVCE previsto anexo III Reglamento CE Comisión
 Sello oficial puesto inspección fronterizo entrada UE
@@ -4866,7 +4845,6 @@ AUTORIZACIÓN GENERAL EXPORTACIÓN UNIÓN EU
 Exportaciones Australia Canadá Japón Zelanda Noruega Suiza incluido Liechtenstein Unidos América
 Autoridad expedición Unión Europea
 sustituye texto
-
 presente autorización general exportación aplica productos doble especificados epígrafes anexo presente Reglamento enumerados anexo IIg
 suprime
 pasa modifica
@@ -4888,14 +4866,12 @@ ANEXO IIB
 AUTORIZACIÓN GENERAL EXPORTACIÓN UNIÓN EU
 Exportaciones determinados productos doble determinados destinos
 Autoridad expedición Unión Europea
-
 Productos
 presente autorización general exportación abarca siguientes productos doble especificados anexo presente Reglamento
 bc
 Aa
 Aa
 Acf
-
 Destinos
 presente autorización válida Unión exportaciones siguientes destinos
 Argentina
@@ -4904,7 +4880,6 @@ Islandia
 Sudáfrica
 República Corea
 Turquía
-
 Condiciones requisitos
 presente autorización autoriza exportación productos
 exportador informado autoridades competentes miembro esté establecido define artículo apartado presente Reglamento productos cuestión parcialmente destinados
@@ -4924,7 +4899,6 @@ proceda requisitos establecidos párrafos basarán definidos autorizaciones gene
 ANEXO IIc
 AUTORIZACIÓN GENERAL EXPORTACIÓN UNIÓN EU
 Exportación reparación sustitución
-
 presente autorización general exportación abarca productos doble especificados epígrafes anexo presente Reglamento enumerados punto
 productos hayan reimportado territorio aduanero Unión Europea mantenimiento reparación sustitución exporten reexporten país procedencia cambios características originales plazo años fecha concedido autorización exportación original
 productos exporten país procedencia marco intercambio cantidad productos calidad reimportados territorio aduanero Unión Europea mantenimiento reparación sustitución plazo años fecha concedido autorización exportación original
@@ -4942,10 +4916,8 @@ equipos medición diseñados especialmente evaluar convalidar funciones segurida
 Aaa
 Aaa
 Aac
-
 Ab
 Ad
-
 Bosnia Herzegovina
 Brasil
 China incluidos Hong Kong Macao
@@ -4963,7 +4935,6 @@ Túnez
 Turquía
 Ucrania
 Emiratos Árabes Unidos
-
 presente autorización utilizar exportación inicial virtud autorización general exportación Unión autoridades competentes miembro establecido exportador original hubieran concedido autorización exportación inicial exportación productos posteriormente reimportaron territorio aduanero Unión Europea mantenimiento reparación sustitución
 presente autorización válida exportaciones usuario original
 exportador informado autoridades competentes miembro esté establecido define artículo apartado presente Reglamento productos cuestión parcialmente destinados

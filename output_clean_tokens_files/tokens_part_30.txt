@@ -307,9 +307,7 @@ REINO SUECIA
 REINO UNIDO BRETAÑA IRLANDA NORTE
 Partes contratantes Tratado Unión Europea Tratado Funcionamiento Unión Europea sucesivo Tratados UE miembros Unión Europea
 UNIÓN EUROPEA
-
 REPÚBLICA MOLDAVIA
-
 TOMANDO NOTA colaboración cooperación Comunidades Europeas miembros República Moldavia Bruselas noviembre
 DESEOSOS crear Zona Común Aviación ZCA basada objetivo abrir acceso mercados Partes condiciones competencia equitativas observancia normas incluidas relativas seguridad aérea protección aviación gestión tránsito aéreo aspectos sociales ambiente
 DESEOSOS facilitar expansión oportunidades transporte aéreo iniciativas desarrollo redes transporte aéreo satisfagan adecuadamente necesidades pasajeros expedidores relación servicios transporte aéreo
@@ -464,7 +462,6 @@ marco prestación oferta servicios virtud presente compañías aéreas Partes co
 compañía compañías aéreas Partes
 compañía compañías aéreas tercer país
 proveedor transporte superficie terrestre marítimo país
-
 compañía operadora disponga derechos tráfico adecuados
 compañía operadora disponga habilitaciones ruta pertinentes
 acuerdos cumplan condiciones seguridad competencia suelen aplicarse acuerdos
@@ -1905,10 +1902,8 @@ crédito
 divisas
 renta variable
 tipos interés
-
 desglose volúmenes operaciones agregados categoría derivados
 desglose valores agregados categoría derivado
-
 datos publicarán sitio web portal línea fácilmente accesible público actualice semanalmente
 Artículo
 Acceso datos autoridades competentes
@@ -3149,7 +3144,6 @@ Museos teatros bibliotecas instituciones culturales públicas
 Muzeum Łazienki Królewskie
 Instituciones públicas investigación instituciones investigación desarrollo instituciones investigación
 Centros autónomos públicos gestión sanitaria cuya financiación corra cargo entes autónomos regionales locales consorcios
-
 Institutos públicos sem carácter comercial ou industrial instituciones públicas carácter comercial industrial
 Serviços públicos personalizados servicios públicos dotados personalidad jurídica
 Fundações públicas fundaciones públicas

@@ -510,9 +510,7 @@ Secretaría General Consejo encargará publicar Diario Oficial Unión Europea fe
 Corrección errores Reglamento UE Consejo marzo relativo medidas restrictivas dirigidas determinadas personas entidades organismos habida situación Ucrania
 Diario Oficial Unión Europea marzo página artículo letra persona jurídica entidad organismo encuentre territorio Unión constituida sociedad forma arreglo Derecho miembro persona jurídica entidad organismo encuentre territorio Unión registrado constituido arreglo Derecho miembro
 página anexo entrada Serhii Petrovych Kliuiev columna Información identificación
-
 Nacido agosto hombre negocios hermano Andrii Kiuiev
-
 Nacido agosto hombre negocios hermano Andrii Kliuiev
 Directiva UE Comisión
 febrero
@@ -1210,13 +1208,9 @@ desplazar abajo haz permitido desplazamiento sentido horizontal
 medida destinada eliminar reducir asimétrica haz
 aplicarse medidas siguientes requisitos iluminación deberán cumplirse modificar ajuste dirección circulación original
 Haz cruce diseñado circulación derecha adaptado circulación izquierda
-
 lux mínimo
-
 lux máximo
 Haz cruce diseñado circulación izquierda adaptado circulación derecha
-
-
 faros diseñados emitir alternativamente haz carretera haz cruce haz cruce haz carretera diseñados alumbrado curva dispositivo mecánico electromecánico tipo incorpore efectos faro fabricarse
 pedir solicitante proporcione equipos necesarios cabo ensayo
 prescindir ensayo solicitante presenta faro acompañado acta ensayo expedida servicio técnico encargado ensayos homologación faros configurados montados confirme cumplimiento requisito
@@ -1298,7 +1292,6 @@ fuente luminosa descarga gas falla fuente luminosa adicional módulos LED adicio
 tensión ensayo medición fuente luminosa adicional módulos LED adicionales ambas cosas deberá indicada punto
 fuente luminosa módulo LED adicionales fallan faro deberá seguir cumpliendo requisitos aplicables haz cruce
 tensión aplicada bornes balastos
-
 sistemas
 especifique
 véase anexo
@@ -1321,19 +1314,12 @@ mín
 mín
 mín
 mín
-
 Segmento
 mín
-
-
 Segmento II
-
-
 Segmento III
-
 máx
 Derecha línea VV
-
 máx
 Izquierda línea VV
 requisitos punto aplicarán faros diseñados proporcionar alumbrado curva incluyan fuente luminosa adicional módulos LED adicionales ambas cosas refiere punto
@@ -1749,14 +1735,11 @@ Requisitos mínimos aplicables procedimientos control conformidad producción
 GENERALIDADES
 considerará requisitos conformidad cumplido punto vista mecánico geométrico diferencias exceden desviaciones inevitables proceso fabricación exigido presente Reglamento
 rendimiento fotométrico cuestionará conformidad faros fabricados serie comprobar rendimiento fotométrico faro elegido azar medido especifique
-
 equipado fuente luminosa descarga gas fabricación serie balasto fabricación serie flujo luminoso fuente luminosa diferir flujo luminoso nominal tolerancias fuente luminosa balasto especificadas Reglamento iluminancias medidas corregirse consecuencia dirección favorable
-
 lux equivalente
 lux equivalente
 línea línea lux equivalente
 lux equivalente
-
 caso haz cruce valores prescritos presente Reglamento cumplen HV tolerancia lux relación ajuste punto área delimitada pantalla medición círculo cm radio torno puntos letras paréntesis refieren faros diseñados circulación izquierda
 tolerancia lux segmento
 caso haz carretera punto HV situado isolux Emax observa tolerancia máximos mínimos valores fotométricos cualquiera puntos medición especificados punto presente Reglamento
@@ -1814,7 +1797,6 @@ muestra
 faro
 faro
 faros
-
 pasar muestra
 muestra
 faros
@@ -1913,7 +1895,6 @@ petición solicitante módulo LED hará funcionar horas dejará enfriar temperat
 REQUISITOS ENSAYOS ESPECÍFICOS
 Radiación UV
 radiación UV módulo LED deberá
-
 Sl unidad función ponderación espectral
 km lm valor máximo eficacia luminosa radiación
 Véanse definiciones símbolos punto anexo Reglamento
@@ -2083,7 +2064,6 @@ Indicado lechones destetados kg
 Corrección errores Reglamento CE Parlamento Europeo Consejo noviembre determinan normas generales concesión ayudas financieras comunitarias ámbito redes transeuropeas
 Diario Oficial Unión Europea enero página fecha
 Bruselas noviembre
-
 Busek
 Buzek
 Reglamento CE Comisión
@@ -3067,7 +3047,6 @@ Bulgaria Rumanía límites máximos fijados conformidad artículos establecerán
 Artículo
 Introducción gradual pagos directos Croacia
 Croacia introducción pagos directos llevará cabo calendario incrementos expresados porcentaje nivel correspondiente pagos directos aplicable
-
 Artículo
 Pagos directos nacionales complementarios pagos directos Bulgaria Rumanía
 Bulgaria Rumanía utilizar pagos directos nacionales completar pagos concedidos ámbito régimen pago básico referencia secciones título III capítulo
@@ -3574,7 +3553,6 @@ diciembre
 hayan aplicado régimen pago único superficie previsto título Reglamento CE
 hayan financiado medidas virtud artículo Reglamento
 estén afectados excepción prevista artículo apartado caso Malta artículo apartado Reglamento
-
 hayan asignado año período importe disponible conceder pagos directos previstos títulos III IV excepción capítulo sección Reglamento CE financiar
 medidas previstas título III capítulo sección Reglamento CE
 ayuda prevista artículo apartado letra incisos iv letras Reglamento
@@ -4261,9 +4239,7 @@ ilmetiletilpropilamina ISO
 diastereoisómeros combinados
 enero
 diciembre
-
 autorizarán usos fungicida
-
 aplicación principios uniformes mencionados artículo apartado Reglamento CE conclusiones informe revisión espiroxamina particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros deberán prestar especial atención
 riesgo usuarios trabajadores asegurarán condiciones incluyen utilización equipos protección individual adecuados
@@ -4462,7 +4438,6 @@ DO
 DO
 Reglamento modificado lugar Reglamento CE Comisión DO
 ANEXO
-
 Zona establecida conformidad artículo apartado
 Código ISO país
 miembro
@@ -4475,7 +4450,6 @@ distrito Funen municipios
 HUNGRÍA
 distrito BácsKiskun municipios
 distrito Csongrád municipios
-
 Zona establecida conformidad artículo apartado
 Zona
 distrito
@@ -4835,8 +4809,6 @@ Agencia solicitar momento titular autorización comercialización presente copia
 titular autorización comercialización presentará copia tardar recepción solicitud
 artículo apartados sustituyen texto
 titular autorización comercialización presentará copia tardar recepción solicitud
-
-
 Reglamento UE Parlamento Europeo Consejo
 julio
 modifica Reglamento CE Consejo establecen medidas específicas sector agrícola favor regiones ultraperiféricas Unión

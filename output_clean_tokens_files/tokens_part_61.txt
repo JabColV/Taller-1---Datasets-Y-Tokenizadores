@@ -907,9 +907,7 @@ sujeta revisión permanente pudiendo prorrogarse modificarse proceda caso Consej
 Corrección errores Directiva CE Parlamento Europeo Consejo abril control buques rector puerto
 Diario Oficial Unión Europea mayo
 página anexo párrafo
-
 punto incluyen ejemplos deficiencias justificar inmovilización buque véase artículo apartado
-
 punto incluyen ejemplos deficiencias justificar inmovilización buque véase artículo apartado
 Reglamento Ejecución UE Comisión
 abril
@@ -2338,9 +2336,7 @@ Dicloroetano máximo kg contenido seco cloruro clormecuat
 Cloroetileno cloruro vinilo máximo kg contenido seco cloruro clormecuat
 diciembre
 noviembre
-
 autorizar usos regulador crecimiento vegetal cereales cultivos comestibles
-
 evaluación solicitudes autorización productos fitosanitarios contengan clormecuat usos correspondientes plantaciones centeno triticale particular respecta exposición consumidores miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión clormecuat particular apéndices II aprobó Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención
@@ -2529,7 +2525,6 @@ DO
 Reglamento modificado lugar Decisión CE Comisión DO
 ANEXO
 FORMULARIO INFORMACIÓN DEBERÁN CUMPLIMENTAR PRODUCTORES IMPORTADORES EXPORTADORES GASES FLUORADOS EFECTO INVERNADERO
-
 INTRODUCCIÓN
 artículo Reglamento CE determinados gases fluorados efecto invernadero ordena productores importadores exportadores gases fluorados informen Comisión Europea acerca determinadas actividades periodicidad anual comenzando actividades
 productores importadores exportadores Comunidad Europea produzcan importen exporten año tonelada métrica gases fluorados efecto invernadero preparados contengan dichas sustancias deberán cumplimentar formulario presenta continuación
@@ -2548,7 +2543,6 @@ Téngase informes realizan normalmente nivel empresa instalación
 Presentación
 cumplimentado informe presentarse marzo año refiere
 informe presentará Comisión entidad designada autoridad competente miembro correspondiente
-
 Definiciones
 Gases fluorados efecto invernadero Hidrofluorocarburos HFC perfluorocarburos PFC hexafluoruro azufre SF recogidos anexo Reglamento CE preparados contengan dichas substancias incluir substancias objeto control virtud Reglamento CE sustancias agotan capa ozono
 Preparados fabricantes suelen llamar mezclas mezcla sustancias gas fluorado efecto invernadero potencial calentamiento atmosférico preparado inferior
@@ -2580,7 +2574,6 @@ Perfluoropentano
 Perfluorohexano
 Perfluorociclobutano
 Preparados PFC HFC
-
 Datos contacto empresa
 Nombre empresa
 Fecha presentación
@@ -2606,7 +2599,6 @@ Preparados HFC HFC
 PFC Preparados PFC
 Exportación
 función tipos gases fluorados efecto invernadero transacciones indicadas complete formularios adjuntos
-
 Información producción importación HFC
 información relativa producción importación HFC deberá consignarse formularios presentan continuación
 Determine formularios corresponden actividades empresa cumpliméntelos debidamente
@@ -2614,7 +2606,6 @@ Formulario productores importadores HFC
 presente formulario utilizarse consignar producción importación HFC incluidos destinados preparados
 componentes preparados HFC producidos importados sustancia mezclados posteriormente importados preparado mezclados nuevamente consignarse formulario
 recogen HFC comunes
-
 empresa importado comprado preparados mezclado nuevamente consignar dichas sustancias formulario
 empresa importado producido HFC preparados HFC recogidos formulario remítase formulario
 Formulario coproductores productores únicamente
@@ -2655,7 +2646,6 @@ Cantidad destruida empresa instalaciones
 Cantidad destruida encargo empresa instalaciones Comunidad
 materia prima empresa
 Cantidad neta disponible venta Comunidad
-
 Aplicaciones previstas cantidades comercializadas Comunidad utilice mejores estimaciones
 Refrigeración aire acondicionado
 Protección incendios
@@ -2712,7 +2702,6 @@ Indique espacio previsto continuación cuadro composición preparado HFC hubiera
 Especifique aplicaciones espacio previsto continuación cuadro
 casillas casillas
 Composición preparado HFC hubiera incluido cuadro ejemplo Ra HFC HFCa HFCa
-
 Formulario productores importadores SF
 Rellene cuadro proceda indicando transacciones toneladas métricas SF período referencia
 Hexafluoruro azufre
@@ -2726,7 +2715,6 @@ caso importadores casillas iguales casillas productores casillas iguales cantida
 Descripción aplicaciones explicación conocen
 Formulario coproductores SF
 Rellene cuadro indicando transacciones coproductores toneladas métricas SF período referencia
-
 Formulario productores importadores PFC
 Rellene cuadro indicando transacciones toneladas métricas PFC período referencia
 tipos PFC preparados PFC producidos importados empresa recogidos cuadro presenta continuación utilice columnas blanco identificar informar consignar tipos preparados indicando composición preparados
@@ -2753,7 +2741,6 @@ Formulario coproductores PFC
 Rellene cuadro indicando transacciones coproductores toneladas métricas PFC período referencia
 Tratándose PFC comprados vendidos componentes preparados indique PFC componente preparado separadamente
 PFC especifique
-
 Formulario exportadores tipo gases fluorados efecto invernadero
 Cumplimente secciones consignar cantidades gases fluorados efecto invernadero exportadas Comunidad año natural refiere presente formulario
 Use casillas blanco indicar gases fluorados efecto invernadero recogidos lista incluidos preparados
@@ -2768,7 +2755,6 @@ anual exportado Comunidad Europea
 Reciclado
 Regeneración
 Destrucción
-
 Preparados HFC
 Indique espacio previsto continuación cuadro composición preparado hubiera incluido
 Indique composición preparado hubiera incluido cuadro ejemplo Ra HFC HFCa HFCa
@@ -4647,7 +4633,6 @@ Fecha
 Persona económicamente responsable
 Firma
 LT
-
 Decisión Ejecución Comisión
 marzo
 modifica Decisión UE relativa aprobación planes enviados terceros países conformidad artículo Directiva CE Consejo
@@ -4893,7 +4878,6 @@ Descripción
 Derecho aplicable derecho NMF
 Cantidades toneladas
 Contingente anual
-
 Aumento anual
 Leche desnatada polvo
 Libre
@@ -4919,10 +4903,8 @@ Exención
 Contingente arancelario marco anexo VII Reglamento CE atañe determinados productos agrarios procedentes Israel
 Código NC
 Derecho aplicable
-
 Lactosuero lactosuero modificado
 caso mencionen códigos ex NC aplicabilidad régimen preferencial determinará aplicación conjunta código NC descripción correspondiente
-
 Reglamento CE Comisión
 febrero
 modifica Reglamento CE establecen disposiciones aplicación Reglamento CE Consejo respecta medidas intervención mercado leche desnatada polvo

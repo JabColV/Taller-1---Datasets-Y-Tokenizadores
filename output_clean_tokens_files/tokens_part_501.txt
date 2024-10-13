@@ -252,7 +252,6 @@ caso proponga opción asiento realizada prueba procederá determinar zona libre 
 caso contrario deberá realizarse ensayo
 Tolerancias permitidas medidas
 Dimensiones lineales milímetros
-
 deformación neumáticos mm
 deformación dispositivo cargas horizontales mm
 altura caída péndulo mm
@@ -813,7 +812,6 @@ fórmula aplicable tractores posición reversible conductor asiento volante reve
 tractor deberá anclarse suelo cables dispuestos extremo ejes indica figura
 tractores masa referencia kg
 tractores posición reversible conductor asiento volante reversibles altura equivaldrá valor alto obtenidos fórmula aplicada anteriormente fórmula seleccionada continuación
-
 –I
 punto impacto situará estructura protección propensa chocar suelo lugar tractor volcara
 cables tensarán neumáticos experimenten deformaciones indicadas punto
@@ -823,7 +821,6 @@ Tratándose tractor articulado punto articulación inmovilizado pieza madera sec
 tractores reversibles altura equivaldrá resultado alto obtenidos fórmula aplicable anteriormente figuran continuación
 viga colocará elementos estructurales anteriores elevados estructura protección resultante fuerzas aplastamiento situará plano tractor
 fuerza Fv mantendrá segundos desaparezca movimiento estructura protección perceptible simple vista
-
 inmediatamente ensayo impacto originado dichas fracturas fisuras prueba relación deformación permanente Dp deformación elástica
 ensayo examinará estructura protección objeto penetrado zona libre asiento conductor define punto
 Ensayo punto duro trasero
@@ -893,7 +890,6 @@ vueltas campana tractor
 fijado estructura protección punto equilibrio
 Cáculo versión
 Cálculo versión
-
 método viable
 negativo
 positivo
@@ -989,8 +985,6 @@ véanse puntos
 véanse puntos
 véanse puntos
 véanse puntos
-
-
 eje
 eje
 eje
@@ -1065,14 +1059,11 @@ Bruselas mayo
 Consejo
 Presidente
 Secretaría General Consejo encargará publicar Diario Oficial Unión Europea fecha firma
-
 Unión Europea Gobierno República Socialista Democrática Sri Lanka determinados aspectos servicios aéreos
 UNIÓN EUROPEA
 sucesivo denominada Unión
-
 GOBIERNO REPÚBLICA SOCIALISTA DEMOCRÁTICA SRI LANKA
 sucesivo denominado Sri Lanka
-
 sucesivo denominadas Partes
 CONSIDERANDO celebrado acuerdos bilaterales servicios aéreos miembros Unión Sri Lanka
 RECONOCIENDO disposiciones acuerdos bilaterales servicios aéreos miembros Unión Sri Lanka contrarias legislación Unión ajustarse objeto sentar bases jurídicas sólidas servicios aéreos Unión Sri Lanka garantizar continuidad dichos servicios
@@ -1694,7 +1685,6 @@ Quesos conservables franceses
 denominación origen protegida tipos Beaufort Comté
 Emmental grand cru etiqueta roja
 clase tipos Emmental Gruyère
-
 junio septiembre
 octubre marzo
 Quesos conservables alemanes
@@ -2871,7 +2861,6 @@ DECLARA PRESENTE
 adhiere Convenio
 Adjunta presente Instrumento traducción Convenio lengua oficial Croacia
 Acepta recomendaciones decisiones Comisión Mixta UEAELC simplificación formalidades intercambios mercancías adoptadas enero fecha efectiva adhesión Croacia conformidad artículo bis Convenio
-
 Reglamento CE Comisión
 agosto
 fija campaña comercialización precio compra organismos almacenadores adquirir pasas higos secos transformar
@@ -3842,8 +3831,6 @@ Sistema urogenital reproductor
 Sistema endocrino metabolismo
 Multisistémico
 Etología Comportamiento animal Biología animal
-
-
 Investigación traslacional aplicada
 Cáncer humano
 Enfermedades infecciosas humanas
@@ -3947,9 +3934,6 @@ Seguridad animales destinatarios
 Métodos ensayo toxicidad aguda subaguda
 métodos letales
 Métodos letales
-
-
-
 FORMATO COMUNICACIÓN PRESENTACIÓN INFORMACIÓN PREVISTA ARTÍCULO APARTADO DIRECTIVA UE
 datos deberán introducirse utilización animal
 introducir datos animal seleccionar opción categoría
@@ -4098,7 +4082,6 @@ estudios inmunotoxicológicos deberán registrarse rúbrica Toxicidad dosis repe
 Cinética farmacocinética toxicocinética eliminación residuos toxicocinética efectúa estudio reglamentario toxicidad dosis repetidas deberá comunicarse rúbrica Toxicidad dosis repetidas
 rúbrica correspondiente Ensayos seguridad ámbito alimentación humana animal cubre ensayos dedicados agua potable incluidos ensayos seguridad relativos animales destinatarios
 Seguridad animales destinatarios abarca ensayos efectúan garantizar producto destinado animal concreto utilizarse especie forma segura excluyen ensayos seguridad lotes cubiertos Control calidad
-
 OBSERVACIONES MIEMBROS
 Información general cambios hayan observado tendencias período cubierto informe
 Información aumento disminución significativos registrado utilización animales ámbitos específicos análisis motivos expliquen aumento disminución
@@ -4645,7 +4628,6 @@ cisterna inodoro puntos
 cisternas capacidad inferior litros
 Consumo agua lavavajillas punto
 consumo agua lavavajillas expresado Wmedida inferior límite definido ecuación indica continuación utilizando método ensayo ciclo programa elegidos Directiva CE Comisión Wmedida
-
 medida
 consumo medido agua lavavajillas expresado litros ciclo decimal
 capacidad cubiertos indicada lavavajillas
@@ -4862,9 +4844,7 @@ Número muestras elementales
 Peso muestra global
 Cereales productos derivados cereales
 toneladas
-
 sublotes
-
 toneladas
 Uvas pasas pasas Corinto sultanas variedades pasas
 toneladas

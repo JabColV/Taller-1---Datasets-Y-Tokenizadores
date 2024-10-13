@@ -1525,7 +1525,6 @@ Alojamiento
 Alimentación bebidas servicios restaurante
 Entradas ferias exposiciones
 Gastos suntuarios ocio representación
-
 utiliza código indicará naturaleza bienes entregados servicios prestados
 miembro devolución exigir solicitante facilite información adicional codificada electrónicamente relación códigos establecidos apartado medida información necesaria limitación derecho deducción arreglo Directiva CE aplique miembro devolución aplicar excepciones significativas concedido miembro devolución arreglo artículos dicha Directiva
 Artículo
@@ -1731,10 +1730,8 @@ DO
 ANEXO
 anexos II III Reglamento CE quedan modificados
 anexo modifica
-
 LISTA TEMAS PRODUCTOS undécimo guión sustituye texto
 vinos denominación origen protegida indicación geográfica protegida vinos indicación variedad uva vinificación
-
 DIRECTRICES directriz relativa VCPRD VINOS MESA INDICACIÓN GEOGRÁFICA sustituye texto
 VINOS DENOMINACIÓN ORIGEN PROTEGIDA INDICACIÓN GEOGRÁFICA PROTEGIDA VINOS INDICACIÓN VARIEDAD UVA VINIFICACIÓN
 Análisis global situación
@@ -3154,7 +3151,6 @@ cuadro punto II sustituye cuadro
 Cuadro
 Peligrosos capa ozono
 Clasificación preparado
-
 Cn
 anexo sustituye texto
 ANEXO
@@ -4382,7 +4378,6 @@ subartículos MLb MLd aplican
 Ácido cianhídrico CAS
 Cloro CAS
 Difosgeno triclorometil cloroformato CAS
-
 Bromuro xililo orto CAS meta CAS CAS
 Bromuro bencilo CAS
 Yoduro bencilo CAS
@@ -4453,7 +4448,6 @@ ADNT aminodinitrotriazol
 BDNTA bisdinitrotriazol amina
 DBT ′dinitrobitriazol CAS
 DNBT dinitrobistriazol CAS
-
 NTDNT Nnitrotriazolodinitrotriazol
 PDNT picrildinitrotriazol
 TACOT tetranitrobenzotriazolobenzotriazol CAS
@@ -4582,7 +4576,6 @@ TAT tetraacetil tetraaza ciclooctano CAS véase subartículo MLa
 tetraazadecalino CAS véase subartículo MLa
 triclorobenceno CAS véase subartículo MLa
 trihidroxibutano butanotriol CAS véase subartículo MLe
-
 Nota
 artículo ML aplica sustancias siguientes estén compuestas mezcladas materiales energéticos especificados subartículo MLa polvos metal especificados subartículo MLc
 Picrato amonio CAS
@@ -4648,7 +4641,6 @@ propulsión independiente aire AIP permite submarino sumergido opere sistema pro
 efectos subcapítulo MLb AIP incluyen energía nuclear
 Aparatos detección subacuática diseñados especialmente militar controles componentes diseñados especialmente militar
 Redes antisubmarinos antitorpedos diseñadas especialmente militar
-
 Obturadores casco conectores diseñados especialmente militar permitan interacción equipos externos buque componentes diseñados especialmente militar
 subartículo MLf incluye conectores navales tipo conductor simple multiconductor coaxiales guías ondas obturadores casco buques capaces estanqueidad conservar características necesarias profundidades submarinas conectores fibra óptica obturadores casco ópticos diseñados especialmente transmisión haz láser cualquiera profundidad
 subcapítulo MLf aplica obturadores casco ordinarios árbol propulsión vástago mando hidrodinámico

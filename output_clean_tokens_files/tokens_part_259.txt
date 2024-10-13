@@ -68,7 +68,6 @@ DO
 DO
 ANEXO
 PROGRAMA OPERATIVO
-
 Contenido programa operativo
 información mencionada puntos presentará forma resumida figura incluida plan estratégico nacional
 TÍTULO PROGRAMA OPERATIVO MIEMBRO
@@ -145,7 +144,6 @@ Designación interlocutores referencia artículo Reglamento CE resultados cooper
 Lista interlocutores consultados resumen resultados consultas
 efectos dispuesto artículo apartado Reglamento CE miembros atendiendo necesidad promover igualdad hombres mujeres desarrollo sostenible integración requisitos protección mejora ambiente estudiarán participación interesados incluidas organizaciones gubernamentales
 Elementos permitan garantizar información publicidad programa operativo conformidad normas establecidas artículo presente Reglamento
-
 Plan financiación programa operativo
 Cuadro Plan financiación programa operativo indicación separado proceda compromiso anual FEP programa operativo regiones subvencionables arreglo objetivo convergencia regiones subvencionables arreglo objetivo
 compromisos efectuarán anualmente arreglo plan
@@ -546,7 +544,6 @@ Comisión Europea Dirección General
 abajo firmante representante nombre organismo designado miembro examinado funcionamiento sistemas gestión control programa operativo nombre programa operativo número CCI período objeto emitir dictamen eficacia funcionamiento dichos sistemas ofrecer garantías razonables corrección declaraciones gastos presentadas Comisión consecuencia garantías razonables legalidad regularidad transacciones conexas
 ALCANCE EXAMEN
 examen llevó cabo conformidad estrategia auditoría presente programa período julio junio año comunicó informe anual control adjunto arreglo artículo apartado letra inciso Reglamento CE
-
 alcance examen ilimitado
 alcance examen vio limitado factores siguientes
 etc
@@ -600,7 +597,6 @@ Resumen resultados repetición controles verificación precisión importes decla
 Resumen resultados examen informes organismos auditoría nacionales comunitarios especifíquense categoría informes recibidos examinados
 Resumen resultados examen información relativa seguimiento conclusiones auditoría irregularidades comunicadas
 Resumen resultados examen tareas adicionales realizadas autoridades gestión certificación emitir dictamen reservas
-
 LIMITACIONES ALCANCE EXAMEN AUTORIDAD AUDITORÍA
 comunicarse información factores limitado alcance examen autoridad auditoría
 declararse importes estimados gasto contribución comunitaria ven afectados
@@ -720,7 +716,6 @@ Comisión presentado dictamen motivado consecuencia incumplimiento tenor artícu
 pago Comisión organismo designado miembro efectuar pagos
 Organismo designado
 Entidad bancaria
-
 Titular coincida organismo designado
 Fecha
 autoridad competente
@@ -964,10 +959,8 @@ conformidad artículo apartado Reglamento base FEP cofinanciar programa operativ
 instrumentos ingeniería financiera adoptarán forma acciones resulten inversiones reembolsables ofrezcan garantías inversiones reembolsables ambas
 importes gasto declarado contribución pública verse afectados respectivamente
 consecuencia contribución comunitaria correspondiente verse afectada
-
 Problemas significativos medidas adoptadas resolverlos completar únicamente producido modificación fundamental informe
 auditorías operaciones referencia artículo apartado letra Reglamento base llevarán cabo conformidad procedimientos nacionales aplicación artículos presente Reglamento
-
 EUR
 indicadores contexto caso estadísticas nacionales regionales confeccionadas Eurostat procedentes fuentes datos estadísticos pertinente utilizarán indicadores enumerados plan estratégico nacional descripción sector pesquero
 Elementos impulsores tendencias desarrollo incluida dimensión sectorial regional desarrollo socioeconómico sector pesquero descripción forma análisis SWOT puntos fuertes puntos débiles oportunidades riesgos permitan determinar opciones estratégicas elegidas miembro programa operativo ejes prioritarios
@@ -1724,7 +1717,6 @@ terceros países
 Japón
 Unidos
 México
-
 terceros países
 precios importación Argentina México término sustancialmente superiores precios medios venta industria Comunidad
 explicado considerando precios Argentina México subcotizaron precios industria Comunidad
@@ -2665,7 +2657,6 @@ Firma sello aduana
 VISTO AUTORIDAD COMPETENTE
 abajo firmante certifica país contemplado casilla cantidades expedido licencias exportación arroz virtud Reglamento CE año indicado casilla incluidas presente licencia exportación inferiores cantidad máxima autorizada anexo III artículo apartado Decisión CE
 Autoridad competente Nombre dirección completa país
-
 firma sello
 ANEXO II
 Indicaciones contempladas artículo apartado
@@ -3093,7 +3084,6 @@ punto sustituye texto
 petición Comisión miembros pondrán disposición hoja cálculo datos mencionados punto formato especificado cuadros II III enviándola direcciones correo electrónico correspondientes comunicadas Comisión
 notificar Comisión datos mencionados punto adoptarse formato hoja cálculo conformidad procedimiento mencionado artículo apartado Reglamento CE
 anexo IV sustituye texto
-
 Límites cuantitativos aplicables licencias permisos pesca buques comunitarios faenen aguas terceros países
 Zona pesca
 Pesquería
@@ -4443,7 +4433,6 @@ Fecha concesión ayuda
 ANEXO III
 Formulario facilitar información resumida regímenes ayudas ayudas ad hoc investigación desarrollo virtud artículo apartado
 rogamos cumplimente información solicitada continuación
-
 Número ayuda
 completar Comisión
 miembro

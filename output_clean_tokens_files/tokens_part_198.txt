@@ -2504,7 +2504,6 @@ Fichas información complementaria tipo ayuda
 impreso rellenarse correctamente caso contrario notificación devuelta considerarse incompleta
 impreso rellenado transmitido papel Órgano misión unidad coordinación EEE AELC concernido
 AELC utiliza procedimiento específico establecido normas aplicables ayuda estatal copia notificación enviada Director Dirección Competencia Ayuda Estatal Órgano
-
 INFORMACIÓN GENERAL
 NATURALEZA NOTIFICACIÓN
 información transmitida impreso refiere
@@ -2559,10 +2558,8 @@ Conservación patrimonio
 Cultura
 Sistema Ayuda individual
 refiere notificación régimen ayudas
-
 caso afirmativo modifica régimen régimen ayudas existente
 caso afirmativo cumplen condiciones establecidas procedimiento notificación simplificado conformidad artículo apartado Decisión COL Órgano Vigilancia
-
 caso afirmativo utilícese impreso notificación simplificada facilítese información solicita véase Anexo II
 caso negativo sígase cumplimentando impreso especifíquese notificó Órgano régimen objeto modificación
 caso afirmativo especifíquense
@@ -2646,12 +2643,6 @@ Pequeñas empresas
 Microempresas
 siguientes beneficiarios
 Número estimado beneficiarios
-
-
-
-
-
-
 Importe ayuda gasto anual
 ayuda individual indíquese importe medida
 régimen ayudas indíquese importe anual presupuesto previsto importe moneda nacional
@@ -3431,7 +3422,6 @@ caso afirmativo comprometerse respetar intensidades ayuda máximas establecidas 
 Ayuda saneamiento instalaciones industriales contaminadas
 instalación cuestión descríbase naturaleza contaminación
 naturaleza grado contaminación peligro supone salud humana ambiente evaluados experto independiente
-
 Adjúntese copia informes
 caso ayuda específica contesten siguientes preguntas
 instalación actualmente propiedad pública privada
@@ -3709,7 +3699,6 @@ construcción infraestructuras vinculadas transporte combinado
 caso afirmativo descríbase medida
 concesión subvenciones reembolsables reducir costes acceso servicios transporte combinado
 caso afirmativo facilítese estudio justifique medida
-
 subvencionables contenedores marítimos ISO virtud régimen
 subvencionables vagones locomotoras virtud régimen
 caso afirmativo especifíquense beneficiarios
@@ -4005,7 +3994,6 @@ Factor corrección seco húmedo gas escape bruto
 Porcentaje par relación par máximo motor ensayo
 Longitud efectiva camino óptico
 Pendiente función calibración PDP
-
 Subíndice indica caudal másico emisiones
 Masa muestra aire dilución filtros muestreo partículas
 Masa muestra partículas aire dilución recogida
@@ -4480,7 +4468,6 @@ logaritmo natural valor medido motor muestra
 estimación desviación típica producción restar logaritmo natural mediciones
 número muestra utilizando
 muestra calculará suma desviaciones típicas límite fórmula
-
 resultado estadístico ensayo superior número correspondiente decisión aprobado figura cuadro tamaño muestra cuestión adoptará decisión aprobado contaminante
 resultado estadístico ensayo inferior número correspondiente decisión suspenso figura cuadro tamaño muestra cuestión adoptará decisión suspenso contaminante
 casos someterá ensayo motor adicional punto presente Reglamento aplicará procedimiento cálculo muestra aumentada unidad
@@ -4501,7 +4488,6 @@ di xi
 cuadro figuran valores aprobado An suspenso Bn tamaño muestra utilizada
 resultado estadístico ensayo relación dn
 deberá utilizarse determinar aprueba rechaza serie
-
 aprueba serie dn
 rechaza serie d‾
 medición An

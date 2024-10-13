@@ -411,7 +411,6 @@ Operaciones financieras netas atrimonio financiero neto
 Cuadro
 Depósitos FF
 IFM
-
 residentes
 zona euro residentes
 Residentes zona euro
@@ -419,7 +418,6 @@ Cuadro
 Préstamos corto plazo
 IFM
 Hogares inclusive ISFLSH SS
-
 Cuadro
 Préstamos plazo
 IFM
@@ -475,7 +473,6 @@ Fondos inversión monetarios
 Fondos inversión monetarios
 Fondos inversión monetarios
 Fondos inversión monetarios
-
 Directiva UE Comisión
 junio
 modifica vistas adaptación progreso técnico Directiva CE Parlamento Europeo Consejo relativa calidad gasolina gasóleo
@@ -551,7 +548,6 @@ Significa enviado Comisión solicitud certificado
 orden
 Coeficiente asignación aplicable solicitudes certificados importación presentadas subperíodo comprendido enero marzo
 Cantidad disponible subperíodo comprendido abril junio
-
 solicitudes certificados importación presentadas mes enero subperíodo comprendido enero marzo superiores cantidades disponibles conviene determinar fijación coeficiente asignación aplicará cantidades solicitadas medida expedirse certificados importación
 Reglamento Ejecución UE Consejo
 diciembre
@@ -1746,14 +1742,12 @@ DO
 Decisión modificada lugar Decisión CE DO
 ANEXO
 Métodos clasificación canales cerdo Países Bajos
-
 clasificación canales cerdo hará dispositivo denominado Hennessy Grading Probe HGP
 dispositivo consta sonda diámetro milímetros milímetros hoja situada superior sonda provista fotodiodo Siemens LED tipo LYU EO fotodetector tipo MR alcance operativo milímetros
 resultados mediciones convertirán contenido estimado carne magra HGP ordenador conectado
 contenido carne magra canal calculará fórmula
 cerda joven
 cerdo castrado
-
 porcentaje estimado carne magra canal
 cerda joven
 cerdo castrado
@@ -1764,7 +1758,6 @@ obstante julio contenido carne magra canal calculará fórmula
 porcentaje estimado carne magra
 espesor músculo milímetros medido tiempo lugar
 fórmula válida canales peso comprendido kilogramos
-
 clasificación canales cerdo hará dispositivo denominado VISION system VCS
 dispositivo VISION system VCS sistema tratamiento imágenes determina automáticamente valor comercial medias canales cerdo
 sistema utilizado línea sistema sacrificio consiste sistema cámaras filma automáticamente medias canales
@@ -1815,9 +1808,7 @@ ARGELIA
 prohibición
 notificación autorización previas escrito
 ausencia control país destino
-
 residuos
-
 alcohol polivinílico
 Residuos resinas curadas productos condensación inclusión siguientes
 resinas ureicas formaldehído
@@ -1834,41 +1825,32 @@ tetrafluoroetileno perfluorometilvinil éter MFA
 fluoruro polivinilo PVF
 fluoruro polivinilideno PVDF
 elementos
-
 butiral polivinilo
 acetato polivinilo
-
 papel cartón obtenido principalmente pasta mecánica ejemplo periódicos revistas materiales impresos similares
 inclusión limitarse desperdicios triar
 elementos
-
 Micelio hongos desactivado resultante producción penicilina utilización pienso
 elementos
 BELARÚS
-
 Desechos germanio
 Desechos vanadio
 Desechos hafnio indio niobio renio galio
 Desechos torio
 elementos
-
 Desechos berilio
 Desechos telurio
 elementos
-
 Polvo vanadio
 elementos
-
 Polvo titanio
 elementos
 Metales transición
 Lantánidos metales grupo tierras raras
-
 Residuos vidrio forma dispersable
 Desperdicios vidrios rotos desechos escorias vidrios excepción vidrio tubos rayos catódicos vidrios activados
 residuos vidrio contengan sustancias específicas
 elementos
-
 Sulfato calcio parcialmente refinado resultante desulfuración gases combustión
 Escorias producción cobre químicamente estabilizadas elevado contenido hierro tratadas conformidad especificaciones industriales ejemplo DIN DIN principalmente fines construcción aplicaciones abrasivos
 Residuos revestimientos planchas yeso resultantes demolición edificios
@@ -1899,10 +1881,8 @@ sulfuros polifenileno
 alcanos CC plastificantes
 polisiloxanos
 siguientes residuos polímeros fluorados tén preparados arreglo especificación
-
 Desechos lana pelo animal fino basto inclusión desechos hilados exclusión material hilachas
 elementos
-
 Productos desgrasados residuos resultantes tratamiento sustancias grasas ceras animales vegetales
 Desechos huesos núcleos córneos elaborados desgrasados simplemente preparados cortar forma determinada tratados ácido desgelatinizados
 Desechos pescado
@@ -1911,14 +1891,11 @@ Desechos pelo humano
 ex GB Escorias galvánicas contengan cobre
 ex GB Escorias procedentes tratamiento metales preciosos
 ex GE Residuos fibra vidrio propiedades fisicoquímicas similares amianto
-
-
 materiales siguientes estén mezclados desechos peligrosos Desperdicios desechos papel cartón
 papel cartón blanquear papel cartón ondulado
 papeles cartones obtenidos principalmente pasta química blanqueada colorear masa
 papel cartón obtenido principalmente pasta mecánica ejemplo periódicos revistas materiales impresos similares
 ex
-
 Chatarra molibdeno
 Desechos cobalto
 Desechos bismuto
@@ -1938,36 +1915,26 @@ Chatarra cinc
 Chatarra estaño
 Chatarra tantalio
 elementos
-
 Residuos cinc duro
-
 Lantánidos metales grupo tierras raras
 elementos
 siguientes residuos polímeros fluorados
-
-
 desechos algodón inclusión desechos hilados material hilachas
 Desechos hilados inclusión desechos hilos
-
 Desechos inclusión borras desechos hilados material hilachas
 fibras sintéticas
 fibras artificiales
-
 residuos resultantes industrias agroalimentarias infecciosos
 chatarra tantalio
 elementos
 Residuos revestimientos refractarios inclusión crisoles derivados fundición cobre
 Residuos resinas curadas productos condensación inclusión siguientes
-
 OMÁN
-
 FILIPINAS
 chatarra tantalio
-
 Desechos plomo exclusión baterías plomoácido
 elementos
 cobalto lantanio
-
 Desperdicios desechos cermet compuestos cerámica metal
 Fibras cerámicas especificadas incluidas categoría
 FEDERACIÓN RUSIA
@@ -1982,25 +1949,19 @@ Matas galvanización fondo Zn
 Matas cinc moldeo presión Zn
 Matas proceso galvanización discontinuo Zn
 Residuos procedentes desespumado cinc
-
-
 Escorias producción cobre químicamente estabilizadas elevado contenido hierro tratadas conformidad especificaciones industriales ejemplo DIN DIN principalmente fines construcción aplicaciones abrasivos
 Residuos resinas curadas productos condensación
-
 TAILANDIA
-
 Residuos vidrio contengan litiotantalio litioniobio
 Desechos plástico polímeros copolímeros halogenados
 siguientes residuos polímeros fluorados
 Desechos inclusión borras desechos hilados material hilachas fibras naturales
 Trapos usados bramantes cordelería cables desecho artículos usados bramante cordelería cables materiales textiles
-
 residuos caucho exclusión residuos especificados categoría
 Desechos desperdicios caucho endurecido ejemplo ebonita
 Desechos cadmio
 Desechos selenio
 Desechos antimonio
-
 Véase nota pie página Reglamento CE Parlamento Europeo Consejo DO
 BOTSUANA
 PERÚ
@@ -3805,7 +3766,6 @@ levadura inactivada selenizada
 Caracterización aditivo
 Selenio orgánico principalmente seleniometionina componentes selenio peso molecular contenido mg kg selenio orgánico
 Método analítico Espectrometría absorción atómica AAS horno grafito efecto Zeeman híbrido AAS
-
 aditivo incorporará pienso compuesto forma premezcla
 seguridad usuarios utilizar protección respiratoria gafas seguridad guantes manipulación
 años fecha entrada vigor presente Reglamento
@@ -4072,9 +4032,7 @@ Ncianometiltrifluorometilnicotinamida
 impureza tolueno exceder kg material técnico
 septiembre
 agosto
-
 autorizar usos insecticida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión flonicamid particular apéndices II adoptó Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención
 riesgo operarios trabajadores vuelven entrar instalaciones

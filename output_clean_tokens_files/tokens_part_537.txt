@@ -130,7 +130,6 @@ Ejecución operaciones pago fondos estén cubiertos línea crédito abierta usua
 Emisión adquisición instrumentos pago
 Envío dinero
 Ejecución operaciones pago transmita consentimiento ordenante ejecutar operación pago dispositivos telecomunicación digitales informáticos realice pago operador red sistema telecomunicación informático actúa únicamente intermediario usuario servicio pago prestador bienes servicios
-
 quedarán aislados conformidad normativa nacional beneficio usuarios servicios pago posibles reclamaciones acreedores entidad pago particular caso insolvencia
 Posición Común PESC Consejo
 noviembre
@@ -345,7 +344,6 @@ proceder determinar unidades mayores menores tomarán consideración unidades ro
 considerará peras almíbar zumo natural fruta cumplen disposiciones apartado artículo sobrepasen límites tolerancia siguientes
 Forma presentación
 Peras enteras mitades cuartos
-
 Unidades alteradas
 número
 Unidades daños mecánicos
@@ -430,10 +428,8 @@ Artículo apartado párrafo
 Corrección errores Protocolo Colaboración Cooperación Comunidades Europeas miembros República Kazajstán amplía ámbito aplicación Colaboración Cooperación comercio bilateral textiles vista expiración bilateral textiles
 Diario Oficial Unión Europea enero
 página artículo
-
 Artículo
 presente Protocolo entrará vigor mes fecha firma
-
 presente Protocolo entrará vigor mes fecha Partes notifiquen cumplimiento procedimientos internos necesarios
 página artículo
 Artículo
@@ -1103,7 +1099,6 @@ Nagylak HU puesto inspección fronterizo mercancías punto cruce animales vivos 
 Bildt
 BRG
 NHCNT
-
 HCTCH HCNT NHCTFR NHCNT
 Reglamento UE Parlamento Europeo Consejo
 febrero
@@ -1891,7 +1886,6 @@ Instrumentos mercado monetario
 Derivados financieros
 inversión
 Administraciones públicas
-
 Efectivo depósitos
 plazo
 Corto plazo
@@ -1932,7 +1926,6 @@ Oro incluidos depósitos oro swaps oro
 activos reserva
 Derivados financieros
 Préstamos sector bancario residente
-
 activos moneda extranjera
 Valores incluidos activos reserva oficiales
 Depósitos incluidos activos reserva oficiales
@@ -2405,7 +2398,6 @@ pago dividendos plusvalías extraordinarias debería registrarse financiera entr
 plazo
 relaciones indirectas inversión extranjera directa deberían comprender mínimo vínculos indirectos propiedad superior ii vínculos directos indirectos propiedad superior calculados producto vínculos sucesivos propiedad cadena
 exceptúan transacciones posiciones derivados financieros filiales nivel zona euro acordó registrar derivados financieros inversión directa capital
-
 recomendación refiere necesidad incluyan relaciones indirectas metodología debería aplicarse
 Véase recomendación plazo cobertura relaciones indirectas inversión extranjera directa práctica
 recomendación aplicable beneficios reinvertidos flujos saldos acciones inversión extranjera directa
@@ -4182,7 +4174,6 @@ Naranjas
 Limones
 Limas
 Mandarinas
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -4908,7 +4899,6 @@ Costa
 Rural incluida orilla lago río etc
 Crucero
 Montañas tierras altas colinas etc
-
 Únicamente viajes motivos personales Participación niños grupo viaje
 Principal transporte
 Aéreo vuelos regulares chárter servicios aéreos
@@ -4925,7 +4915,6 @@ Alojamiento alquilado vivienda vacacional
 Alojamiento alquilado alojamiento proporcionado gratuitamente parientes amigos
 Alojamiento alquilado alojamientos alquilados
 Reserva viaje reserva principal transporte operador turístico agencia viajes
-
 Reserva viaje reserva alojamiento principal operador turístico agencia viajes
 Únicamente viajes hayan utilizado servicios operadores turísticos agencias viajes reservar principal transporte alojamiento principal Reserva viaje independiente
 servicios reservaron directamente proveedor servicio

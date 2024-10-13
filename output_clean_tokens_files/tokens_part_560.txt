@@ -368,7 +368,6 @@ Formulación plaguicida extremadamente peligrosa
 respuesta importación producto químico país
 modificación respuesta
 respuesta decisión definitiva
-
 respuesta respuesta provisional
 Fecha emisión respuesta
 Decisión definitiva rellene sección
@@ -555,8 +554,6 @@ dieldrina clasificada Directiva CEE Consejo junio relativa aproximación disposi
 dinoseb clasificado Directiva CEE Consejo junio relativa aproximación disposiciones legales reglamentarias administrativas materia clasificación embalaje etiquetado sustancias peligrosas DO tóxico tóxico contacto piel ingestión Repr
 tóxico reproducción categoría riesgo embarazo efectos adversos feto Repr
 DBE clasificado Directiva CEE Consejo junio relativa aproximación disposiciones legales reglamentarias administrativas materia clasificación embalaje etiquetado sustancias peligrosas DO tóxico tóxico inhalación ingestión contacto piel Carc
-
-
 isómeros clasificados Directiva CEE Consejo junio relativa aproximación disposiciones legales reglamentarias administrativas materia clasificación embalaje etiquetado sustancias peligrosas DO ejemplo hexaclorociclohexanos excepción clasificados partes anexo Directiva Carc
 carcinogénico categoría posibles efectos cancerígenos tóxico tóxico ingestión Xn nocivo nocivo contacto piel peligroso ambiente tóxico organismos acuáticos provocar plazo efectos negativos ambiente acuático
 heptacloro clasificado Directiva CEE Consejo junio relativa aproximación disposiciones legales reglamentarias administrativas materia clasificación embalaje etiquetado sustancias peligrosas DO tóxico tóxico contacto piel ingestión Carc
@@ -821,7 +818,6 @@ Cantidades indemnizables
 artículo apartado guión
 Cantidades indemnizables totales
 artículo apartado guiones
-
 Reglamento CE Comisión
 agosto
 fijan restituciones aplicables exportación productos transformados base cereales arroz
@@ -1291,9 +1287,7 @@ Reglamento modificado lugar Reglamento CE Euratom DO
 Corrección errores Reglamento CE Consejo septiembre establece sistema comunitario prevenir desalentar eliminar pesca ilegal declarada reglamentada modifican Reglamentos CEE CE CE derogan Reglamentos CE CE
 Diario Oficial Unión Europea octubre
 página artículo apartado
-
 artículo
-
 artículo
 página artículo
 apartado letra Reglamento CEE
@@ -1408,7 +1402,6 @@ Suplemento serie modificaciones Fecha entrada vigor febrero
 REGLAMENTO
 Alcance
 Definición clasificación componentes
-
 Solicitud homologación
 Marcas
 Homologación
@@ -1672,7 +1665,6 @@ Disposiciones relativas válvula limitadora presión válvula descarga
 válvula limitadora presión montará interior exterior recipiente zona combustible esté gaseoso
 válvula limitadora presión diseñará abra presión kPa
 capacidad válvula limitadora presión determinada aire comprimido presión superior presión funcionamiento normal deberá mínimo
-
 caudal aire min estándar kPa absolutos °C temperatura
 superficie exterior recipiente
 resultados ensayo caudal deberán corregirse correspondan condiciones estándar
@@ -2315,7 +2307,6 @@ Diámetro interior latiguillo mm
 Radio curvatura mm figura
 Vertical
 Horizontal
-
 máquina ensayo figura consistirá bastidor acero provisto ruedas madera llantas aprox
 circunferencia ruedas deberá surco guía latiguillo
 radio ruedas medido fondo surco deberá indicado apartado
@@ -2670,7 +2661,6 @@ Resistencia efectiva tracción Rt enN mm
 Valor
 inclusive
 inclusive
-
 Repetición ensayos tracción doblado
 permitido repetir ensayos tracción doblado
 ensayo realizará muestras tomadas recipiente
@@ -2959,7 +2949,6 @@ válvula posición cierre presupone consecuencia normal funcionamiento aplicará
 tiempo ajustará posición vertical probeta necesario mantener nivel agua
 período ensayo agua probeta nivel registrará nivel agua probeta
 cambio volumen probeta calculará tasa fugas fórmula
-
 tasa fugas centímetros cúbicos aire nitrógeno hora
 aumento volumen probeta ensayo
 tiempo ensayo minutos
@@ -3164,11 +3153,9 @@ II
 Homologación vehículos categorías arreglo definición Resolución consolidada construcción vehículos RE anexo documento TRANS WP Rev Amend modificado lugar documento Amend
 componentes GLP destinados vehículos clasificarán presión máxima funcionamiento función figura
 Distancia centros mm figura
-
 Distancia centros mm figura
 Figura
 Figura
-
 hará caer masa acero templado kg altura velocidad impacto obtendrá montando masa péndulo
 Inicio
 llaves paso deberán someterse ensayo salida taponada cuerpo válvula lleno nhexano entrada sometida presión kPa

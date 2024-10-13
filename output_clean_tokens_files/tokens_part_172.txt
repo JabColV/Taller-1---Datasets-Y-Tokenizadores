@@ -15,7 +15,6 @@ caso ponga término Acuerdos enumerados anexo terminarán tiempo disposiciones p
 caso ponga término acuerdos enumerados anexo presente terminará simultáneamente
 FE abajo firmantes debidamente autorizados efecto firman presente
 doble ejemplar lenguas alemana checa danesa eslovaca eslovena española estonia finesa francesa griega húngara inglesa italiana letona lituana maltesa neerlandesa polaca portuguesa sueca árabe
-
 Corrección errores Decisión Comité Cooperación Aduanera CETurquía septiembre establecen disposiciones aplicación Decisión Consejo Asociación CETurquía CE
 Diario Oficial Unión Europea septiembre
 cubierta sumario página título página fórmula
@@ -145,7 +144,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -1012,9 +1010,7 @@ CIPAC
 clorofenilfenilHtriazolilmetilbutironitril
 mayo
 abril
-
 autorizar usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión fenbuconazol particular apéndices II finalizado Comité Permanente Cadena Alimentaria Sanidad Animal octubre
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 seguridad operarios garantía condiciones prescribe utilización equipos protección individual adecuados
@@ -1545,11 +1541,9 @@ Reglamento Ejecución UE Comisión mayo establecen disposiciones aplicación Reg
 consultarse internet dirección wwwefsaeuropaeuefsajournalhtm
 ANEXO
 columna Disposiciones específicas fila correspondiente diclorpropP figura anexo Reglamento Ejecución UE sustituye texto
-
 autorizar usos herbicida
 refiere cereales autorizarse aplicación primavera cantidades superen sustancia activa hectárea aplicación
 autorizado pastos
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión diclorpropP particular apéndices II adoptado Comité Permanente Cadena Alimentaria Sanidad Animal mayo
 evaluación general miembros deberán atender especialmente protección aves mamíferos organismos acuáticos plantas diana
 proceda condiciones autorización deberán incluir medidas reducción riesgo
@@ -1642,7 +1636,6 @@ Grasa
 Hígado
 Riñón
 Despojos comestibles
-
 Autoridad Europea Seguridad Alimentaria disponible determinada información estabilidad almacenamiento
 Huevos ave
 Pollo
@@ -2793,7 +2786,6 @@ transporte constituya actividad accesoria marco actividades empresa
 transportes medicamentos aparatos equipos médicos artículos necesarios casos ayudas urgentes particular casos catástrofes naturales
 DO
 ANEXO II
-
 Directiva derogada modificaciones sucesivas
 Directiva Consejo julio relativa establecimiento normas comunes transportes internacionales transportes mercancías carretera ajena
 DO
@@ -2818,7 +2810,6 @@ DO
 Reglamento CEE Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional aplicación contemplados artículo
 Directiva
 Plazo transposición
@@ -3796,7 +3787,6 @@ Artículo Normas elegibilidad
 IV Disposiciones finales
 Artículo Destinatarios
 ANEXOS
-
 INTRODUCCIÓN
 CAPÍTULO
 Objeto definiciones
@@ -4865,9 +4855,7 @@ indicado preceptos constitucionales
 Corrección errores Reglamento UE Consejo enero establecen posibilidades pesca determinadas poblaciones grupos poblaciones peces aplicables aguas UE caso buques UE determinadas aguas pertenecientes UE
 Diario Oficial Unión Europea enero
 página anexo IA especie Ochavo Caproidae zona Aguas UE internacionales zonas VI VII VIII BOR epígrafe zona BOR BOR
-
 LEZ
-
 LEZ
 página anexo IA especie Rape Lophiidae zona VI aguas UE aguas internacionales zona Vb aguas internacionales zonas XII XIV ANF epígrafe zona
 ANF
@@ -4906,7 +4894,6 @@ capturas realizadas zonas IVa MACA IIa MACA declararse separado
 SOL
 SOL
 página anexo IA especie Lenguados Solea solea zona VIIIc VIIId VIIIe IX aguas UE CPACO SOXCDE epígrafe especie Lenguados Solea solea Lenguado Solea spp página anexo IA especie Jurel Trachurus spp zona IX JAX cuota Portugal
-
 Aguas Noruega zonas II REDNAB
 página anexo IE especie Krill antártico Euphausia superba zona FAO KRI Condiciones especiales
 División KRI

@@ -24,21 +24,6 @@ efectos presente artículo zona Porcupine Bank zona geográfica delimitada líne
 Punto
 Latitud
 Longitud
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 obstante dispuesto apartado permitirá arreglo artículo apartados Reglamento CE tránsito zona Porcupine Bank buques lleven bordo especies mencionadas apartado
 Artículo
 Prohibiciones
@@ -237,7 +222,6 @@ Gastos
 Ingresos asignados
 Fondo azúcar
 Artículo
-
 Gastos
 Ingresos asignados
 reducciones suspensiones contabilizadas sistema pagos correcciones incumplimiento plazos pago agosto septiembre octubre
@@ -346,7 +330,6 @@ Descabezado
 Hígado
 Hígado
 caso presentación colectiva utilizarse código LVRC
-
 presentación
 Huevas
 Eviscerado salado
@@ -774,7 +757,6 @@ DO
 DO
 DO
 ANEXO
-
 Normas aplicables operaciones fronteras marítimas coordinadas agencia
 Principios generales
 medidas adopten marco operación vigilancia aplicarán respetando derechos fundamentales evitando peligro seguridad personas interceptadas rescatadas unidades participantes
@@ -1898,7 +1880,6 @@ anulable permitiendo afloje aislamiento
 prestaciones frenado tren unidad vienen determinadas capacidad desaceleración
 resultado potencia frenado disponible desacelerar tren unidad límites definidos considerando factores intervienen conversión disipación energía incluida resistencia tren
 prestaciones frenado unidad calcularán arreglo documentos siguientes
-
 cálculo validará ensayos
 cálculo prestaciones frenado arreglo norma UIC validará conforme indicado norma UIC
 freno estacionamiento freno utilizado evitar material rodante estacionado mueva determinadas condiciones teniendo situación viento gradiente carga aflojado forma intencionada
@@ -2302,7 +2283,6 @@ componentes
 CI certificados
 CI certificados
 comprobar
-
 componentes
 CI certificados
 mención comprobar cuadro significa entidad encargada mantenimiento responsabilidad sustituir componente función prestaciones conformidad requisitos pertinentes ETI componentes
@@ -2858,7 +2838,6 @@ Suiza participará plenamente Consejo administración derechos obligaciones miem
 artículo añade apartado
 Suiza participará contribución financiera mencionada apartado letra arreglo fórmula
 ab
-
 presupuesto Agencia cubierto tasas ingresos indicados apartado letras
 número asociados
 número miembros UE
@@ -2943,7 +2922,6 @@ DO
 Decisión cuya modificación constituye Decisión CE DO
 ANEXO
 ANEXO
-
 Zonas Alemania Francia contempladas artículos
 Alemania federado RenaniaPalatinado
 distritos Bad Dürkheim Donnersbergkreis Südliche Weinstraße
@@ -3477,7 +3455,6 @@ Superior
 Pastas alimenticias cocidas rellenas carne sustancias preparadas forma tales espaguetis fideos macarrones tallarines lasañas ñoquis ravioles canelones cuscús preparado
 pastas alimenticias
 Secos desecados
-
 Cuscús
 preparar
 Reglamento CE Banco Central Europeo
@@ -3653,7 +3630,6 @@ Sociedades financieras
 apartado artículo BCN decidir recopilar partidas valor valor
 ANEXO II
 DEFINICIONES
-
 Definiciones categorías instrumentos
 cuadro ofrece descripción estándar detallada categorías instrumentos bancos centrales nacionales BCN transponen categorías nacionales presente Reglamento
 cuadro constituye lista instrumentos financieros individuales descripciones exhaustivas
@@ -3760,7 +3736,6 @@ provisiones representan pasivos terceros pensiones dividendos etc
 posiciones netas provenientes préstamos valores transferencia efectivo
 importes netos pagar concepto liquidaciones futuras operaciones valores
 contrapartidas ajuste valoración nominal precio compra préstamos
-
 Definiciones sectores
 SEC constituye norma clasificación sectorial
 contrapartidas situadas territorio miembros participantes identifican arreglo sector conforme lista sociedades instrumentales fondos inversión IFM efectos estadísticos guía Banco Central Europeo clasificación estadística contrapartidas Monetary financial institutions and markets statistics sector manual
@@ -3781,13 +3756,11 @@ Sociedades cuasisociedades dedicadas intermediación financiera principalmente p
 Hogares instituciones fines lucro servicio hogares
 Personas grupos personas consumidores productores bienes servicios financieros exclusivamente consumo productores bienes mercado servicios financieros financieros actividades cuasisociedades
 incluyen instituciones fines lucro servicio hogares dedican principalmente producción bienes servicios comercializados mercado destinados determinados grupos hogares SEC apartados
-
 Definición transacciones financieras
 transacciones financieras definen conforme SEC adquisición neta activos financieros existencia neta pasivos tipo instrumento financiero suma transacciones financieras producen período información correspondiente
 método valoración transacción consiste tomar valor adquieren dispone activos crean liquidan intercambian pasivos
 principio transacciones financieras deberán cumplir metodología
 saneamientos totales parciales cambios valoración representan transacciones financieras
-
 Definición saneamientos totales parciales
 saneamiento parcial define impacto cambios valor préstamos registrados balance causados aplicación saneamiento parcial préstamos
 incluye determinar saneamiento parcial reconocido tiempo venta transferencia préstamo terceros
@@ -4197,7 +4170,6 @@ Procedimiento Comité
 Comisión asistida Comité seguridad marítima prevención contaminación buques COSS establecido Reglamento CE Parlamento Europeo Consejo
 casos haga referencia presente apartado aplicación artículo bis apartados artículo Decisión CE observando dispuesto artículo
 anexo guión punto sustituye texto
-
 características cantidad estimada combustible caldera buques arqueo bruto superior toneladas
 condiciones navegación
 anexo II añade texto
@@ -4460,25 +4432,8 @@ MEDIDAS TÉCNICAS CONTROL CARÁCTER TRANSITORIO
 Restricciones aplicables pesca
 Queda prohibida actividad pesquera mayo octubre zonas delimitadas líneas loxodrómicas unen siguientes posiciones calculadas sistema coordenadas WGS
 Zona
-
-
-
-
-
-
 Zona
-
-
-
-
 Zona
-
-
-
-
-
-
-
 obstante dispuesto punto permitido pescar redes enmalle redes enredo trasmallos tengan luz malla mm palangres
 faene palangres conservarse bacalao bordo
 Control inspección vigilancia contexto recuperación poblaciones bacalao Mar Báltico

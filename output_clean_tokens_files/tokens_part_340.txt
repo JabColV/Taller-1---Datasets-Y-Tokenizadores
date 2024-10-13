@@ -281,7 +281,6 @@ Merlangius merlangus
 Merluza
 HKE
 Merluccius merluccius
-
 Dissostichus eleginoides
 DGS
 Squalus acanthias
@@ -289,7 +288,6 @@ LIN
 Etmopterus spinax
 BLI
 Gobionotothen gibberifrons
-
 Lepidonotothen squamifrons
 HKE
 Notothenia rossii
@@ -351,7 +349,6 @@ Deania calcea
 ANEXO II
 ANEXO III
 MEDIDAS TÉCNICAS CONTROL TRANSITORIAS
-
 Atlántico norte incluido Mar Norte Skagerrak Kattegat
 Pesca arenque aguas CE zona CIEM IIa
 prohibido desembarcar conservar bordo arenque capturado aguas CE zona IIa períodos enero febrero mayo diciembre
@@ -405,21 +402,6 @@ miembros fijarán objetivos utilización cuotas bacalao término trimestre comun
 quinquies
 Zona CIEM VIa
 diciembre prohibida actividad pesquera punto localizado división CIEM VIa situada sur líneas loxodrómicas unen siguientes posiciones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 diciembre buque pesquero encuentre punto situado zona mencionada inciso deberá cerciorarse artes pesca lleve bordo permanezcan trincados amarrados dispuesto artículo apartado Reglamento CEE
 Zonas CIEM VII
 febrero marzo prohibida actividad pesquera siguientes rectángulos CIEM
@@ -436,12 +418,6 @@ mínimo peso capturas conservadas esté formado cigala
 máximo peso capturas conservadas esté formado mezcla bacalao eglefino merlán
 arte pesca fabricado mallas cuya dimensión mínimo mm
 excepción aplicará zona delimitada líneas loxodrómicas unen siguientes posiciones calculadas sistema coordenadas WGS
-
-
-
-
-
-
 obstante dispuesto punto permitido pescar redes arrastre jábegas demersales artes similares
 redes estén bordo embarcación hayan fabricado mallas cuya dimensión mínimo mm embarcaciones cuya eslora superior mm embarcaciones
 máximo peso capturas conservadas esté formado mezcla bacalao eglefino merlán
@@ -457,38 +433,8 @@ miembros interesados presentarán resultados ensayos experimentos Comisión sept
 Normas especiales protección maruca azul zona CIEM VIa
 periodo comprendido marzo mayo aplicarán condiciones especiales establecidas presente punto áreas zona VIa delimitadas líneas loxodrómicas unen sucesivamente siguientes posiciones
 Borde plataforma continental Escocia
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Borde Rosemary bank
-
-
-
-
-
-
 Excluida zona delimitada líneas loxodrómicas unen sucesivamente siguientes posiciones
-
-
-
-
-
-
-
-
 entrar zona indicada punto capitán buque pesquero consignará cuaderno diario fecha hora lugar entrada
 salir zona indicada punto capitán buque pesquero consignará cuaderno diario fecha hora lugar salida
 cualquiera zonas indicadas punto prohibido conservar bordo cantidad maruca azul superior toneladas marea
@@ -503,8 +449,6 @@ febrero abril prohibido utilizar redes arrastre fondo redes tiro artes arrastre 
 costa oriental Irlanda costa oriental Irlanda Norte
 líneas rectas unen secuencialmente siguientes coordenadas geográficas
 punto situado costa oriental península Ards Irlanda Norte
-
-
 punto situado costa oriental Irlanda
 obstante dispuesto punto lugar período especifican
 autorizará redes arrastre demersal puertas condición lleve bordo tipo arte pesca tales redes
@@ -512,22 +456,10 @@ tengan dimensión malla mm mm mm mm
 pertenezcan categorías dimensión malla autorizadas
 contengan malla individual independientemente lugar red encuentre dimensión superior mm
 calen únicamente zona delimitada unir sucesivamente líneas loxodrómicas siguientes coordenadas
-
-
-
-
-
-
-
-
-
 autorizará redes arrastre seleccionadoras condición lleve bordo tipo arte pesca tales redes
 cumplan requisitos establecidos letra incisos iv
 características ajusten exigencias técnicas figuran anexo Reglamento CE Consejo febrero establecen medidas aplicables año vistas recuperación población bacalao Mar Irlanda división CIEM VIIa
 redes arrastre seleccionadoras utilizarse zona delimitada unir sucesivamente líneas loxodrómicas siguientes coordenadas
-
-
-
 aplicarán medidas técnicas conservación artículos Reglamento CE
 Utilización redes enmalle zonas CIEM IIIa IVa Vb VIa VIb VIIb VIII IX XII
 efectos presente punto entenderá red enmalle red enredo arte compuesto paño red calada verticalmente agua
@@ -587,112 +519,14 @@ obstante prohibido capturar mantener bordo transbordar desembarcar cantidad agre
 Medidas provisionales protección hábitats vulnerables aguas profundas
 Estarán prohibidas pesca arrastre fondo pesca artes fijos incluidos redes enmalle fondo palangres fondo zonas delimitadas líneas loxodrómicas unen secuencialmente siguientes posiciones calculadas sistema coordenadas WGS
 montes submarinos Hecate
-
-
-
-
-
 montes submarinos Faraday
-
-
-
-
-
-
-
-
-
 cordillera submarina Reykjanes
-
-
-
-
-
-
-
-
 montes submarinos Altair
-
-
-
-
-
-
 montes submarinos Antialtair
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 South West Rockall Empress of Britain Bank
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Hovland Mound Province
-
-
-
-
-
-
-
-
-
-
-
 NorthWest Porcupine Bank Zona II
-
-
 SouthWest Porcupine Bank
-
-
-
-
 buques pelágicos faenen zonas protegidas corales establecidas punto deberán figurar lista autorizada buques poseer licencia pesca especial deberá llevarse bordo
 Dichos permisos contendrán información requerida Reglamento CE deberán notificarse siguiendo normas definidas Reglamento CE establecen disposiciones aplicación Reglamento CE
 buques incluidos lista autorizada llevarán bordo artes pesca pelágicos exclusivamente
@@ -703,10 +537,6 @@ buques pelágicos faenen zona protegida corales establecida punto deberán infor
 buques pelágicos hayan terminado faenar zona protegida corales establecida punto deberán comunicar centro seguimiento pesca irlandés salida zona
 efectos pesca especies pelágicas zona protegida corales establecida punto autorizado bordo pescar redes tamaño malla comprendido mm mm mm mm
 Queda prohibida pesca arrastre fondo pesca bentónica artes fijos incluidas redes enmalle fondo palangres fondo zona delimitada líneas loxodrómicas unen secuencialmente siguientes posiciones calculadas sistema coordenadas WGS
-
-
-
-
 obstante prohibición establecida párrafo buques hayan actividades pesca palangres fondo orientadas captura brótola fango Phycis blennoides obtener autoridades pesca permiso especial pesca autorice mantener actividad pesquera zona situada sur buques hayan obtenido permiso especial independencia eslora deberán utilizar SLB seguro operativo plenamente activo ajuste dispuesto Reglamento CE efectúen actividades pesca zona Cachucho
 Talla mínima almeja japonesa
 obstante dispuesto artículo Reglamento CE talla mínima almeja japonesa Ruditapes philippinarum mm
@@ -714,19 +544,16 @@ Condición aplicable determinadas pesquerías nasas zona IXa Galicia Occidental
 obstante prohibición establecida artículo ter apartado Reglamento CE pesca nasas capturen cigalas permitida zonas geográficas período establecen artículo ter apartado letra Reglamento CE
 Condiciones aplicables pesca arenque zona VIa Butt of Lewis
 disposiciones establecidas artículo apartado letra Reglamento CE aplicarán
-
 aguas CE
 Condiciones relativas liberación noriegas rayas mosaicas rayas blancas peces ángel
 conservarse bordo capturas noriega realizadas aguas CE zonas IIa III IV VI VII VIII IX raya mosaica raya blanca realizadas aguas CE zonas VI VII VIII IX pez ángel realizadas aguas CE
 capturas especies liberarán inmediatamente medida daño
 capturas mielgas realizadas falta contingente contingente agotado soltarán indemnes inmediato medida viable
 fomentará pescadores desarrollen utilicen técnicas equipos dictamen CCTEP faciliten liberación rápida segura animales
-
 Atlántico Centro Oriental
 Talla mínima pulpo
 talla mínima pulpo Octopus vulgaris aguas marítimas soberanía jurisdicción terceros países situadas zona CPACO Comité Pesca Atlántico Centro Oriental FAO eviscerado
 pulpo alcance talla mínima eviscerado conservado bordo transbordado desembarcado transportado almacenado vendido expuesto puesto venta deberá devolverse inmediatamente mar
-
 Océano Pacífico oriental
 Redes cerco jareta zona regulación Comisión Interamericana Atún Tropical CIAT
 prohibirá pesca rabil Thunnus albacares patudo Thunnus obesus listado Katsuwonus pelamis cerqueros jareta agosto septiembre noviembre diciembre zona delimitada siguientes líneas
@@ -743,7 +570,6 @@ longitud
 longitud
 latitud
 latitud
-
 Océano Pacífico oriental Océano Pacífico central occidental
 Medidas especiales Océano Pacífico oriental central occidental
 cerqueros jareta liberarán inmediatamente medida daño tortugas mar tiburones marlines rayas mahimahis especies principales capturadas Océano Pacífico oriental central occidental
@@ -756,7 +582,6 @@ caso suba bordo tortuga aplicarán medios adecuados recuperación devolverla agu
 buques atuneros verter mar bolsas sal tipo basura plástica
 liberarán tortugas marinas atrapadas dispositivos concentración peces DCP artes pesca
 asimismo fomentará recuperación dispositivos concentración peces DCP estén utilizados pesca
-
 Océano Atlántico nororiental
 Medidas especiales pesca gallineta nórdica aguas internacionales zonas CIEM II
 aplicarán siguientes medidas pesca gallineta nórdica Sebastes mentella aguas internacionales zonas CIEM II
@@ -774,7 +599,6 @@ DO
 DO
 DO
 ANEXO IV
-
 Límites cuantitativos aplicables autorizaciones pesca buques pesqueros Comunidad faenen aguas terceros países
 Zona pesca
 Pesquería
@@ -1089,7 +913,6 @@ Sello oficial
 oficial exclusivamente Deberá completada puerto
 Nombre puerto
 Autorización
-
 IMPRESO CONTROL PUERTO PSC
 Deberá completarse impreso buque cedente
 Número IMO
@@ -1101,7 +924,6 @@ Captura desembarcarse
 Especie
 Subdivisión
 pabellón buque responder siguientes preguntas marcando casilla
-
 INFORME INSPECCIÓN CONTROL PUERTO PSC Informe inspección control puerto PSC
 REFERENCIA INSPECCIÓN
 Desembarque
@@ -1226,7 +1048,6 @@ UIPE
 UIPE
 UIPE
 UIPE
-
 división
 división
 división
@@ -1295,7 +1116,6 @@ ANEXO XIV
 Declaración transbordo SEAFO
 Nombre buque indicativo llamada radio caso
 Número SEAFO
-
 Mes
 Hora
 Año
@@ -1397,12 +1217,8 @@ Landed at
 in crew
 Date
 Nombre fois où engins ont été leau Number of times gear is shot
-
-
-
 ZC CPANE
 Información capturas relativa buques cedentes
-
 Identificación externa
 Regreso
 servicios navales autoridades competentes estarán facultados retirar mar zonas CIEM IIIa IVa Vb VIa VIb VII XII octubre zonas CIEM VIII IX siguientes situaciones artes encuentren abandonados
@@ -1430,10 +1246,7 @@ redes enmalle zonas IIIa IVa Vb VIa VIb VII XII dimensión malla superior mm inf
 redes enredo dimensión malla superior mm calen aguas profundidad indicada cartas batimétricas inferior metros tengan máximo mallas profundidad coeficiente colgadura inferior estén provistas flotadores medios flotación redes longitud máxima km longitud redes caladas simultáneamente superior km buque tiempo inmersión máximo horas
 Estarán prohibidas pesca arrastre fondo pesca artes fijos incluidos redes enmalle fondo palangres fondo zonas delimitadas líneas loxodrómicas unen secuencialmente siguientes posiciones calculadas sistema coordenadas WGS
 Belgica Mound Province
-
 NorthWest Porcupine Bank Zona
-
-
 Cachucho
 Nombre apellidos capitán
 Modelo cuaderno pesca
@@ -2012,7 +1825,6 @@ CUESTIONES
 Interpretación aborda cuestiones
 alcance NIC NIC
 reconocerse ingreso ordinario procedente construcción inmuebles
-
 discusión supone entidad analizado previamente construcción inmuebles cualesquiera relacionados concluido conserva implicación gestión corriente grado usualmente asociado propiedad retiene control efectivo inmueble construido punto impedir reconocimiento contraprestaciones ingreso ordinario
 impidiese reconocimiento contraprestaciones ingreso ordinario discusión aplicará reconozca ingreso ordinario
 único entidad contratar entrega bienes servicios construcción inmueble ejemplo venta terrenos provisión servicios gestión inmueble
@@ -2239,7 +2051,6 @@ pimienta natural kg
 nuez moscada kg
 comino kg
 azúcar kg
-
 mezcla salazón compuesta sal mesa NaCL nitrito sodio NaNO kg
 Alimentación cerdos cuya carne empleada elaboración salchichas kabanosy
 alimentación destinada lograr engorde cerdos grasos producción carne
@@ -2912,9 +2723,7 @@ DO
 Corrección errores Reglamento CE Consejo diciembre crea Empresa Común ejecución iniciativa tecnológica conjunta medicamentos innovadores
 Diario Oficial Unión Europea febrero
 cubierta página
-
 Reglamento CE Consejo
-
 Reglamento CE Consejo
 Decisión Comité Mixto EEE
 septiembre
@@ -3092,7 +2901,6 @@ reconstruyera instalación capacidad comparable cierre probable flujo neto reduc
 reconstruccion capacidad ampliada reflejaría menores volúmenes totales transporte período comprendido previsión
 Cuadro
 Volúmenes transporte previstos toneladas anuales
-
 Productor
 Cliente
 inversores
@@ -4219,9 +4027,7 @@ Pb máximo mg kg
 As máximo mg kg
 septiembre
 agosto
-
 autorizarse usos fungicida insecticida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión hidrogenocarbonato potasio SANCO particular apéndices II finalizado julio Comité permanente cadena alimentaria sanidad animal
 evaluación global miembros deberán atender especialmente riesgo abejas melíferas
 caso condiciones deberán incluir medidas reducción riesgo
@@ -4601,7 +4407,6 @@ Reglamento establece bancos calificación crediticia externa otorgada agencia ca
 Calificación riesgo
 Calificación crediticia
 AA superior
-
 BBB inferior
 autoridades noruegas bancos noruegos calificados agencias internacionales calificación crediticia
 obstante bancos calificados regularmente principales bancos noruegos

@@ -165,7 +165,6 @@ presentado análisis acrediten residuo peligroso
 presentado análisis acrediten residuo peligroso
 residuos enumerados anexo III Reglamento CE
 residuos enumerados anexo III Reglamento CE Líbano Desechos cromo residuos BB BB Residuos procedentes desespumado cinc Residuos procedentes desespumado aluminio espumas exclusión escorias salinas Residuos cinc duro Espumas grasos contengan cinc Matas galvanización superficie Zn Matas galvanización fondo Zn Matas cinc moldeo presión Zn Matas proceso galvanización discontinuo Zn
-
 Desechos plástico siguientes polímeros copolímeros halogenados
 alcohol polivinílico
 Residuos resinas curadas productos condensación
@@ -175,9 +174,7 @@ BB
 papel cartón obtenido principalmente pasta mecánica ejemplo periódicos revistas materiales impresos similares
 inclusión limitarse desperdicios triar
 residuos
-
 Micelio hongos desactivado resultante producción penicilina utilización pienso
-
 Chatarra hierro acero
 Chatarra aluminio
 BB
@@ -185,27 +182,20 @@ etileno
 estireno
 siguientes desperdicios desechos papel cartón
 BB
-
 Belarús
 Desechos germanio
 Desechos vanadio
 Desechos hafnio indio niobio renio galio
 Desechos torio
-
 Desechos berilio
 Desechos telurio
-
 únicamente polvo vanadio
 residuos contengan polvo vanadio
-
 únicamente polvo titanio
 residuos contengan polvo titanio
-
 Metales transición
 Lantánidos metales grupo tierras raras
-
 únicamente residuos contengan sustancias Belarús especificará momento
-
 Sulfato calcio parcialmente refinado resultante desulfuración gases combustión
 Escorias producción cobre químicamente estabilizadas elevado contenido hierro tratadas conformidad especificaciones industriales ejemplo DIN DIN principalmente fines construcción aplicaciones abrasivos
 Residuos vidrio contengan litiotantalio litioniobio
@@ -215,7 +205,6 @@ Carbonato cálcico resultante producción cianamida calcio pH inferior
 Cloruros sodio potasio calcio
 Carborundo carburo silicio
 Hormigón cascotes
-
 únicamente residuos soluciones ácidas básicas contengan sustancias Belarús especificará momento
 residuos soluciones ácidas básicas contengan sustancias Belarús especificará momento
 estireno
@@ -244,9 +233,7 @@ tetrafluoroetileno perfluorovinil éter PFA
 tetrafluoroetileno perfluorometilvinil éter MFA
 fluoruro polivinilo PVF
 fluoruro polivinilideno PVDF
-
 Desechos lana pelo animal fino basto inclusión desechos hilados exclusión material hilachas
-
 Productos desgrasados residuos resultantes tratamiento sustancias grasas ceras animales vegetales
 Desechos huesos núcleos córneos elaborados desgrasados simplemente preparados cortar forma determinada tratados ácido desgelatinizados
 Desechos pescado
@@ -298,26 +285,20 @@ resinas melamínicas formaldehído
 Desperdicios desechos cermet compuestos cerámica metal
 siguientes desechos algodón
 desechos hilados inclusión desechos hilos
-
 fibras artificiales
 residuos enumerados anexo III Reglamento CE
 BB
 BB
-
 Kenia
-
 Estopa desechos inclusión desechos hilados material hilachas cáñamo Cannabis sativa
 Trapos usados bramantes cordelería cables desecho artículos usados bramante cordelería cables materiales textiles triados
 Kirguistán
 Residuos procedentes desespumado aluminio espumas exclusión escorias salinas Residuos revestimientos refractarios inclusión crisoles derivados fundición cobre Escorias tratamiento metales preciosos destinados refinación posterior Escorias estaño contengan tantalio estaño Residuos cinc duro Espumas grasos contengan cinc
-
-
 residuos
 BB
 Desechos plástico polímeros copolímeros halogenados
 Túnez
 siguientes residuos polímeros fluorados
-
 Desechos cadmio
 Desechos selenio
 Desechos antimonio
@@ -328,9 +309,7 @@ siguientes desechos inclusión borras desechos hilados material hilachas fibras 
 fibras sintéticas
 residuos enumerados anexo III Reglamento CE
 Federación Rusia
-
 Desechos plomo exclusión baterías plomoácido
-
 residuos
 residuos
 Residuos revestimientos refractarios inclusión crisoles derivados fundición cobre residuos Lantánidos metales grupo tierras raras residuos BB BB BB Desechos plástico siguientes polímeros copolímeros halogenados poliacetales poliéteres alcanos CC plastificantes siguientes residuos polímeros fluorados perfluoroetileno propileno FEP perfluoro alcoxil alcano
@@ -348,7 +327,6 @@ cinc
 Desechos plástico siguientes polímeros copolímeros halogenados
 residuos
 BB
-
 Fibras cerámicas especificadas incluidas categoría
 BB
 residuos enumerados anexo III Reglamento CE
@@ -371,11 +349,9 @@ residuos enumerados anexo III Reglamento CE
 Costa Rica
 Escorias producción cobre químicamente estabilizadas elevado contenido hierro tratadas conformidad especificaciones industriales ejemplo DIN DIN principalmente fines construcción aplicaciones abrasivos
 BB
-
 BB
 Desechos cobalto
 cobalto lantanio
-
 BB
 BB
 BB
@@ -383,16 +359,12 @@ Georgia
 BB
 BB
 Matas proceso galvanización discontinuo Zn
-
 BB
 BB
-
 residuos
-
 Escorias producción cobre químicamente estabilizadas elevado contenido hierro tratadas conformidad especificaciones industriales ejemplo DIN DIN principalmente fines construcción aplicaciones abrasivos
 poliuretano contenga CFC
 Residuos resinas curadas productos condensación
-
 BB
 Decisión Comisión
 septiembre
@@ -2898,7 +2870,6 @@ reacción fuego
 Sistemas certificación conformidad
 Piezas elementos forjados viguetas bovedillas incorporen material orgánico
 usos sujetos normas reacción fuego
-
 especificación sistema permitirá aplicación necesario establecer rendimiento relación característica determinada miembro requisitos legales véase artículo apartado Directiva CEE aplicable punto Documentos Interpretativos
 caso exigirse fabricante comprobación característica desea declarar rendimiento producto
 Productos materiales etapa claramente identificable proceso producción supone mejora clasificación reacción fuego ejemplo adición retardadores ignición limitación material orgánico
@@ -3970,7 +3941,6 @@ Comisión
 Miembro Comisión
 DO
 ANEXO
-
 Condiciones refiere artículo
 condiciones referencia artículo supeditada introducción miembros territorios madera aserrada corteza Quercus Platanus Acer saccharum Marsh originaria Unidos América cubierta códigos nomenclatura combinada describe sección punto anexo Directiva CE acompañada certificado fitosanitario siguientes
 madera trabajará aserraderos instalaciones adecuadas hayan auditadas Asociación Nacional Tablones Madera Dura NHLA estadounidense autorizadas participar Programa Certificación Secado Estufa Tablones Madera Dura Aserrada Programa
@@ -4486,9 +4456,7 @@ CAS
 Ácido acético
 septiembre
 agosto
-
 autorizar usos herbicida
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión ácido acético SANCO particular apéndices II ultimó julio Comité Permanente Cadena Alimentaria Sanidad Animal
 evaluación global miembros deberán atender especialmente protección operarios aguas subterráneas organismos acuáticos
 caso condiciones deberán incluir medidas reducción riesgo

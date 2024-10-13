@@ -179,7 +179,6 @@ Productos destinados alimentación animal
 Contenido máximo mg kg ppm piensos calculado base contenido humedad
 Arsénico
 Materias primas piensos
-
 harina hierbas alfalfa trébol deshidratados pulpa deshidratada remolacha azucarera pulpa deshidratada adición melazas remolacha azucarera
 harina palmiste obtenida presión
 fosfatos algas marinas calcáreas
@@ -214,7 +213,6 @@ piensos completos aves corral pollitos peces
 piensos completos pollitos
 piensos completos bovinos ovinos caprinos
 lactantes
-
 Plomo
 forraje
 levaduras
@@ -260,7 +258,6 @@ piensos compuestos animales peletería
 punto Semillas Ambrosia spp sección VI sustituye texto
 Semillas Ambrosia spp
 Materias primas piensos
-
 mijo granos Panicum miliaceum sorgo granos Sorghum bicolor Moench sl dados directamente alimento animales
 Piensos compuestos contienen granos semillas molidos
 sección VI añade nota
@@ -1177,7 +1174,6 @@ Toronjas pamplemusa pomelo pomelit tangelo minneola ugli híbridos
 Limones cidro limón
 Limas
 Mandarinas clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -2588,7 +2584,6 @@ Véase página presente Diario Oficial
 DO
 ANEXO
 Criterios factores riesgo considerarse aplicar medidas contempladas artículo explotaciones particulares aves corral
-
 Factores riesgo introducción virus aves corral
 Ubicación explotación rutas migratorias aves particular procedentes zonas Asia Central Oriental Mar Caspio Mar Negro
 Distancia explotación humedales estanques pantanos lagos ríos aves acuáticas migratorias puedan reunirse
@@ -2634,14 +2629,12 @@ Reglamento cuya modificación constituye Reglamento CE DO
 DO
 Reglamento cuya modificación constituye Reglamento CE DO
 ANEXO
-
 Cereales productos base cereales destinados alimentación animal humana oleaginosas proteaginosas forrajes desecados
 Plan previsiones abastecimiento ayuda comunitaria abastecimiento productos comunitarios año civil
 Departamento
 Designación mercancía
 Códigos NC
 Cantidad
-
 Ayuda
 EUR
 Trigo blando cebada maíz malta
@@ -2649,23 +2642,18 @@ Guayana
 Trigo blando cebada maíz productos destinados alimentación animal malta
 Martinica
 Trigo blando cebada maíz grañones sémola trigo duro avena malta
-
 Aceites vegetales
 Códigos NC
 Aceites vegetales
-
 Productos transformados base frutas hortalizas
 Purés frutas obtenidos cocción adición azúcar edulcorantes destinados transformación
-
 Pulpas frutas preparadas conservadas adición azúcar edulcorantes alcohol expresadas comprendidas destinadas transformación
 Jugos concentrados frutas incluidos mostos uvas fermentar adición alcohol adición azúcar edulcorantes destinados transformación
 Tomates preparados conservados vinagre ácido acético
-
 Semillas
 Patatas siembra
 importe restitución correspondiente productos código NC concedida aplicación artículo Reglamento CE Comisión DO
 Destinados industria transformación
-
 importe restitución correspondiente productos código NC concedida aplicación artículo apartado Reglamento CEE
 importe restitución correspondiente productos código NC concedida aplicación artículo Reglamento CE Consejo DO
 ANEXO II
@@ -2683,7 +2671,6 @@ Pollitos
 Huevos incubar destinados producción pollitos
 Conejos reproductores
 Conejos domésticos reproductores
-
 Ganadería ovina caprina
 número animales
 Reproductores especies ovina caprina
@@ -3420,7 +3407,6 @@ exporte producto amparo certificado expedido dispuesto artículo Reglamento CE r
 Sección
 Medidas específicas protección intereses financieros Comunidad
 Artículo
-
 existan dudas fundadas destino real producto
 producto susceptible reimportado Comunidad consecuencia diferencia importe restitución aplicable producto exportado derecho preferencial importación aplicables producto idéntico fecha aceptación declaración exportación
 sospechas concretas producto reimportará Comunidad natural transformado tercer país beneficiándose exención reducción derecho
@@ -3718,7 +3704,6 @@ restitución fijado anticipado cálculo sanción basará tipos restitución vige
 caso necesario tipos ajustarán aceptación declaración exportación declaración pago
 Artículo
 perjuicio obligación pagar importe negativo refiere artículo apartado pagado indebidamente restitución beneficiario reembolsará importes indebidamente percibido incluidas sanciones aplicables arreglo artículo apartado intereses calculados función tiempo transcurrido pago reembolso
-
 pago cubierto garantía liberada ejecución garantía conformidad artículo apartado constituirá recuperación importes debidos
 garantía devuelto beneficiario pagará importe garantía debería haberse ejecutado intereses calculados devolución pago
 pago efectuará siguientes fecha recepción solicitud pago
@@ -3928,7 +3913,6 @@ Certificado descarga refiere artículo apartado letra
 Certificado descarga
 Documentos transporte tipo número fecha
 Fecha salida zona portuaria
-
 transporte
 Certificado reexportación arreglo artículo apartado letra
 Nombre fecha lugar firma firma sello sociedad control vigilancia

@@ -258,10 +258,8 @@ Corrección errores Decisión CE Representantes Gobiernos miembros reunidos seno
 Diario Oficial Unión Europea diciembre
 corrección errores publicada DO suprime sustituye texto
 página artículo único relativo artículo apartado Decisión CE
-
 fecha límite comprometerán bonificaciones intereses administradas Banco Europeo Inversiones BEI financiar instrumento ayuda inversión condiciones favorables diciembre fecha entrada vigor décimo FED posterior
 referida fecha modificarse procede
-
 fecha límite comprometerán bonificaciones intereses administradas Banco Europeo Inversiones BEI diciembre fecha entrada vigor décimo FED posterior
 referida fecha modificarse procede
 Reglamento Delegado UE Comisión
@@ -438,7 +436,6 @@ etiqueta figurará información relacionada punto letra
 ETIQUETA
 ETIQUETA
 diseño etiqueta atenderá modelo
-
 etiqueta medirá mm ancho mm alto
 imprima formato contenido deberá conservar proporciones
 televisiones cuya superficie pantalla exceda dm fondo etiqueta color blanco
@@ -1388,7 +1385,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -1524,10 +1520,8 @@ Densidades máximas pire
 Gama frecuencias
 Densidad media máxima pire
 Densidad máxima cresta pire
-
 diciembre
 diciembre
-
 Técnicas mitigación apropiadas
 permitirá equipos utilicen tecnología banda ultraancha espectro radioeléctrico límites pire superiores mencionados cuadro sección apliquen técnicas mitigación adicionales descritas normas armonizadas pertinentes adoptadas virtud Directiva CE técnicas mitigación consigan nivel protección equivalente ofrecido límites cuadro sección
 presumirá siguientes técnicas mitigación ofrecen protección
@@ -1553,8 +1547,6 @@ casos aplicará límite pire dBm MHz
 ESPECÍFICO UWB
 autorizarán señales radiadas atmósfera rebasen límites cuadro
 Análisis materiales construcción BMA
-
-
 autorizará equipos BMA utilicen técnicas mitigación ofrezcan rendimiento equivalente técnicas descritas normas armonizadas adoptadas virtud Directiva CE operar gamas frecuencias GHz densidad media máxima pire dBm MHz gamas frecuencias GHz GHz densidad media máxima pire dBm MHz consiga nivel protección equivalente ofrecen límites cuadro precedente
 proteger servicios radioastronomía gama frecuencias GHz GHz gama frecuencias GHz densidad potencia radiada deberá inferior dBm MHz describe normas armonizadas pertinentes adoptadas virtud Directiva CE
 anexo Decisión CE sustituye anexo presente Decisión
@@ -1788,7 +1780,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -1802,7 +1793,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -1816,7 +1806,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -1856,7 +1845,6 @@ presente Decisión surtirá efecto adopción
 Artículo
 presente Decisión publicará Diario Oficial Unión Europea
 Presidente
-
 CANADÁ
 denominados sucesivo Partes
 Unión Europea UE capacidad decisión actuar ámbito gestión crisis
@@ -2857,7 +2845,6 @@ explotación
 Declarada libre enfermedad
 Sometida programa vigilancia
 infección conocida
-
 Necrosis pancreática infecciosa
 Necrosis pancreática infecciosa
 enfermedades
@@ -3024,7 +3011,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -3178,7 +3164,6 @@ anexo modificará
 punto sustituirá texto
 estanquidad mamparos transversales longitudinales eficaces encerrar agua mar supone acumulado compartimiento trate cubierta transbordo rodado avería acorde sistema desagüe resistirá presión hidrostática conformidad resultados cálculos avería
 Dichos mamparos altura mínima altura agua inferior tales casos altura mamparo calcularse fórmula
-
 Bh altura mamparo
 hw altura agua
 fuere altura mínima mamparo inferior caso buque cubiertas automóviles suspendidas altura mínima mamparo deber inferior altura inferior cubierta automóviles suspendida esté posición baja
@@ -3238,7 +3223,6 @@ buques existentes ángulo considerar
 Procedimiento experimentos
 modelo sometido ensayo olas largas encrespadas irregulares definidas espectro JONSWAP altura significativa ola Hs factor máximo intensificación período máximo TP
 HS altura significativa ola zona operaciones probabilidad superarse anual limitada máximo
-
 anchura canal hidrodinámico suficiente evitar contacto tipo interacción costados recomendándose inferior LBP
 profundidad canal hidrodinámico suficiente reproducir olas inferior
 utilizar olas representativas efectuar mediciones anterioridad ensayo ubicaciones distintas límites deriva
@@ -3650,9 +3634,7 @@ Corrección errores Reglamento CE Parlamento Europeo Consejo abril coordinación
 Diario Oficial Unión Europea abril
 Versión corregida Diario Oficial Unión Europea junio
 lugar firma queda corregido
-
 Estrasburgo abril
-
 Bruselas abril
 Corrección errores Directiva CE Parlamento Europeo Consejo abril relativa interoperabilidad sistemas telepeaje carreteras Comunidad
 Corrección errores Decisión CE Parlamento Europeo Consejo abril modifica Decisión CE orientaciones comunitarias desarrollo red transeuropea transporte
@@ -4686,7 +4668,6 @@ ANEXO II
 referencia artículo apartado
 Rumiantes vivos
 momento expedición rumiantes vivos deberán protegidos ataques Culicoides pudieran probablemente vectores competentes virus fiebre catarral ovina mínimo
-
 sometidos período resultados negativos prueba serológica conforme prescrito Manual Terrestre OIE detección anticuerpos grupo virus fiebre catarral ovina efectuada mínimo siguientes fecha inicio período protección ataques vectores
 sometidos período resultados negativos prueba identificación agente etiológico conforme prescrito Manual Terrestre OIE efectuada mínimo siguientes fecha inicio período protección ataques vectores
 Deberán protegidos ataques Culicoides transporte lugar destino

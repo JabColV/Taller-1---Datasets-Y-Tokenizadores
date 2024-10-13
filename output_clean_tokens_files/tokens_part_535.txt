@@ -1719,7 +1719,6 @@ Ltreonina
 Ltriptófano
 Ltirosina
 Lvalina
-
 Colina
 Cloruro colina
 Citrato colina
@@ -1818,7 +1817,6 @@ Terbufos suma terbufos sulfóxido sulfota expresada terbufos
 Cuadro
 Aldrin dieldrina expresada dieldrina
 ANEXO VIII
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CE Comisión
@@ -1829,7 +1827,6 @@ Directiva CE Comisión
 DO
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -2022,7 +2019,6 @@ determinar derecho prestaciones conformidad capítulos título III presente Regl
 Anexo II III rúbrica
 AUSTRIA sustituye texto
 AUSTRIA
-
 Anexo II bis queda modificado
 rúbrica
 LITUANIA sustituye texto
@@ -4429,8 +4425,6 @@ Danisco France SAS posee actualmente derechos comercialización aditivo
 Corrección errores Reglamento Ejecución UE Consejo agosto aplica artículo apartado Reglamento UE relativo medidas restrictivas habida situación Siria
 Diario Oficial Unión Europea agosto
 página cuadro anexo columna Fecha inclusión lista
-
-
 Corrección errores Decisión Ejecución PESC Consejo agosto aplica Decisión PESC relativa adopción medidas restrictivas Siria
 página cuadro anexo columna Fecha inclusión lista
 Reglamento CE Comisión

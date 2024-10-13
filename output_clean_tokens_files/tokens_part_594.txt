@@ -2672,7 +2672,6 @@ anexo Decisión CE queda modificado
 entrada correspondiente Brasil sustituye texto
 Brasil
 país
-
 Rio do Sul Santa Catarina Paraná São Paulo Mato Grosso do Sul Goiás Minas Gerais Rio Janeiro Espíritu Santo Rondônia Mato Grosso Distrito Federal
 entrada correspondiente Kuwait sustituye texto
 entrada correspondiente Siria sustituye texto
@@ -2755,10 +2754,8 @@ Artículo
 presente Decisión entrará vigor hayan transmitido Comité Mixto EEE notificaciones previstas artículo apartado EEE
 Artículo
 presente Decisión publicará sección EEE Suplemento EEE Diario Oficial Unión Europea
-
 DO
 indicado preceptos constitucionales indicado preceptos constitucionales
-
 Decisión Consejo
 octubre
 relativa renovación cooperación científica tecnológica Comunidad Europea República Federativa Brasil
@@ -3127,7 +3124,6 @@ Calentadores agua convencionales calentadores agua bomba calor
 eficiencia energética caldeo agua calcula
 caso calentadores agua bomba calor aguaagua salmueraagua consumo eléctrico bombas agua subterránea
 Calentadores agua solares
-
 DETERMINACIÓN FACTOR CONTROL INTELIGENTE FCI CUMPLIMIENTO CONTROL INTELIGENTE smart
 factor control inteligente calcula
 FCI valor smart
@@ -3261,7 +3257,6 @@ Decisión CE Comisión septiembre medidas fitosanitarias provisionales emergenci
 Decisión Ejecución UE Comisión diciembre establece excepción artículo apartado inciso ii Directiva CE Consejo relación madera aserrada corteza Quercus Platanus Acer saccharum Marsh originaria Unidos América Véase página presente Diario Oficial
 ANEXO
 ANEXO II
-
 Condiciones refiere párrafo artículo apartado
 madera trabajará aserraderos instalaciones adecuadas hayan auditadas Asociación Nacional Tablones Madera Dura NHLA estadounidense autorizadas participar Programa Certificación Secado Estufa Tablones Madera Dura Aserrada Programa
 someterá madera proceso secado estufa programa adecuado tiempo temperatura lograr grado humedad inferior expresado porcentaje materia seca
@@ -3912,18 +3907,15 @@ DO
 DO
 ANEXO
 ANEXO
-
 Zona establecida conformidad artículo apartado
 Código ISO país
 miembro
 Zona
 Fecha aplicable artículo apartado letra inciso iii
 Código
-
 Nombre
 ALEMANIA
 POLONIA
-
 Zona establecida conformidad artículo apartado
 Zona
 Reglamento CE Euratom Consejo
@@ -4173,10 +4165,8 @@ Condonación deudas millones EUR
 Bancos titulares derechos preferentes públicos privados
 Préstamos anteriores abril
 Derechos preferentes bienes muebles
-
 Antiguos miembros comité dirección trabajadores privados
 Créditos futuros pensiones remuneraciones abril indemnizaciones
-
 Arrendador terreno Spandau privado
 Alquileres indemnización rescisión contrato
 Proveedores privados
@@ -4552,7 +4542,6 @@ deudas Herlitz AG proveedores ascendían millones EUR grupo HAG
 proveedores Herlitz PBS AG subdividen acreedores disponen garantías grupo PBS acreedores preferentes grupo PBS
 grupo obtuvo beneficio explotación intereses pagos financieros millones EUR volumen negocios millones EUR ejercicio
 margen explotación gastos financiación ascendió ajusta media sector
-
 Finalmente carta julio registrada julio Alemania Comisión banco inversión federado Brandenburgo sucesivo ILB concedido Herlitz PBS AG préstamo cerca EUR Alemania medida ejecutado Comisión registró ayuda notificada número NN
 abril Herlitz AG Herlitz PBS AG solicitaron incoación procedimiento insolvencia jurisdicción competente sociedades junio
 importe habría servido lugar cubrir créditos preferentes habría quedado masa millones EUR ingresos grupo Herlitz habrían ascendido EUR procedimiento insolvencia

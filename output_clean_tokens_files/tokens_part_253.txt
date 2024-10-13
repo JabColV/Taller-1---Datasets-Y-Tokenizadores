@@ -4,7 +4,6 @@ parámetros necesariamente influencia nivel emisiones
 Ciclo combustión
 tiempos
 motor rotativo
-
 Configuración cilindros
 Posición cilindros bloque
 línea
@@ -128,13 +127,11 @@ valor superior potencia máxima régimen ensayo deberá demostrarse autoridad ho
 Determinación potencia accesorios
 preciso determinar potencia absorbida accesorios equipos
 instalados motor accesorios equipos requeridos virtud apéndice presente anexo
-
 instalados motor accesorios equipos requeridos virtud apéndice presente anexo
 valores potencia accesorios método cálculo medición dicha potencia facilitados fabricante motor franja funcionamiento ciclos ensayo aprobados autoridad homologación tipo
 Trabajo ciclo motor
 cálculo trabajo ciclo referencia trabajo ciclo efectivo véanse puntos basará potencia motor conforme punto caso Pf Pr ecuación iguales cero Pm
 accesorios equipos instalados arreglo puntos potencia absorban utilizará corregir valor instantáneo Pm potencia ciclo indica continuación
-
 potencia motor medida expresada kW
 potencia absorbida accesorios equipos instalarse medida kW
 potencia absorbida accesorios equipos retirarse medida kW
@@ -193,7 +190,6 @@ regeneración dura ciclo WHTC arranque caliente realizarán ensayos WHTC arranqu
 regeneración finaliza ensayo WHTC arranque caliente ensayo continuará
 Previo autoridad homologación tipo aplicarse factores ajuste regeneración tipo multiplicativo aditivo basados análisis técnicos solventes
 factores ajuste multiplicativos calcularán
-
 abajo
 factores ajuste aditivos calcularán
 cálculos emisiones específicas punto aplicarán factores ajuste regeneración indica continuación
@@ -269,7 +265,6 @@ procedimiento ensayo tomará muestra recogerá único filtro adecuado
 cuadro muestra ciclo ensayo WHSC
 comienza inicio aumento
 Ciclo ensayo WHSC
-
 Régimen normalizado
 Par normalizado
 Duración
@@ -557,7 +552,6 @@ emisiones miden base seca medición convertirá concentración base húmeda fór
 concentración base seca ppm vol
 factor corrección base seca base húmeda kw kw kw ecuación utilice
 Gas escape bruto
-
 humedad aire admisión gramos agua kg aire seco
 contenido hidrógeno combustible masa
 caudal másico instantáneo combustible kg
@@ -1052,7 +1046,6 @@ analizador NOx deberá encontrarse gas patrón pase convertidor
 registrará concentración indicada
 Cálculo
 porcentaje eficiencia convertidor calculará
-
 concentración NOx punto
 concentración NOx punto
 concentración punto concentración punto
@@ -1360,7 +1353,6 @@ interacción variaciones presión bomba índice deslizamiento calculará funció
 diferencia presión entrada salida bomba kPa
 presión absoluta salida bomba kPa
 realizará ajuste lineal mínimos cuadrados generar ecuación calibración
-
 intersección pendiente respectivamente describen líneas regresión
 sistema CVS múltiples regímenes curvas calibración generadas distintos intervalos caudal bomba paralelas valores intersección aumentarán medida disminuya intervalo caudal bomba
 valores calculados ecuación deberán encontrarse margen valor medido
@@ -1536,7 +1528,6 @@ Sulfatos
 Contaminación partículas
 Fósforo
 Cloruro inorgánico
-
 Cobre
 Conductividad eléctrica
 Datos técnicos combustibles someter ensayo motores encendido chispa combustible dual
@@ -1570,7 +1561,6 @@ Etanol
 Tipo Etanol
 Límites
 Contenido azufre
-
 Estabilidad oxidación
 Minutos
 Contenido goma existente
@@ -1609,7 +1599,6 @@ Exento
 Contenido azufre incluido odorante
 Máximo
 Sulfuro hidrógeno
-
 °C
 Olor
 Característico
@@ -1623,14 +1612,10 @@ Límites
 mínimo
 máximo
 Combustible referencia GR
-
 mol
 Combustible referencia
-
 Combustible referencia
-
 Combustible referencia
-
 Índice Wobbe neto
 valores indicados especificación valores reales
 determinar valores límite aplicado disposiciones norma ISO Productos petróleo Determinación aplicación datos precisión relación métodos ensayo fijar valor mínimo diferencia mínima cero determinar valor máximo valor mínimo diferencia mínima reproducibilidad
@@ -1999,7 +1984,6 @@ Sistema eliminación NOx ejemplo EGR SCR
 Tipo convertidor catalítico
 Tipo filtro partículas
 modificado postratamiento homologación tipo
-
 Información ECU motor número calibración software
 Información vehículo
 Propietario vehículo
@@ -3330,7 +3314,6 @@ continuación sistema postratamiento gas escape incorpora dispositivo anticontam
 acondicionamiento previo motores someterán ensayo conforme procedimientos WHDC especificados anexo
 Evaluación inicial emisión contaminantes motores equipados dispositivos anticontaminantes recambio
 considerará cumplen requisitos aplicables emisiones motores equipados dispositivo anticontaminante recambio resultados contaminante regulado CO HC NMHC metano NOx NH masa partículas número partículas proceda homologación tipo motor cumplen condiciones siguientes
-
 valor emisiones contaminante obtenido ensayos realizados dispositivo anticontaminante recambio
 valor emisiones contaminante obtenido ensayos realizados dispositivo anticontaminante original dispositivo anticontaminante recambio original
 valor límite emisiones contaminante arreglo homologación tipo vehículo
@@ -3569,7 +3552,6 @@ Límite PM número kWh aplicable motores HDDF tipos funcionan combustible dual c
 caso punto presente Reglamento establezca límite número partículas aplicable motores encendido chispa ciclo ensayo WHTC aplicará procedimiento cálculo motores HDDF tipos sometidos ensayo ciclo WHTC funcionan combustible dual
 calcular coeficiente gas GERWHTC caliente ciclo ensayo WHTC
 calcular valores límite número partículas PN limitWHTC número kWh aplicables ciclo ensayo WHTC fórmula interpolación lineal valores límite número partículas motores encendido comprensión motores encendido chispa
-
 PN limitPI WHTC límite número partículas aplicable motores encendido chispa ciclo ensayo WHTC
 PN limitCI WHTC límite número partículas aplicable motores encendido compresión ciclo ensayo WHTC
 Ilustración límites número partículas caso motor HDDF tipo funcione combustible dual ciclo WHTC
@@ -3751,7 +3733,6 @@ contenedor postratamiento retirarse ensayos simulados establecimiento cartograf�
 emisiones medidas ciclos ensayo deberán representativas emisiones condiciones reales
 materiales tubos lisos conductores electricidad deberán reaccionar emisiones cárter
 tubos cortos
-
 punto
 ciclos práctica convenga verificar sistemas motor celda ensayo medición emisiones
 Enfriamiento natural forzado motor
@@ -3811,7 +3792,6 @@ número partículas kWh regeneración
 número partículas emitidas ciclo ensayo WHTC arranque frío
 trabajo efectivo ciclo ciclo ensayo WHTC arranque frío punto kWh
 ISO ISO
-
 Vida útil
 Vehículos categoría
 Numeradorg refiere numerador grupo monitores valor real Numeradorm monitor específico relación funcionamiento servicio define punto baja monitores grupo monitores bordo vehículo concreto
@@ -3897,7 +3877,6 @@ situación fecha entrada vigor presente Reglamento consultarse versión document
 medirá temperatura absoluta Ta aire admisión motor expresada kelvin presión atmosférica seca ps expresada kPa determinará parámetro fa disposiciones siguientes
 caso motores cilindros posean grupos colectores distintos ejemplo motores tomará temperatura media distintos grupos
 cCOe
-
 Corrección base seca base húmeda
 gases naturales factor desplazamiento comprendido Sλ consideran grupo cuyo factor desplazamiento comprendido Sλ consideran grupo composición combustibles referencia refleja extremas variaciones Sλ
 nr número ensayos WHTC arranque caliente regeneración mínimo ensayo
@@ -4209,7 +4188,6 @@ Entrará vigor publicación Diario Oficial
 Presidente
 DO
 Reglamento modificado lugar Reglamento CE Comisión DO
-
 forma Canje Notas Comunidad Europea República Belarús modifica Comunidad Europea República Belarús comercio productos textiles
 Nota Consejo Unión Europea
 Señor
@@ -4555,9 +4533,6 @@ Carbonero
 Aguas CE aguas internacionales aguas internacionales XII XIV
 Patudo
 Océano Atlántico
-
-
-
 PO
 caso miembros deducciones aplicarse superiores correspondiente cuota
 Teniendo presentes normas establecidas artículo apartado Reglamento CE dispensar trato miembros contribuir eficacia conservación recursos compensando medida sobrepesca previa procede garantizar deduzca tales casos cantidad íntegra

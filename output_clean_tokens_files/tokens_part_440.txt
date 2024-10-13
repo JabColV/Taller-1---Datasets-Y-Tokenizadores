@@ -120,7 +120,6 @@ DO
 Decisión modificada lugar Decisión CE DO
 ANEXO
 ANEXO
-
 Alemania
 RenaniaPalatinado
 distrito Ahrweiler municipios Adenau Altenahr
@@ -2192,7 +2191,6 @@ DO
 ANEXO
 anexo Reglamento CE queda modificado
 sustituye texto
-
 Lista terceros países territorios zonas compartimentos
 Código ISO nombre tercer país territorio
 Código tercer país territorio zona compartimento
@@ -2208,7 +2206,6 @@ Fecha conclusión
 Fecha inicio
 país
 BR Brasil
-
 Rio do Sul Santa Catarina Paraná São Paulo Mato Grosso do Sul
 Mato Grosso Paraná Rio do Sul Santa Catarina São Paulo
 Distrito Federal
@@ -2242,7 +2239,6 @@ ZA Sudáfrica
 ZW Zimbabue
 queda modificada
 sección relativa Programa control salmonela añaden siguientes entradas
-
 Prohibición exportar Unión aves reproductoras renta BPP Gallus gallus aves corral destinadas sacrificio repoblación cinegética SRP Gallus gallus haberse presentado Comisión haberlo aprobado programa pertinente control salmonela conforme Reglamento CE
 Prohibición exportar Unión pavos reproductores renta BPP pollitos DOC pavo pavos destinados sacrificio repoblación cinegética SRP huevos incubar HEP pavo haberse presentado Comisión haberlo aprobado programa pertinente control salmonela conforme Reglamento CE
 Prohibición exportar Comunidad pavos reproductores renta BPP pavos destinados sacrificio repoblación cinegética SRP haberse presentado Comisión haberlo aprobado programa pertinente control salmonela conforme Reglamento CE
@@ -2365,9 +2361,7 @@ REINO SUECIA
 REINO UNIDO BRETAÑA IRLANDA NORTE
 Partes Contratantes Tratado Unión Europea Tratado Funcionamiento Unión Europea sucesivo denominados miembros
 UNIÓN EUROPEA
-
 GOBIERNO ISRAEL denominado sucesivo Israel
-
 DESEOSOS promover sistema internacional aviación basado competencia leal compañías aéreas mínima interferencia regulación
 DESEOSOS facilitar expansión oportunidades transporte aéreo internacional iniciativas desarrollo redes transporte aéreo satisfagan adecuadamente necesidades pasajeros expedidores relación servicios transporte aéreo
 RECONOCIENDO importancia transporte aéreo fomentar comercio turismo inversión
@@ -3344,7 +3338,6 @@ medidas adoptadas deberán efectivas proporcionadas disuasorias
 Responsabilidad compañías aéreas
 Reglamento CE Consejo responsabilidad compañías aéreas caso accidente modificado Reglamento CE
 Artículo
-
 definiciones figuran artículo aplicarán requisitos reglamentarios normas relativas responsabilidad compañías aéreas caso accidente especifican presente anexo
 Partes Contratantes aplicarán Convenio Montreal vuelos nacionales
 Partes Contratantes deberán garantizar compañías aéreas abonen anticipo personas físicas tengan derecho compensación resulte necesaria cubrir necesidades económicas inmediatas forma proporcional perjuicios sufridos
@@ -3512,7 +3505,6 @@ Partes Contratantes adoptarán medidas necesarias informar personas discapacidad
 Partes Contratantes determinarán régimen sanciones aplicable infracciones disposiciones Reglamento adoptarán medidas necesarias garantizar aplicación
 sanciones establecidas deberán eficaces proporcionadas disuasorias
 Contratante petición notificará disposiciones materia sanciones
-
 Directiva CE Consejo noviembre relativa aplicación europeo ordenación tiempo trabajo personal vuelo aviación civil celebrado Association of European Airlines AEA European Transport Workers Federation ETF European Cockpit Association ECA European Regions Airline Association International Air Carrier Association IACA
 normas requisitos dispuestos presente anexo aplicarán tiempo trabajo personal vuelo aviación civil
 definiciones cláusula Directiva CEE Consejo aplicarán normas requisitos tiempo trabajo personal vuelo aviación civil especifican presente anexo proceda convenga
@@ -3900,7 +3892,6 @@ punto inserta punto
 conformidad señal par ECU requisitos puntos demostrará miembro familia motores determinar potencia motor anexo XIV
 realizarán mediciones adicionales puntos funcionamiento carga parcial régimen motor ejemplo modos WHSC puntos aleatorios adicionales
 apéndice añade Modelos ficha características
-
 ACCESO INFORMACIÓN RELATIVA REPARACIÓN MANTENIMIENTO VEHÍCULO
 Dirección sitio web principal acceder información relativa reparación mantenimiento vehículo
 Fecha disponible máximo meses fecha homologación tipo
@@ -4515,7 +4506,6 @@ Vinos
 Categoría categorías producto
 Lengua
 Menciones tradicionales adicionales
-
 vcprd vino mesa IG
 Alemán
 vcprd

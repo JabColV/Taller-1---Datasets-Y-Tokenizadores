@@ -3013,7 +3013,6 @@ Tablestacas
 Elementos vías férreas fundición hierro acero carriles rieles contracarriles contrarrieles cremalleras agujas puntas corazón varillas mando agujas elementos cruce cambio vías traviesas durmientes bridas cojinetes cuñas placas asiento placas unión placas tirantes separación piezas concebidas especialmente colocación unión fijación carriles rieles
 Carriles rieles
 Conductores corriente metal férreo
-
 Carriles rieles tipo vignole
 peso superior kg metro lineal
 peso superior kg metro lineal inferior kg metro lineal
@@ -3156,7 +3155,6 @@ Cadenas eslabones contrete travesaño
 cadenas eslabones soldados
 dimensión material constitutivo sección transversal inferior mm
 dimensión material constitutivo sección transversal superior mm
-
 Anclas rezones partes fundición hierro acero
 Puntas clavos chinchetas chinches grapas apuntadas onduladas biseladas artículos similares fundición hierro acero cabeza materias cabeza cobre
 Chinchetas chinches
@@ -4105,7 +4103,6 @@ Pistolas aerográficas aparatos similares
 Máquinas aparatos chorro arena vapor aparatos chorro similares
 Aparatos limpieza agua motor incorporado
 dispositivos calentamiento
-
 aire comprimido
 agricultura horticultura
 Aparatos riego

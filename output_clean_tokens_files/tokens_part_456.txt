@@ -75,7 +75,6 @@ Explotaciones clase exclusión clases
 cultivos cultivos cereales semillas oleaginosas proteaginosas
 Patatas remolacha azucarera raíces tubérculos forrajeros
 Cultivos cereales semillas oleaginosas proteaginosas raíces
-
 Hortalizas frescas melones sandías fresas producidas aire libre
 Tabaco
 Algodón
@@ -138,32 +137,23 @@ Pollos carne aves corral
 Explotaciones clase exclusión clases
 Explotaciones clase exclusión clases
 cultivos horticultura cultivos permanentes cultivos horticultura cultivos permanentes
-
 Horticultura cultivos permanentes
-
 cultivos horticultura
-
 cultivos Viñedos
 cultivos cultivos permanentes viñas
 cultivos actividad
-
 Explotaciones clase exclusión clases
 Herbívoros forraje granívoros herbívoros forraje granívoros
-
 Herbívoros forraje granívoros
-
 Vacas lecheras herbívoros vacas lecheras bovinos lecheros
 Explotaciones clase exclusión clase
 Herbívoros forraje granívoros
-
 Explotaciones policultivo granívoros bovinos lecheros
 Vacas lecheras herbívoros granívoros vacas lecheras bovinos lecheros
 GL
-
 Explotaciones clase exclusión clase
 Explotaciones hayan excluido clases
 cultivos herbívoros forraje
-
 Vacas lecheras herbívoros vacas lecheras bovinos lecheros bovinos lecheros cultivos
 Vacas lecheras herbívoros vacas lecheras bovinos lecheros bovinos lecheros cultivos
 cultivos herbívoros forraje exclusión explotaciones clase
@@ -171,7 +161,6 @@ exclusión clase
 Explotaciones clase exclusión clases
 Explotaciones clase exclusión clase
 cultivos granívoros
-
 Cultivos permanentes herbívoros forraje
 Abejas
 Explotaciones clase exclusión clases
@@ -227,9 +216,6 @@ pagos directos
 CLASES FUNCIÓN IMPORTANCIA OAL DIRECTAMENTE RELACIONADAS EXPLOTACIÓN
 explotaciones clasifican clases función importancia OAL directamente relacionadas producción límites indican continuación
 Límites porcentaje
-
-
-
 ANEXO IV
 PRODUCCIONES ESTANDARES PE
 DEFINICIÓN ELEMENTOS CÁLCULO PRODUCCIONES ESTANDARES
@@ -322,12 +308,8 @@ Anexo II
 Anexo III
 Anexo
 Explotaciones especializadas Producción vegetal
-
 GL
-
-
 GL
-
 orientación técnicoeconómica explotación dimensión económica explotación determinarse tomando base criterio económico positivo resulta apropiado utilizar producción estándar
 dimensión económica explotación definirá función producción estándar explotación
 importancia actividades lucrativas directamente relacionadas explotación distintas actividades agrícolas explotación determinará base porcentaje dichas actividades representen producción explotación
@@ -868,7 +850,6 @@ Formulario reacción
 Plazos miembros
 Plazos Comisión
 Directrices evaluación riesgo productos consumo
-
 CATEGORÍA DIRECTRICES DESTINATARIOS
 artículo apartado Directiva establece directrices elaboradas gestión procedimiento notificación RAPEX regular diversos aspectos procedimiento notificación establecido artículo DSGP
 directrices regulan funcionamiento gestión procedimiento notificación RAPEX creado virtud artículo DSGP procedimiento notificación establecido artículo Directiva
@@ -1362,7 +1343,6 @@ Alcance
 confidencial notificación
 Alcance confidencialidad
 Justificación
-
 Justificación envío notificación fines informativos
 Anexos
 Informes ensayo
@@ -1395,11 +1375,9 @@ Acción
 Plazo
 Sistema comunitario intercambio rápido información RAPEX creado virtud artículo DSGP
 Envío notificación artículo requiere intervención urgente
-
 adoptar decidir adoptar medidas obligatorias
 recibir información medidas voluntarias
 Envío notificación artículo
-
 Confirmación medidas notificación envió decidir adoptar medidas
 Cuarenta presentar notificación
 Actualización notificación
@@ -1413,7 +1391,6 @@ Envío reacción
 localizar mercado producto notificado
 evaluación riesgo resultados
 recibir información adicional
-
 Actualización reacción
 recibir información cambios precisan modificación reacción
 Procedimiento notificación establecido artículo DSGP
@@ -2628,10 +2605,8 @@ ANEXO
 anexo Decisión CE queda modificado
 sección relativa puestos inspección fronterizos Alemania suprimen entradas siguientes
 Konstanz Straße
-
 sección relativa puestos inspección fronterizos Francia suprimen entradas siguientes
 Ferney–Voltaire Genève
-
 sección relativa puestos inspección fronterizos Italia suprimen entradas siguientes
 Campocologno
 HC NHC
@@ -2833,15 +2808,12 @@ ANEXO
 Declaración Comisión Europea nombre Comunidad Europea Energía Atómica
 representantes Confederación Suiza solicitado Comisión Europea confirme importe contribuciones previstas Confederación Suiza año relación actividades investigación Euratom superará millones CFH
 Comisión Europea confirma base datos estadísticos pertinentes teniendo factores proporcionalidad rigen cálculo contribuciones previstas Confederación Suiza año relación actividades investigación Euratom inclusive realizadas celebración presente importe adeudado Confederación Suiza año superará millones CHF
-
 cooperación científica tecnológica Comunidad Europea Energía Atómica Confederación Suiza asocia Confederación Suiza Programa Marco Comunidad Europea Energía Atómica Euratom actividades investigación formación materia nuclear
 COMUNIDAD EUROPEA ENERGÍA ATÓMICA
 sucesivo denominada Euratom
 representada Comisión Europea sucesivo denominada Comisión
-
 CONFEDERACIÓN SUIZA
 sucesivo Suiza representada Consejo Federal Suizo
-
 sucesivo denominadas Partes
 CONSIDERANDO estrecha relación existente Suiza Euratom redunda beneficio ambas Partes
 CONSIDERANDO importancia investigación científica tecnológica Partes mutuo interés cooperar ámbito recursos evitar duplicaciones innecesarias

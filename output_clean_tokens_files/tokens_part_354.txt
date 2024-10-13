@@ -582,9 +582,7 @@ Seguimiento rebaños infectados
 octubre animales meses edad presenten encías incisivo definitivo hayan sacrificados destrucción conformidad disposiciones incisos ii letra punto letra punto anexo VII realizarán pruebas seleccionando muestra aleatoria simple conforme tamaño muestra indicado cuadro
 Número animales mayores meses presenten encías incisivo definitivo sacrificados destrucción rebaño
 Tamaño mínimo muestra
-
 animales seleccionables
-
 sacrificio posterior muestreo postergarán conozca resultado pruebas moleculares primarias efectuadas ulterior examen casos positivos tembladera conforme dispuesto inciso letra punto capítulo anexo
 Seguimiento animales
 programas seguimiento establecidos puntos miembros cabo seguimiento animales carácter voluntario especialmente
@@ -1466,7 +1464,6 @@ Craqueo
 Craqueo térmico
 Reducción viscosidad térmico
 Coquización
-
 CAC listas CAC
 Craqueo catalítico
 Craqueo catalítico lecho fluido
@@ -1478,7 +1475,6 @@ Desulfuración
 gasóleo fuelóleo pesado
 Alquilación Polimerización Isomerización
 Eterificación
-
 Indicación ejemplo razones inversión retrasos problemas infraestructura etc
 NB construcción DFI decisión inversión incluyen renovación
 Instalaciones capacidad millón toneladas año
@@ -1575,7 +1571,6 @@ punto anexo Art
 Hulla lignito
 Petróleo
 fuentes energía
-
 Centrales nucleares MW tipo
 punto anexo Art
 Reactor agua presión
@@ -1608,7 +1603,6 @@ Infraestructura construcción
 Art
 Líneas aéreas kv mínimo destinadas tensión suele utilizarse escala nacional líneas interconexión seleccionar gama
 Anexo
-
 Líneas subterráneas kV
 Líneas subterráneas kV
 Indicación ejemplo infraestructuras existentes estén operativas años
@@ -1620,7 +1614,6 @@ Anexo
 Características tramo miembro declarante
 Tensión kV
 Capacidades transporte MVA CA MW CC
-
 Líneas aéreas
 Frontera EM EM país
 Subestación ASubestación
@@ -1656,9 +1649,6 @@ Capacidad almacenamiento kt
 Inyectabilidad Capacidad máxima inyección
 Instalaciones capacidad kt
 Destilación atmosférica
-
-
-
 Inyectabilidad Capacidad máxima inyección
 Decisión Comisión
 diciembre
@@ -1717,7 +1707,6 @@ Resultado fórmula simplificada
 fórmula único valor introducirse calcular relación requerida masa gas evaporación masa combustible marítimo consumidos RG MBOG MF contenido azufre combustible marítimo utilizado atraque muelle
 cuadro figura continuación recoge ejemplos relación mínima requerida cumplir criterios equivalencia combustibles marítimo presenten contenidos azufre
 Contenido azufre
-
 porcentaje contenido azufre unidad masa combustible marítimo utilizado
 masa kg combustible marítimo consumido atraque buque muelle
 equivalente masa kg combustible contenido azufre
@@ -2039,7 +2028,6 @@ miembro expide material color licencias relacionadas aviación color blanco
 miembro distingue color distintas licencias relacionadas aviación color licencia controlador tránsito aéreo amarillo
 ANEXO II
 REQUISITOS FORMACIÓN
-
 Requisitos formación inicial controladores tránsito aéreo
 formación inicial garantizará alumnos controladores tránsito aéreo satisfagan mínimo objetivos formación básica habilitación definidos Eurocontrol edición diciembre Orientaciones contenidos básicos objetivos formación comunes formación controladores tránsito aéreo objeto estén condiciones regular tráfico aéreo segura rápida eficaz
 formación inicial cubrirá siguientes temas Derecho Aviación gestión tránsito aéreo incluidos procedimientos cooperación civil militar meteorología navegación aeronaves principios vuelo incluida comprensión controlador tránsito aéreo piloto factores humanos equipos sistemas entorno profesional seguridad cultura seguridad sistemas gestión seguridad situaciones inusuales emergencia sistemas degradados conocimientos lingüísticos incluida fraseología radiotelefónica
@@ -2047,7 +2035,6 @@ enseñanza temas impartirá prepare interesados diversos tipos servicios tráfic
 formación inicial constará cursos teóricos prácticos incluye ejercicios simulación duración quedará determinada planes iniciales aprobados
 aptitudes adquiridas interesados deberán garantizar capacidad regular situaciones complejas tráfico denso facilitar transición formación unidad
 finalizada formación inicial aptitud interesado evaluará exámenes adecuados caso sistema evaluación continua
-
 Requisitos formación unidad controladores tránsito aéreo
 planes formación unidad especificarán procesos calendario permitir aplicación procedimientos unidad área local supervisión instructor formación puesto trabajo
 plan aprobado incluirá elementos sistema evaluación aptitud incluye formas trabajo evaluación examen progreso procedimientos notificación autoridad nacional supervisión
@@ -2055,7 +2042,6 @@ formación unidad contener determinados elementos formación inicial específico
 duración formación unidad quedará determinada plan correspondiente
 evaluación aptitudes exigidas realizará exámenes adecuados caso sistema evaluación continua confiada examinadores evaluadores autorizados adoptarán decisiones neutra objetiva
 autoridades nacionales control establecerán mecanismos recurso garanticen trato equitativo interesados
-
 Requisitos formación continua controladores tránsito aéreo
 habilitaciones anotaciones unidad figuren licencias controladores tránsito aéreo mantendrán vigor planes aprobados formación continua consisten formación mantener aptitud cursos refresco formación emergencia caso formación lingüística
 formación continua constará cursos teóricos prácticos incluye ejercicios simulación
@@ -3550,7 +3536,6 @@ cualificado
 controlado
 Finalidad
 silvicultura multifuncional
-
 Tipo materiales base
 fuente semillera
 masa rodal
@@ -4606,7 +4591,6 @@ Je
 Hijo Khin Maung Thein nacido
 Jf
 Hija Khin Maung Thein nacida
-
 Hija Khin Maung Thein nacida
 Jh
 Director Gerente Kambawza Bank

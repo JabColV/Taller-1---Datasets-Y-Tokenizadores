@@ -673,7 +673,6 @@ inicialmente incluirán disposiciones dichos Reglamentos materia seguridad proce
 Características físicas infraestructura equipo
 Operaciones gestión
 Alrededores aeródromo
-
 procedimientos operativos
 conocimientos apropiados ámbito impartir instrucción
 cumplir requisitos conocimientos teóricos experiencia apropiados instrucción vayan impartir
@@ -1706,7 +1705,6 @@ DO
 ANEXO
 ANEXO
 ANIMALES VIVOS
-
 Código territorio
 Descripción territorio
 Certificado veterinario
@@ -2290,8 +2288,6 @@ fórmula utilizará acoja dispuesto párrafo artículo bis
 certificado expedido autorización Gobierno
 nombre completo
 nombre institución organización
-
-
 Lugar
 Fecha
 Firma título funcionario expide refrenda certificado
@@ -2355,7 +2351,6 @@ Columna
 Sustancia activa
 miembro
 Fechas
-
 Alquitrán pino
 Finlandia
 producto protector madera edificios buques artículos forman patrimonio cultural miembros solicitantes
@@ -3056,7 +3051,6 @@ Disposiciones aplicables BUQUES PASAJE TRANSBORDO RODADO CLASE
 capítulo II reglas
 CAPÍTULO II
 CONSTRUCCIÓN COMPARTIMENTADO ESTABILIDAD MAQUINARIA INSTALACIONES ELÉCTRICAS
-
 GENERALIDADES
 Definiciones relacionadas
 BUQUES CLASES BUQUES EXISTENTES CLASE
@@ -3103,7 +3097,6 @@ caldera alimentada combustible liquido instalación combustible líquido
 Sistema accionador motor equipo hidráulico provisto suministrar energía girar mecha timón comprende servomotores aparato gobierno correspondientes tuberías accesorios accionador timón
 sistemas tipo compartir componentes mecánicos comunes tales caña sector mecha timón componentes desempeñen función piezas
 Puestos control espacios hallan aparatos radiocomunicaciones principales aparatos navegación equipo electrogenerador emergencia centralizado equipo detector extintor incendios
-
 ESTRUCTURA BUQUES
 instalación materiales contengan asbesto
 BUQUES
@@ -3120,12 +3113,9 @@ proveerán buques medios equipos accesorios carga trabajo suficientemente segura
 medios equipos accesorios suministrados previstos apartado cumplirán prescripciones especificadas clasificación normas organización reconocida normas equivalentes utilizadas administración conformidad artículo apartado Directiva CE
 referencia circular MSC Circ OMI Orientaciones equipo remolque amarre bordo
 accesorios elementos equipo suministrado virtud presente regla marcarán claridad indicar restricción relacionada operaciones condiciones seguridad teniendo resistencia punto unión estructura buque
-
 ESTABILIDAD AVERÍA COMPARTIMENTADO ESTABILIDAD AVERÍA
-
 Buques construidos enero posteriormente Opción aplicar Resolución MSC
 buques clases cuya quilla colocada enero posteriormente hayan llegado fase similar construcción fecha deberán cumplir prescripciones alternativamente disposiciones pertinentes Convenio capítulo III arreglo dispuesto anexo Resolución MSC
-
 Buques construidos enero
 Estabilidad avería Resolución enmendada Resolución MSC
 BUQUES CLASES ESLORA SUPERIOR METROS
@@ -3269,15 +3259,10 @@ BUQUES PASAJE TRANSBORDO RODADO EXISTENTES CLASE
 buques existentes clase espacios carga rodada deberán cumplir regla tardar fecha reconocimiento periódico fecha cumplimiento prescribe continuación arreglo valor relación AMAX definida anexo Procedimiento cálculo evaluar características conservación flotabilidad buques pasaje transbordo rodado existentes utiliza método simplificado basado Resolución VIII elaborado Comité Seguridad Marítima quincuagésimo noveno período sesiones junio MSC Circ
 Valor Amax
 Fecha cumplimiento
-
 octubre
-
 octubre
-
 octubre
-
 octubre
-
 octubre
 Prescripciones especiales buques pasaje transbordo rodado transporten pasajeros
 BUQUES CLASES BUQUESDE PASAJE TRANSBORDO RODADO EXISTENTES CLASE
@@ -3287,10 +3272,7 @@ buque pasaje transbordo rodado existente autorizado transportar personas cumplir
 Valor Amax
 octubre
 Número personas permitido transportar
-
-
 octubre
-
 octubre
 octubre
 Edad buque años
@@ -3584,7 +3566,6 @@ Barandillas
 BUQUES CLASES CONSTRUIDOS ENERO POSTERIORMENTE
 cubiertas exteriores esté permitido acceso pasaje amurada suficiente altura irán provistas barandillas altura mínimo mm cubierta diseñadas construidas forma impidan pasajero subirse caer accidentalmente cubierta
 escaleras rellanos cubiertas exteriores irán provistas barandillas construcción equivalente
-
 MÁQUINAS
 Generalidades
 máquinas calderas recipientes presión correspondientes sistemas tuberías accesorios responderán proyecto construcción adecuados servicio estén destinados irán instalados protegidos reduzca mínimo peligro personas bordo considerándose sentido proceda piezas móviles superficies calientes riesgos
@@ -3637,7 +3618,6 @@ tuberías aspiración sentinas punto conexión bombas independientes tuberías
 diámetro colectores achique principal secundarios calculará utilizando fórmulas dadas continuación
 obstante diámetro interior real dichos colectores redondearse tamaño normalizado Administración abanderamiento juzgue aceptable colector achique principal
 colectores achique secundarios depósitos puntos succión
-
 diámetro interno colector achique principal milímetros
 eslora manga buque metros
 longitud compartimiento
@@ -3782,7 +3762,6 @@ ascensores personas carga cumplirán respecta dimensiones diseño número pasaje
 planos instrucciones mantenimiento instalación incluidas disposiciones regulen inspecciones periódicas deberán aprobados Administración abanderamiento inspeccionará aprobará instalación
 aprobadas Administración abanderamiento expedirá certificado deberá conservarse bordo
 Administración abanderamiento permitir inspecciones periódicas efectuadas experto autorizado Administración organización reconocida
-
 INSTALACIONES ELÉCTRICAS
 Generalidades
 instalaciones eléctricas tales queden garantizados
@@ -3875,7 +3854,6 @@ esencial fines operacionales
 tipo inflamar mezcla trate
 apropiado espacio trate
 esté adecuadamente homologado riesgos atmósferas probable acumulen polvo vapores gases
-
 PRESCRIPCIONES COMPLEMENTARIAS RELATIVAS BUQUES CONSTRUIDOS ESPACIOS MÁQUINAS DOTACIÓN PERMANENTE
 buques clases buques existentes clase objeto examen especial Administración abanderamiento determinar espacios máquinas utilizados dotación permanente caso afirmativo necesarias prescripciones complementarias estipuladas presentes reglas lograr nivel seguridad equivalente espacios máquinas atendidos normalmente dotación
 Generalidades
@@ -4097,7 +4075,6 @@ Diámetro presión colectores contraincendios
 diámetro colector tuberías contraincendios suficiente distribución eficaz caudal máximo agua prescrito bombas contraincendios funcionando simultáneamente
 bombas descarguen simultáneamente lanzas manguera especificadas apartado suficientes bocas contraincendios suministrar caudal agua especificado punto mantendrán siguientes presiones bocas contraincendios
 Buques clase autorizados transportar
-
 Existentes
 pasajeros
 pasajeros máximo

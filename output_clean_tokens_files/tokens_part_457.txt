@@ -231,7 +231,6 @@ Valores distintos acciones miembros participantes
 Valores distintos acciones Resto mundo
 ANEXO II
 Control coherencia datos contables estadísticos balances BCN BCE
-
 Descripción comprobaciones
 Comprobación
 Partida estadística balance BCN BCE
@@ -280,7 +279,6 @@ Activos exteriores
 categoría estadística deberá ligeramente suma categorías contables incluye acciones participaciones efectivo billetes monedas extranjeras excluyen categoría contable
 valores distinta periodicidad valoración
 Oro derechos oro activos frente residentes zona euro moneda extranjera activos frente residentes zona euro euros
-
 Planilla nota explicativa mensual simplificada comprobaciones coherencia
 Nombre banco central
 Comprobaciones coherencia mes
@@ -303,7 +301,6 @@ Préstamos residentes zona euro administraciones públicas
 Tenencia valores distintos acciones emitidos residentes zona euro
 Activos residuales
 Activos exteriores
-
 Nota explicativa anual completa comprobaciones coherencia
 bancos centrales deberán comunicar explicar categorías discrepancias identificadas datos estadísticos contables discrepancias debidas revisión ii discrepancias debidas presentación normas clasificación iii discrepancia incluidos errores información
 categorías bancos centrales deberán comunicar explicar siguientes detalles
@@ -401,7 +398,6 @@ Administración central
 meses
 Valores distintos acciones
 Participaciones FMM
-
 Sección Partidas pro memoria mensuales obtención evaluación contrapartidas agregados monetarios
 Datos BCE BCN saldos
 casillas trazo grueso constituyen partidas pro memoria alta prioridad
@@ -462,7 +458,6 @@ refiere forma característica fondos pensión empleados atribuido entidad extern
 Acciones cotizaciones bolsa valores reconocida forma mercado secundario
 Participaciones emitidas contexto entidad financiera organizada aúna fondos inversores adquirir activos financieros financieros incluidos sector IFM denominadas participaciones fondos colectivos
 primas brutas pagadas IFM asignar período contable activos IFM hayan saldado
-
 Datos partidas balance exigidos compilar estadísticas base reservas
 Mundo
 IFM miembros participantes sujetas obligación reservas instituciones distintas IFM miembros participantes resto mundo
@@ -476,10 +471,8 @@ años
 años
 Datos partidas balance exigidos efectos control
 Franquicia
-
 Datos partidas balance entidades crédito compilar macrocoeficientes
 monedas
-
 Estadísticas balance entidades crédito
 Sección Datos saldos
 CUADRO
@@ -525,7 +518,6 @@ Corporaciones locales
 CUADRO
 Desglose sectorial entidades crédito revalorizaciones
 Hogares etc
-
 Número sucursales entidades crédito finales período referencia
 indicador deberá incluir sucursales pertenezcan entidades crédito
 deberán excluir oficinas unidades institucionales entidades crédito pertenezcan grupo entidad crédito
@@ -541,7 +533,6 @@ BCN deberán seguir medida enfoque agregado
 caso cálculo Índice Herfindhal deberá incluir balance agregado entidad crédito incluida grupo utilizando información contable incluida financieros anuales entidades
 entidades crédito tamaño reducido presenten datos deberán extrapolar
 Índice Herfindhal obtiene sumando cuadrado cuotas mercado entidades crédito sector bancario deberá presentar BCE fórmula
-
 número entidades crédito país
 activos totales entidades crédito
 activos totales entidades crédito país
@@ -602,7 +593,6 @@ Activos totales filiales
 Indicadores financieros estructurales ajustes flujos
 Reclasificaciones ajustes
 ajustes revalorización
-
 Datos BCN saldos
 Residentes
 depósitos BCN
@@ -621,7 +611,6 @@ Formulario
 Formulario
 préstamos BCE
 emitidos BCE
-
 Estadísticas titulización transferencias préstamos IFM inicialmente concedidos instituciones distintas IFM
 Sección Préstamos IFM titulizados sociedad instrumental
 Flujos brutos mensuales
@@ -641,7 +630,6 @@ Saldos vivos saldo vivo préstamos inicialmente concedidos IFM sectores resident
 diferencia saldos período flujo neto
 considerarán supuestos distintos operaciones
 Préstamos vendidos préstamo vendido sector instituciones distintas IFM requerirá comunicación información consiguiente caso aparezca balance IFM inicialmente concedido préstamo sectores residentes balance IFM
-
 Estadísticas intermediarios financieros
 Sección Cuadros información
 facilitarán datos fondos inversión cuadros respecta fondos inversión abarca tipos fondos inversión existan país fondos inversión desglosados
@@ -860,7 +848,6 @@ BCN deberán facilitar estimaciones cobertura datos términos activos totales po
 Rupturas series históricas deberán describir rupturas cambios principales tiempo recogida cobertura información planes información compilación series históricas
 caso rupturas deberá indicar medida datos antiguos considerar comparables
 comentarios comentarios indicaciones pertinentes
-
 Sección Introducción
 estadísticas emisiones valores zona euro ofrecen agregados principales
 emisiones realizadas residentes zona euro moneda
@@ -1067,7 +1054,6 @@ Valoración precio
 saldos flujos acciones cotizadas deberán comunicar valor mercado saldos flujos valores distintos acciones deberán comunicar valor nominal
 excepción norma consignar saldos flujos valores distintos acciones valor nominal bonos emitidos descuento interés explícito bonos cupón cero consignan importe efectivo pagado precio descuento momento compra amortizaciones vencimiento valor nominal
 saldos vivos bonos emitidos descuento interés explícito bonos cupón cero importe efectivo pagado intereses devengados muestra continuación
-
 importe efectivo pagado intereses devengados
 valor efectivo importe pagado momento emisión amortización
 valor nominal reembolsado vencimiento
@@ -1149,7 +1135,6 @@ Denominación
 local
 Euros denominaciones nacionales distintas denominación nacional incluido ecu
 monedas
-
 Sección Medios liquidación
 medios liquidación activos derechos activos pagos
 Medios liquidación utilizados instituciones distintas IFM
@@ -1343,14 +1328,11 @@ Sistema pequeños pagos
 Comunicado separado sistema pagos minorista
 Número participantes
 Participantes directos
-
 participantes directos
-
 Administración pública
 Entidad postal
 Organizaciones compensación liquidación
 instituciones financieras
-
 Participantes indirectos
 participante directo entidad identificada reconocida SITF autorizada enviar recibir órdenes pago sistema directamente intermediario vinculada directamente normas regulan SITF
 sistemas participantes directos intercambian órdenes pago nombre participantes indirectos
@@ -1419,7 +1401,6 @@ Países Bajos
 Eslovenia
 cerrado diciembre
 Finlandia
-
 Estadísticas activos pasivos fondos inversión
 estadísticas faciliten deberán incluir datos casillas cuadros correspondientes presente orientación cero falten exista fenómeno
 Saldos ajustes flujos trimestrales
@@ -2476,8 +2457,6 @@ categoría incluye valores cuya negociabilidad teóricamente esté práctica lim
 incluyen bonos internacionales SEC apartados
 Corresponde categoría SEC
 Euros
-
-
 Número empleados entidades crédito
 indicador refiere número empleados entidades crédito año referencia
 clasificación sectorial incluye siguientes tipos emisores
@@ -2514,7 +2493,6 @@ categoría residual compuesta sociedades financieras especializadas áreas activ
 incluyen operaciones participaciones estén cubiertas acciones cotizadas cotizadas SEC apartados depósitos other deposits tenencias depósitos distintos depósitos transferibles
 depósitos utilizarse pagos momento convertibles efectivo depósitos transferibles restricción penalización importante subcategoría incluye depósitos plazo depósitos ahorro etc SEC apartados fondos other funds fondos inversión distintos fondos obligaciones fondos participaciones fondos mixtos fondos inmobiliarios fondos alto riesgo intermediarios financieros OIF other financial intermediaries OFIs
 sociedades cuasisociedades financieras monetarias excluidas empresas seguro fondos pensiones dedican principalmente intermediación financiera incurriendo pasivos distintos efectivo depósitos sustitutos depósitos procedentes unidades institucionales IFM SEC apartados
-
 cotizadas cotizadas activos financieros representen derechos propiedad sociedades cuasisociedades
 acciones cotizadas valoran comunican valor mercado
 tenencias valores representan derechos propiedad sociedades cuasisociedades
@@ -3284,7 +3262,6 @@ Reglamento modificado lugar Reglamento CE DO
 Incluido Kosovo define Resolución Consejo Seguridad Naciones Unidas junio
 ANEXO
 ANEXO III
-
 Indicaciones contempladas artículo respecta trigo blando
 búlgaro Мека пшеница от интервенция без прилагане на възстановяване или такса Регламент ЕО
 danés Blød hvede fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -3305,7 +3282,6 @@ portugués Trigo mole intervenção sem aplicação uma restituição ou imposi�
 esloveno Intervencija navadne pšenice brez zahtevkov za nadomestila ali carine Uredba št
 finés Interventiovehnä johon ei sovelleta vientitukea eikä vientimaksua asetus EY
 sueco Interventionsvete utan tillämpning av bidrag eller avgift förordning EG nr
-
 Indicaciones contempladas artículo respecta cebada
 búlgaro Ечемик от интервенция без прилагане на възстановяване или такса Регламент ЕО
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -3326,7 +3302,6 @@ portugués Cevada intervenção sem aplicação uma restituição ou imposição
 esloveno Intervencija ječmena brez zahtevkov za nadomestila ali carine Uredba št
 finés Interventioohra johon ei sovelleta vientitukea eikä vientimaksua asetus EY
 sueco Interventionskorn utan tillämpning av bidrag eller avgift förordning EG nr
-
 Indicaciones contempladas artículo respecta centeno
 búlgaro Ръж от интервенция без прилагане на възстановяване или такса Регламент ЕО
 danés Rug fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -3586,9 +3561,7 @@ CICAP
 Acido dicloropiridinacarboxílico
 mayo
 abril
-
 autorizar usos herbicida
-
 evaluación solicitudes autorización productos fitosanitarios contengan clopiralida usos correspondientes aplicaciones primavera miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión clopiralida particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal abril
 evaluación general miembros deberán prestar especial atención
@@ -3762,7 +3735,6 @@ Categoría CRF IPCC Emisiones proceso
 Código IPPC categoría EPRTR
 Método seguimiento nivel aplicado
 Cambio niveles
-
 Producción año hora
 Incertidumbre flujo gases salida media horaria anual anual
 Incertidumbre concentración media horaria anual anual
@@ -3802,7 +3774,6 @@ emisiones anuales totales instalación consisten suma emisiones anuales proceden
 emisiones año
 hora
 flujo gases salida hora
-
 emisiones Oaño
 emisiones anuales totales procedentes fuente emisión toneladas
 conc Ohora
@@ -4405,7 +4376,6 @@ verificación existencia disposiciones satisfactorias asegurar control eficaz co
 sanciones disconformidad producción
 modificación extensión homologación tipo
 cese definitivo producción
-
 HOMOLOGACIÓN DISPOSITIVOS PROTECCIÓN DELANTERA EMPOTRAMIENTO
 HOMOLOGACIÓN DISPOSITIVOS PROTECCIÓN DELANTERA EMPOTRAMIENTO
 dispositivo protección delantera empotramiento sometido homologación conforme presente Reglamento satisface requisitos establecidos apartado concederá homologación tipo dispositivo conforme disposiciones contenidas anexo
@@ -4649,16 +4619,6 @@ oriental Canal Mancha división CIEM VIId
 Mar Irlanda división CIEM VIIa
 buques notificado Comisión encuentran equipados sistemas adecuados localización buques aplicará definición zona Oeste Escocia división CIEM VIa
 división CIEM VIa excluida situada oeste línea obtendría uniendo segmentos recta trazados sucesivamente coordenadas geográficas siguientes
-
-
-
-
-
-
-
-
-
-
 efectos presente anexo presencia zona ausencia puerto entenderá
 período horas transcurrido horas civil horas civil período buque encuentre presente zonas delimitadas punto ausente puerto
 período continuo horas registrado cuaderno diario pesca CE buque encuentre presente zonas delimitadas punto ausente puerto período
@@ -4690,21 +4650,16 @@ Excepciones presencia zonas ausencia puerto indicadas cuadro condiciones vincula
 Zona delimitada punto
 Arte pesca indicado punto
 Registro capturas buque
-
-
 especies siguientes bacalao lenguado solla europea
 restricción
-
 bacalao
 mm mm
 Kattegat división CIEM IIIa sur Mar Norte
 arte malla superior mm
 bacalao rodaballo ciclóptero
-
 oriental Canal Mancha división CIEM VIId
 arte malla superior mm
 Buques eslora desembarques superiores especies reglamentadas ausentes puerto máximo horas
-
 asignación elevada buque resultado porcentaje registro capturas determinadas especies buque momento mantener bordo porcentaje superior estipulado dichas especies cuadro II
 buque cumple condición dejará inmediatamente derecho adicionales
 petición miembro Comisión conceder relación pesca carbonero excepción dispuesto línea cuadro II exima requisito poseer registro pesca años anteriores inferior capturas bacalao lenguado solla europea

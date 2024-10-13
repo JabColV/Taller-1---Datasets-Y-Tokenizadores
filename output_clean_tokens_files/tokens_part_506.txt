@@ -1462,7 +1462,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -2327,7 +2326,6 @@ necesario repetir ensayos banco dinamométrico coeficientes variación medias ar
 Fórmulas
 fórmula calcular reducción CO derivada ecoinnovación
 Fórmula
-
 reducción CO CO km
 FU tiempo tecnología condiciones normales funcionamiento
 emisiones CO vehículo referencia arreglo ciclo ensayo referencia CO km
@@ -2397,7 +2395,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -2411,7 +2408,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -2425,7 +2421,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -4480,21 +4475,17 @@ Límites
 Método analítico referencia
 Fase aplica criterio
 Alimentos listos consumo destinados lactantes alimentos listos consumo destinados usos médicos especiales
-
 Productos comercializados vida útil
 Alimentos listos consumo favorecer desarrollo monocytogenes destinados lactantes usos médicos especiales
 ufc
-
 alimento dejado control inmediato explotador empresa alimentaria producido
 Alimentos listos consumo favorecer desarrollo monocytogenes destinados lactantes usos médicos especiales
 ufc
 Carne picada preparados carne destinados consumidos crudos
 Carne picada preparados carne base carne aves corral destinados consumidos cocinados
 Ausencia
-
 Ausencia
 Carne picada preparados carne base especies distintas aves corral destinados consumidos cocinados
-
 Carne separada mecánicamente CSM
 Productos cárnicos destinados consumidos crudos excluidos productos proceso fabricación composición producto elimine riesgo salmonela
 Productos cárnicos hechos base carne aves corral destinados consumidos cocinados
@@ -4503,7 +4494,6 @@ Quesos mantequilla nata hechos base leche cruda leche sometida tratamiento térm
 Leche polvo suero polvo
 Helados excluidos productos proceso fabricación composición producto eliminen riesgo salmonela
 Ovoproductos excluidos productos proceso fabricación composición producto eliminen riesgo salmonela
-
 Alimentos listos consumo contengan huevo crudo excluidos productos proceso fabricación composición producto eliminen riesgo salmonela
 ml
 Crustáceos moluscos cocidos
@@ -4960,7 +4950,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Números
 Transportista

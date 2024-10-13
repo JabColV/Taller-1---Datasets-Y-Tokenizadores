@@ -283,7 +283,6 @@ alarma audible alojamientos espacios normales trabajo tripulación cubiertas exp
 espacios alojamiento públicos servicio puestos control cubiertas expuestas dispondrá sistema megafonía eficaz comunicación
 mobiliario troncos escalera constituido únicamente asientos
 Administración abanderamiento permitir asientos adicionales zona principal recepción troncos escalera tipo fĳo incombustibles obstaculizan vías evacuación pasajeros
-
 escaleras espacios alojamiento servicio armazón acero casos Administración abanderamiento apruebe utilización material equivalente estarán instaladas interior troncos construidos divisiones clase provistos medios eficaces cierre aberturas obstante
 escalera esté encerrada entrepuente tronco encierre protegido conformidad dispuesto tablas cubiertas regla II
 espacios categoría máquinas sistema fĳo extinción incendios cumpla dispuesto regla II
@@ -596,7 +595,6 @@ MODELO CERTIFICADO SEGURIDAD BUQUES PASAJE
 CERTIFICADO SEGURIDAD BUQUES PASAJE
 presente Certificado llevará suplemento inventario equipo
 Sello oficial
-
 Expedido virtud disposiciones
 Nombre medidas pertinentes introducidas abanderamiento
 señal conformidad buque citado continuación dispuesto Directiva CE Parlamento Europeo Consejo reglas normas seguridad aplicables buques pasaje
@@ -1079,7 +1077,6 @@ DO
 Véase página presente Diario Oficial
 DO
 ANEXO
-
 Directiva derogada modificaciones sucesivas
 refiere artículo
 Directiva CE Consejo
@@ -1090,7 +1087,6 @@ Directiva CE Parlamento Europeo Consejo
 DO
 Directiva CE Parlamento Europeo Consejo
 DO
-
 Plazos transposición Derecho interno
 Directiva
 Plazo transposición
@@ -1275,7 +1271,6 @@ define tipo interés individualmente contratado agente informador hogar sociedad
 TCA incluirá pagos intereses depósitos préstamos pagos exigibles
 descuento entendido diferencia valor nominal préstamo importe recibido cliente considerará pago interés principio contrato tiempo reflejará TCA
 pagos intereses contratados agente informador hogar sociedad financiera capitalizan períodos regulares año ejemplo mes trimestre lugar anualmente tipo contratado anualizará fórmula obtener tipo contratado anualizado
-
 TCA
 tipo interés anual contratado agentes informadores hogar sociedad financiera depósito préstamo fechas capitalización intereses depósito pagos amortizaciones préstamo producen intervalos regulares año
 número períodos capitalización intereses depósito pagos amortizaciones préstamo año pagos anuales pagos semestrales pagos trimestrales pagos mensuales
@@ -1301,7 +1296,6 @@ coste componente tipo interés componente gastos conexos consultas administraci�
 contenido componente gastos variar país apliquen definiciones Directiva CE difieran sistemas financieros nacionales forma garantizar créditos distinta
 Convención
 agentes informadores tomarán año estándar compilar TCA prescindirán efecto adicional años bisiestos
-
 Actividad comprendida
 agentes informadores presentarán estadísticas tipos interés IFM saldos vivos operaciones
 Tipos interés saldos vivos
@@ -1341,7 +1335,6 @@ Tratamiento préstamos dudosos préstamos concedidos reestructuración deuda tip
 préstamos dudosos préstamos concedidos reestructuración deuda tipos inferiores mercado incluyen tipos interés medios ponderados volumen operaciones
 préstamos dudosos definen conforme anexo II Reglamento CE BCE importe préstamo parcial totalmente clasificado dudoso excluye estadísticas tipos interés IFM
 préstamos concedidos reestructuración deuda reestructurar deuda deudores dificultades financieras definirán arreglo definiciones nacionales vigentes
-
 Punto referencia temporal
 Punto referencia temporal tipos interés IFM saldos vivos
 BCN decidirán nivel nacional tipos interés IFM saldos vivos indicadores apéndice compilarán base observaciones período tipos implícitos referidos media período
@@ -1613,7 +1606,6 @@ página criterio letra Lista indicaciones peligro frases riesgo
 lugar
 Mortal caso inhalación
 léase
-
 página criterio
 Evaluación verificación solicitante deberá demostrar resultado ensayo reciclabilidad sustancias aumentan resistencia humedad eliminabilidad adhesivos métodos ensayo referencia método PTSRH sustancias aumentan resistencia humedad método INGEDE eliminabilidad adhesivos solubles métodos ensayo equivalentes destintabilidad deberá demostrarse utilizando método Deinking Scorecard European Recovered Paper Council métodos ensayo equivalentes ensayo realizarse tipos papel revestido revestido encolado superficialmente tipo tinta impresión vende únicamente tipos específicos papel basta ensayo tipos papel solicitante deberá presentar declaración productos papel impreso revestidos laminados cumplen dispuesto punto letra producto papel impreso eliminarse fácilmente ejemplo cubierta plástico tapa cuaderno reutilizable ensayo reciclabilidad efectuarse componente facilidad eliminar componentes distintos papel deberá demostrarse declaración empresa recogida papel empresa reciclado organización equivalente utilizarse asimismo métodos ensayo competente independiente demuestre ofrecen resultados equivalentes
 Evaluación verificación solicitante deberá demostrar resultado ensayo reciclabilidad sustancias aumentan resistencia humedad eliminabilidad adhesivos métodos ensayo referencia método PTSRH sustancias aumentan resistencia humedad método INGEDE eliminabilidad adhesivos solubles métodos ensayo equivalentes destintabilidad deberá demostrarse utilizando método Deinking Scorecard European Recovered Paper Council métodos ensayo equivalentes ensayo realizarse tipos papel revestido revestido encolado superficialmente tipo tinta impresión vende únicamente tipos específicos papel basta ensayo tipos papel solicitante deberá presentar declaración productos papel impreso revestidos laminados cumplen dispuesto punto letra producto papel impreso eliminarse fácilmente ejemplo cubierta plástico tapa cuaderno reutilizable ensayo reciclabilidad efectuarse componente facilidad eliminar componentes distintos papel deberá demostrarse declaración empresa recogida papel empresa reciclado organización equivalente utilizarse asimismo métodos ensayo competente independiente demuestre ofrecen resultados equivalentes
@@ -1783,7 +1775,6 @@ caso pérdida reserva carbono estimación reserva carbono equilibrada tierras al
 caso acumulación reserva carbono reserva carbono estimada años cultivo alcance madurez fecha reciente
 CÁLCULO RESERVAS CARBONO
 cálculo CSR CSA aplicará fórmula
-
 reserva carbono unidad superficie asociada suelo medida masa carbono unidad superficie incluidos suelo vegetación
 SOC carbono orgánico suelo medido masa carbono hectárea calculado arreglo punto
 reserva carbono vegetación suelo medido masa carbono hectárea calculada arreglo punto seleccionada valores adecuados punto
@@ -1937,7 +1928,6 @@ aplica prados pastizales mejorados utilizado insumos mejoras gestión necesario 
 Terreno forestal
 Cuadro
 Factores terreno forestal cubierta copas
-
 Bosque autóctono degradado
 np
 Bosques gestionados
@@ -2079,9 +2069,7 @@ CLI DOMLI CFLI
 Corrección errores Directiva CE Parlamento Europeo Consejo diciembre modifica Directiva CE relativa aproximación legislaciones miembros emisiones sonoras entorno debidas máquinas aire libre
 Diario Oficial Unión Europea diciembre
 página artículo punto tabla fila Grupos electrógenos soldadura potencia columna línea
-
 Pel
-
 Pel
 Reglamento CE Comisión
 marzo
@@ -2243,7 +2231,6 @@ envasados marcados almacenado transportado capítulos VI VII VIII anexo Directiv
 proceden especies tóxicas contengan biotoxinas
 superado satisfactoriamente pruebas organolépticas parasitológicas químicas microbiológicas establecidas categorías productos pesqueros Directiva CEE Decisiones aplicación
 inspector oficial abajo firmante declara conocimiento disposiciones contenidas Directivas CEE CEE Decisión CE
-
 Lugar Fecha
 Sello oficial
 Firma inspector oficial inspector
@@ -2403,14 +2390,12 @@ DO
 DO
 ANEXO
 ANEXO
-
 Zona establecida conformidad artículo apartado
 Código ISO país
 miembro
 Zona
 Fecha aplicable artículo apartado letra inciso iii
 Código
-
 Nombre
 REINO UNIDO
 Zona protección
@@ -2433,7 +2418,6 @@ Condado Włocławek
 Distrito Lipno
 Condado Dobrzyń nad Wisłą
 Condado Tłuchowo
-
 Zona establecida conformidad artículo apartado
 Zona
 distritos
@@ -3075,7 +3059,6 @@ vapor
 combustión interna
 turbinas gas
 ciclo combinado
-
 especificarse contenido partida
 información punta carga consignarse red
 Punta carga
@@ -3827,7 +3810,6 @@ DO
 DO
 DO
 ANEXO
-
 ANEXO
 Lista especies contempladas artículo apartado letra cumplir protocolos examen OCVV
 Nombre científico
@@ -3931,7 +3913,6 @@ TG
 Sorgo
 TG
 texto directrices consultarse sitio web UPOV wwwupovint
-
 Cebolla
 TP
 Chalota
@@ -4252,7 +4233,6 @@ nombre autoridad competente
 Origen caballo
 caballo expide
 lugar procedencia
-
 lugar destino
 vía aérea
 número vuelo
@@ -4521,9 +4501,7 @@ CAS
 CICAP disponible
 junio
 mayo
-
 autorizarán usos interiores bactericida posterior recolección
-
 aplicación principios uniformes anexo VI conclusiones informe revisión sulfato aluminio particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal marzo
 miembros afectados exigirán presentación información confirmatoria relación especificación material técnico fabricado comercialmente forma datos analíticos adecuados
 miembros afectados velarán solicitante presente dicha información Comisión tardar diciembre
@@ -4533,10 +4511,8 @@ necesario suprimir línea relativa sulfato aluminio anexo dicha Decisión
 Corrección errores Directiva CEE Consejo diciembre modifica Directiva CEE dispositivos protección instalados trasera caso vuelco tractores agrícolas forestales ruedas vía estrecha
 Diario Oficial Comunidades Europeas diciembre
 página artículo punto
-
 Anexo VI añade punto
 Indicación resultados prueba adicional dinámica eventual
-
 Anexo añade punto
 Indicación resultados prueba adicional dinámica eventual
 Reglamento UE Comisión
@@ -4678,7 +4654,6 @@ Lenguado común
 VIIh VIIj VIIk
 Besugo
 Aguas UE aguas internacionales zonas VI VII VIII
-
 comparado
 Bacalao
 Fletán negro

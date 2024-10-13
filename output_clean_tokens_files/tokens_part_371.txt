@@ -49,7 +49,6 @@ Importes recuperarse miembros abonárseles
 calcular importe recuperarse miembro abonarse considerado declaración anual gastos liquidados columna
 reducciones suspensiones consideradas sistema anticipos añaden particular correcciones debidas incumplimiento plazos pago constatadas agosto septiembre octubre
 Gastos organismos pagadores cuyas cuentas
-
 Reducciones suspensiones totalidad ejercicio financiero
 incluidas reducciones suspensiones
 Anticipos pagados miembro cargo ejercicio financiero
@@ -142,9 +141,7 @@ CIPAC
 apirimidinasulfonanilida
 mayo
 abril
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión metosulam particular apéndices II ultimaron Comité Permanente Cadena Alimentaria Sanidad Animal octubre
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 protección aguas subterráneas sustancia activa aplique regiones suelos vulnerables condiciones climáticas desfavorables
@@ -570,7 +567,6 @@ Nombre dirección establecimiento
 producido clasificado manipulado procesado envasado transportado conforme prácticas higiene
 remesa tomaron muestras conformidad Reglamento CE Comisión fecha sometieron análisis laboratorio fecha nombre laboratorio determinar nivel contaminación aflatoxina aflatoxina adjuntan detalles muestreo métodos análisis aplicados resultados obtenidos
 presente certificado válido
-
 Sello firma representante autorizado autoridad competente contemplada artículo apartado
 Producto país origen
 ANEXO II
@@ -722,7 +718,6 @@ verificará validez certificado sanitario
 certificado firmado enviarse autoridad competente punto designado importación
 control identidad efectuarse punto introducción
 Conforme dispuesto Decisión CE Comisión condiciones especiales sujetos determinados productos alimenticios importados determinados terceros países riesgos contaminación productos aflatoxinas
-
 Antwerpen Zeebrugge Brussel Bruxelles Aalst
 Reglamento Ejecución UE Comisión
 marzo
@@ -1816,7 +1811,6 @@ Eslovenia Italia Austria Hungría Rumanía
 Polonia Alemania
 Francia Alemania Bélgica Países Bajos Luxemburgo
 Alemania República Checa Eslovaquia
-
 proceda resulte necesario ampliará cooperación regional miembros vecinos reforzar cooperación países vecinos particular caso islas gasistas vistas reforzar interconexiones
 miembros formar distintos grupos cooperación
 interrupción importante suministro gas Unión afectar miembros Unión conjunto partes contratantes Tratado Comunidad Energía firmado Atenas octubre
@@ -2089,7 +2083,6 @@ Nombre apellidos razón social dirección completa
 suscribe reconoce correspondencia notificaciones general formalidades trámites relativos presente compromiso dirigidos evacuados escrito domicilios señalados aceptarán debidamente comunicados
 suscribe reconoce competencia órganos jurisdiccionales correspondientes lugares señalado domicilio
 suscribe compromete mantener domicilios señalados tuviera cambiar domicilios señalados comunicarlo previamente aduana garantía
-
 Firma
 Aceptación aduana garantía
 Aduana garantía Aceptado compromiso fiador cubrir operación tránsito comunitario común motivado declaración tránsito
@@ -3196,7 +3189,6 @@ Miembro Comisión
 ANEXO
 Organismo responsable gestión reservas seguridad húngaras contemplado artículo
 Hungría Tel
-
 Fax
 Sitio Internet wwwtighu
 DO Reglamento cuya modificación constituye Reglamento CE DO
@@ -3288,7 +3280,6 @@ Diario Oficial Unión Europea febrero
 página apartado IB
 lugar
 bienes incluidos secciones IA
-
 bienes incluidos IA
 Decisión Comisión
 noviembre
@@ -3383,7 +3374,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -4517,7 +4507,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4531,7 +4520,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4545,7 +4533,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri

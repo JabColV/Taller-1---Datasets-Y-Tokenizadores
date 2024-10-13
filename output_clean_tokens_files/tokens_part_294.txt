@@ -1246,7 +1246,6 @@ Visibilidad geométrica
 visibilidad superficie iluminante incluida visibilidad zonas parezcan iluminadas dirección observación considerada quedará garantizada espacio divergente delimitado generatrices apoyan perímetro superficie iluminante forman ángulo mínimo eje referencia faro
 origen ángulos visibilidad geométrica perímetro proyección zona luminosa plano transversal tangente lente faro
 Orientación
-
 luz carretera vehículo girar producir iluminación curva
 Conexiones eléctricas
 encendido luces carretera efectuarse simultáneamente pares
@@ -1278,13 +1277,8 @@ inclinación inicial descendente línea corte haz cruce vehículo vacío persona
 valor inclinación descendente indicada definirá conforme apartado
 Dependiendo altura metros esté montado borde inferior superficie aparente dirección eje referencia luz cruce medida vehículo vacío inclinación vertical línea corte haz cruce deberá situarse situaciones estáticas anexo siguientes límites teniendo regulación inicial valores siguientes
 límites
-
 regulación inicial
-
-
 determine fabricante
-
-
 solicitud homologación vehículo incluirá caso información alternativas deberá emplearse
 gráfico figura abajo resumen anteriores límites regulaciones iniciales
 categoría vehículos terreno altura faros superior mm límites inclinación vertical línea corte estarán
@@ -1327,7 +1321,6 @@ utilizarse faros cruce Reglamentos producir iluminación curva
 casos iluminación curva produzca movimiento horizontal haz codo línea corte activarse únicamente vehículo desplace aplicará iluminación curva produce caso giro derecha conducción derecha giro izquierda caso conducción izquierda
 LUZ ANTINIEBLA DELANTERA Reglamento
 Optativo vehículos motor
-
 anchura punto superficie aparente dirección eje referencia alejado plano longitudinal vehículo deberá hallarse mm extremo anchura máxima vehículo
 altura
 Mínimo
@@ -1343,19 +1336,14 @@ Definida ángulos especifica apartado
 abajo
 valores fotométricos exigidos luces antiniebla delanteras incluyen campo geométrico visión exigirá fines homologación valor mínimo cd espacio restante
 presencia divisiones artículos equipamiento cerca luz antiniebla delantera deberá lugar efectos secundarios causen molestias usuarios carretera
-
 Orientación vertical
 caso luces antiniebla delanteras clase inclinación vertical línea corte haz vehículo vacío persona asiento conductor inferior tipos vehículos cumplan disposición seguir recibiendo homologación meses vigor suplemento serie modificaciones
 caso luces antiniebla frontales clase
 inclinación inicial descendente línea corte haz cruce vehículo vacío persona asiento conductor especificada fabricante vehículo precisión indicará forma clara legible indeleble vehículo lugar cercano luces antiniebla delanteras placa fabricante vehículo combinación indicación mencionada apartado símbolo figura anexo presente Reglamento
 valor inclinación descendente indicada definirá conforme apartado
 Dependiendo altura esté montado borde inferior superficie aparente dirección eje referencia luz antiniebla delantera medida vehículo vacío inclinación vertical línea corte haz darse vehículo vacío persona asiento conductor valores siguientes
-
 límites
-
 regulación inicial
-
-
 Dispositivo nivelación luces antiniebla delanteras
 caso luz antiniebla delantera fuentes luminosas cuyo flujo luminoso objetivo superior lumen requisitos apartado cumplirán automáticamente condiciones carga establecidas anexo presente Reglamento
 caso instale dispositivo nivelación luz antiniebla frontal independiente agrupado funciones iluminación señalización frontales inclinación vertical dispositivo condiciones estáticas carga previstas anexo presente Reglamento excederá límites prescritos apartado
@@ -1391,7 +1379,6 @@ dispositivos instalados lateral vehículo encenderse efectuar maniobras lentas s
 dispositivos activarán desactivarán manualmente interruptor separado
 estén activados permanecer iluminados desembrague marcha atrás
 dispositivos apagarán automáticamente velocidad vehículo exceda kmh independientemente posición interruptor separado caso permanecerán apagados enciendan deliberadamente
-
 LUZ INDICADORA DIRECCIÓN Reglamento
 Presencia véase figura abajo
 Obligatoria
@@ -1555,7 +1542,6 @@ vehículos categorías alternativa apartado determine fabricante representante d
 Ángulo horizontal exterior interior
 Ángulo vertical horizontal
 considerarse visible luz deberá proporcionar visión despejada superficie aparente centímetros cuadrados
-
 testigo intermitente obligatorio iluminación cuadro mandos encenderse tiempo luces posición delanteras
 caso instale AFS proporcione iluminación curva luz posición delantera girar tiempo módulo iluminación esté recíprocamente incorporada
 LUZ POSICIÓN TRASERA Reglamento
@@ -1570,7 +1556,6 @@ atrás
 combinado luces posición delanteras
 LUZ ANTINIEBLA TRASERA Reglamento
 Dispositivos categorías Obligatoria
-
 anchura única luz antiniebla trasera situada plano longitudinal vehículo opuesto sentido circulación prescrito país matriculación centro referencia situado plano longitudinal vehículo
 altura mm mm suelo
 vehículos categoría terreno altura máxima aumentarse mm
@@ -1665,7 +1650,6 @@ longitud catadióptricos laterales deberá instalado tercio vehículo debiendo e
 distancia catadióptricos laterales adyacentes excederá aplica vehículos categorías
 estructura vehículo impida cumplir requisito aumentarse distancia distancia catadióptrico lateral trasero trasera vehículo superior vehículos motor cuya longitud supere suficiente tengan catadióptrico lateral instalado tercio tercio longitud vehículo
 Ángulo horizontal atrás
-
 superficie iluminante catadióptricos laterales partes común superficie aparente luz lateral
 LUCES POSICIÓN LATERALES Reglamento
 Obligatorias vehículos longitud superior cabinas bastidor longitud remolques calculará teniendo barra tracción
@@ -1719,7 +1703,6 @@ Obligatorio
 posterior
 marcado completo contorno vehículos mm anchura siguientes categorías
 masa máxima superior toneladas cabinas bastidor vehículos incompletos tractores semirremolques
-
 lateral
 marcado parcial contorno vehículos mm longitud incluida barra tracción remolques siguientes categorías
 forma estructura diseño requisitos funcionamiento hagan imposible instalar marcado obligatorio contorno instalarse marcado línea
@@ -1762,7 +1745,6 @@ instalen placas identificación traseras conformes serie modificaciones Reglamen
 emplazamientos vehículo reservados marcas visibilidad permitirán instalación marcas mm ancho
 SISTEMA ILUMINACIÓN FRONTAL ADAPTABLE Reglamento
 indique contrario requisitos relativos luces carretera apartado luces cruce apartado presente Reglamento aplicables partes correspondientes AFS
-
 requisito particular
 siguientes ensayos AFS pondrá neutro
 anchura altura
@@ -1774,17 +1756,11 @@ luz cruce
 borde exterior superficie aparente módulo iluminación vehículo hallará mm extremo anchura máxima vehículo figura
 bordes interiores superficies aparentes dirección eje referencia distarán mm mínimo
 Ejemplos módulos iluminación activados simultáneamente iluminación
-
 módulos iluminación colocados simétricamente
-
-
 módulos iluminación adicionales
 Ejemplos módulos iluminación activados iluminación
-
 módulo iluminación adicional
-
 Dimensiones horizontales mm
-
 anchura vehículo inferior mm cambio requisito vehículos categorías
 Dimensiones verticales mm
 módulos iluminación AFS instalarán delantera
@@ -1987,7 +1963,6 @@ Luces angulares
 Marcado visibilidad
 Marcado completo contorno
 trasera
-
 Lateral
 Marcado parcial contorno
 Marcado línea
@@ -2039,8 +2014,6 @@ EJE REFERENCIA
 Superficie lente dibujada plana razones prácticas
 PROYECCIÓN
 bordes
-
-
 ESQUEMA
 ANEXO
 Visibilidad luz roja visibilidad luz blanca atrás
@@ -2096,7 +2069,6 @@ definirse forma
 tangente ángulo expresada porcentaje inclinación ángulos pequeños ángulos pequeños equivale mrad
 inclinación exprese porcentaje inclinación calcularse fórmula
 ción calcularse fórmula
-
 altura suelo milímetros punto característico anteriormente mencionado medida pantalla vertical perpendicular plano longitudinal vehículo situada distancia horizontal
 altura suelo milímetros centro referencia origen nominal punto característico elegido
 distancia milímetros pantalla centro referencia
@@ -2257,8 +2229,6 @@ Luces agrupadas dispositivos superficies iluminantes caso dispositivos alumbrado
 cumplir requisitos colorimétricos presentar características fotométricas prácticamente idénticas aplica par luces simétricas antiniebla frontales clase
 caso instalen módulos iluminación adicionales lados vehículo colocarán distancia exceder mm dirección horizontal figura mm dirección vertical figura módulo iluminación cercano
 módulos iluminación adicionales descritos apartado colocará mm figura indica apartado presente Reglamento figura
-
-
 disposiciones apartados luces carretera luces cruce presente Reglamento aplicables partes correspondientes AFS
 Figura
 FIGURA
@@ -3175,7 +3145,6 @@ Presidente FEC Federación Empresas Congo territorio Aru
 Tramas financieras Comandante Jérôme FAPC contrabando frontera Uganda RDC posibilita Comandante Jérôme tropas dispongan suministros dinero efectivo
 Contravención armamento cosas prestación ayuda grupos milicias armados mencionados párrafo RCSNU
 Terminator
-
 Residente Bunagana Rutshuru
 nombramiento enero jefe militar CNDP recibió instrucciones integración FARDC cargo comandante operativo adjunto Kimia II FARDC nieguen oficialmente
 Comandante militar UPC ejerce influencia políticas manda controla actividades UPC grupos armados milicias mencionados punto Res implicado tráfico armas violación armas
@@ -3473,9 +3442,7 @@ código ZZ significa orígenes
 Corrección errores Información fecha entrada vigor colaboración sector pesquero Comunidad Europea República Kiribati
 Diario Oficial Unión Europea junio
 párrafo
-
 consiguiente entró vigor abril
-
 consiguiente entró vigor abril
 Decisión Ejecución Comisión
 diciembre
@@ -4392,7 +4359,6 @@ aplicable incluido filtro
 blanco
 contesta
 Tipo pensión
-
 Pensión vejez
 Régimen obligatorio
 Régimen profesional
@@ -4621,9 +4587,7 @@ Dirección
 Corrección errores Decisión Ejecución UE Consejo enero modifica Decisión Ejecución UE concesión Unión ayuda financiera Irlanda
 Diario Oficial Unión Europea enero
 página artículo punto letra
-
 amortización cesión activos básicos establecidos PLAR
-
 amortización cesión activos básicos PLAR
 página artículo punto letra
 amortización cesión activos básicos PLAR

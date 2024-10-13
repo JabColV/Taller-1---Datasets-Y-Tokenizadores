@@ -1165,7 +1165,6 @@ Reglamento CE Comisión diciembre establecen disposiciones aplicación relativas
 ANEXO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES PORCINO GRECIA
-
 normas previstas aplicables emplee aparato denominado OptiScan TP clasificación canales cerdo
 aparato Optiscan TP equipado procesador digital imágenes foto iluminada puntos medición canales
 imágenes base cálculo espesor tocino músculo método puntos ZweiPunkte Messverfahren ZP
@@ -1174,7 +1173,6 @@ fotos archivarán examinarse posteriormente
 interfaz Bluetooth integrada permitirá transferir fácilmente datos
 contenido carne magra canal calculará fórmula
 Fórmula clasificación canales porcino presentadas conforme dispuesto anexo sección III frase Reglamento CE
-
 porcentaje estimado carne magra canal
 espesor mínimo tocino incluida corteza milímetros medido gluteus medius
 espesor músculo lumbar milímetros medido siguiendo línea corta extremo delantero craneal gluteus medius borde superior dorsal canal raquídeo
@@ -2503,7 +2501,6 @@ cuadro presenta beneficio vinculado ayudas específicas consecutivas celebrado s
 Cuadro
 Resumen necesidades financiación compensación coste explotación neto servicio público normas contables
 Fuente Informe financiero informes servicio público
-
 Costes inversión
 Inyecciones capital
 Diferencia costes inversión compensación
@@ -4055,7 +4052,6 @@ DO
 ANEXO
 Lista géneros especies aplica presente Directiva
 ANEXO II
-
 Directiva derogada sucesivas modificaciones
 contemplados artículo
 Directiva CEE Consejo
@@ -4084,7 +4080,6 @@ Decisión CE Comisión
 DO
 Decisión CE Comisión
 DO
-
 Lista plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -4255,10 +4250,8 @@ DO
 Corrección errores Acción Común PESC Consejo noviembre modifica mandato Representante Especial Unión Europea Bosnia Herzegovina
 Diario Oficial Unión Europea noviembre
 página artículo punto modifica artículo apartado Acción Común PESC
-
 artículo apartado queda modificado
 importe referencia financiera EUR
-
 importe referencia financiera EUR
 Reglamento CE Comisión
 julio
@@ -4525,7 +4518,6 @@ CAS
 Estructura molecular PIPgMA insertado MPEG
 Características ésteres homopolímero metil butiadeno tratado maleico polietilenglicol monometiléter CAS
 Humedad
-
 Aluminio
 mg kg
 Litio
@@ -4534,13 +4526,11 @@ Níquel
 Anhídrido residual
 μmol
 Índice polidispersión
-
 Isopreno
 mg kg
 Óxido etileno
 mg kg
 Anhídrido maleico libre
-
 Oligómeros totales Dalton
 mg kg
 Etilenglicol
@@ -4742,7 +4732,6 @@ pólizas función volumen negocios categoría riesgo corresponder riesgo comprad
 Categoría riesgo
 Prima riesgo anual volumen asegurado
 Excelente
-
 Satisfactoria
 Débil
 respecta coaseguro porcentaje cuota cobertura complementaria precios consideran adecuados únicamente prima aplicada superior prima cobertura original facilitada asegurador crédito privado
@@ -4844,7 +4833,6 @@ Grupos
 Cantidad aproximada
 Años cosecha
 Tipos arroz
-
 Télex FEGA
 cantidad arroz cáscara almacenada actualmente organismo intervención español importante período almacenamiento resulta conveniente convocar licitación permanente reventa mercado interior cerca toneladas arroz cáscara posesión organismo
 Decisión Comité Mixto EEE

@@ -1019,7 +1019,6 @@ Fièvre charbonneuse anthrax carbunco bacteridiano
 SECCIÓN IX
 Administración medicamentos veterinarios
 Número permanente único
-
 Fecha lugar emisión presente sección
 Organismo emisor presente sección documento identificación
 II
@@ -1538,7 +1537,6 @@ Amenazas presiones
 código
 Contaminación facultativo
 Interior Exterior
-
 Impactos positivos
 Actividades gestión
 impactos importantes efectos medios bajos lugar
@@ -1553,7 +1551,6 @@ Propiedad pública general
 Copropiedad
 Privada
 Desconocida
-
 Documentación facultativo
 Enlaces
 FIGURA PROTECCIÓN LUGAR FACULTATIVO
@@ -1574,7 +1571,6 @@ Patrimonio Humanidad
 HELCOM
 OSPAR
 Espacio Marino Protegido
-
 Designación lugar
 GESTIÓN LUGAR
 Instituciónes responsables gestión lugar
@@ -1833,7 +1829,6 @@ actualidad conservación evalúa periodicidad marco informes presentarse años v
 evaluar lugares arreglo criterios anexo III Directiva hábitats determina grado conservación tipo hábitat especie espacio determinado
 evaluar lugares arreglo criterios anexo III Directiva hábitats determina grado conservación tipo hábitat especie espacio determinado Figura
 Cuevas
-
 Nombre
 Conservación
 Código nombre población
@@ -1932,7 +1927,6 @@ Especie anexo Directiva hábitats
 Lista Roja Nacional
 Especie endémica
 Convenios internacionales Berna Bonn Biodiversidad ejemplo
-
 indicarse categorías
 sección espacio libre describir calidad importancia lugar detallarse motivos registra especie incluidas categoría
 utilizarse códigos correspondientes nombres especies aves especies anexos IV véase Portal Referencia
@@ -2055,14 +2049,11 @@ caso casillas correspondientes tamaño población dejarse blanco utilizar lugar 
 carácter población presente lugar describirse campo texto Calidad importancia especificando características población ejemplo densa dispersa aislada
 utilizarse categorías abundancia tamaño población
 Nota deba indicarse especie candidata introducción lugar marque campo Tamaño
-
-
 único ejemplo correcto imagen
 correct
 lugar evaluarse relación costeeficacia punto vista conservación tenerse grado amenaza escasez tipo hábitat
 actualidad conservación evalúa periodicidad marco informes presentarse años virtud artículo Directiva hábitats
 Global
-
 Reglamento CE Comisión
 octubre
 prohíbe pesca lenguado común zona CIEM IIIa aguas CE zonas IIIb IIIc IIId buques enarbolan pabellón Suecia
@@ -2276,12 +2267,9 @@ DO
 DO
 DO
 fecha entrada vigor publicará Diario Oficial Unión Europea Secretaría General Consejo
-
 Unión Europea Ucrania modifica Comunidad Europea Ucrania facilitación expedición visados
 UNIÓN EUROPEA
-
 UCRANIA
-
 sucesivo denominadas Partes
 VISTO Comunidad Europea Ucrania facilitación expedición visados entró vigor enero
 DESEANDO facilitar contactos ciudadanos
@@ -2597,7 +2585,6 @@ obstante fecha certificador desee ampliar ámbito autorización incluir facultad
 perjuicio estipulado subapartado caso formación adicional tipos necesario cumplimiento puntos
 anexo III Reglamento CE sustituye texto
 ANEXO III
-
 ÍNDICE
 SUBPARTE LICENCIA MANTENIMIENTO AERONAVES
 Categorías licencia
@@ -4399,7 +4386,6 @@ incluir tareas relativamente simples deberán incorporarse llevarse cabo tareas 
 Glosario tabla LOC Localización FOT Ensayo funcionamiento operatividad Functional Operational Test SGH Mantenimiento manipulación tierra Service and Ground Handling Desinstalación Instalación Removal Installation MEL Lista equipamiento mínimo Minimum Equipment List TS Diagnóstico averías TroubleShooting
 THF
 SGH
-
 MEL
 Límites tiempo comprobaciones mantenimiento
 Dimensiones áreas MTOM etc
@@ -4507,7 +4493,6 @@ requisito experiencia reducirá solicitante completado curso aprobado correspond
 meses
 años
 año
-
 Apéndice
 Formulario solicitud Formulario EASA
 apéndice contiene ejemplo formulario utilizará solicitud licencia mantenimiento aeronave arreglo anexo III
@@ -4577,9 +4562,7 @@ limitaciones aplicables página LIMITACIONES indicará limitaciones
 utilice modelo preimpreso casilla categoría subcategoría habilitación tipo contenga anotación habilitación marcará oportunamente indicar extremo
 Ejemplo licencia mantenimiento aeronaves arreglo anexo III
 UNIÓN EUROPEA
-
 NOMBRE LOGOTIPO AUTORIDAD
-
 licencia CÓDIGO MIEMBROXXXX
 FORMULARIO EASA edición
 Nombre completo titular
@@ -4748,7 +4731,6 @@ presente certificado confirma persona mencionada superado teórica práctica cur
 CURSO FORMACIÓN TIPO AERONAVE
 FECHAS INICIO CONCLUSIÓN
 ESPECIFICAR TEÓRICA PRÁCTICA
-
 EXAMEN TIPO AERONAVE
 FECHA CONCLUSIÓN
 Formulario EASA edición

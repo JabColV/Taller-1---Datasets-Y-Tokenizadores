@@ -320,7 +320,6 @@ BÉLGICA
 BIOX Corporation
 Archer Daniels Midland Company
 BP Products North America Inc
-
 Unión Europea República Armenia readmisión residentes ilegales
 PARTES CONTRATANTES
 UNIÓN EUROPEA sucesivo denominada Unión
@@ -956,7 +955,6 @@ carne ovino caprino
 carne porcino
 CC carne caza cría especies sensibles fiebre aftosa
 CS carne caza silvestre especies sensibles fiebre aftosa
-
 Inglaterra
 Windsor Maidenhead
 Corrección errores Reglamento CE Comisión abril adapta Reglamento CEE establece disposiciones aplicación Reglamento CEE Consejo establecen normas comercialización aplicables aves corral motivo adhesión Unión Europea República Checa Estonia Chipre Letonia Lituania Hungría Malta Polonia Eslovenia Eslovaquia
@@ -1160,9 +1158,7 @@ CIPAC
 dihidrodioxonaftobditiínadicarbonitrilo
 junio
 mayo
-
 autorizarse usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión ditianona particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros deberán prestar especial atención
 protección organismos acuáticos caso condiciones deberán incluir medidas reducción riesgo
@@ -1399,7 +1395,6 @@ PRINCIPALES DATOS ECONÓMICOS GRUPO POSTE ITALIANE
 millones EUR
 ingresos
 Ingresos ventas prestaciones
-
 servicios postales
 servicios financieros
 servicios seguro
@@ -1929,7 +1924,6 @@ razonamiento posteriori negociación considerarse relevante efectos presente Dec
 Conclusión definición tipo ofrecido prestatario privado existencia ayuda estatal
 tipos previstos tipos análisis Comisión serían ofrecidos prestatario privado comparan cuadro
 Cuadro
-
 Prestatario privado
 Instrumento rendimiento
 Ponderación
@@ -2656,7 +2650,6 @@ luz deberá cumplir requisitos intensidad mínima caso fallo cualquiera fuentes 
 estén iluminadas fuentes luminosas intensidad máxima conjunto luces obtendrá multiplicando valor prescrito luz única puntos
 fuentes luminosas estén conectadas serie constituyen única fuente luminosa
 obstante dispuesto punto caso luces posición traseras recíprocamente incorporadas luces frenado permitirá intensidad luminosa máxima cd plano forme ángulo abajo plano horizontal
-
 superficie campos definidos anexo intensidad luz emitida deberá mínimo cd caso luces posición cd caso luces frenado luces indicadoras dirección
 luz posición agrupada recíprocamente incorporada luz frenado razón intensidades luminosas realmente medidas luces encendidas simultáneamente intensidad luz posición trasera encendida deberá puntos medición indicados anexo situados campo delimitado rectas verticales pasan rectas horizontales pasan cuadro distribución luz
 luz posición trasera luz frenado ambas contienen fuente luminosa consideran luz única punto valores considerarse obtenidos fuentes luminosas funcionamiento
@@ -2849,7 +2842,6 @@ distancia
 cm
 Publicación CIE punto
 Pasa centro referencia
-
 dirección corresponde eje referencia vehículo dirección horizontal paralela plano longitudinal mediano vehículo orientada sentido visibilidad exigido
 código identificación específico módulo marcado forma claramente legible indeleble código identificación específico formado letras iniciales MD módulo seguidas marcado homologación círculo prescrito punto caso utilicen módulos fuente luminosa idénticos seguidas símbolos caracteres adicionales código identificación específico indicará dibujos refiere punto
 mín cd
@@ -3162,7 +3154,6 @@ aminohidroxifenazina AHP máximo kg
 diaminofenazina DAP máximo kg
 junio
 noviembre
-
 autorizarán usos fungicida cultivos siguientes
 cereales
 semillas colza
@@ -3178,7 +3169,6 @@ aplicaciones mochila equipos mano independientemente usuario aficionado profesio
 jardinería doméstica
 miembros deberán asegurar aplicación medidas adecuadas reducción riesgo
 operarios indumentaria protectora adecuada particular guantes monos botas goma protección facial gafas seguridad mezcla carga aplicación limpieza equipo diseño construcción equipo montaje componentes específicos protección equipo eviten adecuadamente exposición sustancia
-
 aplicación principios uniformes anexo VI conclusiones informe revisión carbendazima apéndices II
 miembros afectados pedirán solicitante proporcione Comisión
 diciembre tardar información relevancia toxicológica ecotoxicológica impureza AEF
@@ -3442,7 +3432,6 @@ narró jefe ordenado muerte explicación reclutas muchacho intentado abandonarlo
 informe indica asimismo testigos declarado reclutas combatientes ejecutados forma sumaria intentaban huir
 maniatados tiroteados presencia reclutas ejemplo castigo podían recibir
 joven recluta contó HRW decían podía elegir seguir ejecutado intentaron escapar
-
 documento julio firmado jefe Sultani Makenga recogía nombramiento Runiga coordinador rama política
 documento nombramiento Runiga vio precipitado necesidad garantizar visibilidad causa
 Runiga recibe tratamiento Presidente distintas entradas página web grupo
@@ -4164,7 +4153,6 @@ DO
 DO
 ANEXO
 ANEXO VI
-
 Cuadro
 RUMA Modelo certificado veterinario animales especies enumeradas continuación procedentes organismo instituto centro oficialmente autorizado destinados
 Orden
@@ -4179,7 +4167,6 @@ Cuadro
 SUIA Modelo certificado veterinario animales especies enumeradas continuación procedentes organismo instituto centro oficialmente autorizado destinados
 Cuadro
 TREA Modelo certificado veterinario animales especies enumeradas continuación procedentes organismo instituto centro oficialmente autorizado destinados
-
 Datos partida expedida
 Modelo RUMA
 PAÍS
@@ -4207,7 +4194,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -4280,7 +4266,6 @@ cargados envío Unión ddmmaaaa transporte indicado casilla carga limpiado desin
 Notas
 certificado utilizarse animales vivos enumerados casilla procedentes organismo instituto centro oficialmente autorizado tercer país territorio tercer país territorio destinados organismo instituto centro oficialmente autorizado situado miembro
 Utilizar certificado especie
-
 Casilla indicar matrícula vagones contenedores ferrocarril camiones número vuelo avión nombre buque
 caso descarga recarga expedidor deberá informar PIF entrada UE
 Casilla indicar código SA correspondiente
@@ -4362,7 +4347,6 @@ certificado destinado animales vivos enumerados nota casilla procedentes organis
 presente certificado aplica rinoceróntidos
 presente certificado aplica Elephas ssp
 permitirán importaciones animales hayan cargado fecha autorización exportación Unión tercer país territorio tercer país territorio indicados casillas período Unión adoptado medidas restrictivas importaciones animales tercer país territorio
-
 Requisitos relativos organismos institutos centros terceros países
 organismo instituto centro tercer país deberá
 claramente delimitado separado entorno
@@ -4392,7 +4376,6 @@ vacunación animales susceptibles contraer enfermedades infecciosas zoonosis
 garantizar muerte sospechosa síntoma animales hayan contraído enfermedades enumeradas anexo Directiva CEE mencionadas certificados veterinarios pertinentes especie establecidos anexo VI presente Reglamento declaran inmediatamente autoridad competente casos dicha enfermedad concreta declaración obligatoria tercer país territorio tercer país territorio trate
 garantizar animales entren hayan permanecido cuarentena medida necesario arreglo instrucciones dadas autoridad competente
 garantizar cumplimiento requisitos zoosanitarios reunir animales introducción Unión
-
 Condiciones relativas autorización organismos institutos centros terceros países
 autorización concederá únicamente organismos institutos centros cumplan requisitos establecidos
 casos obligatoria protección frente vectores concederá autorización estructura protegida frente vectores cumple criterios enumerados letra
@@ -4553,12 +4536,9 @@ Reglamento cuya modificación constituye Reglamento CE Comisión DO
 DO
 Reglamento cuya modificación constituye Reglamento CE DO
 TRADUCCIÓN
-
 Unión Europea República Níger estatuto Misión PCSD Unión Europea Níger EUCAP Sahel Níger
 UNIÓN EUROPEA denominada sucesivo UE
-
 REPÚBLICA NÍGER
-
 conjuntamente denominadas sucesivo Partes
 TENIENDO
 carta invitación Ministro Brigi Rafini fecha junio

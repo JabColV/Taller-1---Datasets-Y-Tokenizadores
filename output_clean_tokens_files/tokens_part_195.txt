@@ -22,7 +22,6 @@ General Brigada Soe Win
 Antiguo Jefe Bahtoo Station Jefatura Rangoon
 GOBIERNO
 Información identificativa indicación Ministerio
-
 Thein Sein
 Tin Aung Myint Oo
 Esposa Tin Aung Myint Oo
@@ -40,7 +39,6 @@ Ministro Minas
 Antiguo Inspector General Ejército FN LN Yangon
 Ministro Asuntos Fronteras Desarrollo Industrial
 Esposa Thein Htay
-
 Soe Maung
 Gabinete Presidente
 Antiguo Juez Abogado General FN LN Yezagyo
@@ -54,11 +52,9 @@ Dc
 Thida Aye
 Dd
 Aye Chan
-
 Ministro Asuntos Exteriores
 Dr Pe Thet Khin
 Ministro Sanidad
-
 Aung Min
 Wai Wai Thar Wai Wai Tha
 Esposa Aung Min
@@ -68,7 +64,6 @@ Ministro Immigración Población
 Antiguo Director General Cuerpo Policía Myanmar FN LN Myaung Mya
 Esposa Khin Yi
 Ministro Agricultura Irrigación
-
 Thura Myint Maung
 Hijo Thura Myint Maung
 Esposa Aung Kyaw Soe
@@ -80,7 +75,6 @@ Esposa Tin Naing Thein
 Ministro Industria
 Antiguo Viceministro Industria
 Esposa Kyaw Swa Khaing
-
 Than Htay
 Ministro Energía
 Esposa Than Htay
@@ -92,7 +86,6 @@ Ministro Energía Eléctrica
 Ministro Finanzas Hacienda
 Antiguo Ministro Finanzas Hacienda FN LN Yangon
 Esposa Hla Tun
-
 Thein Nyunt
 Gabinete Presidente
 Ministro Comercio
@@ -536,7 +529,6 @@ Hermano Htay Myint FN Director Yuzana Co
 Hermano Htay Myint FN Director Yuzana Co
 Jf
 Zar Chi Htay
-
 Khin Htay Lin
 Shwe Thanlwin Trading Co Anexo III IV distribuidores exclusivos neumáticos Thaton Ministerio Industria
 Nan Mauk Loung Sai Nang Mauk Lao Hsai
@@ -817,7 +809,6 @@ puesto Ministro Bosques
 Theinbyu Road PO BoxYangon
 Antiguo Rector Comandante Academia Médica Servicios Defensa
 Jefatura SurorientalMawlamyine Mon Kayin
-
 Antiguo Comandante Instituto Defensa Nacional
 Director Artillería Blindados miembrodel Consejo UMEHL
 Esposa Gen Soe Win antiguo Ministro fallecido
@@ -829,7 +820,6 @@ Thamthumar Street Mile Mayangone Tsp Yangon
 Nombre posibles alias
 Información identificativa indicación Ministerio
 Presidente Jefe Ejecutivo República Unión Myanmar antiguo Ministro antiguo miembro SPDC antiguo Presidente Partido Unión Solidaridad Desarrollo USDP FN Pathein
-
 Khin Khin Win
 Esposa Thein Sein
 Teniente General Ko Ko
@@ -904,7 +894,6 @@ Comisión
 Presidente
 DO
 ANEXO
-
 Presentación solicitud
 solicitud referirse descriptor genérico miembros
 presentará autoridad nacional competente único miembro sucesivo miembro receptor
@@ -929,7 +918,6 @@ dictamen determinará descriptor genérico cumple condiciones beneficiarse excep
 dictámenes presentarán escrito
 miembros enviar Comisión dictámenes solicitud plazo condiciones
 recibida solicitud válida procedente miembro dictamen dictámenes contemplados punto anexo Comisión plazo razonable iniciar procedimiento autorización descriptor genérico arreglo artículo apartado Reglamento CE
-
 Contenido solicitud
 Información obligatoria
 solicitud constará
@@ -2285,13 +2273,10 @@ disposiciones Reglamentos CE CE Reglamento CE Comisión aplicables reserva dispu
 Corrección errores Reglamento CE Consejo abril modifica Reglamento CE determinadas medidas conservación relativas aguas Malta
 Diario Oficial Unión Europea mayo
 página
-
-
 ANEXO
 ANEXO
 Zona gestión millas islas maltesas
 Zonas proximidades islas maltesas autoriza arrastre coordenadas geográficas
-
 Zona gestión millas islas maltesas
 Zona
 Zona
@@ -2803,7 +2788,6 @@ Artículo
 presente Decisión entrará vigor hayan transmitido Comité Mixto EEE notificaciones previstas artículo apartado
 Artículo
 presente Decisión publicará sección EEE Suplemento EEE Diario Oficial Unión Europea
-
 DO
 indicado preceptos constitucionales indicado preceptos constitucionales
 Reglamento UE Comisión
@@ -3201,7 +3185,6 @@ cooperación incluirá capacidad notificar documentación necesaria aplicación 
 autoridades supervisoras dispondrán poderes necesarios ejercicio funciones deber velar partes oferta cumplan normas establecidas aplicación presente Directiva
 respeten principios generales contemplados apartado artículo miembros normas establezcan introduzcan aplicación presente Directiva establecer excepciones dichas normas
 inclusión dichas excepciones normativas nacionales circunstancias determinadas nivel nacional
-
 concesión autoridades supervisoras competentes facultad inhibirse aplicación dichas normativas nacionales circunstancias contempladas inciso circunstancias específicas necesaria caso decisión motivada
 presente Directiva afectará facultad miembros designar autoridades judiciales encargadas litigios decidir incumplimientos cometidos procedimiento oferta facultad miembros establecer disposiciones determinen partes oferta derecho emprender acciones judiciales interponer recursos administrativos circunstancias
 particular presente Directiva afectará facultad puedan disfrutar tribunales miembro renunciar entender litigio determinar influye resultado oferta

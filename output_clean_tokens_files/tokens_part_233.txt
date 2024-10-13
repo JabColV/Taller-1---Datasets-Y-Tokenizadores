@@ -324,15 +324,6 @@ RESTRICCIONES APLICABLES DETERMINADAS ZONAS TIPOS PESCA ORGANISMOS ACUÁTICOS
 Artículo
 Zonas prohibidas
 prohibido año pescar tipo arte activo zona geográfica delimitada unir secuencialmente líneas rumbo siguientes posiciones medirán sistema coordenadas WGS
-
-
-
-
-
-
-
-
-
 Artículo
 Restricciones aplicables pesca salmón trucha mar
 prohibido conservar bordo salmón Salmo salar trucha mar Salmo trutta
@@ -468,10 +459,6 @@ aguas limitadas línea comienza punto costa sur Finlandia situado longitud dirig
 ANEXO II
 Redes arrastre redes tiro danesas artes similares intervalos dimensión malla especies objetivo porcentajes captura aplicables
 Intervalo dimensión malla mm
-
-
-
-
 Grupos subdivisiones
 Porcentaje mínimo especies objetivo
 Lanzones Ammodytidae
@@ -493,10 +480,6 @@ capturas conservadas bordo incluir porcentaje máximo merlán peso vivo
 capturas conservadas bordo incluir porcentaje máximo arenque peso vivo
 ANEXO III
 Redes enmalle redes enredo trasmallos intervalos dimensión malla especies objetivo
-
-
-
-
 Salmón Salmo salar
 capturas conservadas bordo incluirán porcentaje máximo bacalao peso vivo
 gama tamaños malla admisible junio
@@ -1199,8 +1182,6 @@ DO
 DO
 DO
 ANEXO
-
-
 Norma comercialización lechugas escarolas hoja rizada escarolas hoja lisa
 DEFINICIÓN PRODUCTO
 presente norma aplicará
@@ -1318,8 +1299,6 @@ Marca oficial control facultativa
 necesario indicaciones previstas párrafo figuren bultos contengan envases venta visibles exterior figuren indicaciones
 Dichos bultos deberán exentos marcado inducir error
 bultos apilen palés indicaciones figurarán ficha visible colocada lados palé
-
-
 Norma comercialización peras
 presente norma aplicará peras variedades cultivares obtenidas Pyrus communis entreguen fresco consumidor destinen transformación industrial
 norma objeto establecer requisitos calidad deberán cumplir peras acondicionamiento envasado
@@ -1410,8 +1389,6 @@ Sinónimos
 Marcas comerciales
 Calibre
 Aka
-
-
 Norma comercialización tomates
 presente norma aplicará tomates variedades cultivares obtenidas Lycopersicum esculentum Mill destinen entrega fresco consumidor transformación industrial
 tomates clasificarse tipos comerciales
@@ -3062,7 +3039,6 @@ Dirección silo
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO III
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -3560,7 +3536,6 @@ ANEXO II
 ANEXO II
 Cuestionario relativo toma vinificación muestras uva analizadas métodos isotópicos
 métodos analíticos expresión resultados unidades utilizarse descritos anexo Reglamento CEE considerados equivalentes laboratorios participantes análisis
-
 Información general
 Número muestra
 Nombre función agente persona autorizada tomado muestra
@@ -3648,7 +3623,6 @@ Resultado relaciones isotópicas deuterio etanol efectuadas RMN
 Parámetros RMN
 Frecuencia observada
 Resultado relación isotópica OO vino
-
 Resultado relación isotópica OO mosto procede
 Resultado relación isotópica CC vino etanol
 VPDB
@@ -3732,9 +3706,7 @@ Reglamento Ejecución UE Comisión mayo establecen disposiciones aplicación Reg
 Disponible línea wwwefsaeuropaeuefsajournalhtm
 ANEXO
 columna Disposiciones específicas fila correspondiente metiocarb anexo Reglamento Ejecución UE sustituye texto
-
 autorizar usos repelente tratamiento semillas insecticida
-
 evaluación solicitudes autorización productos fitosanitarios contengan metiocarb usos correspondientes tratamiento semillas maíz miembros prestarán especial atención criterios mencionados artículo apartado Reglamento CE velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión metiocarb particular apéndices II ultimó Comité Permanente Cadena Alimentaria Sanidad Animal septiembre
 evaluación general miembros prestarán atención particular

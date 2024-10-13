@@ -2156,13 +2156,11 @@ Bruselas septiembre
 DO
 PROYECTO
 DECISIÓN COMITÉ MIXTO UEOACI
-
 relación adopción anexo seguridad física aviación Memorando Cooperación Unión Europea Organización Aviación Civil Internacional marco mejoramiento cooperación
 COMITÉ MIXTO UEOACI
 Visto Memorando Cooperación Unión Europea Organización Aviación Civil Internacional marco mejoramiento cooperación MdC OACI particular artículo apartado letra
 Procede incluir MdC OACI anexo seguridad física aviación
 adopta anexo presente Decisión formará integrante MdC OACI
-
 Corrección errores Reglamento CE Comisión mayo modifica Reglamento CE Consejo aplica sistema certificación proceso Kimberley comercio internacional diamantes bruto
 texto anula sustituye publicado Diario Oficial Unión Europea mayo página
 Reglamento CE Comisión
@@ -3917,13 +3915,11 @@ anexo presente Reglamento figura ejemplo disposición marca homologación
 REQUISITOS
 Anchura sección neumático
 dispuesto punto anchura sección calculará fórmula
-
 anchura sección expresada mm medida llanta medición
 anchura nominal sección mm indica flanco neumático designación tamaño neumático exigida
 anchura expresada mm llanta medición indique fabricante nota descriptiva
 anchura expresada mm factor conversión código mm
 llanta teórica multiplicada factor especificado fabricante neumático
-
 obstante caso tipos neumático cuya designación tamaño ofrece columna cuadros anexo cuadros frente designación tamaño ofrece anchura llanta teórica anchura nominal sección
 Diámetro exterior neumático
 dispuesto punto diámetro exterior neumático calculará fórmula
@@ -4045,8 +4041,6 @@ Ejemplos marcado deberá figurar tipos neumáticos cumplan dispuesto presente Re
 Altura mínima marcado mm
 Neumáticos anchura nominal sección
 NEUMÁTICOS CÓDIGO DIÁMETRO LLANTA
-
-
 inscripciones definen neumático rueda motriz
 anchura nominal sección
 relación nominal aspecto
@@ -4222,7 +4216,6 @@ Tramo ensayo
 Porcentaje carga ensayo
 Duración horas
 caso diámetro volante liso ensayo superior mm porcentaje carga ensayo aumentará
-
 diámetro volante liso ensayo milímetros
 diámetro volante liso ensayo referencia mm
 diámetro exterior neumático véase punto presente Reglamento milímetros
@@ -4287,13 +4280,10 @@ dibujo banda rodadura neumático suele formado tacos
 anexo figura lista tales índices masas correspondientes
 Banda rodadura especial neumático cuyo dibujo banda rodadura cuya estructura estén diseñados principalmente garantizar zonas pantanosas adherencia ofrece neumático banda rodadura normal
 dibujo banda rodadura neumático suele formado tacos profundos neumático normal
-
 titular homologación cesa definitivamente fabricar tipo neumático homologado arreglo presente Reglamento informará organismo concedió homologación
 IF VF
 descripción servicio índice capacidad carga símbolo categoría velocidad tipo pertinente símbolo aplicación colocan cerca designación tamaño
 optarse colocarlos
-
-
 inscripción bar MAX
 kPa MAX pictograma figura anexo indicar presión inflado frío deberá superarse asiento talones montar neumático
 Ra

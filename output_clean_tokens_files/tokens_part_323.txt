@@ -1,6 +1,5 @@
 Sucedáneos miel mezclados miel natural
 sorbosa
-
 isoglucosa
 Vino
 Jugos frutas incluido mosto uva hortalizas silvestres fermentar adición alcohol adición azúcar edulcorante
@@ -1933,7 +1932,6 @@ CICAP
 Ndiclorofenildimetilciclopropanodicarboximida
 enero
 junio
-
 autorizarán usos fungicida cultivos siguientes
 pepinos invernaderos sistemas hidropónicos cerrados
 ciruelas transformación
@@ -1955,7 +1953,6 @@ aguas subterráneas sustancia activa aplique regiones suelos condiciones climát
 condiciones autorización deberán incluir medidas reducción riesgo
 operarios indumentaria protectora adecuada particular guantes monos botas goma protecciones faciales gafas seguridad mezcla carga aplicación limpieza equipo caso evite adecuadamente exposición sustancia diseño construcción equipo montaje componentes específicos protección equipo
 trabajadores indumentaria protectora adecuada particular guantes entrar zona tratada expirado período específico volver entrar zona
-
 aplicación principios uniformes anexo VI conclusiones informe revisión procimidona apéndices II
 miembros deberán asegurar titulares autorización informen tardar diciembre año incidencia problemas salud operarios
 miembros exigir comunique información ejemplo datos ventas encuesta pautas utilización obtenerse imagen realista condiciones impacto toxicológico procimidona
@@ -2113,20 +2110,13 @@ Volumen contingentario
 toneladas peso neto
 Derechos contingentarios
 Miel natural
-
 Exención
-
 período posterior
 Flores capullos cortados adornos frescos
 Hongos orejas Judas Auricularia spp hongos gelatinosos Tremella spp trufas secos
-
 Uvas mesa frescas
-
-
 período posterior
 Fresas frescas
-
-
 período posterior
 Aceite oliva virgen
 Cantidades referencia
@@ -2135,21 +2125,16 @@ Período cantidad referencia
 Volumen cantidad referencia
 Derecho cantidad referencia
 Tomates frescos refrigerados
-
 Exención
 período posterior
 Berenjenas frescas refrigeradas
-
 Frutos géneros Capsicum Pimenta frescos refrigerados
 Pimientos dulces
-
 Calabacines frescos refrigerados
-
 Naranjas frescas
 Mandarinas incluidas tangerinas satsumas clementinas wilkings híbridos similares agrios frescos
 Limones Citrus limon Citrus limonum frescos
 Melones sandías frescos
-
 Exención
 exención aplica únicamente derecho ad valorem
 Reglamento CE Comisión
@@ -2619,7 +2604,6 @@ condiciones siguientes
 prohibido producto químico componente antidetonante gasolina plomo vehículos prohibida comercialización gasolina plomo vehículos
 obstante miembros contemplar excepciones pequeñas cantidades gasolina plomo contengan máximo gramos plomo litro máximo ventas totales coches antiguos colección
 condiciones importación producto químico fuentes importación
-
 condiciones producción nacional producto químico destinado interno importaciones
 Medida legislativa administrativa nacional basa decisión definitiva
 Descripción medida legislativa administrativa nacional
@@ -3394,7 +3378,6 @@ Componentes sistemas detección humos extracción muestras Trasladado
 Reg
 OMI MSCCódigo SSCI Res
 OMI MSCCódigo SSCI
-
 Detectores aspiración humos
 incl AC
 proceda atmósferas explosivas
@@ -3434,16 +3417,6 @@ Emisores múltiples receptores múltiples Interconexión sistemas embarcaciones 
 IEC ed
 Emisores múltiples receptores múltiples Interconexión Ethernet
 serie refiere siguientes normas referencia Materiales sistemas navegación radiocomunicación marítimos Interfaces digitales
-
-
-
-
-
-
-
-
-
-
 Compás magnético
 Clase buques
 Clase botes salvavidas botes rescate
@@ -4275,8 +4248,6 @@ Artículo
 miembros aplicar excepciones mencionadas artículo vegetales importados Comunidad siguientes períodos
 Vegetales
 Período
-
-
 frase punto anexo sustituye año
 Artículo
 destinatarios presente Decisión miembros

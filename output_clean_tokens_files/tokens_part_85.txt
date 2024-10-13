@@ -400,8 +400,6 @@ recomienda medida utilización tipos suelos estudios laboratorio
 suelos utilizados estudios degradación movilidad deberán seleccionarse constituyan muestra representativa gama suelos típica distintas regiones UE utilizan piensan utilizarse productos
 abarquen gama contenidos carbono orgánico distribución granulométrica valores pH
 datos espere degradación movilidad dependan pH ejemplo índices solubilidad hidrólisis véanse apartados abarquen siguientes índices pH
-
-
 deberán utilizarse muestras suelo recién extraídas
 inevitable utilizar suelos hayan almacenados almacenamiento deberá cabo tiempo limitado condiciones definidas conocidas
 suelos hayan permanecido almacenados períodos largos utilizarse estudios adsorción desorción
@@ -687,7 +685,6 @@ Palabras advertencia
 Indicaciones peligro
 Consejos prudencia
 Expediente producto sanitario representativo referencia anexo Reglamento UE
-
 MICROORGANISMOS INCLUIDOS VIRUS
 sustancias activas definen artículo apartado Reglamento CE comprenden sustancias químicas microorganismos virus incluidos
 presente contempla requisitos datos aplicables sustancias activas consistentes microorganismos virus incluidos
@@ -1569,7 +1566,6 @@ DO
 DO
 DO
 ANEXO
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -1590,7 +1586,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -2339,7 +2334,6 @@ ANEXO
 anexo Reglamento CE queda modificado
 capítulo añade entrada notas pie página correspondientes
 Carne fresca aves corral
-
 ISO detección esquema WhiteKaufmanLe Minor serotipado
 Productos comercializados período conservación
 capítulo entrada sustituye texto añade correspondiente nota pie página
@@ -3300,7 +3294,6 @@ ANEXO
 Informe financiero solicitudes pago referencia artículo apartado letra
 cumplimentará cuadro estudio aves corral aves silvestres
 miembro Fecha Período abarcado
-
 Medidas cofinanciadas
 Métodos análisis laboratorio
 Número pruebas realizadas método
@@ -3312,7 +3305,6 @@ Prueba PCR
 medidas
 Especifíquense acciones realizadas
 Muestreo
-
 abajo firmante certifica datos indicados correctos solicitado Comunidad participación relación medidas
 Lugar fecha
 Firma
@@ -4031,7 +4023,6 @@ País Islandia
 Aeropuerto Keflavík
 País Noruega
 HC NHC
-
 Decisión Comisión
 enero
 equivalencia sistemas supervisión pública control calidad investigación sanciones aplican terceros países auditores sociedades auditoría período transitorio autorizado actividades auditoría Unión Europea auditores sociedades auditoría terceros países
@@ -4307,14 +4298,12 @@ Fecha expiración
 Fecha expedición
 Firma sello autoridad organismo reconocido expide certificado
 ANEXO II
-
 Directiva derogada modificación
 contemplados artículo
 Directiva CEE Consejo
 DO
 Directiva CEE Consejo
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -4903,7 +4892,6 @@ Pérdida desecación
 Índice álcalis
 mg KOH sustancia seca
 Cenizas sulfatadas
-
 Monómeros residuales
 Metacrilato butilo mg kg
 Metacrilato metilo mg kg

@@ -273,7 +273,6 @@ utilizar código apropiado sistema armonizado SA siguientes partidas
 modelo MilkHTC sustituye texto
 Modelo MilkHTC
 Certificado sanitario productos lácteos aptos consumo humano procedentes terceros países zonas terceros países autorizados columna anexo Reglamento UE destinados importados Unión Europea
-
 Datos partida expedida
 PAÍS
 Certificado veterinario UE
@@ -299,7 +298,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -1801,7 +1799,6 @@ Fenileno bifenileno naftaleno sustituido metilo butilo terciario fenilo
 Ácido tereftálico
 Ácido hidroxi naftóico
 Ácido hidroxibenzoico
-
 Cetonas poliarileno
 Sulfuros poliarileno grupo arileno constituido bifenileno trifenileno combinaciones
 Polibifenilenetersulfona temperatura transición vítrea Tg superior °C
@@ -2670,7 +2667,6 @@ Nota subartículo Bf somete control trajes diseñados usarse aparato respiració
 Cámaras aisladores seguridad biológica Clase III proporcionen niveles protección equivalente
 Nota subartículo Bf aisladores incluyen aisladores flexibles cajas secas cámaras anaeróbicas cajas guante campanas flujo laminar cerradas flujo vertical
 Cámaras diseñadas ensayos ataque aerosoles microorganismos virus toxinas tengan capacidad
-
 Equipo lógico especificado diseñado especialmente modificado desarrollo producción utilización equipos incluidos artículos
 Equipo lógico destinado dispositivos electrónicos incluido contenido dispositivo sistema electrónico permita dispositivos sistemas funcionar unidad control numérico capaz coordinar simultáneamente ejes control contorneado
 Nota artículo somete control equipo lógico diseñado especialmente modificado funcionamiento máquinas herramienta especificadas Categoría
@@ -3369,7 +3365,6 @@ combinaciones múltiples memoria procesador funcionamiento simultáneo utilicen 
 Nota entiende procesador vectorial procesador instrucciones incorporadas realice simultáneamente cálculos múltiples vectores coma flotante órdenes unidimensionales bits disponga unidades funcionales vectoriales registros vectoriales elementos
 CATEGORÍA
 TELECOMUNICACIONES SEGURIDAD INFORMACIÓN
-
 TELECOMUNICACIONES
 Nota Categoría define régimen control componentes láseres equipos producción prueba equipo lógico diseñados especialmente equipos sistemas telecomunicaciones
 Nota ordenadores digitales equipo conexo equipo lógico esenciales funcionamiento soporte equipos telecomunicaciones descritos categoría considerarán componentes diseñados especialmente modelos standard suministrados normalmente fabricante
@@ -3453,7 +3448,6 @@ Nota subartículo Bbd somete control equipos diseñados especialmente desarrollo
 Equipos utilicen conmutación óptica
 Equipos radio utilicen técnicas modulación amplitud cuadratura nivel
 Equipos utilicen señalización canal común funcionen explotación asociado
-
 Equipo lógico diseñado especialmente modificado desarrollo producción utilización equipos funciones elementos incluidos artículo
 Equipo lógico diseñado especialmente modificado soporte tecnología incluida artículo
 Equipo lógico diseñado especialmente modificado proporcionar características funciones elementos equipos incluidos artículos
@@ -3493,7 +3487,6 @@ Tasados operar frecuencias superiores GHz inferiores iguales GHz potencia salida
 Tecnología Nota General Tecnología desarrollo producción dispositivos circuitos electrónicos diseñados especialmente telecomunicaciones contengan componentes fabricados materiales superconductores diseñados especialmente funcionar temperaturas inferiores temperatura crítica constituyentes superconductores tengan cualquiera características siguientes
 Selección frecuencia frecuencias utilizando circuitos resonantes valores superiores
 Tecnología Nota General Tecnología desarrollo producción utilización equipos incluidos artículo
-
 SEGURIDAD INFORMACIÓN
 Nota régimen control equipos equipo lógico sistemas conjuntos electrónicos específicos aplicaciones determinadas módulos circuitos integrados componentes funciones destinados seguridad información determina Categoría trate componentes conjuntos electrónicos equipos
 Nota Categoría somete control productos acompañen usuario personal
@@ -3743,7 +3736,6 @@ Sistemas refrigeración criogénicos calificados espacial temperatura fuente ref
 ciclo cerrado tiempo fallo tiempo fallos superior horas
 Minirrefrigeradores autorregulables Joule Thomson tengan diámetros interiores exterior inferiores mm
 Fibras ópticas sensoras fabricadas especialmente composición estructura modificadas revestimiento forma sensibles efectos acústicos térmicos inerciales electromagnéticos radiaciones nucleares
-
 Cámaras sistemas equipos componentes indica
 NOTA VÉASE ARTÍCULO
 Nota cámaras diseñadas especialmente modificadas utilización subacuática véanse subartículos Ad Ae
@@ -4845,7 +4837,6 @@ Patógenos vegetales
 Tecnología integración datos control vuelo guiado propulsión sistema gestión vuelo optimización trayectoria sistema cohetes
 Sistemas propulsión cohetes híbridos capacidad impulsión superior MNs
 Mecanismos etapas mecanismos separación interetapas puedan utilizarse misiles
-
 presente autorización exportación válida territorio comunitario exportaciones siguientes destinos
 Canadá
 Japón
@@ -4889,7 +4880,6 @@ Código sistema armonizado nomenclatura combinada caso dígitos disponible núme
 Lista control artículos figuran lista
 Divisa valor
 Cantidad artículos
-
 Fecha contrato caso
 Régimen exportación aduanera
 informaciones requiera legislación nacional especifíquese formulario
@@ -4945,7 +4935,6 @@ Lista mencionada apartado artículo presente Reglamento
 artículos recogen descripción completa producto notas conexas anexo
 anexo figura descripción completa productos
 mención artículo anexo afecta aplicación disposiciones refieran productos consumo anexo
-
 posibilidad Autorización Nacional General comercio intracomunitario
 Productos tecnología sigilo
 Materiales diseñados especialmente absorber ondas electromagnéticas polímeros intrínsecamente conductores

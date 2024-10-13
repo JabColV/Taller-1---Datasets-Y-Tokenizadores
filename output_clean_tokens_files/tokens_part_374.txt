@@ -383,7 +383,6 @@ Combustible insumo proceso
 combustibles líquidos gaseosos
 Óxido alcalinotérreo
 Carbonato
-
 Combustible insumo proceso
 Producción clinker
 IX Vidrio lana mineral
@@ -548,7 +547,6 @@ planteamiento balance masas considerará carbono materiales entrada insumos exis
 emite cantidad CO utilizada producción bicarbonato sódico carbonato sódico
 utilizará ecuación
 Emisiones CO CO insumos productos exportación cambios existencias factor conversión CO
-
 insumos carbono entra límites instalación
 productos carbono productos materiales incluidos subproductos salen límites instalación
 cambios existencias aumentos existencias carbono límites balance masas
@@ -610,7 +608,6 @@ produzcan hidrógeno gas síntesis instalación titular optar calcular emisiones
 PRODUCCIÓN HIDRÓGENO
 emisiones procedentes combustibles utilizados insumo proceso calcularán fórmula
 Emisiones CO datos actividad factor emisión
-
 datos actividad expresan contenido energía neto combustible utilizado insumo proceso TJ caso utilice factor emisión relacionado masa volumen cantidad combustible utilizado insumo proceso Nm
 factor emisión expresa toneladas CO TJ toneladas CO toneladas CO Nm combustible utilizado insumo proceso
 aplicarán siguientes requisitos niveles
@@ -680,33 +677,19 @@ Factores emisión referencia
 Sustancia
 Contenido carbono materia prima producto
 Acetonitrilo
-
 Acrilonitrilo
-
 Butadieno
-
 Negro carbón
-
 Etileno
-
 Dicloruro etileno
-
 Etilenglicol
-
 Óxido etileno
-
 Cianuro hidrógeno
-
 Metanol
-
 Metano
-
 Propano
-
 Propileno
-
 Cloruro vinilo monómero
-
 Véanse Directrices IPCC inventarios nacionales gases efecto invernadero
 ANEXO XVIII
 añade anexo XXIII
@@ -810,7 +793,6 @@ Método cálculo Método sobretensión
 mida sobretensión efecto ánodo aplicarán ecuaciones siguientes determinar emisiones PFC
 Emisiones CF COe OVC AEO CE PrAl PCGCF
 Emisiones CF COe emisiones CF FCF PCGCF
-
 OVC coeficiente sobretensión factor emisión expresado kg CF tonelada aluminio producido mV sobretensión
 AEO sobretensión efecto ánodo celda mV integral tiempo tensión tensión objetivo dividida tiempo duración recogida datos
 CE rendimiento corriente producción aluminio
@@ -1130,9 +1112,7 @@ tertbutiltertbutilbenziltiocloropirididazinHona
 kg
 mayo
 abril
-
 autorizar usos insecticida acaricida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión piridabeno particular apéndices II ultimó Comité Permanente Cadena Alimentaria Sanidad Animal octubre
 evaluación general miembros deberán prestar especial atención siguientes aspectos
 seguridad usuarios cuyo efecto estipularse condiciones utilización equipos protección individual adecuados conveniente
@@ -1518,7 +1498,6 @@ carne ovino caprino
 carne porcino
 CC carne caza cría especies sensibles fiebre aftosa
 CS carne caza silvestre especies sensibles fiebre aftosa
-
 Islas Escocesas
 Escocia
 Inglaterra
@@ -2597,7 +2576,6 @@ actividades cubrirán ciclo completo investigación básica mercado énfasis act
 IV
 OBJETIVO ESPECÍFICO DIFUNDIR EXCELENCIA AMPLIAR PARTICIPACIÓN
 objetivo específico Difundir excelencia ampliar participación explotar plenamente potencial talento Europa garantizar beneficios economía centrada innovación maximicen distribuyan equitativamente Unión conformidad principio excelencia
-
 OBJETIVO ESPECÍFICO CIENCIA SOCIEDAD
 objetivo específico Ciencia sociedad consisten impulsar cooperación efectiva ciencia sociedad captar talentos ciencia alcanzar excelencia científica responsabilidad conciencia social
 VI
@@ -2609,7 +2587,6 @@ INSTITUTO EUROPEO INNOVACIÓN TECNOLOGÍA EIT
 EIT desempeñará importante papel agrupar excelencia investigación innovación educación superior integrando triángulo conocimiento
 conseguirá principalmente CCI
 garantizará compartan experiencias allá CCI medidas selectivas difusión puesta común conocimientos promoviendo asimilación rápida modelos innovación Unión
-
 CIENCIA EXCELENTE
 Consejo Europeo Investigación
 Objetivo específico
@@ -3605,7 +3582,6 @@ Deberían explorarse posibles sinergias actividades Consejo Europeo Investigaci�
 Creación mecanismo apoyo políticas mejorar concepción ejecución evaluación políticas nacionales regionales investigación innovación
 Apoyo acceso redes internacionales investigadores innovadores excelentes participen suficientemente redes europeas internacionales inclusive COST
 Mejora capacidad administrativa operativa redes transnacionales puntos contacto nacionales ejemplo formación puedan proporcionar apoyo potenciales participantes
-
 CIENCIA SOCIEDAD
 objetivo específico impulsar cooperación efectiva ciencia sociedad captar talentos ciencia conciliar excelencia científica responsabilidad conciencia social
 fortaleza sistema científico tecnológico europeo depende capacidad aprovechar talento ideas
@@ -4136,7 +4112,6 @@ Comité Comercio adoptar reglamento interno supervisará trabajo comités especi
 Comité Comercio facultad exclusiva adoptar decisiones ámbitos cubiertos comités especializados grupos trabajo disponga contrario
 establece reglamento interno Comité Comercio figura anexo
 presente Decisión entrará vigor
-
 relativa establecimiento lista árbitros mencionada artículo Libre Comercio Unión Europea miembros República Corea
 Visto Libre Comercio Unión Europea miembros República Corea firmado Bruselas octubre sucesivo Partes particular artículo
 establece mecanismo solución diferencias permite resolverlas panel arbitral
@@ -4959,7 +4934,6 @@ Modificaciones Reglamento CE
 Reglamento CE modifica
 artículo apartado letra sustituye texto
 Zona restringida pesca aguas profundas arrecifes Lophelia frente Capo Santa Maria di Leuca
-
 continuación artículo añaden siguientes artículos
 Artículo bis
 Número máximo buques pesca atún rojo Atlántico Oriental

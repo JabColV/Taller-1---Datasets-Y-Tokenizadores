@@ -850,7 +850,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -864,7 +863,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -878,7 +876,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -2156,7 +2153,6 @@ DO
 DO
 ANEXO
 ANEXO II
-
 OBLIGACIÓN MATERIA CERTIFICADOS IMPORTACIONES
 Lista productos mencionados artículo apartado letra inciso límites máximos aplicables conformidad artículo apartado letra
 enumerados orden anexos II Reglamento CE
@@ -2756,7 +2752,6 @@ embalados identificados almacenados transportados conformidad capítulos VI VII 
 proceden especies tóxicas contengan biotoxinas
 superado satisfactoriamente pruebas organolépticas parasitológicas químicas microbiológicas establecidas categorías productos pesqueros Directiva CEE Decisiones aplicación
 inspector oficial abajo firmante declara conocimiento disposiciones contenidas Directivas CEE CEE Decisión CE
-
 Lugar Fecha
 Sello oficial
 Firma inspector oficial
@@ -3152,7 +3147,6 @@ DO
 DO
 ANEXO
 DISOLVENTES EXTRACCIÓN CUYA UTILIZACIÓN AUTORIZADA TRATAMIENTO MATERIAS PRIMAS PRODUCTOS ALIMENTICIOS COMPONENTES PRODUCTOS ALIMENTICIOS INGREDIENTES
-
 Disolventes extracción deberán utilizarse respetando prácticas fabricación usos
 Nombre
 Propano
@@ -3205,7 +3199,6 @@ Hexano producto comercial compuesto esencialmente hidrocarburos acíclicos satur
 prohíbe empleo conjunto hexano metiletilcetona
 nivel nhexano disolvente deberá exceder mg kg
 ANEXO II
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -3219,7 +3212,6 @@ DO
 Reglamento CE Parlamento Europeo Consejo
 DO
 Únicamente punto anexo III
-
 Plazos transposición Derecho nacional
 Directiva
 Fecha límite transposición
@@ -3745,7 +3737,6 @@ DO
 ANEXO
 perjuicio reglas interpretación nomenclatura combinada texto designación productos valor meramente orientativo determinándose ámbito régimen preferencial marco presente anexo códigos NC existentes momento adopción presente Reglamento
 contingentes arancelarios número orden contingente volumen anual sobrepasar siguientes cantidades unidades pares respectivo año anual
-
 anual unidades volumen anual volumen máximo subpartida
 orden
 Código NC
@@ -3753,11 +3744,6 @@ Descripción mercancías
 Período contingentario
 Volumen contingente anual toneladas peso neto especifique cosa
 Abrigos chaquetones capas anoraks cazadoras artículos similares punto mujeres niñas artículos partida algodón
-
-
-
-
-
 período posterior
 Abrigos chaquetones capas anoraks cazadoras artículos similares punto mujeres niñas artículos partida fibras sintéticas similares
 Conjuntos mujeres niñas algodón
@@ -3948,11 +3934,9 @@ teflutrina mezcla enantiómeros ZR ZS
 Hexaclorobenceno mg kg máximo
 enero
 diciembre
-
 autorizarse usos insecticida
 aplicación semillas realizará instalaciones tratamiento profesional semillas
 Dichas instalaciones aplicarán mejores técnicas disponibles evitar liberación nubes polvo almacenamiento transporte aplicación
-
 aplicación principios uniformes mencionados artículo apartado Reglamento CE conclusiones informe revisión teflutrina particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros prestarán atención particular
 seguridad operarios trabajadores incluirán condiciones autorizadas aplicación equipos protección personal adecuados equipos protección respiratoria

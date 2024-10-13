@@ -587,7 +587,6 @@ participante formación llevará cabo práctica formación demostrará aptitud c
 motocicletas utilizadas formación pertenecerán categoría permiso conducción hayan solicitado participantes
 duración examen distancia recorrer deberán suficientes evaluación aptitudes comportamiento previstos punto presente anexo
 ANEXO VII
-
 DIRECTIVA DEROGADA MODIFICACIONES SUCESIVAS
 mencionados artículo
 Directiva CEE Consejo
@@ -604,7 +603,6 @@ Directiva CE Parlamento Europeo Consejo únicamente apartado artículo
 DO
 ReglamentoCE Parlamento Europeo Consejo únicamente punto anexo II
 DO
-
 PLAZO INCORPORACIÓN DERECHO NACIONAL APLICACIÓN
 Directiva
 Fecha límite incorporación
@@ -1365,7 +1363,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -1419,7 +1416,6 @@ carga contenedor transporte embarcación vivero limpios desinfectados utilizado 
 envío identificado etiqueta legible exterior contenedor transporta embarcación vivero manifiesto marítimo información pertinente contemplada casillas presente certificado declaración
 PecesCrustáceos destinados consumo humano Comunidad
 Notas
-
 Referencia casilla Región origen respecta moluscos bivalvos congelados transformados indíquese zona producción
 Referencia casilla Lugar origen nombre dirección establecimiento expedición
 Referencia casilla Número registro vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos
@@ -1452,7 +1448,6 @@ Cargo título
 Firma
 apéndice sustituye texto
 Apéndice anexo VI
-
 MODELO CERTIFICADO SANITARIO IMPORTACIONES MOLUSCOS BIVALVOS EQUINODERMOS TUNICADOS GASTERÓPODOS MARINOS VIVOS DESTINADOS CONSUMO HUMANO
 precinto contenedor
 Moluscos bivalvos equinodermos tunicados gasterópodos marinos vivos
@@ -1971,23 +1966,19 @@ Reglamento modificado lugar Reglamento CE DO
 ANEXO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES PORCINO LETONIA
-
 Método manual ZP
 clasificación canales porcino llevará cabo método manual ZP
 aplicar método utilizarse regleta cuyas cotas determinan función ecuación predicción
 método basa principio medición manual espesor grasa espesor muscular línea media canal
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor milímetros grasa visible línea media canal medido punto delgada recubre músculo glúteo
 espesor milímetros músculo visible línea media canal medido punto distancia borde craneal músculo glúteo borde superior canal vertebral
 fórmula válida canales peso comprendido kg
-
 clasificación canales porcino llevará cabo aparato denominado Intrascope Optical Probe producido SFK Dinamarca
 aparato equipado sonda hexagonal anchura máxima milímetros milímetros lámina situada extremo llevará visor fuente luz cilindro deslizante calibrado milímetros alcance operativo milímetros
 contenido carne magra canal calculará fórmula
 espesor tocino dorsal milímetros medido izquierdo canal costilla cm línea media canal
-
 clasificación canales porcino llevará cabo aparato denominado PG Pork Grader producido SFK Dinamarca
 aparato equipado mecanismo medición manual alcance operativo milímetros sistema informático conectado registra datos calcula contenido carne magra canal
 espesor tocino dorsal milímetros medido izquierdo canal costilla cm línea media canal
@@ -2418,7 +2409,6 @@ Bruselas octubre
 Comisión
 Miembro Comisión
 ANEXO
-
 Cereales productos base cereales destinados alimentación animal humana oleaginosas proteaginosas forrajes desecados
 Plan previsiones abastecimiento ayuda comunitaria abastecimiento productos comunitarios año civil
 Departamentos
@@ -2433,10 +2423,8 @@ Guayana
 Trigo blando cebada maíz productos destinados alimentación animal malta
 Trigo blando cebada maíz grañones sémola trigo duro avena malta
 importe restitución correspondiente productos código NC concedida aplicación artículo Reglamento CE n° Comisión DO
-
 Productos transformados base frutas hortalizas
 Purés frutas obtenidos cocción adición azúcar edulcorantes destinados transformación
-
 Pulpas frutas preparadas conservadas adición azúcar edulcorantes alcohol expresadas comprendidas destinadas transformación
 Jugos concentrados frutas incluidos mostos uvas fermentar adición alcohol adición azúcar edulcorantes destinados transformación
 importe restitución correspondiente productos código NC concedida aplicación artículo Reglamento CE Consejo DO
@@ -2447,10 +2435,8 @@ Aceites vegetales
 Aceites oliva
 Aceites oliva virgen
 Aceites oliva
-
 importe restitución correspondiente productos código NC concedida aplicación apartado artículo Reglamento CEE
 importe restitución correspondiente productos código NC concedida aplicación apartado artículo Reglamento CEE
-
 Confituras jaleas mermeladas purés pastas frutas obtenidos cocción adición azúcar edulcorantes
 preparaciones homogeneizar base frutas agrios
 Frutas partes comestibles plantas preparadas conservadas adición azúcar edulcorantes alcohol expresadas comprendidas
@@ -2461,7 +2447,6 @@ melocotones
 incluidas mezclas código NC
 mezclas
 palmitos mezclas
-
 Leche productos lácteos
 Código NC
 Leche nata concentradas azucaradas edulcoradas
@@ -2473,7 +2458,6 @@ EUR kg peso neto indicación contraria
 productos cuestión notas pie página correspondientes contempla Reglamento Comisión fijan restituciones exportación aplicación artículo Reglamento CE Consejo DO
 importe restitución correspondiente productos código NC concedida aplicación artículo Reglamento CE
 restituciones concedidas aplicación artículo Reglamento tengan importes arreglo letras apartado artículo Reglamento CE Comisión DO importe importe elevado restitución concedida productos código nomenclatura restituciones exportación Reglamento CE DO obstante caso mantequilla atribuida amparo Reglamento CE Comisión DO importe indicado columna II
-
 Sector carne porcino
 Código
 Carne animales especie porcina doméstica fresca refrigerada congelada
@@ -2731,7 +2715,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Transportista
 miembro
@@ -2776,7 +2759,6 @@ certificado sanitario regreso pastoreo fronterizo bovinos regreso normal anticip
 animales descritos lista animales fecha regreso anticipado lista animales figuran certificado original asociado inspeccionados indíquese fecha carga animales cuarenta horas salida presentado signo clínico enfermedad infecciosa contagiosa
 zona pastoreo permanecido animales sujeta prohibición restricción motivos enfermedad afecte bovinos arreglo normativa comunitaria arreglo normativa nacional particular detectado caso tuberculosis brucelosis leucosis periodo pastoreo
 Notas
-
 número certificado sanitario utilizado entrada zona pastoreo recoge presente certificado
 II
 datos exigidos presente certificado consignarse sistema informatizado enlace autoridades veterinarias establecido artículo Directiva CEE fecha emisión certificado tardar veinticuatro horas anteriores fecha prevista llegada animales
@@ -4546,9 +4528,7 @@ código ZZ significa orígenes
 Corrección errores Decisión CE Euratom Consejo junio septiembre modifica Acto relativo elección diputados Parlamento Europeo sufragio universal directo anejo Decisión CECA CEE Euratom
 Diario Oficial Unión Europea octubre
 página artículo punto letra
-
 párrafo apartado mención fijará período posterior mes sustituirá mención fijará mes período quinquenal contemplado artículo período electoral meses máximo posterior mes máximo
-
 párrafo apartado mención fijará período posterior mes sustituirá mención fijará año período quinquenal contemplado artículo período electoral meses máximo posterior mes máximo
 Reglamento CE Comisión
 agosto

@@ -327,11 +327,8 @@ requisitos adicionales
 Sustitución licencia FCL condiciones aplicable
 Eliminación condiciones
 piloto mando aviones multipiloto
-
 aplicable
 aviones multipiloto
-
-
 aviones multipiloto
 Demostrar conocimientos planificación performance vuelo requerido FCL
 ATPLA habilitación tipo restringida copiloto
@@ -344,14 +341,12 @@ aviones multipiloto operaciones multipiloto aviones piloto categoría tercer niv
 Superar examen conocimientos ATPLA miembro expide licencia
 piloto mando aviones piloto
 Demostrar conocimientos planificación performance vuelo nivel CPL
-
 Obtener habilitación tipo multipiloto FCL
 piloto mando aviones piloto
 Habilitación vuelo nocturno aplicable
 CPLA habilitaciones tipo clase restringidas aviones piloto
 Habilitación vuelo nocturno aplicable
 Demostrar conocimientos planificación performance vuelo requerido FCL
-
 IFR
 PPL IRA restringida PPL
 Demostrar conocimientos planificación performance vuelo requerido FCLb
@@ -360,7 +355,6 @@ Demostrar radioayudas navegación
 punto sección Helicópteros modifica
 ATPLH IRH válida
 piloto mando helicópteros multipiloto
-
 ATPLH
 ATPLH atribuciones IRH
 helicópteros multipiloto
@@ -369,11 +363,6 @@ Demostrar capacidad actuar piloto mando requisitos apéndice FCL
 Habilitación tipo ATPLH restringida copiloto
 helicópteros multipiloto
 Demostrar conocimientos planificación performance vuelo requerido FCL FCLb
-
-
-
-
-
 CPL IRH superada prueba teórica ATPLH OACI miembro emite licencia
 Demostrar conocimientos planificación performance vuelo requerido FCL FCLb
 Cumplir requisitos restantes FCLHb
@@ -387,11 +376,9 @@ CPL IRH habilitación tipo restringida helicóptero piloto
 Obtener habilitación tipo multipiloto FCL
 piloto mando helicópteros piloto
 Demostrar conocimientos planificación performance vuelo requerido FCL FCLb
-
 Habilitación vuelo nocturno
 CPLH habilitación tipo restringida helicópteros piloto
 Demostrar conocimientos planificación performance vuelo requerido FCL
-
 CPLH habilitación vuelo nocturno
 restringido operaciones VFR diurnas
 Obtener habilitación tipo multipiloto FCL habilitación vuelo nocturno
@@ -741,14 +728,12 @@ DO
 Directiva modificada luçar Directiva CEE DO
 Véase anexo
 ANEXO
-
 Directiva derogada modificación
 contemplados artículo
 Directiva CEE Comisión
 DO
 Directiva CEE Comisión
 DO
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -1003,70 +988,9 @@ período comprendido febrero abril prohibida utilización redes arrastre fondo p
 Punto
 Latitud
 Longitud
-
-
-
-
-
-
-
-
 punto coordenadas Hatton Bank Logachev Mound siguientes
 Hatton Bank
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Logachev Mound
-
-
-
-
-
-
-
 punto añade punto
 curso actividad pesquera zonas pesca fondo actuales zonas pesca fondo zona regulación CPANE cantidad coral vivo esponjas vivas capturada arte utilizado exceda kg coral vivo kg esponjas vivas buque informará pabellón interrumpirá pesca alejará millas náuticas mínimo posición datos disponibles parezca cercana lugar exacto dicha captura
 punto letra palabras agosto noviembre sustituyen agosto noviembre
@@ -1083,9 +1007,7 @@ DO
 Corrección errores Reglamento CE Parlamento Europeo Consejo junio ley aplicable obligaciones contractuales Roma
 Diario Oficial Unión Europea julio
 página artículo Artículo
-
 presente Reglamento aplicará contratos celebrados diciembre Artículo
-
 presente Reglamento aplicará contratos celebrados diciembre
 Corrección errores Reglamento CE Parlamento Europeo Consejo julio condiciones acceso redes transporte gas natural deroga Reglamento CE
 Diario Oficial Unión Europea agosto
@@ -1661,7 +1583,6 @@ DO
 ANEXO
 Desglose miembro ayuda comunitaria desarrollo rural
 Precios actuales EUR
-
 Bélgica
 República Checa
 Dinamarca
@@ -1811,7 +1732,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -1904,7 +1824,6 @@ II añadieron antibióticos esperma
 II
 antibiótico combinación antibióticos obtener esperma diluido concentración inferior
 Notas
-
 Casilla Persona responsable partida UE casilla rellenarse únicamente certificado mercancía tránsito
 Casilla lugar origen corresponderá centro autorizado recogida recogido esperma figura conformidad artículo apartado letra Directiva CEE sitio web Comisión httpeceuropaeufoodanimalsemenovaovineindexenhtm
 Casilla número bultos corresponderá número recipientes
@@ -1937,7 +1856,6 @@ Lista terceros países partes terceros países miembros autorizar importaciones 
 garantía adicional pruebas establece punto II modelo certificado sanitario figura anexo IV obligatoria
 Certificados conformidad Comunidad Europea Confederación Suiza comercio productos agrícolas aprobado virtud Decisión CE Euratom
 anexo IV sustituye texto
-
 Modelo certificado sanitario importaciones partidas óvulos embriones animales especies ovina caprina
 Categoría
 Identidad donante
@@ -2305,7 +2223,6 @@ DO
 ANEXO
 anexo Reglamento CE queda modificado
 sustituye texto
-
 Lista terceros países territorios zonas compartimentos
 Código ISO nombre tercer país territorio
 Código tercer país territorio zona compartimento
@@ -2321,7 +2238,6 @@ Fecha conclusión
 Fecha inicio
 país
 BR Brasil
-
 Rio do Sul Santa Catarina Paraná São Paulo Mato Grosso do Sul
 Mato Grosso Paraná Rio do Sul Santa Catarina São Paulo
 Distrito Federal
@@ -2353,11 +2269,9 @@ ZA Sudáfrica
 ZW Zimbabue
 queda modificada
 sección Condiciones específicas entrada añaden siguientes entradas
-
 ofrecido garantías legislación tercer país territorio relativa lucha enfermedad Newcastle equivalente aplica Unión
 caso brote enfermedad Newcastle seguir autorizándose importaciones tercer país territorio cambie código
 obstante prohibirán automáticamente importaciones Unión procedentes área sometida restricciones oficiales autoridad competente tercer país territorio cuestión brote enfermedad
-
 ofrecido garantías legislación tercer país territorio relativa lucha influenza aviar equivalente aplica Unión
 caso brote influenza aviar baja patogenicidad seguir autorizándose importaciones tercer país territorio cambie código
 obstante prohibirán automáticamente importaciones Unión procedentes área sometida restricciones oficiales autoridad competente tercer país territorio cuestión brote enfermedad
@@ -2391,7 +2305,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Números CITES
 Referencia documental
@@ -2413,7 +2326,6 @@ Declaración zoosanitaria
 veterinario oficial abajo firmante certifica presente aves corral descritas certificado
 cumplen disposiciones Directiva CE
 permanecido
-
 territorio código
 compartimentos
 meses eclosión meses edad previamente importadas país territorio zona compartimento origen importación condiciones veterinarias estrictas requisitos pertinentes Directiva CE posibles decisiones subsidiarias
@@ -2442,7 +2354,6 @@ conformidad capítulo III anexo II Directiva CE comprobándose infectada razones
 vacunada enfermedad Newcastle
 vacunada enfermedad Newcastle
 semanas edad
-
 vacunada vacunas oficialmente autorizadas
 repetir necesario
 examinado fecha expedición presente certificado hayan presentado signos clínicos enfermedad habido razones sospechar existencia enfermedad
@@ -2488,7 +2399,6 @@ iii
 permitir limpieza desinfección
 cargarse limpiado desinfectado vehículos transportan siguiendo instrucciones autoridad competente
 Notas
-
 Casilla indicar código zona compartimento origen necesario código columna anexo Reglamento CE
 Casilla nombre dirección número autorización establecimiento reproducción cría
 Casilla indicar matrícula vagones camiones nombre buques conoce número vuelo aviones
@@ -2868,7 +2778,6 @@ enfermedad Newcastle Reglamento CE
 obtenido ratites
 vacunadas influenza aviar plan vacunación conforme Reglamento CE utilizando
 sacrificadas dd mm aaaa dd mm aaaa dd mm aaaa
-
 obtenida ratites granja permanecieron ininterrumpidamente
 mínimo meses sacrificio eclosión
 deshuesada pelada obtenido ratites granja permanecieron ininterrumpidamente
@@ -3018,7 +2927,6 @@ caso Grecia España Malta Portugal Rumanía menciónese fecha nacimiento
 caso Francia Italia Letonia Austria Eslovenia Suecia menciónense fecha lugar nacimiento
 caso miembros necesario indicar
 caso documentos identidad Italia menciónese igualmente autoridad expedición
-
 Requisitos miembros requieren comunicación número identificación personal número documento identificación personal formulario declaración apoyo figura
 miembro
 Firmantes cuya declaración apoyo presentará miembro trate
@@ -3468,7 +3376,6 @@ sur isla principal Bahréin descrita casilla
 norte país zonas descritas casilla
 entrada correspondiente Brasil sustituye texto
 Brasil
-
 Sociedade Hípica Brasileira Aeropuerto Internacional Antonio Carlos Jobim Galeão carretera ambas instalaciones Río Janeiro
 Válido
 Artículo
@@ -3567,12 +3474,9 @@ Plazo meses especifique
 transmisión
 Período abarcado
 Principales agregados anual
-
-
 Principales agregados trimestral
 er trimestre
 Principales agregados administraciones públicas anual
-
 Tablas ramas actividad
 Gasto consumo hogares finalidad
 Cuentas financieras sectores operaciones
@@ -3584,7 +3488,6 @@ Gastos administraciones públicas funciones
 Tablas ramas actividad regiones NUTS
 Cuentas hogares regiones NUTS
 Tabla origen precios básicos incluida transformación precios adquisición
-
 Tabla destino precios adquisición
 Tabla inputoutput simétrica precios básicos quinquenal
 Tabla inputoutput simétrica producción interior precios básicos quinquenal
@@ -3719,7 +3622,6 @@ Viviendas
 edificios construcciones
 Equipo transporte
 maquinaria bienes equipo
-
 Equipos oficina hardware
 Equipos radio televisión comunicaciones
 Activos cultivados
@@ -3793,7 +3695,6 @@ FParticipación neta hogares reservas fondos pensiones
 Reservas primas reservas siniestros
 cuentas pendientes cobro
 Créditos comerciales anticipos
-
 Pasivo
 cuentas pendientes pago
 Adquisiciones netas activos financieros
@@ -3905,7 +3806,6 @@ Variaciones patrimonio neto
 Transferencias capital
 Impuestos capital
 Ayudas inversión
-
 Ayudas inversión instituciones UE administraciones públicas
 transferencias capital
 variaciones patrimonio neto
@@ -4004,7 +3904,6 @@ pagar subsector administración central
 pagar subsector comunidades autónomas
 pagar subsector corporaciones locales
 pagar subsector administraciones seguridad social
-
 Consumo intermedio impuestos producción Impuestos corrientes renta patrimonio etc Ajuste variación participación neta hogares reservas fondos pensiones
 impuestos producción Impuestos corrientes renta patrimonio etc Ajuste variación participación neta hogares reservas fondos pensiones
 transferencias corrientes
@@ -4035,7 +3934,6 @@ producción ramas actividad
 Partidas ajuste
 Ajuste cif fob importaciones
 Adquisición directa realizada extranjero residentes
-
 Producción mercado
 Producción
 Tabla Tabla destino precios adquisición precios corrientes precios año
@@ -4191,7 +4089,6 @@ Activos fijos desglose ANF†
 tablas afectadas
 variables partidas
 Datos anteriores transmitirán datos
-
 variables partidas ajustadas estacionalmente laborables
 Años transmitirán datos
 Años transmisión
@@ -4323,7 +4220,6 @@ plazo
 Acciones participaciones excluidas participaciones fondos inversión
 Participación neta hogares reservas fondos pensiones
 Años transmisión
-
 Años transmitirán datos
 Desglose impuestos derechos importaciones excluido IVA impuestos productos excluidos IVA impuestos importaciones
 Desglose producción sectores administraciones públicas economía conjunto
@@ -4333,15 +4229,12 @@ Impuestos consumos específicos DC
 Producción mercado
 ALEMANIA
 Datos históricos anteriores Antiguo territorio República Federal Alemania unificación
-
 Desglose
 Transmisión meses
-
 Desglose
 Transmisión meses
 ANF Desglose activos fijos Formación bruta capital fijo AN Equipo transporte AN maquinaria bienes equipo
 Transmisión agosto Año
-
 Año transmitirán datos
 Desglose producción mercado
 transmitirán datos
@@ -4629,7 +4522,6 @@ Empleo horas trabajadas personas
 Asalariados sectores
 Empleo horas trabajadas
 Empleo personas
-
 variables partidas trimestral
 variables precios año volúmenes encadenados
 variables sector
@@ -4729,7 +4621,6 @@ variables partidastrimestral
 transmitirán datos históricos anteriores
 variables partidasanual
 transmitirán datos históricos anteriores
-
 Años transmisión
 variables subsectores
 Años transmisión
@@ -4844,8 +4735,6 @@ Composición UE UEM imperante período contemplado presente tabla
 obligatorio carácter voluntario
 carácter voluntario
 Voluntario activos AN viviendas Unidad costes corrientes reposición
-
-
 DS
 miles personas miles horas trabajadas miles puestos trabajo
 SEC
@@ -4855,14 +4744,7 @@ Remuneración asalariados Sueldos salarios impuestos netos producción Consumo c
 Activos fijos brutos
 Activos fijos netos
 términos reales
-
-
-
-
 DS
-
-
-
 plazo límite transmisión meses datos históricos plazo límite transmisión meses datos históricos
 Reglamento CE Comisión
 octubre

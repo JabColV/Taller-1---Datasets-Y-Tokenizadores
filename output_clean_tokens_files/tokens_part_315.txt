@@ -2150,7 +2150,6 @@ clasificación canales porcino efectuará dispositivo denominado Sonda Hennessy 
 dispositivo llevará incorporada sonda diámetro milímetros milímetros hoja situada superior sonda provista fotodiodo Siemens LED tipo LYU EO fotodetector tipo MR distancia operativa milímetros
 resultados mediciones convertirán contenido estimado carne magra sonda HGP ordenador conectado
 contenido carne magra canal calculará aplicando fórmula
-
 porcentaje estimado carne magra canal
 espesor grasa dorsal incluida piel milímetros medido cm línea media canal costilla
 espesor grasa dorsal incluida piel milímetros medido cm línea media canal costilla contando costilla
@@ -2759,7 +2758,6 @@ caso luces carretera distancia separa superficies iluminantes ambas luces carret
 Visibilidad geométrica
 visibilidad superficie iluminante incluida visibilidad zonas parezcan iluminadas dirección observación considerada deberá garantizarse espacio divergente delimitado generatrices apoyan perímetro superficie iluminante forman ángulo mínimo eje referencia faro
 Orientación
-
 luces moverse ángulo giro dirección
 instalarse SAIH luz carretera
 Conexiones eléctricas
@@ -2844,7 +2842,6 @@ reubicar luz cruce forma orientación horizontal vertical luz carezca SAIH
 alternativa fabricante optar instalar sistema automático realice tareas especificadas restablezca funcionamiento SAIH
 LUZ INDICADORA DIRECCIÓN
 Número
-
 indicadores categoría Reglamento categoría Reglamento
 indicadores atrás categoría Reglamento categoría Reglamento
 anchura indicadores delanteros cumplirán siguientes requisitos
@@ -2874,7 +2871,6 @@ destello indicadores dirección vehículo producirse simultánea alternativament
 accione mando señal luminosa luz encenderá máximo apagará máximo
 caso fallo cortocircuito luz indicadora dirección luces indicadoras dirección deberá seguir destellando quedarán encendidas frecuencia caso exigida
 LUCES FRENADO
-
 altura distancia suelo comprendida mm mm
 longitud trasera vehículo
 Ángulo horizontal izquierda derecha luz simple
@@ -2885,7 +2881,6 @@ trasera vehículo
 encenderán aplicación freno servicio
 Testigo
 Opcional esté instalado testigo funcionamiento consistirá luz advertencia intermitente encenderá caso funcionamiento defectuoso luces frenado
-
 DISPOSITIVO ALUMBRADO PLACA POSTERIOR MATRÍCULA
 homologado dispositivo categoría arreglo Reglamento
 dispositivo compuesto elementos ópticos diseñados iluminar espacio destinado placa matrícula
@@ -2896,9 +2891,7 @@ longitud
 Opcional función cumplirá testigo prescrito luz posición
 luz placa matrícula trasera esté combinada luz posición trasera recíprocamente incorporada luz frenado luz antiniebla trasera características fotométricas luz placa matrícula trasera modificarse estén encendidas luz frenado luz antiniebla trasera
 LUZ POSICIÓN DELANTERA
-
 color blanco
-
 color amarillo auto
 anchura
 luz posición delantera independiente instalarse luz delantera luces centro referencia luces posición delantera deberá situarse plano longitudinal vehículo luces estén centros referencia simétricos plano longitudinal vehículo
@@ -2978,7 +2971,6 @@ longitud
 delantera vehículo
 Horizontal exterior interior
 Vertical abajo
-
 luz circulación diurna apagará automáticamente enciendan faros utilicen emitir ráfagas advertencia
 luz posición trasera encenderá luz circulación diurna esté encendida
 luz posición delantera dispositivo alumbrado placa posterior matrícula encenderse aisladamente juntos luz circulación diurna esté encendida
@@ -3097,8 +3089,6 @@ SUPERFICIE ILUMINANTE COMPARACIÓN SUPERFICIE SALIDA LUZ
 Véanse puntos presente Reglamento
 CROQUIS
 bordes
-
-
 CROQUIS
 ANEXO
 VISIBILIDAD DELANTERA LUCES ROJAS VISIBILIDAD TRASERA LUCES BLANCAS
@@ -3701,7 +3691,6 @@ Valnemulina
 Valnemulina
 Porcinos conejos
 Músculo
-
 Antiinfecciosos Antibióticos
 Hígado
 Riñón

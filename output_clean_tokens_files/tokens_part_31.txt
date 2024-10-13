@@ -154,7 +154,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -1657,17 +1656,10 @@ Suma hidrocarburos óxidos nitrógeno
 kW kW
 Motores destinados propulsión buques navegan aguas interiores
 Categoría cilindrada potencia neta
-
 litros cilindro kW
 kW
-
-
-
-
 kW
 ≤C kW
-
-
 Motores destinados propulsión locomotoras
 RH Motores kW cilindro
 Motores destinados propulsión automotores
@@ -1972,7 +1964,6 @@ Estadísticas validación ciclo prueba
 efectuarán regresiones lineales valores retorno valores referencia velocidad giro par potencia
 lugar desplazamiento datos retorno caso recurra opción
 utilizará método mínimos cuadrados ecuación ideal forma
-
 valor efectivo retorno velocidad giro min par Nm potencia kW
 pendiente línea regresión
 valor referencia velocidad giro min par Nm potencia kW
@@ -2042,7 +2033,6 @@ medirá concentración gas muestra gases escape
 garantizar mezcla gas indicador sonda toma muestras gases escape colocará metro diámetro tubo escape distancia ambas punto posterior inyección gas indicador
 sonda toma muestras situada cerca punto inyección comprueba obtención mezcla comparando concentración gas indicador concentración referencia inyectar gas indicador motor
 gasto másico gas indicador fijará concentración gas indicador motor ralentí mezcla inferior valor máximo escala analizador gas indicador
-
 EXHW
 gasto másico instantáneo gases escape kg
 caudal gas indicador cm min
@@ -2449,7 +2439,6 @@ fugas conexiones conductos Venturi calibrado bomba CVS inferiores punto caudal r
 Análisis datos
 caudal aire Qs posición limitador mínimo posiciones calculará normalizados min datos caudalímetro utilizando método prescrito fabricante
 continuación convertirá caudal aire caudal bomba rev temperatura presión absolutas entrada bomba
-
 caudal aire condiciones normales kPa
 temperatura entrada bomba
 presión absoluta entrada bomba pB kPa
@@ -2585,7 +2574,6 @@ Cálculo gasto másico partículas
 gasto másico partículas calculará
 caso método filtro único
 ciclo prueba GEDFWaver determinará sumando valores medios modalidades obtenidos período toma muestras
-
 caso método filtros múltiples
 efectuar corrección básica gasto másico partículas procedimiento
 caso método filtro único
@@ -2594,7 +2582,6 @@ caso método filtros múltiples
 DF concCO
 emisión específica partículas PT kWh calculará caso método filtro único
 método filtro único factor ponderación eficaz WFE modalidad calculará
-
 valor factores ponderación eficaces deberá coincidir factores ponderación enumerados punto anexo III tolerancia valor absoluto
 EVALUACIÓN DATOS CÁLCULOS PRUEBA NRTC
 punto describen principios medición aplicarse evaluación emisiones contaminantes ciclo NRTC
@@ -2620,12 +2607,10 @@ número mediciones
 cálculo NOx utilizará factor corrección humedad kH descrito continuación
 medición fase húmeda convertirá concentración medida instantáneamente equivalente dicha fase húmeda
 concentración medida instantáneamente fase seca convertirá equivalente fase húmeda fórmula
-
 concentración seca CO
 humedad aire admisión agua kg aire seco
 Corrección NOx humedad temperatura
 emisión NOx depende condiciones aire ambiente deberá corregir concentración NOx función humedad temperatura aire ambiente utilizando factores determinados fórmula
-
 temperatura aire admisión
 humedad aire admisión agua kg aire seco
 calcularán emisiones específicas kWh componentes forma
@@ -2680,7 +2665,6 @@ Corrección humedad NOx
 emisión NOx depende condiciones aire ambiente deberá corregir concentración NOx función humedad ambiente utilizando factores determinados fórmula
 temperatura aire
 humedad aire admisión agua kg aire seco
-
 Cálculo gasto másico emisiones
 Sistemas gasto másico constante
 sistemas intercambiador calor masa contaminantes MGAS prueba determinará ecuación
@@ -3669,7 +3653,6 @@ sectores
 Directivas número quedan derogadas Directiva CE Parlamento Europeo Consejo junio establece mecanismo reconocimiento títulos actividades profesionales refieren Directivas liberalización medidas transitorias DO rectificaciones LR publicadas DO
 Agricultura
 Directivas número quedan derogadas Directiva CE Parlamento Europeo Consejo junio establece mecanismo reconocimiento títulos actividades profesionales refieren Directivas liberalización medidas transitorias DO rectificaciones LR publicadas DO
-
 Decisión CEE Consejo julio relativa correspondencia calificaciones formación profesional miembros Comunidades Europeas DO
 SECCIÓN
 Actos partes contratantes toman nota
@@ -4204,7 +4187,6 @@ Inversiones previstas ámbito producción acero cuadro PNI
 miles PLN
 Acería
 Trenes laminación caliente
-
 Planta trefilado
 millones PLN
 indicado punto PNI inversiones centraron modernización trenes laminación caliente véase cuadro PNI incluía modernización tren laminación sustitución hornos recalentamiento tren laminación palanquillas cuadradas tren laminación perfiles pesados
@@ -4267,7 +4249,6 @@ PNR
 miles PLN
 Ayuda estatal obtenida
 Diferencia
-
 ayuda concedió fines distintos
 millones PLN reestructuración plantilla previsto inicialmente millones PLN
 millones PLN condonaciones deudas previsto inicialmente millones emplearon introducir mejoras generales situación financiera empresa

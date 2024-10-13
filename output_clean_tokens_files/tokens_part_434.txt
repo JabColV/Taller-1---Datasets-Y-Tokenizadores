@@ -800,7 +800,6 @@ Volumen contingentario toneladas indicación contrario
 Derechos contingentarios
 Arenques especie Clupea harengus Clupea pallasi congelados excluidos hígados huevas destinados fabricación industrial
 Caballas especie Scomber scombrus Scomber japonicus congelada excluidos hígados huevas destinados fabricación industrial
-
 Filetes arenques Clupea harengus Clupea pallasii congelados
 Lomos arenques congelados destinados fabricación industrial
 Camarones gambas pelados congelados envases herméticos
@@ -1431,7 +1430,6 @@ Naranjas
 Limones
 Limas
 Mandarinas
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -1794,7 +1792,6 @@ Zona
 VIIIa
 Fecha
 julio
-
 Reglamento UE Comisión
 febrero
 establecen valores importación alzado determinación precio entrada determinadas frutas hortalizas
@@ -1879,7 +1876,6 @@ DO
 ANEXO
 Desglose miembro ayuda comunitaria desarrollo rural
 EUR precios corrientes
-
 Importe mínimo regiones objetivo convergencia
 Bélgica
 República Checa
@@ -2370,7 +2366,6 @@ Federación Rusia
 Azerbaiyán Moldova Ucrania
 Uzbekistán
 Kazajstán
-
 Ecuador Perú
 Especímenes especies incluidas anexo Reglamento CE cuya introducción Comunidad queda suspendida
 República Centroafricana Gabón
@@ -2409,7 +2404,6 @@ Etiopía
 Hexaprotodon liberiensis sinónimo Choeropsis liberiensis
 Costa Marfil Guinea GuineaBissau Nigeria Sierra Leona
 República Democrática Congo Gambia Malawi Níger Nigeria Ruanda Sierra Leona Togo
-
 especímenes censo registrado Argentina Secretaría confirme licencias miembro importador acepte
 productos obtenidos esquileo animales vivos conforme programa gestión aprobado debidamente marcados registrados
 exportaciones comerciales cantidades limitadas kg anuales lana pruebas industriales
@@ -3880,10 +3874,8 @@ Albúminas incluidos concentrados proteínas lactosuero contenido proteínas lac
 Ovoalbúmina
 Seca
 impropias hechas impropias alimentación humana
-
 Lactoalbúmina incluidos concentrados proteínas lactosuero
 Seca hojas escamas cristales polvo etc
-
 CAPÍTULO II
 COMERCIO TERCEROS PAÍSES
 Artículo
@@ -4160,7 +4152,6 @@ mrad pequeño ángulos φmax φf
 φf mrad ángulo φf
 φmax φf
 mrad ángulo
-
 brazo adrizante máximo
 ángulo escora
 ángulo inundación ángulo escora sumergen aberturas casco superestructura casetas cerrarse estanca

@@ -697,10 +697,7 @@ DO Reglamento cuya modificación constituye Reglamento CE Comisión DO
 Corrección errores Reglamento UE Parlamento Europeo Consejo octubre información alimentaria facilitada consumidor modifican Reglamentos CE CE Parlamento Europeo Consejo derogan Directiva CEE Comisión Directiva CEE Consejo Directiva CE Comisión Directiva CE Parlamento Europeo Consejo Directivas CE CE Comisión Reglamento CE Comisión
 Diario Oficial Unión Europea noviembre
 página considerando
-
-
 información nutricional alimento referencia presencia valor energético determinados nutrientes alimentos
-
 Decisión Comisión
 junio
 relativa inclusión carbofurano anexo Directiva CEE Consejo retirada autorizaciones productos fitosanitarios contengan sustancia
@@ -876,14 +873,10 @@ Tipo contabilidad indicará tipo contabilidad aplica explotación
 Deberán utilizarse códigos siguientes
 Contabilidad partida doble
 Contabilidad partida simple
-
 Fecha cierre ejercicio contable indicará formato AAAAMMDD ejemplo
 Orientación técnicoeconómica momento selección Clasificación explotaciones agrícolas orientación técnico económica OTE conformidad anexo Reglamento CE Comisión momento selección ejercicio contable trate ATYES
 Clase dimensión económica momento selección Código clase dimensión económica explotación conformidad anexo II Reglamento CE momento selección ejercicio contable trate
 actividades lucrativas directamente relacionadas explotación presentará banda porcentual indicativa ingresos totales correspondiente restantes actividades lucrativas directamente relacionadas explotación
-
-
-
 Explotación familiar explotación utiliza mano obra capital propietario jefe explotación familia beneficiarios actividad económica
 Sociedad fines lucro beneficios destinan remunerar accionistas forma dividendos participación beneficios
 explotación propiedad sociedad
@@ -891,7 +884,6 @@ Sociedad fines lucro beneficios destinan primordialmente mantener empleo objetiv
 explotación propiedad sociedad
 Forma jurídica indicará explotación persona jurídica
 Falso
-
 Nivel responsabilidad delde titulares indicará nivel responsabilidad económica titular principal
 Plena
 Parcial
@@ -948,7 +940,6 @@ procede explotación carece riego
 Superficial
 Rociadores
 Goteo
-
 Jornadas pastoreo unidad ganado tierras comunales Número jornadas unidad ganado animales explotación pacen tierras comunales utilizadas
 COLUMNAS CUADRO
 columna refiere circunscripción subcircunscripción número orden explotación DG grados minutos zonas NUTS AO número oficina contable DT fecha ponderación explotación TF orientación técnicoeconómica dimensión económica código
@@ -1003,7 +994,6 @@ Empresario jefe explotación
 Empresario jefe explotación
 Jefe explotación empresario
 Cónyuges empresarios
-
 Mano obra ocupada regularmente
 Jefe explotación
 mano obra entenderá conjunto personas ejercicio contable hayan ocupadas trabajos explotación agrícola véase abajo
@@ -1039,7 +1029,6 @@ Mano obra remunerada efectivo especie normalmente prestación realizada ejercici
 distinguirán categorías siguientes
 Jefe explotación
 Persona asalariada asume gestión corriente explotación
-
 mano obra asalariada ocupada regularmente jefe explotación asalariado indicará globalmente grupo
 incluye capataces subjefes explotación responsables gestión explotación
 Mano obra asalariada ocupada regularmente
@@ -2804,9 +2793,6 @@ Distribución regular queso diámetro ojos mm ausencia grietas mayores cm
 Cantidad limitada pequeñas cavidades suero distribución regular queso diámetro ojos mm ausencia grietas
 Cantidad limitada pequeños ojos distribución regular queso diámetro ojos mm ausencia grietas
 Pequeños ojos distribución regular queso pasta dividida cerrada
-
-
-
 Contenido grasa materia seca
 Queso graso mínimo
 contenido grasa materia seca superior inferior contenido grasa materia seca superior inferior
@@ -3946,7 +3932,6 @@ kWh refrigeración
 consumo efectivo dependerá clima aparato
 Potencia refrigeración
 Índice eficiencia energética carga completa
-
 Tipo
 refrigeración
 Refrigeración calefacción
@@ -4045,7 +4030,6 @@ visibilidad programas ayuda IAP incidencia ciudadanos países beneficiarios esen
 Reglamento IAP efectos enero normas Comisión puesta práctica aplicación fecha
 disposiciones establecidas presente Reglamento ajustan dictamen Comité IAP
 ADOPTADO PRESENTE REGLAMENTO
-
 DISPOSICIONES COMUNES
 TÍTULO
 PRINCIPIOS MARCO GENERAL AYUDA

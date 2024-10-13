@@ -456,12 +456,10 @@ observancia derechos libertades fundamentales establecidos Convenio Europeo Prot
 respeto principio devolución conformidad Convención Ginebra
 existencia sistema vías recurso eficaces violaciones dichos derechos libertades
 ANEXO II
-
 Directiva derogada
 mencionada artículo
 Directiva CE Consejo
 DO
-
 Plazo transposición Derecho nacional
 mencionado artículo
 Directiva
@@ -3176,7 +3174,6 @@ lux equivalente
 lux equivalente
 Zona III lux equivalente
 lux equivalente
-
 caso haz cruce valores prescritos presente Reglamento cumplen HV tolerancia lux relación ajuste punto área delimitada pantalla medición círculo cm radio torno puntos tolerancia lux zona IV encuentre cm línea
 caso haz carretera punto HV situado isolux Emáx observa tolerancia valores máximos valores mínimos relación valores fotométricos cualquiera puntos medición especificados punto presente Reglamento
 resultados ensayos descritos anteriormente cumplen requisitos reglar faro eje haz desvíe lateralmente derecha izquierda
@@ -3312,9 +3309,7 @@ pone duda conformidad
 procedimiento toma muestras figura presente anexo cuestionará conformidad faros producidos serie desviaciones valores medidos faros direcciones desfavorables
 muestra
 faro
-
 faros
-
 muestra
 muestra
 cumplen condiciones punto muestra
@@ -3335,7 +3330,6 @@ muestra
 caso
 cumplen condiciones punto muestra
 reúnen condiciones punto caso muestra
-
 cumplen condiciones punto muestra muestra
 CAMBIO POSICIÓN VERTICAL LÍNEA CORTE
 faros muestra procedimiento muestreo figura presente anexo sometido ensayo conforme procedimiento descrito punto anexo consecutivas ciclo descrito punto citado anexo
@@ -3429,7 +3423,6 @@ Rendimiento color
 Contenido rojo
 mediciones descritas apartado presente Reglamento
 contenido mínimo rojo luz módulo LED faro incorpore módulos LED sometido ensayo deberá
-
 unidad distribución espectral irradiación
 unidad eficiencia luminosa espectral
 unidad nm longitud onda
@@ -3484,7 +3477,6 @@ punto luz cruce únicamente diseñada circulación derecha punto punto situado m
 faro considerará aceptable Δr excede mrad
 valor superior mrad someterá ensayo muestra media valores absolutos registrados muestras deberá superior mrad
 Δtm
-
 log Edβ
 Δdm
 posiciones cabo goniómetro ensayo relación línea centro fuente luminosa punto HV pantalla medición seguidamente coloca reflector ajustable posición iluminación pantalla ajuste requisitos orientación apartados
@@ -4284,20 +4276,15 @@ presente Reglamento define métodos análisis comunitarios necesarios aplicació
 definiciones incluyen anexo III Reglamento CE contenido almidón glucosa contenido sacarosa azúcar invertido isoglucosa aplicación anexos II III Reglamento utilizarán fórmulas procedimientos métodos siguientes contenidos almidón glucosa sacarosa azúcar invertido isoglucosa
 Contenido almidón glucosa
 expresado almidón producto seco mercancía presenta
-
 contenido glucosa superior fructosa
-
 contenido glucosa inferior fructosa
-
 contenido glucosa determinado método descrito anexo presente Reglamento
 contenido fructosa determinado HPLC cromatografía líquida alta precisión
 contenido glucosa determinado HPLC
 caso letra declara presencia hidrolizado lactosa descubren cantidades lactosa galactosa contenido glucosa determinado HPLC equivalente galactosa determinado HPLC deducirá contenido glucosa efectuar cálculo
 Contenido sacarosa azúcar invertido isoglucosa
 expresado sacarosa mercancía presenta
-
 contenido glucosa superior fructosa
-
 contenido sacarosa determinado HPLC
 contenido fructosa determinado HPLC
 declara presencia hidrolizado lactosa descubren cantidades lactosa galactosa contenido glucosa equivalente galactosa determinado HPLC deducirá contenido glucosa efectuar cálculo

@@ -1072,7 +1072,6 @@ DO
 DO
 ANEXO
 ANEXO II
-
 Indicaciones contempladas artículo apartado
 búlgaro Регламент ЕО
 danés Forordning EF nr
@@ -1092,7 +1091,6 @@ portugués Regulamento CE
 esloveno Uredba št
 finés Asetus EY
 sueco Förordning EG nr
-
 Indicaciones contempladas artículo apartado
 búlgaro Мито определено на съгласно Регламент ЕО
 español Derecho aduana aplicación Reglamento CE
@@ -1205,7 +1203,6 @@ DO
 ANEXO
 ANEXO II
 CARNE FRESCA
-
 LISTA TERCEROS PAÍSES PARTES TERCEROS PAÍSES establece certificado prohíben importaciones carnes frescas especies indicadas línea correspondiente totalidad país
 País
 Código territorio
@@ -1666,9 +1663,7 @@ max kg diclorofenol
 max kg dicloroanisol
 enero
 diciembre
-
 autorizarse usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión bifenox particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros deberán prestar especial atención
 seguridad operarios velar condiciones exija utilización equipos protección individual adecuados
@@ -2202,7 +2197,6 @@ Dictamen Parlamento Europeo junio publicado Diario Oficial Decisión Consejo mar
 DO
 Véase anexo
 ANEXO
-
 Directiva derogada modificación
 contemplados artículo
 Directiva CEE Consejo
@@ -2210,7 +2204,6 @@ DO
 Directiva CEE Consejo
 DO
 Únicamente artículo apartado
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -3228,9 +3221,7 @@ ABE contribuyendo forma importante creación código normativo único servicios 
 Corrección Reglamento UE Parlamento Europeo Consejo octubre establece código aduanero Unión refundición
 Diario Oficial Unión Europea octubre
 Página considerando frase
-
 disposiciones aplicarse junio
-
 disposiciones aplicarse mayo
 Página artículo apartado
 distintos mencionados apartado aplicables junio
@@ -3420,7 +3411,6 @@ Dictamen Parlamento Europeo diciembre DO Decisión Consejo septiembre
 DO
 Véase anexo II
 ANEXO
-
 LEGISLACIÓN COMUNITARIA
 Sección
 Directivas
@@ -3435,7 +3425,6 @@ Artículos Reglamento CEE Consejo marzo establecen normas comunes transportes in
 Artículo Reglamento CE Parlamento Europeo Consejo marzo relativo armonización determinadas disposiciones materia social sector transportes carretera autoriza miembros adopten medidas refieran aspectos organización procedimientos mecanismos sistema control garantizar cumplimiento disposiciones Reglamento
 Artículo Reglamento CEE Consejo diciembre relativo aparato control sector transportes carretera autoriza miembros adopten medidas refieran aspectos organización procedimientos mecanismos comprobar aparato control cumple disposiciones Reglamento
 Artículo apartado Reglamento CEE Consejo marzo relativo acceso mercado transportes mercancías carretera Comunidad tengan punto Partida destino territorio miembro efectuados territorio miembros establece bordo vehículo deberá hallarse copia certificada conforme licencia comunitaria deberá presentarse requieran agentes encargados control
-
 LEGISLACIÓN NACIONAL
 Controles permisos conducir conductores vehículos destinados transporte mercancías viajeros
 Controles medios transporte mercancías peligrosas especial
@@ -4914,9 +4903,7 @@ Margen tolerancia
 Fecha alcanzarse valor límite
 hora
 µg superarse año civil
-
 µg superarse año civil
-
 Dióxido nitrógeno
 µg superarse año civil
 julio valor reducirá enero sucesivo meses porcentajes anuales idénticos alcanzar enero
@@ -4968,9 +4955,6 @@ Objetivo reducción exposición relación IEM
 Año alcanzarse objetivo reducción exposición
 Concentración inicial µg
 Objetivo reducción
-
-
-
 medidas adecuadas alcanzar nivel μg
 IEM expresado µg año referencia inferior µg objetivo reducción exposición cero
 objetivo reducción cero casos IEM alcance nivel µg momento período comprendido mantenga nivel

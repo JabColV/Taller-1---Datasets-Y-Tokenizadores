@@ -747,11 +747,9 @@ Reglamento modificado lugar Reglamento CE DO
 Corrección errores Reglamento Ejecución UE Consejo diciembre aplica Reglamento UE Consejo relativo adopción medidas restrictivas Irán
 Diario Oficial Unión Europea diciembre
 páginas anexo punto Entidades entrada
-
 Hong Kong Intertrade Company Ltd HKICO ayuda entidades vetadas infringir disposiciones Reglamento UE Irán ofrece apoyo financiero Gobierno Irán
 HKICO compañía ficticia controlada National Iranian Oil Company NIOC entidad vetada UE
 mediados previó HKICO recibiera millones dólares ventas petróleo NIOC
-
 HK Intertrade Company Ltd HKICO ayuda entidades vetadas infringir disposiciones Reglamento UE Irán ofrece apoyo financiero Gobierno Irán
 HK Intertrade Company piso Edificio Tai Yau Johnston Road Wanchai Hong Kong
 Reglamento CE Comisión
@@ -800,7 +798,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -814,7 +811,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -828,7 +824,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -2348,7 +2343,6 @@ Carne despojos comestibles
 excluyen ancas rana
 código NC
 Productos lácteos
-
 Tripas vejigas estómagos animales pescado enteros trozos frescos refrigerados congelados salados salmuera secos ahumados
 Grasa cerdo incluida manteca cerdo grasa ave partidas
 Grasa animales especies bovina ovina caprina partida
@@ -2496,7 +2490,6 @@ entrada correspondiente aeropuerto Madrid sustituye texto
 Madrid
 entrada correspondiente aeropuerto Tenerife Sur sustituye texto
 Tenerife Sur
-
 relativa Francia añade relativa Groenlandia
 Страна Гренландия Země Grónsko Land Grønland Land GRÖNLAND Riik Gröönimaa Χώρα Γροινλανδία Country GREENLAND País Groenlandia Pays Groenland Zemlja Grenland Paese Groenlandia Valsts Grenlande Šalis Grenlandija Ország Grönland Pajjiż Greenland Land Groenland Kraj Grenlandia País Gronelândia Țara Groenlanda Krajina Grónsko Država Grenlandija Maa Grönlanti Land Grönland
 HCTFR
@@ -3342,8 +3335,6 @@ Asunto CP Comisión EDF sentencia junio apartado
 Malta presentó observaciones Decisión carta marzo
 Comisión formuló preguntas carta marzo Malta respondió abril
 nd
-
-
 respecta rentabilidad distintas rutas Malta presentado margen bruto conjunto rutas ejercicio financiero verano
 margen bruto calcula ingresos costes directos variables explotación costes directos fijos explotación
 cambios red rutas ejercicio financiero consisten reducción capacidad AKO capacidad
@@ -3494,7 +3485,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -3508,7 +3498,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -3522,7 +3511,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri
@@ -4456,7 +4444,6 @@ DO
 DO
 ANEXO
 referencias zonas pesca entenderán hechas zonas CIEM especifique contrario
-
 Definición especies grupos especies
 lista aparece presente anexo poblaciones peces indican siguiendo orden alfabético nombres científicos especies
 obstante tiburones aguas profundas figuran comienzo dicha lista
@@ -4488,7 +4475,6 @@ Cañabota gris
 Cerdo marino
 Alital
 Tiburón boreal
-
 Posibilidades pesca anuales aplicables buques UE zonas TAC especies zonas toneladas peso vivo
 Especie Tiburones aguas profundas
 Zona Aguas UE aguas internacionales zonas VI VII VIII IX DWS
@@ -4507,7 +4493,6 @@ Especie Sable negro
 Zona Aguas UE aguas internacionales zonas II III IV BSF
 Zona Aguas UE aguas internacionales zonas VI VII XII BSF
 Letonia
-
 Zona Aguas UE aguas internacionales zonas VIII IX BSF
 Zona Aguas UE aguas internacionales Copace
 Especie Alfonsino
@@ -4518,20 +4503,16 @@ Dinamarca
 Zona Aguas UE aguas internacionales zona III RNG
 Suecia
 Zona Aguas UE aguas internacionales zonas Vb VI VII RNGB
-
 Zona Aguas UE aguas internacionales zonas VIII IX XII XIV RNGX
 Especie Reloj anaranjado
 Zona Aguas UE aguas internacionales zona VI ORY
 Zona Aguas UE aguas internacionales zona VII ORY
-
 Zona Aguas UE aguas internacionales zonas II III IV VIII IX XII XIV ORYCXC
 Especie Maruca azul
 Zona Aguas UE aguas internacionales zonas II IV BLI
-
 Zona Aguas UE aguas internacionales zona III BLI
 Especie Besugo
 Zona Aguas UE aguas internacionales zonas VI VII VIII SBR
-
 Zona Aguas UE aguas internacionales zona IX SBR
 Zona Aguas UE aguas internacionales zona SBR
 Especie Brótola

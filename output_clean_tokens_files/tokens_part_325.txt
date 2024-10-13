@@ -1,5 +1,4 @@
 Prestación servicios comunidad
-
 Servicios relacionados prisiones servicios seguridad pública servicios salvamento medida estén excluidos virtud artículo letra
 Servicios investigación seguridad Servicios seguridad Servicios vigilancia sistemas alarma Servicios vigilancia Servicios relacionados sistema localización Servicios búsqueda prófugos Servicios patrullas Servicios expedición distintivos identificación Servicios investigación Servicios agencia detectives Servicios grafología Servicios análisis residuos
 Servicios investigación seguridad
@@ -13,13 +12,11 @@ miembros libres organizar prestación servicios sociales obligatorios servicios 
 ANEXO XVIII
 INFORMACIÓN FIGURAR ANUNCIOS CONTRATOS SERVICIOS SOCIALES SERVICIOS ESPECÍFICOS
 refiere artículo
-
 Anuncio licitación
 Descripción servicios categorías servicios proceda obras suministros conexos deban contratarse incluida indicación cantidades valores trate códigos CPV
 Código NUTS emplazamiento principal ejecución prestaciones
 Principales condiciones cumplir operadores económicos vistas participación caso dirección electrónica obtenerse información detallada
 Plazos ponerse contacto entidad adjudicadora vistas participar
-
 Anuncio periódico indicativo
 Nombre número identificación esté previsto legislación nacional dirección incluido código NUTS dirección electrónica internet entidad adjudicadora
 descripción contrato trate incluidos códigos CPV
@@ -31,9 +28,7 @@ proceda indicación contrato restringido talleres protegidos prevé ejecutado ú
 proceda indicación arreglo disposiciones legales reglamentarias administrativas reserva prestación servicio determinada profesión
 descripción características principales procedimiento adjudicación aplicar
 Mención operadores económicos interesados deberán comunicar entidad adjudicadora interés contrato contratos fecha límite recepción manifestaciones interés dirección deberán enviarse manifestaciones interés
-
 Anuncio existencia sistema clasificación
-
 Anuncio adjudicación contrato
 resumen características cantidad servicios prestados proceda obras suministros conexos
 Referencia publicación anuncio Diario Oficial Unión Europea
@@ -586,7 +581,6 @@ conocen criterios contemplados artículo utilizarán adjudicación contrato
 oferta económicamente ventajosa determina precio exclusivamente mencionarán asimismo criterios determinen oferta económicamente ventajosa ponderación caso orden importancia figuren pliego condiciones vayan aparecer invitación licitar negociar
 Características cantidad productos solicitados códigos CPV Indicación opciones contrataciones complementarias plazo estimado previsto ejercer dichas opciones número prórrogas posibles
 Revestimiento suelos paredes
-
 consiguiente conviene aclarar entidades adjudicadoras determinar distintas partes separables Dicha aclaración basarse correspondiente jurisprudencia Tribunal Justicia Unión Europea
 exclusión ampliarse allá estrictamente necesario preciso establecer explícitamente excluirse servicios transporte pacientes ambulancia
 obstante preciso aclarar dichas modificaciones deberían sustanciales permitir admisión candidatos distintos inicialmente seleccionados atraiga participantes adicionales procedimiento licitación trataría particular caso modificaciones convierten contrato marco materialmente carácter inicialmente establecido pliegos contratación
@@ -1370,7 +1364,6 @@ Camisetas interiores combinaciones enaguas bragas bombachas calzones llegan cint
 Sostenes corpiños fajas corsés tirantes tiradores ligas artículos similares partes punto
 Camisas hombres niños
 Camisas blusas blusas camiseras mujeres niñas
-
 Bañadores fibras sintéticas hombres niños
 Bañadores materias textiles hombres niños
 Bañadores fibras sintéticas mujeres niñas
@@ -2352,9 +2345,7 @@ Leche desnatada polvo
 Corrección errores Decisión PESC Consejo enero modifica Decisión PESC Consejo renuevan medidas restrictivas Costa Marfil
 Diario Oficial Unión Europea enero
 página considerando
-
 enero Consejo adoptó Decisión PESC
-
 enero Consejo adoptó Decisión PESC
 Reglamento UE Comisión
 diciembre
@@ -2547,20 +2538,12 @@ recoge pasteuriza concentrado evaporador vacío pasando grados Brix grados Brix 
 Composición puré concentrado frutos Morinda citrifolia
 Humedad
 Proteínas
-
 Grasas
 Cenizas
-
 Hidratos carbono totales
-
-
 Fructosa
-
-
 Glucosa
 Fibra alimentaria
-
-
 dimetilmorindol
 μg mL
 μg mL
@@ -2585,7 +2568,6 @@ Galletas
 Bollos pasteles pastas
 Cereales desayuno integrales
 Mermeladas jaleas conservas frutas
-
 Pastas dulces untar rellenos productos glasear
 Salsas condimentadas líquidos gobierno encurtidos salsas jugos carne condimentos
 Complementos alimenticios conforme Directiva CE Parlamento Europeo Consejo
@@ -4284,7 +4266,6 @@ DO
 DO
 ANEXO
 FUNCIÓN DISEÑO RED EUROPEA RUTAS DRER
-
 Objetivo
 función DRER
 ejecución Plan mejora red europea rutas tránsito aéreo desarrolle condiciones seguridad eficiencia teniendo debidamente impacto ambiental
@@ -4293,7 +4274,6 @@ garantía interconectividad interoperabilidad regionales red europea rutas regi�
 elaboración Plan mejora red europea rutas basará proceso toma decisiones colaboración
 Plan mejora red europea rutas constituirá Plan operaciones red referida específicamente DRER presentará disposiciones aplicación relativa DRER Plan estratégico red
 miembros seguirán responsables desarrollo detallado aprobación establecimiento estructuras espacio aéreo responsables
-
 Principios planificación
 perjuicio soberanía miembros espacio aéreo necesidades respecta orden público seguridad pública asuntos defensa Gestor Red miembros terceros países usuarios espacio aéreo bloques funcionales espacio aéreo proveedores servicios navegación aérea marco bloques funcionales espacio aéreo título individual elaborarán Plan mejora red europea rutas proceso toma decisiones colaboración aplicando tiempo principios diseño espacio aéreo establecidos presente anexo
 Plan mejora red europea rutas deberá cumplir objetivos rendimiento fijados Gestor Red sistema evaluación rendimiento
@@ -4330,7 +4310,6 @@ modificaciones afecten datos publicados publicaciones información aeronáutica
 modificaciones afecten cartas relación diseño utilización espacio aéreo
 Gestor Red miembros elaborarán contexto presente anexo proceso toma decisiones colaboración propuestas comunes modificación documentos pertinentes OACI
 particular caso documentos OACI relativos rutas ATS alta mar miembros aplicarán procedimientos coordinación OACI aplicables
-
 Principios diseño espacio aéreo
 elaboración Plan mejora red europea rutas Gestor Red miembros terceros países bloques funcionales espacio aéreo proveedores servicios navegación aérea marco bloques funcionales espacio aéreo título individual deberán respetar proceso toma decisiones colaboración siguientes principios diseño espacio aéreo
 establecimiento configuración estructuras espacio aéreo basarán requisitos operativos independencia fronteras nacionales bloques funcionales espacio aéreo fronteras regiones información vuelo FIR estarán vinculados necesariamente nivel división espacio aéreo superior espacio aéreo inferior
@@ -4348,7 +4327,6 @@ establecerán acuerdos materia prestación servicios casos motivos operativos de
 Gestor Red miembros bloques funcionales espacio aéreo proveedores servicios navegación aérea marco bloques funcionales espacio aéreo título individual velarán proceso toma decisiones colaboración apliquen siguientes principios relación utilización espacio aéreo gestión capacidad
 estructuras espacio aéreo planificarán facilitar gestión utilización flexibles oportunas espacio aéreo respecta opciones encaminamiento flujos tráfico sistemas configuración sector configuración estructuras espacio aéreo
 estructuras espacio aéreo deberán cabida establecimiento opciones ruta adicionales garantizando tiempo compatibilidad consideraciones capacidad limitaciones diseño sector
-
 Seguimiento permanente resultados rendimiento red
 garantizar mejoras regulares rendimiento Gestor Red estrecha cooperación bloques funcionales espacio aéreo partes interesadas operativas procederá periódicamente análisis eficacia estructuras espacio aéreo establecidas
 análisis referirá cosas

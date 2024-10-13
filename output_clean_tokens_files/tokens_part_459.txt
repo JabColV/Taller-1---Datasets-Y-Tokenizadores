@@ -3984,7 +3984,6 @@ Submódulo riesgo renta variable basado duración
 miembros autorizar empresas seguros vida ofrezcan
 fondos pensiones empleo arreglo artículo Directiva CE
 prestaciones jubilación abonadas referencia fecha jubilación expectativa alcanzar fecha primas abonadas prestaciones deducción fiscal autorizada tomadores seguros arreglo legislación nacional miembro autorizó empresa
-
 activos pasivos correspondientes actividades estén delimitados gestionados organizados separado actividades empresas seguros posibilidad transferencia
 actividades empresa contempladas letras aplica enfoque recogido presente apartado efectúan únicamente miembro empresa autorizada
 duración media pasivos correspondientes actividad mantiene empresa sobrepasan media años
@@ -4252,7 +4251,6 @@ Seguro aviación marítimo transporte anexo
 Responsabilidad civil general anexo
 Crédito caución anexo
 ramos anexo
-
 Directivas derogadas relación sucesivas modificaciones
 conforme artículo
 Directiva CEE Consejo
@@ -4347,7 +4345,6 @@ Directiva CE Parlamento Europeo Consejo
 DO
 Directiva CE Parlamento Europeo Consejo
 DO
-
 Relación plazos transposición Derecho interno
 Directiva
 Plazo transposición

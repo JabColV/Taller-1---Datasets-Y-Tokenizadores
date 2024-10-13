@@ -461,15 +461,12 @@ LISTA SUSTANCIAS AUTORIZADAS FABRICACIÓN PELÍCULAS CELULOSA REGENERADA
 porcentajes figuran partes presente anexo vienen expresados peso peso calculados relación cantidad película celulosa regenerada anhidra recubierta
 denominaciones técnicas usuales aparecen corchetes
 sustancias utilizadas deberán calidad técnica respecta criterios pureza
-
 Película celulosa regenerada recubierta
 Denominaciones
 Restricciones
 Celulosa regenerada
-
 Aditivos
 Humidificantes
-
 Bishidroxietil éter dietilenglicol
 películas destinadas recubiertas posteriormente utilizadas productos alimenticios húmedos contengan agua físicamente libre superficie
 cantidad bishidroxietil éter etanodiol presente productos alimenticios hayan contacto película tipo exceder mg kg producto alimenticio
@@ -483,7 +480,6 @@ Peso molecular inferior proporción propanodiol libre sustancia inferior
 Tetraetilenglicol
 Trietilenglicol
 aditivos
-
 clase
 cantidad sustancia grupo sustancias rúbrica pasar mg dm película recubierta
 Ácido acético sales NH Ca Mg Na
@@ -541,7 +537,6 @@ Cuarta clase
 cantidad sustancias pasar mg dm película recubierta
 Productos reacción aminas aceites alimenticios óxido polietileno
 Laurilsulfato monoetanolamina
-
 Película celulosa regenerada recubierta
 Véase
 Recubrimiento
@@ -619,7 +614,6 @@ Metiletilcetona
 Metilisobutilcetona
 Tolueno
 ANEXO III
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Comisión
@@ -628,7 +622,6 @@ Directiva CE Comisión
 DO
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -1425,12 +1418,9 @@ autoriza Presidente Consejo designe persona facultada efectuar notificación pre
 Bruselas diciembre
 Consejo
 Presidente
-
 Comunidad Europea Gobierno Canadá instituye marco cooperación materia enseñanza superior formación juventud
 COMUNIDAD EUROPEA
-
 GOBIERNO CANADÁ
-
 denominados conjuntamente sucesivo Partes
 HABIENDO OBSERVADO Declaración relaciones Comunidad Europea Canadá adoptada Comunidad Europea miembros Gobierno Canadá noviembre refiere explícitamente intensificación cooperación mutua diversos ámbitos afectan directamente bienestar presente futuro ciudadanos intercambios proyectos conjuntos campo enseñanza cultura incluidos intercambios universitarios jóvenes
 HABIENDO OBSERVADO Declaración política conjunta relaciones UE Canadá Plan actuación conjunta adoptados diciembre establece renovar vínculos basados culturas valores compartidos Partes fomentar contactos ciudadanos nivel especialmente jóvenes Plan actuación conjunta anexo Declaración exhorta Partes intensificar cooperación Comunidad Europea Gobierno Canadá establece programa cooperación materia enseñanza superior formación profesional ratificado
@@ -1581,7 +1571,6 @@ DO
 DO
 PROYECTO
 Decisión Comité Mixto EEE
-
 modifica anexo VI Seguridad Social Protocolo EEE
 COMITÉ MIXTO EEE
 Visto Espacio Económico Europeo redacción dada Protocolo adapta Espacio Económico Europeo particular artículos
@@ -1701,11 +1690,6 @@ Formato
 Ponderación
 Participación acontecimientos culturales
 Número asiste cine
-
-
-
-
-
 Falta
 Variable completada
 Número asiste actuaciones directo obras teatro conciertos ópera espectáculos ballet danza
@@ -1722,7 +1706,6 @@ Semanal diaria
 mes semanal
 mes
 año mes
-
 familiares
 Frecuencia encuentros amistades
 familiares
@@ -2516,7 +2499,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA cáscara
 Almendras
 Nueces Brasil
@@ -3896,7 +3878,6 @@ Rendimiento hectárea
 Variedades uva vinificación utilizadas
 Vínculo
 Nombre dirección autoridades control
-
 Modificación
 Modificación pliego condiciones conlleva modificación documento único
 Modificación pliego condiciones conlleva modificación documento único

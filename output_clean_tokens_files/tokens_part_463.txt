@@ -265,7 +265,6 @@ Directiva modificada Reglamento CE DO
 DO
 DO
 ANEXO
-
 Términos mencionados artículo apartado párrafo letra
 Código lengua
 Яйца от кокошки свободно отглеждане на открито
@@ -337,7 +336,6 @@ Häkkikanojen munia
 Ägg från utehöns
 Ägg från frigående höns inomhus
 Ägg från burhöns
-
 Términos mencionados artículo apartado párrafo cuarto
 Código lengua
 Уголемени клетки
@@ -1913,7 +1911,6 @@ FAROS HSB CIRCULACIÓN IZQUIERDA
 punto zona III
 punto zona IV
 punto zona
-
 zonas II III IV deberán existir variaciones laterales perjudiciales visibilidad
 Disposiciones relativas haz carretera
 faro HSB destinado emitir haz carretera haz cruce medición iluminación producida pantalla haz carretera efectuará reglaje faro HSB mediciones definidas anteriormente puntos faro HSB emite únicamente haz carretera regulará zona iluminación máxima esté centrada punto cruce HV líneas hh vv tipo faro HSB necesitará cumplir condiciones mencionadas punto
@@ -2094,11 +2091,9 @@ considerará cumplido punto vista mecánico geométrico requisitos diferencias s
 refiere rendimiento fotométrico conformidad faros fabricados serie pondrá duda comprobar rendimiento fotométrico faro elegido azar
 valores medidos desvía desfavorablemente exigido presente Reglamento
 valores zona III desviación desfavorable máxima
-
 lux equivalente
 lux equivalente
 Zona III
-
 haz cruce cumple valores exigidos presente Reglamento HV tolerancia lux relación orientación punto área delimitada pantalla medición círculo cm radio puntos tolerancia lux zona IV esté cm línea
 caso haz carretera HV situado isolux Emax observa tolerancia valores máximos mínimos valores fotométricos cualquiera puntos medición especificados punto presente Reglamento
 resultados ensayos descritos anteriormente cumplen requisitos reglar faro eje haz desvíe lateralmente derecha izquierda
@@ -2313,10 +2308,8 @@ procedimiento toma muestras figura presente anexo pondrá duda conformidad faros
 Muestra
 faro
 ciento
-
 ciento
 faros
-
 muestra
 Muestra
 reúnen condiciones punto referentes muestra
@@ -2338,14 +2331,12 @@ caso
 reúnen condiciones punto referentes muestra
 reúnen condiciones punto referentes muestra
 pondrá duda conformidad aplicará punto procedimiento toma muestras figura presente anexo desviaciones valores medidos faros
-
 reúnen condiciones punto referentes muestras
 DESPLAZAMIENTO VERTICAL LÍNEA CORTE
 verificar desplazamiento vertical línea corte influjo calor seguirá procedimiento
 faros muestra procedimiento toma muestras figura presente anexo sometido ensayo prevé punto anexo sometido consecutivas ciclo descrito punto anexo
 valor situado mrad someterá ensayo faro muestra media valores absolutos registrados muestras deberá superior mrad
 obstante muestra obtiene valor mrad faros muestra sometidos procedimiento valor Δr deberá superar mrad
-
 Reglamento Ejecución UE Consejo
 marzo
 aplica Reglamento CE imponen medidas restrictivas específicas dirigidas determinadas personas entidades habida situación Costa Marfil
@@ -3068,7 +3059,6 @@ Comisión estima ayuda estatal reintegrar empresa calcularse basándose indemniz
 ayuda reintegrar calcularse multiplicando indemnización porcentaje equivalente cociente importe global ayuda estatal reintegrar empresas pesqueras conjunto importe global indemnizaciones abonadas FPAP empresas pesqueras virtud seguro gasóleo
 importe reintegrar empresa pesquera calcularse aplicando fórmulas siguientes
 REmp Anticipos RFPAP
-
 REmp importe reintegrar empresa pesquera
 importe indemnización recibida empresa pesquera virtud seguro gasóleo
 Anticipos millones EUR
@@ -4277,7 +4267,6 @@ superficie plantada variedades uva pasificación
 superficie plantada destinada únicamente producción materiales multiplicación vegetativa viñas madre injertos
 superficie plantada vides injertadas destinadas injertadas
 superficie plantada abandonada
-
 Variedades uva vinificación superficies estimadas correspondientes proporción parcela vitícola información compatible comunicaciones contempladas artículo cuadro anexo XIII Reglamento CE
 Superficie plantada derecho plantación correspondiente agosto información compatible comunicaciones contempladas artículo cuadros anexo XIII Reglamento CE
 Superficie plantada resultante plantaciones ilegales realizadas septiembre información compatible comunicaciones contempladas artículo cuadros anexo XIII Reglamento CE
@@ -4293,7 +4282,6 @@ Declaración existencias información compatible declaraciones existencias conte
 EXPEDIENTE PRODUCCIÓN
 Identificación
 Identificación persona física jurídica agrupación deban presentar declaración producción contemplada artículo
-
 Superficie plantada vid incluida dossier explotación contempla artículo apartado letra presente Reglamento
 ANEXO II
 Declaración cosecha uva conformidad artículo
@@ -4342,10 +4330,8 @@ Nombre dirección proveedores referencia documento entrega
 documento acompañamiento
 Superficie viñedos producción originarios productos
 Productos obtenidos comienzo campaña productos distintos vino declarante fecha declaración
-
 Mostos
 Vinos
-
 bodegas cooperativas lista miembros entregan totalidad cosecha presenta separado miembros
 Uvas mostos uva mostos concentrados mostos concentrados rectificados mostos parcialmente fermentados vinos fermentación
 rúbrica declaran productos campaña distintos declarados columnas anteriores mostos concentrados mostos concentrados rectificados declarante momento declaración

@@ -1634,7 +1634,6 @@ hembras certificado ascendencia certificado inscripción libro genealógico cert
 Bovinos machos jóvenes destinados engorde peso inferior kg
 Asignado países suministradores
 Antigua República Yugoslava Macedonia
-
 Carne vacuno calidad superior fresca refrigerada congelada ajuste definición Canales cualesquiera cortes procedentes vacunos treinta meses criados cien alimentación equilibrada concentración energética contenga granos peso mínimo libras carne marcada choice prime normas United States Department of Agriculture USDA entrará automáticamente definición carne clasificada Canada Canada AA Canada AAA Canada Choice Canada Prime normas Agence Canadienne dinspection des aliments Gobierno Canadá corresponderá definición
 peso producto
 Asignada EEUU Canadá
@@ -1679,9 +1678,7 @@ Bosnia Hercegovina
 Croacia
 Antigua República Yugoslava Macedonia
 Groenlandia
-
 Músculos delgados enteros congelados
-
 Aves corral
 Canales pollo frescas refrigeradas congeladas
 Trozos pollo frescos refrigerados congelados
@@ -1689,15 +1686,12 @@ Trozos gallo gallina congelados deshuesados
 Trozos gallo gallina congelados
 Brasil
 Tailandia
-
 Carne pavo fresca refrigerada congelada
 Trozos pavo congelados
 Brasil
-
 Carne salada aves corral
 Brasil
 Tailandia
-
 Atunes género Thunnus pescados género Euthynnus
 pescados deberán destinarse industria conservera
 respete precio referencia
@@ -1739,7 +1733,6 @@ huevos aves corral
 equivalente
 Huevos aves cascarón
 Patatas enero mayo
-
 Pepinos noviembre mayo
 Derecho ad valorem reducido
 Véase número orden
@@ -1773,7 +1766,6 @@ Trigo calidad
 Trigo blando calidades calidad alta
 Unidos América
 Canadá
-
 Cebada cerveza
 Maíz
 maíces
@@ -1786,23 +1778,18 @@ Arroz descascarillado
 Arroz semimolido totalmente molido
 Unidos América
 Tailandia
-
 Tailandia
 Unidos América
 Pakistán
-
 Arroz partido destinado fabricación productos industrias alimentarias clasificados subpartida
 Tailandia
 Unidos América
-
 granos avena trabajados quebrantados
 Carne pavo preparada
 Brasil
-
 Carne cocida pollo
 Brasil
 Tailandia
-
 Conservas carne especie porcina doméstica
 Preparaciones conservas pescado entero trozos sardina bonito caballa especies Scomber scombrus Scomber japonicus pescados especie Orcynopsis unicolor
 Tailandia
@@ -1813,7 +1800,6 @@ Azúcar caña bruto destine refinado
 tipo aplicará azúcar bruto tasa rendimiento
 Véase nota complementaria capítulo
 Brasil
-
 Azúcar caña remolacha
 equivalente
 países ACP
@@ -1832,7 +1818,6 @@ Jugo uva incluido mosto
 productos importados utilizarse producción jugo uva productos distintos sector vitivinícola tales vinagre bebidas alcohólicas mermeladas salsas
 valor Brix inferior
 valor inferior kg peso neto
-
 valor Brix superior
 valor superior kg peso neto
 valor Brix superior inferior
@@ -2479,10 +2464,6 @@ extremidad incluyendo carpo eliminada cortes harán articulaciones
 LanguedocRoussillon LanguedocRosellón
 Kϋlkereskedelemstatisztikai Főosztály
 Statistika centralbyrån
-
-
-
-
 combinarse prefijos sufijos ejemplo fosfato clorhidrato precedidos prefijo multiplicador bi bis di hemi hepta hexa mono penta sesqui tetra tri tris etc ejemplo diacetato
 cetoxietil
 alilbromuro
@@ -3004,7 +2985,6 @@ DO
 DO
 ANEXO
 AVES CORRAL RÁTIDAS HUEVOS INCUBAR HUEVOS GÉRMENES PATÓGENOS ESPECÍFICOS ESPECIES
-
 Lista terceros países partes terceros países País
 Código territorio
 Descripción territorio
@@ -3034,7 +3014,6 @@ TN Túnez
 TR Turquía
 US Unidos
 ZA Sudáfrica
-
 Modelos certificados veterinarios
 Modelos
 BPP
@@ -3108,7 +3087,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Números CITES
 Referencia documental
@@ -3177,7 +3155,6 @@ permitir inspección visual aves
 facilitar limpieza desinfección
 limpiado desinfectado carga vehículos transportarse conformidad instrucciones autoridades competentes
 Notas
-
 Recuadro indíquese código región origen caso necesario definido columna código territorio anexo Decisión CE modificación
 Recuadro nombre dirección número registro sanitario establecimiento cría reproducción
 Recuadro indíquense números registro vagones camiones nombre buques conoce número vuelo aviones
@@ -3382,7 +3359,6 @@ contienen únicamente huevos incubar establecimiento especie categoría tipo
 llevan siguientes indicaciones
 número huevos
 contenedores vehículos transportaron cajas mencionadas punto II limpiado desinfectado carga instrucciones autoridad competente
-
 Recuadro nombre dirección número registro sanitario establecimiento cría
 caso transporte contenedores cajas indicarán recuadro número números registro precinto caso
 Recuadro categoría seleccione siguientes línea pura abuelos padres ponedoras huevos pava consumo Sistema número identificación márquese huevo
@@ -3496,7 +3472,6 @@ sometieron prueba microbiológica muestreo explotación origen negativo conformi
 proceden explotación sometida programa reconocido Comisión Europea equivalente programa nacional Finlandia Suecia proceda
 veterinario oficial abajo firmante certifica asimismo rátidas
 mantuvieron vigilancia oficial previos exportación estación cuarentena definido artículo Directiva CEE autorizada autoridad competente número autorización dirección instalación
-
 sometieron prueba aislamiento virus enfermedad Newcastle realizada laboratorio oficial llegada estación cuarentena hisopos cloaca muestras heces ave encontraron paramixovirus aviares tipo índice patogenia intracerebral ICPI superior
 dispuso resultados favorables aves envío salieran estación cuarentena exportación
 provienen manadas vigilado enfermedad Newcastle plan muestreo base estadística negativo meses precedentes exportación
@@ -3507,7 +3482,6 @@ Ratitae rátidas estrucioniformes casuariformes reiformes
 importación rátidas enviarse inmediatamente matadero destino conformidad artículo apartado letra Directiva CEE Consejo
 Aplicable animales procedentes regiones indemnes gripe aviar enfermedad Newcastle
 Autoridades competentes locales
-
 Apéndice relativo transporte aves corral mar
 Deberá cumplimentarse adjuntarse certificado veterinario transporte frontera Comunidad Europea comprenda trayecto transporte buque
 Declaración capitán buque
@@ -3519,7 +3493,6 @@ Fecha llegada
 Firma capitán
 Sello
 Nombre apellidos rango letras imprenta
-
 Métodos normalización materiales procedimientos pruebas veterinarias diagnóstico importación aves corral huevos incubar
 Enfermedad Newcastle
 métodos muestreo examen ajustarse descritos anexo Decisión CEE controles aplican aves corral detección enfermedad Newcastle expedición aplicación artículo Directiva CEE
@@ -3873,13 +3846,9 @@ Situación diciembre
 Clases magnitud año recogida
 Número empresas
 Recogida
-
-
 CUADRO
 Distribución centros recogida importancia recogida anual leche
 Número
-
-
 CUADRO
 Distribución empresas importancia volumen leche tratada
 Clases magnitud año volumen
@@ -3889,26 +3858,21 @@ Distribución empresas importancia producción anual determinados grupos product
 Grupos productos PRODUCTOS FRESCOS
 Clases magnitud año productos obtenidos
 Producción anual
-
 CUADRO
 Distribución empresas importancia producción anual determinados grupos productos lácteos
 Grupos productos LECHE CONSUMO
 CUADRO
 Distribución empresas importancia producción anual determinados grupos productos lácteos
 Grupos productos PRODUCTOS LÁCTEOS POLVO
-
 CUADRO
 Distribución empresas importancia producción anual determinados grupos productos lácteos
 Grupos productos MANTEQUILLA
-
 CUADRO
 Distribución empresas importancia producción anual determinados grupos productos lácteos
 Grupos productos QUESO
 Contempladas artículo párrafo punto Directiva CE
 Contemplados artículo párrafo punto Directiva CE
 Contempladas artículo párrafo punto Directiva CE
-
-
 Reglamento CE Comisión
 febrero
 fijan derechos importación sector cereales aplicables febrero
@@ -4019,7 +3983,6 @@ Cantidades anuales
 toneladas peso producto
 Brasil
 Tailandia
-
 Pavo
 ANEXO II
 APLICACIÓN REGLAMENTO CE
@@ -4183,7 +4146,6 @@ razones éticas estudios diseñarán cuidadosamente teniendo margen reducción r
 ejemplo incluyen grupos dosis momentos adicionales extracción sangre estudio evitarse necesidad estudio
 efectos información armonización publicará Diario Oficial Unión Europea lista métodos ensayo documentos orientativos pertinentes ejecución presente Reglamento
 lista actualizará regularmente
-
 SUSTANCIAS ACTIVAS QUÍMICAS
 ÍNDICE
 SECCIÓN
@@ -4946,7 +4908,6 @@ raíces tubérculos código
 hoja código
 cereales herbáceos código
 legumbres oleaginosas código
-
 categoría utilizará únicamente casos concretos
 Deberá presentarse estudio metabolismo relación grupo cultivos proponga
 extrapolar resultados estudios metabolismo sustancia activa grupos cultivos deberán realizarse estudios mínimo cultivos representativos diversos grupos cultivos categoría

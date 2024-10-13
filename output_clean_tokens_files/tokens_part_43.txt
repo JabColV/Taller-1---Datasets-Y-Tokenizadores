@@ -2533,7 +2533,6 @@ DO
 DO
 Decisión modificada lugar Decisión CE Comisión DO
 ANEXO
-
 LISTA TERCEROS PAÍSES PARTES TERCEROS PAÍSES certificados conformes Comunidad Europea Confederación Suiza comercio productos agrícolas DO
 establece certificado prohíben importaciones carne fresca especies indicadas línea correspondiente país
 Restricciones categoría
@@ -2563,7 +2562,6 @@ Cuiaba municipios San Antonio Leverger Nossa Senhora do Livramento Pocone Barão
 Cáceres municipio Cáceres
 Rondonopolis municipio Itiquiora
 Rio do Sul
-
 enero
 Santa Catarina
 Paraná São Paulo
@@ -2885,7 +2883,6 @@ DO
 Apéndice
 Informe inspección pista SAFA
 Autoridad Aeronáutica Nacional denominación
-
 Informe inspección pista
 Fuente
 Fecha
@@ -2893,7 +2890,6 @@ Lugar
 Hora local
 Operador
 Número COA
-
 Tipo operación
 Ruta
 vuelo
@@ -3759,7 +3755,6 @@ Albaricoques
 Melones Kiwano
 Calabazas Calabaza confitera
 Sandías
-
 LÚPULO desecado incluidos granulados lúpulo polvo concentrado
 Código
 Grupos tipos productos individuales aplican contenidos máximos residuos
@@ -4232,9 +4227,7 @@ Expresada azadiractina
 suma aflatoxinas deberá superar μg kg contenido azadiractina
 junio
 mayo
-
 autorizar usos insecticida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión azadiractina particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros prestarán especial atención
 exposición consumidores dieta vistas futuras revisiones límites máximos residuos

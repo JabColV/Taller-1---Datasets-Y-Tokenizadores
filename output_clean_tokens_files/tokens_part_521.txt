@@ -4,7 +4,6 @@ cuadro presenta ventaja obtenida ayudas puntuales consecutivas celebrado Segurid
 Cuadro
 Resumen necesidades financiación compensación coste explotación neto servicio público normas contables
 Fuente Informe financiero informes servicio público
-
 Costes inversión
 Aportaciones capital
 Diferencia costes inversión compensación
@@ -1118,7 +1117,6 @@ FI República Finlandia
 Reino Suecia
 UK Reino Unido Bretaña Irlanda Norte
 Figura encabezamiento miembro exime conformidad dispuesto artículo
-
 Directiva CEE
 II
 Directiva CEE
@@ -1126,7 +1124,6 @@ III
 Directiva CEE
 IV
 Directiva CE
-
 Directiva CE
 VI
 Directiva CE
@@ -1596,17 +1593,14 @@ DO
 DO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES CERDO ESPAÑA
-
 clasificación canales cerdo realizará aparato denominado FatOMeater FOM
 aparato equipado sonda milímetros diámetro contiene fotodiodo tipo Siemens SFH fotodetector tipo SFH distancia operativa milímetros
 ordenador traducirá resultados medición contenido estimado carne magra
 contenido carne magra canal calculará aplicando fórmula
-
 contenido estimado carne magra porcentaje
 espesor grasa cuarta costillas milímetros línea media canal milímetros
 espesor grasa cuarta costillas milímetros línea media canal milímetros
 fórmula válida canales peso comprendido kilogramos
-
 clasificación canales cerdo realizará aparato denominado Fully automatic ultrasonic carcasse grading Autofom
 aparato equipado transductores ultrasónicos MHz Krautkrämer SFK NP distancia operativa transductores mm
 datos ultrasónicos incluirán mediciones espesor grasa dorsal espesor muscular
@@ -1615,14 +1609,12 @@ contenido carne magra canal calculará puntos medición fórmula
 contenido estimado carne magra canal
 variables medidas Autofom
 descripciones puntos medición método estadístico figuran II protocolo español presentado Comisión arreglo dispuesto artículo apartado Reglamento CEE
-
 ULTRA FOM
 clasificación canales cerdo realizará aparato denominado UltraFOM
 aparato equipado sonda ultrasónica MHz Krautkrämer MB
 señal ultrasónica digitalizada almacenada procesada microprocesador tipo Intel
 Ultra FOM traducirá resultados medición contenido estimado carne magra
 espesor grasa cuarta costillas milímetros línea media canal milímetros
-
 clasificación canales cerdo realizará aparato denominado Automatic Vision System VCS
 aparato VCS sistema tratamiento imágenes determina automáticamente valor comercial medias canales cerdo
 utiliza línea proceso sacrificio consiste red cámaras filma automáticamente medias canales
@@ -2853,7 +2845,6 @@ Decisión modificada lugar Decisión CE Comisión DO
 ANEXO
 ANEXO II
 CARNE FRESCA
-
 LISTA TERCEROS PAÍSES PARTES TERCEROS PAÍSES establece certificado prohíben importaciones carne fresca especies indicadas línea correspondiente país
 Únicamente aplicable adherente convierta miembro Unión Europea
 País
@@ -2881,7 +2872,6 @@ Minas Gerais delegaciones regionales Oliveira Passos São Gonçalo Sapucai Setel
 Espírito Santo
 Goias
 Mato Grosso comprende unidad regional Cuiaba excepción municipios San Antonio Leverger Nossa Senhora do Livramento Pocone Barão Melgaço unidad regional Cáceres excepción municipio Cáceres unidad regional Lucas do Rio Verde unidad regional Rondonópolis excepción municipio Itiquiora unidad regional Barra do Garça unidad regional Barra do Burgres
-
 Rio do Sul
 Mato Grosso do Sul incluido municipio Sete Quedas
 Mato Grosso do Sul excepción municipios Sonora Aquidauana Bodoqueno Bonito Caracol Coxim Jardim Ladario Miranda Pedro Gomes Porto Murtinho Rio Negro Rio Verde Mato Grosso Corumbá
@@ -3085,7 +3075,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Blød hvede fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -3795,7 +3784,6 @@ Artículo bis
 Pagos nacionales determinados sectores Finlandia
 Previa autorización Comisión período Finlandia seguir concediendo ayudas nacionales concedió productores base artículo Acta adhesión
 importe ayuda renta decreciente período supere importe concedido año
-
 recurso posibilidad hayan utilizado plenamente regímenes ayuda política agrícola común sectores afectados
 Comisión adoptará autorización aplicar procedimiento refiere artículo apartados presente Reglamento
 apartado artículo insertan letras siguientes bis
@@ -4530,7 +4518,6 @@ ANEXO
 ANEXO III
 GRUPO
 Unidad administrativa
-
 Chipre
 Larnaca unidades administrativas
 ADNS Código Sistema notificación enfermedades animales Decisión CE

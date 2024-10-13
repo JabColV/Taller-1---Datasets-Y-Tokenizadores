@@ -185,7 +185,6 @@ Número autorización
 Establecimiento
 Ciudad Región
 Categoría
-
 MataderoSD Sala despieceAF Almacén frigoríficoV Carne vacunoO Carne ovino caprinoP Carne porcinoS Carne solípedosOE Observaciones especiales
 DO Directiva cuya modificación constituye Reglamento CE DO
 Reglamento CE Comisión
@@ -615,7 +614,6 @@ DO
 DO
 ANEXO
 PROGRAMA DESGLOSE PRESUPUESTARIO INDICATIVO
-
 Programa
 programa constará subprogramas
 Subprograma interdepartamental
@@ -624,7 +622,6 @@ Medida desarrollo métodos innovadores detección Xanthomonas axonopodis pvalii 
 Medida adaptación validación métodos detección organismos nocivos cítricos Candidatus Liberibacter asiaticus CL africanus CL americanus Citrus tristeza virus Citrus variegated chlorosis Citrus mosaic virus Citrus psorosis virus Citrus tatter leaf virus virus emparentados
 Subprograma departamento Martinica
 Medida Creación gestión vigilancia fitosanitaria red granjas agroecológicas
-
 Desglose presupuestario indicativo euros detallando resultados previstos
 Subprogramas
 Resultados prestación servicios trabajo investigación estudio
@@ -798,7 +795,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -3417,7 +3413,6 @@ Prueba inhibición hemaglutinación HI
 Prueba PCR proteína Creactiva medidas
 Especifíquense acciones realizadas
 Muestreo
-
 abajo firmante certifica datos indicados correctos solicitado Comunidad ayuda relación medidas
 Táchese proceda
 cifras expresarán moneda nacional excluido IVA Lugar fecha
@@ -3839,7 +3834,6 @@ Artículos peso inferior
 indicaciones peligro frases riesgo
 Partes homogéneas artículos complejos peso inferior
 Níquel tipo aceros inoxidables
-
 Componentes electrónicos equipos inodoros urinarios descarga cumplan dispuesto artículo Directiva UE Parlamento Europeo Consejo
 Evaluación verificación relación producto artículo pieza homogénea solicitante presentará declaración conformidad criterio documentación correspondiente declaraciones conformidad firmadas proveedores clasificación sustancias materiales clases peligro asociadas indicaciones peligro referencia cuadro conformidad Reglamento CE medida determinarse mínimo información cumpla requisitos enumerados anexo VII Reglamento CE
 declaración basará información resumida características pertinentes asociadas indicaciones peligro mencionadas cuadro nivel detalle especificado secciones anexo II Reglamento CE
@@ -4000,7 +3994,6 @@ diferencia EUR corresponde resultado matemático EUR representan gastos declarad
 importes intereses devengados deudas
 Decisión Comisión septiembre liquidaron cuentas Bulgaria Croacia
 sazón adoptar decisión referente cuentas Rumanía pendiente examen información suplementaria solicitada país
-
 Reglamento UE Comisión
 septiembre
 fijan directrices relativas compensación gestores redes transporte planteamiento normativo común tarificación transporte
@@ -4038,7 +4031,6 @@ Comisión
 Presidente
 DO
 ANEXO
-
 DIRECTRICES RELATIVAS ESTABLECIMIENTO MECANISMO COMPENSACIÓN GESTORES REDES TRANSPORTE
 Disposiciones generales
 mecanismo compensación gestores redes transporte Inter Transmission System Operator Compensation mechanism mecanismo ITC proporcionará compensación costes derivados acoger flujos eléctricos transfronterizos concreto proporcionar acceso transfronterizo red interconectada
@@ -4106,7 +4098,6 @@ tasa expresará euros megavatio hora
 participante mecanismo ITC cobrará tasa utilización red transporte importaciones exportaciones electricidad programadas red nacional transporte red transporte tercer país
 gestores redes transporte calcularán anticipado tasa utilización red transporte aplicable año
 tasa fijará contribución estimada megavatio hora gestores redes transporte país participante harían Fondo ITC arreglo flujos eléctricos transfronterizos previstos año cuestión
-
 DIRECTRICES RELATIVAS PLANTEAMIENTO NORMATIVO COMÚN TARIFICACIÓN TRANSPORTE
 tarifas transporte medias anuales pagadas productores miembro estarán límites indicados punto
 tarifas transporte medias anuales pagadas productores tarifas transporte anuales totales pagadas productores divididas energía medida productores inyecten anualmente red transporte miembro
@@ -4735,9 +4726,7 @@ código significa orígenes
 Corrección errores Directiva UE Parlamento Europeo Consejo septiembre modifica Directiva CE refiere disposiciones relativas tractores puestos mercado arreglo mecanismo flexibilidad
 Diario Oficial Unión Europea septiembre
 página artículo apartado
-
 miembros adoptarán publicarán tardar septiembre
-
 miembros adoptarán publicarán tardar septiembre
 Reglamento Ejecución UE Consejo
 febrero

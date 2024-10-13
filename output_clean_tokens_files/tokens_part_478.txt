@@ -290,7 +290,6 @@ DO
 DO
 ANEXO
 UNGULADOS
-
 Lista terceros países territorios partes terceros países territorios
 Código ISO nombre tercer país
 Código territorio
@@ -335,7 +334,6 @@ territorio reconocido oficialmente indemne tuberculosis efectos exportación Uni
 VIII
 territorio reconocido oficialmente indemne brucelosis efectos exportación Unión animales vivos certificados conformidad modelo certificado RUM
 territorio reconocido oficialmente indemne enfermedad Aujeszky efectos exportación Unión animales vivos certificados conformidad modelo certificado PORX
-
 Modelos certificados veterinarios
 Modelos
 BOVX
@@ -389,7 +387,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -473,7 +470,6 @@ vacunados rinotraqueítis infecciosa bovina
 Notas
 certificado corresponde ganado bovino vivo incluidas especies géneros Bubalus Bison cruces destinado cría producción
 importación animales deberán enviarse demora explotación destino permanecerán mínimo treinta trasladados explotación caso envío matadero
-
 Casilla indicar código territorio figura anexo Reglamento UE
 Casilla caso animales hayan permanecido centro concentración animales deberá cumplir condiciones establecidas autorización figuran anexo Reglamento UE
 Casilla indicar matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos transporte
@@ -563,7 +559,6 @@ exclusivamente ovinos caprinos domésticos cumplen citadas condiciones requisito
 carneros castrar permanecido interrupción sesenta explotación detectado curso meses caso epidimitis contagiosa Brucella ovis treinta anteriores sometidos prueba fijación complemento detectar enfermedad resultado inferior UI ml
 tembladera
 destinan miembro beneficie totalidad territorio dispuesto anexo VIII capítulo letras Reglamento CE animales cumplen garantías contempladas programas citados dichas letras garantías exigidas relación tembladera miembros destino
-
 destinan producción nacido permanecido constantemente explotaciones diagnosticado caso tembladera
 IIC permanecido juntos interrupción nacimiento años explotación explotaciones cumplido siguientes requisitos mínimo años
 animales sometidos controles veterinarios oficiales periódicos
@@ -740,7 +735,6 @@ Pruebas realizadas arreglo métodos descritos anexo capítulo Reglamento UE
 adjuntarse presente certificado original resultados pruebas realizadas
 NBLos procedimientos toma muestras realización pruebas agruparse medida respetando intervalos tiempo mínimos evitar manipule incomode excesivamente animales
 Sello
-
 Apéndice relativo transporte marítimo animales
 Deberá cumplimentarse adjuntarse certificado veterinario transporte frontera Unión comprenda parcialmente transporte barco
 Declaración patrón barco
@@ -776,7 +770,6 @@ tercer país exportador determinará procedimiento supervisión oficial centros 
 autoridad competente tercer país deberá inspeccionar periódicamente centros concentración animales autorizados verificar siguen cumpliendo criterios autorización establecidos puntos XI
 inspecciones detectaran incumplimiento normas deberá suspenderse autorización centro
 caso restituirse autorización autoridad competente tercer país considere centro vuelve ajustarse plenamente criterios autorización establecidos puntos XI
-
 Protocolos normalización materiales procedimientos análisis
 contemplados artículo
 intradermotuberculinización simple tuberculina bovina deberá efectuarse conformidad anexo Directiva CEE
@@ -1004,7 +997,6 @@ pruebas diagnóstico enfermedad vesicular porcina deberán efectuarse conformida
 pruebas diagnóstico peste porcina clásica deberán efectuarse conformidad Decisión CE realización pruebas peste porcina clásica deberá ajustarse directrices establecidas capítulo correspondiente Manual Pruebas Diagnóstico Vacunas Animales Terrestres OIE
 evaluación sensibilidad especificidad prueba serológica peste porcina clásica deberá llevarse cabo laboratorio nacional cuente sistema garantía calidad
 demostrarse pruebas empleadas permiten reconocer serie sueros referencia marcada moderadamente positivos detectar anticuerpo fase inicial infección convalecencia
-
 Condiciones zoosanitarias importación cuarentena animales importados San Pedro Miquelón plazo inferior meses previos introducción Unión
 contempladas artículo
 Especies animales cubiertas
@@ -1165,7 +1157,6 @@ Espíritu Santo
 Goias
 Mato Grosso
 Rio do Sul Mato Grosso do Sul zona designada alta vigilancia km fronteras exteriores municipios Porto Mutinho Caracol Bela Vista Antônio João Ponta Porã Aral Moreira Coronel Sapucaia Paranhos Sete Quedas Japorã Mundo Novo zona designada alta vigilancia municipios Corumbá Ladário
-
 diciembre
 Santa Catarina
 Paraná São Paulo
@@ -1214,7 +1205,6 @@ BOV
 modelo certificado veterinario carne fresca incluida carne picada bovino doméstico comprendidas asimismo especies géneros Bison Bubalus cruces
 OVI
 modelo certificado veterinario carne fresca incluida carne picada ovino Ovis aries caprino Capra hircus doméstico
-
 modelo certificado veterinario carne fresca incluida carne picada porcino doméstico scrofa
 EQU
 modelo certificado veterinario carne fresca excepción carne picada solípedo doméstico Equus caballus Equus asinus cruces
@@ -1313,7 +1303,6 @@ Declaración bienestar animales
 veterinario oficial abajo firmante certifica carne fresca descrita procede animales tratados matadero sacrificio conformidad disposiciones pertinentes legislación Unión
 certificado corresponde carne fresca incluida carne picada bovino doméstico comprendidas asimismo especies géneros Bison Bubalus cruces
 carne fresca entienden partes animales aptas consumo humano frescas refrigeradas congeladas
-
 Casilla indicar código territorio figura anexo II Reglamento UE
 Casilla lugar origen nombre dirección establecimiento expedición
 Casilla indicar código SA correspondiente
@@ -1579,7 +1568,6 @@ Descripción país territorio
 Hawai
 Cuadros animales modelos certificado veterinario correspondientes
 Cuadro
-
 modelo certificado veterinario partidas abejas reina abejorros reina Apis mellifera Bombus spp
 BEE
 modelo certificado veterinario partidas colonias abejorros Bombus spp
@@ -1634,18 +1622,15 @@ OVIX OVIY BOVX BOVY RUM OVIX OVIY CAM
 animales
 abajo firmante capitán buque nombre declara animales referencia certificado veterinario adjunto permanecido bordo buque viaje país exportador Unión buque escalas lugar país exportador ruta Unión puertos escala ruta
 viaje animales contacto animales bordo tuvieran calificación sanitaria inferior
-
 Puerto arribada
 Fecha arribada
 Firma capitán
 Nombre apellidos letras mayúsculas cargo
-
 Apéndice relativo transporte aéreo animales
 Deberá cumplimentarse adjuntarse certificado veterinario transporte frontera Unión comprenda parcialmente transporte aéreo
 Declaración comandante avión
 abajo firmante comandante avión nombre declara cajón jaula encuentran animales referencia certificado veterinario adjunto zona adyacente fumigados insecticida salida vuelo
 Aeropuerto salida
-
 límites superiores límites inferiores control AM antígeno AM sueros análisis situarse valores DO
 Deberá rechazarse placa cumpla criterios citados
 suero análisis negativo forma línea específica antígeno desvía línea suero control
@@ -2885,7 +2870,6 @@ ANEXO
 Código NC
 Designación mercancía
 Mucílagos espesativos algarroba semilla semillas guar modificados
-
 Jarabe untar jarabes transformar Rinse appelstroop
 Levaduras muertas
 Alcohol etílico desnaturalizar grado alcohólico volumétrico superior vol bioetanol octubre
@@ -3704,7 +3688,6 @@ DO
 DO
 ANEXO
 Información transmitirse Comisión virtud artículo apartado
-
 medidas específicas ayuda correspondientes actividades agrícolas específicas reporten mayores beneficios agroambientales información incluirá
 título medida disposición pertinente artículo apartado Reglamento CE
 descripción medida especifiquen mínimo
@@ -3722,7 +3705,6 @@ tipos específicos actividades agrarias importantes protección mejora ambiente 
 normas exigentes bienestar animal refiere artículo apartado letra inciso iv Reglamento CE
 zonas económicamente vulnerables sensibles punto vista medioambiental tipos agricultura económicamente vulnerables refiere artículo apartado letra Reglamento CE niveles actuales producción contemplados artículo apartado Reglamento
 programas reestructuración desarrollo refiere artículo apartado letra Reglamento CE
-
 caso medidas específicas ayuda actividades agrícolas específicas reporten mayores beneficios agroambientales información incluirá
 título medida
 zona geográfica abarcada
@@ -4000,9 +3982,7 @@ Corrección errores Reglamento CE Parlamento Europeo Consejo abril relativo higi
 Diario Oficial Unión Europea abril
 Versión corregida Diario Oficial Unión Europea junio
 lugar firma queda corregido
-
 Estrasburgo abril
-
 Bruselas abril
 Corrección errores Reglamento CE Parlamento Europeo Consejo abril establecen normas específicas higiene alimentos origen animal
 Corrección errores Reglamento CE Parlamento Europeo Consejo abril establecen normas específicas organización controles oficiales productos origen animal destinados consumo humano

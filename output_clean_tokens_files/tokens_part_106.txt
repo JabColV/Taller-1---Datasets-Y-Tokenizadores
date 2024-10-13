@@ -262,7 +262,6 @@ masa orden marcha vehículo cargas eje correspondientes
 masa efectiva vehículo cargas eje correspondientes
 totalidad datos información necesarios evaluar criterios caso grupo tipos vehículo
 valor energía referencia ER resultado multiplicar masa vehículo constante gravedad altura centro gravedad vehículo posición equilibrio inestable inicio ensayo vuelco véase figura
-
 Mk masa orden marcha tipo vehículo equipado dispositivos retención
 Mt masa efectiva vehículo equipado dispositivos retención
 Mk Mm Mm masa ocupantes asientos equipados dispositivos retención véase apartado
@@ -1769,7 +1768,6 @@ Fenileno bifenileno naftaleno sustituido metilo butilo terciario fenilo
 Ácido tereftálico
 Ácido hidroxi naftóico
 Ácido hidroxibenzoico
-
 Cetonas poliarileno
 Sulfuros poliarileno grupo arileno constituido bifenileno trifenileno combinaciones
 Polibifenilenetersulfona temperatura transición vítrea Tg superior °C
@@ -2645,7 +2643,6 @@ Nota subartículo Bf somete control trajes diseñados usarse aparato respiració
 Cámaras aisladores seguridad biológica Clase III proporcionen niveles protección equivalente
 Nota subartículo Bf aisladores incluyen aisladores flexibles cajas secas cámaras anaeróbicas cajas guante campanas flujo laminar cerradas flujo vertical
 Cámaras diseñadas ensayos ataque aerosoles microorganismos virus toxinas tengan capacidad
-
 Equipo lógico software especificado diseñado especialmente modificado desarrollo producción utilización equipos incluidos artículos
 Equipo lógico software destinado dispositivos electrónicos incluido contenido dispositivo sistema electrónico permita dispositivos sistemas funcionar unidad control numérico capaz coordinar simultáneamente ejes control contorneado
 Nota artículo somete control equipo lógico software diseñado especialmente modificado funcionamiento máquinas herramienta especificadas Categoría
@@ -3114,7 +3111,6 @@ Intensidad nominal corriente pico ánodo superior
 Tiempo conexión inferior μs
 Generadores impulsos corriente elevada indica
 NBVéase subartículo Aa conjuntos ignición detonador explosivo
-
 Generadores modulares impulsos eléctricos impulsadores tengan características siguientes
 Diseñados portátil móvil condiciones severas ruggedized
 Encerrados receptáculo estanco polvo
@@ -4767,10 +4763,8 @@ ANEXO II
 AUTORIZACIÓN GENERAL EXPORTACIÓN COMUNITARIA EU
 mencionada artículo Reglamento CE
 Autoridad expedición Comunidad Europea
-
 presente autorización exportación abarca siguientes artículos
 productos doble especificados epígrafes anexo presente Reglamento enumerados mencionan continuación
-
 productos especificados anexo IV
 Uranio natural uranio empobrecido torio forma metal aleación compuesto concentrado químico material contenga productos citados
 Materiales fisibles especiales distintos especificados anexo IV
@@ -4784,7 +4778,6 @@ Patógenos vegetales
 Tecnología integración datos control vuelo guiado propulsión sistema gestión vuelo optimización trayectoria sistema cohetes
 Sistemas propulsión cohetes híbridos capacidad impulsión superior MNs
 Mecanismos etapas mecanismos separación interetapas puedan utilizarse misiles
-
 presente autorización exportación válida territorio comunitario exportaciones siguientes destinos
 Canadá
 Japón
@@ -4823,7 +4816,6 @@ Código artículo
 Lista control
 Divisa valor
 Cantidad artículos
-
 Fecha contrato
 Régimen exportación aduanera
 informaciones requiera legislación nacional especifíquese formulario
@@ -4862,7 +4854,6 @@ Lista mencionada Artículo apartado Reglamento CE
 artículos recogen descripción completa producto notas conexas anexo
 anexo figura descripción completa productos
 mención artículo anexo afecta aplicación disposiciones refieran productos consumo anexo
-
 posibilidad Autorización Nacional General Comercio intracomunitario
 Productos tecnología sigilo
 Materiales diseñados especialmente absorber ondas electromagnéticas polímeros intrínsecamente conductores

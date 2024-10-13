@@ -1,11 +1,9 @@
 Horario flexible capitalización tiempo trabajo
 Número horas trabajo fijas flexibilidad jornada
 Establece horario trabajo ausencia límites formales
-
 Posibilidad cambiar hora entrada salida trabajo razones familiares hora
 VARHOURSen blanco
 general
-
 Imposible
 Posibilidad organizar horario trabajo disponer libres completos razones familiares utilizar vacaciones
 Horario trabajo reducido cuidar hijo pequeño hogar mes excluido permiso maternidad
@@ -247,7 +245,6 @@ Comoras
 flota
 República Islámica Pakistán
 permitir ejercicio derechos tráfico compañías aéreas enumeradas anexo utilizan aeronaves arrendadas tripulación compañía aérea esté sujeta prohibición explotación condición cumplan normas seguridad pertinentes
-
 permite Hewa Bora Airways utilizar aeronaves específicamente mencionadas actuales operaciones interior Comunidad Europoea
 Ruanda
 Sierra Leona
@@ -885,7 +882,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA cáscara
 Almendras
 Nueces Brasil
@@ -1460,7 +1456,6 @@ Peras Pera oriental
 Membrillos
 Nísperos
 Nísperos Japón
-
 límite máximo residuos aplicable rábanos rusticanos Armoracia rusticana grupo especias código establecido rábanos rusticanos Armoracia rusticana categoría hortalizas grupo raíces tubérculos código teniendo cambios niveles debidos transformación secado conformidad artículo apartado Reglamento CE
 Rábanos rusticanos
 Clorprofam
@@ -1773,7 +1768,6 @@ añade columna relativa fludioxonil
 Fludioxonil
 Fludioxonil código suma fludioxonil metabolitos oxidados metabolito ácido difluorobenzodioxolcarboxílico
 Autoridad Europea Seguridad Alimentaria disponible determinada información estudio nutrición ganado
-
 Grupos ejemplos productos individuales aplican límites máximos residuos
 suprime columna fenvalerato esfenvalerato suma isómeros RS SR
 anexo III queda modificado
@@ -1922,7 +1916,6 @@ CONSEJO PAZ DESARROLLO SPDC
 Nombre posibles alias
 Información identificativa cargo título fecha lugar nacimiento número pasaporte documento identidad cónyuge hijo hija
 Sexo
-
 Esposa General Jefe Than Shwe
 Hija General Jefe Than Shwe
 Esposo Thandar Shwe Subdirector Sección Exportaciones Ministerio Comercio
@@ -2023,7 +2016,6 @@ Esposa General Brigada Hla Myint
 General Brigada Wai Lin
 Triángulo
 General Brigada Win Myint
-
 General brigada Zaw Min
 Sureste
 Esposa Coronel Zaw Min
@@ -2141,7 +2133,6 @@ Hijo General División Soe Naing
 General División Khin Maung Mint
 Energía Eléctrica ministerio
 Esposa General División Khin Maung Mint
-
 Cargo nombrado ministro relaciones encargado relaciones Aung San Suu Kyi
 Esposa Aung Kyi
 SUBSECRETARIOS
@@ -2502,7 +2493,6 @@ DR KHIN SHWE PRESIDENTE
 CORONEL YE HTUT GENERAL BRIGADA KYAW WIN DIRECTOR
 YIN SEIN DIRECTOR GENERAL
 CORONEL KHIN MAUNG SOE
-
 Myangonmyint co empresa propiedad USDA
 nd St Pazundaung Tsp Yangon Tel
 General Jefe Than Shwe
@@ -2573,7 +2563,6 @@ Jc
 Jd
 Je
 Hija Htay Myint
-
 Director Gerente Kambawza Bank
 Esposo Ma Ngeh Kb sobrino Aung Ko Win Ja
 Myanmar Economic Corporation
@@ -2659,9 +2648,7 @@ Gul Agha necesaria transferencia dinero informaría Ahmed Shah receptor talibán
 Ahmed Shah proporcionaría fondos pedidos sistema hawala
 mediados Ahmed Shah llevado cabo movimientos fondos Pakistán Afganistán altos mandos talibanes traficantes droga
 actividades ayuda Ahmed Shah donado talibanes suma dinero importante conoce exactamente cantidad
-
 Lugar nacimiento
-
 número pasaporte paquistaní NC expedido octubre expira octubre
 identificación nacional
 posee explota agencia cambio Roshan
@@ -2861,9 +2848,7 @@ código significa orígenes
 Corrección errores Decisión CE Consejo junio relativa aplicación disposiciones acervo Schengen Sistema Información Schengen Confederación Suiza
 Diario Oficial Unión Europea junio
 página anexo nota pie página
-
 Manual modificado Decisión CE Comisión DO Decisión JAI DO
-
 Manual modificado Decisiones CE DO CE DO Comisión
 textos originales CEPE surten efectos jurídicos arreglo Derecho internacional público
 situación fecha entrada vigor presente Reglamento consultarse versión documento situación CEPE TRANS WP disponible
@@ -3579,9 +3564,7 @@ CIPAC
 ′bromo′tetrametoxi′dimetilbenzofenona
 febrero
 enero
-
 autorizarse usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión metrafenona particular apéndices II adoptado Comité permanente cadena alimentaria sanidad animal julio
 arreglo artículo apartado miembros informarán Comisión especificaciones material técnico fabricado comercialmente
 Cepa QST idéntica cepa AQ
@@ -3801,8 +3784,6 @@ Amortizaciones
 Valor contable
 pérdidas
 pérdidas realizadas previstas
-
-
 venta
 venta acciones IKB KfW comenzó enero terminó agosto decisión vender IKB Lone Star Funds VI Financial Holdings LP Dallas Unidos sucesivo Lone Star
 venta produjo procedimiento adjudicación abierta discriminatoria transparente
@@ -4237,8 +4218,6 @@ lugar IKB adquirió SIP millones EUR Comisión constata precio negociado KfW inf
 medidas cuestión declaradas compatibles mercado común arreglo artículo apartado letra Tratado CE
 liquidación afecta IKB Immobilien Management GmbH IKB Projektentwicklungs GmbH Co KG IKB Projektentwicklungsverwaltungsgesellschaft mbH
 modificada artículo Ley julio BGBl
-
-
 NIIF
 procede reconocer imputabilidad medida ayuda adoptada empresa pública deducirse conjunto indicios derivados circunstancias asunto contexto produjo medida
 llegar conclusión medida ayuda adoptada empresa pública imputable pertinentes caso indicios ejemplo integración empresa estructura Administración Pública naturaleza actividades desarrollarlas mercado compitiendo normalmente empresas privadas estatuto jurídico empresa regida Derecho público Derecho sociedades común intensidad tutela ejercen autoridades públicas gestión empresa indicio intervención autoridades públicas caso concreto trate improbable falta intervención adopción medida habida igualmente alcance contenido condiciones establezca

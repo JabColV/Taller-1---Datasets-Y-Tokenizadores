@@ -2,7 +2,6 @@ Citrus tristeza virus cepas europeas
 Grecia Francia Córcega Malta Portugal Madeira
 República Checa marzo Francia Alsacia ChampañaArdenas Lorena marzo Italia Basilicata marzo
 ANEXO II
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CE Comisión
@@ -26,7 +25,6 @@ Directiva CE
 DO
 Directiva CE
 DO
-
 Lista plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -586,18 +584,15 @@ Cadera abultada
 cara interna pierna extiende ampliamente sínfisis symphisis pelvis
 Lomo ancho grueso altura paletilla
 Paletilla abultada
-
 Cadera abultada
 cara interna pierna extiende sínfisis symphisis pelvis
 Lomo ancho grueso altura paletilla
 rumsteak abultado
 Paletilla abultada
-
 Cadera desarrollada
 cara interna pierna rumsteak ligeramente abultados
 Lomo grueso ancho altura paletilla
 Paletilla desarrollo
-
 Cadera desarrollo
 Lomo grosor
 Rumsteak rectilíneo
@@ -623,7 +618,6 @@ cadera totalmente cubierta capa espesa grasa forma venas grasa aprecian débilme
 cavidad torácica músculos intercostales infiltrados grasa
 ANEXO II
 AUTORIZACIÓN TÉCNICAS CLASIFICACIÓN AUTOMATIZADA CONTEMPLADA ARTÍCULO APARTADO
-
 Condiciones requisitos mínimos autorización
 miembro interesado organizará ensayo certificación jurado compuesto expertos autorizados materia clasificación canales vacuno pesado
 miembros jurado procederán miembro realice ensayo
@@ -656,7 +650,6 @@ autorizadas técnicas clasificación automatizada deberán obtener número máxi
 clasificación técnicas clasificación automatizada deberá comprendida límites siguientes
 Sesgo
 Pendiente línea regresión
-
 Información facilitar miembros relación organización ensayo certificación
 fechas celebrarse ensayo certificación
 descripción pormenorizada canales vacuno pesado clasificadas miembro interesado
@@ -667,7 +660,6 @@ descripción maquinaria clasificación automatizada funciones técnicas particul
 expertos autorizados designados miembro interesado participar ensayo certificación miembros jurado
 coordinador ensayo certificación elementos acreditan posee nivel satisfactorio conocimientos técnicos independencia
 nombre dirección organismo independiente designado miembro interesado analizar resultados ensayo certificación
-
 Información facilitar miembros relación resultados ensayo certificación
 copia fichas clasificación completadas firmadas miembros jurado coordinador ensayo certificación
 copia resultados clasificación obtenidos técnicas clasificación automatizada firmada coordinador ensayo certificación
@@ -1305,7 +1297,6 @@ pantalla anticolisión
 material tejido dimensiones color correas
 componentes rígidos hebillas sujeciones etc
 Asiento vehículo estructura forma íntegra estructura vehículo incluida tapicería ofrece plaza sentada adulto
-
 grupo asientos asiento corrido asientos separados montados fijados forma anclajes delanteros asientos estén alineados anclajes delanteros traseros asiento anclajes ofrece plazas sentadas adultos
 asiento corrido estructura completa tapicería ofrece mínimo plazas sentadas adultos
 asientos delanteros vehículo grupo asientos situados compartimento pasajeros tengan asiento
@@ -1931,7 +1922,6 @@ caso duda consulte fabricante vendedor
 sistemas retención niños categorías restringida semiuniversal información deberá claramente visible punto venta quitar embalaje
 sistema retención niños categoría restringida semiuniversal apropiado instalado asientos automóviles siguientes
 AUTOMÓVIL
-
 ATRÁS
 Lateral
 Central
@@ -2727,7 +2717,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -2818,7 +2807,6 @@ producidos
 IIC Productos pesca transformados origen establecimiento autorizado situado país
 IID Ovoproductos transformados origen país autorizado
 producidos huevos procedentes establecimiento cumple requisitos sección anexo III Reglamento CE momento expedirse presente certificado libre influenza aviar alta patogenicidad Reglamento CE
-
 torno radio kilómetros incluido procede territorio país vecino habido brote influenza aviar alta patogenicidad enfermedad Newcastle previos
 ovoproductos procesados
 clara líquida tratado
@@ -2834,7 +2822,6 @@ cocidos completamente
 mezclas huevos enteros mínimo tratado
 °C segundos
 Notas
-
 Casilla Introduzca código ISO país origen producto compuesto contiene producto cárnico estómagos vejigas intestinos tratados figura anexo II Decisión CE productos lácteos transformados anexo Reglamento UE Comisión productos pesca transformados anexos II Decisión CE Comisión ovoproductos transformados anexo Reglamento CE Comisión
 Casilla Nombre dirección número registro autorización caso establecimientos producción producto compuesto productos compuestos
 nombre país origen coincidir país origen indicado casilla
@@ -3823,9 +3810,6 @@ Códigos indicaciones peligro suplementarias
 corazón
 ANEXO II
 pulmones
-
-
-
 Hf causa atrofia testículos
 sistema nervioso
 avermectin Ba purity
@@ -3835,9 +3819,6 @@ circulación sanguínea
 ANEXO III
 Límites concentración
 ANEXO IV
-
-
-
 Directiva CE Consejo
 mayo
 relativa exenciones fiscales aplicables introducciones definitivas bienes personales particulares procedentes miembro
@@ -3958,7 +3939,6 @@ Véase anexo
 DO
 DO
 ANEXO
-
 Directiva derogada lista modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -3971,7 +3951,6 @@ DO
 Directiva CEE Consejo
 DO
 únicamente relativo artículo apartado guión
-
 Plazos transposición Derecho nacional
 Directiva
 Plazo transposición
@@ -4857,7 +4836,6 @@ Directiva CE Parlamento Europeo Consejo enero relativa protección consumidores 
 Directivas refieren puntos contienen disposiciones específicas acciones cesación
 citada Directiva deroga sustituye Directiva CE Parlamento Europeo Consejo abril relativa contratos crédito consumo DO efectos mayo
 ANEXO II
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CE Parlamento Europeo Consejo
@@ -4877,7 +4855,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 únicamente respecta artículo
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Fecha límite transposición

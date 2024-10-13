@@ -463,9 +463,7 @@ Impurezas
 tolueno máximo kg
 octubre
 septiembre
-
 autorizarse usos fungicida tratamiento semillas
-
 efectos aplicación principios uniformes mencionados artículo apartado Reglamento CE conclusiones informe revisión triazóxido particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal junio
 evaluación general miembros
 prestarán atención particular protección operadores trabajadores velarán condiciones incluyan proceda empleo equipo protección individual adecuado
@@ -2003,7 +2001,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -2674,10 +2671,8 @@ Tenencias directas indirectas instrumentos capital nivel ordinario entidad impor
 Tenencias directas indirectas sintéticas instrumentos capital nivel ordinario entes sector financiero entes tengan tenencia recíproca entidad destinada incrementar artificialmente fondos entidad importe negativo
 Tenencias directas indirectas sintéticas instrumentos capital nivel ordinario entes sector financiero entidad mantenga inversión significativa entes importe superior umbral neto posiciones cortas admisibles importe negativo
 Tenencias directas indirectas sintéticas instrumentos capital nivel ordinario entes sector financiero entidad mantenga inversión significativa entes importe superior umbral neto posiciones cortas admisibles importe negativo
-
 Importe exposición siguientes elementos recibir ponderación riesgo entidad opte deducción
 participaciones cualificadas sector financiero importe negativo
-
 posiciones titulización importe negativo
 operaciones incompletas importe negativo
 Activos impuestos diferidos deriven diferencias temporarias importe superior umbral neto pasivos impuestos conexos cumplan condiciones establecidas artículo apartado importe negativo
@@ -2715,7 +2710,6 @@ Capital nivel instrumentos provisiones
 Importe elementos refiere artículo apartado correspondientes cuentas primas emisión objeto exclusión gradual capital nivel
 Instrumentos fondos admisibles incluidos capital nivel consolidado incluidas participaciones minoritarias instrumentos capital nivel adicional incluidos filas emitidos filiales manos terceros
 Ajustes riesgo crédito
-
 Capital nivel ajustes reglamentarios
 Capital nivel ajustes reglamentarios
 Tenencias directas indirectas instrumentos capital nivel entidad importe negativo
@@ -2867,7 +2861,6 @@ Campo vacío UE
 Tenencias instrumentos capital nivel ordinario entes sector financiero entes tengan tenencia recíproca entidad destinada incrementar artificialmente fondos entidad importe negativo
 Tenencias directas indirectas instrumentos capital nivel ordinario entes sector financiero entidad mantenga inversión significativa entes importe superior umbral neto posiciones cortas admisibles importe negativo
 Tenencias directas indirectas sintéticas instrumentos capital nivel ordinario entes sector financiero entidad mantenga inversión significativa entes importe superior umbral neto posiciones cortas admisibles importe negativo
-
 Importe exposición siguientes elementos recibir ponderación riesgo entidad opte deducción
 activos impuestos diferidos deriven diferencias temporarias importe superior umbral neto pasivos impuestos conexos reúnan condiciones establecidas artículo apartado importe negativo
 Importe supere umbral importe negativo
@@ -2878,7 +2871,6 @@ filtro pérdidas realizadas
 filtro ganancias realizadas
 filtro ganancias realizadas
 Importe deducirse añadirse capital nivel ordinario refiere filtros deducciones exigidos anterioridad RRC
-
 ajustes reglamentarios capital nivel ordinario
 Tenencias directas indirectas instrumentos capital nivel adicional entidad importe negativo
 Tenencias instrumentos capital nivel adicional entes sector financiero entes tengan tenencia recíproca entidad destinada incrementar artificialmente fondos entidad importe negativo
@@ -3303,7 +3295,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante

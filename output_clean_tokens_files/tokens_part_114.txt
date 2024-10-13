@@ -934,9 +934,7 @@ procede
 semillas fenogreco polvo aditivos extracción semillas calidad equivalente alimentos destinados consumo humano
 noviembre
 octubre
-
 autorizar usos producir mecanismos autodefensa cultivos
-
 aplicación principios uniformes anexo VI conclusiones informe revisión FEN semillas fenogreco polvo apéndices II adoptó Comité permanente cadena alimentaria sanidad animal mayo
 evaluación global miembros deberán atender especialmente protección operarios trabajadores transeúntes
 caso condiciones autorización incluirán medidas reducción riesgo
@@ -1147,7 +1145,6 @@ código significa orígenes
 Corrección errores Posición Común PESC Consejo agosto modifica Posición Común PESC relativa adopción medidas restrictivas Irán
 Diario Oficial Unión Europea agosto
 página considerando
-
 adoptarse medidas necesarias asegurar conceda compensación Gobierno Irán persona entidad Irán personas entidades designadas persona actúe conducto beneficio personas entidades designadas
 casos inspección mencionada apartado realice cargas aeronaves buques propiedad Iran Air Cargo Islamic Republic of Iran Shipping Line estén operados miembros presentarán Consejo Seguridad Naciones Unidas plazo hábiles informe escrito inspección contenga particular explicación motivos inspección información fecha lugar circunstancias resultados detalles pertinentes
 adoptarse medidas necesarias asegurar conceda compensación Gobierno Irán persona entidad Irán personas entidades designadas persona entidad actúe conducto beneficio personas entidades página artículo punto artículo bis modificado apartado evitar apoyo financiero contribuya realización actividades nucleares estratégicas desarrollo vectores armas nucleares miembros evitarán asumir compromisos prestar apoyo financiero evitar apoyo financiero contribuya realización actividades nucleares estratégicas desarrollo vectores armas nucleares miembros mantendrán vigilantes asumir compromisos prestar apoyo financiero
@@ -1640,24 +1637,20 @@ DO
 DO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES CERDO ESLOVAQUIA
-
 clasificación canales cerdo llevará cabo método manual denominado TwoPoint Zwei Punkte ZP
 aplicar método utilizarse regleta cuyas cotas determinan función ecuación predicción
 método basa medición manual espesor músculo espesor tocino línea media canal
 contenido carne magra canal calculará fórmula
-
 contenido estimado carne magra canal términos porcentuales
 espesor músculo medido línea media canal distancia corta craneal músculo glúteo borde superior dorsal canal raquídeo milímetros
 espesor tocino incluida corteza medido línea media canal delgada recubre músculo glúteo milímetros
 fórmula válida canales peso comprendido kg
-
 clasificación canales cerdo llevará cabo aparato denominado FatOMeater FOM
 aparato irá equipado sonda diámetro milímetros fotodiodo tipo Siemens SFH fotodetector tipo Siemens SFH alcance operativo milímetros
 ordenador traducirá resultados medición contenido estimado carne magra
 contenido carne magra canal calculará aplicando fórmula
 espesor músculo medido costillas punto situado lateralmente mm línea media canal milímetros
 espesor tocino incluida corteza medido punto espesor músculo milímetros
-
 clasificación canales cerdo llevará cabo aparato denominado Ultrafom UFOM
 aparato irá equipado sonda ultrasónica MHz tecnología Krautkrämer MB
 señal ultrasónica digitalizará almacenará tratará microprocesador tipo INTEL
@@ -2162,8 +2155,6 @@ artículo añade párrafo
 Suiza participará plenamente Consejo administración derechos obligaciones miembros Unión Europea derecho voto
 artículo añade apartado
 Suiza participará contribución financiera prevista apartado letra arreglo fórmula
-
-
 presupuesto Agencia cubierta tasas ingresos mencionados apartado letras
 número asociados
 número miembros UE
@@ -2306,7 +2297,6 @@ Reglamento CE
 Reglamento Parlamento Europeo Consejo febrero establecen normas comunes compensación asistencia pasajeros aéreos caso denegación embarque cancelación retraso vuelos deroga Reglamento CEE
 Artículos
 Reglamento Parlamento Europeo Consejo julio derechos personas discapacidad movilidad reducida transporte aéreo
-
 Directiva Consejo octubre reestructura régimen comunitario imposición productos energéticos electricidad
 Anexos
 Protocolo privilegios inmunidades Comunidades Europeas
@@ -3540,7 +3530,6 @@ CC caza cría especies sensibles fiebre aftosa
 CS caza silvestre especies sensibles fiebre aftosa
 GRUPO
 Unidad administrativa
-
 Decisión Banco Central Europeo
 diciembre
 aprobación volumen emisión moneda metálica
@@ -3754,7 +3743,6 @@ Nombre científico
 Subespecie procede
 Información suplementaria
 Tetraploide
-
 Híbrido artificialmente fértil
 caso afirmativo código FAO nombre especie genitora
 Fuente
@@ -3781,8 +3769,6 @@ Cuarentena
 Liberaciones piloto
 Introducción translocación rutinaria
 Tipo riesgo
-
-
 Alto
 Informe síntesis evaluación global riesgo medioambiental líneas documento formato PDF lengua comunitaria líneas
 Autoridad expide autorización
@@ -3933,7 +3919,6 @@ DO
 DO
 DO
 ANEXO
-
 CUESTIONARIO APLICACIÓN DIRECTIVA CE RELATIVA PREVENCIÓN CONTROL INTEGRADOS CONTAMINACIÓN IPPC
 Observaciones generales
 refiere aspectos transposición Comisión tomará medidas necesarias Directiva plena debidamente incorporada ordenamientos jurídicos nacionales tramitará diligencia procedimientos infracción
@@ -4026,7 +4011,6 @@ Adjunte referencias estudios análisis
 Observaciones generales
 aspectos concretos relacionados aplicación susciten preocupación miembro
 caso afirmativo especifique
-
 MODELO RESPONDER PREGUNTA
 TIPO INSTALACIÓN
 INSTALACIONES
@@ -4918,7 +4902,6 @@ DO
 Decisión modificada lugar Decisión CE DO
 ANEXO
 ANEXO
-
 Zonas Alemania Francia contempladas artículos
 Alemania
 RenaniaPalatinado
@@ -4996,5 +4979,3 @@ vida útil asignada expresada horas
 Tiempo encendido
 Tiempo calentamiento lámpara
 Porcentaje fallos prematuros
-
-

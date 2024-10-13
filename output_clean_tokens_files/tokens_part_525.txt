@@ -1464,7 +1464,6 @@ GRECIA
 empleados
 FRANCIA
 empleados
-
 NACE Rev divisiones
 IRLANDA
 Nota arreglo dispuesto sección puntos anexo Reglamento CE Euratom importe volumen negocios número personas empleadas división NACE Rev secciones representa miembro Comunidad preciso recoger información destinada elaboración estadísticas relacionadas características
@@ -1482,8 +1481,6 @@ Estadísticas anuales empresas
 Título
 Estadísticas anuales empresas clasificadas
 Variables pendientes
-
-
 Estadísticas anuales empresas desglosadas geográficamente
 Valor añadido coste factores
 Clasificación geográfica volumen negocio
@@ -1497,7 +1494,6 @@ Número partícipes planes aportación definida
 Número partícipes planes mixtos
 Estadísticas anuales empresas fondos pensiones autónomos
 Número empresas fondos pensiones autónomos
-
 Estadísticas anuales empresas desglosadas geográficamente
 Pagos regulares pensiones
 Pagos pensiones alzado
@@ -1560,12 +1556,10 @@ inversiones empresa promotora
 Inversiones empresas grupo participaciones fondos pensiones
 CHIPRE
 LETONIA
-
 Variación neta provisiones técnicas reservas
 Número planes prestación definida
 HUNGRÍA
 PAÍSES BAJOS
-
 Número partícipes planes aportación definida
 POLONIA
 SUECIA
@@ -2132,7 +2126,6 @@ Véase particular documento IP
 agrupación económica estructura transparente capital social fundan miembros común actividades
 especialidades organizan carreras trotones obstáculos Ministro Agricultura autorización sociedad carreras sociedad matriz carreras caballos Cheval Français carreras trotones France Galop carreras obstáculos
 sociedades matrices desempeñan papel central organización carreras especialidad apuesta
-
 millones EUR millones EUR
 sociedades matrices carreras encargarían distribuir producto impuesto distintos beneficiarios sociedades carreras incluidas sociedades matrices Federación Nacional Carreras Francesas Laboratorio Carreras Hípicas Agrupación Técnica Hipódromos Parisinos Asociación Formación Acción Social Cuadras Carreras federaciones regionales
 referencia año motivos disponibilidad datos financieros necesarios cálculo tipo impuesto
@@ -3386,9 +3379,7 @@ mg kg
 Tolueno kg
 junio
 mayo
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión orizalina particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención
 seguridad operarios velarán condiciones incluyan aplicación medidas adecuadas reducción riesgo
@@ -4430,11 +4421,9 @@ ANEXO ter
 PRESUPUESTO PROGRAMAS APOYO ARTÍCULO quindecies APARTADO
 miles EUR
 Ejercicio presupuestario
-
 límites máximos nacionales Italia contemplados anexo VIII Reglamento CE correspondientes años reducirán millones EUR incluido importes presupuesto destinados Italia ejercicios presupuestarios quedan establecidos cuadro
 ANEXO quater
 DOTACIÓN PRESUPUESTARIA DESARROLLO RURAL REFIERE ARTÍCULO bis APARTADO
-
 ANEXO quinquies
 PRESUPUESTO RÉGIMEN ARRANQUE
 régimen arranque establecido artículo vicies apartado contará presupuesto
@@ -4996,5 +4985,4 @@ cuadro recogido modificará
 suprimirá línea correspondiente contingente arancelario número orden
 añadirán líneas siguientes
 Flores capullos cortados ramos adornos
-
 Exención

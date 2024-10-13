@@ -2234,7 +2234,6 @@ valor activos identificables BCN sobrepasa alcanza valor base pasivos diferencia
 Artículo
 Ajustes saldos internos Eurosistema
 efectos cálculo ingresos monetarios saldos internos Eurosistema BCN billetes euros circulación ajustarán importe compensación determinará fórmula
-
 importe compensación
 importe euros BCN resulta aplicar clave capital suscrito importe billetes circulación período referencia convirtiéndose euros importe billetes circulación denominados moneda nacional miembro adopta euro tipo cambio diario referencia período referencia
 importe euros BCN billetes circulación período referencia convertido euros tipo cambio diario referencia período referencia
@@ -2874,7 +2873,6 @@ Limas
 Mandarinas incluidos clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -3476,7 +3474,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -3731,7 +3728,6 @@ CICAP
 Bencimidazolilcarbamato metilo
 enero
 diciembre
-
 autorizarán usos fungicida cultivos siguientes
 cereales
 semillas colza
@@ -3747,7 +3743,6 @@ aplicaciones mochila equipos mano independientemente usuario aficionado profesio
 jardinería doméstica
 miembros deberán asegurar aplicación medidas adecuadas reducción riesgo
 operarios indumentaria protectora adecuada particular guantes monos botas goma protecciones faciales gafas seguridad mezcla carga aplicación limpieza equipo caso evite adecuadamente exposición sustancia diseño construcción equipo montaje componentes específicos protección equipo
-
 aplicación principios uniformes anexo VI conclusiones informe revisión carbendazima apéndices II
 miembros deberán asegurar titulares autorización informen tardar diciembre año incidencia problemas salud operarios
 miembros exigir comunique información ejemplo datos ventas encuesta pautas utilización obtenerse imagen realista condiciones impacto toxicológico carbendazima
@@ -4220,26 +4215,22 @@ DO
 Decisión modificada Decisión CE DO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES PORCINO FRANCIA
-
 clasificación canales cerdo llevará cabo aparato denominado Capteur Gras Maigre Sydel CGM versión
 aparato equipado sonda Sydel alta definición milímetros diámetro diodo emisor infrarrojo Honeywell sensores luz Honeywell
 alcance operativo situará mm
 CGM traducirá valores medidos porcentaje estimado carne magra
 contenido magro canal calcula fórmula
-
 porcentaje estimado magro canal
 espesor grasa dorsal incluida piel milímetros medido cm línea media dorsal cuarta vértebras lumbares siguiendo trayectoria perpendicular piel
 espesor grasa dorsal incluida piel milímetros medido cm línea media dorsal cuarta costillas siguiendo trayectoria paralela línea
 espesor muscular milímetros medido cm línea media dorsal cuarta costillas siguiendo trayectoria paralela línea
 fórmula válida canales peso comprendido kg
-
 clasificación canales cerdo llevará cabo aparato denominado CSB UltraMeater version
 aparato equipado sonda Pie Medical MHz
 alcance operativo situará milímetros
 valores medidos traducidos porcentaje estimado carne magra unidad central
 espesor grasa dorsal incluida piel milímetros medido cm línea media dorsal costillas siguiendo trayectoria perpendicular piel
 espesor muscular milímetros medido cm línea media dorsal costillas siguiendo trayectoria perpendicular piel
-
 Método manual ZP
 clasificación canales cerdo llevará cabo método manual ZP
 aplicar método utilizarse regleta cuyas cotas determinan función ecuación predicción
@@ -4455,7 +4446,6 @@ Contaminantes gaseosos
 ensayo tipo
 combustibles
 combustibles
-
 Masa partículas número partículas
 gasolina
 Emisiones ralentí
@@ -4576,19 +4566,12 @@ punto sustituye texto
 proporciones hidrocarburos punto entenderán
 gasolina CHO
 gasolina CHO
-
 diésel CHO
-
 diésel CHO
-
 GLP CH
-
 gas natural biometano CH
-
 etanol CHO
-
 etanol CHO
-
 HGN
 cantidad gas natural biometano mezcla HGN expresada porcentaje volumen
 punto sustituye cuadro
@@ -4700,7 +4683,6 @@ Masa materia particulada
 Número partículas
 Categoría
 Clase
-
 MR
 punto cuadro Umbrales preliminares OBD Euro sustituye cuadro
 Umbrales preliminares OBD Euro
@@ -4740,7 +4722,6 @@ vehículos motores encendido chispa alimentados gasolina
 vehículos motores encendido chispa alimentados GLP
 composición carburante utilizado ensayo difiere composición presupone cálculo consumo normalizado petición fabricante aplicarse factor corrección fc arreglo fórmula
 caso aplicarse citado factor corrección fc fijará
-
 relación efectiva combustible utilizado
 vehículos motores encendido chispa alimentados gas natural biometano
 vehículos motores encendido chispa alimentados etanol

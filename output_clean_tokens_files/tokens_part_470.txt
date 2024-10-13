@@ -31,7 +31,6 @@ ANEXO
 añade punto comprende sustancia Monepantel anexo Lista sustancias farmacológicamente activas cuyos límites máximos residuos fijado
 Agentes antiparasitarios
 Sustancias activas frente endoparásitos
-
 Sustancia farmacológicamente activa
 Residuo marcador
 Especie animal
@@ -208,7 +207,6 @@ emplearán precipitantes orgánicos distintos etanol
 Polvo suelto blanco blanco amarillento
 entrada Pureza añade subentrada
 Etanol
-
 sección relativa aditivo inserta sección relativa goma Cassia
 GOMA CASSIA
 Sinónimos
@@ -233,14 +231,10 @@ temperatura bajado °C forma gel firme viscoelástico gel forma disolución cont
 Viscosidad
 mPas °C solución corresponde peso molecular
 Materias insolubles agua
-
 solución acuosa
 Grasa bruta
-
 Proteínas
-
 Cenizas totales
-
 Pérdida desecación
 °C
 antraquinonas
@@ -260,7 +254,6 @@ Determinación
 Contenido grupos hidroxipropoxilos OCHCHOHCH equivalente grupos hidroxipropilos sumo unidad anhidroglucosa sustancia anhidra
 sección relativa hidrógeno entrada Pureza subentrada Nitrógeno sustituye texto
 Nitrógeno
-
 sección relativa aditivo inserta sección
 ALCOHOL POLIVINÍLICO
 Polímero alcohol vinílico PVOH
@@ -281,17 +274,14 @@ disuelven muestra ml agua calentándola deja enfriar disolución temperatura amb
 añadir gota solución ensayo yodo ml disolución forma color rojo oscuro azul
 mPas solución °C corresponde peso molecular
 Materia hidrosoluble
-
 Índice esterificación
 mg KOH
 Grado hidrólisis
 Índice ácido
-
 metanol acetato metilo
 solución
 °C
 Residuo ignición
-
 mg kg
 sección relativa polietilenglicol sustituye texto
 POLIETILENGLICOLES
@@ -299,7 +289,6 @@ PEG Macrogol Óxido polietileno
 Polímeros adición óxido etileno agua designados normalmente número corresponde peso molecular
 Alfahidroomegahidroxipoli oxietanediol
 Peso molecular
-
 PEG
 PEG
 PEG
@@ -325,7 +314,6 @@ solución amarilla verde
 necesitan ml hidróxido sodio transformar color indicador azul
 Índice hidroxilo
 Ceniza sulfatada
-
 dioxano
 mg kg
 Óxido etileno
@@ -954,7 +942,6 @@ Pruebas laboratorio
 Pruebas analíticas
 Resultados
 APTA despacho libre práctica
-
 Motivos Rechazo
 Ausencia certificado Certificado válido aplicable
 Identidad incongruencia documentos
@@ -980,7 +967,6 @@ III Control
 Orientaciones DCE
 Generalidades Cumpliméntese documento mayúsculas
 notas refieren número casilla correspondiente
-
 explotador empresa alimentaria piensos representante completará sección indicación contrario
 Casilla
 Expedidor nombre dirección completa persona física jurídica explotador empresa alimentaria piensos envía partida
@@ -2852,7 +2838,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -2885,7 +2870,6 @@ Información sanitaria
 veterinario oficial abajo firmante declara leído comprendido Reglamento CE certifica leche productos lácteos mencionados casilla cumplen condiciones siguientes
 producidos derivados indíquese país exportador indíquese región figura anexo Decisión CE libre fiebre aftosa peste bovina meses previos fecha exportación período practicado vacunación peste bovina
 producidos leche cruda animales produjo ordeño presentaban signos clínicos enfermedad transmisible leche seres humanos animales permanecido mínimo producción explotaciones objeto restricción oficial fiebre aftosa peste bovina
-
 leche productos lácteos excluido lactosuero sometidos tratamientos combinaciones descritos punto
 constan íntegramente lactosuero pH inferior recogido mínimo horas coagulación leche sometida tratamientos descritos punto
 sometidos tratamientos siguientes
@@ -2905,7 +2889,6 @@ recipientes
 vehículos contenedores granel desinfectados proceder carga producto autorizado autoridades competentes
 recipientes contenedores marcados indicar naturaleza leche productos lácteos llevan etiquetas indican producto categoría destinado consumo humano
 Notas
-
 Casilla Interesado carga UE casilla rellenarse únicamente certificado mercancía tránsito
 Casilla Lugar destino casilla rellenarse únicamente certificado mercancía tránsito
 Casilla indicará número registro vagones contenedores camiones número vuelo nombre buque
@@ -2927,7 +2910,6 @@ Fecha
 Firma
 Sello
 anexo XI sustituye texto
-
 Lista terceros países miembros autorizar importación leche productos lácteos certificado sanitario capítulo
 terceros países figuran anexo Decisión CE
 efecto letal calculado esporas bacterianas
@@ -3114,12 +3096,10 @@ DO
 DO
 DO
 ANEXO
-
 técnicas modificación genética refiere artículo letra inciso
 Técnicas recombinación ácido nucleico incluyan formación combinaciones material genético inserción moléculas ácido nucleico obtenidas organismo virus plásmido bacteriano sistema vector incorporación organismo hospedador encuentren forma natural puedan seguir reproduciéndose
 Técnicas suponen incorporación directa microorganismo material hereditario preparado microorganismo incluidas microinyección microencapsulación
 Técnicas fusión células hibridación forman células vivas combinaciones material genético hereditario fusión células utilizando métodos producen naturalmente
-
 Técnicas refiere artículo letra inciso ii consideran causantes modificación genética condición supongan utilización moléculas ácido nucleico recombinante MMG obtenidos técnicas métodos distintos quedan excluidos virtud anexo II
 fertilización in vitro
 procesos naturales conjugación transducción transformación
@@ -3159,7 +3139,6 @@ material genético modificado deberá resultar nocivo caso transferido autotrans
 Inocuidad ambiente caso liberación importante involuntaria
 MMG deberá causar daños inmediatos diferidos ambiente caso produjera liberación accidental importante
 MMG cumplan criterios incluirse
-
 Tipos MMG cumplen criterios figuran
 completar arreglo procedimiento reglamentación control contemplado artículo apartado
 ANEXO III
@@ -4549,7 +4528,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -4593,7 +4571,6 @@ permiten limpieza desinfección
 utilizan limpiados desinfectados vehículo transporta cargar aves arreglo instrucciones autoridad competente
 caso transporte aéreo ajustan mínimo normas recientes IATA Asociación Internacional Transporte Aéreo transporte animales vivos
 Notas
-
 Casilla Lugar origen explotación establecimiento reproducción acorde definición Reglamento CE
 Casilla Matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos
 Deberá aportarse información aparte caso descarga recarga

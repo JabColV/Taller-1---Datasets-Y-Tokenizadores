@@ -221,7 +221,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -2434,9 +2433,7 @@ producto clasifica partida contiene componentes naturales leche ingredientes per
 Corrección errores Reglamento Ejecución UE Comisión febrero modifica Reglamento CE atañe precios representativos sectores carne aves corral huevos ovoalbúmina
 Diario Oficial Unión Europea febrero
 página cuadro anexo código NC
-
 Preparaciones gallo gallina cocer
-
 Reglamento Ejecución UE Comisión
 septiembre
 Texto pertinente efectos EEE
@@ -3616,7 +3613,6 @@ Gráfico Socios CCI empresas educación superior investigación
 Empresas
 Investigación
 Instituciones educación superior
-
 enfoque EIT caracteriza serie elementos aporta valor añadido nivel Unión
 Superar fragmentación asociaciones integradas plazo lograr masa crítica dimensión europea
 basándose iniciativas cooperación existentes EIT conduce asociaciones seleccionadas CCI nivel permanente estratégico
@@ -4438,7 +4434,6 @@ Resultado
 Incertidumbre medición
 exclusivamente metales pesados
 Conforme
-
 Límite detección
 Límite cuantificación
 Notifíquese analito línea distinta
@@ -4995,6 +4990,5 @@ DO
 DO
 ANEXO
 CRITERIOS NORMAS METODOLÓGICAS MEDIOAMBIENTAL
-
 Condiciones generales aplicación criterios medioambiental
 presente anexo descriptores medioambiental establece anexo Directiva CE recogen enumeran criterios deberán aplicarse evaluar grado consecución

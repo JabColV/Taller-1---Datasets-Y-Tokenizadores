@@ -384,7 +384,6 @@ RMG hará inversiones operaciones importantes ámbitos fundamentales
 mejora capacidades notificación operativa
 modernización procesos relacionados recursos humanos
 posibilitar lectura automática información dirección usarla observación rendimiento
-
 inversión sistemas reestructuración representa cerca quinto costes totales reestructuración pertinentes período marzo marzo
 Conclusiones
 Reino Unido hayan aplicado medidas relativas pensiones hayan concluido medidas reestructuración prevé RMG condiciones
@@ -1356,9 +1355,7 @@ DO Reglamento cuya modificación constituye Reglamento CE Comisión DO
 Corrección errores Decisión Ejecución UE Comisión julio reconocimiento régimen Round Table on Responsible Biofuels EU RED demostrar cumplimiento criterios sostenibilidad conformidad Directivas CE CE Parlamento Europeo Consejo
 Diario Oficial Unión Europea julio
 página artículo párrafo
-
 régimen voluntario Roundtable of Sustainable Biofuels EU RED presentó solicitud reconocimiento parcial Comisión mayo demuestra partidas biocarburantes cumplen criterios sostenibilidad establecidos artículo apartado letras apartado apartado Directiva CE artículo ter apartado letras apartado apartado Directiva CE
-
 régimen voluntario Roundtable of Sustainable Biofuels EU RED presentó solicitud reconocimiento Comisión mayo demuestra partidas biocarburantes cumplen criterios sostenibilidad establecidos artículo apartado letras apartado apartado Directiva CE artículo ter apartado letras apartado apartado Directiva CE
 Reglamento Comisión Económica Naciones Unidas Europa CEPE Disposiciones uniformes homologación motores combustión interna grupos motopropulsores eléctricos destinados propulsión vehículos motor categorías respecta medición potencia neta potencia máxima minutos grupos motopropulsores eléctricos
 ÁMBITO APLICACIÓN
@@ -1848,7 +1845,6 @@ Presión Ps
 Determinación factores corrección αa αd
 Factor αa motores encendido chispa atmosféricos sobrealimentados
 factor corrección αa obtiene fórmula
-
 Ps presión atmosférica seca kilopascales kPa presión barométrica presión vapor agua
 temperatura absoluta grados Kelvin aire aspirado motor
 Condiciones cumplirse laboratorio
@@ -1997,7 +1993,6 @@ sistema aire acondicionado
 puedan retirarse accesorios determinarse potencia absorben carga añadirse potencia motor medida
 sistema aire acondicionado etc
 puedan retirarse accesorios determinarse potencia absorben carga añadirse potencia medida
-
 máx
 máx
 ppm masa
@@ -3066,7 +3061,6 @@ DO
 DO
 ANEXO
 Modelos certificado sanitario importación esperma animales especie equina
-
 Notas explicativas certificación
 certificados sanitarios expedidos autoridad competente tercer país exportador arreglo modelos anexo II
 miembro destino exija certificación adicional deberán incluirse original certificado sanitario declaraciones certifiquen cumplimiento requisitos pertinentes
@@ -3082,7 +3076,6 @@ color firma sello veterinario oficial deberá texto impreso certificado sanitari
 requisito aplicará sellos gofrados filigrana
 original certificado sanitario acompañar partida puesto inspección fronterizo introducción Unión Europea
 número referencia certificado mencionado casillas IIa modelo certificado sanitario atribuirlo autoridad competente tercer país exportador
-
 Sección
 MODELO Modelo certificado sanitario importación partidas esperma animales especie equina recogido transformado almacenado agosto conformidad Directiva CEE Consejo expedido centro recogida autorizado origen
 Datos relativos partida expedida
@@ -3113,7 +3106,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -3203,7 +3195,6 @@ esperma descrito
 recogido transformado almacenado transportado condiciones acordes requisitos capítulo II sección punto capítulo III sección anexo Directiva CEE
 enviado lugar carga recipiente sellado conformidad capítulo III sección punto anexo Directiva CEE llevaba número indicado casilla
 Notas
-
 Casilla lugar origen centro recogida esperma procede esperma cuestión
 Casilla número bultos número recipientes
 Casilla Indíquese identificación recipiente número precinto
@@ -3481,21 +3472,17 @@ Límites
 Método analítico referencia
 Fase aplica criterio
 Alimentos listos consumo destinados lactantes alimentos listos consumo destinados usos médicos especiales
-
 Productos comercializados vida útil
 Alimentos listos consumo favorecer desarrollo monocytogenes destinados lactantes usos médicos especiales
 ufc
-
 alimento dejado control inmediato explotador empresa alimentaria producido
 Alimentos listos consumo favorecer desarrollo monocytogenes destinados lactantes usos médicos especiales
 ufc
 Carne picada preparados carne destinados consumidos crudos
 Carne picada preparados carne base carne aves corral destinados consumidos cocinados
 Ausencia
-
 Ausencia
 Carne picada preparados carne base especies distintas aves corral destinados consumidos cocinados
-
 Carne separada mecánicamente
 Productos cárnicos destinados consumidos crudos excluidos productos proceso fabricación composición producto elimine riesgo Salmonella
 Productos cárnicos hechos base carne aves corral destinados consumidos cocinados

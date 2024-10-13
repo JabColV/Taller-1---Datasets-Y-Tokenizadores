@@ -402,7 +402,6 @@ principio proporcionalidad establecido artículo Tratado Unión Europea presente
 derogarse Decisión CE Consejo fecha entrada vigor normas correspondientes establecidas presente Reglamento
 número importancia modificaciones efectuar conviene derogar Reglamento CE
 ADOPTADO PRESENTE REGLAMENTO
-
 DISPOSICIONES GENERALES
 Artículo
 Ámbito aplicación
@@ -752,7 +751,6 @@ Artículo
 Registros flota pesquera
 miembros registrarán información propiedad características buques artes pesca actividad buques pesqueros Unión enarbolen pabellón necesaria gestión medidas establecidas virtud presente Reglamento
 Comisión adoptará actos ejecución establezcan requisitos técnicos operativos modalidades relativas registro formato transmisión información contemplada apartados
-
 BASE CIENTÍFICA GESTIÓN PESCA
 Artículo
 Requisitos materia datos fines gestión pesca
@@ -914,7 +912,6 @@ Comisión miembros práctica proyectos piloto tecnologías control sistemas gest
 Artículo
 Contribución costes control inspección ejecución recogida datos
 miembros exigir operadores contribuyan proporcionalmente costes operativos aplicación régimen control pesca Unión recogida datos
-
 INSTRUMENTOS FINANCIEROS
 Artículo
 Unión conceder ayuda financiera contribuir consecución objetivos establecidos artículo
@@ -1047,7 +1044,6 @@ Importancia características especiales
 Costa Reino Unido millas marinas
 Arenque
 Ilimitado
-
 Pesca demersal
 Longships South West
 Vieira
@@ -1135,7 +1131,6 @@ Aguas costeras francia departamentos ultramar
 Costa atlántica nordeste
 millas marinas
 frontera Bélgica Francia departamento Mancha estuario VireGrandcamplesBains norte oeste dirección norte nordeste
-
 Dunkerque Cabo Antifer
 Ilimitado únicamente octubre diciembre
 frontera Bélgica Francia Cabo Alprech oeste
@@ -1199,9 +1194,6 @@ Islas Canarias Aguas Unión
 Islas Canarias Aguas Unión
 Islas Canarias Aguas internacionales aguas terceros países
 Isla Reunión Especies demersales pelágicas
-
-
-
 Guayana Francesa Camaroneros
 Guayana Francesa Especies pelágicas
 Buques pesca altura
@@ -2047,7 +2039,6 @@ Auditoría financiera Retraso pagos plazos
 Rebasamiento límites
 Deficiencias SIP
 Asignación excesiva derechos pago
-
 PARTIDA PRESUPUESTARIA
 Error probable población FEADER
 Error probable
@@ -2058,7 +2049,6 @@ Deficiencias sistema sanciones
 Falta criterios riesgo agroambientales selección muestra
 Ausencia verificación carga ganadera controles terreno
 Retrasos realización controles terreno Medidas agroambientales Desventajas naturales pagos efectuarse controles terreno
-
 PARTIDA PRESUPUESTARIA
 Rebasamiento límites financieros
 Deficiencias controles financieros anuncios televisión radio
@@ -2071,7 +2061,6 @@ Ausencia control requisitos legales gestión ejercicio financiero
 Control eficaz requisitos legales gestión ejercicio financiero
 Control eficaz requisitos legales gestión ejercicio financiero
 Control eficaz requisito legal gestión ejercicio financiero
-
 Reglamento CE Comisión
 julio
 establecen valores globales importación determinación precio entrada determinadas frutas hortalizas
@@ -3053,25 +3042,16 @@ Rodas
 Falta información
 Falta información mayo
 mayo
-
-
 Billetes expedidos
 Estimación preliminar importe recuperarse casino
 cifras redondeadas millones EUR
 Algoritmo cálculo
-
 número billetes
-
 billetes EUR
-
 billetes AB EUR
-
-
 tickets EUR
 fecha
-
 Importe recuperarse
-
 calcular
 Importe recuperarse
 Comisión señala artículo apartado TFUE efecto suspensivo
@@ -4829,7 +4809,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -4843,7 +4822,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -4857,7 +4835,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 PerasNashi Pyrus pyrifolia
 PerasYa Pyrus bretscheri

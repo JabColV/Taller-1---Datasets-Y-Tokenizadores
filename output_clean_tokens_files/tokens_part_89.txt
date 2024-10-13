@@ -2850,9 +2850,7 @@ Impurezas relevantes
 contenido máximo metileugenol kg material técnico
 septiembre
 agosto
-
 autorizarse usos fungicida invernaderos
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión extracto árbol té SANCO particular apéndices II ultimados Comité Permanente Cadena Alimentaria Sanidad Animal diciembre
 evaluación general miembros prestarán atención particular
 protección operarios trabajadores garantizando condiciones incluyan utilización equipos protección individual adecuados proceda
@@ -3536,7 +3534,6 @@ Transcurrida fecha obtener muestras arreglo dispuesto apartados artículo Reglam
 volumen entregado empresas autorizadas limitado litros cuba
 Artículo
 organismos intervención miembros almacenado alcohol puesto venta establecerán controles adecuados comprobar naturaleza alcohol momento utilización
-
 mutatis mutandis dispuesto artículo Reglamento CE
 control muestreo análisis resonancia magnética nuclear comprobar naturaleza alcohol momento utilización
 gastos correrán cargo empresas venda alcohol
@@ -3822,7 +3819,6 @@ Gasolina
 GLP
 Gasóleo
 Etanol
-
 Cuadro
 Requisitos
 GLP
@@ -3860,7 +3856,6 @@ caso sistemas dilución flujo parcial caudal másico extraído sistema dilución
 hará reintroduciendo flujo muestreo número partículas sistema dilución dispositivo medición caudal corrección matemática explica punto caso sistemas dilución flujo parcial tipo muestreo caudal másico extraído muestreo número partículas corregirá cálculo masa partículas indica punto
 caudal másico instantáneo gas escape entra sistema dilución qmp utilizado controlar proporcionalidad muestreo corregirá siguiendo métodos siguientes
 caso descarte caudal muestreo número partículas extraído ecuación anexo punto sustituida
-
 caudal muestreo gas escape entra sistema dilución flujo parcial kg
 caudal másico gas escape diluido kg
 caudal másico aire dilución kg
@@ -3917,7 +3912,6 @@ regeneración dura ciclo WHTC arranque caliente realizarán sucesivamente ensayo
 regeneración completa ciclo WHTC arranque caliente ensayo continuará
 Previo organismo homologación tipo aplicarse ajuste regeneración ajuste multiplicativo aditivo basado análisis técnico adecuado
 factores ajuste regeneración multiplicativo kr determinarán
-
 abajo
 ajuste regeneración aditivo kr determinará
 kr ew
@@ -4410,9 +4404,7 @@ necesario aplicar principios simplificación administrativa cosas establecimient
 Corrección errores Directiva CE Parlamento Europeo Consejo octubre establece marco actuación comunitaria sostenible plaguicidas
 Diario Oficial Unión Europea noviembre
 página artículo apartado párrafo
-
 tardar diciembre miembros comunicarán
-
 tardar noviembre miembros comunicarán
 página artículo apartado párrafo
 tardar diciembre Comisión presentará

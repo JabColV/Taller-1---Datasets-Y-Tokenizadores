@@ -929,7 +929,6 @@ CONSEJO PAZ DESARROLLO SPDC
 Nombre posibles alias
 Información identificativa cargo título fecha lugar nacimiento número pasaporte documento identidad cónyuge hijo hija
 Sexo
-
 Esposa General Jefe Than Shwe
 Hija General Jefe Than Shwe
 Esposo Thandar Shwe
@@ -1045,7 +1044,6 @@ Esposa General Brigada Hla Myint
 General Brigada Wai Lin
 Triángulo
 General Brigada Win Myint
-
 Coronel Zaw Min
 Sureste
 Esposa Coronel Zaw Min
@@ -1511,7 +1509,6 @@ Kb
 Kc
 Hijo Myint Aung empleado Schlumberger nacido pasaporte
 Kd
-
 Comandante Zaw Phyo Win
 Comandante Moe Aung
 DIL
@@ -1708,7 +1705,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -2573,7 +2569,6 @@ Gastos fecha
 Tasas certificados documentos similares emitidos relación procedimientos administrativos relativos crédito mencionado punto
 Importe deuda
 importe mencionado punto deberá abonarse
-
 plazo número naturales fecha presente notificación
 inmediata
 pago deberá efectuarse
@@ -2956,7 +2951,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -3043,7 +3037,6 @@ vacunados rinotraqueítis infecciosa bovina
 Notas
 certificado corresponde ganado bovino vivo incluidas especies géneros Bubalus Bison cruces destinado cría producción
 importación animales deberán enviarse demora explotación destino permanecerán mínimo treinta trasladados explotación caso envío matadero
-
 Casilla indicar código territorio figura anexo Reglamento UE
 Casilla caso animales hayan permanecido centro concentración animales deberá cumplir condiciones establecidas autorización anexo Reglamento UE
 Casilla utilizan recipientes cajas deberá indicarse número número precinto caso
@@ -3850,18 +3843,14 @@ Bosnia Herzegovina
 residuos enumerados anexo III Reglamento CE
 rúbrica Costa Rica inserta rúbrica
 Costa Marfil República Costa Marfil
-
 residuos
-
 Metales preciosos oro plata grupo platino mercurio
-
 Desechos inclusión borras desechos hilados material hilachas fibras naturales
 Ropa usada artículos textiles usados
 Trapos usados bramantes cordelería cables desecho artículos usados bramante cordelería cables materiales textiles
 suprime rúbrica Liechtenstein
 rúbrica Indonesia inserta rúbrica
 Irán República Islámica Irán
-
 siguientes espumas grasos contengan cinc
 Matas proceso galvanización discontinuo Zn
 Residuos procedentes desespumado cinc
@@ -3873,12 +3862,10 @@ Peltre cinc duro
 Matas galvanización superficie Zn
 Matas galvanización fondo Zn
 Matas cinc moldeo presión Zn
-
 Desechos corcho corcho triturado granulado molido
 Desechos residuos madera estén aglomerados troncos briquetas bolas formas similares
 rúbrica Tailandia inserta rúbrica
 Togo República Togolesa
-
 Desechos plástico siguientes polímeros copolímeros halogenados
 Polipropileno
 Tereftalato polietileno
@@ -3908,18 +3895,15 @@ Chatarra hierro acero
 Chatarra cobre
 Chatarra aluminio
 Chatarra estaño
-
 Sulfato calcio parcialmente refinado resultante desulfuración gases combustión
 Escorias producción cobre químicamente estabilizadas elevado contenido hierro tratadas conformidad especificaciones industriales ejemplo DIN DIN principalmente fines construcción aplicaciones abrasivos
 residuos
-
 Desechos desperdicios subproductos vegetales secos esterilizados estén forma bolas tipo utilizados pienso especificados incluidos categoría únicamente cascarilla arroz subproductos incluidos
 Desechos huesos núcleos córneos elaborados desgrasados simplemente preparados cortar forma determinada tratados ácido desgelatinizados
 Cáscara películas desechos cacao
 residuos industria agroalimentaria exclusión subproductos satisfagan requisitos normas nacionales internacionales consumo humano animal
 rúbrica Moldova sustituye texto
 Moldova República Moldova
-
 Papel cartón blanquear papel cartón ondulado
 papeles cartones hechos principalmente pasta química blanqueada colorear masa
 Papel cartón obtenido principalmente pasta mecánica ejemplo periódicos revistas materiales impresos similares
@@ -3958,7 +3942,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante

@@ -155,7 +155,6 @@ Establecimiento
 Organismo autorizado
 Centro semen
 Equipo embriones
-
 Lugar carga
 Fecha hora salida
 transporte
@@ -216,7 +215,6 @@ garantías adicionales relación enfermedades enumeradas anexo Directiva CEE sig
 Enfermedad
 Decisión
 Notas
-
 Casilla Número números documentos acompañamiento documentos CITES caso
 Casilla Indicar código SA apropiado
 Casilla Identificaciόn animales identificarse individualmente caso animales pequeños identificarse lotes
@@ -1082,7 +1080,6 @@ plano carga máximo cm suelo
 instalación tipo plataforma tales carga normal siga suficiente campo visibilidad conductor tales dispositivos reglamentarios alumbrado señalización luminosa puedan seguir cumpliendo función
 plataforma carga amovible sujeción tractor permita descartar peligro desenganche accidental
 ANEXO II
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -1097,7 +1094,6 @@ DO
 Únicamente respecta referencias hechas artículo guión Directiva CEE
 Directiva CE Comisión
 DO
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición
@@ -1132,9 +1128,7 @@ Anexo III
 Corrección errores Directiva UE Parlamento Europeo Consejo abril modifica Directiva CE Consejo relativa zumos frutas productos similares destinados alimentación humana
 Diario Oficial Unión Europea abril
 página artículo apartado
-
 declaración octubre zumo frutas contendrá azúcares añadidos figurar
-
 declaración abril zumo frutas contendrá azúcares añadidos figurar
 Decisión Comisión
 agosto
@@ -1475,7 +1469,6 @@ contengan mg sodio
 efectos laxantes
 diurética
 ANEXO IV
-
 Directiva derogada modificaciones sucesivas
 contemplados artículo
 Directiva CEE Consejo
@@ -1493,7 +1486,6 @@ DO
 Reglamento CE Parlamento Europeo Consejo
 DO
 Únicamente punto anexo III
-
 Plazos transposición Derecho nacional
 Acto
 Plazo transposición
@@ -2541,7 +2533,6 @@ ANEXO IV
 Productos incorporarse tonelada mantequilla mantequilla concentrada fórmula
 marcadores contemplados artículo apartado letra
 productos contemplados artículo apartado letra siguientes
-
 gramos hidroximetoxibenzaldehído procedente vainilla vainillina síntesis
 alternativamente
 gramos hidroximetoxibenzaldehído aportados exclusivamente vainas vainilla extractos íntegros
@@ -2686,7 +2677,6 @@ Cantidad almacén
 ANEXO IX
 Incorporación mantequilla mantequilla concentrada productos intermedios contemplados artículo apartado letra inciso equivalente mantequilla
 Cantidad equivalente mantequilla productos intermedios contemplados artículo apartado letra inciso
-
 especifíquese
 Mantequilla mantequilla concentrada equivalente mantequilla toneladas
 ANEXO
@@ -2696,7 +2686,6 @@ Producto
 Mantequilla
 Nata
 productos intermedios
-
 fórmulas definiciones códigos NC contemplados artículo
 Productos intermedios código NC ex contemplados artículo apartado letra inciso ii
 Cantidades equivalente mantequilla incorporadas productos intermedios refiere artículo apartado letra inciso
@@ -2915,7 +2904,6 @@ gramos éster etílico ácido butírico gramos estigmasterol CHO estigmastadien�
 gramos éster etílico ácido butírico kilogramos triglicéridos ácido oenántico nheptanoico grado pureza calculado triglicéridos producto listo incorporado índice acidez máximo índice saponificación cuya ácida esterificada esté constituida mínimo ácido oenántico
 incorporar exclusivamente aditivos siguientes
 componentes grasos leche kilogramos máximo contemplados letra
-
 cloruro sódico kilogramos máximo
 lecitina kilogramos máximo
 REQUISITOS CALIDAD
@@ -3422,7 +3410,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -3568,7 +3555,6 @@ INFORMACIÓN ADICIONAL FACILITARSE DÉ CONSENTIMIENTO INTERMEDIARIOS FINANCIEROS
 Anuncio impreso negrita informe inversores intermediario financiero utilice folleto declarar sitio web conformidad consentimiento condiciones asociadas
 Categoría
 anexo XXII sección añade elemento
-
 Consentimiento emisor persona responsable elaboración folleto relativo utilización venta posterior colocación valores intermediarios financieros
 Indicación período oferta intermediarios financieros proceder venta posterior colocación valores consentimiento relativo utilización folleto
 Anuncio impreso negrita informe inversores intermediarios financieros proporcionar momento oferta información relativa condiciones
@@ -4671,9 +4657,7 @@ Importe fijado contenido sacarosa
 Corrección errores Reglamento UE Consejo enero modifica Reglamento UE relativo medidas restrictivas Irán
 Diario Oficial Unión Europea enero
 página cubierta sumario
-
 Reglamento Consejo enero modifica Reglamento UE relativo medidas restrictivas Irán
-
 Reglamento UE Consejo enero modifica Reglamento UE relativo medidas restrictivas Irán
 página título
 REGLAMENTO CONSEJO
@@ -4791,7 +4775,6 @@ calcula potencia referencia
 potencia referencia entiende relación potencia hidráulica consumo potencia circulador teniendo dependencia eficiencia tamaño circulador
 Pref potencia referencia vatios circulador altura caudal dados
 define línea control referencia recta une puntos
-
 curva sistema entiende relación caudal altura fQ resultante fricción sistema calefacción sistema distribución refrigeración presentada gráfico
 miden caudales siguientes
 potencia eléctrica vatios consumida circulador punto funcionamiento especificado
@@ -4805,10 +4788,8 @@ Tiempo
 calcula media ponderada potencia PL avg fórmula
 PL avg PL PL PL PL
 calcula índice eficiencia energética fórmula EEI PL avg
-
 caso circuladores integrados productos diseñados circuitos primarios sistemas solares térmicos bombas calor índice eficiencia energética calcula fórmula
 ns velocidad específica definida fórmula
-
 rpm velocidad específica circulador
 velocidad rotatoria rpm trabajo definida
 CXX factor escala garantiza momento definir factor escala XX circuladores tipo tengan IEE

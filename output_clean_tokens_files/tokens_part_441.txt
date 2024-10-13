@@ -240,7 +240,6 @@ Contribución UE
 Contribución terceros
 ingresos
 conforme punto anexo XI
-
 Referencia proyecto
 ACCIÓN
 ACCIÓN
@@ -472,7 +471,6 @@ obtener homologación tipo CE vehículos contemplados artículo Reglamento CE fa
 elaborará presentará autoridad homologación tipo ficha características arreglo modelo anexo II presente Reglamento
 entregará autoridad homologación tipo declaración arreglo evaluación fabricante vehículo cumple requisitos establecidos presente Reglamento
 presentará autoridad homologación tipo certificado conforme modelo anexo II presente Reglamento
-
 entregará autoridad homologación tipo puntos cambio ICV determinados analíticamente conforme anexo punto párrafo
 presentará servicio técnico responsable realización ensayos homologación tipo vehículo representativo tipo vehículo desee homologar permitir realización ensayo descrito anexo punto
 elementos proporcionados fabricante arreglo apartado letras resultados ensayo homologación tipo mencionado letra apartado autoridad homologación tipo evaluará conformidad requisitos anexo
@@ -564,7 +562,6 @@ valores VnICV determinados conforme punto
 Save calculados conforme punto
 Definido anexo bis Reglamento CEPE serie modificaciones
 ANEXO II
-
 Ficha características
 MODELO
 Ficha características relativa homologación tipo CE vehículo indicadores cambio velocidad
@@ -580,7 +577,6 @@ Información arreglo anexo punto
 Información arreglo anexo punto
 Fotografías dibujos instrumento indicador cambio velocidad descripción sucinta componentes funcionamiento sistema
 Información ICV manual vehículo
-
 Certificado conformidad requisitos relativos indicador cambio velocidad expedido fabricante
 Fabricante
 Dirección fabricante
@@ -592,7 +588,6 @@ Firma
 Cargo
 Anexos
 Lista tipos vehículos aplica presente Certificado
-
 Certificado homologación tipo CE
 CERTIFICADO HOMOLOGACIÓN TIPO CE
 Sello autoridad homologación tipo CE
@@ -648,9 +643,7 @@ Referencia Diario Oficial
 Aplicable
 Indicadores cambio velocidad
 UE
-
 cuadro apéndice añade punto
-
 cuadro apéndice anexo VI añade punto
 Modificado
 Aplicable versiones
@@ -2224,7 +2217,6 @@ código NC
 CEE DO
 CEE DO modificado Reglamento CEE
 Punto cuadro anexo Reglamento CEE DO modificado Reglamento CE
-
 CEE DO
 DO
 Punto cuadro anexo Reglamento CE DO

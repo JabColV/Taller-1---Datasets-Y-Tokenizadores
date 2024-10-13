@@ -79,7 +79,6 @@ caso litigio prevalecerán resultados norma ISO
 método referencia determinación grado harinosidad trigo duro constituido norma
 método referencia determinación peso específico constituido norma ISO
 métodos toma muestras métodos análisis referencia determinación tasa micotoxinas contemplados anexo Reglamento CE fijados anexos II Reglamento CE Comisión
-
 Método referencia determinación elementos cereales base calidad irreprochable caso maíz sorgo
 agita muestra media caso maíz caso sorgo tamiz ranuras mm minuto comprobarse presencia plagas vivas insectos muertos fracción tamizada
 ayuda pinzas espátula extraen elementos retenidos tamiz ranuras mm piedras arena fragmentos paja impurezas propiamente dichas
@@ -694,7 +693,6 @@ Noruega
 Groenlandia
 Islas Feroe
 Turquía
-
 Únicamente especie ovino doméstico ex ex ex
 ACP
 Únicamente especie ovino doméstico ex ex ex
@@ -1863,7 +1861,6 @@ Naranjas Bergamota naranja amarga quinoto híbridos
 Limones Cidro limón
 Limas
 Mandarinas Clementina tangerina tangelo minneola híbridos
-
 Frutos cáscara cáscara
 Almendras
 Nueces Brasil
@@ -2414,7 +2411,6 @@ embalado marcado almacenado transportado dispuesto capítulos VI VII VIII anexo 
 proceden especies tóxicas contengan biotoxinas
 superado satisfactoriamente pruebas organolépticas parasitológicas químicas microbiológicas establecidas categorías productos pesqueros Directiva CEE Decisiones aplicación
 inspector oficial abajo firmante declara conocimiento disposiciones contenidas Directivas CEE CEE Decisión CE
-
 lugar fecha
 Sello oficial
 Firma inspector oficial

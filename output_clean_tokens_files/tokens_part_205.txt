@@ -89,16 +89,13 @@ ANEXO
 anexo Reglamento CE queda modificado
 entrada correspondiente Bosnia Herzegovina sustituye texto
 Bosnia Herzegovina
-
 Chatarra hierro acero
 Chatarra cobre
 Chatarra aluminio
 Chatarra cinc
 Chatarra estaño
-
 Desechos plomo exclusión baterías plomoácido
 Escorias estaño contengan tantalio estaño
-
 Metales transición exclusión residuos catalizadores catalizadores usados catalizadores líquidos usados catalizadores lista
 Escandio
 Vanadio
@@ -389,9 +386,7 @@ código ZZ significa orígenes
 Corrección errores Directiva UE Parlamento Europeo Consejo octubre modifican Directiva CE Parlamento Europeo Consejo armonización requisitos transparencia relativos información emisores cuyos valores admiten negociación mercado regulado Directiva CE Parlamento Europeo Consejo folleto publicarse caso oferta pública admisión cotización valores Directiva CE Comisión establecen disposiciones aplicación determinadas prescripciones Directiva CE
 Diario Oficial Unión Europea noviembre
 página artículo
-
 tardar noviembre
-
 tardar noviembre
 Reglamento Ejecución UE Comisión
 marzo
@@ -2278,7 +2273,6 @@ Capítulo IV Ensayo impacto simulador muslo cadera borde delantero sistema prote
 Capítulo Ensayo impacto simulador cabeza niño adulto pequeño sistema protección delantera
 IMPACTADORES ENSAYO
 Apéndice Homologación impactadores
-
 REQUISITOS GENERALES DEFINICIONES
 Generalidades
 mediciones vehículo descritas presente vehículo disposición normal circulación
@@ -2523,7 +2517,6 @@ ensayo relativo borde delantero capó altura saliente parachoques establecerán 
 Deberá determinarse velocidad dirección impacto figuras relación valores altura borde delantero capó saliente parachoques establecidos punto
 masa impactador simulador muslo cadera incluirá elementos propulsión guía formen integrante impacto incluidos pesos añadidos
 masa impactador simulador muslo cadera calculará fórmula
-
 Masa kg
 Energía impacto
 Velocidad
@@ -2676,7 +2669,6 @@ Medición
 Rango funcionamiento típico transductores
 Máximos errores registro recomendados
 Fuerza pedal
-
 requiere frecuencia muestreo recopilación datos Hz mínimo
 apéncice presente contiene información detallada tratamiento digital analógico datos relativos procedimientos ensayo sistema asistencia frenada
 permitirse métodos medición alternativos demuestre nivel precisión equivalente mencionados
@@ -2715,13 +2707,11 @@ umbral presión PT viene determinado fabricante corresponde deceleración orden
 figura construirá disposiciones punto utilizando mediciones presión funcionamiento definir parámetros enumerados punto
 Figura
 Valor fuerza pedal necesaria alcanzar deceleración máxima sistema asistencia frenada categoría
-
 Fuerza pedal freno
 Figura
 Límite cambio
 Evaluación datos
 presencia sistema asistencia frenada categoría queda probada
-
 FT tegoría queda probada
 FABS extrapolada
 FABS extrapolada
@@ -2799,15 +2789,11 @@ gama frecuencias pertinente Hz fmax Hz atenuación inferior resolución sistema 
 frecuencia equivalente mitad frecuencia muestreo frecuencia Nyquist frecuencia solape reducirán magnitudes componentes frecuencia señal ruido valores inferiores resolución sistema
 resolución atenuación filtro inferior gama frecuencias Hz superior frecuencias superiores mitad frecuencia muestreo
 atenuación filtro Butterworth determina fórmula
-
-
 representa orden filtro
 fmax representa gama frecuencias pertinente Hz
 representa frecuencia corte filtro
 representa frecuencia Nyquist frecuencia solape
 filtro cuarto orden
-
-
 fS fo fS representa frecuencia muestro fN
 Desfases retardos filtrado solapes
 evitará filtrado analógico excesivo filtros presentarán características fase suficientemente similares asegurar retardos debidos filtrado excedan límites precisión requeridos medición tiempo
@@ -2904,7 +2890,6 @@ velocidad impacto requerida ángulo impacto determinarán figuras referencia alt
 energía ensayo requerida impactador determinará referencia figura
 masa impactador incluirá elementos propulsión guía formen integrante impacto incluidos pesos añadidos
 valor ensayo masa impactador calculará fórmula
-
 Masa resultante kg
 Velocidad
 velocidad requerida valor obtenido punto energía obtendrá conforme figura referencia valores altura borde delantero sistema protección delantera frente sistema protección delantera plano longitudinal vertical punto impacto elegido
@@ -2949,7 +2934,6 @@ dirección impacto situará plano longitudinal vertical pase sistema protección
 dirección impacto descendente trasera ángulo nivel referencia suelo
 producirse contacto punto contacto impactador deberá coincidir punto impacto elegido margen tolerancia mm
 velocidad impacto impactador golpear posición impacto deberá
-
 IMPACTADORES ENSAYO
 Impactador simulador pierna
 impactador simulador pierna constará segmentos rígidos recubiertos espuma representarán fémur muslo tibia pierna unidos articulación deformable rodilla
@@ -3172,7 +3156,6 @@ Cables
 Altura caída
 Plancha acero rígida
 Aplicable especifica punto
-
 Ensayos impacto simulador muslo cadera borde delantero capó
 Altura vertical punto impacto mm
 Véase nota
@@ -3192,7 +3175,6 @@ superficie péndulo limpia seca
 deceleración media calculará valores curvas individuales deceleración función fuerza pedal freno incrementos curva obtenida representará deceleración media función fuerza pedal freno designada presente apéndice curva maF
 Regla mm longitud
 Línea referencia
-
 Temperatura disco freno
 Presión freno MPa kPa
 masa elemento delantero componentes situados elementos montaje transductor carga elementos montaje transductor carga situados elementos activos incluir espuma piel kg
@@ -3542,7 +3524,6 @@ valores precisión sistema clasificación facilitarán nivel programas muestreo 
 intensidad muestreo proporcional esfuerzo relativo variabilidad capturas métier trate
 número mínimo mareas deban objeto muestreo inferior mareas trimestre
 efectuará supervisión descartes especies grupos definidos capítulo III sección apartado letra estimar peso trimestral descartes
-
 descartes objeto estimación trimestral distribuciones talla anualmente representen capturas totales peso capturas número especies grupos
 efectúen descartes categorías talla especies estén representadas desembarques deberá estimarse edad reglas fijadas apéndice VII
 proceda efectuarán estudios piloto referencia capítulo II sección punto

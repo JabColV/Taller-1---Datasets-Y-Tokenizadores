@@ -328,11 +328,7 @@ Volumen contingentario
 peso neto toneladas
 Derecho contingentario
 Flores capullos frescos cortados ramos adornos
-
 Exención
-
-
-
 período posterior
 Patatas papas tempranas enero junio frescas refrigeradas
 patatas frescas refrigeradas
@@ -637,7 +633,6 @@ dirección
 codePage especifica conjunto caracteres definidos Capítulo
 address representa dirección codificada utilizando conjunto caracteres especificado
 línea H“F RFU punto sustituye
-
 Conflicto movimiento vehículo
 H“F
 RFU
@@ -898,9 +893,7 @@ aplicable octubre apartados anexo aplicables octubre apartados fecha entrada vig
 actualización confirmación parámetros vehículo guardarse memoria datos dichos parámetros incluyen identificación vehículo VIN VRN miembro matriculación características tamaño neumáticos valor ajuste dispositivo limitador velocidad procede hora real correspondiente tiempo universal coordinado UTC lectura actual cuentakilómetros
 País VRN
 Actividades conductor almacenadas tarjeta orden ocurrencia
-
 hh mm pppp
-
 Duración períodos descanso períodos indeterminados
 Reglamento CE Comisión
 septiembre
@@ -1020,7 +1013,6 @@ preacondicionamiento desconectará encendido sacará llave contacto desactivar b
 desactivarán sistemas ventilación artificial célula ensayo
 convergencia curvas medición resultantes conseguirá aplicación enfoque matemático descrito fórmula
 Fórmula Tt
-
 Tt Temperatura tiempo °C
 Temperatura motor funcionamiento °C
 Temperatura ambiente °C
@@ -2513,7 +2505,6 @@ UMBRAL
 CLIMA
 Baja temperatura
 Duración periodo vegetativo número definido número temperatura media diaria LGPt
-
 Duración térmica gradosdías periodo vegetativo definido temperatura media diaria acumulada
 gradosdías
 Sequedad
@@ -2522,7 +2513,6 @@ PET
 CLIMA SUELO
 Exceso humedad suelo
 Número nivel capacidad campo
-
 SUELO
 Drenaje suelo limitado
 Zonas cubiertas agua periodo año significativo
@@ -2954,9 +2944,7 @@ Subdivisión lotes sublotes productos comercializan partidas granel
 Peso lote
 Peso número sublotes
 toneladas
-
 sublotes
-
 toneladas
 Cuadro
 Subdivisión lotes sublotes productos
@@ -3221,7 +3209,6 @@ límite decisión CGAR EMAR contenido máximo teniendo incertidumbre medida
 práctica valor corte EQB calcularse arreglo siguientes métodos véase figura
 banda inferior intervalo predicción límite decisión CGAR EMAR
 Valor corte EQBLD
-
 EQB corresponde límite decisión CGAR EMAR contenido máximo teniendo incertidumbre medida
 desviación estándar residual
 factor Student grados libertad unilateral
@@ -3291,8 +3278,6 @@ Tolerancias máximas permitidas relaciones abundancia relativas fragmentos masa 
 Desviación relativa relación abundancia fragmentos masa seleccionados términos abundancia teórica patrón calibración ion objetivo ion abundante controlado ion iones calificadores
 Intensidad relativa ion iones cualificadores comparado ion objetivo
 desviación relativa
-
-
 GC ECD
 Confirmación resultados sobrepasen límite tolerancia columnas GC cuya fases estacionarias polaridad
 Demostración funcionamiento método
@@ -3994,7 +3979,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados azucarados edulcorados
@@ -4495,7 +4479,6 @@ pruebas explotación encontraba animal sospechó EET probablemente explotación 
 confirma EET ovino caprino
 resultados ensayo interlaboratorios conformidad procedimiento establecido anexo capítulo punto letra permiten descartar EEB procederá matar destruir completo animales embriones óvulos identificados investigación referencia punto letra quinto guión
 EEB descarta conformidad procedimiento establecido anexo capítulo punto letra procederá decisión autoridad competente
-
 aplicarán explotación condiciones establecidas punto
 matar destruir completo animales embriones óvulos identificados investigación referencia punto letra guiones excepción
 machos destinados reproducción genotipo ARR ARR
@@ -4617,7 +4600,6 @@ BCN participantes
 BCN participantes
 procede
 Bank Ċentrali ta Malta Central Bank of Malta
-
 razón redondeo totales coincidir suma cifras indicadas
 ANEXO II
 CAPITAL DESEMBOLSADO BCN

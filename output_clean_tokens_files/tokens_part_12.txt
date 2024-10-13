@@ -485,7 +485,6 @@ Dispositivos reflujo válvulas admisión aire ventilación tuberías
 usos caso sujetos normativas reacción fuego
 Kits estaciones bombeo aguas residuales instalaciones aspiración aguas negras
 Kits elementos plantas tratamiento aguas residuales equipos tratamiento in situ Fosas sépticas
-
 Canalizaciones desagüe prefabricadas
 Escalones metálicos escaleras barandillas registros pozos inspección
 especificación sistema permitirá aplicación necesario establecer rendimiento relación característica determinada miembro requisitos legales véase apartado artículo Directiva CEE aplicable cláusula Documentos interpretativos
@@ -982,7 +981,6 @@ miembro
 Zona
 Fecha aplicable artículo apartado letra inciso iii
 Código
-
 Nombre
 REINO UNIDO
 Zona protección
@@ -1908,12 +1906,10 @@ Suero mantequilla manteca leche nata crema cuajadas yogur kéfir leches natas cr
 Yogur
 Aromatizados frutas frutos cacao
 Aromatizados
-
 frutas frutos
 cacao
 glucosa peso
 Aromatizados frutas frutos cacao
-
 frutas frutos
 Mantequilla manteca materias grasas leche pastas lácteas untar
 Pastas lácteas untar
@@ -1932,7 +1928,6 @@ Fructosa químicamente pura as grasas leche superior inferior peso
 Artículos confitería cacao incluido chocolate blanco
 Chicles gomas mascar recubiertos azúcar inferior peso
 Preparación llamada chocolate blanco
-
 Chocolate preparaciones alimenticias contengan cacao
 Cacao polvo adición azúcar edulcorante zúcar
 Edulcorado exclusivamente adición sacarosa
@@ -1945,7 +1940,6 @@ Preparaciones alimentación infantil acondicionadas venta menor extracto malta c
 Preparaciones alimenticias productos partidas contenido cacao inferior peso calculado base totalmente desgrasada
 Mezclas pastas preparación productos panadería pastelería galletería partida peso calculado base totalmente desgrasada
 Extracto malta
-
 Preparaciones alimenticias productos partidas contenido cacao inferior peso calculado base totalmente desgrasada
 Pastas alimenticias cocidas rellenas carne sustancias preparadas forma tales espaguetis fideos macarrones tallarines lasañas ñoquis ravioles canelones cuscús preparado
 Pastas alimenticias cocer rellenar preparar forma tis fideos macarrones tallarines lasañas ñoquis ravioles canelones cuscús preparado
@@ -2150,7 +2144,6 @@ Cacao polvo adición azúcar edulcorante so
 preparaciones bloques barras peso superior kg forma líquida pastosa polvo gránulos formas similares recipientes envases inmediatos contenido superior kg inmediatamente inferiores
 bloques tabletas barras leche peso
 Materias grasas leche
-
 Preparaciones alimenticias harina grañones sémola almidón fécula extracto malta contengan cacao contenido cacao inferior peso calculado base totalmente desgrasada expresadas comprendidas preparaciones alimenticias productos partidas contengan cacao contenido cacao inferior peso calculado base totalmente desgrasada expresadas comprendidas
 Pastas alimenticias cocidas rellenas carne sustancias preparadas forma tales espaguetis fideos macarrones tallarines lasañas ñoquis ravioles canelones cuscús preparado
 ex
@@ -2666,7 +2659,6 @@ Gallos gallinas desplumados eviscerados cabeza patas cuello corazón hígado mol
 Gallos gallinas desplumados eviscerados cabeza patas cuello corazón hígado molleja llamados pollos presentados trocear congelados
 Trozos deshuesados gallo gallina congelados
 Pechugas trozos pechuga congelados
-
 Trozos deshuesados pavo congelados
 Preparaciones gallo gallina cocer
 Origen importaciones Brasil Tailandia Argentina Chile
@@ -3026,13 +3018,10 @@ Peso bruto kg
 CERTIFICACIÓN ORGANISMO EMISOR
 suscribe certifica productos anteriormente designados ajustan requisitos regulación relativa lúpulo productos derivados lúpulo vigente Comunidad Europea
 Organismo emisor nombre dirección completa
-
-
 Firma
 Sello
 RESERVADO AUTORIDADES ADUANERAS COMUNIDAD
 presente certificación sustituida extractos
-
 Táchese mención proceda
 ANEXO III
 FORMULARIO CERTIFICACIÓN
@@ -3415,7 +3404,6 @@ oferta monetaria incluye billetes monedas fraccionarias circulación pasivos mon
 contrapartidas oferta monetaria comprenden partidas balance IFM
 BCE recopila transacciones financieras derivadas saldos datos incluidos ajustes revalorización presentados IFM véase
 información estadística requerida BCE resume
-
 Determinación IFM
 Sección Determinación IFM base principios sustituibilidad depósitos
 instituciones financieras distintas entidades crédito emiten instrumentos financieros considerados sustitutos depósitos clasifican IFM ajustan definición IFM aspectos
@@ -3451,7 +3439,6 @@ emitidos
 autoridad nacional regional municipal banco central miembro UE BCE Banco Europeo Inversiones miembro federal miembros federados organismo internacional derecho público pertenecen miembros
 establecimiento sujeto supervisión prudencial arreglo criterios definidos Derecho comunitario establecimiento cumple normas prudenciales autoridades competentes consideren estrictas establecidas Derecho comunitario garantizados establecimientos
 sociedad cuyos valores admitidos cotización oficial bolsa valores negocian mercados regulados operan regularmente reconocidos abiertos público
-
 Balance saldos mensuales
 calcular agregados monetarios contrapartidas territorio miembros participantes BCE requiere datos cuadro conforme
 Categorías instrumentos
@@ -3512,7 +3499,6 @@ Resto mundo
 clasificados anteriores
 IFM
 Instituciones distintas IFM
-
 Bancos
 Instituciones bancarias
 Entidades crédito
@@ -3574,7 +3560,6 @@ Participaciones FMM
 Acciones participaciones
 Activo fijo
 activos
-
 Balance saldos trimestrales
 analizar detalle evolución monetaria fines estadísticos BCE requiere partidas principales
 Detalle subsectores vencimientos garantías inmobiliarias préstamos instituciones distintas IFM miembros participantes véase cuadro
@@ -3637,7 +3622,6 @@ emitidos instituciones distintas IFM
 emitidos bancos
 emitidos instituciones distintas bancos
 Requisito datos trimestrales véase cuadro
-
 Información incluida balance datos anuales
 estadísticas pagos finalidades BCE exige partidas siguientes
 Número cuentas depósitos transferibles
@@ -3652,7 +3636,6 @@ Resto mundo
 Instituciones distintas IFM
 Número cuentas depósitos transferibles vista
 Número cuentas depósitos transferibles vista conectadas Internet ordenadores personales
-
 Presentación información ajustes revalorización elaboración transacciones
 elaborar transacciones agregados monetarios contrapartidas territorio miembros participantes BCE requiere ajustes revalorización saneamientos totales parciales préstamos revalorizaciones valores
 Saneamientos totales parciales préstamos
@@ -3683,7 +3666,6 @@ empresarios individuales sociedades personalidad jurídica
 años
 casilla
 Acciones participaciones
-
 Obligaciones información titulizaciones préstamos transferencias préstamos
 efectos entiende baja retirar préstamo saldos partes anexo incluida retirada aplicación exención referencia artículo apartado
 Obligaciones generales
@@ -3730,7 +3712,6 @@ Saldos vivos préstamos administrados titulización
 Préstamos administrados sociedades instrumentales
 Préstamos administrados sociedades instrumentales zona euro
 Requisito datos mensuales véase cuadro
-
 Presentación información simplificada entidades crédito tamaño reducido
 entidades crédito aplican exenciones contempladas artículo apartado letra exentas siguientes obligaciones
 detalle monedas referencia sección
@@ -3742,7 +3723,6 @@ detalle sectores referencia sección
 detalle países referencia sección
 detalle monedas referencia sección
 entidades crédito cumplir obligaciones información referencia partes presentando datos periodicidad trimestral plazos estipulados estadísticas trimestrales artículo apartado
-
 Resumen
 Resumen detalles efectos balance agregado sector IFM
 Categorías instrumentos vencimientos
@@ -4104,7 +4084,6 @@ Base reservas calculada sumando siguientes columnas cuadro pasivo
 PASIVOS FORMA DEPÓSITO
 Euros monedas extranjeras
 Depósitos totales
-
 plazo
 años
 disponibles preaviso

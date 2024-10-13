@@ -80,7 +80,6 @@ función evolución oferta demanda transporte ajustará años procede estructura
 Elementos costes externos
 Coste contaminación atmosférica provocada tráfico
 miembro opte incluir parcialmente coste contaminación atmosférica provocada tráfico tasa costes externos miembro caso autoridad independiente calculará coste imputable contaminación atmosférica provocada tráfico aplicando fórmula figura continuación valores unitarios recogidos cuadro anexo III ter inferiores
-
 coste contaminación atmosférica emitida vehículo categoría carretera tipo euros vehículokilómetro
 factor emisión contaminante vehículo categoría gramo vehículokilómetro
 coste monetario contaminante tipo carretera euro gramo
@@ -122,7 +121,6 @@ valores cuadro multiplicarse factor máximo zonas montaña medida justifiquen pe
 Coste máximo contaminación acústica provocada tráfico
 Cuadro
 Coste máximo imputable contaminación acústica
-
 Noche
 valores cuadro multiplicarse factor máximo zonas montaña medida justifiquen pendiente carretera inversiones térmicas efecto anfiteatro valles
 DECLARACIÓN COMISIÓN TABLAS CORRESPONDENCIA
@@ -471,7 +469,6 @@ envío DG AGRI
 Corrección errores Reglamento CE Consejo mayo modifica Reglamento CE crea organización común mercados agrícolas establecen disposiciones específicas determinados productos agrícolas Reglamento único OCM
 Diario Oficial Unión Europea junio página artículo tervicies apartado párrafo miembros tomarán medidas necesarias ilícito términos tradicionales miembros tomarán medidas necesarias ilícito términos tradicionales protegidos página artículo tervicies apartado términos tradicionales genéricos Comunidad términos tradicionales convertirse genéricos Comunidad
 página anexo tabla correspondencias
-
 Reglamento CE
 Presente Reglamento
 Artículo apartado letras incisos iv
@@ -480,7 +477,6 @@ Artículo apartado letra incisos viii
 Artículo párrafo
 Artículo apartado letra
 Artículo apartado
-
 Artículo apartado letra
 Artículo párrafo
 Artículo apartado letras incisos iv
@@ -1854,7 +1850,6 @@ miembros Comisión estén conveniencia invitará partes interesadas participar r
 Artículo
 Modificación anexos
 Comisión modificar anexos presente Reglamento adaptarlos progreso científico técnico reglamentos conformidad procedimiento contemplado artículo apartado Directiva CE
-
 anexos II III IIIA IV modificarán cambios acordados Convenio Basilea Decisión OCDE anexo relativa instrucciones específicas cumplimentar documentos notificación movimiento completará tardar fecha aplicación presente Reglamento teniendo instrucciones OCDE
 residuos clasificados añadirse anexos IIIB IV carácter provisional espera decisión inclusión pertinentes anexos Convenio Basilea Decisión OCDE
 petición miembro plantearse añadir anexo IIIA mezclas residuos enumerados anexo III casos contemplados artículo apartado carácter provisional espera decisión inclusión anexos correspondientes Convenio Basilea Decisión OCDE
@@ -2251,7 +2246,6 @@ LISTA VERDE RESIDUOS
 Independientemente residuos estén incluidos lista sujetos requisitos generales información establecidos artículo acompañados determinada información contaminados materiales grado
 aumente riesgos asociados residuos suficiente considere oportuno someterlos procedimiento notificación autorización previas escrito teniendo características peligrosidad mencionadas anexo III Directiva CEE
 impida valorización residuos ambientalmente correcta
-
 siguientes residuos estarán sujetos requisitos información general establecidos artículo
 Residuos enumerados anexo IX Convenio Basilea
 referencia lista anexo IX Convenio Basilea entenderá referencia anexo IV presente Reglamento
@@ -2334,7 +2328,6 @@ residuo figura verificar lista residuo aparece lista comprobarse incluido residu
 residuos enumerados lista figuran residuos peligrosos residuos llevan asterisco estarán sujetos prohibición exportación estuvieran contaminados materiales grado
 aumente riesgos asociados residuos suficiente considere oportuno someterlos procedimiento notificación autorización previas escrito teniendo características peligrosidad enumeradas anexo III Directiva CEE
 impida valorización residuos ambientalmente correcta
-
 Lista anexo VIII Convenio Basilea
 RESIDUOS METALES RESIDUOS CONTENGAN METALES
 Residuos metales residuos estén constituidos aleaciones cualquiera sustancias siguientes
@@ -2596,7 +2589,6 @@ cartón laminado
 desperdicios triar
 Desechos seda inclusión capullos inadecuados devanado desechos hilados materiales hilachas
 estén cardados peinados
-
 Desechos lana pelo animal fino basto inclusión desechos hilados exclusión material hilachas
 borras lana pelo animal fino
 desechos lana pelo animal fino
@@ -2648,7 +2640,6 @@ Residuos neumáticos excluidos destinados operaciones anexo IVA
 Residuos estén constituidos principalmente pinturas tintas barnices endurecidos base agua látex contengan disolventes orgánicos metales pesados biocidas grado conviertan peligrosos véase categoría correspondiente lista
 Residuos procedentes producción formulación utilización resinas látex plastificantes colas adhesivos figuren lista disolventes contaminantes grado presenten características anexo III ejemplo base agua colas base almidón caseína dextrina éteres celulosa alcoholes polivinílicos véase categoría correspondiente lista
 Aparatos fotográficos usados baterías incluidas lista
-
 Residuos enumerados anexo Decisión CE
 RESIDUOS PROSPECCIÓN EXTRACCIÓN MINAS CANTERAS TRATAMIENTOS FÍSICOS QUÍMICOS MINERALES
 Residuos extracción minerales
@@ -3315,7 +3306,6 @@ Lodos fosas sépticas
 Residuos limpieza alcantarillas
 Residuos voluminosos
 Residuos municipales especificados categoría
-
 Lista anexo II Convenio Basilea
 Residuos domésticos
 Residuos resultantes incineración residuos domésticos
@@ -3362,7 +3352,6 @@ Domicilio Operación valorización código
 Domicilio
 Identificación residuos
 Tecnologías empleadas
-
 kg litro
 ANEXO VII
 INFORMACIÓN ACOMPAÑAR TRASLADOS RESIDUOS REFIERE ARTÍCULO APARTADOS
@@ -3420,7 +3409,6 @@ Información medidas adoptadas prohibir carácter general parcial traslados resi
 aplicar principios proximidad prioridad valorización autosuficiencia nivel comunitario nacional Directiva CE aplicado disposición
 aplicado disposición
 marque casilla apropiada
-
 Información medidas adoptadas oponerse sistemáticamente traslados residuos miembros
 aplicar principios proximidad prioridad valorización autosuficiencia nivel comunitario nacional Directiva CE aplicado disposición
 Artículo apartado letra Información prohibición importación residuos aplicado disposición
@@ -3429,7 +3417,6 @@ Artículo apartado
 Información excepciones aplicación principios proximidad prioridad valorización autosuficiencia
 caso residuos peligrosos producidos miembro expedición cantidades globales anuales pequeñas creación instalaciones especializadas eliminación económicamente inviable
 solicitado miembro aplique excepción
-
 Artículo apartado letra
 Información objeciones traslados eliminación previstos conformes Directiva CE
 respuesta afirmativa cumplimente cuadro
@@ -3446,8 +3433,6 @@ Información tráfico ilícito residuos
 respuesta afirmativa cumplimente cuadro Describa previenen detectan sancionan traslados ilícitos residuos legislación nacional
 Artículo apartado Información controles terreno traslados residuos correspondiente recuperación eliminación
 Número controles traslados residuos recuperación eliminación correspondiente Número traslados supuestamente ilegales constatados controles Observaciones adicionales
-
-
 Información fianza seguro equivalente cubre gastos transporte valorización eliminación almacenamiento residuos incluidos casos refieren artículos Indique detalles disposiciones legislación nacional establecidas arreglo artículo
 Información oficinas aduaneras designadas miembros traslados residuos entran salen Comunidad
 designado oficinas
@@ -3489,7 +3474,6 @@ Determinación motivo ilicitud referencia artículos infringidos
 Responsable ilicitud marque casilla apropiada
 Notificante
 Destinatario
-
 Medidas adoptadas incluidas posibles sanciones
 Cuadro
 Información oficinas aduaneras designadas miembros traslados residuos entran salen comunidad artículo
@@ -3500,11 +3484,9 @@ Países importación exportación controlados
 Información casos concluidos período abarcado informe
 residuos clasificados rúbrica anexos III IIIB IV IVA cuyo caso deberá especificarse residuo
 mezclas residuos clasificadas rúbrica anexos III IIIB IV IVA figuren anexo IIIA cuyo caso código fracción residuos deberá especificarse orden importancia
-
 Operaciones eliminación valorización
 Ámbito notificación
 Traslados múltiples
-
 transportista
 Regeneración reutilización aceites usados
 Tratamiento suelos produzca beneficio agricultura mejora ecológica
@@ -3590,14 +3572,10 @@ Residuos materiales compuestos base cemento distintos especificados códigos
 Residuos sólidos tratamiento gases distintos especificados código
 Concentrados acuosos contienen sustancias peligrosas
 fracciones contienen sustancias peligrosas
-
-
 Observaciones adicionales
 respuesta afirmativa cumplimente cuadro indique continuación detalles solución bilateral alcanzada arreglo artículo apartado
 sistema vigilancia control traslados residuos realizados jurisdicción
 aplica sistema establecido títulos II VII Reglamento indique detalles sistema aplicado
-
-
 Código
 Instalación valorización autorización previa
 Tipos embalajes
@@ -3608,7 +3586,6 @@ Designación composición residuos
 Características físicas
 Códigos aduanas SA
 Descripción usual residuos
-
 hafnio
 renio
 samario
@@ -3818,7 +3795,6 @@ Pureza
 Pérdida desecación
 °C horas desecador vacío
 Cenizas sulfatadas
-
 Sustancias reductoras
 expresadas Dglucosa
 Ribitol glicerol
@@ -3890,9 +3866,7 @@ rotatorio específico
 αD to calculado sustancia anhidra solución acuosa
 Humedad
 método Karl Fischer
-
 disacáridos clorados
-
 Monosacáridos clorados
 Óxido trifenilfosfina
 mg kg

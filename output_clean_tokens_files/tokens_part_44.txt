@@ -862,7 +862,6 @@ productos originarios Ceuta Melilla
 productos enteramente obtenidos Ceuta Melilla
 productos obtenidos Ceuta Melilla cuya fabricación hayan utilizado productos distintos mencionados letra
 productos hayan suficientemente elaborados transformados sentido artículo
-
 productos originarios Islandia Comunidad hayan objeto elaboraciones transformaciones vayan allá operaciones contempladas artículo
 productos originarios Islandia
 productos enteramente obtenidos Islandia
@@ -1835,7 +1834,6 @@ Grupos
 Cantidad aproximada
 Años cosecha
 Tipos arroz
-
 Reglamento CE Comisión
 noviembre
 relativo expedición certificados exportación sistema sector frutas hortalizas tomates naranjas limones uvas mesa manzanas
@@ -2061,7 +2059,6 @@ Código
 Descripción
 Filtro
 PAÍS RESIDENCIA
-
 dígitos
 base nomenclatura ISO detalles Manual encuesta educación adultos mencionado artículo
 REGIÓN RESIDENCIA
@@ -2100,7 +2097,6 @@ Madre padre hijo hijos menores años
 Pareja hijos menores años
 Pareja hijos menores años
 Pareja madre padre hijo hijos menores años personas viven hogar
-
 COMPOSICIÓN HOGAR SITUACIÓN LABORAL
 Número personas años trabajan
 Número personas años desempleadas inactivas
@@ -2343,7 +2339,6 @@ Miembro hogar pariente
 persona
 variable FEDPAIDBYx código
 PAGO COMPLETO INSTRUCCIÓN MATRÍCULA TASAS EXAMEN GASTOS LIBROS MEDIOS TÉCNICOS ESTUDIO ACTIVIDAD EDUCACIÓN OFICIAL RECIENTE CARGO IDENTIFICADO FEDPAIDBY
-
 aplicable FEDPAIDBY
 respuesta conocen costes totales
 COSTES PAGADOS PERSONALMENTE MIEMBRO HOGAR PARIENTE INSTRUCCIÓN MATRÍCULA TASAS EXAMEN LIBROS MEDIOS TÉCNICOS ESTUDIO RELATIVOS ACTIVIDAD EDUCACIÓN OFICIAL RECIENTE
@@ -2584,19 +2579,15 @@ tipo códigos LANGLEVEL
 NÚMERO ASISTIDO ESPECTÁCULO MESES
 meses
 meses
-
 NÚMERO IDO CINE MESES
 NÚMERO VISITAS CENTROS CULTURALES MESES
 NÚMERO ASISTIDO ACTOS DEPORTIVOS VIVO MESES
 PRENSA LEÍDA PAPEL INTERNET MESES
-
 semana
 mes semanas
 mes
 LEÍDO LIBRO MESES
 NÚMERO APROXIMADO LIBROS LEÍDOS MESES
-
-
 aplicable CULTBOOK
 PARTICIPATION ACTIVIDADES SIGUIENTES MESES
 actividades citadas continuación
@@ -3035,7 +3026,6 @@ Filtro observación
 CONTEXTO DEMOGRÁFICO
 TRIMESTRAL
 Número orden hogar entrevistas hogar
-
 Número orden dígitos asignado miembro hogar
 ANUAL
 Relación persona referencia hogar
@@ -3045,7 +3035,6 @@ Cónyuge pareja persona referencia
 Hijo persona referencia cónyuge pareja
 Ascendiente persona referencia cónyuge pareja
 parientes
-
 aplicable HHTYPE
 Número orden cónyuge pareja
 Número orden cónyuge pareja hogar
@@ -3116,7 +3105,6 @@ WSTATOR NOWKREAS NOWKREAS STAPRO
 Ausente periodo meses
 Ausente meses percibe sueldo prestaciones sociales correspondientes mitad salario
 Ausente meses percibe sueldo prestaciones sociales correspondientes mitad salario
-
 aplicable WSTATOR NOWKREAS NOWKREAS STAPRO
 Actividad económica establecimiento
 NACE rev codificada caso dígitos
@@ -4501,10 +4489,8 @@ DO Decisión modificada Directiva CEE DO
 Corrección errores Comunidad Europea Confederación Suiza relativo facilitación controles formalidades transporte mercancías medidas aduaneras seguridad
 Diario Oficial Unión Europea julio
 página anexo artículo apartado
-
 declaración sumaria entrada salida incluirá datos anexo bis Reglamento CEE Comisión julio fijan determinadas disposiciones aplicación Reglamento CEE Consejo establece código aduanero comunitario denominado sucesivo Reglamento CEE
 cumplimentará conformidad notas explicativas figuran anexo bis autenticado persona establezca
-
 página anexo II artículo guión
 operador económico autorizado presentar declaraciones sumarias entrada salida sujetas requisitos simplificados relativo datos figurar mencionan anexo bis Reglamento CEE Comisión julio fijan determinadas disposiciones aplicación Reglamento CEE Consejo establece código aduanero comunitario obstante operador económico autorizado transportista empresa transporte agente aduanas acogerse requisitos simplificados cabo importación exportación mercancías nombre operador económico autorizado
 DO

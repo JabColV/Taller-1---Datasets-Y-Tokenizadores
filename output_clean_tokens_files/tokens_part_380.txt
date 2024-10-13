@@ -613,7 +613,6 @@ DO
 DO
 ANEXO
 Lista aditivos alimentarios autorizados aprobados enero cuya reevaluación completado AESA momento adoptar presente Reglamento
-
 SUSTANCIA
 Año evaluación CCAH AESA
 Situación reevaluación AESA
@@ -916,7 +915,6 @@ efectos aplicación presente artículo circunstancias deriven trabajo experto na
 Artículo
 Gastos viaje
 experto nacional cuyo lugar residencia esté situado km lugar destino comisión servicio derecho reembolso gastos viaje
-
 lugar considerado residencia lugar destino comisión servicio iniciarse período desempeño comisión servicio
 lugar destino comisión servicio lugar considerado residencia finalizar período desempeño comisión servicio
 cónyuge hijos cargo vivan gastos traslado vayan reembolsados Agencia
@@ -2312,7 +2310,6 @@ Cuadro
 Modelo negocio
 valor inversión
 ayuda
-
 millones EUR
 millones EUR
 ayuda
@@ -2351,7 +2348,6 @@ Importaciones exportaciones gasóleo
 Fuente DGEG cursiva datos Petrogal
 Importaciones
 kt
-
 Exportaciones
 Portugal suficiente capacidad almacenamiento Portugal proporcionado datos muestran operadores adoptado distintas opciones estratégicas invertir capacidad almacenamiento arrendamiento instalaciones ambas alternativas posibles viables
 principales operadores aumentado capacidad almacenamiento oportunidades aparecido mercado indica recursos almacenamiento suficientes apoyar actividades comercialización
@@ -4370,7 +4366,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -4401,7 +4396,6 @@ país región incluidos anexo II Reglamento UE autorizados importar Unión carne
 animales mantenidos tercer país región refiere letra indemne fiebre aftosa caso lana pelo animales especies ovina caprina viruela ovina viruela caprina arreglo criterios básicos figuran anexo II Directiva CE
 Notas
 presente declaración expide únicamente efectos veterinarios acompañar envío puesto inspección fronterizo expedida lenguas oficiales miembro producto Unión lenguas oficiales miembro destino
-
 Casilla Número autorización número registro establecimiento planta asignado autoridad competente
 Casilla Utilizar código correspondiente sistema armonizado Organización Mundial Aduanas partidas siguientes
 Casilla Cantidad indique peso bruto peso neto kilogramos
@@ -4554,7 +4548,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -4797,7 +4790,6 @@ Bruselas diciembre
 Consejo
 Presidente
 DO
-
 gobierno Unidos América Comunidad Europea coordinación programas etiquetado eficiencia energética equipos ofimáticos
 Gobierno Unidos América Comunidad Europea sucesivo denominados Partes
 Deseosos máximo ahorro energía mayores beneficios medioambientales posibles fomento oferta demanda productos elevada eficiencia energética

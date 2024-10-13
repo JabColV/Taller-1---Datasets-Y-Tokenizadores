@@ -93,7 +93,6 @@ Grasa
 Hígado
 Riñón
 Despojos comestibles
-
 Bovino
 Ovinos
 Caprinos
@@ -1939,7 +1938,6 @@ Noruega
 Groenlandia
 Feroe
 Turquía
-
 Islandia
 carne cabrito
 carne caprino cabrito
@@ -2641,7 +2639,6 @@ Polonia
 Lituania
 República Checa
 Turquía
-
 importaciones procedentes Taiwán representan cuota mercado período investigación supone unidades
 volumen importaciones procedentes Taiwán superiores fuente importación
 período considerado cuota mercado cayó
@@ -2970,9 +2967,7 @@ DO
 Corrección errores Reglamento CE Parlamento Europeo Consejo julio condiciones acceso redes transporte gas natural deroga Reglamento CE
 Diario Oficial Unión Europea agosto
 página artículo párrafo
-
 presente Reglamento aplicable septiembre
-
 presente Reglamento aplicable marzo
 Reglamento UE Parlamento Europeo Consejo
 marzo
@@ -3707,7 +3702,6 @@ presente Protocolo entrará vigor diciembre hayan depositado instrumentos ratifi
 Artículo
 presente Protocolo redactado ejemplar único lenguas alemana búlgara checa danesa eslovaca eslovena española estonia finesa francesa griega húngara inglesa irlandesa italiana letona lituana maltesa neerlandesa polaca portuguesa rumana sueca cuyos textos lenguas igualmente auténticos depositado archivos Gobierno República Italiana remitirá copia autenticada Gobiernos signatarios
 FE plenipotenciarios abajo firmantes suscriben presente Protocolo
-
 diciembre conformidad artículo apartado frase TUE Consejo remitió proyecto Consejo Europeo notificó asimismo Parlamentos nacionales
 Reglamento CE Comisión
 octubre

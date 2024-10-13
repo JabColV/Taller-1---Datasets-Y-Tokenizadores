@@ -235,7 +235,6 @@ miembros programas regionales crear comité nacional seguimiento encargado coord
 Artículo
 Responsabilidades Comité seguimiento
 Comité seguimiento comprobará eficacia aplicación programa desarrollo rural
-
 examinará periódicamente avances registrados cumplimiento objetivos específicos programa base documentos presentados Autoridad gestión
 examinará resultados aplicación especialmente cumplimiento objetivos establecidos eje evaluaciones continuas
 examinará aprobará informe intermedio anual informe intermedio enviarlos Comisión
@@ -1590,7 +1589,6 @@ Noruega
 Groenlandia
 Feroe
 Turquía
-
 Islandia
 carne cabrito
 carne caprino cabrito
@@ -1954,7 +1952,6 @@ Nombre
 Localidad
 Límite homologación
 Categoría
-
 Región
 Instrucciones Secretario Tribunal Función Pública Unión Europea
 septiembre
@@ -3977,7 +3974,6 @@ importe billetes circulación balance BCN resultará componentes
 valor ajustado billetes euros circulación incluidos billetes año introducción efectivo euros denominados monedas nacionales zona euro BCN adopte euro calculará conforme cualquiera métodos siguientes
 Método
 Método
-
 valor ajustado billetes circulación
 valor billetes producidos recibidos impresor BCN
 valor billetes destruidos
@@ -4184,7 +4180,6 @@ Fuente obligación legal
 Propósito informe
 financiero diario Eurosistema
 Interno
-
 Principalmente fines gestión liquidez vistas aplicación artículo Estatutos SEBC
 datos financiero diario emplean calcular renta monetaria
 financiero semanal desagregado

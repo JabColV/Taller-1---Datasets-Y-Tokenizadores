@@ -2569,7 +2569,6 @@ Limas
 Mandarinas incluidos clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -2791,7 +2790,6 @@ originario prefecturas Fukushima Gunma Ibaraki Tochigi Miyagi Yamanashi Saitama 
 fecha
 nombre laboratorio determinar nivel radionúclidos cesio cesio resultados analíticos conformes tolerancias máximas contempladas artículo apartado
 adjunta informe análisis
-
 Sello firma representante autorizado refiere artículo apartado
 Producto país origen
 rellenarla autoridad competente puesto inspección fronterizo punto entrada designado
@@ -3229,7 +3227,6 @@ Sustancia
 Cantidad vendida números
 sustancias expresarán kilogramos
 Indicador confidencialidad números
-
 Reglamento CE Comisión
 abril
 fijan tipos restituciones aplicables determinados productos sector azúcar exportados forma mercancías incluidas anexo Tratado
@@ -3368,7 +3365,6 @@ Miembro Comisión
 DO
 ANEXO
 DECISIÓN COMITÉ MIXTO AGRICULTURA CREADO COMUNIDAD EUROPEA CONFEDERACIÓN SUIZA COMERCIO PRODUCTOS AGRÍCOLAS
-
 relativa modificaciones apéndices anexo
 COMITÉ MIXTO AGRICULTURA
 Visto Comunidad Europea Confederación Suiza comercio productos agrícolas particular artículo
@@ -3759,12 +3755,10 @@ proveedores servicios navegación aérea evaluarán efectos descenso FL aeronave
 miembros garantizarán conversiones kHz operen período prueba mínimo semanas verificará seguridad operaciones previamente coordinación tabla COM Doc OACI
 miembros garantizarán conversiones kHz realicen respetando criterios planificación frecuencias OACI descritos II AirGround Communications Frequency Assignment Planning Criteria EUR Frequency Management Manual ICAO EUR Doc
 ANEXO III
-
 REQUISITOS EVALUACIÓN CONFORMIDAD IDONEIDAD COMPONENTES CONTEMPLADOS ARTÍCULO
 actividades verificación demostrarán conformidad componentes prestaciones prescritas presente Reglamento idoneidad dichos componentes utilizan entorno ensayo
 aplicación fabricante módulo descrito considerará procedimiento evaluación conformidad adecuado garantizar declarar conformidad componentes
 autorizan procedimientos equivalentes estrictos
-
 MÓDULO CONTROL INTERNO FABRICACIÓN
 presente módulo describe procedimiento fabricante representante autorizado establecido Comunidad asume obligaciones establecidas punto garantiza declara componentes satisfacen prescrito presente Reglamento
 fabricante representante autorizado establecido Comunidad deberá elaborar declaración escrita conformidad idoneidad arreglo punto anexo III Reglamento CE
@@ -3775,7 +3769,6 @@ persona personas informarán miembros lugar forma documentación técnica pondr�
 documentación técnica deberá permitir evaluación conformidad componentes prescrito presente Reglamento
 medida necesaria dicha evaluación comprenderá diseño fabricación funcionamiento componentes
 fabricante representante autorizado guardarán copia declaración conformidad idoneidad documentación técnica
-
 REQUISITOS VERIFICACIÓN SISTEMAS CONTEMPLADA ARTÍCULO APARTADO
 verificación sistemas previstos artículo apartado demostrará conformidad requisitos interoperabilidad prestaciones seguridad presente Reglamento entorno evaluación refleje contexto operativo dichos sistemas
 particular
@@ -3796,7 +3789,6 @@ realizará inspecciones ensayos indica plan ensayos
 redactará informe resultados inspecciones ensayos
 proveedor servicios navegación aérea garantizará sistemas contemplados artículo apartado operados entorno operativo simulado cumplen requisitos interoperabilidad prestaciones seguridad presente Reglamento
 verificación proveedores servicios navegación aérea expedirán declaración CE verificación sistema presentarán autoridad nacional supervisión expediente técnico dispone artículo Reglamento CE
-
 REQUISITOS VERIFICACIÓN SISTEMAS CONTEMPLADA ARTÍCULO APARTADO
 verificación sistemas tratamiento datos vuelo demostrará funcionalidad descrita artículo apartado implementada correctamente
 proveedor servicios navegación aérea determinará entorno técnico operativo evaluación adecuado refleje entorno operativo encargará organismo notificado actividades verificación
@@ -3955,9 +3947,7 @@ Dicloroetano máximo kg contenido seco cloruro clormecuat
 Cloroetileno cloruro vinilo máximo kg contenido seco cloruro clormecuat
 diciembre
 noviembre
-
 autorizar usos regulador crecimiento vegetal cereales
-
 evaluación solicitudes autorización productos fitosanitarios contengan clormecuat usos correspondientes plantaciones centeno triticale particular respecta exposición consumidores miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión clormecuat particular apéndices II aprobó Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención
@@ -4250,13 +4240,11 @@ perjuicio Convención Ginebra miembros determinar solicitante presente solicitud
 Artículo
 Agentes persecución causantes daños graves
 Agentes persecución causantes daños graves
-
 partidos organizaciones controlan considerable territorio
 agentes estatales demostrarse agentes mencionados letras incluidas organizaciones internacionales quieren proporcionar protección persecución daños graves definida artículo
 Artículo
 Agentes protección
 proporcionar protección
-
 partidos organizaciones incluidas organizaciones internacionales controlan considerable territorio
 general entenderá protección agentes mencionados apartado tomen medidas razonables impedir persecución sufrimiento daños graves disposición sistema jurídico eficaz investigación procesamiento sanción acciones constitutivas persecución daños graves solicitante acceso dicha protección
 valorar organización internacional controla considerable territorio proporciona protección descrita apartado miembros orientación desprenderse actos pertinentes Consejo

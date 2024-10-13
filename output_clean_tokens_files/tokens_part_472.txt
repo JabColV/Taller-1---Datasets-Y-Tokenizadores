@@ -600,12 +600,10 @@ Fecha ejecución
 indíquese fecha concederse ayuda arreglo régimen conceda ayuda ad hoc
 Duración régimen
 indíquese fecha conceder ayuda arreglo régimen caso ayuda ad hoc fecha prevista deberá pagarse plazo
-
 Sectores económicos afectados
 sectores subvencionables ayuda regional inversión
 Limitado sectores específicos
 Especifíquese sector clasificación NACE Rev
-
 Nombre dirección entidad concede ayuda
 inclúyase teléfono dirección correo electrónico
 Indíquese dirección Internet publicación régimen ayuda
@@ -740,11 +738,9 @@ CAS
 CICAP
 septiembre
 agosto
-
 autorizarán usos insecticida rodenticida forma productos inmediato contengan fosfuro aluminio
 autorizará rodenticida únicamente exterior
 autorizaciones deberán limitarse usuarios profesionales
-
 aplicación principios uniformes anexo VI conclusiones informe revisión fosfuro aluminio particular apéndices II aprobado Comité Permanente Cadena Alimentaria Sanidad Animal octubre
 evaluación general miembros deberán considerar especialmente
 protección consumidores cuyo evitarse utilización productos inmediato contengan fosfuro aluminio labores desratización desinsectación lugares almacenen alimentos preverse plazo espera adecuado
@@ -1446,7 +1442,6 @@ probabilidad efecto negativo materialice usuario normal exposición correspondie
 probabilidades combinan cuadro probabilidad general introduce cuadro
 Probabilidad general daño salud seguridad
 Probabilidad producto peligroso
-
 Probabilidad daño salud seguridad exposición regular producto peligroso
 peligro presente daño salud seguridad probable previsible
 Media
@@ -4030,7 +4025,6 @@ Descripción
 Descripción principales características distribución alimentos ayuda material básica prestar medidas acompañamiento correspondientes
 Programas nacionales
 Descripción programas nacionales financiar
-
 información adicional considere necesaria
 EJECUCIÓN
 Identificación personas desfavorecidas
@@ -4878,7 +4872,6 @@ pruebas
 EUR
 EUR
 Coste pruebas máximo precio máximo EUR prueba
-
 EUR máximo
 CAPÍTULO
 Información técnica financiera
@@ -4888,7 +4881,6 @@ Determinación genotipo PrP análisis SNP secuenciación ADN
 muestras aminoácido codón
 Ácido aspártico
 Serina
-
 Estudio raza Damascus
 Estudio raza Saanen
 Estudio raza Macheras local

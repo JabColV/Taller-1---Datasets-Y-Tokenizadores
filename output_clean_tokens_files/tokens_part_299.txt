@@ -34,10 +34,6 @@ acero contenido silicio superior inferior peso contenido carbono inferior peso c
 identificables destinadas exclusiva principalmente determinada máquina máquinas partida partidas partes citadas párrafo precedente clasifican partida correspondiente máquinas casos partidas partes destinadas principalmente artículos partida partidas clasifican partida
 Kϋlkereskedelemstatisztikai Főosztály
 Statistika centralbyrån
-
-
-
-
 meldonio
 combinarse prefijos sufijos ejemplo fosfato clorhidrato precedidos prefijo multiplicador bi bis di hemi hepta hexa mono penta sesqui tetra tri tris etc ejemplo diacetato
 acetoxietil
@@ -361,7 +357,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Transportista
 miembro
@@ -410,7 +405,6 @@ partida cumple condiciones zoosanitarias establecidas Decisión CE Comisión
 partida cumple condiciones zoosanitarias establecidas Decisión CE Comisión
 partida cumple condiciones zoosanitarias establecidas Decisión EU Comisión vacunación influenza aviar
 Notas
-
 Casilla Indicar matrícula vagones contenedores ferrocarril camiones número vuelo aviones nombre barcos
 Casilla Categoría seleccionar siguientes opciones línea pura abuelos padres pollitas ponedoras engorde
 Identificación indicar datos identificación manada origen marca comercial
@@ -720,7 +714,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -1104,10 +1097,8 @@ Consejo
 Corrección errores Acción Común PESC Consejo noviembre modifica prorroga Acción Común PESC establece Misión asistencia fronteriza Unión Europea paso fronterizo Rafah MAFUE Rafah
 Diario Oficial Unión Europea noviembre
 página artículo punto
-
 artículo apartado sustituye texto
 importe referencia financiera destinado cubrir gastos asociados Misión EUR EUR período comprendido enero mayo
-
 importe referencia financiera destinado cubrir gastos asociados Misión período comprendido noviembre mayo EUR
 Reglamento Ejecución UE Comisión
 junio
@@ -1548,8 +1539,6 @@ Código producto
 Trigo morcajo tranquillón
 trigo duro
 siembra
-
-
 siembra
 Trigo blando morcajo tranquillón
 Centeno
@@ -1651,7 +1640,6 @@ categoría arreglo definición anexo Reglamento CE
 trigo grano troceado triturado respondan consignada anexo Reglamento CE Comisión
 partidos
 Germen cereales entero aplastado copos molido
-
 Malta cebada cereales tostada
 tostar
 Harina
@@ -1672,7 +1660,6 @@ Gluten trigo seco contenido proteínas extracto seco superior peso
 azúcares incluidas lactosa maltosa glucosa fructosa levulosa químicamente puras sólido jarabe azúcar adición aromatizante colorante sucedáneos miel mezclados miel natural azúcar melaza caramelizados
 Glucosa jarabe glucosa fructosa contenido fructosa producto seco inferior peso
 polvo cristalino blanco aglomerado
-
 Glucosa jarabe glucosa contenido fructosa producto seco superior inferior peso azúcar invertido
 incluido azúcar invertido azúcares jarabes azúcar contenido fructosa producto seco peso
 Maltodextrina jarabe maltodextrina
@@ -1746,9 +1733,7 @@ preparaciones conservas carne despojos sangre
 especie bovina
 Corned beef envases herméticamente cerrados contenga carne animales especie bovina
 relación colágeno proteína superior contengan peso porcentajes carne vacuno siguientes excluidos despojos grasa
-
 Productos cumplan condiciones establecidas Reglamento CE
-
 envases herméticamente cerrados
 contengan carne animales especie bovina
 Animales vivos especie porcina
@@ -1782,10 +1767,8 @@ Pancetas trozos corteza
 contenido global peso cartílagos inferior
 Prosciutto di Parma Prosciutto di San Daniele trozos
 Embutidos productos similares carne despojos sangre preparaciones alimenticias base productos
-
 Embutidos secos untar cocer
 contengan carne despojos aves corral
-
 especie porcina
 especie porcina doméstica
 Cocida contenido carne grasa superior peso
@@ -1795,7 +1778,6 @@ Paletas trozos paleta
 envases inmediatos contenido neto superior kg
 incluidas mezclas
 contenido carne despojos clase superior peso incluidos tocino grasa naturaleza origen
-
 contengan carne despojos aves corral
 contengan producto compuesto trozos claramente reconocibles carne muscular cuyo tamaño permita determinar obtenidos piernas paletas chuleteros espinazos pequeñas partículas grasa visible pequeñas cantidades depósitos gelatina
 Gallos gallinas patos gansos pavos gallipavos pintadas especies domésticas vivos
@@ -1870,7 +1852,6 @@ Leche nata crema concentradas adición azúcar edulcorante
 polvo gránulos formas sólidas contenido materias grasas inferior peso
 adición azúcar edulcorante
 envases inmediatos contenido neto inferior kg
-
 polvo gránulos formas sólidas contenido materias grasas superior peso
 contenido materias grasas inferior peso
 envases inmediatos contenido neto inferior kg
@@ -2364,7 +2345,6 @@ Noreste
 Esposa General Brigada Hla Myint
 General Brigada Wai Lin
 Triángulo
-
 General Brigada Zaw Min
 Sureste
 Esposa General Brigada Zaw Min
@@ -2462,10 +2442,8 @@ Dc
 Phone Myat Soe
 Dd
 Wei Wei Lay
-
 Df
 San Thida Soe
-
 Dh
 Coronel Thein Nyunt
 Progreso Zonas Fronterizas Razas Nacionales Asuntos Desarrollo Alcalde Naypidaw
@@ -2506,7 +2484,6 @@ Energía Eléctrica ministerio
 Esposa General División Khin Maung Mint
 Empleo Trabajo nombrado Ministro Relaciones encargado relaciones Aung San Suu Kyi
 Esposa Aung Kyi
-
 Kyaw Thu
 Esposa Kyaw Thu
 SUBSECRETARIOS
@@ -2915,7 +2892,6 @@ Jd
 Je
 Jf
 Zar Chi Htay
-
 Khin Htay Lin
 Shwe Thanlwin Trading Co distribuidores exclusivos neumáticos Thaton control Ministerio Industria
 Nan Mauk Loung Sai Nang Mauk Lao Hsai
@@ -3059,7 +3035,6 @@ Director Gerente Win Tun
 Director Gerente Thein Swe
 Director Gerente Maung Toe
 Directores Gerentes Saw Lwin Hla Theing San Tun
-
 Htoo Furniture denominada Htoo Wood Products denominada Htoo Woodbased Products denominada Htoo Wood
 Shwe Taung Gyar Street Municipio Bahan Yangón
 Shwe Taung Gyar Street Municipio Bahan Yangón
@@ -3165,7 +3140,6 @@ Thiri Mingalar Lane Municipio MaYangón
 Myanmar Information and Communication Technology denominada Myanmar Infotech
 Yangón
 MajGen Soe Win
-
 Bb
 Bc
 Contraalmirante General Brigada Thura Thet Swe
@@ -3577,7 +3551,6 @@ DO
 ANEXO
 LUGAR DESTINO
 Coeficientes correctores agosto
-
 Coeficientes correctores septiembre
 Eritrea
 Coeficientes correctores octubre
@@ -3650,7 +3623,6 @@ DO
 DO
 DO
 ANEXO
-
 Países desarrollados
 Denominación grupo
 Tercer país
@@ -4097,7 +4069,6 @@ Artículo bis
 Definición ecosistemas marinos vulnerables
 efectos presente capítulo entenderá ecosistemas marinos vulnerables
 ecosistemas marinos únicos contengan especies raras cuya pérdida compensarse zonas ecosistemas similares
-
 hábitats contienen especies endémicas
 hábitats especies raras amenazadas peligro presentes zonas aisladas
 viveros zonas aisladas alimentación cría freza

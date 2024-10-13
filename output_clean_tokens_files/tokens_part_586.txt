@@ -580,7 +580,6 @@ II Tareas cobradas horas
 III Derechos derivados recursos
 IV Tasa inflación anual
 Nota explicativa
-
 Tareas cobradas tasa fija
 Cuadro
 Certificados tipo certificados tipo restringidos
@@ -596,11 +595,9 @@ kg aeronaves alto rendimiento
 Aviones ligeros planeadores motor planeadores
 Aviones deportivos ligeros
 Giroaviones
-
 Medianos
 Pequeños
 Giroaviones ligeros
-
 Globos
 Dirigibles
 Dirigibles medianos
@@ -644,7 +641,6 @@ Aprobación organización diseño DOA
 contemplada subparte sección anexo Reglamento UE
 Tasa aprobación
 Empleados pertinentes
-
 Tasa vigilancia
 Cuadro
 Procedimientos alternativos aprobación organización diseño
@@ -660,25 +656,12 @@ Cuadro
 Aprobación organización producción
 contemplada subparte sección anexo Reglamento UE
 Cifra negocios millón euros
-
-
-
-
-
-
-
 Cuadro
 Aprobación organización mantenimiento
 contemplada anexo subparte anexo II Reglamento CE Comisión
 Tasa aprobación
 Tasa vigilancia
 Empleados pertinentes
-
-
-
-
-
-
 Clasificación técnica
 Tasa fija basada clasificación técnica
 Cuadro
@@ -686,7 +669,6 @@ Aprobación organización formación mantenimiento
 contemplada anexo IV Reglamento CE
 Tasa aprobación EUR
 Tasa vigilancia EUR
-
 Tasa segundas sucesivas instalaciones adicionales
 Tasa segundos sucesivos cursos formación adicionales
 Tasa aprobación curso formación
@@ -699,7 +681,6 @@ Tasa fija basada clasificación técnica EUR Vigilancia
 aviones toneladas
 aviones toneladas
 helicópteros
-
 Cuadro
 Aceptación aprobaciones equivalentes expedidas virtud conformidad acuerdos bilaterales vigentes
 aprobaciones solicitud período meses
@@ -738,14 +719,6 @@ Tasa fija
 Tasa aplicable personas físicas
 Coeficiente
 Categorías tasas aplicables personas jurídicas volumen negocios recurrente euros
-
-
-
-
-
-
-
-
 IV
 Tasa inflación anual
 Tasa inflación anual aplicable
@@ -753,7 +726,6 @@ IAPC Eurostat partidas EU
 Cambio porcentual promedio meses
 Valor tasa considerar
 Valor tasa meses aplicación indexación
-
 Nota explicativa
 especificaciones certificación CS refiere presente anexo adoptadas conformidad artículo apartado Reglamento CE publicadas publicación oficial Agencia Europea Seguridad Aérea conformidad Decisión AESA octubre wwweasaeuropaeu
 giroaviones entenderán especificaciones certificación CS CS cat giroaviones pequeños entenderá especificación certificación CS peso máximo despegue MTOW Kg máximo asientos incluido piloto giroaviones medios entenderán CS
@@ -1263,7 +1235,6 @@ momento porcentaje alcanzó demuestra existencia determinado grado exceso capaci
 asunto detenimiento apartado relativo causalidad
 Existencias
 Existencias año
-
 nivel existencias industria Unión mantuvo estable período considerado
 producción producto similar planificó forma cubriera pedidos existencias mantuvieron nivel
 factor importante presente investigación
@@ -2264,12 +2235,10 @@ DO
 ANEXO
 ANEXO
 MÉTODOS CLASIFICACIÓN CANALES CERDO HUNGRÍA
-
 FATOMEATER FOM FATOMEATER FOM
 disposiciones previstas aplicables empleen aparatos denominados FatOMeater FOM FatOMeater clasificación canales cerdo
 aparatos irán equipados cánula diámetro milímetros dotada sonda óptica tipo Fremstillet AF Radiometer Copenhagen Slagteriernes Forskningsinstitut Optisk Sonde MQ alcance operativo milímetros ordenador tipos respectivamente traducirá resultados medición contenido estimado carne magra
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 BF espesor grasa dorsal piel milímetros medido centímetros línea media canal penúltima antepenúltima costilla
 LD espesor músculo dorsal milímetros medido tiempo lugar BF
@@ -2296,7 +2265,6 @@ disposiciones previstas aplicables utilice aparato denominado IM clasificación 
 aparato irá equipado sonda óptica aguja Single Line Scanner SLS milímetros diámetro cuchilla incluida
 sonda contendrá hilera sensores imágenes contacto SIC diodos emisores luz verde
 alcance operativo situará milímetros aparato IM traducirá resultados mediciones contenido estimado carne magra
-
 disposiciones previstas aplicables utilice aparato denominado OptiGradeMCP clasificación canales cerdo
 aparato irá equipado sonda óptica milímetros diámetro fotodiodo infrarrojo Siemens fototransistor Siemens
 alcance operativo situará milímetros
@@ -3338,7 +3306,6 @@ Antwerpen
 HC NHC
 relativa Bulgaria entrada correspondiente carretera Kapitan Andreevo sustituye texto
 Kapitan Andreevo
-
 relativa Grecia entrada correspondiente Peplos sustituye texto
 Peplos
 relativa España entrada correspondiente aeropuerto Madrid sustituye texto
@@ -3354,7 +3321,6 @@ entrada correspondiente aeropuerto Génova sustituye texto
 Genova
 entrada correspondiente puerto Spezia sustituye texto
 Spezia
-
 entrada correspondiente aeropuerto MilanoLinate sustituye texto
 Milano–Linate
 HC NHCT NHCNT
@@ -3374,7 +3340,6 @@ Rotterdam
 HCTFR HCNT
 relativa Rumanía entrada correspondiente aeropuerto Bucharest Henri Coandã sustituye texto
 Bucharest Henri Coandã
-
 anexo II modifica
 relativa Alemania queda modificada
 entradas correspondientes unidades locales BAD DOBERAN DEMMIN sustituyen texto
@@ -3775,7 +3740,6 @@ Reembolsado AFSCA
 EUR
 efectuaron reembolsos solicitó consiguió prórroga pago intereses
 EUR intereses reembolso aplazado
-
 efectuó reembolso BIRB Ley programa
 Pendiente reembolso
 EUR

@@ -387,7 +387,6 @@ habilitación remolque planeador vuelo acrobático disponga tales atribuciones F
 categoría aeronave apropiada FI
 horas vuelo IFR tiempo instrumentos tierra FFS FTD FNPT II
 completado alumno piloto curso formación IRI superado evaluación competencia certificado IRI
-
 aviones multimotor cumplir requisitos expedición certificado CRI
 helicópteros multimotor cumplir requisitos expedición certificado TRI
 habilitaciones clase tipo multimotor piloto aviones complejos alta performance piloto FI cumpla
@@ -687,7 +686,6 @@ atribuciones titular certificado MCCI estarán restringidas FNPT II III MCC FTD 
 atribuciones extenderse FSTD representan tipos aeronaves adicionales titular completado entrenamiento práctico curso MCCI tipo FNPT II III MCC FTD FFS
 MCCI Requisitos previos
 solicitante certificado MCCI deberá
-
 caso aviones dirigibles aeronaves despegue vertical horas experiencia vuelo piloto operaciones multipiloto
 caso helicópteros horas experiencia vuelo piloto operaciones tripulación vuelo múltiple helicópteros multipiloto
 MCCI Curso formación
@@ -998,11 +996,8 @@ Sustitución licencia FCL condiciones
 aplicable
 Eliminación condiciones
 piloto mando aviones multipiloto
-
 aplicable
 aviones multipiloto
-
-
 aviones multipiloto
 Demostrar conocimientos planificación performance vuelo requerido FCL
 ATPLA habilitación tipo restringida copiloto
@@ -1017,13 +1012,11 @@ piloto mando aviones piloto
 CPL IRA habilitaciones tipo clase restringidas aviones piloto
 piloto mando aviones piloto
 Demostrar conocimientos planificación performance vuelo nivel CPL
-
 Obtener habilitación tipo multipiloto FCL
 Habilitación vuelo nocturno aplicable
 CPLA habilitaciones tipo clase restringidas aviones piloto
 habilitación vuelo nocturno aplicable
 demostrar conocimientos planificación performance vuelo requerido FCL
-
 IFR
 Habilitación vuelo nocturno atribuciones vuelo nocturno incluyen habilitación vuelo instrumentos
 PPL IRA restringida PPL
@@ -1057,7 +1050,6 @@ HELICÓPTEROS
 completar verificación competencia requisitos revalidación FCL habilitación tipo vuelo instrumentos apropiada atribuciones licencia titular
 ATPLH IRH válida
 piloto mando helicópteros multipiloto
-
 ATPLH
 ATPLH atribuciones IRH
 helicópteros multipiloto
@@ -1066,11 +1058,6 @@ demostrar capacidad actuar piloto mando requisitos apéndice FCL
 Habilitación tipo ATPLH restringida copiloto
 helicópteros multipiloto
 demostrar conocimientos planificación performance vuelo requerido FCL FCLb
-
-
-
-
-
 CPL IRH superada prueba teórica ATPLH OACI miembro emite licencia
 demostrar conocimientos planificación performance vuelo requerido FCL FCLb
 cumplir requisitos restantes FCLHb
@@ -1084,11 +1071,9 @@ CPL IRH habilitación tipo restringida helicóptero piloto
 obtener habilitación tipo multipiloto FCL
 piloto mando helicópteros piloto
 demostrar conocimientos planificación performance vuelo requerido FCL FCLb
-
 habilitación vuelo nocturno
 CPLH habilitación tipo restringida helicópteros piloto
 habilitación vuelo nocturno demostrar conocimientos planificación performance vuelo requerido FCL
-
 habilitación vuelo nocturno
 restringido operaciones VFR diurnas
 Obtener habilitación tipo multipiloto FCL habilitación vuelo nocturno
@@ -1185,7 +1170,6 @@ habilitaciones clase tipo válidas incluidas licencia expedida tercer país inse
 cumpla requisitos experiencia requisitos previos emisión habilitación tipo clase aplicable FCL
 supere prueba pericia relevante emisión habilitación tipo clase aplicable FCL
 encuentre actualmente práctica vuelo
-
 habilitaciones clase avión horas experiencia vuelo piloto dicha clase
 habilitaciones tipo avión horas experiencia vuelo piloto tipo
 helicópteros monomotor masa máxima certificada despegue kg horas experiencia vuelo piloto tipo
@@ -1794,7 +1778,6 @@ Categoría
 Cantidad
 Código NC cifras
 Acondicionamiento bulto pequeños embalajes cifras
-
 Correo electrónico
 Decisión Ejecución Consejo
 octubre
@@ -1932,7 +1915,6 @@ vatios
 Flujo luminoso
 lúmenes
 Filamento cruce
-
 Filamento carretera
 faro considerará aceptable cumple requisitos presente apartado lámparas normalizadas referencia proporcionarse faro
 dimensiones determinan posición filamentos interior lámpara filamento normalizada HS figuran Reglamento
@@ -2075,7 +2057,6 @@ faros lleven marca homologación deberán conformes tipo homologado
 requisito conformidad considerará satisfecho punto vista mecánico geométrico discrepancias allá errores fabricación inevitables
 refiere rendimiento fotométrico pondrá duda conformidad faros serie ensayos fotométricos cualquiera elegido azar equipado lámpara normalizada referencia
 valores medidos desvía desfavorablemente valor prescrito valores zona III desviación desfavorable máxima lux lux zona III
-
 haz cruce valores prescritos cumplen HV tolerancia lux punto área delimitada pantalla medición círculo cm radio puntos tolerancia lux área zona IV esté cm línea
 caso haz carretera estando HV situado línea isoiluminancia Emax observa margen tolerancia valores fotométricos
 resultados ensayos descritos punto cumplen requisitos repetirán ensayos faro cuestión lámpara normalizada referencia
@@ -3656,7 +3637,6 @@ DO
 DO
 DO
 ANEXO
-
 Muestreo
 Muestreo efectos dispuesto artículo
 muestras contempladas artículo consistirán individuos ostiones Crassostrea gigas
@@ -3679,7 +3659,6 @@ principales factores considerarse seleccionar puntos muestreo detección previa 
 muestreo previsto artículo apartado hará período año conozca máxima prevalencia OsHV μvar miembro compartimento
 disponga datos muestreo llevará cabo inmediatamente período temperatura agua supere °C momento temperatura suela alcanzar máximo anual
 muestreo previsto artículo apartado letra hará preferiblemente período año descrito letra muestras recogen período ostiones muestreados deberán mantenerse ensayos condiciones equivalentes descritas letra período adecuado detección OsHV μvar
-
 Métodos diagnóstico detección OsHV μvar
 Ámbito aplicación
 presente procedimiento describe método estándar diagnóstico usarse detección identificación OsHV μvar reacción cadena polimerasa sucesivo RCP
@@ -3792,7 +3771,6 @@ Aplicar voltaje voltios min hora dependiendo tamaño grosor gel
 Observar gel UV
 Interpretación
 presencia OsHV μvar muestra queda indicada presencia banda tamaño apropiado pb lugar pb OsHV gel agarosa resultado negativo controles negativos resultado positivo controles positivos
-
 Definición zona confinamiento
 hora definir zona confinamiento arreglo artículo apartado siguientes factores influyen riesgo propagación enfermedad
 número porcentaje distribución moluscos explotación zona cría moluscos infectada
@@ -3821,7 +3799,6 @@ Cód ISO
 País destino
 Lugar origen lugar captura
 Explot autorizada acuicultura
-
 Número autorización
 Lugar destino
 Lugar carga
@@ -3874,7 +3851,6 @@ partida identificada etiqueta legible situada exterior contenedor transporta emb
 Crassostrea gigas destinados cría reinstalación zona sujeta programa detección precoz OsHV μvar
 Ostiones Crassostrea gigasdestinados cría reinstalación zona sujeta medidas control enfermedades originarios zona sujeta medidas control enfermedades
 Notas
-
 Casilla procede indicar número autorización explotación zona cría moluscos trate
 Casilla procede indicar número autorización explotación zona cría moluscos trate
 Casillas respecta cantidad indicar número
@@ -3935,7 +3911,6 @@ Ayuda
 cebollas
 Zanahorias
 Nabos
-
 Batatas
 Ñames
 Sandías

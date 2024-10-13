@@ -396,10 +396,7 @@ Menciones especiales
 Condiciones especiales
 Expedido
 Validez prorrogada inclusive
-
-
 Firma sello organismo emisor
-
 Firma sello organismo emisor certificado
 Cumplimentar firma sello figuran casilla
 Masa neta unidad medida indicación unidad
@@ -505,7 +502,6 @@ DO
 DO
 DO
 ANEXO III
-
 Menciones referencia artículo apartado párrafo
 búlgaro правата са прехвърлени обратно на титуляря на дата
 español Retrocesión titular
@@ -529,7 +525,6 @@ eslovaco Spätný prevod na oprávneného držiteľa dňa
 esloveno Ponoven odstop nosilcu pravic dne
 finés palautus todistuksenhaltijalle
 sueco återbördad till licensinnehavaren den
-
 Menciones referencia artículo párrafo
 búlgaro Лицензия по ГАТТ хранителна помощ
 español Certificado GATT Ayuda alimentaria
@@ -553,7 +548,6 @@ eslovaco Licencia podľa GATT potravinová pomoc
 esloveno GATT dovoljenje pomoč hrani
 finés GATTtodistus elintarvikeapu
 sueco Gattlicens livsmedelsbistånd
-
 Menciones referencia artículo apartado párrafo
 búlgaro Да се използва за освобождаване на гаранцията
 español utilizará liberar garantía
@@ -577,7 +571,6 @@ eslovaco Použiť na uvoľnenie záruky
 esloveno Uporabiti za sprostitev varščine
 finés Käytettäväksi vakuuden vapauttamiseen
 sueco Att användas för frisläppande av säkerhet
-
 Menciones referencia artículo apartado párrafo
 búlgaro Напускане на митническата територия на Общността под опростен режим общностен транзит железопътен транспорт или големи контейнери
 español Salida territorio aduanero Comunidad régimen tránsito comunitario simplificado ferrocarril contenedores
@@ -601,7 +594,6 @@ eslovaco Opustenie colného územia spoločenstva na základe zjednodušeného p
 esloveno Izstop iz carinskega območja Skupnosti pod skupnostnim poenostavljenim tranzitnim režimom po železnici ali velikimi zabojniki
 finés Vienti yhteisön tullialueelta yhteisön yksinkertaistetussa passitusmenettelyssä rautateitse tai suurissa konteissa
 sueco Utförsel från gemenskapens tullområde enligt det förenklade transiteringsförfarandet för järnvägstransporter eller transporter stora containrar
-
 Menciones referencia artículo apartado párrafo
 búlgaro Заместваща лицензия сертификат или извлечение за изгубена лицензия сертификат или извлечение Номер на оригиналната лицензия сертификат
 español Certificado extracto sustitución certificado extracto perdido número certificado inicial
@@ -625,7 +617,6 @@ eslovaco Náhradná licencia certifikát alebo výpis za stratenú licenciu cert
 esloveno Nadomestno dovoljenje potrdilo ali izpisek za izgubljeno dovoljenje potrdilo ali izpisek številka izvirnega dovoljenja
 finés Kadonneen todistuksen tai otteen korvaava todistus tai ote
 sueco Ersättningslicens licens eller dellicens för förlorad licens licens eller dellicens
-
 Menciones referencia artículo apartado letra
 búlgaro Лицензия издадена съгласно член от Регламент ЕО оригинална лицензия
 español Certificado emitido conformidad artículo Reglamento CE certificado inicial
@@ -647,7 +638,6 @@ rumano Licență eliberată în conformitate cu articolul din Regulamentul CE nr
 esloveno Dovoljenje izdano pod pogoji iz člena Uredbe št
 finés Todistus myönnetty asetuksen EY artiklan mukaisesti alkuperäinen todistus
 sueco Licens utfärdad enlighet med artikel förordning EG nr ursprunglig licens nr
-
 Menciones referencia artículo apartado letra
 búlgaro Износът осъществен без лицензия или сертификат
 español Exportación realizada certificado
@@ -671,7 +661,6 @@ eslovaco Vyvezené bez licencie alebo certifikátu
 esloveno Izvoz izpeljan brez dovoljenja ali potrdila
 finés Viety ilman todistusta
 sueco Exporterad utan licens
-
 Menciones referencia artículo apartado letra
 búlgaro Условията определени член от Регламент ЕО са изпълнени
 español Condiciones previstas artículo Reglamento CE cumplidas
@@ -693,7 +682,6 @@ rumano Condițiile prevăzute articolul din Regulamentul CE nr îndeplinite
 esloveno Pogoji predvideni členu Uredbe št
 finés Asetuksen EY artiklassa säädetyt edellytykset on täytetty
 sueco Villkoren artikel förordning EG nr är uppfyllda
-
 Menciones referencia artículo apartado párrafo
 búlgaro Преференциален режим приложим към количеството посочено клетки
 español Régimen preferencial aplicable cantidad indicada casillas
@@ -1097,7 +1085,6 @@ Anexo II partes
 Anexo IV
 Anexo
 exportación entrega asimilada exportación arreglo artículo Reglamento CE plazo aceptación declaración exportación imposibilidad motivos fuerza producto llegado destino caso entregas asimiladas exportaciones casos salido territorio aduanero Comunidad efectos presente Reglamento considerará salido territorio aduanero Comunidad entregas productos destinados únicamente consumo bordo plataformas perforación explotación incluidas estructuras auxiliares presten servicios apoyo tales operaciones situadas plataforma continental europea plataforma continental europea Comunidad allá zona millas línea base sirva medir anchura mar territorial miembro
-
 checo Licence vydaná podle článku nařízení
 eslovaco Licencia vydaná súlade článkom nariadenia
 checo Byly dodrženy podmínky stanovené článku nařízení
@@ -2306,7 +2293,6 @@ DO
 DO
 DO
 ANEXO
-
 Certificado sanitario intercambios comerciales animales procedentes explotaciones ungulados aves vacunadas influenza aviar lagomorfos perros gatos hurones EI
 Datos partida presentada
 UNIÓN EUROPEA
@@ -2342,7 +2328,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Transportista
 Descripción mercancía
@@ -2408,7 +2393,6 @@ garantías adicionales relación enfermedades enumeradas anexo Directiva CEE Con
 Enfermedad
 Decisión
 Notas
-
 Casilla número documentos acompañamiento documentos CITES caso
 Casilla utilizar código apropiado Nomenclatura Combinada NC partidas
 Casilla sistema identificación animales identificarse individualmente caso animales pequeños identificarse lotes
@@ -2884,7 +2868,6 @@ compañías aéreas certificadas autoridades Angola responsables supervisión no
 República Angola
 compañías aéreas certificadas autoridades Benín responsables supervisión normativa particular
 República Benín
-
 compañías aéreas certificadas autoridades República Congo responsables supervisión normativa particular
 República Congo
 compañías aéreas certificadas autoridades República Democrática Congo RDC responsables supervisión normativa particular
@@ -4225,8 +4208,6 @@ Crucero procede columna
 Montañas tierras altas colinas etc
 Montañas tierras altas colinas etc
 Montañas tierras altas colinas etc procede columna
-
-
 procede columna
 Participación infantil
 procede columna
@@ -4245,7 +4226,6 @@ Alojamiento alquilado vivienda vacacional
 Alojamiento alquilado alojamiento proporcionado gratuitamente parientes amigos
 Alojamiento alquilado alojamientos alquilados
 Reserva viaje reserva principal transporte operador turístico agencia viajes
-
 Reserva viaje reserva alojamiento principal operador turístico agencia viajes
 Reserva viaje independiente
 Columna Columna
@@ -4942,7 +4922,6 @@ DO
 DO
 ANEXO
 Aditivos piensos pertenecientes grupo sustancias aromatizantes saborizantes retirados mercado establece artículo
-
 Aditivos piensos pertenecientes grupo sustancias aromatizantes saborizantes retirados respecta especies categorías animales
 Número identificación
 Aditivo

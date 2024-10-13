@@ -1116,7 +1116,6 @@ sección Productos sistemas protección elementos partes portantes obras cuadro 
 Revestimientos placas morteros chapados pantallas protección fuego
 sección Elementos portantes partes obras productos partes cuadro clasificación relativo Particiones incluidas partes aisladas sustituye cuadro
 Particiones incluidas partes aisladas elementos aislantes cavidades
-
 Clasificación
 caso elementos aislantes cavidades norma complementa informe técnico European Organisation for Technical Approvals EOTA Organización Europea Aprobación Técnica
 prEN
@@ -1200,7 +1199,6 @@ Número OP asociación OP
 Únicamente caso mensaje tipo MOD
 Denominación
 Abreviatura oficial
-
 Número nacional
 Zona competencia
 Actividad
@@ -1256,7 +1254,6 @@ Cuadro
 ANEXO III
 Productos anexos IV Reglamento CE
 Envío trimestral
-
 trimestre
 trimestre
 quincena
@@ -2541,7 +2538,6 @@ Véase nota pie página
 DO
 DO
 Véase asunto España Comisión Europea apartado asunto DMT apartado asunto Hamsa apartado
-
 Comisión reconoce concordato acreedores constitutivo ayuda estatal reúne condiciones prueba acreedor privado consiste aplazamiento deuda ventajoso acreedores declaración insolvencia HCM
 jurisprudencia consolidada acreedor público sopesará beneficios obtener recepción cuantía ofrecida arreglo plan reestructuración recibiría empresa fuese declarada insolvente
 HCM empresa estatal creada opera mercado producción procesado metalúrgico metales ferrosos producción zinc plomo

@@ -459,7 +459,6 @@ artículo sustituye texto
 Artículo
 Comisión modificar anexos progreso científico técnico
 medidas destinadas modificar elementos esenciales presente Reglamento adoptarán arreglo procedimiento reglamentación control contemplado artículo bis apartado
-
 anexos II III IIIA IV modificarán cambios acordados virtud Convenio Basilea Decisión OCDE
 residuos clasificados añadirse anexos IIIB IV carácter provisional espera decisión inclusión pertinentes anexos Convenio Basilea Decisión OCDE
 determinarán casos excepcionales refiere artículo apartado necesario residuos cuestión añadirán anexos IVA eliminándolos anexo III
@@ -1362,7 +1361,6 @@ ANEXO III
 Gastos actividad
 ANEXO III
 Informe financiero certificado
-
 Tipo cambio aplicado EUR
 Número referencia decisión financiación anual
 Nombre dirección laboratorio
@@ -1450,7 +1448,6 @@ Importe dieta
 importe dieta determinarse conformidad artículo Reglamento CE Euratom Consejo junio adapta julio baremo aplicable misiones funcionarios agentes Comunidades Europeas miembros III
 COSTES ALOJAMIENTO
 límite máximo costes alojamiento determinarse conformidad artículo Reglamento CE Euratom
-
 alcanza número máximo participantes fijado punto apartado presente Reglamento asistido seminario mínimo veinte participantes laboratorios nacionales referencia Comisión aceptar máximo participantes laboratorios referencia Unión reciban dietas dependiendo durado asistencia seminario
 costes viaje alojamiento participantes Comisión reembolsarlos seminario lugar localidad distinta laboratorio
 pago dietas reembolso costes viaje alojamiento dependerán supere ayuda financiera máxima Unión
@@ -1460,7 +1457,6 @@ Informe financiero seminarios reuniones actividades formación
 Seminario reunión actividades formación
 Fecha
 Inicio
-
 Tipo cambio aplicado EUR
 Lugar
 Fechas seminario
@@ -1721,7 +1717,6 @@ Limas
 Mandarinas incluidas clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA mondados
 Almendras
 Nueces Brasil
@@ -2830,9 +2825,6 @@ superficie agrícola útil explotación situada zona recibir ayuda transitoria a
 número orden añade descripción número orden
 Número orden actividades lucrativas directamente relacionadas explotación
 presentará banda porcentual indique ingresos totales explotación correspondiente ingresos procedentes actividades lucrativas directamente relacionadas explotación
-
-
-
 punto sustituye
 Desglose rúbrica
 Categorías animales códigos correspondientes rúbricas respectivas cuadro excluidas ayudas ganado vacuno código
@@ -3253,9 +3245,7 @@ dimetoxipirimidinilNmetilNmetilsulfonilaminosulfonilurea
 dimetoxipirimidinilmesil metil sulfamoilurea
 enero
 diciembre
-
 autorizarse usos herbicida
-
 evaluación solicitudes autorización productos fitosanitarios contengan amidosulfurón usos destinados praderas pastizales miembros prestarán especial atención criterios mencionados artículo apartado letra velarán faciliten datos información necesarios conceder dicha autorización
 aplicación principios uniformes anexo VI conclusiones informe revisión amidosulfurón particular apéndices II ultimó Comité permanente cadena alimentaria sanidad animal enero
 evaluación general miembros deberán prestar especial atención
@@ -3749,13 +3739,11 @@ Decisión modificada lugar Decisión CE véase página presente Diario Oficial
 ANEXO
 ANEXO
 Partes territorio Rumanía mencionadas artículo letras
-
 Código ISO país
 Nombre país
 Descripción territorio
 Rumanía
 territorio Rumanía
-
 Rumanía condados
 Vrancea
 Argeș
@@ -4317,24 +4305,19 @@ ANEXO
 anexo Decisión CE queda modificado
 punto sustituye texto
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado carne magra canal
 espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal nivel costilla
 espesor tocino dorsal incluida corteza milímetros medido punto situado centímetros línea media canal cuarta costillas
 espesor músculo milímetros medido tiempo lugar
 fórmula válida canales peso comprendido kilogramos
 añade
-
 clasificación canales cerdo realizará aparato denominado Autofom Fully automatic ultrasonic carcass grading
 aparato provisto transductores ultrasonidos operan MHz tecnología SFK KKG distancia operativa transductores mm datos ultrasónicos incluirán mediciones espesor tocino dorsal espesor músculo
 ordenador convertirá resultados mediciones porcentajes estimados carne magra
 porcentaje carne magra canal calculará puntos medición fórmula
-
-
 contenido estimado carne magra canal
 descripciones puntos medición método estadístico figuran II protocolo presentado Finlandia Comisión conforme artículo apartado Reglamento CEE
 fórmula válida canales peso comprendido kilogramos
-
 Reglamento CE Comisión
 septiembre
 fijan tipos restituciones aplicables determinados productos sector azúcar exportados forma mercancías incluidas anexo Tratado

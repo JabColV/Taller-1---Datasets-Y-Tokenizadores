@@ -90,9 +90,7 @@ Reglamento modificado lugar Reglamento CE Comisión DO
 ANEXO
 anexo Decisión CE sustituye texto
 ANEXO
-
 Países miembros OIE incluidos ámbito competencia comisiones regionales OIE contempladas artículo apartado letra
-
 Países miembros OIE incluidos ámbito competencia comisiones regionales OIE contempladas artículo apartado letra
 África
 Américas
@@ -541,7 +539,6 @@ Reglamento UE Parlamento Europeo Consejo diciembre financiación gestión seguim
 Reglamento CE Comisión noviembre establecen normas desarrollo Reglamento CE Consejo referido condicionalidad modulación sistema integrado gestión control regímenes ayuda directa agricultores establecidos Reglamento normas desarrollo Reglamento CE Consejo referido condicionalidad régimen ayuda establecido sector vitivinícola DO
 Reglamento CEE Consejo julio relativo nomenclatura arancelaria estadística arancel aduanero común DO
 ANEXO
-
 Indicaciones referencia artículo apartado
 búlgaro indicaciones siguientes
 español indicaciones siguientes
@@ -566,7 +563,6 @@ eslovaco indicaciones siguientes
 esloveno indicaciones siguientes
 finés indicaciones siguientes
 sueco indicaciones siguientes
-
 Indicaciones referencia artículo apartado artículo apartado
 búlgaro освобождаване от вносни мита сертификат за използване име на найотдалечения регион
 español Exención derechos importación Certificado destinado utilizado nombre región ultraperiférica
@@ -591,7 +587,6 @@ eslovaco oslobodenie od dovozného cla osvedčenie určené na použitie názov 
 esloveno oprostitev uvoznih dajatev in dovoljenje uporabi ime najbolj oddaljene regije
 finés vapautettu tuontitulleista ja syrjäisimmän alueen nimi käytettävä todistus
 sueco tullbefrielse och intyg som skall användas randområdets namn
-
 Indicaciones referencia artículo apartado
 búlgaro сертификат за освобождаване
 español Certificado exención
@@ -616,9 +611,7 @@ eslovaco osvedčenie oslobodení od cla
 esloveno potrdilo oprostitvi
 finés vapautustodistus
 sueco intyg om tullbefrielse
-
 Indicaciones referencia artículo apartado
-
 Indicaciones referencia artículo apartado
 búlgaro сертификат за помощ
 español Certificado ayuda
@@ -643,9 +636,7 @@ eslovaco osvedčenie pomoci
 esloveno potrdilo pomoči
 finés tukitodistus
 sueco stödintyg
-
 Indicaciones referencia artículo apartado
-
 búlgaro сертификат за използване име на найотдалечения регион
 español Certificado destinado utilizado nombre región ultraperiférica
 checo osvědčení pro použití název nejvzdálenějšího regionu
@@ -669,7 +660,6 @@ eslovaco osvedčenie určené na použitie názov najvzdialenejšieho regiónu
 esloveno potrdilo za uporabo ime najbolj oddaljene regije
 finés syrjäisimmän alueen nimi käytettävä todistus
 sueco intyg som skall användas randområdets namn
-
 Indicaciones referencia artículo apartado
 búlgaro стоки изнасяни съгласно член параграф първа алинея от Регламент ЕС
 español Mercancía exportada virtud artículo apartado párrafo Reglamento UE
@@ -691,7 +681,6 @@ portugués mercadoria exportada termos do primeiro parágrafo do artigo do Regul
 rumano mărfuri exportate în conformitate cu articolul alineatul primul paragraf din Regulamentul UE nr
 finés Asetuksen EU artiklan kohdan ensimmäisen alakohdan nojalla viety tavara
 sueco vara som exporteras enlighet med artikel första stycket förordning EU nr
-
 Indicaciones referencia artículo apartado
 búlgaro стоки изнасяни съгласно член параграф от Регламент ЕС
 español Mercancía exportada virtud artículo apartado Reglamento UE
@@ -711,7 +700,6 @@ portugués mercadoria exportada termos do do artigo do Regulamento UE
 rumano mărfuri exportate în conformitate cu articolul alineatul din Regulamentul UE nr
 finés Asetuksen EU artiklan kohdan nojalla viety tavara
 sueco vara som exporteras enlighet med artikel förordning EU nr
-
 Indicaciones mencionadas artículo apartado párrafo
 búlgaro продукт предназначен за производството на тютюневи изделия
 español Producto destinado industria fabricación labores tabaco
@@ -1066,7 +1054,6 @@ Notificación certificados importación expedidos Reglamento CE
 miembro
 Aplicación artículo Reglamento CE
 Cantidades productos expedido certificados importación
-
 orden
 Categoría categorías productos
 Cantidad
@@ -1783,9 +1770,7 @@ Eurojust publicará sitio internet información beneficiarios fondos procedentes
 Corrección errores Reglamento CE Consejo septiembre establece derecho antidumping definitivo importaciones determinadas bolsas bolsitas plástico originarias República Popular China Tailandia concluido procedimiento relativo importaciones determinadas bolsas bolsitas plástico originarias Malasia
 Diario Oficial Unión Europea septiembre
 página anexo lista productores exportadores chinos
-
 JINAN BAIHE PLASTIC PRODUCTS COMPANY LIMITED
-
 JINAN BAIHE PLASTIC CO LTD
 Reglamento CE Consejo
 noviembre
@@ -3040,7 +3025,6 @@ modalidades información público ejemplo colocación carteles radio determinado
 establecerán plazos razonables distintas fases concedan tiempo suficiente informar público público interesado prepare participe forma efectiva procesos toma decisiones temas medioambientales arreglo presente anexo
 ANEXO
 Prescripciones técnicas relativas instalaciones combustión
-
 Valores límite emisión instalaciones combustión refiere apartado artículo
 valores límite emisión calcularán temperatura presión kPa previa corrección contenido vapor agua gases residuales porcentaje normalizado caso combustibles sólidos instalaciones combustión distintas turbinas gas motores gas combustibles líquidos gaseosos turbinas gas motores gas
 Valores límite emisión mg Nm SO instalaciones combustión utilicen combustibles sólidos líquidos excepción turbinas gas motores gas
@@ -3088,7 +3072,6 @@ Combustibles líquidos
 Valores límite emisión mg Nm partículas instalaciones combustión utilicen combustibles gaseosos excepción turbinas gas motores gas
 Gases altos hornos
 Gases producidos industria acero usos
-
 Valores límite emisión instalaciones combustión refiere apartado artículo
 valores límite emisión calcularán temperatura presión kPa previa corrección contenido vapor agua gases residuales porcentaje normalizado caso combustibles sólidos instalaciones combustión distintas turbinas gas motores gas combustibles líquidos gaseosos turbinas gas motores gas
 caso turbinas gas ciclo combinado alimentación suplementaria autoridad competente definir porcentaje normalizado teniendo características específicas instalación trate
@@ -3102,7 +3085,6 @@ Instalaciones combustión distintas turbinas gas motores gas
 Turbinas gas incluidas TGCC
 turbinas gas incluidas TGCC valores límite emisión NOx CO fijados presente punto aplicarán únicamente carga
 caso biomasa turba
-
 Monitorización emisiones
 medirán continuo concentraciones SO NOx partículas gases residuales procedentes instalación combustión potencia térmica nominal superior MW
 medirá asimismo continuo concentración CO gases residuales instalaciones combustión alimentadas combustibles gaseosos potencia térmica nominal superior MW
@@ -3132,7 +3114,6 @@ invalidarán valores medios horarios inválidos funcionamiento mantenimiento sis
 motivos invalidan año autoridad competente exigirá titular adopte medidas necesarias mejorar fiabilidad sistema medición automática
 caso instalaciones deban cumplir índices desulfuración previstos artículo deberá controlarse regularmente contenido azufre combustible utilizado instalación combustión
 autoridades competentes deberán informadas cambio sustancial registre tipo combustible utilizado
-
 Evaluación cumplimiento valores límite emisión
 caso mediciones continuo considerarán respetados valores límite emisión fijados partes evaluación resultados medidas indica horas funcionamiento año cumplido totalidad condiciones siguientes
 valor mensual validado rebasa valores límite emisión pertinentes fijados partes
@@ -3142,16 +3123,13 @@ valores medios horarios validados año supera valores límite emisión pertinent
 valores medios validados determinarán establecido punto
 efectos cálculo valores medios emisión tomarán consideración valores medidos períodos refiere artículo apartados artículo períodos puesta marcha parada
 casos exijan mediciones continuo considerarán respetados valores límite emisión fijados partes resultados series mediciones procedimientos definidos determinados arreglo procedimientos establecidos autoridades competentes sobrepasan valores límite emisión
-
 Índice mínimo desulfuración
 Índice mínimo desulfuración instalaciones combustión mencionadas artículo apartado
 Instalaciones autorizadas noviembre cuyos titulares hayan presentado solicitud completa permiso dicha fecha instalación puesto funcionamiento noviembre
 instalaciones
 Índice mínimo desulfuración instalaciones combustión mencionadas artículo apartado
-
 Cumplimiento índice desulfuración
 índices mínimos desulfuración mencionados presente anexo aplicarán valor límite mensual
-
 Valores límite emisión medios instalaciones combustión equipadas caldera mixta ubicadas refinería
 Valores límite emisión medios mg Nm SO instalaciones combustión equipadas caldera mixta ubicadas refinería excepción turbinas gas motores gas utilizan residuos destilación conversión procedente Refino petróleo crudo combustibles consumo
 instalaciones combustión obtuvieron permiso noviembre cuyos titulares presentaron solicitud completa permiso dicha fecha instalación puesto funcionamiento noviembre mg Nm
@@ -3207,11 +3185,9 @@ Monóxido nitrógeno dióxido nitrógeno expresado instalaciones incineración r
 Valores límite emisión medios semihorarios siguientes sustancias contaminantes mg Nm
 Valores límite emisión medios mg Nm siguientes metales pesados período muestreo mínimo minutos máximo horas
 Cadmio compuestos expresados cadmio Cd
-
 Talio compuestos expresados talio Tl
 Mercurio compuestos expresados mercurio Hg
 Antimonio compuestos expresados antimonio Sb
-
 Arsénico compuestos expresados arsénico As
 Plomo compuestos expresados plomo Pb
 Cromo compuestos expresados cromo Cr
@@ -3345,7 +3321,6 @@ concentración emisiones calculada concentración porcentual normal oxígeno
 medición concentración emisiones
 concentración normal oxígeno
 medición concentración oxígeno
-
 Valores límite emisión atmósfera
 considerará cumplen valores límite emisión atmósfera
 valores medios diarios supera valores límite emisión establecidos punto calculados conformidad
@@ -3569,20 +3544,16 @@ haga plan gestión disolventes dependerá requisito particular verificar forma
 Verificación cumplimiento opción sistema reducción establecido mencionada valor límite emisión expresado emisiones disolvente producto unitario conforme disposiciones contenidas partes
 procesos sigan sistema reducción establecido plan gestión disolventes hará anualmente determinar consumo
 consumo calculará arreglo ecuación
-
 procederá ejercicio paralelo determinar sólidos utilizados recubrimiento obtener año emisión anual referencia emisión objetivo
 evaluar cumplimiento valor límite emisión expresado emisiones disolvente producto unitario conforme disposiciones contenidas partes plan gestión disolventes hará anualmente determinar emisiones
 emisiones calcularán arreglo ecuación
-
 emisión fugitiva define inciso letra continuación
 cifra emisión dividirse dividirá parámetro producto pertinente
 evaluar cumplimiento requisitos artículo apartado letra inciso ii plan gestión disolventes hará anualmente determinar emisiones totales procedentes procesos afectados cifra obtenida comparará compararse emisiones totales habría caso hubieran cumplido requisitos mencionados partes proceso separado
 Determinación emisiones fugitivas comparación valores límite emisión fugitiva
 emisión fugitiva calculará calcularse arreglo ecuaciones siguientes
-
 determinará medición directa cantidades método hacerse cálculo equivalente medios ejemplo utilizando eficacia captura proceso
 valor límite emisión fugitiva expresa proporción entrada calculará ecuación
-
 determinación emisiones fugitivas hará exhaustivo conjunto mediciones necesario volver modifique equipo
 Evaluación cumplimiento valores límite emisión gases residuales
 caso mediciones continuo considerará cumplen valores límite emisión
@@ -3620,7 +3591,6 @@ dióxido trióxido azufre gaseosos emitidos producto digestión calcinación pla
 cloro fuentes principales instalaciones utilicen procedimiento cloro
 partículas fuentes principales
 ANEXO IX
-
 Directivas derogadas sucesivas modificaciones
 mencionados artículo
 Directiva CEE Consejo
@@ -3671,7 +3641,6 @@ DO
 Directiva CE Parlamento Europeo Consejo
 DO
 Únicamente artículo
-
 Plazos transposición Derecho nacional aplicación
 Directiva
 Plazo transposición Derecho interno
@@ -4348,7 +4317,6 @@ artículo apartado aplicable junio
 dicha fecha emisiones compuestos orgánicos volátiles tengan asignadas necesiten indicaciones peligro Hi HD HF frases riesgo compuestos organohalogenados tengan asignadas necesiten indicaciones peligro frases riesgo deberán controlarse condiciones confinadas medida factible punto vista técnico económico proteger salud pública ambiente superarán valores límite emisión pertinentes establecidos anexo VII
 punto anexo VII aplicable junio
 dicha fecha caso vertidos emisiones compuestos orgánicos volátiles halogenados hayan asignado necesiten indicaciones peligro frases riesgo caudal másico suma compuestos justifica indicaciones peligro etiquetado deberá respetarse valor límite emisión mg Nm
-
 conclusiones MTD constituir referencia establecimiento condiciones permiso complementarse fuentes
 suelo capa superior corteza terrestre situada lecho rocoso superficie suelo compone partículas minerales materia orgánica agua aire organismos vivos
 perjuicio artículo apartado autoridad competente asegurará titular toma medidas necesarias indicadas informe plazo razonable

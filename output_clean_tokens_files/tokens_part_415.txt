@@ -1768,7 +1768,6 @@ Especie TOP Dissostichus eleginoides TOA Dissostichus mawsoni
 Tipo WHO Entero HAG Descabezado eviscerado HAT Descabezado cola FLT Filete HGT Descabezado eviscerado cola OTH especificar
 Certificación reexportación Certifico leal entender información descrita documento exacta correcta completa producto declarado procede producto certificado documento documentos captura Dissostichus adjuntos
 Convalidación gubernamental reexportación Certifico leal entender información correcta exacta completa
-
 Información desembarque transbordo Certifico información descrita exacta correcta completa captura Dissostichus spp extraída Área Convención compatible medidas conservación CCRVMA
 Reglamento CE Consejo mayo establece sistema documentación capturas Dissostichus spp adoptó sistema documentación capturas aprobado Comisión Conservación Recursos Vivos Marinos Antárticos denominada sucesivo CCRVMA XVIII reunión anual noviembre
 Provincia
@@ -2608,7 +2607,6 @@ DO
 DO
 DO
 ANEXO
-
 Directrices relativas mecanismo compensación gestores redes transporte
 Disposiciones generales
 mecanismo compensación gestores redes transporte InterTransmission System Operator Compensation Mechanism mecanismo ITC proporcionará compensación costes derivados acoger flujos eléctricos transfronterizos concreto proporcionar acceso transfronterizo red interconectada
@@ -2687,7 +2685,6 @@ tasa expresará euros megavatio hora
 participante mecanismo ITC cobrará tasa utilización red transporte importaciones exportaciones electricidad programadas red nacional transporte red transporte tercer país
 REGRT Electricidad calculará anticipado tasa utilización red transporte aplicable año
 tasa fijará contribución estimada megavatio hora gestores redes transporte país participante harían Fondo ITC arreglo flujos eléctricos transfronterizos previstos año cuestión
-
 Directrices relativas planteamiento normativo común tarificación transporte
 tarifas transporte medias anuales pagadas productores miembro estarán valores límite indicados punto
 tarifas transporte medias anuales pagadas productores tarifas transporte anuales totales pagadas productores divididas energía medida productores inyecten anualmente red transporte miembro
@@ -2734,7 +2731,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -3414,7 +3410,6 @@ tamaño aeronave
 Cambios Reparaciones secundarios
 cuadro cifra negocios relacionada actividades objeto
 cuadros número empleados relacionado actividades objeto
-
 Operaciones cobradas tasa fija
 Cuadro Certificados Tipo Certificados Tipo Restringidos contemplados subpartes anexo Reglamento CE Comisión
 Tasa fija
@@ -3427,10 +3422,8 @@ toneladas
 toneladas
 Aeronaves ligeras Planeadores
 Aerogiros
-
 Medianos
 Pequeños
-
 Globos
 Propulsión
 KN
@@ -3458,31 +3451,16 @@ Diseño UE
 Cuadro Aprobación organización diseño contemplada subparte anexo Reglamento CE
 Tasa aprobación
 Empleados pertinentes
-
 Tasa concepto vigilancia
 Cuadro Aprobación organización producción contemplada subparte anexo Reglamento CE
 Cifra negocios millón euros
-
-
-
-
-
-
-
 Cuadro Aprobación organización mantenimiento contemplada anexo subparte anexo II Reglamento CE Comisión
 Tasa aprobación
 Tasa concepto vigilancia
 Empleados pertinentes
-
-
-
-
-
-
 Clasificación técnica
 Tasa fija basada clasificación técnica
 Cuadro Aprobación organización formación mantenimiento contemplada anexo IV Reglamento CE
-
 II
 Operaciones cobradas horas
 Tasa horaria
@@ -3517,15 +3495,7 @@ Tasa fija
 Tasa aplicable personas físicas
 Coeficiente aplicable tasa fija
 Categorías tasas aplicables organizaciones cifra negocios recurrente euros
-
-
-
-
-
-
-
 superior
-
 Tasa inflación anual
 importes indican Partes II III indexados tasa inflación arreglo dispuesto presente
 indexación efectuará año fecha entrada vigor presente Reglamento

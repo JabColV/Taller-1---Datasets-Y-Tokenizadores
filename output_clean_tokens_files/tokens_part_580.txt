@@ -1002,7 +1002,6 @@ Grúas torre
 Grupos electrógenos soldadura potencia
 Motocompresores
 Cortadoras césped máquinas acabado césped recortadoras césped
-
 artículo modifica
 frase apartado palabras tardar enero sustituyen tardar enero
 suprime apartado
@@ -1030,7 +1029,6 @@ cifras correspondientes fase II meramente indicativas siguientes tipos máquinas
 falta modificación tipo cifras correspondientes fase seguirán aplicándose fase II
 grúas móviles monomotor aplicarán cifras correspondientes fase enero
 fecha aplicarán cifras correspondientes fase II
-
 Reglamento CE Comisión
 noviembre
 rectifica Reglamento CE fija tipo conversión agrario específico precios mínimos remolacha cotizaciones producción cotización complementaria sector azúcar campaña comercialización relación monedas miembros adoptado moneda única
@@ -1858,7 +1856,6 @@ DECLARA PRESENTE
 adhiere Convenio
 Adjunta presente Instrumento traducción Convenio lengua oficial Turquía
 Acepta recomendaciones decisiones Comisión Mixta UEAELC régimen común tránsito adoptadas enero fecha efectiva adhesión Turquía conformidad artículo bis Convenio
-
 Decisión Comité Permanente AELC
 septiembre
 relativa auditoría programas proyectos marco Mecanismo Financiero
@@ -3963,7 +3960,6 @@ Nombre Número autorización
 Dirección Nombre Número autorización
 Dirección
 Lugar destino Explotación Cuarentena Organismo autorizado
-
 Dirección Código postal
 Lugar carga Dirección Número autorización
 Fecha hora salida Fecha hora esperadas llegada

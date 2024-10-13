@@ -890,7 +890,6 @@ st
 CPA Poliacetales poliéteres resinas epoxídicas formas primarias policarbonatos resinas alcídicas ésteres polialílicos poliésteres formas primarias
 utilizadas jabón
 hilo coser
-
 Barras acero inoxidable obtenidas acabadas frío trabajadas obtenidas caliente trabajadas ncop
 forjadas
 Perfiles hierro acero alear obtenidos acabados frío trabajados simplemente forjados obtenidos caliente medios trabajados ncop
@@ -922,7 +921,6 @@ CPA Ordenadores unidad central proceso unidad entrada salida combinadas
 Muebles envolturas emisores receptores radio televisión cámaras televisión etc partes destinadas exclusiva principalmente cámaras televisión receptores radio televisión pantallas proyectores ncop
 CPA Extintores aerógrafos aparatos chorro vapor arena aparatos mecánicos similares agrícola
 CPA Camisetas calzoncillos pijamas batas punto ganchillo hombre niño
-
 NACE Construcción barcos estructuras flotantes
 Transatlánticos barcos excursiones cruceros barcos similares transporte personas transbordadores tipo
 Reglamento CE Comisión
@@ -1081,7 +1079,6 @@ Limas
 Mandarinas incluidos clementinas híbridos similares
 Naranjas
 Toronjas
-
 FRUTOS CÁSCARA cáscara
 Almendras
 Nueces Brasil
@@ -2112,7 +2109,6 @@ Fuerza ensayo
 Dedo articulado ensayo
 Véase figura dimensiones
 Tope
-
 Material aislante
 Alambre ensayo mm diámetro mm longitud
 Esfera
@@ -2241,7 +2237,6 @@ Temperatura ambiente
 carga normal
 carga bordo defectuosa
 Temperatura ambiente
-
 Máx
 Máx min
 Máx min conexión red eléctrica
@@ -2366,7 +2361,6 @@ ensayos emisión hidrógeno descritos punto permiten cálculo emisiones hidróge
 emisiones hidrógeno fases calculan utilizando concentraciones hidrógeno temperaturas presiones iniciales finales recinto volumen neto
 utilizará fórmula
 CHi
-
 masa hidrógeno gramos
 concentración hidrógeno medida recinto volumen ppm
 volumen compensación temperatura presión ensayo
@@ -4310,7 +4304,6 @@ Ayuda forma reducciones exenciones impuestos ambientales rellene sección
 rellene sección Efecto incentivador necesidad ayuda sección Criterios marcha evaluación detallada sección Información adicional evaluación detalladay sección Información supervisión
 Explique principales características objetivo efectos probables ayuda instrumento ayuda intensidad ayuda beneficiarios presupuesto etc medida notificada
 ayuda combinarse ayuda
-
 caso afirmativo rellene sección Acumulación presente formulario información suplementaria
 concede ayuda promover ejecución importante proyecto interés europeo común
 caso afirmativo rellene sección Compatibilidad ayuda conformidad artículo apartado letra Tratado CE presente formulario información suplementaria
@@ -4695,7 +4688,6 @@ Indique base decidió utilizar miembro instrumento selectivo ayuda estatal aumen
 evaluación impacto medida propuesta
 análisis comparativo opciones estratégicas consideradas miembro
 pruebas respeta principio contamina paga
-
 Efecto incentivador necesidad ayuda
 cálculo costes suplementarios expuesto capítulo Directrices ayudas favor ambiente especifique elementos enumeran
 Suministre pruebas medidas específicass habrían tomadas empresa ayuda situación hipotética suministre documentos justificativos

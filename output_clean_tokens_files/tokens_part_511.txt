@@ -2758,7 +2758,6 @@ ANEXO II
 Clave atribución permisos vehículos vacío
 Comisión atribuirá miembros permisos vehículos vacío conformidad clave
 período comprendido enero diciembre Comisión atribuirá permisos adicionales vehículos vacío miembros conformidad clave
-
 ANEXO III
 Método cálculo atribución permisos
 atribución permisos fijados anexos II lugar conformidad metodología
@@ -2915,7 +2914,6 @@ huevos frescos licables abril huevos yemas huevo exportados forma mercancías in
 gallina especie Gallus domesticus
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
-
 aves corral distintos aves especie Gallus domesticus
 exportación mercancías
 aves corral
@@ -2924,7 +2922,6 @@ Yemas huevo cidos agua vapor moldeados congelados conservados adición azúcar e
 Secos
 Adecuadas consumo humano
 edulcorados
-
 Líquidas
 Congeladas
 adas
@@ -3138,9 +3135,7 @@ Importe fijado contenido sacarosa
 Corrección errores Directiva CE Parlamento Europeo Consejo abril disposiciones mínimas seguridad salud relativas exposición trabajadores riesgos derivados agentes físicos campos electromagnéticos decimoctava Directiva específica arreglo apartado artículo Directiva CEE
 Diario Oficial Unión Europea abril versión corregida Diario Oficial Unión Europea mayo
 página nota párrafo
-
 valores pico lugar acción intensidades campo obtienen multiplicando valores eficaces rms correspondientes
-
 valores pico lugar acción intensidades campo obtienen multiplicando valores eficaces rms correspondientes
 Reglamento CE Comisión
 diciembre
@@ -3645,7 +3640,6 @@ Habas
 Alcachofas
 Espárragos
 verdes
-
 Berenjenas
 Apio Apium graveolens var dulce Mill
 Chantarellus spp
@@ -3659,7 +3653,6 @@ Guayabas mangos frescos
 Naranjas dulces frescas
 Sanguinas mediosanguinas
 Navels navelinas navelates salustianas vernas valencia lates malteros shamoutis ovalis trovita hamlins
-
 Mandarinas incluidas tangerinas satsumas frescas clementinas wilkings híbridos similares frescos
 Clementinas
 Monreales satsumas
@@ -3673,7 +3666,6 @@ Uvas mesa
 Sandías
 Melones distintos sandías
 Amarillo cuper honey dew incluidos Cantalene onteniente piel Sapo incluidos verde liso rochet tendral futuro
-
 Peras
 Peras nashi Pyrus pyrifolia
 Peras Pyrus bretscheri
@@ -4646,7 +4638,6 @@ especie portadora especie sensible enfermedad propagar infección difundiendo ag
 zona zona geográfica precisa sistema hidrológico homogéneo comprende cuenca hidrográfica fuente fuentes barrera natural artificial impide migración animales acuáticos tramos inferiores cuenca hidrográfica cuenca hidrográfica completa fuente fuentes estuario cuenca hidrográfica incluidos estuarios relación epidemiológica cuencas hidrográficas estuario
 ANEXO II
 Información exigida registro oficial empresas producción acuícola establecimientos transformación autorizados
-
 Empresas producción acuícola autorizadas
 organismo competente conservará registro información mínima empresa producción acuícola prevé artículo
 nombre direcciones empresa producción acuícola información contacto teléfono fax correo electrónico
@@ -4667,7 +4658,6 @@ situación geográfica establecimiento transformación definida sistema adecuado
 información sistemas tratamiento efluentes establecimiento transformación autorizado
 especies animales acuicultura manipulados establecimiento transformación autorizado
 ANEXO III
-
 Situación sanitaria zonas compartimentos acuicultura tenerse aplicación artículo
 Animales acuicultura cría repoblación
 Categoría
@@ -4691,7 +4681,6 @@ Categorías II III
 Programa erradicación art
 categoría
 Infectado art
-
 Vigilancia inspecciones recomendadas explotaciones zonas cría moluscos
 Especies presentes
 Situación sanitaria indica
@@ -4704,7 +4693,6 @@ Comentarios
 especie sensible enfermedades enumeradas anexo IV
 Categoría
 Declaradas libres enfermedades conformidad letras artículo artículo
-
 Pasiva
 Requisitos específicos mantener calificación libre enfermedades conforme artículo
 frecuencias inspección recomendadas aplicarán perjuicio requisitos específicos mencionados situación sanitaria
@@ -4721,7 +4709,6 @@ años
 Categoría II
 Activa
 año
-
 Categoría IV
 presenta riesgo elevado propagar enfermedades explotaciones poblaciones salvajes contraer enfermedades procedentes
 ejerce actividad condiciones cría aumentar riesgo focos enfermedades biomasa elevada baja calidad agua habida especies presentes

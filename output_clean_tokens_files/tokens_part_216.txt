@@ -314,7 +314,6 @@ DO
 ANEXO
 anexo Decisión CE queda modificado
 sustituye texto
-
 miembros zonas compartimentos sometidos programas autorizados erradicación
 Enfermedad
 miembro
@@ -532,7 +531,6 @@ Aeronave
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -615,11 +613,9 @@ animales vacas ovejas cabras búfalas importación territorio Unión Europea som
 proceso esterilización dé lugar valor superior
 tratamiento temperatura ultra alta UHT mínimo °C tiempo adecuado
 producidos
-
 IIC Productos pesca transformados origen establecimiento autorizado situado país
 IID Ovoproductos transformados origen país autorizado
 Notas
-
 Casilla Introduzca código ISO país origen producto compuesto contiene producto cárnico estómagos vejigas intestinos tratados figura anexo II Decisión CE productos lácteos transformados anexo Reglamento UE Comisión productos pesca transformados anexos II Decisión CE Comisión ovoproductos transformados anexo Reglamento CE Comisión
 Casilla Nombre dirección número registro autorización caso establecimientos producción producto compuesto productos compuestos
 nombre país origen coincidir país origen casilla
@@ -1889,7 +1885,6 @@ Comisión
 Miembro Comisión
 ANEXO
 ANEXO
-
 Lista productos origen animal destinados consumo humano alimentación animal cuya importación Comunidad autoriza declaración contemplada artículo
 productos pesca
 productos procedentes acuicultura
@@ -2850,7 +2845,6 @@ contemplado específicamente
 refieren jurisprudencia doctrina imposibilidad fusión transfronteriza
 encontrado
 identificado obstáculos importantes impidan fusión transfronteriza
-
 identificado normas fiscales impongan costes fiscales adicionales fusión transfronteriza
 tratamiento fiscal incierto
 precedentes fusiones transfronterizas jurisdicción
@@ -3145,9 +3139,7 @@ CICAP
 αDimetoxipirimidinilcarbamoilsulfamoilotoluato metilo bensulfuron metilo
 noviembre
 octubre
-
 usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión bensulfuron particular apéndices II aprobaron definitivamente Comité permanente cadena alimentaria sanidad animal diciembre
 evaluación general miembros deberán prestar especial atención
 protección organismos acuáticos relación riesgos identificados deberán aplicarse conveniente medidas reducción riesgo ejemplo zonas tampón

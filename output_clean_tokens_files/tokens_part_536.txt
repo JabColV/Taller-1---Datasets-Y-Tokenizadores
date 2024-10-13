@@ -251,7 +251,6 @@ Vehículos material transporte máquinas motores desmontados piezas
 Objetos metálicos
 Vidrio objetos vidrio cerámica
 Pieles productos textiles prendas vestir objetos manufacturados
-
 Nomenclatura uniforme mercancías estadísticas transporte aprobada sexagésima cuarta sesión febrero Comité Transportes Interiores Comisión Económica Naciones Unidas Europa CEPE revisada quincuagésima cuarta sesión Grupo Trabajo Estadísticas Transportes junio Documento TRANS WP Rev
 Nomenclatura uniforme mercancías estadísticas transporte revisada
 Publicación Oficina Estadística Comunidades Europeas versión francesa
@@ -357,7 +356,6 @@ Deberá enviarse archivo separado cuadro Reglamento período
 Deberá utilizarse convención denominación archivos
 IWWCuadroPeriodicidadPaísAñoPeríodoCampoFacultativoformato
 datos relativos vías navegables interiores
-
 Periodicidad
 anual
 trimestral
@@ -830,7 +828,6 @@ Identificar persona responsable organizar transporte siguientes valores
 Expedidor
 Destinatario
 Propietario productos
-
 facilitarán autoridades competentes miembro expedición validación borrador eAD
 Véase anexo II lista códigos
 Fecha hora validación eAD
@@ -845,7 +842,6 @@ Indicador presentación diferida
 presentación eAD circulación iniciado amparo documento soporte papel mencionado artículo apartado
 Posibles valores
 falso
-
 valor falso defecto
 dato aparecer eAD asignado ARC documento soporte papel mencionado artículo apartado
 OPERADOR Expedidor
@@ -1031,7 +1027,6 @@ Vino DOP IGP
 Vino varietal DOP IGP
 Vino DOP IGP
 Vino importado
-
 Código zona vitícola
 productos vitivinícolas granel volumen nominal superior litros
 Indicar zona vitícola origen producto transportado conformidad anexo IX Reglamento CE
@@ -1181,7 +1176,6 @@ Indicar cantidad partida rechazan productos sujetos impuestos especiales expresa
 MOTIVO RECHAZO
 partida aplique código conclusión global recepción véase casilla
 Motivo rechazo
-
 Exceso
 Defecto
 Productos dañados
@@ -1274,7 +1268,6 @@ Garantía conjunta expedidor propietario productos sujetos impuestos especiales 
 Garantía conjunta transportista propietario productos sujetos impuestos especiales destinatario
 Garantía conjunta expedidor transportista propietario productos sujetos impuestos especiales
 CÓDIGO TRANSPORTE
-
 Transporte marítimo
 Transporte ferroviario
 Transporte carretera
@@ -1554,7 +1547,6 @@ miembro
 Número nombre proyecto
 Gasto proyecto costes reales IVA
 Categoría personal
-
 Tarifa diaria
 Gastos generales máx coste
 Certificación beneficiario
@@ -2218,9 +2210,7 @@ Carbanilato Retilcarbamoiletilo
 kg
 junio
 mayo
-
 autorizarse usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión carbetamida particular apéndices II finalizó Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros prestarán atención particular
 protección aguas subterráneas sustancia activa aplique regiones cuyas condiciones suelo clima vulnerables
@@ -3711,7 +3701,6 @@ DO
 DO
 PROYECTO
 Decisión Consejo Ministros ACPCE
-
 solicitud presentada República Federal Somalia dirigida obtener estatuto observador asociación África Caribe Pacífico Comunidad Europea miembros subsiguiente adhesión
 CONSEJO MINISTROS ACPCE
 Visto asociación África Caribe Pacífico Comunidad Europea miembros firmado Cotonú junio modificado Luxemburgo junio Uagadugu junio sucesivo ACPCE particular artículo
@@ -3727,7 +3716,6 @@ República Federal Somalia depositará Acta adhesión depositarios Secretaría G
 espera adhesión República Federal Somalia participar reuniones Consejo calidad observador
 Entrada vigor
 presente Decisión entrará vigor adopción
-
 modifica Asociación África Caribe Pacífico Comunidad Europea miembros firmado Cotonú junio DO
 modifica Asociación África Caribe Pacífico Comunidad Europea miembros firmado Cotonú junio modificado Luxemburgo junio DO
 DO

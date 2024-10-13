@@ -409,7 +409,6 @@ Legal
 campo
 caso contractual
 tipo base BCE
-
 Intereses fecha
 caso legal
 Información demanda
@@ -424,7 +423,6 @@ conveniente añada documentos justificativos correspondientes
 Pruebas documentales
 indíquese abajo
 Testigos
-
 Vista oral Recuerde proceso europeo escasa cuantía procedimiento escrito
 obstante solicitar formulario posterioridad celebre vista oral
 órgano jurisdiccional decidir celebrar vista oral necesario correcto tratamiento asunto denegarlo habida circunstancias asunto
@@ -438,7 +436,6 @@ Fecha firma
 olvide escribir claramente nombre apellidos firma fecha página formulario
 presente solicito órgano jurisdiccional dicte sentencia demandado conformidad demanda
 Declaro información facilitada correcta consta presenta fe
-
 Fecha
 Datos bancarios efectos pago tasa solicitud
 Titular Titular tarjeta crédito
@@ -544,9 +541,6 @@ incluirá particular materias fiscal aduanera administrativa casos incurra respo
 cumplimentar órgano jurisdiccional Parlamento Europeo Consejo establece proceso europeo escasa cuantía
 tipo interés
 Apéndice formulario demanda Formulario
-
-
-
 denegación motivará escrito impugnar separado
 notificación hubiere efectuado suficiente antelación permitirle preparar defensa imputársele responsabilidad
 demanda pecuniaria deberá indicar valor estimado demanda presenta demanda secundaria indemnización caso darse curso favorable demanda original
@@ -944,7 +938,6 @@ asociaciones públicoprivadas marco Séptimo programa marco prestar apoyo cumpla
 fábricas futuro edificios energéticamente eficientes iniciativa europea coches verdes Internet futuro
 prestar apoyo adicional iniciativas industriales europeas IIE establecidas marco Plan EETE
 establecer asociaciones públicopúblicas públicoprivadas marco Horizonte cumplan criterios establecidos
-
 CIENCIA EXCELENTE
 CONSEJO EUROPEO INVESTIGACIÓN CEI
 CEI fomentará investigación categoría mundial fronteras conocimiento
@@ -1107,7 +1100,6 @@ objetivo abordará específicamente infraestructuras proyectando constituir cons
 financiación Unión contribuirá proceda
 fase preparatoria futuras infraestructuras ejemplo planes detallados construcción disposiciones jurídicas planificación plurianual participación industria fases tempranas
 fase ejecución ejemplo trabajo conjunto ingeniería ID industria usuarios desarrollo instalaciones regionales asociadas destinadas desarrollo equilibrado EEI
-
 fase funcionamiento ejemplo acceso tratamiento datos difusión formación actividades cooperación internacional
 actividad apoyará estudios diseño infraestructuras investigación enfoque ascendente
 Integrar abrir actuales infraestructuras investigación nacionales regionales interés europeo regional
@@ -2241,7 +2233,6 @@ ofrecerá asesoramiento especializado poderes públicos nacionales regionales ca
 Apoyar acceso redes internacionales investigadores innovadores excelentes participen suficientemente redes europeas internacionales
 marco cabe incluir respaldo brinda COST
 Reforzar capacidad administrativa operativa redes transnacionales puntos contacto nacionales PCN formación brindando apoyo financiero técnico mejorando marco funcionamiento PCN flujo información órganos ejecución Horizonte forma PCN puedan facilitar apoyo participantes potenciales
-
 CIENCIA SOCIEDAD
 objetivo establecer cooperación efectiva ciencia sociedad reclutar talentos ciencia emparejar excelencia científica conciencia social responsabilidad
 fortaleza sistema científico tecnológico europeo depende capacidad aprovechar talento ideas
@@ -3068,7 +3059,6 @@ capítulo sección modifica
 letras sustituyen texto
 deberán proceder tercer país tercer país figure columna lista terceros países cuadro
 deberán proceder establecimiento planta esté registrado autorizado autoridad competente tercer país corresponda figure lista tales establecimientos plantas contemplada artículo
-
 irán acompañadas transporte punto entrada Unión realizan controles veterinarios certificado sanitario indicado columna certificados modelos documentos cuadro
 presentarán punto entrada Unión realizan controles veterinarios acompañadas documento correspondiente modelo indicado columna certificados modelos documentos cuadro
 suprime letra
@@ -3157,7 +3147,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencia documental
 PIF entrada UE
@@ -3222,7 +3211,6 @@ proceden terceros países partes terceros países figuran columna anexo Reglamen
 pH reducido valor inferior proceden terceros países partes terceros países figuran columna anexo Reglamento UE sometidos tratamiento pasteurización suficiente producir reacción negativa prueba fosfatasa
 proceden terceros países partes terceros países figuran columna anexo Reglamento UE sometidos tratamiento esterilización tratamiento térmico doble tratamientos suficiente producir reacción negativa prueba fosfatasa
 proceden terceros países partes terceros países figuran columna anexo Reglamento UE producido brote fiebre aftosa meses llevado cabo vacunación fiebre aftosa meses sometido
-
 proceso esterilización permitido alcanzar valor Fc superior
 tratamiento térmico inicial efecto calentamiento mínimo °C quince segundos suficiente producir reacción negativa prueba fosfatasa seguido
 tratamiento térmico efecto calentamiento alcanzado suficiente producir reacción negativa prueba fosfatasa seguido caso leche polvo productos lácteos polvo procedimiento desecado
@@ -3266,7 +3254,6 @@ caprinos ovinos explotación matado destruido excepción machos destinados repro
 ovinos caprinos excepción ovinos genotipo prión ARR ARR introducen explotación proceden explotación cumple requisitos establecidos incisos ii
 caso subproductos animales destinados piensos rumiantes contienen leche productos lácteos origen ovino caprino destinados miembro figure anexo Reglamento CE Comisión ovinos caprinos origen dichos productos permanecido interrupción nacimiento años vida explotación sometida restricción oficial movimientos sospecha EET años satisfecho siguientes requisitos
 Notas
-
 Casilla Persona responsable envío Unión Europea casilla cumplimentarse únicamente certificado mercancía tránsito cumplimentarse certificado refiere mercancía importada
 Casilla Lugar destino casilla rellenarse únicamente certificado mercancía tránsito
 productos tránsito almacenarse zonas francas depósitos francos depósitos aduaneros
@@ -3281,7 +3268,6 @@ II
 Táchese proceda
 DO
 DO
-
 número muestras ensayo
 valor umbral número bacterias resultado satisfactorio número bacterias muestras superior
 valor máximo número bacterias resultado insatisfactorio número bacterias muestras superior
@@ -3490,7 +3476,6 @@ caso materiales distintos proceden huevos leche roedores lagomorfos animales acu
 proceden explotaciones
 siguientes enfermedades sensibles animales casos brotes peste bovina enfermedad vesicular porcina enfermedad Newcastle influenza aviar altamente patógena treinta previos peste porcina clásica africana cuarenta previos explotaciones situadas radio km treinta previos
 caso brote fiebre aftosa sesenta previos cumplido condiciones explotaciones situadas radio km treinta previos
-
 sacrificados erradicar epizootias
 permanecido explotaciones origen cuarenta previos expedición transportados directamente matadero contacto animales cumplían condiciones sanitarias
 sometidos inspección sanitaria mortem matadero veinticuatro horas previas sacrificio presentaban signo enfermedades citadas anteriormente sensibles animales cuestión
@@ -3645,7 +3630,6 @@ Controles oficiales alimentación animales salvajes determinados animales zooló
 autoridad competente vigilará calificación sanitaria animales granja región alimentación lugar contempla secciones capítulo II anexo VI realizará vigilancia adecuada EET incluya muestreos exámenes laboratorio periódicos detección EET
 particular tomarán muestras animales presenten síntomas animales reproductores viejos
 DO
-
 letra inciso iii sustituye texto
 Reglamento Ejecución UE Comisión
 abril
@@ -4242,7 +4226,6 @@ Reglamento modificado lugar Reglamento CE DO
 ANEXO
 anexo Decisión CE Capteur Gras Maigre Sydel CGM apartado sustituye texto
 contenido carne magra canal calculará fórmula
-
 porcentaje estimado magro canal
 espesor grasa dorsal incluida piel milímetros medido cm línea media dorsal cuarta costillas siguiendo trayectoria perpendicular línea
 espesor muscular milímetros medido cm línea media dorsal cuarta costillas siguiendo trayectoria paralela línea
@@ -4283,9 +4266,7 @@ DO
 Corrección errores Reglamento Ejecución UE Consejo diciembre modifica Reglamento Ejecución UE establece derecho antidumping definitivo percibe definitivamente derecho provisional establecido importaciones determinados alcoholes grasos mezclas originarios India Indonesia Malasia
 Diario Oficial Unión Europea diciembre
 página cuadro artículo columna Empresa
-
 Ecogreen Oleochemicals Batam Kabil Batam
-
 Ecogreen Oleochemicals Kabil Batam
 Reglamento UE Comisión
 enero
@@ -4354,7 +4335,6 @@ trate alimentos presentados forma especial administrados sonda indíquese etique
 piensos complementarios contener aditivos alimentación animal pertenecientes grupo funcional estabilizadores flora intestinal concentración cien superior contenido máximo pertinente fijado piensos completos
 Perros
 Nombre cantidad añadida estabilizador flora intestinal
-
 instrucciones piensos deberán garantizar piensos completos respete contenido máximo estabilizador flora intestinal
 Indíquese etiquetado recomienda consultar veterinario utilizarlo prolongar período utilización
 sustituye línea Estabilización digestión fisiológica columna Objetivo nutrición específico texto
@@ -4381,7 +4361,6 @@ insertan siguientes líneas línea Reducción riesgo acidosis línea Estabilizac
 Administración plazo oligoelementos vitaminas ganado herbívoro
 Alto nivel
 Oligoelementos
-
 vitaminas provitaminas sustancias efectos análogos químicamente definidas
 piensos complementarios contener aditivos alimentación animal concentración cien superior contenido máximo pertinente fijado piensos completos
 Rumiantes rumen funcional

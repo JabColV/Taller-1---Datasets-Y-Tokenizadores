@@ -113,10 +113,8 @@ tardar octubre lista publicará sitio web creado conformidad artículo apartado 
 artículo queda modificado
 punto sustituye texto
 instalación acuícola cerrada instalación situada tierra
-
 acuicultura cabo acuático recirculación agua
 cuyos vertidos conectan aguas abiertas tamizados filtrados percolados tratados impedir liberación residuos sólidos entorno acuático escapen instalación especies acuicultura especies objetivo capaces sobrevivir posteriormente reproducirse
-
 impide pérdidas especímenes criados especies objetivo material biológico incluidos agentes patógenos factores predadores ejemplo aves inundaciones ejemplo establecerse distancia seguridad instalación aguas abiertas evaluación apropiada realizada autoridades competentes
 impide razonable pérdidas especímenes criados especies objetivo material biológico incluidos agentes patógenos robo vandalismo
 garantiza eliminación adecuada organismos muertos
@@ -293,7 +291,6 @@ Límite
 Nivel aplicación flexibilidades normales
 Cantidad
 nivel ajustado
-
 Grupo
 piezas
 DO Reglamento cuya modificación constituye Reglamento CE DO
@@ -1613,15 +1610,9 @@ América Latina
 Oriente
 ámbito cooperación
 Derechos humanos democracia gobernanza
-
-
 ambiente cambio climático
 Desarrollo humano incluidos trabajo digno justicia social cultura
-
-
-
 Igualdad género emancipación mujer protección derechos mujeres niñas niños jóvenes discriminación empleo cualificaciones protección social inclusión social crecimiento empleo participación sector privado cultura
-
 fondos anterioridad utilización indicadores basados metodología OCDE marcadores Río servirán objetivos relacionados clima ambiente
 Programa panafricano
 EUR fondos asignados
@@ -1920,28 +1911,16 @@ Volumen contingentario
 toneladas peso neto
 Derecho contingentario
 Ajos frescos refrigerados
-
 Exención
 período posterior
 Pepinos frescos refrigerados
 período posterior
 Exención
 Naranjas dulces frescas
-
 Exención
 Fresas frescas
-
-
-
-
-
 período posterior
 Arroz descascarillado arroz cargo arroz pardo
-
-
-
-
-
 período posterior
 Arroz semiblanqueado blanqueado pulido glaseado
 Arroz partido
@@ -3179,7 +3158,6 @@ esloveno Znižana dajatev za Uredba št
 finés Tulli jota on alennettu Asetus EY
 sueco Tullsatsen nedsatt med Förordning EG nr
 ANEXO VIII
-
 Indicaciones contempladas artículo apartado letra
 búlgaro Освободено от мито до максимално количество посочено графи от настоящата лицензия Регламент ЕО
 español Exención derecho aduana cantidad indicada casillas presente certificado Reglamento CE
@@ -3265,7 +3243,6 @@ eslovaco Oslobodenie od cla až po množstvo uvedené kolónkach tejto licencie 
 esloveno Oprostitev uvozne dajatve do količine navedene poljih in tega dovoljenja člen Uredbe št
 finés Tullivapaa tämän todistuksen ja artiklassa ilmoitettuun määrään asti asetuksen EY artiklan kohdan alakohta
 sueco Tullfri upp till den mängd som anges fälten och denna licens förordning EG nr artikel
-
 ANEXO XI
 Indicaciones contempladas artículo apartado letra
 búlgaro Освободено от мито до максимално количество посочено графи от настоящата лицензия член параграф буква от Регламент ЕО
@@ -4228,7 +4205,6 @@ elevación hilo contacto ajustará estipulado cuadro
 calidad captación corriente repercusión fundamental vida útil hilo contacto consiguiente deberá cumplir parámetros acordados medibles
 cumplimiento requisitos comportamiento dinámico verificará arreglo norma apartado evaluación
 elevación hilo contacto
-
 fuerza contacto media Fm desviación estándar σmax
 porcentaje cebado
 entidad contratante declarará método emplearse verificación
@@ -4712,8 +4688,6 @@ norma objeto modificaciones futuro
 caso interferencia electromagnética subsistema energía actúa antena interferencia provocada subsistema material rodante
 kV Hz
 kV Hz
-
-
 ensayos realizarán ateniéndose dispuesto normas ejecutarán ambas direcciones marcha intervalo alturas nominales hilo contacto solicitado
 Sistema
 Compatibilidad electromagnética externa

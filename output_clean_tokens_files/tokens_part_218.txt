@@ -12,7 +12,6 @@ Cotovio Grandidier MH Portes Roguet Rubinsteen
 In vitro acute skin irritancy of chemicals using the validated EPISKIN model in tiered strategy Results and performances with cosmetic ingredients AATEX Special Issueproceedings from WC vol
 Irritant contact dermatitis IN Guin JD Practical Contact Dermatitis Mc GrawHill New York pp
 ensayo necesario mantener algas suspensión facilitar paso CO efectuarse agitación constante
-
 biomasa tiempo
 Statistical treatment of data from microbial toxicity tests
 caso experimento discontinuo estima basándose inicial curva degradación obtenida tiempo latencia
@@ -346,7 +345,6 @@ Peso específico kg hl
 granos germinados
 impurezas diversas Schwarzbesatz
 elementos cereales base calidad irreprochable
-
 ANEXO II
 Indicación contemplada artículo
 danés Byg fra intervention uden restitutionsydelse eller afgift forordning EF nr
@@ -905,7 +903,6 @@ productos originarios Ceuta Melilla
 productos enteramente obtenidos Ceuta Melilla
 productos obtenidos Ceuta Melilla cuya fabricación hayan utilizado productos distintos mencionados letra
 productos hayan suficientemente elaborados transformados sentido artículo
-
 productos originarios Noruega Comunidad hayan objeto elaboraciones transformaciones vayan allá operaciones contempladas artículo
 productos originarios Noruega
 productos enteramente obtenidos Noruega
@@ -1257,7 +1254,6 @@ DO
 DO
 DO
 ANEXO
-
 Directivas derogadas sucesivas modificaciones
 Directiva CEE Consejo
 DO
@@ -1273,7 +1269,6 @@ Directiva CE Consejo
 DO
 Directiva CE Consejo
 DO
-
 Lista plazos incorporación Derecho nacional fechas aplicación
 contemplados artículo apartado
 Directiva
@@ -2083,10 +2078,8 @@ Cuadro
 Criterios clasificación ICE espesor córnea
 Inflamación media córnea
 Clase ICE
-
 min tratamiento
 min tratamiento
-
 min tratamiento
 min tratamiento
 Cuadro
@@ -4635,10 +4628,8 @@ Disposiciones flexibilidad Hong Kong
 País
 Grupo
 Grupo II
-
 Grupo III
 categorías
-
 anexo IX sustituye texto
 ANEXO IX
 País proveedor
@@ -4693,7 +4684,6 @@ procede
 rumiantes porcinos
 exige LMR
 Únicamente oral
-
 Diclazurilo
 Aves corral
 Músculo
@@ -4946,7 +4936,6 @@ Inicial
 Adaptada
 adapte capacidad máxima aplicará fórmula
 kWcm kW kW kW kW
-
 kW cm
 capacidad máxima expresada kW buques permite poseer permiso pesca especial zona geográfica
 kW

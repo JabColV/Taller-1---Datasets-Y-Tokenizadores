@@ -132,7 +132,6 @@ año civil
 Media anual
 horas consecutivas superación lugares representativos calidad aire área km zona aglomeración superficie menor
 Vegetación
-
 superación año civil
 Percentil
 superación descontados año civil
@@ -881,12 +880,6 @@ toneladas
 fila correspondiente número orden sustituye fila
 toneladas
 filas correspondientes código NC ex números orden sustituyen filas siguientes
-
-
-
-
-
-
 filas correspondientes números orden sustituyen filas siguientes
 Arenques Clupea harengus Clupea pallasii congelados
 toneladas
@@ -2262,7 +2255,6 @@ Avión
 Buque
 Vagón ferrocarril
 Vehículo carretera
-
 Identificación
 Referencias documentales
 PIF entrada UE
@@ -2314,7 +2306,6 @@ estuvieron libres leucosis enzoótica bovina animal especie bovina mostrado sign
 animal especie bovina mostrado signos clínicos rinotraqueítis infecciosa bovina vulvovaginitis purulenta infecciosa meses anteriores
 embriones destinados exportación concebidos inseminación artificial utilizando esperma procedente centros recogida almacenamiento esperma autorizados recogida tratamiento almacenamiento esperma autoridad competente tercer país figura anexo Decisión Ejecución UE Comisión autoridad competente miembro
 Notas
-
 Casilla Persona responsable partida UE casilla rellenarse únicamente certificado mercancía tránsito
 Casilla Lugar origen corresponderá equipo recogida embriones autorizado enviados embriones Unión figura conformidad artículo apartado Directiva CEE sitio web Comisión httpeceuropaeufoodanimalsemenovabovineovaembryosenhtm
 Casilla Número bultos corresponderá número recipientes
@@ -3221,9 +3212,7 @@ ingreso consignado corresponde partida sección III Comisión presupuesto genera
 Corrección errores Directiva CE Parlamento Europeo Consejo diciembre modifica Directiva CE establecen prescripciones técnicas embarcaciones navegación interior
 Diario Oficial Unión Europea diciembre
 página artículo punto sustitución artículo Directiva CE
-
 perjuicio dispuesto apartado Comisión adoptará homologaciones referencia artículo apartado conformidad procedimiento contemplado artículo apartado
-
 obstante apartado Comisión adoptará homologaciones referencia artículo apartado conformidad procedimiento contemplado artículo apartado
 Corrección errores forma Canje Notas Unión Europea Brunéi Darussalam participación Brunéi Darussalam Misión Observación Unión Europea Aceh Indonesia Misión Observación Aceh MOA
 Diario Oficial Unión Europea julio

@@ -568,7 +568,6 @@ valores línea II comprendida valores líneas II destilasen volumen °C superior
 disposiciones aplican aceites presenten color diluido inferior
 Tabla correspondencia color diluido Cviscosidad
 Color
-
 Viscosidad
 viscosidad entiende viscosidad cinemática °C expresada s– norma ISO
 entenderá color diluido color presente disolución obtenida añadiendo unidad volumen producto unidades volumen xileno tolueno disolvente apropiado midiendo color norma ISO equivalente norma ASTM
@@ -980,7 +979,6 @@ Cincatos vanadatos
 sales ácidos peroxoácidos inorgánicos incluidos aluminosilicatos constitución química definida aziduros azidas
 Silicatos dobles complejos incluidos aluminosilicatos constitución química definida
 Sales simples dobles complejas ácidos selenio teluro
-
 Metal precioso coloidal compuestos inorgánicos orgánicos metal precioso constitución química definida amalgamas metal precioso
 Metal precioso coloidal
 Plata
@@ -4974,7 +4972,6 @@ Tablestacas
 Elementos vías férreas fundición hierro acero carriles rieles contracarriles contrarrieles cremalleras agujas puntas corazón varillas mando agujas elementos cruce cambio vías traviesas durmientes bridas cojinetes cuñas placas asiento placas unión placas tirantes separación piezas concebidas especialmente colocación unión fijación carriles rieles
 Carriles rieles
 Conductores corriente metal férreo
-
 Carriles rieles tipo vignole
 peso superior kg metro lineal
 peso inferior kg metro lineal

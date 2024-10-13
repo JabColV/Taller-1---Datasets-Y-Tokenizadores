@@ -221,7 +221,6 @@ aceite obtenido tratamiento térmico polietileno brea alquitrán hulla aceites a
 aceite obtenido tratamiento térmico poliestireno brea alquitrán hulla aceites aromáticos compuesto benceno homólogos intervalo ebullición aproximado °C °C
 residuos extracto hulla aceite alquitrán alcalino residuos destilación naftaleno extracto residuo aceite naftalina
 residuo obtenido aceite químico extraído separación naftaleno destilación compuesto principalmente hidrocarburos aromáticos anillos condensados miembros bases nitrogenadas aromáticas
-
 fracción destilación punto ebullición obtenida carbonización elevada temperatura hulla bituminosa refina separar exeso sales cristalinas compuesta principalmente aceite creosota sales aromáticas polinucleares normales componentes destilado alquitrán hulla separados libre cristales °C
 ácidos alquitrán cresílicos sales sodio soluciones cáusticas extracto alcalino
 aceites extracto hulla base alquitrán extracto ácido
@@ -761,7 +760,6 @@ Referencia título norma
 Documento referencia
 Referencia norma sustituida
 Cuero Ensayos químicos Determinación colorantes azoicos cueros teñidos
-
 Textiles Métodos determinación aminas aromáticas derivadas colorantes azoicos Detección colorantes azoicos accesibles extracción
 Textiles Métodos determinación aminas aromáticas derivadas colorantes azoicos Detección colorantes azoicos accesibles extracción fibras
 Organismos europeos normalización OENCEN rue Stassart Bruselas tel
@@ -1921,7 +1919,6 @@ envasados marcados almacenados transportados conformidad capítulos VI VII VIII 
 proceden especies tóxicas contengan biotoxinas
 superado satisfactoriamente pruebas organolépticas parasitológicas químicas microbiológicas establecidas categorías productos pesqueros Directiva CEE correspondientes decisiones aplicación
 inspector oficial abajo firmante declara presente conocimiento disposiciones Directivas CEE CEE Decisión CE
-
 lugar fecha
 Sello oficial
 Firma inspector oficial
@@ -2454,8 +2451,6 @@ ABSDIFFi inferior MA atribuirá valor constante MA
 cálculo peso Wi año aplicando inversa ABSDIFFi
 cálculo VRNY forma media ponderada fórmula
 número natural
-
-
 Modelo marco evaluar nivel consecución VRN OCS
 Método evaluar consecución VRN OCS
 evaluar consecución VRN OCS deberán aplicarse principios siguientes
@@ -2500,8 +2495,6 @@ cálculo observaciones anuales OBSi resulten indicadores correspondientes apénd
 cálculo media aritmética años MA observaciones anuales OBSi inicialmente
 cálculo peso Wi aplicando inversa ABSDIFFi
 cálculo MMPY fórmula
-
-
 miembro caso tipo riesgo cuyo VRN inferior OCS correspondiente consecución VRN implicará automáticamente OCS evaluación nivel consecución VRN llevará cabo siguiendo procedimiento dispuesto sección VRN representará nivel máximo tolerable riesgo refiera perjuicio disposiciones márgenes tolerancia contenidas punto
 miembro caso tipo riesgo cuyo VRN superior OCS correspondiente representará nivel máximo tolerable riesgo refiera evaluación nivel consecución OCS llevará cabo requisitos resulten evaluación impacto caso calendario establezca aplicación gradual OCS aplicación artículo apartado Directiva CE
 caso afirmativo nivel seguridad considerará aceptable caso negativo procedimiento continuará fase evaluación
@@ -2971,9 +2964,7 @@ Ciruelas
 Corrección errores Decisión UE Consejo octubre relativa firma nombre Unión Europea Unión Europea República Federativa Brasil exención visados estancias corta duración titulares pasaportes diplomáticos servicio oficiales
 Diario Oficial Unión Europea octubre
 página cubierta sumario página título página fórmula
-
 octubre
-
 octubre
 Reglamento CE Comisión
 marzo
@@ -3302,18 +3293,7 @@ buques comunitarios quedan autorizados faenar límites cuotas fijadas anexo agua
 artículo añade apartado
 actividad pesquera buques comunitarios aguas jurisdicción Islandia quedará restringida zona delimitada líneas rectas unen siguientes coordenadas
 Zona sudoeste
-
-
-
-
 Zona sudeste
-
-
-
-
-
-
-
 anexos IB IC ID IVa IVc VI modifican conformidad anexo presente Reglamento
 Artículo
 Modificaciones Reglamento CE
@@ -3381,7 +3361,6 @@ Cuadro II Excepciones presencia zona ausencia puerto cuadro condiciones vinculad
 Zona
 Arte pesca indicado punto
 Registro captura buque
-
 Zona definida punto
 bacalao lenguado solla europea
 restricción
@@ -3390,14 +3369,11 @@ mm mm
 Kattegat Mar Norte
 arte malla superior mm
 bacalao rodaballo ciclóptero
-
 Kattegat Skagerrak
 arte escape malla cuadrada mm
-
 Oriental Canal Mancha
 trasmallos malla inferior mm
 Buques ausentes puerto horas máximo
-
 apéndice punto frase sustituye
 dispositivo colocará cara superior
 anexo IVc texto punto letra sustituye
@@ -3410,7 +3386,6 @@ Zona definida punto
 Grupo artes pesca indicado punto
 Occidental Canal Mancha división CIEM VIIe
 anexo VI sustituye texto
-
 LÍMITES CUANTITATIVOS APLICABLES LICENCIAS PERMISOS PESCA BUQUES COMUNITARIOS FAENEN AGUAS TERCEROS PAÍSES
 Zona pesca
 Pesquería
@@ -3481,7 +3456,6 @@ Granadero
 Zona Vb VI VII Aguas comunitarias aguas internacionales
 Lituania
 Polonia
-
 Exclusivamente capturas accesorias
 cuota permite pesca directa
 Bruselas mayo
@@ -3762,7 +3736,6 @@ DO
 DO
 DO
 ANEXO
-
 Directiva derogada modificación
 mencionada artículo
 Directiva CEE Consejo
@@ -3770,7 +3743,6 @@ DO
 Reglamento CE
 DO
 Únicamente punto anexo III
-
 Plazo transposición Derecho nacional
 mencionado artículo
 Directiva
@@ -4965,12 +4937,9 @@ disposiciones Reglamento CE Euratom Reglamento CE Euratom
 Desglose recursos
 fondos disponibles desglosarán arreglo siguientes directrices
 Adquisición mejora competencias
-
 mínimo
 Distribución
 mínimo
-
-
 Aspectos horizontales
 mínimo
 porcentajes indicativos modificados conformidad procedimiento contemplado artículo apartado

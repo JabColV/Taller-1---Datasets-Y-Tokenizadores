@@ -29,7 +29,6 @@ avances consecución medioambiental inscriben contexto serie cambios continuos a
 cambio climático teniendo impacto procesos funciones ecosistémicos
 desarrollar respectivas estrategias marinas miembros precisar caso pruebas dispongan impactos cambio climático
 gestión adaptativa basada enfoque ecosistémico conllevará actualización periódica definición medioambiental
-
 Criterios medioambiental aplicables descriptores anexo Directiva CE
 mantiene biodiversidad
 calidad frecuencia hábitats distribución abundancia especies consonancia condiciones fisiográficas geográficas climáticas reinantes
@@ -2552,9 +2551,7 @@ versión codificada
 Diario Oficial Unión Europea diciembre
 páginas suprimen considerandos páginas considerandos pasan considerandos
 página considerando
-
 Comité antidumping OMC
-
 Comité antidumping Organización Mundial Comercio OMC
 Término incluye Azerbaiyán Bielorrusia Corea Norte Tayikistán Turkmenistán Uzbekistán
 Término incluye Albania Armenia Azerbaiyán Bielorrusia Corea Norte Georgia Kirguizistán Moldavia Mongolia Tayikistán Turkmenistán Uzbekistán
@@ -3822,8 +3819,6 @@ Importe unidad descuento recargo GBP MWh precios
 comparación contratos originales
 Importe neto unidad pago combustible agotado GBP MWh precios
 Pago GBP kgU
-
-
 importante observar descuentos recargos cuadro comparables acuerdos gestión combustible agotado vigentes justo reestructuración acuerdos antiguos
 criterio comparar análisis concesiones BE puesto representa BNFL habría recibido BE BE hubiera entrado crisis
 cambio comparar acuerdos contratos antiguos iniciales básicos refiere anónima número tendría sentido analizar concesiones reales hechas BNFL negociación plan reestructuración
@@ -4874,7 +4869,6 @@ Período contingentario
 Volumen contingentario
 toneladas peso neto especifique cosa
 Preparaciones surimi
-
 Galletas
 Cigarrillos contengan tabaco
 Hilo coser algodón acondicionado venta menor

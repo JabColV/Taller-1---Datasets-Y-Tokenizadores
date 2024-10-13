@@ -376,7 +376,6 @@ sede miembros cuya moneda euro
 títulos cesiones temporales garantía efectivo
 emisor sede miembros cuya moneda euro
 Préstamos instituciones bancarias
-
 activos moneda extranjera incluidos activos reserva
 Depósitos
 sede miembros cuya moneda euro
@@ -2524,7 +2523,6 @@ equipo sistemas detección explosivos EDS
 perros detectores explosivos
 equipo sistemas detección explosivos líquidos LEDS
 sustituye texto
-
 Líquidos aerosoles geles
 introducirse líquidos aerosoles geles zonas restringidas seguridad sometidos control estén exentos conforme exigencias normas desarrollo adoptadas arreglo artículo apartado Reglamento CE
 Comisión colaborado estrechamente partes interesadas evaluar situación relación control líquidos aerosoles geles aeropuertos UE julio
@@ -2766,7 +2764,6 @@ ANEXO
 CONJUNTO II
 Cláusulas contractuales tipo transferencia datos personales Comunidad terceros países transferencias responsables tratamiento
 transferencia datos
-
 nombre
 dirección país establecimiento
 exportador datos
@@ -2890,7 +2887,6 @@ cumplirá obligaciones incumben virtud presentes cláusulas expensas
 Cláusula adicional resolución
 caso resolución presentes cláusulas importador datos deberá discreción exportador devolverle demora datos personales sujetos presentes cláusulas copias destruir completo copias certificar circunstancia exportador legislación nacional reglamentación local aplicable importador impida devolver destruir parcialmente datos cuyo caso importador compromete guardar secreto datos personales volver someterlos tratamiento
 importador datos garantiza petición exportador datos pondrá disposición inspector designado opuesto razonablemente importador datos instalaciones tratamiento verificar cumplimiento dicha obligación previa notificación razonable horas laborables
-
 responsabilidad partes limitará daño realmente sufrido quedando específicamente descartadas indemnizaciones punitivas castigar partes conducta improcedente
 detalles transferencia datos personales especifican anexo partes acuerdan anexo contener información empresarial carácter confidencial revelarán terceros exija legislación respuesta organismo regulador gubernamental competente necesario virtud letra cláusula partes introducir anexos adicionales regular transferencias presentarán autoridad pida
 Decisión Comisión
@@ -3122,7 +3118,6 @@ entrada correspondiente Malasia
 BB
 sustituye entradas siguientes
 BB residuos cinc duro
-
 Residuos cinc duro
 sustituye entrada
 Reglamento CE Comisión
@@ -4377,7 +4372,6 @@ anexo Decisión CE queda modificado
 entrada correspondiente Brasil sustituye texto
 Brasil
 país
-
 Sociedade Hipica Paulista aeropuerto Viracopos autopista ambas instalaciones São Paulo
 Válido
 inserta entrada correspondiente Montenegro entrada correspondiente Marruecos correspondiente Antigua República Yugoslava Macedonia
@@ -4475,7 +4469,6 @@ Fabricación valor materias partida utilizadas exceda precio franco fábrica pro
 Jugos extractos vegetales materias pécticas pectinatos pectatos agaragar mucílagos espesativos derivados vegetales modificados
 Mucílagos espesativos derivados vegetales modificados
 Fabricación mucílagos espesativos modificados
-
 Fabricación valor materias utilizadas exceda precio franco fábrica producto
 capítulo
 Materias trenzables productos origen vegetal expresados comprendidos
@@ -4670,7 +4663,6 @@ Sangre humana sangre animal preparada usos terapéuticos profilácticos diagnós
 Productos compuestos componentes mezclados usos terapéuticos profilácticos productos mezclar usos dosificados acondicionados venta menor
 Fabricación materias partida materias partida
 obstante utilizarse materias descritas valor máximo exceda precio franco fábrica producto
-
 Sangre humana
 Sangre animal preparada usos terapéuticos profilácticos
 Componentes sangre antisueros hemoglobina globulinas sangre seroglobulina

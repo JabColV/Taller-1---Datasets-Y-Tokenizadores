@@ -1235,9 +1235,7 @@ toneladas
 Contingente semestral máximo
 cantidades toneladas
 Contingente
-
 Número contingente
-
 Derecho importación
 EUR kg peso neto
 Normas cumplimentar certificados IMA
@@ -2153,7 +2151,6 @@ producto incluye fijaciones ISOFIX información deberá visible permanente perso
 logotipo ISO ISOFIX seguido letras definen clases tamaño ISOFIX corresponde producto
 mínimo símbolo consistente círculo mm diámetro contenga pictograma deberá contrastar fondo círculo
 pictograma deberá claramente visible contraste colores relieve adecuado moldeado estampado
-
 información proporcionarse forma pictograma texto
 marcado deberá mencionar
 etapas esenciales necesarias instalación asiento
@@ -2191,7 +2188,6 @@ dispositivo perpendicular respaldo asiento pase altura ojo deberá cruzarse lín
 categoría pertenezca sistema retención infantil deberá sujeto estructura vehículo asiento
 CONFIGURACIONES POSIBLES HOMOLOGACIÓN
 CUADRO GRUPOS CATEGORÍAS
-
 SRI Sistema retención infantil
 Aplicable
 NA aplica
@@ -2839,7 +2835,6 @@ Deberán medirse desplazamiento horizontal cabeza aceleraciones tórax ensayo in
 resultados medición desplazamiento horizontal máximo cabeza deberán cumplir condiciones siguientes
 valor deberá superar
 deberá superar
-
 valor límite prescrito
 media valores
 desviación estándar valores
@@ -2872,7 +2867,6 @@ caso duda consulte fabricante vendedor
 sistemas retención infantil categorías restringida semiuniversal información deberá claramente visible punto venta quitar embalaje
 sistema retención infantil categoría restringida semiuniversal apropiado instalado asientos automóviles siguientes
 AUTOMÓVIL
-
 ATRÁS
 Lateral
 Central
@@ -3069,8 +3063,6 @@ dimensiones cojín incluyen apéndice presente anexo
 Cuadro
 Densidad ISO kg
 Resistencia ISO
-
-
 Factor resistencia ISO kPa
 Alargamiento ruptura ISO
 Resistencia ruptura ISO kPa
@@ -3266,7 +3258,6 @@ anchura
 mm
 grosor
 alargamiento
-
 cinturón estático puntos muestra figura consta placas anclaje estándar muestra figura correa cumple requisitos punto
 placas anclaje cinturón puntos deberán instalarse anclajes carro valor figura mm requisito longitud máxima homologación sistemas retención infantil categoría universal cinturones puntos véase punto
 Configuraciones cinturón seguridad estándar
@@ -4336,7 +4327,6 @@ criterio aplicable pregunta procedente
 evaluación global considerará SUPERADA únicamente firmar expedidor página declaración compromiso
 autoridad competente conservará acceso declaración compromiso original validación expire
 Asimismo expedidor deberá recibir copia dicha declaración
-
 Fecha validación
 Utilice formato indicar fecha ejemplo
 dd mm aaaa
@@ -4365,14 +4355,12 @@ Teléfono contacto
 tel
 Dirección correo electrónico
 Correo electrónico
-
 Carga correo aéreos reconocibles Identificabilidad
 Objetivo Determinar punto lugar carga correo aéreos devienen reconocibles tales
 entiende identificabilidad capacidad valorar devienen reconocibles carga correo aéreos tales
 Determine envío cualquiera carga correo aéreos deviene reconocible inspección zonas producción embalaje almacenamiento selección expedición zonas relevantes
 Describa
 Nota facilitarse información exhaustiva protección carga correo aéreos reconocibles interferencias autorizadas intentos manipulación Partes
-
 Selección formación personal
 Objetivo Garantizar personal permanente temporal contratado agencias conductores acceso carga correo aéreos reconocibles sometido examen precontratación control antecedentes personales recibido formación conformidad punto anexo Reglamento UE
 Asimismo garantizar personal efectúe controles seguridad suministros recibido formación conformidad capítulo anexo Reglamento UE
@@ -4380,7 +4368,6 @@ determinar preguntas aparecer ennegritaen cuyo caso respuesta acarrea evaluació
 preguntas aparecerá negrita contemplará posibilidad exigir ulteriormente examen precontratación previamente control antecedentes personales
 encargado persona responsable efectuar controles seguridad superado necesariamente control antecedentes personales
 Criterio aplicable personal seleccionado fecha aplicación Reglamento CE
-
 caso afirmativo especifique
 Indique procedimiento selección engloba control antecedentes personales incluida verificación antecedentes penales arreglo punto anexo Reglamento UE
 Indique nombramiento persona designada realización supervisión implantación controles seguridad ubicación requiere control antecedentes personales incluida verificación antecedentes penales arreglo punto anexo Reglamento UE
@@ -4390,7 +4377,6 @@ Indique personal efectúa controles seguridad suministros recibe formación conf
 Indique personal mencionado anteriormente cursa módulos repaso periodicidad establecida tipo formación
 Evaluación suficientes medidas adoptadas garantizar personal acceso carga correo aéreos reconocibles personal efectúa controles seguridad seleccionado recibido formación conformidad capítulo anexo Reglamento UE
 caso negativo exponga motivos
-
 Objetivo Determinar ubicación nivel seguridad física suficiente proteger carga correo aéreos reconocibles interferencias autorizadas
 Indique ubicación protegida físicamente valla cercado
 Indique puntos acceso ubicación sujetos control pertinente
@@ -4406,7 +4392,6 @@ caso afirmativo quedan grabadas imágenes registradas CCTV
 Indique puertas ventanas puntos acceso carga correo aéreos reconocibles ofrecen garantías seguridad sujetos control accesos
 caso negativo exponga motivos
 Evaluación Indique medidas adoptadas organización suficientes impedir acceso autorizado partes ubicación procesan almacenan carga correo aéreos reconocibles
-
 Objetivo Proteger carga correo aéreos reconocibles interferencia autorizada intento manipulación
 Responda preguntas reconocerse producto carga correo aéreos proceso producción
 controla acceso zona producción
@@ -4414,7 +4399,6 @@ caso afirmativo especifique
 supervisa proceso producción
 efectúan controles impedir manipulación fase producción
 Evaluación Indique medidas adoptadas organización suficientes proteger carga correo aéreos reconocibles interferencia autorizada intento manipulación producción
-
 Responda preguntas identificarse producto carga correo aéreos proceso embalaje
 supervisa proceso embalaje
 Describa acabado exterior embalaje
@@ -4427,11 +4411,9 @@ guardan precintos cinta adhesiva seguridad etiquetas especiales condiciones segu
 controla distribución emisión precintos numerados cinta adhesiva seguridad etiquetas
 respuesta pregunta indique método control aplica
 Evaluación Indique procedimientos embalaje suficientes proteger carga correo aéreos reconocibles interferencia autorizada intento manipulación
-
 Responda preguntas identificarse producto carga correo aéreos proceso almacenamiento
 Indique carga correo aéreos acabados embalados almacenan condiciones seguras pasan control detectar posibles manipulaciones
 Evaluación Indique procedimientos almacenamiento suficientes proteger carga correo aéreos reconocibles interferencia autorizada intento manipulación
-
 Responda preguntas identificarse producto carga correo aéreos proceso expedición
 controla acceso zona expedición
 acceso zona expedición
@@ -4440,13 +4422,10 @@ Conductores
 Visitantes
 Contratistas
 Evaluación Indique protección existente suficiente proteger carga correo aéreos interferencia autorizada intento manipulación zona expedición
-
 Objetivo Establecer procedimientos procesar tramitar envíos seguros
 Responda preguntas únicamente aceptan envíos procedentes compañías destinados transporte vía aérea
 Acepta compañía envíos carga destinados transporte vía aérea procedentes compañías
-
 caso afirmativo indique separan carga compañía identifican agente acreditado transportista
-
 entrega agente acreditado carga correo aéreos transportados
 agente acreditado
 Transportados expedidor

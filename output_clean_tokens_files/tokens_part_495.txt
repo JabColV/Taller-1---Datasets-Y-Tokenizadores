@@ -5,7 +5,6 @@ dimensiones dispositivos acoplamiento puntos acoplamiento conexiones longitudina
 embarcación
 empujada
 empujadora
-
 fuerza acoplamiento conexión longitudinal
 potencia instalada motor propulsión
 distancia proa embarcación empujadora empujada punto acoplamiento
@@ -65,7 +64,6 @@ Velocidad motor
 min
 tiempos tiempos
 Turbocompresor
-
 Transmisión
 Fabricante Tipo Reductor revoluciones
 Hélices
@@ -113,7 +111,6 @@ INSTRUCCIÓN ADMINISTRATIVA
 INSTRUCCIÓN ADMINISTRATIVA
 Anclas especiales masa reducida
 Artículo apartado anexo II
-
 Anclas especiales autorizadas
 cuadro figuran anclas especiales masa reducida autorizadas autoridades competentes conformidad artículo apartado
 ancla
@@ -125,7 +122,6 @@ Pool sólida
 Francia
 Ancla alta retención Schmitt
 Países Bajos
-
 Autorización procedimiento prueba anclas especiales masa reducida
 Reducción autorizada masa ancla determinada arreglo artículo apartados anexo II
 Capítulo Procedimiento autorización
@@ -151,7 +147,6 @@ realizarán pruebas corriente ancla referencia ancla especial forma alterna tram
 río Rin tramo kilómetros servir tramo referencia pruebas grava gruesa tramo kilómetros pruebas arena fina
 pruebas ancla prueba remolcará cable acero cuya longitud puntos conexión ancla remolcador dispositivo altura punto conexión embarcación fondeadero
 porcentaje reducción masa ancla calculará fórmula
-
 porcentaje reducción masa ancla especial ancla referencia
 PA masa ancla referencia
 PB masa ancla especial
@@ -378,8 +373,6 @@ detectores llamas
 combinación detectores detectores incendios combinen detectores mencionados letras
 comisión inspectora autorizar detectores incendios respondan factores indiquen inicio incendio sensibles detectores mencionados letras
 detectores incendios instalarse
-
-
 identificación individual
 REQUISITOS CONSTRUCCIÓN
 sistemas alarma obligatorios deberán operativos momento
@@ -787,11 +780,9 @@ pinturas cajas carcasas adecuadas efecto considerable características ignífuga
 permitirse cables tipo especial cables radiofrecuencia cumplan requisitos anteriores
 miembros tengan vías navegables contempladas artículo apartado Directiva CE pondrán vigor disposiciones legales reglamentarias administrativas necesarias cumplimiento establecido presente Directiva efecto diciembre
 Comunicarán inmediatamente Comisión texto dichas disposiciones
-
 requieren timones flanking sistemas gobierno timón Táchese proceda
 equipos Táchese proceda
 mencionados punto cumplir requisitos maniobrabilidad capítulo
-
 TPM max
 vSTRactual vIIactual fórmula
 RG reference
@@ -799,7 +790,6 @@ vSTRreference reference
 RG mula sIIactual
 caja cabrestantes contará unidad importar número anclas cables remolque estén conectadas
 TPM max
-
 sIactual
 continuación hará anotación correspondiente punto superior página bis inferior página bis anotará Continúa página
 subrayarán color rojo introducirá número página bis modificación deberá sello oficial
@@ -1094,24 +1084,6 @@ programas nacionales control deberán especificar protocolos habrán seguirse
 inspecciones mar tierra
 comunicarse autoridades competentes designadas miembros dirigir programa nacional medidas control poblaciones bacalao
 vigilancia conjunta intercambio inspectores precisen atribuciones autoridad inspectores ejerzan función aguas miembros
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 obstante dispuesto apartados buques pesqueros faenar zonas marea comienzo actividad pesca cualquiera ambas zonas año tengan bordo kg bacalao
 Reglamento CE Consejo
 diciembre
@@ -1236,9 +1208,7 @@ Corrección errores Decisión Comité Político Seguridad EUTM Somalia diciembre
 PESC
 Diario Oficial Unión Europea diciembre
 página considerando
-
 Comandante EUTM Somalia celebró conferencias generación fuerzas dotación personal noviembre diciembre marzo
-
 Comandante EUTM Somalia celebró conferencia generación fuerzas dotación personal agosto
 página artículo
 Teniendo resultados conferencias generación fuerzas dotación personal noviembre diciembre marzo
@@ -1573,7 +1543,6 @@ Ministro Minería
 Antiguo Inspector General Ejército
 Ministro Asuntos Fronteras Desarrollo Industrial
 Esposa General División Thein Htay
-
 Soe Maung
 Presidencia
 Antiguo Juez Abogado General Diputado parlamentario Cámara Baja FN LN Yezagyo
@@ -1585,8 +1554,6 @@ Dc
 Thida Aye
 Dd
 Aye Chan
-
-
 Aung Min
 Wai Wai Thar Wai Wai Tha
 Esposa Aung Min
@@ -1596,7 +1563,6 @@ Ministro Inmigración Mano Obra
 Antiguo Director General Policía Myanmar FN LN Myaung Mya
 Esposa Khin Yi
 Ministro Agricultura Irrigación
-
 Thura Myint Maung
 Hijo Thura Myint Maung
 Esposa Aung Kyaw Soe
@@ -1611,19 +1577,16 @@ Esposa Tin Naing Thein
 Ministro Industria
 Antiguo Subsecretario Industria
 Esposa Kyaw Swa Khaing
-
 Than Htay
 Ministro Energía
 Esposa Than Htay
 Ministro Energía Eléctrica Diputado parlamentario Cámara baja FN LN Bago
 Esposa Zaw Min
 Ministro Energía Eléctrica
-
 Hla Tun
 Ministro Hacienda Planificación
 Antiguo Ministro Finanzas Hacienda Diputado parlamentarioCámara Baja FN LN Yangón
 Esposa Hla Tun
-
 Thein Nyunt
 Gabinete Presidente Ganadería
 Kyin Khaing Kyin Khine
@@ -1652,16 +1615,13 @@ Esposa Khin Aung Myint
 Antiguo Ministro Educación antiguo Subsecretario Ciencia Tecnología
 Antiguo miembro Partido Unión Solidaridad Desarrollo USDP
 Esposa Dr Chan Nyein
-
 Lun Thi
 Esposa Lun Thi
 Hija Lun Thi
 Hijo Lun Thi
 Esposa Zin Maung Lun
-
 Profesor Dr Kyaw Myint
 Esposa profesor Dr Kyaw Myint
-
 Maung Oo
 Esposa Maung Oo
 Antiguo Ministro Bienestar Social Asistencia Reasentamiento Diputado parlamentario Cámara Baja
@@ -1685,7 +1645,6 @@ Antiguo Ministro Ganadería Pesca Diputado parlamentario Cámara Baja
 Esposa Maung Maung Thein
 Min Thein Ko Pauk
 Hijo Maung Maung Thein
-
 Soe Tha
 Db
 Kyu Kyu Win
@@ -1694,11 +1653,9 @@ Hijo Soe Tha FN actualmente Australia
 Dd
 Wei Wei Lay
 Esposa Kyaw Myat Soe FN actualmente Australia
-
 Phone Myat Soe
 Hija Soe Tha FN
 Dh
-
 Thaung
 Antiguo Ministro Ciencia Tecnología Diputado parlamentarioCámara Baja FN LN Kyaukse
 Esposa Thaung
@@ -1717,7 +1674,6 @@ Hija Soe Naing
 Capitán Htun Zaw Win
 Esposo Wut Yi Oo
 Hijo Soe Naing
-
 Kyaw Thu
 Esposa Kyaw Thu
 SUBSECRETARIOS
@@ -2221,7 +2177,6 @@ Hermano Htay Myint FN Director Yuzana Co
 Hermano Htay Myint FN Director Yuzana Co
 Jf
 Zar Chi Htay
-
 Khin Htay Lin
 Shwe Thanlwin Trading Co Anexo III IV distribuidores exclusivos neumáticos Thaton control Ministerio Industria
 Nan Mauk Loung Sai alias Nang Mauk Lao Hsai
@@ -2421,7 +2376,6 @@ Director Gerente Kyaw Htoo Ministerio Comercio
 Kaba Aye Pagoda Road Mayangone Township Yangón Myanmar
 Director Gerente Oo Zune Ministerio Industria
 Director Gerente Hla Moe Ministerio Cooperativas
-
 Tay Za Jla anexo II
 Treasure Hotels and Resorts incluidos Myanmar Treasure Resort Ngwe Saung Myanmar Treasure Resort Bagan Myanmar Treasure Resort Inle
 Shwe Taung Gyar Street Bahan Township Yangón
@@ -2569,7 +2523,6 @@ Kyauktada Township
 Top Floor Wadan St Ward Lanmadaw Tsp Yangón
 Hijo General Jefe Than Shwe
 Propietario and Company
-
 Dra
 Ja
 Zaw Win Naing
@@ -3656,7 +3609,6 @@ modifica párrafo
 INFORMACIÓN REVELAR
 Naturaleza alcance riesgos surjan contratos seguro
 información riesgo crédito riesgo liquidez riesgo mercado obligatorio proporcionar párrafos NIIF contratos seguro estuvieran alcance NIIF
-
 necesario aseguradora facilite análisis vencimientos requerido párrafo NIIF revela lugar información calendario estimado salidas netas flujos efectivo procedentes pasivos seguros reconocidos
 información tomar forma análisis calendario estimado importes reconocidos situación financiera
 NIIF
@@ -4085,7 +4037,6 @@ Presidente
 DO
 ANEXO
 ANEXO
-
 COMUNIDAD MIEMBROS
 aplicación capítulo III Comunidad miembros sujeta limitaciones acceso mercado trato nacional estipuladas Comunidad miembros sección sectores lista compromisos AGCS relacionados subsectores listados abajo
 designar miembros utilizan abreviaturas siguientes
@@ -4519,7 +4470,6 @@ Autoridad Supervisión Financiera
 Banco Central Suecia
 Agencia Consumidores Suecia
 Reino Unido
-
 México Secretaría Hacienda Crédito Público
 México
 Dirección General Seguros Valores

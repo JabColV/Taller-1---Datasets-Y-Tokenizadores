@@ -1751,7 +1751,6 @@ miembro
 Zona
 Fecha aplicable artículo apartado letra inciso iii
 Código
-
 Nombre
 ALEMANIA
 zona km establecida brote municipio Großwoltersdorf incluidos municipios partes
@@ -2527,21 +2526,9 @@ semana corresponde
 mes corresponde
 trimestre corresponde
 Número máximo año civil
-
 horas
-
-
-
-
 horas
-
-
-
-
 horas
-
-
-
 caso regímenes períodos expresan unidades distintas
 meses semanas equivaldrán trimestre inversa
 año equivaldrá trimestres meses semanas inversa
@@ -2963,7 +2950,6 @@ cuantía alzado deberá próxima gastos reales
 Artículo
 Método cálculo importes alzado mensuales importe alzado
 miembro acreedor importe alzado mensual persona Fi año civil calculará dividiendo coste anual persona Yi desglosado categoría edad aplicando reducción cociente fórmula
-
 índice representa categorías edad consideradas cálculo alzado personas menores años
 personas edades comprendidas años
 personas años
@@ -4884,7 +4870,6 @@ régimen mencionado sección capítulo II aplicará productos subpartida
 productos subpartidas derecho específico limitado valor aduana arreglo régimen mencionado sección capítulo II
 ANEXO III
 CONVENIOS REFIERE ARTÍCULO
-
 Convenios ONU OIT referentes derechos humanos trabajadores
 Pacto Internacional Derechos Civiles Políticos
 Pacto Internacional Derechos Económicos Sociales Culturales
@@ -4902,7 +4887,6 @@ Convenio relativo Discriminación materia Empleo Ocupación
 Convenio Libertad Sindical Protección Derecho Sindicación
 Convenio relativo Aplicación Principios Derecho Sindicación Negociación Colectiva
 Convención Internacional Represión Castigo Crimen Apartheid
-
 Convenios relativos ambiente principios gobernanza
 Protocolo Montreal relativo Sustancias agotan Capa Ozono
 Convenio Basilea Control Movimientos Transfronterizos Desechos Peligrosos Eliminación

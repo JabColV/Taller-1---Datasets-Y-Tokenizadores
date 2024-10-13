@@ -1380,9 +1380,7 @@ CICAP
 aminometoxitrifluorometiltriazina kg
 diciembre
 noviembre
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión tritosulfurón apéndices II aprobado Comité permanente cadena alimentaria sanidad animal mayo
 evaluación general miembros deberán prestar especial atención
 posibilidad contaminación aguas subterráneas sustancia activa aplique regiones suelos condiciones climáticas vulnerables
@@ -2286,7 +2284,6 @@ demostrar nivel capital TV justificado autoridades danesas presentaron dictamen 
 dictamen coeficiente solvencia TV finales período investigado inferior radiodifusores escandinavos comparables TV tamaño actividades estructura mercados operaban
 conversión TV sociedad anónima lugar efecto retroactivo enero
 raíz cambio estatuto jurídico TV conversión sociedad anónima suprimieron serie medidas favor préstamos creación explotación intereses amortización exención fiscal
-
 Comisión reconoce haberse distorsionado mercado televisivo medida TV necesidad tipo impuesto sociedades establecer precios comerciales
 decisión anulada Tribunal Apelación Competencia noviembre posteriormente confirmada casación Audiencia Dinamarca Oriental junio
 sentencia recurrida Tribunal Supremo Dinamarca confirmó sentencia Audiencia marzo
@@ -2639,7 +2636,6 @@ Destino
 Tipos restituciones
 Huevos ave cáscara frescos conservados cocidos
 aves corral
-
 caso exportación ovoalbúmina incluida códigos NC
 caso exportación mercancías
 Huevos ave cáscara cascarón yemas huevo frescos secos cocidos agua vapor moldeados congelados conservados adición azúcar edulcorante
@@ -3309,12 +3305,10 @@ responsabilidad costas determinado resolución importes exactos siguientes
 Tasas judiciales
 Honorarios abogados
 Costes relativos notificación documentos
-
 especifíquese
 Intereses costas
 procede
 Intereses especificados resolución
-
 Firma sello órgano jurisdiccional origen
 Insértese información correspondiente demandantes resolución refiere
 Insértese información correspondiente demandados resolución refiere

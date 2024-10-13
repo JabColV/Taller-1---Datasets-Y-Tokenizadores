@@ -14,7 +14,6 @@ presente certificado
 válido período fecha inspección explotación origen centro concentración autorizado instalaciones autorizadas comerciante miembro origen
 arreglo dispuesto artículo apartado Directiva CEE expira indíquese fecha
 Notas
-
 Casilla indicar código NC correspondiente siguientes partidas
 Casilla utilizan recipientes cajas deberá indicarse número número precinto caso
 Casilla Sistema identificación animales deberán número individual permita identificar explotación origen conformidad Reglamento CE Consejo
@@ -190,7 +189,6 @@ laboratorio candidato referencia calcular
 valor medido neumático armonización medición conforme dispuesto anexo apartados Reglamento CEPE enmiendas posteriores corregido temperatura °C diámetro tambor
 valor caso laboratorio referencia caso laboratorios candidatos valores medidos neumático armonización
 desviación típica σm
-
 número neumáticos armonización
 número repeticiones mediciones realizadas neumáticos
 Formato datos cálculos resultados valores CRR medidos corregidos diámetro tambor temperatura redondearán decimal realizarán cálculos cifras redondeo ecuaciones finales armonización valores desviación típica presentarán decimales valores CRR presentarán decimales coeficientes armonización Bl Ac Bc redondearán presentarán decimales
@@ -433,7 +431,6 @@ FAO JEFCA Compendio especificaciones aditivos alimentarios monografía hidróxid
 Perros gatos peces ornamentales
 Seguridad
 manipulación preciso utilizar protección respiratoria protección ocular guantes ropa protectora
-
 concentración resultante sodio pienso deberá comprometer equilibrio electrolítico general
 marzo
 hallarse información detallada métodos analíticos siguientes direcciones
@@ -992,17 +989,14 @@ rechazarse alegación
 márgenes dumping definitivos expresados porcentaje precio importación cif frontera Comunidad libres derechos siguientes
 The Egyptian Ferroalloys Company Cairo
 Egyptian Chemical Industries KIMA Cairo
-
 falta cooperación estableció margen dumping ámbito nacional
 margen dumping definitivo expresado porcentaje precio importación cif frontera Comunidad libre derechos queda fijado
 productor exportador cooperó único productor conocido ferrosilicio Antigua República Yugoslava Macedonia
 márgenes dumping definitivos expresados porcentaje precio importación cif frontera Comunidad producto despachado aduana siguientes
 SILMAK DOOEL Export Import Jegunovce
-
 productores exportadores rusos cooperaron únicos productores conocidos FeSi Rusia
 Chemk Group Chelyabinsk Electrometallurgical Integrated Plant Kuznetsk Ferroalloy Works Chelyabinsk Novokuznetsk
 Grupo ICT Bratsk Ferroalloy Plant TD North West Ferro Alloy Company Bakersfield Marketing Ltd Bratsk San Petersburgo
-
 PERJUICIO
 Definición industria Comunidad
 partes interesadas alegaron evaluación perjuicio debía evaluación conjunto empresa empresa habida supuestas tendencias divergentes distintos productores comunitarios respecta perjuicio
@@ -1600,7 +1594,6 @@ Clordano
 Hexaclorobenceno
 Toxafeno
 Policlorobifenilos PCB
-
 DDT triclorobisclorofeniletano
 Clordecona
 Dibenzopdioxinas policloradas dibenzofuranos PCDD PCDF
@@ -1673,11 +1666,9 @@ Véase página presente Diario Oficial
 ANEXO
 anexo Reglamento UE queda modificado
 título anexo expresión SUSTANCIAS ACTIVAS AUTORIZADO PRODUCTOS FITOSANITARIOS sustituye expresión
-
 Sustancias activas consideran autorizadas arreglo Reglamento CE
 expresión Disposiciones generales aplicables sustancias recogidas presente anexo sustituye expresión Disposiciones generales aplicables sustancias recogidas presente
 añade
-
 Sustancias activas autorizadas arreglo Reglamento CE
 Disposiciones generales aplicables sustancias recogidas presente
 aplicación principios uniformes refiere artículo apartado Reglamento CE relación sustancia conclusiones informe revisión correspondiente apéndices II
@@ -1794,7 +1785,6 @@ Noruega
 Groenlandia
 Islas Feroe
 Turquía
-
 Islandia
 Únicamente ganado ovino doméstico
 ex ex ex
@@ -2037,7 +2027,6 @@ sustituye frase zona corresponde fases producción almacenamiento previo envasad
 fruta ultracongelada efectúan zona geográfica producción selección calibrado deshuesado ultracongelación
 Etiquetado
 Etiquetado adaptación modificaciones normativa
-
 Nombre composición agrupación
 AIAL pasa denominarse AMDL
 Supresión nombre presidente
@@ -4384,9 +4373,7 @@ CICAP
 hidroxiquinoleína
 enero
 diciembre
-
 autorizar usos fungicida bactericida invernaderos
-
 aplicación principios uniformes refiere artículo apartado Reglamento CE conclusiones informe revisión hidroxiquinoleína apéndices II aprobado Comité permanente cadena alimentaria sanidad animal julio
 evaluación general miembros deberán prestar especial atención seguridad operarios velarán condiciones incluyan proceda empleo equipo protección individual adecuado
 solicitante deberá presentar información confirmatoria hidroxiquinoleína sales

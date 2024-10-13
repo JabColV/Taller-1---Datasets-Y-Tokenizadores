@@ -13,7 +13,6 @@ caso obtenga resultado contempla punto considerará modelo modelos aspiradora eq
 autoridades miembros emplearán métodos medición cálculo establece anexo VI
 tolerancias verificación contempla presente anexo refieren únicamente verificación parámetros medidos autoridades miembros deberán utilizadas suministrador tolerancia permitida establecer valores indicados documentación técnica
 valores clases figuren etiqueta ficha producto favorables suministrador recogidos documentación técnica
-
 Parámetro
 Tolerancias verificación
 valor determinado superior valor declarado
@@ -309,7 +308,6 @@ DO
 ANEXO
 PREPARACIÓN PRESENTACIÓN SOLICITUDES
 solicitud deberá contener información
-
 INFORMACIÓN GENERAL
 Nombre dirección solicitante empresa institución
 Nombre cualificación experiencia científico científicos responsables información contacto persona responsable tratar Autoridad Europea Seguridad Alimentaria EFSA
@@ -433,7 +431,6 @@ solicitud incluirá
 propuesta etiquetado lenguas oficiales Unión caso requiera propuesta etiquetado específico artículo apartado letra artículo apartado letra Reglamento CE
 declaración motivada alimento pienso genera inquietudes orden ético religioso propuesta etiquetado lenguas oficiales Unión requiere artículo apartado letra artículo apartado letra Reglamento CE
 proceda propuesta etiquetado cumpla requisitos anexo IV sección punto Directiva CE
-
 MÉTODOS DETECCIÓN MUESTREO IDENTIFICACIÓN MATERIAL REFERENCIA
 solicitante deberá proporcionar métodos detección muestreo identificación muestras alimento pienso muestras control Laboratorio Referencia Unión Europea LRUE refiere artículo Reglamento CE
 solicitud deberá incluir copia formulario cumplimentado presentación tales muestras LRUE prueba envío LRUE
@@ -3094,9 +3091,7 @@ REINO SUECIA
 REINO UNIDO BRETAÑA IRLANDA NORTE
 Partes Contratantes Tratado Unión Europea Tratado Funcionamiento Unión Europea sucesivo denominados miembros
 UNIÓN EUROPEA sucesivo denominada Unión
-
 REPÚBLICA IRAQ sucesivo denominada Iraq
-
 sucesivo denominadas conjuntamente Partes
 CONSIDERANDO vínculos Unión miembros Iraq valores comunes comparten
 RECONOCIENDO Unión miembros Iraq desean consolidar vínculos establecer comercio cooperación apoyados diálogo político
@@ -3478,7 +3473,6 @@ Normas origen
 efectos contratación cubierta Partes aplicarán normas origen bienes servicios importados suministrados normas origen aplica curso normal comercio importaciones suministros bienes servicios
 Artículo
 Publicación información procedimiento contratación
-
 publicará demora leyes reglamentos resoluciones judiciales resoluciones administrativas aplicación general cláusulas contractuales normalizadas exigidas ley reglamentos incorporadas referencia comunicaciones documentación relativos procedimientos contratación cubierta modificación comunicación oficial electrónico escrito amplia difusión fácilmente accesible público
 facilitará explicaciones petición
 incorporará apéndice II anexo presente lista medios comunicación electrónicos escritos publique información descrita letra
@@ -3562,7 +3556,6 @@ negociaciones hayan concluido ofrecerá proveedores plazo presentar ofertas revi
 Artículo
 Procedimiento licitación restringida
 entidad contratante utilizar procedimiento licitación restringida elegir aplicar artículos siguientes condiciones
-
 presentado oferta proveedor solicitado participar
 presentado oferta ajuste requisitos esenciales expediente licitación
 proveedor cumpla condiciones participación
@@ -4461,9 +4454,7 @@ Polisulfuro calcio
 Kg
 junio
 mayo
-
 autorizar usos fungicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión sulfuro calcio particular apéndices II finalizado Comité permanente cadena alimentaria sanidad animal marzo
 evaluación general miembros deberán prestar especial atención
 seguridad operarios velar condiciones autorización incluyan medidas protección adecuadas

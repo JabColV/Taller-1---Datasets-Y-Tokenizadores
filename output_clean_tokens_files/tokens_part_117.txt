@@ -252,7 +252,6 @@ BOT
 baja
 elevada
 elevada
-
 institucional
 subasta
 BTP
@@ -700,7 +699,6 @@ carta marzo Comisión solicitó ABI aclaraciones proporcionó carta mayo
 carta mayo Comisión transmitió observaciones ABI autoridades italianas respondieron carta junio
 Año
 diciembre
-
 período cubierto muestra obligaciones bancarias permite extraer conclusiones útiles comportamiento comisiones colocación años
 razones estadísticas construir serie temporal significativa correspondiente período
 cuadro muestra diferencias comisiones iniciales globales estimadas BFP base análisis regresión muestra obligaciones bancarias diferencias comisiones recalculadas percibidas PI BFP
@@ -4414,7 +4412,6 @@ caso Bulgaria Grecia ruega mencionar apellido padre caso Grecia Letonia mención
 caso España Francia Italia Austria Polonia Rumanía menciónese dirección
 caso Grecia Francia Malta Portugal Rumanía menciónese fecha nacimiento Luxemburgo menciónese lugar nacimiento Italia Letonia Austria Eslovenia Suecia menciónense fecha lugar nacimiento
 caso documentos identidad Italia menciónese igualmente autoridad expedición
-
 Lista miembros requieren facilitación número identificación personal número documento identificación personal formulario declaración apoyo figura
 miembro
 Firmantes cuya declaración apoyo presentará miembro trate
@@ -4660,9 +4657,7 @@ clorobencenosulfonamida INA máximo kg
 metoximetiltriazinamina INA máximo kg
 enero
 diciembre
-
 autorizar usos herbicida
-
 aplicación principios uniformes anexo VI conclusiones informe revisión clorsulfurón particular apéndices II ultimaron Comité permanente cadena alimentaria sanidad animal febrero
 evaluación general miembros deberán prestar especial atención
 protección organismos acuáticos plantas diana relación riesgos identificados deberán aplicarse proceda medidas reducción riesgo ejemplo zonas tampón

@@ -281,9 +281,7 @@ aumento toneladas peso neto
 Naranjas frescas secas
 aumento toneladas peso neto
 Exención
-
 período
-
 Naranjas dulces frescas
 aumento toneladas peso neto
 Exención
@@ -292,7 +290,6 @@ melones frescos
 aumento toneladas peso neto
 período
 Fresas frescas
-
 período
 Jugos frutas incluido mosto uva legumbres hortalizas fermentar alcohol azucarados edulcorados
 aumento toneladas peso neto
@@ -302,14 +299,8 @@ aumento realizará volumen toneladas peso neto
 aumento realizará volumen toneladas peso neto
 octubre volumen arancelario aumentará anualmente volumen período contingentario
 aumento realizará volumen toneladas peso neto
-
-
 período
-
 período
-
-
-
 DO Reglamento cuya modificación constituye Reglamento CE Comisión DO
 Reglamento CE Comisión
 septiembre
@@ -1174,7 +1165,6 @@ DO
 DO
 actualizaciones CCRVMA lista INDNR adoptada reunión anual CCAMLRXXXII octubre noviembre SEAFO SEAFO incluye lista INDNR listas CCRVMA CPANEB NAFO adoptada Comité cumplimiento diciembre CICAA lista INDNR adoptada reunión anual noviembre Recomendación CIAT lista adoptada reunión junio CPANE AM Lista INDNR adoptada reunión anual noviembre NAFO lista adoptada reunión anual celebrada septiembre CPPOC Lista buques INDNR WCPFC efecto febrero WCPFC CAOI Lista buques INDNR CAOI revisada sesión CAOI mayo
 ANEXO
-
 Buques inscritos lista virtud artículo Reglamento CE
 Número OMI identificación buque referencia OROP
 Nombre buque nombre
@@ -3763,7 +3753,6 @@ Desglose actividades económicas arreglo siguientes agregados NACE Rev
 Agregación NACE
 Desglose clases tamaño datos desglosarán arreglo siguientes clases tamaño basadas número empleados
 Clase tamaño
-
 pequeñas empresas
 medianas empresas
 empresas
@@ -4429,7 +4418,6 @@ CIP añade demostró capaz atraer buque francés clientela norteamericana
 informe Instituto Emisión ultramar San Pedro Miquelón desprende vendían destino operadores turísticos norteamericanos frente operadores franceses
 Comisión constató marco Decisión CE julio declara operación concentración compatible mercado común funcionamiento EEE asunto COMP Carnival Corporation Princess DO mercado cruceros básicamente mercado nacional
 efecto mandato gestión desprende CIL encarga aspectos explotación buque poderes necesarios queda excluida intromisión inversores explotación
-
 Véase ejemplo sentencia Tribunal Justicia enero asunto Ministero dell Economia delle Finanze Cassa di Risparmio di Firenze apartado Rec
 sociedad cuestión solicitó identidad hiciera pública presente Decisión hará referencia denominación Banco
 CIL filial controlada CIP garantiza conjunto compromisos suscritos CIL marco operación financiación Levant
@@ -4608,7 +4596,6 @@ Nombre dirección establecimiento
 producidoas clasificadoas manipuladoas procesadoas envasadoas transportadoas prácticas higiene
 remesa tomaron número muestras muestras fecha sometieron análisis laboratorio fecha nombre laboratorio determinar nivel contaminación aflatoxina aflatoxina adjuntan detalles muestreo métodos análisis aplicados resultados obtenidos
 presente certificado válido
-
 Sello firma representante autorizado autoridad competentec ontemplada artículo apartado
 Producto país origen
 remesa refiere presente certificado sanitario sometida resultado favorable control marcar casilla correspondiente
@@ -4709,7 +4696,6 @@ Suecia
 Reino Unido
 Belfast Dover Felixstowe Gatwick Airport Goole Harwich Heathrow Airport Hull Ipswich Liverpool Londres incluidos Tilbury Thamesport Sheerness Manchester Airport Manchester Container Base Manchester International Freight Terminal Manchester Ellesmere Port Southampton Teesport
 Conforme dispuesto Decisión CE Comisión condiciones especiales sujetos determinados productos alimenticios importados determinados terceros países riesgos contaminación productos aflatoxinas
-
 Athina Pireas Elefsina aeropuerto internacional Atenas Thessaloniki Volos Patra Iraklion Kritis Larisa Katerini Veria Drama Serres Kavala Xanthi Alexadroupolis Rodos
 Algeciras puerto Alicante aeropuerto puerto Almería aeropuerto puerto Asturias aeropuerto Barcelona aeropuerto puerto ferrocarril Bilbao aeropuerto puerto Cádiz puerto Cartagena puerto Castellón puerto Ceuta puerto Gijón puerto Huelva puerto Irún carretera Coruña puerto Junquera carretera Palmas Canaria aeropuerto puerto Madrid aeropuerto ferrocarril Málaga aeropuerto puerto Marín puerto Melilla puerto Murcia ferrocarril Palma Mallorca aeropuerto puerto Pasajes puerto San Sebastián aeropuerto Santa Cruz Tenerife puerto Santander aeropuerto puerto Santiago Compostela aeropuerto Sevilla aeropuerto puerto Tarragona puerto Tenerife Norte aeropuerto Tenerife Sur aeropuerto Valencia aeropuerto puerto Vigo aeropuerto puerto Villagarcía puerto Vitoria aeropuerto Zaragoza aeropuerto
 Marseille BouchesduRhône Havre SeineMaritime Rungis MIN ValdeMarne Lyon Chassieu CRD Rhône Strasbourg CRD BasRhin Lille CRD Nord SaintNazaire Montoir CRD LoireAtlantique Agen LotetGaronne Port Pointe des Galets Réunion

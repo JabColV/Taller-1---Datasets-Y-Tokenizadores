@@ -111,7 +111,6 @@ Botiquín auxilios
 aviones deberán equipados botiquines auxilios conformidad tabla
 Número botiquines auxilios requeridos
 Número asientos pasajeros instalados
-
 botiquines auxilios deberán
 fácil acceso
 mantenerse condiciones
@@ -1595,7 +1594,6 @@ Indicaciones Tratamiento infecciones fúngicas oculares
 Ventajas específicas tópico ojo afectado amplia actividad antifúngica menor irritación agentes antifúngicos
 Indicaciones Tratamiento infecciones fúngicas ojos aparato genital
 Ventajas específicas Actividad específica infecciones hongos
-
 Sulfato condroitina
 Indicaciones Cicatrización cartílago
 Condroprotección
@@ -2769,7 +2767,6 @@ superficie ejercicio incluir pastos
 Peso mínimo vivo kg
 cabeza
 Ganado reproducción engorde bovinos équidos
-
 mínimo kg
 mínimo kg
 Vacas lecheras
@@ -3183,7 +3180,6 @@ Simiente rábano picante
 Galanga
 Flores cártamo
 Berro fuente
-
 Algas incluidas marinas autorizadas preparación productos alimenticios ecológicos
 PRODUCTOS VEGETALES
 Grasas aceites refinados modificados químicamente obtenidos vegetales
@@ -3574,12 +3570,6 @@ Anexo XIII
 sistema control basado Reglamento CE Parlamento Europeo Consejo abril controles oficiales efectuados garantizar verificación cumplimiento legislación materia piensos alimentos normativa salud animal bienestar animales establecerse medidas control específicas concretamente requisitos específicos aplicables fases producción preparación distribución relacionadas productos ecológicos
 DO
 Versión corregida DO
-
-
-
-
-
-
 aditivos enumerados deberán autorizados arreglo Reglamento CE Parlamento Europeo Consejo aditivos alimentación animal
 Aditivos nutricionales
 Anexo IC
@@ -3810,9 +3800,6 @@ Motores encendido chispa
 Motores encendido compresión
 Gasolina
 Diésel
-
-
-
 Cuadro
 Requisitos
 Gases contaminantes
@@ -3941,7 +3928,6 @@ Masa gas escape diluido equivalente ciclo
 Masa gas escape ciclo
 Masa muestra partículas recogida
 Masa muestra partículas aire dilución recogida
-
 Caudal másico emisiones gaseosas
 Masa muestra ciclo
 Masa muestra gas escape diluido filtros muestreo partículas
@@ -4648,7 +4634,6 @@ logaritmo natural valor medición aplicado factor deterioro pertinente motor nú
 estimación desviación típica producción aplicar logaritmo natural mediciones
 número muestra utilizada
 muestra calculará suma desviaciones típicas límite fórmula
-
 resultado estadístico ensayo superior número correspondiente decisión aprobado figura cuadro tamaño muestra cuestión adoptará decisión aprobado contaminante
 resultado estadístico ensayo inferior número correspondiente decisión rechazo figura cuadro tamaño muestra cuestión adoptará decisión rechazo contaminante
 casos someterá ensayo motor adicional punto aplicará procedimiento cálculo muestra aumentada unidad
@@ -4668,7 +4653,6 @@ xi logaritmos naturales valores medidos aplicado factor deterioro pertinente ser
 cuadro figuran números correspondientes decisión aprobado An rechazo Bn tamaño muestra utilizada
 resultado estadístico ensayo relación
 utilizará determinar aprueba suspende serie
-
 aprueba serie
 rechaza serie sid
 medición An

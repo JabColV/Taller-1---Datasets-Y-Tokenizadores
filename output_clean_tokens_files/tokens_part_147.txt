@@ -591,24 +591,19 @@ notas anexo IV Reglamento CE Comisión aplicación anexo datos resultantes anál
 Azúcares
 utilizará cromatografía fase líquida alta precisión HPLC dosificar individualmente azúcares
 contenido sacarosa menciona columna anexo IV Reglamento CE
-
 contenido glucosa superior fructosa
-
 contenido glucosa inferior fructosa
-
 contenido sacarosa determinado HPLC
 contenido fructosa determinado HPLC
 contenido glucosa determinado HPLC
 declara presencia hidrolizado lactosa descubren cantidades lactosa galactosa contenido glucosa equivalente galactosa determinado HPLC deducirá contenido glucosa efectuar cálculo
 contenido glucosa menciona columna anexo IV Reglamento CE
-
 contenido glucosa superior fructosa
 cero
 contenido glucosa inferior fructosa
 Almidón dextrinas
 dextrinas calcularán almidón
 códigos NC distintos códigos NC contenido almidón dextrinas indica columna anexo IV Reglamento CE corresponderá fórmula
-
 contenido glucosa determinado método descrito anexo Reglamento CEE Comisión contenido glucosa determinado HPLC
 códigos NC contenido almidón dextrinas determinado aplicando método cita anexo II Reglamento CEE
 Contenido materias grasas leche
@@ -1193,7 +1188,6 @@ transformación llevarse cabo sistema continuo discontinuo
 color firma sello deberá caracteres imprenta
 Nitta Gelatin Inc
 Expedidor nombre dirección completos
-
 EEUU
 EEUU
 EEUU
@@ -1227,18 +1221,15 @@ DO
 Reglamento modificado lugar Reglamento CE DO
 ANEXO
 anexo Decisión CE añaden partes siguientes
-
 clasificación canales cerdo llevará cabo aparato denominado Autofom
 aparato equipado transductores ultrasónicos funcionen MHz SFK Technology KKG distancia operativa transductores milímetros
 datos ultrasónicos incluirán mediciones espesor grasa dorsal espesor muscular
 unidad central convertirá resultados mediciones porcentaje estimado carne magra
 contenido carne magra canal calculará puntos medición fórmula
-
 porcentaje estimado carne magra canal
 variables medidas Autofom
 descripciones puntos medición método estadístico figuran II protocolo francés presentado Comisión arreglo dispuesto artículo apartado Reglamento CEE
 fórmula válida canales peso comprendido kilogramos
-
 clasificación canales cerdo llevará cabo aparato denominado UltraFom
 aparato irá equipado sonda ultrasónica MHz SFK Technology longitud cm transductores ultrasónicos
 señal ultrasónica digitalizada almacenada procesada microprocesador
@@ -2199,7 +2190,6 @@ valor normal ponderado comparó precio exportación ponderado conformidad artíc
 efectuadas correcciones valores normales país análogo márgenes dumping definitivos productores exportadores chinos siguientes
 Empresa
 Margen dumping
-
 establecimiento medidas provisionales utilización datos exportación disponibles República Moldova proporcionaría imagen exacta dumping practicado país
 margen dumping definitivo ámbito nacional calculó base precios exportación productores conocidos
 efectuar correcciones valores normales país análogo precio exportación ajustes descrito anteriormente margen dumping definitivo República Moldova estableció
@@ -2470,7 +2460,6 @@ anexo II Directiva CE quedará modificado
 punto Método análisis utilizar laboratorio medidas control laboratorio cuadro añadirá punto
 Criterios aptitud Enfoque función incertidumbre
 formas emplear enfoque incertidumbre evaluar adecuación método análisis utilizar laboratorio
-
 Uf incertidumbre estándar máxima
 LOD límite detección método
 concentración
@@ -3324,7 +3313,6 @@ volumen crítico dilución VCDtox cr calcula sustancia entrante producto aplican
 VCDtox cr
 pesoi
 FTtox cri
-
 peso peso sustancia entrante dosis recomendada
 FD factor degradación
 FT factor toxicidad crónica sustancia indica lista DID
@@ -3466,7 +3454,6 @@ cociente peso utilidad CPU producto sobrepasar valores siguientes
 polvo solución lavado
 líquido solución lavado
 CPU calculará envase primario incluidos cierres tapones dispositivos nebulización bombas manuales aplicando fórmula
-
 peso material reciclado virgen componente envase proporción material reciclado componente envase Ui Wi
 Excepciones
 envases plástico papel cartón contengan material reciclado plástico origen renovable estarán exentos requisito
@@ -3651,7 +3638,6 @@ Cantidad aproximada
 Años cosecha
 Tipos arroz
 Redondo
-
 cantidad arroz cáscara almacenada actualmente organismo intervención italiano importante período almacenamiento resulta conveniente convocar licitación permanente reventa mercado interior cerca toneladas arroz cáscara posesión organismo
 Reglamento Ejecución UE Comisión
 mayo
